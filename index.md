@@ -4,32 +4,21 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: We are launching soon!
 sections:
   - hero:
       title: ConnexionSG
       subtitle: Where we learn and discover all things Singapore and Singaporean!
       background: /images/hero-banner.png
-      button: Contact Us
+      button: About us
       url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+  - resources:
+      title: All Media
+      button: View More
   - infobar:
       title: Infobar title
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
 ---
