@@ -11,7 +11,7 @@ sections:
       subtitle: Where we learn and discover all things Singapore and Singaporean!
       background: /images/20627059_1659545014087457_1124741366636516332_o.jpg
       button: About us
-      url: /contact-us/
+      url: /about-us/
   - resources:
       title: All Media
       button: View More
