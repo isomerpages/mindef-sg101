@@ -13,8 +13,9 @@ sections:
       button: About us
       url: /about-us/
   - resources:
-      title: All Media
+      title: Articles
       button: View More
+      subtitle: Connexionsg
   - infobar:
       title: Infobar title
       subtitle: Subtitle
