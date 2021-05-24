@@ -52,4 +52,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://mindef-connexion-staging.netlify.app
 prod: https://mindef-connexion-prod.netlify.app
-is_government: false
+is_government: true
