@@ -10,4 +10,4 @@ ConnexionSG is about all things Singaporean. This is the place to talk about and
 
 We’ll be posting links, articles and blog posts that we think are interesting and say something about national identity, sense of belonging and how we can make Singapore a better place. Let us know what you think about them and post things that you find interesting too!
 
-ConnexionSG is an initiative by Nexus (www.nexus.gov.sg).
+ConnexionSG is an initiative by Nexus ([https://www.mindef.gov.sg/oms/nexus/](https://www.mindef.gov.sg/oms/nexus/)).
