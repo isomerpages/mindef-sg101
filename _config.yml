@@ -2,17 +2,17 @@ title: ConnexionSG
 url: ""
 favicon: /images/ConnexionSG-Logo.png
 colors:
-  primary-color: "#000000"
+  primary-color: "#323594"
   secondary-color: "#4a90e2"
   media-colors:
     - title: media-color-one
-      color: "#f5a623"
+      color: "#ED7D31"
     - title: media-color-two
-      color: "#8b572a"
+      color: "#4a90e2"
     - title: media-color-three
       color: "#9b9b9b"
     - title: media-color-four
-      color: "#4a4a4a"
+      color: "#B21238"
     - title: media-color-five
       color: "#00838f"
 resources_name: example-resource
