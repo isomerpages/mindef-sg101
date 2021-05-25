@@ -8,5 +8,8 @@ links:
     url: /Resources
   - title: Contact Us
     url: /contact-us/
-  - title: Test 1
+  - title: HIstory
     url: /permalink
+    sublinks:
+      - title: Hereitage
+        url: /permalink
