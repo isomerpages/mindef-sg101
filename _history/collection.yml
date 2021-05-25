@@ -2,4 +2,5 @@ collections:
   history:
     output: true
     order:
+      - heretiage/.keep
       - test.md
