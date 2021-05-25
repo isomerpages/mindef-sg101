@@ -1,6 +1,0 @@
-collections:
-  history:
-    output: true
-    order:
-      - heretiage/.keep
-      - heretiage/test.md
