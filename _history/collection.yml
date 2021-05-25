@@ -1,5 +1,5 @@
 collections:
-  heretiage:
+  history:
     output: true
     order:
       - test.md
