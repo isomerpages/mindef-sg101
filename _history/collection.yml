@@ -2,6 +2,7 @@ collections:
   history:
     output: true
     order:
+      - singapores-first/.keep
       - on-this-day/.keep
       - on-this-day/bukit-ho-swee-fire.md
       - on-this-day/nicoll-highway-collapse.md
