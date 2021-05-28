@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - hereitage/.keep
+      - hereitage/church-of-the-blessed-sacrament.md
