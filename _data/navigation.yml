@@ -6,9 +6,9 @@ links:
     collection: architecture
   - title: Food
     collection: food
+  - title: History
+    collection: history
   - title: Resources
     url: /Resources
   - title: Contact Us
     url: /contact-us/
-  - title: History
-    collection: history
