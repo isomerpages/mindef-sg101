@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - on-this-day/.keep
+      - on-this-day/bukit-ho-swee-fire.md
