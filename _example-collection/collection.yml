@@ -2,5 +2,4 @@ collections:
   example-collection:
     output: true
     order:
-      - example-page.md
       - church-of-the-blessed-sacrament.md
