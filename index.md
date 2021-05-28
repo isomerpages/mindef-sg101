@@ -8,7 +8,7 @@ notification: We are launching soon!
 sections:
   - hero:
       title: ConnexionSG
-      subtitle: Where we learn and discover all things Singapore and Singaporean!
+      subtitle: Discover all things Singapore & Singaporean
       background: /images/20627059_1659545014087457_1124741366636516332_o.jpg
       dropdown:
         title: I'm curious about...
@@ -17,6 +17,8 @@ sections:
             url: /architecture/
           - title: Food
             url: /food/
+          - title: History
+            url: ""
   - infopic:
       title: ConnexionSG
       subtitle: Connect with us!
