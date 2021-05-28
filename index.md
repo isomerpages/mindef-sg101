@@ -24,9 +24,4 @@ sections:
       url: https://www.facebook.com/ConnexionSG
       image: /images/220581_442503275791643_486290741_o.jpg
       alt: Facebook
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
 ---
