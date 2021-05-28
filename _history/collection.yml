@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - singapores-first/.keep
+      - singapores-first/national-campaign.md
       - on-this-day/.keep
       - on-this-day/bukit-ho-swee-fire.md
       - on-this-day/nicoll-highway-collapse.md
