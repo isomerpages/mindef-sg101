@@ -11,7 +11,7 @@ sections:
       subtitle: Where we learn and discover all things Singapore and Singaporean!
       background: /images/20627059_1659545014087457_1124741366636516332_o.jpg
       dropdown:
-        title: Articles
+        title: I'm curious about...
         options:
           - title: Architecture
             url: /architecture/
