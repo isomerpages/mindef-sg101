@@ -12,13 +12,11 @@ sections:
       background: /images/20627059_1659545014087457_1124741366636516332_o.jpg
       button: About us
       url: /about-us/
-  - resources:
-      title: Articles
-      button: View More
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: ConnexionSG
+      subtitle: Connect with us!
+      button: Facebook
+      url: https://www.facebook.com/ConnexionSG
+      image: /images/220581_442503275791643_486290741_o.jpg
+      alt: Facebook
 ---
