@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - food-history/.keep
+      - food-history/foodhistory-ice-cream-bread.md
       - food-for-thought/.keep
       - food-for-thought/foodforthought-rojak.md
