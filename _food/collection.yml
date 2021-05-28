@@ -1,4 +1,5 @@
 collections:
   food:
     output: true
-    order: []
+    order:
+      - foodforthought-rojak.md
