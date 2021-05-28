@@ -1,5 +1,5 @@
 collections:
-  example-collection:
+  architecture:
     output: true
     order:
       - church-of-the-blessed-sacrament.md
