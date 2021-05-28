@@ -1,8 +1,9 @@
 ---
-title: Church Of The Blessed Sacrament
+title: Church of the Blessed Sacrament
 permalink: /permalink
 third_nav_title: Hereitage
 ---
+
 ### It’s hard to miss the “origami” roof of the Church of the Blessed Sacrament in Queenstown. 
 ![Alt text for image on Isomer site](/images/bsc_roots.jpg)
 
