@@ -24,6 +24,6 @@ sections:
       subtitle: Connect with us!
       button: Facebook
       url: https://www.facebook.com/ConnexionSG
-      image: /images/220581_442503275791643_486290741_o.jpg
+      image: /images/csg1.jpg
       alt: Facebook
 ---
