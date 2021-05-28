@@ -14,11 +14,11 @@ sections:
         title: I'm curious about...
         options:
           - title: Architecture
-            url: /folder/architecture/
+            url: https://mindef-connexion-staging.netlify.app/architecture/hereitage/permalink
           - title: Food
-            url: /folder//food/
+            url: https://mindef-connexion-staging.netlify.app/food/permalink
           - title: History
-            url: /folder/history/
+            url: https://mindef-connexion-staging.netlify.app/history/singapores-first/permalink
   - infopic:
       title: ConnexionSG
       subtitle: Connect with us!
