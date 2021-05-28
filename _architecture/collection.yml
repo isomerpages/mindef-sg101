@@ -2,4 +2,5 @@ collections:
   architecture:
     output: true
     order:
+      - hereitage/.keep
       - church-of-the-blessed-sacrament.md
