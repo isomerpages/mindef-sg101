@@ -14,11 +14,11 @@ sections:
         title: I'm curious about...
         options:
           - title: Architecture
-            url: /architecture/
+            url: /folder/architecture/
           - title: Food
-            url: /food/
+            url: /folder//food/
           - title: History
-            url: ""
+            url: /folder/history/
   - infopic:
       title: ConnexionSG
       subtitle: Connect with us!
