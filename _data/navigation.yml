@@ -4,10 +4,10 @@ links:
     url: /about-us
   - title: Places
     collection: places
-  - title: Food
-    collection: food
   - title: History
     collection: history
+  - title: Food
+    collection: food
   - title: Resources
     url: /Resources
   - title: Contact Us
