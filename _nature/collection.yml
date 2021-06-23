@@ -1,4 +1,5 @@
 collections:
   nature:
     output: true
-    order: []
+    order:
+      - even-better/.keep
