@@ -2,8 +2,8 @@ collections:
   history:
     output: true
     order:
-      - sg-eastern-water-shipwrecks/.keep
-      - sg-eastern-water-shipwrecks/shipwreck-artefacts-in-singapore-eastern-waters-excavated.md
+      - sg-eastern-waters-shipwrecks/.keep
+      - sg-eastern-waters-shipwrecks/shipwreck-artefacts-in-singapore-eastern-waters-excavated.md
       - singapores-first/.keep
       - singapores-first/national-campaign.md
       - singapores-first/bicycle-licence.md
