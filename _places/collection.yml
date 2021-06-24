@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - streets-of-singapore/.keep
-      - streets-of-singapore/streets-of-singapore.md
+      - streets-of-singapore/our-grandmothers-road.md
       - stumbling/.keep
       - stumbling/old-changi-hospital.md
       - stumbling/the-last-dragon.md
