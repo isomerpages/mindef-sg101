@@ -1,8 +1,9 @@
 ---
-title: Stumbling- Old Changi Hospital
+title: "Stumbling: Old Changi Hospital"
 permalink: /places/permalink
 third_nav_title: Stumbling
 ---
+
 
 
 #### Changi's (Not So Hidden) Hospital
