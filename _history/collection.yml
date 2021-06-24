@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - shipwreck/.keep
+      - shipwreck/twin-shipwrecks-in-singapores-eastern-waters-excavated.md
       - singapores-first/.keep
       - singapores-first/national-campaign.md
       - singapores-first/bicycle-licence.md
