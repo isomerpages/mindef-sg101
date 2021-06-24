@@ -4,6 +4,7 @@ collections:
     order:
       - streets-of-singapore/.keep
       - streets-of-singapore/our-grandmothers-road.md
+      - streets-of-singapore/out-of-place.md
       - stumbling/.keep
       - stumbling/old-changi-hospital.md
       - stumbling/the-last-dragon.md
