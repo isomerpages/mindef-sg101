@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - stumbling/.keep
-      - stumbling/stumbling-old-changi-hospital.md
+      - stumbling/old-changi-hospital.md
       - hereitage/.keep
       - hereitage/church-of-the-blessed-sacrament.md
       - hereitage/kampong-silat-estate.md
