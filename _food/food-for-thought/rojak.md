@@ -6,7 +6,7 @@ third_nav_title: Food For Thought
 ### We all have our own ideas about what makes the best Rojak. 
 ![Alt text for image on Isomer site](/images/186548102_5514269018615018_2062938971880375410_n.jpg)
 
-###### Some say it’s the ratio of ingredients — more dough fritters, jambu or pineapple — and others fixate on the sauce — a sticky, black substance made of fermented prawn paste, sugar, lime, and chilli paste. Some may add a second handful of chopped peanuts for good measure, while others hold off on the coriander or chilli. We often eat it out of a paper plate with long, wooden picks. Simple, practical, and without frills.
+##### Some say it’s the ratio of ingredients — more dough fritters, jambu or pineapple — and others fixate on the sauce — a sticky, black substance made of fermented prawn paste, sugar, lime, and chilli paste. Some may add a second handful of chopped peanuts for good measure, while others hold off on the coriander or chilli. We often eat it out of a paper plate with long, wooden picks. Simple, practical, and without frills.
 
 The humble fruit rojak, a staple in our hawker centres and food courts, has gained fans beyond our shores, and is well loved by locals and tourists alike. It was mentioned in the 2016 Michelin Guide, and Hoover Rojak, on Balestier Road, was awarded a Bib Gourmand that year.
 
