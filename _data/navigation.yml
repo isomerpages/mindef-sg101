@@ -8,12 +8,10 @@ links:
     collection: history
   - title: Food
     collection: food
-  - title: Nature and Environment
+  - title: Nature & Environment
     url: /nature-and-environment/permalink
-  - title: Nature And Environment menu
-    collection: nature-and-environment
-  - title: Today I Learnt
-    collection: today-i-learnt
+  - title: "#TIL"
+    url: today-i-learnt/permalink
   - title: Resources
     url: /Resources
   - title: Contact Us
