@@ -1,5 +1,4 @@
 collections:
   nature-and-environment:
     output: true
-    order:
-      - even-better/.keep
+    order: []
