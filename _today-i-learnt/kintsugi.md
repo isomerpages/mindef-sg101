@@ -1,7 +1,8 @@
 ---
-title: kintsugi
+title: "Kintsugi "
 permalink: /today-i-learnt/permalink
 ---
+
 ####  #TIL Today I Learnt that Kintsugi (golden repair) is a Japanese pottery repair method that dates back more than 400 years. 
 
 ![Alt text for image on Isomer site](/images/til_kintsugi.png)
