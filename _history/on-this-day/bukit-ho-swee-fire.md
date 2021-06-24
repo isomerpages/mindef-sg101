@@ -3,7 +3,7 @@ title: Bukit Ho Swee Fire
 permalink: /history/on-this-day/permalink
 third_nav_title: On This Day
 ---
-### On 25 May 1961, at around 3.30pm, a small fire that began at a makeshift squatter hut on Kampong Tiong Bahru Road spread to neighbouring Bukit Ho Swee, where almost 20,000 people were in attap huts at the time. 
+#### On 25 May 1961, at around 3.30pm, a small fire that began at a makeshift squatter hut on Kampong Tiong Bahru Road spread to neighbouring Bukit Ho Swee, where almost 20,000 people were in attap huts at the time. 
 
 ![Alt text for image on Isomer site](/images/183798906_5529375907104329_1496355667352748066_n.jpg)
 
