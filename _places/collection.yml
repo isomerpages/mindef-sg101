@@ -2,6 +2,7 @@ collections:
   places:
     output: true
     order:
+      - streets-of-singapore/.keep
       - stumbling/.keep
       - stumbling/old-changi-hospital.md
       - stumbling/the-last-dragon.md
