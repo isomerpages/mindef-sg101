@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - stumbling/.keep
+      - stumbling/stumbling.md
       - hereitage/.keep
       - hereitage/church-of-the-blessed-sacrament.md
       - hereitage/kampong-silat-estate.md
