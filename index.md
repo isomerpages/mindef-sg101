@@ -4,7 +4,7 @@ title: ConnexionSG
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Happy SAF Day!
+notification: ""
 sections:
   - hero:
       title: ConnexionSG
