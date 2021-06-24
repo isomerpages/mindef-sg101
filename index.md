@@ -13,17 +13,23 @@ sections:
       dropdown:
         title: I'm curious about...
         options:
-          - title: Architecture
-            url: https://mindef-connexion-staging.netlify.app/architecture/hereitage/permalink
+          - title: Places
+            url: https://mindef-connexion-staging.netlify.app/places/permalink
+          - title: History
+            url: https://mindef-connexion-staging.netlify.app/history/shipwreck/permalink
           - title: Food
             url: https://mindef-connexion-staging.netlify.app/food/permalink
-          - title: History
-            url: https://mindef-connexion-staging.netlify.app/history/singapores-first/permalink
+          - title: Nature & Environment
+            url: https://mindef-connexion-staging.netlify.app/nature-and-environment/permalink
+          - title: Today I Learnt
+            url: https://mindef-connexion-staging.netlify.app/today-i-learnt/permalink
   - infopic:
       title: ConnexionSG
-      subtitle: Connect with us!
+      subtitle: About this page
       button: Facebook
       url: https://www.facebook.com/ConnexionSG
       image: /images/csg1.jpg
       alt: Facebook
+      description: This website is an archive of posts and articles from the
+        ConnexionSG Facebook page.
 ---
