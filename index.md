@@ -14,7 +14,7 @@ sections:
         title: I'm curious about...
         options:
           - title: Places
-            url: streets-of-singapore/our-grandmothers-road
+            url: places/streets-of-singapore/our-grandmothers-road
           - title: History
             url: history/shipwreck-artefacts-in-singapore
           - title: Food
