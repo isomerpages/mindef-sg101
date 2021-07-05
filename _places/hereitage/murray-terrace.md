@@ -3,11 +3,9 @@ title: Murray Terrace
 permalink: /places/hereitage/murray-terrace
 third_nav_title: Hereitage
 ---
-
-
-#### Along Murray Street by Maxwell Road stands Murray Terrace, a cluster of 14 pre-war shophouses. 
+### Along Murray Street by Maxwell Road stands Murray Terrace, a cluster of 14 pre-war shophouses. 
 ![Alt text for image on Isomer site](/images/120192087_4447437661964831_2425019169392547505_n.png)
-##### Its namesake was believed to be Colonel A. Murray, a surveyor general of the Straits Settlements. Its original purpose is a bit of a mystery - it could have served as an army barracks. Murray Terrace has unusual architectural features -- a lion head carving and claw-like protrusions on its walls, octagonal columns and a flag post.
+#### Its namesake was believed to be Colonel A. Murray, a surveyor general of the Straits Settlements. Its original purpose is a bit of a mystery - it could have served as an army barracks. Murray Terrace has unusual architectural features -- a lion head carving and claw-like protrusions on its walls, octagonal columns and a flag post.
 
 The 1970s was a time of intensive urban renewal, and Murray Terrace, like many other shophouses in Singapore, was in a poor physical condition and at risk of demolition. 
 
