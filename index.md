@@ -14,7 +14,7 @@ sections:
         title: I'm curious about...
         options:
           - title: Places
-            url: https://mindef-connexion-staging.netlify.app/places/permalink
+            url: /architecture/hereitage/murray-terrace
           - title: History
             url: https://mindef-connexion-staging.netlify.app/history/shipwreck/permalink
           - title: Food
