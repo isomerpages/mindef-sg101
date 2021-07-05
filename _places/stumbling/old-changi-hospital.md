@@ -3,14 +3,9 @@ title: Old Changi Hospital
 permalink: /places/stumbling/old-changi-hospital
 third_nav_title: Stumbling
 ---
+### Changi's (Not So Hidden) Hospital
 
-
-
-
-
-#### Changi's (Not So Hidden) Hospital
-
-##### On the far flung eastern coast of Singapore lies Changi Point, famed for its rustic charms and coastal boardwalk. 
+#### On the far flung eastern coast of Singapore lies Changi Point, famed for its rustic charms and coastal boardwalk. 
 
 Changi Point is also where the Old Changi Hospital sits along Netheravon Road. Many say it’s haunted, but after digging deeper, we found that it's more than just another creepy old building.
 
