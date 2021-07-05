@@ -1,7 +1,8 @@
 ---
 title: Bu Dao Weng Roly Poly Toy
-permalink: /today-i-learnt/permalink
+permalink: /today-i-learnt/bu-dao-weng-roly-poly-toy
 ---
+
 ####  #TIL Today I Learnt that the 不倒翁 (bù dǎo wēng), also known as a roly-poly toy, is one of the oldest toys in the world. 
 
 ![Alt text for image on Isomer site](/images/til_rolypoly.jpg)
