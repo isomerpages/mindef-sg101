@@ -3,8 +3,7 @@ title: Bicycle Licence
 permalink: /history/singapores-first/bicycle-licence
 third_nav_title: Singapores First
 ---
-
-##### In the 1950s, when there were no computers, Singapore's first bicycle licence came in the form of a bicycle identity card and licence plate. 
+### In the 1950s, when there were no computers, Singapore's first bicycle licence came in the form of a bicycle identity card and licence plate. 
 ![Alt text for image on Isomer site](/images/sgfirst_licence_lky.jpg)
 
 More people have taken up cycling in Singapore as roads become better connected: to get to work, fetch children, collect meals or just simply for enjoyment. 
