@@ -3,13 +3,11 @@ title: Kampong Silat Estate
 permalink: /places/hereitage/kampong-silat-estate
 third_nav_title: Hereitage
 ---
-
-
-#### On Silat Avenue, just off Kampong Bahru Road, stand the remaining five blocks of the Kampong Silat Estate. Built between 1948 and 1952 by the Singapore Improvement Trust (SIT), it’s the second-oldest surviving public housing estate after Tiong Bahru Estate.
+### On Silat Avenue, just off Kampong Bahru Road, stand the remaining five blocks of the Kampong Silat Estate. Built between 1948 and 1952 by the Singapore Improvement Trust (SIT), it’s the second-oldest surviving public housing estate after Tiong Bahru Estate.
 
 ![Alt text for image on Isomer site](/images/170916935_5328760383832550_1631461279701068943_n.jpg)
 
-##### Kampong Silat Estate was built to house people who were relocated from kampongs, and was designed as a self-contained, modern “village” with homes, shops, and artisan quarters. Buildings were put close together with open spaces in between, to create community spaces and keep the kampong spirit.
+#### Kampong Silat Estate was built to house people who were relocated from kampongs, and was designed as a self-contained, modern “village” with homes, shops, and artisan quarters. Buildings were put close together with open spaces in between, to create community spaces and keep the kampong spirit.
 
 Like other SIT estates such as Tiong Bahru Estate and Princess Elizabeth Estate, the Kampong Silat flats were designed in a squarish, Art-Deco style, with architectural adaptations for Singapore’s tropical climate. For example, curved concrete shades along the buildings’ facades shielded the flats from direct sunlight, and allowed windows to be opened during heavy thunderstorms. There were also spacious balconies next to the kitchens to make cooking more comfortable, and chimney-like structures for ventilation. These features made living in Singapore’s weather much more pleasant.
 
