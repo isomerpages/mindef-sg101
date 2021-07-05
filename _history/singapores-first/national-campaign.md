@@ -3,11 +3,10 @@ title: National Campaign
 permalink: /history/singapores-first/national-campaign
 third_nav_title: Singapores First
 ---
-
-#### Singapore's first national campaign, the Anti-Spitting Campaign, came before our independence - in August 1958.
+### Singapore's first national campaign, the Anti-Spitting Campaign, came before our independence - in August 1958.
 
 ![Alt text for image on Isomer site](/images/antispitting1.jpg)
-##### Over the years, Singapore has had many national campaigns, each with specific goals: from the Clean and Green campaign to cultivate a mindset of care for the environment, to the National Courtesy Campaign to inspire care for one another.
+#### Over the years, Singapore has had many national campaigns, each with specific goals: from the Clean and Green campaign to cultivate a mindset of care for the environment, to the National Courtesy Campaign to inspire care for one another.
 
 We became so accustomed to campaigns, that we might not realise just how many were held. One study counted sixty-six national campaigns in just 24 years (1958 to 1982)!
 
