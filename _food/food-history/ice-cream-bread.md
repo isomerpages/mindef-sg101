@@ -1,8 +1,9 @@
 ---
 title: Ice Cream Bread
-permalink: /food/permalink
+permalink: /food/food-history/ice-cream-bread
 third_nav_title: Food History
 ---
+
 #### With the temperature averaging at a sweltering mid-30 degrees celsius these days, what could be better than some ice-cream? And not just a small little ball -- a whole thick slab, now that’s even better.
 
 ![Alt text for image on Isomer site](/images/160717151_5216629471712309_4186014281516695393_n.jpg)
