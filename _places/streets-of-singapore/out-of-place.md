@@ -3,15 +3,13 @@ title: Out of Place
 permalink: /places/streets-of-singapore/out-of-place
 third_nav_title: Streets Of Singapore
 ---
-
-
-#### Where's the beach on Beach Road?
+### Where's the beach on Beach Road?
 
 In Singapore, there are also other odd street names that might seem out of place at first: Airport Road is not at Changi Airport and there is no horse racing at Race Course Road.
 
 That’s because these street names hint at physical markers from our past and what Singapore was in a different era. 
 With travel still on hold, this might be the best time to explore the origins behind Singapore’s street names.
-##### Airport Road
+#### Airport Road
 ![Alt text for image on Isomer site](/images/sos_outofplace_airportrd.jpeg)
 
 There are several roads with the word “Airport” in Singapore, such as Old Airport Road (named after Kallang Airport) and Airport Boulevard (entrance to Changi Airport). In this case, Airport Road got its name when the civilian airport was situated in Paya Lebar. Today, heading down that road would lead you to the Republic of Singapore Air Force’s Paya Lebar Air Base
@@ -21,7 +19,7 @@ Paya Lebar International Airport was built in 1954 to replace Kallang Airport. A
 Paya Lebar was expected to handle up to 300,000 passengers yearly but was handling six times that volume by 1970. Despite expansions, it was clear it could not accommodate the increasing human and air traffic. The last commercial flight departed in 1981 and the airport moved to Changi. The old passenger terminal building and control tower still stand and are carefully preserved, though they now house air force units and are off-limits to the public. 
 
 After 2030, the public will be able to rediscover Paya Lebar’s rich aviation heritage. The air base will be relocated to make way for the development of Paya Lebar Central and plans are underway to repurpose some of the former airport buildings and parts of the runway.
-##### Beach Road
+#### Beach Road
 ![Alt text for image on Isomer site](/images/sos_outofplace_beachrd.jpeg)
 
 In the 19th Century, Beach Road was a coastal road fronting the seashore and where many European seafront houses were located. One of these houses became what we know today as Raffles Hotel after it was bought over by the Sarkies brothers. By the 1880s, the area had developed into a hub for travellers and was the location for many hostels and eating places.
@@ -30,7 +28,7 @@ The first reclamation along Beach Road took place in 1843 to obtain land to buil
 
 The Beach Road area is rich in architectural heritage. Through conservation, buildings like the Singapore Volunteer Corps HQ have found new life as entertainment or commercial spaces.
 
-##### Race Course Road
+#### Race Course Road
 ![Alt text for image on Isomer site](/images/sos_outofplace_racecourserd.jpeg)
 
 This road marks the perimeter of a race course for horse racing, which opened in 1843 and remained there until 1935 when it moved to Bukit Timah. It also holds a special place in aviation history. The race course was also used as a runway, with one of the earliest planes flown there in 1911 by Frenchman Joseph Christiaens.
