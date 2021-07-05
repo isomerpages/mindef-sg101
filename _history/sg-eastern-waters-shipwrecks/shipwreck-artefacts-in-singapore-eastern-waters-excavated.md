@@ -1,8 +1,9 @@
 ---
-title: shipwreck artefacts in Singapore eastern waters excavated
+title: Shipwreck Artefacts in Singapore Eastern Waters Excavated
 permalink: /history/shipwreck/permalink
 third_nav_title: Sg Eastern Waters Shipwrecks
 ---
+
 
 
 
