@@ -1,8 +1,9 @@
 ---
 title: Introduction of the EZ-Link Card
-permalink: /history/on-this-day/permalink
+permalink: /history/on-this-day/introduction-of-the-ez-link
 third_nav_title: On This Day
 ---
+
 ### 13 April 2002: Introduction of the EZ-Link card
 
 ![Alt text for image on Isomer site](/images/onthisday_ezlink.jpg)
