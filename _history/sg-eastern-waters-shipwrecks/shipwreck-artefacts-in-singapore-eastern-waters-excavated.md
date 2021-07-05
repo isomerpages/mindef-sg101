@@ -3,15 +3,7 @@ title: Shipwreck Artefacts in Singapore Eastern Waters Excavated
 permalink: /history/shipwreck-artefacts-in-singapore
 third_nav_title: Sg Eastern Waters Shipwrecks
 ---
-
-
-
-
-
-
-
-
-#### In June 2021, important pieces to our history were uncovered from two shipwrecks in Singapore's eastern waters — the first to be found in our waters. 
+### In June 2021, important pieces to our history were uncovered from two shipwrecks in Singapore's eastern waters — the first to be found in our waters. 
 ![Alt text for image on Isomer site](/images/shipwreck1.jpg)
 
 Excavations by the ISEAS - Yusof Ishak Institute and National Heritage Board have been ongoing in the area since 2015, when several ceramic plates were discovered by accident. And they have yielded a treasure trove of artefacts.
