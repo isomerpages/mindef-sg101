@@ -1,8 +1,9 @@
 ---
 title: Our Grandmother's Road
-permalink: /places/permalink
+permalink: /places/streets-of-singapore/our-grandmothers-road
 third_nav_title: Streets Of Singapore
 ---
+
 ##### Streets Named After Women
 There are more than 3,200 streets in Singapore. Their names not only help us locate places efficiently but also reflect Singapore’s heritage. 
 
