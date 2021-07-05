@@ -1,8 +1,9 @@
 ---
 title: Kampong Silat Estate
-permalink: /architecture/hereitage/kampong-silat-estate
+permalink: /places/hereitage/kampong-silat-estate
 third_nav_title: Hereitage
 ---
+
 
 #### On Silat Avenue, just off Kampong Bahru Road, stand the remaining five blocks of the Kampong Silat Estate. Built between 1948 and 1952 by the Singapore Improvement Trust (SIT), it’s the second-oldest surviving public housing estate after Tiong Bahru Estate.
 
