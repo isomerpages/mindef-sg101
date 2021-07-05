@@ -5,7 +5,9 @@ third_nav_title: Stumbling
 ---
 ### Thow Kwang Pottery Jungle & The Dragon Kiln
 
-ConnexionSG was heading to NTU for mala xiang guo when we made a wrong turn. We ended up on a road that had more pots than we have ever seen in our entire lives!
+ConnexionSG was heading to NTU for mala xiang guo when we made a wrong turn. 
+
+We ended up on a road that had more pots than we have ever seen in our entire lives!
 
 Watch our stumbling video on the oldest surviving dragon kiln in Singapore here:
 
