@@ -14,11 +14,11 @@ sections:
         title: I'm curious about...
         options:
           - title: Places
-            url: /architecture/hereitage/murray-terrace
+            url: streets-of-singapore/our-grandmothers-road
           - title: History
-            url: https://mindef-connexion-staging.netlify.app/history/shipwreck/permalink
+            url: history/shipwreck-artefacts-in-singapore
           - title: Food
-            url: https://mindef-connexion-staging.netlify.app/food/permalink
+            url: food/food-history/ice-cream-bread
           - title: Nature & Environment
             url: https://mindef-connexion-staging.netlify.app/nature-and-environment/permalink
           - title: Today I Learnt
