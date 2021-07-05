@@ -3,7 +3,7 @@ title: The Last Dragon
 permalink: /places/stumbling/the-last-dragon
 third_nav_title: Stumbling
 ---
-### Thow Kwang Pottery Jungle & The Dragon Kiln"
+### Thow Kwang Pottery Jungle & The Dragon Kiln
 
 ConnexionSG was heading to NTU for mala xiang guo when we made a wrong turn. 
 
