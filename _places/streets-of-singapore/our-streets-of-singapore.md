@@ -1,8 +1,9 @@
 ---
-title: Our streets of Singapore
+title: Our Streets of Singapore
 permalink: /places/streets-of-singapore/our-streets-of
 third_nav_title: Streets Of Singapore
 ---
+
 
 #####  #TIL - Today I learnt that back in 1966, Singapore had approximately 1,600 streets. Since then, the number of streets has more than doubled, to 3,200.
 
