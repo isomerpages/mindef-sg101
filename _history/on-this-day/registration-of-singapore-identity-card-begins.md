@@ -1,8 +1,9 @@
 ---
 title: Registration of Singapore Identity Card Begins
-permalink: /history/on-this-day/permalink
+permalink: /history/on-this-day/registration-of-singapore
 third_nav_title: On This Day
 ---
+
 
 
 ### On this day in  9 May 1966, Singaporeans began registering for pink and blue identity cards. 
