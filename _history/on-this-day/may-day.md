@@ -6,7 +6,7 @@ third_nav_title: On This Day
 ### Did you know Labour Day (AKA May Day) is older than National Day?
 
 ![Alt text for image on Isomer site](/images/onthisday_labourday.jpg)
-###### *2016 May Day Rally at Downtown East*
+***Photo: 2016 May Day Rally at Downtown East***
 
 It was first gazetted as a public holiday in 1960, five years before Singapore became independent, as a paid day of rest to honour workers.
 
