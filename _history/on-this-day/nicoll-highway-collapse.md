@@ -1,8 +1,9 @@
 ---
 title: Nicoll Highway Collapse
-permalink: /history/on-this-day/permalink
+permalink: /history/on-this-day/nicoll-highway-collapse
 third_nav_title: On This Day
 ---
+
 ### On 20 April 2004, a temporary retaining wall of the tunnel at the Nicoll Highway Circle Line MRT station construction site collapsed at around 3.30pm.
 ![Alt text for image on Isomer site](/images/nicollhw1.jpg)
 
