@@ -20,9 +20,9 @@ sections:
           - title: Food
             url: food/food-history/ice-cream-bread
           - title: Nature & Environment
-            url: https://mindef-connexion-staging.netlify.app/nature-and-environment/permalink
+            url: /nature-and-environment/eco-link-at-bukit-timah
           - title: Today I Learnt
-            url: https://mindef-connexion-staging.netlify.app/today-i-learnt/permalink
+            url: /today-i-learnt/bu-dao-weng-roly-poly-toy
   - infopic:
       title: ConnexionSG
       subtitle: About this page
