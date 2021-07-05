@@ -1,8 +1,9 @@
 ---
 title: Old Changi Hospital
-permalink: /places/permalink
+permalink: /places/stumbling/old-changi-hospital
 third_nav_title: Stumbling
 ---
+
 
 
 
