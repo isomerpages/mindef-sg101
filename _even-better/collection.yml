@@ -1,0 +1,4 @@
+collections:
+  even-better:
+    output: true
+    order: []
