@@ -5,7 +5,7 @@ third_nav_title: Singapores First
 ---
 ### Before independence, most of Singapore's population was illiterate because, as former Minister for Education Dr Goh Keng Swee said, 
 
-#### “the colonial government did not feel any responsibility to provide universal education. Hence education was the privilege of a minority of families who could afford to send their children to school.” 
+> “the colonial government did not feel any responsibility to provide universal education. Hence education was the privilege of a minority of families who could afford to send their children to school.” 
 
 After Singapore achieved self-governance in 1959, more schools were built and #SingaporesFirst mobile library service (aka “Molly”) was launched by National Library Board, Singapore in 1960, to spread the reading habit by making books accessible to all across Singapore.
 
