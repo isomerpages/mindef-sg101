@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - singapores-last/.keep
+      - singapores-last/mainland-village.md
       - sg-eastern-waters-shipwrecks/.keep
       - sg-eastern-waters-shipwrecks/shipwreck-artefacts-in-singapore-eastern-waters-excavated.md
       - singapores-first/.keep
