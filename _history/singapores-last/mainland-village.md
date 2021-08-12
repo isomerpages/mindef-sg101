@@ -5,6 +5,8 @@ third_nav_title: Singapores Last
 ---
 ### A small turn off Gerald Drive in the Yio Chu Kang area is all it takes to transport you to another era
 
+![Alt text for image on Isomer site](/images/mainlandvillage.jpeg)
+
 Kampong Lorong Buangkok is #SingaporesLast mainland village. Established in 1956, it is a cluster of zinc-roofed houses spread around a surau (small mosque), separated by dirt tracks. Street signs here are of the old variety, displaying four-digit postal codes. Unlike the rest of Singapore, power cables still hang overhead on poles. 
 
 Around 30 families live here. They own the homes but rent the land from Madam Sng Mui Hong, who owns the ground on which the village sits. She charges the same rent from the past, between $4.50 and $30 a month. For tenants who are short on money, she accepts fruits and rice as payment in kind. An almost equal number of Chinese and Malay families live in this close-knit community.
