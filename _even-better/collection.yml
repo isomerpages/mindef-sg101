@@ -1,4 +1,5 @@
 collections:
   even-better:
     output: true
-    order: []
+    order:
+      - thinking-about-race.md
