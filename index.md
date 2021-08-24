@@ -32,4 +32,8 @@ sections:
       alt: Facebook
       description: This website is an archive of posts and articles from the
         ConnexionSG Facebook page.
+  - resources:
+      title: Latest resources
+      subtitle: "What’s New "
+      button: More Resources
 ---
