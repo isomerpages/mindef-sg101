@@ -2,4 +2,5 @@ collections:
   economy:
     output: true
     order:
+      - narratives/.keep
       - our-fundamentals/.keep
