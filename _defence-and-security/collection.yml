@@ -2,7 +2,6 @@ collections:
   defence-and-security:
     output: true
     order:
-      - our-fundamentals/.keep
       - narratives/.keep
       - narratives/coming-soon.md
       - case-studies-and-examples/.keep
