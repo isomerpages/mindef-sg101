@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - surviving-our-independence/.keep
+      - surviving-our-independence/surviving-our-independence.md
       - our-fundamentals.md
