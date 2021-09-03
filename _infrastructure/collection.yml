@@ -1,0 +1,4 @@
+collections:
+  infrastructure:
+    output: true
+    order: []
