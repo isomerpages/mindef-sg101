@@ -1,9 +1,0 @@
-collections:
-  defence-and-security:
-    output: true
-    order:
-      - our-fundamentals.md
-      - narratives/.keep
-      - narratives/coming-soon.md
-      - case-studies-and-examples/.keep
-      - case-studies-and-examples/coming-soon.md
