@@ -7,11 +7,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: ConnexionSG
-      subtitle: Discover all things Singapore & Singaporean
+      title: SG101
       background: /images/20627059_1659545014087457_1124741366636516332_o.jpg
       dropdown:
-        title: I'm curious about...
+        title: I'm looking for...
         options:
           - title: Places
             url: places/streets-of-singapore/our-grandmothers-road
@@ -23,6 +22,10 @@ sections:
             url: /nature-and-environment/eco-link-at-bukit-timah
           - title: Today I Learnt
             url: /today-i-learnt/bu-dao-weng-roly-poly-toy
+  - resources:
+      title: Latest Resources
+      subtitle: What's New
+      button: More Resources
   - infopic:
       title: ConnexionSG
       subtitle: About this page
