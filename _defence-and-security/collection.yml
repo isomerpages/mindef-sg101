@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - our-fundamentals/.keep
+      - our-fundamentals/our-fundamentals.md
       - narratives/.keep
       - case-studies-and-examples/.keep
