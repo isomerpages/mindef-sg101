@@ -2,27 +2,15 @@ logo: /images/ConnexionSG-Logo.png
 links:
   - title: About Us
     url: /about-us
-  - title: Places
-    collection: places
-  - title: History
-    collection: history
-  - title: Food
-    collection: food
-  - title: Nature & Environment
-    url: /nature-and-environment/eco-link-at-bukit-timah
-  - title: "#TIL"
-    url: /today-i-learnt/bu-dao-weng-roly-poly-toy
-  - title: Even Better
-    collection: even-better
-  - title: Resources
-    url: /Resources
-  - title: Contact Us
-    url: /contact-us/
-  - title: Defence And Security
+  - title: Defence & Security
     collection: defence-and-security
   - title: Economy
     collection: economy
   - title: Infrastructure
     collection: infrastructure
-  - title: Social Identity
+  - title: Social / National Identity
     collection: social-identity
+  - title: Resources
+    url: /Resources
+  - title: Contact Us
+    url: /contact-us/
