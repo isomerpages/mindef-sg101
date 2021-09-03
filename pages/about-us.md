@@ -1,7 +1,8 @@
 ---
 title: About Us
-permalink: /about-us
+permalink: /about-us-csg
 ---
+
 ![Alt text for image on Isomer site](/images/220581_442503275791643_486290741_o.jpg)
 
 #  ConnexionSG is about all things Singaporean
