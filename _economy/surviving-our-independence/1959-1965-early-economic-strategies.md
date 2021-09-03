@@ -3,13 +3,6 @@ title: "1959 -1965: Early Economic Strategies"
 permalink: /economy/surviving-our-independence/permalink
 third_nav_title: Surviving Our Independence
 ---
-
-
-
-
-
-
-
 ![Alt text for image on Isomer site](/images/economy/Screenshot%202020-10-19.png)
 
 In 1959, Singapore achieved self-governance after years of struggle. The People’s Action Party was voted into power in the Legislative Assembly general election, becoming the first full elected government of the self-governing state of Singapore on 5th June 1959. Mr Lee Kuan Yew was appointed as the state’s first prime minister.
@@ -79,9 +72,9 @@ In addition, the union with Malaysia was also troubled from the start.
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
 
-Both sets of leaders – Malaysia’s Tunku Abdul Rahman and Singapore’s Lee Kuan Yew – fundamentally disagreed on what kind of society they wanted. Mr Lee was insistent on a society where all races were treated equally but the Tunku believed in the primacy of the Malays in Malaysia. Tensions boiled over to the streets as racial violence exploded across the Federation. 
+<p>Both sets of leaders – Malaysia’s Tunku Abdul Rahman and Singapore’s Lee Kuan Yew – fundamentally disagreed on what kind of society they wanted. Mr Lee was insistent on a society where all races were treated equally but the Tunku believed in the primacy of the Malays in Malaysia. Tensions boiled over to the streets as racial violence exploded across the Federation. </p>
 
-On the economic front, the anticipated benefits from the merger did not quite pan out the way it was initially envisioned. The increase of the manufacturing share of real GDP was modest – from 16.9 percent in 1960 to 19.1 percent in 1965. Real GDP grew at an annual compound rate of 5.7 percent during this period. Some 21,000 jobs were created in manufacturing, but the unemployment percentage still hovered in the double digits. This persuaded Dr Goh that the benefits of the common market were not as substantial as he once believed.
+<p>On the economic front, the anticipated benefits from the merger did not quite pan out the way it was initially envisioned. The increase of the manufacturing share of real GDP was modest – from 16.9 percent in 1960 to 19.1 percent in 1965. Real GDP grew at an annual compound rate of 5.7 percent during this period. Some 21,000 jobs were created in manufacturing, but the unemployment percentage still hovered in the double digits. This persuaded Dr Goh that the benefits of the common market were not as substantial as he once believed.</p>
 </div>
 
 The political, social and economic difficulties of the merger led to a momentous decision, one that defined Singapore’s story. Cast out of Malaysia on 9th August, 1965, Singapore was on its own – it no longer had a common market of 12 million consumers to support its growth. With no natural resources, a tiny population and rising unemployment, Singapore’s leaders were faced with a dire situation.
