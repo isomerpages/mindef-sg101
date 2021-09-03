@@ -2,7 +2,6 @@
 title: Our Fundamentals
 permalink: /economy/our-fundamentals
 ---
-2 minute read
 
 ![Alt text for image on Isomer site](/images/Screenshot%202020-10-19.png)
 
@@ -28,4 +27,3 @@ To maximise our economic opportunities, Singapore cultivates diverse engines of 
 
 ![Alt text for image on Isomer site](/images/DSC0964.jpg)
 (Image: [Maritime Port Authority of Singapore](https://www.mpa.gov.sg/web/portal/home/port-of-singapore))
-
