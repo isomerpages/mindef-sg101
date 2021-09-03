@@ -24,3 +24,4 @@ The economic rationale behind the courting of foreign investors was twofold:
 1. First, large foreign companies targeted the global market, had the necessary expertise and networks that would allow Singapore to quickly scale up these industries. They also had the financial capital to invest in Singapore’s infrastructure. For instance, oil company Shell built Singapore’s first oil refinery at the cost of $30 million on Pulau Bukom in 1961.
 
 2. Second, the goal was to eventually enable knowledge transfer from foreign companies to local enterprises. This would enable local companies to, in the long run, also acquire the necessary technical expertise to start building local industries.
+
