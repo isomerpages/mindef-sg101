@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - surviving-our-independence/.keep
-      - surviving-our-independence/surviving-our-independence.md
+      - surviving-our-independence/1959-1965-early-economic-strategies.md
       - our-fundamentals.md
