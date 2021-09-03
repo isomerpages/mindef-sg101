@@ -1,0 +1,4 @@
+collections:
+  economy:
+    output: true
+    order: []
