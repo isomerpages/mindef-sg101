@@ -11,6 +11,6 @@ links:
   - title: Social National Identity
     collection: social-national-identity
   - title: Resources
-    url: /Resources
+    resource_room: true
   - title: Contact Us
     url: /contact-us/
