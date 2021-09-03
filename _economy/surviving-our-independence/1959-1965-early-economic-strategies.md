@@ -49,7 +49,7 @@ First, the strong presence of communism throughout the 1960s engendered a high l
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
 
-In 1961, the left-wing arm of the ruling People’s Action Party broke off to form the Barisan Sosialis, whose objective was to topple the government. As part of their strategy, the communists instigated workers to wreak havoc on the economy. From 1963 to 1968, Singapore lost some 35,000 to 45,000 man-hours each year to strikes. 
+<p>In 1961, the left-wing arm of the ruling People’s Action Party broke off to form the Barisan Sosialis, whose objective was to topple the government. As part of their strategy, the communists instigated workers to wreak havoc on the economy. From 1963 to 1968, Singapore lost some 35,000 to 45,000 man-hours each year to strikes. </p>
 </div>
  
  This was severely disruptive to the economy, making Singapore unattractive to foreign investors. “The running joke was that a factory would be set up on Monday and all sorts of banners screaming ‘Exploitation of Workers’ would be hung up by Friday,” shared Mr I.F. Tang, who was part of the UN team of experts.
