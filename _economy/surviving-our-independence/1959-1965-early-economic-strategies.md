@@ -1,8 +1,9 @@
 ---
-title: "1959 - 1965: Early Economic Strategies"
+title: "1959 — 1965: Early Economic Strategies"
 permalink: /economy/surviving-our-independence/permalink
 third_nav_title: Surviving Our Independence
 ---
+
 
 
 ![Alt text for image on Isomer site](/images/economy/Screenshot%202020-10-19.png)
