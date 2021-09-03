@@ -2,6 +2,5 @@ collections:
   economy:
     output: true
     order:
-      - our-fundamentals/.keep
       - narratives/.keep
       - case-studies-and-examples/.keep
