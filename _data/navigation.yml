@@ -24,3 +24,5 @@ links:
     collection: economy
   - title: Infrastructure
     collection: infrastructure
+  - title: Social Identity
+    collection: social-identity
