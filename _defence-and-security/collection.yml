@@ -1,4 +1,5 @@
 collections:
   defence-and-security:
     output: true
-    order: []
+    order:
+      - our-fundamentals.md
