@@ -20,3 +20,4 @@ The content is organised into four key categories – ‘Defence and Security’
 
 We welcome educators, facilitators, students and Singaporeans who have an interest in the Singapore Story to use this site. Please also help us improve by giving us your feedback and suggestions here.
 
+![Alt text for image on Isomer site](/images/1.png)
