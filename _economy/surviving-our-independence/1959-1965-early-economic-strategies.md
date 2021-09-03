@@ -58,11 +58,11 @@ Furthermore, in 1963, the newly formed Federation of Malaya came under Indonesia
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
 
-Led by President Sukarno, Indonesia carried out acts of subversion and sabotage, including bombings, to destabilise the Federation between 1963 and 1966. 
+<p>Led by President Sukarno, Indonesia carried out acts of subversion and sabotage, including bombings, to destabilise the Federation between 1963 and 1966. </p>
 	
-Moreover, it cut trade ties with the Federation, hoping to disrupt its trade and cripple its economy. As a result, Singapore’s trade with Indonesia shrank. Imports fell by 23 per cent while exports declined 31 per cent in 1964 compared with 1963. 
+<p>Moreover, it cut trade ties with the Federation, hoping to disrupt its trade and cripple its economy. As a result, Singapore’s trade with Indonesia shrank. Imports fell by 23 per cent while exports declined 31 per cent in 1964 compared with 1963. </p>
 	
-The Indonesians also carried out a series of bombing attempts in Singapore, both to directly cause damage to Singapore as well as rattle foreign investors. On 16th November 1964, an attempt by 10 Indonesian commandos to sabotage an oil installation was foiled. The next year, in 1965, the tragic bombing of Macdonald House along Orchard Road claimed the lives of three, while injuring another 33.
+<p>The Indonesians also carried out a series of bombing attempts in Singapore, both to directly cause damage to Singapore as well as rattle foreign investors. On 16th November 1964, an attempt by 10 Indonesian commandos to sabotage an oil installation was foiled. The next year, in 1965, the tragic bombing of Macdonald House along Orchard Road claimed the lives of three, while injuring another 33.</p>
 </div>
 
 ![Alt text for image on Isomer site](/images/economy/img0101.jpg)
