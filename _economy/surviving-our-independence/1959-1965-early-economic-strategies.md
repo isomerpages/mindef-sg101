@@ -34,7 +34,7 @@ The lead agency tasked to undertake the critical role of implementing the indust
 
 One of its first tasks was to develop Jurong into an industrial estate, as part of a push to create labour-intensive industries that would generate jobs for the people. Some of the early factories produced items such as garments, toys and wigs. This was only the beginning of the story of Jurong.
 
-![Alt text for image on Isomer site](/images/economy/Case%20Study_Jurong.gif)
+[![Alt text for image on Isomer site](/images/economy/Case%20Study_Jurong.gif)](/economy/digging-deeper-case-studies/jurong1)
 
 
 #### 1963: Merger with Malaysia
