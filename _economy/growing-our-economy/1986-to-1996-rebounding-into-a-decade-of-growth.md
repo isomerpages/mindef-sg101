@@ -31,7 +31,7 @@ The 1980s and 1990s also saw Singapore intensify efforts to develop fee-based fi
 **Growing the Tourism Sector**
 
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/1186518.jpg)
-(Image: Indoor Stadium and National Stadium in the early 1990s via [Roots.sg](https://www.roots.gov.sg/learn/collections/listing/1186518))
+(Image: Indoor Stadium and National Stadium in the early 1990s via [Roots.sg](https://www.roots.gov.sg/Collection-Landing/listing/1186518))
 
 Another area that was given much focus in the 1980s was tourism – in 1981, the government identified the tourism industry as one of the pillars of growth in its 10-year economic development plan. In 1984, a tourism task force headed by then Minister of State for Trade and Industry Wong Kwei Cheong was convened to look at revitalising and promoting Singapore as a major tourist destination.
 
