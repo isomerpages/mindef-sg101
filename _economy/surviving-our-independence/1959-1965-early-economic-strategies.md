@@ -36,6 +36,7 @@ One of its first tasks was to develop Jurong into an industrial estate, as part 
 
 ![Alt text for image on Isomer site](/images/economy/Case%20Study_Jurong.gif)
 
+
 #### 1963: Merger with Malaysia
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WjkrBKuN6CY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
