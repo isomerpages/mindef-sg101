@@ -56,7 +56,7 @@ Moreover, to ensure that we did not become over-reliant on electronics, we also 
 
 The government embarked on an ambitious plan to develop a petrochemicals facility that would entrench Singapore as a global petrochemicals hub. Jurong Island is a man-made island that combined the best of Singapore – forward thinking, a dare-to-do-and-dream attitude as well as the ability to deliver the final product.
 
-![Alt text for image on Isomer site](/images/economy/growing-our-economy/Case%20Study_Jurong%20Island.gif)
+[![Alt text for image on Isomer site](/images/economy/growing-our-economy/Case%20Study_Jurong%20Island.gif)](/economy/digging-deeper-case-studies/jurong2)
 
 **Developing an External Wing**
 
