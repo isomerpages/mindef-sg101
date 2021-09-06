@@ -42,4 +42,4 @@ By the end of the restructuring period, Singapore had succeeded in attracting hi
 
 However, the restructuring came with a cost: the corrective wage policy coupled with the slump in global demand caused Singapore to enter into its first recession in 1985.
 	
-![Alt text for image on Isomer site](/images/economy/growing-our-economy/Case%20Study_The%201985%20Recession.gif)
+[![Alt text for image on Isomer site](/images/economy/growing-our-economy/Case%20Study_The%201985%20Recession.gif)](/economy/digging-deeper-case-studies/1985)
