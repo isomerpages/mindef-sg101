@@ -16,7 +16,7 @@ The new government faced huge problems almost immediately. While Singapore had r
 The economy became a key priority for the new government. The founding leaders of Singapore had in place two key economic strategies. One, rapid industrialisation, and two, merger with Malaysia.
 
 ![Alt text for image on Isomer site](/images/economy/1320585.jpg)
-(Image: Map of Malaysia, 1963-1965; National Museum of Singapore via [Roots.sg](https://www.roots.gov.sg/learn/collections/listing/1320585))
+(Image: Map of Malaysia, 1963-1965; National Museum of Singapore via [Roots.sg](https://www.roots.gov.sg/Collection-Landing/listing/1320585))
 
 #### 1961: A Plan for Rapid Industralisation
 
