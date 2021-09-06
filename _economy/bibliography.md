@@ -38,17 +38,17 @@ Global Agriculture’s Many Opportunities, (2015), McKinsey, retrieved from [htt
 
 Goh Chok Tong, (19 October 2003), Keynote Address at the APEC CEO Summit, retrieved from [https://www.nas.gov.sg/archivesonline/data/pdfdoc/20031019_0001.pdf](https://www.nas.gov.sg/archivesonline/data/pdfdoc/20031019_0001.pdf)
 
-Goh Chok Tong, (1981), Budget Statement 1981, retrieved from https://www.nas.gov.sg/archivesonline/data/pdfdoc/gct19810306s.pdf
+Goh Chok Tong, (1981), Budget Statement 1981, retrieved from [https://www.nas.gov.sg/archivesonline/data/pdfdoc/gct19810306s.pdf](https://www.nas.gov.sg/archivesonline/data/pdfdoc/gct19810306s.pdf)
 
-Goh Chok Tong, (20 October 2014), Goh Chok Tong’s midnight golf game with US President Bill Clinton in 2000: The untold story, retrieved from https://www.straitstimes.com/opinion/goh-chok-tongs-midnight-golf-game-with-us-president-bill-clinton-in-2000-the-untold-story
+Goh Chok Tong, (20 October 2014), Goh Chok Tong’s midnight golf game with US President Bill Clinton in 2000: The untold story, retrieved from [https://www.straitstimes.com/opinion/goh-chok-tongs-midnight-golf-game-with-us-president-bill-clinton-in-2000-the-untold-story](https://www.straitstimes.com/opinion/goh-chok-tongs-midnight-golf-game-with-us-president-bill-clinton-in-2000-the-untold-story)
 
-Goh Chok Tong, (6 October 2003), Keynote Address at Inauguration Ceremony of the ASEAN Business and Investment Summit, retrieved from https://asean.org/keynote-address-by-his-excellency-goh-chok-tong-prime-minister-of-singapore-at-the-inauguration-ceremony-of-the-asean-business-and-investment-summit-asean-bis-nusa-dua-bali/
+Goh Chok Tong, (6 October 2003), Keynote Address at Inauguration Ceremony of the ASEAN Business and Investment Summit, retrieved from [https://asean.org/keynote-address-by-his-excellency-goh-chok-tong-prime-minister-of-singapore-at-the-inauguration-ceremony-of-the-asean-business-and-investment-summit-asean-bis-nusa-dua-bali/](https://asean.org/keynote-address-by-his-excellency-goh-chok-tong-prime-minister-of-singapore-at-the-inauguration-ceremony-of-the-asean-business-and-investment-summit-asean-bis-nusa-dua-bali/)
 
-Goh Keng Swee, (1964), Annual Budget Statement (1964), retrieved from https://sprs.parl.gov.sg/search/topic?reportid=028_19641102_S0005_T0013
+Goh Keng Swee, (1964), Annual Budget Statement (1964), retrieved from [https://sprs.parl.gov.sg/search/topic?reportid=028_19641102_S0005_T0013](https://sprs.parl.gov.sg/search/topic?reportid=028_19641102_S0005_T0013)
 
 Goh, Keng Swee, (1977), “A socialist economy that works,” in Nair, C.V.D. (Ed.), Socialism that Works, Federal Publications, Singapore
 
-Government of Singapore, (2020), Overall Fiscal Position for FY 2014 to FY 2020 ($ million), retrieved from https://www.singaporebudget.gov.sg/docs/default-source/budget_2020/download/pdf/fy2020_analysis_of_revenue_and_expenditure.pdf
+Government of Singapore, (2020), Overall Fiscal Position for FY 2014 to FY 2020 ($ million), retrieved from [https://www.singaporebudget.gov.sg/docs/default-source/budget_2020/download/pdf/fy2020_analysis_of_revenue_and_expenditure.pdf](https://www.singaporebudget.gov.sg/docs/default-source/budget_2020/download/pdf/fy2020_analysis_of_revenue_and_expenditure.pdf)
 
 Guide Me Singapore, (2014), Impact of ASEAN Economic Community (AEC), retrieved from https://www.guidemesingapore.com/in-the-news/2014/2014—impact-of-asean-economic-community-aec
 
