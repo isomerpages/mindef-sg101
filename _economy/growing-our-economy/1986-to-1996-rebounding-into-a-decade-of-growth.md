@@ -94,7 +94,7 @@ Keeping free trade flowing to Singapore was a key reason behind the drive to dev
 <p>These FTAs enable Singapore’s exporters, which include foreign manufacturers based here, to enjoy preferential rates in key export markets such as China, Japan and the US. This gives Singapore an edge over other lower-cost locations and is another reason foreign MNCs are keen to invest in Singapore.</p>
 	</div>
 	
-![Alt text for image on Isomer site](/images/economy/growing-our-economy/Case%20Study_SG-US%20FTA.gif)
+[![Alt text for image on Isomer site](/images/economy/growing-our-economy/Case%20Study_SG-US%20FTA.gif)](/economy/digging-deeper-case-studies/sgusfta)
 
 [![Alt text for image on Isomer site](/images/economy/growing-our-economy/More_FTA.gif)](https://www.mti.gov.sg/-/media/MTI/improving-trade/FTAs/All-you-need-to-know-about-SG-FTAs-and-DEAs.pdf)
 
