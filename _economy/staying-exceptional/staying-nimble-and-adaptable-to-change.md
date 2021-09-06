@@ -21,5 +21,22 @@ For instance, the government has been testing autonomous vehicles in parts of Si
 
 Another example is agriculture. The introduction of new technology in agri-technology such as tower farming and the use of AI-controlled environmental lighting have helped push new frontiers in the sector.
 
+![Alt text for image on Isomer site](/images/economy/staying-exceptional/Case%20Study_Agritech%20in%20SG.gif)
+
+**Conclusion**
+
+In the 2011 book Hard Truths, founding Prime Minister Mr Lee Kuan Yew was asked what it will take for Singapore to survive, given the rising challenges that Singapore face.
+
+His advice was simple, clear and straightforward:
+
+![Alt text for image on Isomer site](/images/economy/staying-exceptional/Screenshot%202020-10-.png)
+
+Indeed, the story of Singapore’s journey from third world to first was a journey marked by sacrifice, determination and willpower. It is a story about how a people built something from nothing; how a nation’s fate that was determined by guts and gumption; and how the will of a people determined to survive managed to succeed against the odds.
+
+It is with the knowledge of this past that we can be confident of the future. The world will continue to evolve, and change will continue to accelerate. For this, we must prepare for a world that is vastly different from what it is today.
+
+![Alt text for image on Isomer site](/images/economy/staying-exceptional/pm-speech-2-sep.png)
+(Image: [Gov.sg](https://www.gov.sg/article/pm-lee-responding-to-covid-19-and-the-other-challenges-ahead))
+
 
 
