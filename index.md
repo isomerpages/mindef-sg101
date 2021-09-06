@@ -10,18 +10,16 @@ sections:
       title: SG101
       background: /images/20627059_1659545014087457_1124741366636516332_o.jpg
       dropdown:
-        title: I'm looking for...
+        title: I'm looking for information on
         options:
-          - title: Places
-            url: places/streets-of-singapore/our-grandmothers-road
-          - title: History
-            url: history/shipwreck-artefacts-in-singapore
-          - title: Food
+          - title: Defence And Security
+            url: /defence-and-security/our-fundamentals
+          - title: Economy
+            url: /economy/our-fundamentals
+          - title: Infrastructure
             url: food/food-history/ice-cream-bread
-          - title: Nature & Environment
-            url: /nature-and-environment/eco-link-at-bukit-timah
-          - title: Today I Learnt
-            url: /today-i-learnt/bu-dao-weng-roly-poly-toy
+          - title: Social / National Identity
+            url: ""
   - resources:
       title: Latest Resources
       subtitle: What's New
