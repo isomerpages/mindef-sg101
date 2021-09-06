@@ -50,120 +50,120 @@ Goh, Keng Swee, (1977), “A socialist economy that works,” in Nair, C.V.D. (E
 
 Government of Singapore, (2020), Overall Fiscal Position for FY 2014 to FY 2020 ($ million), retrieved from [https://www.singaporebudget.gov.sg/docs/default-source/budget_2020/download/pdf/fy2020_analysis_of_revenue_and_expenditure.pdf](https://www.singaporebudget.gov.sg/docs/default-source/budget_2020/download/pdf/fy2020_analysis_of_revenue_and_expenditure.pdf)
 
-Guide Me Singapore, (2014), Impact of ASEAN Economic Community (AEC), retrieved from https://www.guidemesingapore.com/in-the-news/2014/2014—impact-of-asean-economic-community-aec
+Guide Me Singapore, (2014), Impact of ASEAN Economic Community (AEC), retrieved from [https://www.guidemesingapore.com/in-the-news/2014/2014—impact-of-asean-economic-community-aec](https://www.guidemesingapore.com/in-the-news/2014/2014—impact-of-asean-economic-community-aec)
 
 Han Fook Kwang, Zuraidah Ibrahim, et al, (2011), Lee Kuan Yew: Hard Truths to Keep Singapore Going, Singapore, Straits Times Press, p156.
 
-Heng Swee Keat, (2019), DPM Heng Swee Keat at May Day Rally 2019, Prime Minister’s Office, retrieved from https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-at-May-Day-Rally-2019
+Heng Swee Keat, (2019), DPM Heng Swee Keat at May Day Rally 2019, Prime Minister’s Office, retrieved from [https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-at-May-Day-Rally-2019](https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-at-May-Day-Rally-2019)
 
-Heng Swee Keat, (26 March 2020), Supplementary Budget Statement 2020, retrieved from https://www.singaporebudget.gov.sg/budget_2020/resilience-budget/supplementary-budget-statement
+Heng Swee Keat, (26 March 2020), Supplementary Budget Statement 2020, retrieved from [https://www.singaporebudget.gov.sg/budget_2020/resilience-budget/supplementary-budget-statement](https://www.singaporebudget.gov.sg/budget_2020/resilience-budget/supplementary-budget-statement)
 
-HistorySG, Konfrontasi (Confrontation Ends) (2014), National Library, retrieved from http://eresources.nlb.gov.sg/history/events/f950e04d-44d7-47ad-a10c-16dfb0cc9ce3
+HistorySG, Konfrontasi (Confrontation Ends) (2014), National Library, retrieved from [http://eresources.nlb.gov.sg/history/events/f950e04d-44d7-47ad-a10c-16dfb0cc9ce3](http://eresources.nlb.gov.sg/history/events/f950e04d-44d7-47ad-a10c-16dfb0cc9ce3)
 
-Ho Grace, (23 October 2019), Singapore to lead digital trade efforts and shape new digital trade architecture: Iswaran, The Straits Times, retrieved from https://www.straitstimes.com/singapore/singapore-to-lead-digital-trade-efforts-and-shape-new-digital-trade-architecture-iswaran
+Ho Grace, (23 October 2019), Singapore to lead digital trade efforts and shape new digital trade architecture: Iswaran, The Straits Times, retrieved from [https://www.straitstimes.com/singapore/singapore-to-lead-digital-trade-efforts-and-shape-new-digital-trade-architecture-iswaran](https://www.straitstimes.com/singapore/singapore-to-lead-digital-trade-efforts-and-shape-new-digital-trade-architecture-iswaran)
 
-Hon Sui Sen, (1973), Budget Statement 1973, retrieved from https://sprs.parl.gov.sg/search/topic?reportid=017_19740304_S0003_T0009
+Hon Sui Sen, (1973), Budget Statement 1973, retrieved from [https://sprs.parl.gov.sg/search/topic?reportid=017_19740304_S0003_T0009](https://sprs.parl.gov.sg/search/topic?reportid=017_19740304_S0003_T0009)
 
 I.F Tang, (2011), Heart Work, A Lemon Or a Rolls-Royce, Economic Development Board, Straits Times Press, p19.
 
-Isaac, Daniel, (2 April 2019), Foreign direct investments from the US to Singapore hit over US$244b, retrieved from https://sbr.com.sg/economy/exclusive/foreign-direct-investments-us-singapore-hit-over-244b
+Isaac, Daniel, (2 April 2019), Foreign direct investments from the US to Singapore hit over US$244b, retrieved from [https://sbr.com.sg/economy/exclusive/foreign-direct-investments-us-singapore-hit-over-244b](https://sbr.com.sg/economy/exclusive/foreign-direct-investments-us-singapore-hit-over-244b)
 
-Keane, Sean, (Feb 19 2020), Huawei ban: Full timeline as DOJ charges Chinese company with racketeering, trade secret theft, retrieved from https://www.cnet.com/news/huawei-ban-full-timeline-us-government-backdoor-access-mobile-networks-china-trump-ban-security-threat-mate-x/
+Keane, Sean, (Feb 19 2020), Huawei ban: Full timeline as DOJ charges Chinese company with racketeering, trade secret theft, retrieved from [https://www.cnet.com/news/huawei-ban-full-timeline-us-government-backdoor-access-mobile-networks-china-trump-ban-security-threat-mate-x/](https://www.cnet.com/news/huawei-ban-full-timeline-us-government-backdoor-access-mobile-networks-china-trump-ban-security-threat-mate-x/)
 
 Koh, T. T. B., et al. (Eds.). (2006). Singapore: The encyclopedia. Singapore: Editions Didier Millet in association with the National Heritage Board, p. 271. (Call no.: RSING 959.57003 SIN-[HIS])
 
-Koh, Tommy, (23 November 2019), Free Trade Agreements and Singapore, retrieved from https://cil.nus.edu.sg/publication/free-trade-agreements-and-singapore/
+Koh, Tommy, (23 November 2019), Free Trade Agreements and Singapore, retrieved from [https://cil.nus.edu.sg/publication/free-trade-agreements-and-singapore/](https://cil.nus.edu.sg/publication/free-trade-agreements-and-singapore/)
 
-Koo Tsai Kee, (10 March 1997), Speech at the Opening Of Aero-Green Technology (S) Pte Farm On Monday, retrieved from https://www.nas.gov.sg/archivesonline/data/pdfdoc/1997031002.htm
+Koo Tsai Kee, (10 March 1997), Speech at the Opening Of Aero-Green Technology (S) Pte Farm On Monday, retrieved from [https://www.nas.gov.sg/archivesonline/data/pdfdoc/1997031002.htm](https://www.nas.gov.sg/archivesonline/data/pdfdoc/1997031002.htm)
 
-Lee Hsien Loong, (20 October 2011), Debate on the President, retrieved from https://www.pmo.gov.sg/Newsroom/speech-prime-minister-lee-hsien-loong-debate-presidents-address-20-october-2011
+Lee Hsien Loong, (20 October 2011), Debate on the President, retrieved from [https://www.pmo.gov.sg/Newsroom/speech-prime-minister-lee-hsien-loong-debate-presidents-address-20-october-2011](https://www.pmo.gov.sg/Newsroom/speech-prime-minister-lee-hsien-loong-debate-presidents-address-20-october-2011)
 
-Lee Hsien Loong, (27 September 2019), National Statement by PM Lee Hsien Loong at the 74th Session of the United Nations General Assembly, retrieved from https://www.pmo.gov.sg/Newsroom/National-Statement-by-PM-Lee-Hsien-Loong-at-the-74th-Session-of-the-United-Nations-General-Assembly
+Lee Hsien Loong, (27 September 2019), National Statement by PM Lee Hsien Loong at the 74th Session of the United Nations General Assembly, retrieved from [https://www.pmo.gov.sg/Newsroom/National-Statement-by-PM-Lee-Hsien-Loong-at-the-74th-Session-of-the-United-Nations-General-Assembly](https://www.pmo.gov.sg/Newsroom/National-Statement-by-PM-Lee-Hsien-Loong-at-the-74th-Session-of-the-United-Nations-General-Assembly)
 
 Lee Kuan Yew, (1999), The Wit and Wisdom of Lee Kuan Yew, Editions Didier Millet, 2013, p14.
 
-Lee Kuan Yew, (12 September 1965), Speech at the Sree Narayana Mission in Sembawang, retrieved from https://www.nas.gov.sg/archivesonline/data/pdfdoc/lky19650912a.pdf
+Lee Kuan Yew, (12 September 1965), Speech at the Sree Narayana Mission in Sembawang, retrieved from [https://www.nas.gov.sg/archivesonline/data/pdfdoc/lky19650912a.pdf](https://www.nas.gov.sg/archivesonline/data/pdfdoc/lky19650912a.pdf)
 
-Lee Kuan Yew, (17 October 1965), Speech at the Leong Khay Huay Kuan, retrieved from https://www.nas.gov.sg/archivesonline/data/pdfdoc/lky19651017b.pdf
+Lee Kuan Yew, (17 October 1965), Speech at the Leong Khay Huay Kuan, retrieved from [https://www.nas.gov.sg/archivesonline/data/pdfdoc/lky19651017b.pdf](https://www.nas.gov.sg/archivesonline/data/pdfdoc/lky19651017b.pdf)
 
 Lee Kuan Yew, (1998), The Singapore Story: Memoirs of Lee Kuan Yew, Singapore Press Holdings, pg. 58.
 
-Lee Kuan Yew, (31 December 1986), Prime Minister’s New Year Message 1987, retrieved from https://www.nas.gov.sg/archivesonline/data/pdfdoc/lky19870101.pdf
+Lee Kuan Yew, (31 December 1986), Prime Minister’s New Year Message 1987, retrieved from [https://www.nas.gov.sg/archivesonline/data/pdfdoc/lky19870101.pdf](https://www.nas.gov.sg/archivesonline/data/pdfdoc/lky19870101.pdf)
 
-Lee Yen Nee, (12 November 2019), The world’s largest trade deal could be signed in 2020 — and the US isn’t in it, retrieved from https://www.cnbc.com/2019/11/12/what-is-rcep-asia-pacific-trade-deal-slated-to-be-worlds-largest-fta.html
+Lee Yen Nee, (12 November 2019), The world’s largest trade deal could be signed in 2020 — and the US isn’t in it, retrieved from [https://www.cnbc.com/2019/11/12/what-is-rcep-asia-pacific-trade-deal-slated-to-be-worlds-largest-fta.html](https://www.cnbc.com/2019/11/12/what-is-rcep-asia-pacific-trade-deal-slated-to-be-worlds-largest-fta.html)
 
 Lee, Lai To, (1987), Singapore in 1986: Consolidation and Reorientation in a Recession, Asian Survey.
 
-ehmacher, Wolfgang, (2016), The ASEAN Economic Community: what you need to know, retrieved from https://www.weforum.org/agenda/2016/05/asean-economic-community-what-you-need-to-know/
+ehmacher, Wolfgang, (2016), The ASEAN Economic Community: what you need to know, retrieved from [https://www.weforum.org/agenda/2016/05/asean-economic-community-what-you-need-to-know/](https://www.weforum.org/agenda/2016/05/asean-economic-community-what-you-need-to-know/)
 
 Loh Kah Seng (2011), Singapore In Global History, “The British Military Withdrawal from Singapore and the Anatomy of a Catalyst”, Amsterdam University Press, Amsterdam, p.200, p.212.
 
-Ministry of Trade and Industry, (1984), Report of The Tourism Task Force, p. 5-9, retrieved from https://eservice.nlb.gov.sg/data2/BookSG/publish/4/44d861a9-47f8-4872-9938-0acb5bf81a34/web/html5/index.html?opf=tablet/BOOKSG.xml&launchlogo=tablet/BOOKSG_BrandingLogo_.png&pn=11
+Ministry of Trade and Industry, (1984), Report of The Tourism Task Force, p. 5-9, retrieved from [https://eservice.nlb.gov.sg/data2/BookSG/publish/4/44d861a9-47f8-4872-9938-0acb5bf81a34/web/html5/index.html?opf=tablet/BOOKSG.xml&launchlogo=tablet/BOOKSG_BrandingLogo_.png&pn=11](https://eservice.nlb.gov.sg/data2/BookSG/publish/4/44d861a9-47f8-4872-9938-0acb5bf81a34/web/html5/index.html?opf=tablet/BOOKSG.xml&launchlogo=tablet/BOOKSG_BrandingLogo_.png&pn=11)
 
-Ministry of Trade and Industry, (2017), Report on the Committee on the Future Economy, Pioneers of a New Generation, retrieved from https://www.mti.gov.sg/-/media/MTI/Resources/Publications/Report-of-the-Committee-on-the-Future-Economy/CFE_Full-Report.pdf
+Ministry of Trade and Industry, (2017), Report on the Committee on the Future Economy, Pioneers of a New Generation, retrieved from [https://www.mti.gov.sg/-/media/MTI/Resources/Publications/Report-of-the-Committee-on-the-Future-Economy/CFE_Full-Report.pdf](https://www.mti.gov.sg/-/media/MTI/Resources/Publications/Report-of-the-Committee-on-the-Future-Economy/CFE_Full-Report.pdf)
 
-Ministry of Trade and Industry, (n.d.), Free Trade Agreements, retrieved from https://www.mti.gov.sg/Improving-Trade/Free-Trade-Agreements
+Ministry of Trade and Industry, (n.d.), Free Trade Agreements, retrieved from [https://www.mti.gov.sg/Improving-Trade/Free-Trade-Agreements](https://www.mti.gov.sg/Improving-Trade/Free-Trade-Agreements)
 
-Ministry of Trade and Industry, (n.d.), Overview of Industry Transformation Maps, retrieved from https://www.mti.gov.sg/ITMs/Overview
+Ministry of Trade and Industry, (n.d.), Overview of Industry Transformation Maps, retrieved from [https://www.mti.gov.sg/ITMs/Overview](https://www.mti.gov.sg/ITMs/Overview)
 
-Nisha Ramchandani, (23 March 2015), Changi Airport continues to pursue Lee Kuan Yew’s vision: CAG, retrieved from https://www.businesstimes.com.sg/government-economy/lee-kuan-yew-dies/changi-airport-continues-to-pursue-lee-kuan-yews-vision-cag
+Nisha Ramchandani, (23 March 2015), Changi Airport continues to pursue Lee Kuan Yew’s vision: CAG, retrieved from [https://www.businesstimes.com.sg/government-economy/lee-kuan-yew-dies/changi-airport-continues-to-pursue-lee-kuan-yews-vision-cag](https://www.businesstimes.com.sg/government-economy/lee-kuan-yew-dies/changi-airport-continues-to-pursue-lee-kuan-yews-vision-cag)
 
-Office of US Trade Representative, (2003), United States – Singapore Free Trade Agreement, retrieved from https://ustr.gov/sites/default/files/uploads/agreements/fta/singapore/asset_upload_file708_4036.pdf
+Office of US Trade Representative, (2003), United States – Singapore Free Trade Agreement, retrieved from [https://ustr.gov/sites/default/files/uploads/agreements/fta/singapore/asset_upload_file708_4036.pdf](https://ustr.gov/sites/default/files/uploads/agreements/fta/singapore/asset_upload_file708_4036.pdf)
 
-Ong Ye Kung, (3 December 2019), Speech given at Singapore Polytechnic (SP) 65th Anniversary Gala Dinner, at the SP Graduates Guild, retrieved from https://www.moe.gov.sg/news/speeches/speech-by-mr-ong-ye-kung–minister-for-education–at-the-singapore-polytechnic-sp-65th-anniversary-gala-dinner–at-the-sp-graduates-guild
+Ong Ye Kung, (3 December 2019), Speech given at Singapore Polytechnic (SP) 65th Anniversary Gala Dinner, at the SP Graduates Guild, retrieved from [https://www.moe.gov.sg/news/speeches/speech-by-mr-ong-ye-kung–minister-for-education–at-the-singapore-polytechnic-sp-65th-anniversary-gala-dinner–at-the-sp-graduates-guild](https://www.moe.gov.sg/news/speeches/speech-by-mr-ong-ye-kung–minister-for-education–at-the-singapore-polytechnic-sp-65th-anniversary-gala-dinner–at-the-sp-graduates-guild)
 
-Public Service Division, (2015), Making a Living, Ensuring Growth, retrieved from https://www.psd.gov.sg/heartofpublicservice/our-institutions/making-a-living-ensuring-growth/
+Public Service Division, (2015), Making a Living, Ensuring Growth, retrieved from [https://www.psd.gov.sg/heartofpublicservice/our-institutions/making-a-living-ensuring-growth/](https://www.psd.gov.sg/heartofpublicservice/our-institutions/making-a-living-ensuring-growth/)
 
-Public Service Division, (2015), Our Heart, retrieved from https://www.psd.gov.sg/heartofpublicservice/our-institutions/making-a-living-ensuring-growth/
+Public Service Division, (2015), Our Heart, retrieved from [https://www.psd.gov.sg/heartofpublicservice/our-institutions/making-a-living-ensuring-growth/](https://www.psd.gov.sg/heartofpublicservice/our-institutions/making-a-living-ensuring-growth/)
 
-Pwee, Timothy, (October 2018), National Iron and Steel Mills (NatSteel), retrieved from https://eresources.nlb.gov.sg/infopedia/articles/SIP_2018-11-20_105235.html
+Pwee, Timothy, (October 2018), National Iron and Steel Mills (NatSteel), retrieved from [https://eresources.nlb.gov.sg/infopedia/articles/SIP_2018-11-20_105235.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2018-11-20_105235.html)
 
-Randstad, (2018), Employees fear for job security due to lack of digital skills in Singapore, Hong Kong SAR and Malaysia, retrieved from https://www.randstad.com.sg/about-us/news/employees-fear-for-job-security-due-to-lack-of-digital-skills-in-singapore-hong-kong-and-malaysia/
+Randstad, (2018), Employees fear for job security due to lack of digital skills in Singapore, Hong Kong SAR and Malaysia, retrieved from [https://www.randstad.com.sg/about-us/news/employees-fear-for-job-security-due-to-lack-of-digital-skills-in-singapore-hong-kong-and-malaysia/](https://www.randstad.com.sg/about-us/news/employees-fear-for-job-security-due-to-lack-of-digital-skills-in-singapore-hong-kong-and-malaysia/)
 
 Schein, E. H. (1996). Strategic pragmatism: The culture of Singapore’s Economic Development Board. Cambridge, Mass.: MIT Press. pp. 39, 62. (Call no.: RSING 338.95957 SCH).
 
-Sek Victoria, (18 February 2019), SG Budget 2019: S’pore Govt Expects To Spend $4.6B Over Next 3 Years On Capability-Building Measures, retrieved from https://vulcanpost.com/656952/budget-2019-singapore-4-6b-spending/
+Sek Victoria, (18 February 2019), SG Budget 2019: S’pore Govt Expects To Spend $4.6B Over Next 3 Years On Capability-Building Measures, retrieved from [https://vulcanpost.com/656952/budget-2019-singapore-4-6b-spending/](https://vulcanpost.com/656952/budget-2019-singapore-4-6b-spending/)
 
-Singapore Food Agency, (2019), AVA: A LEGACY OF EXCELLENCE; a commemorative issue, retrieved from https://www.sfa.gov.sg/docs/default-source/publication/ava-vision/ava-vision-issue-1-2019.pdf
+Singapore Food Agency, (2019), AVA: A LEGACY OF EXCELLENCE; a commemorative issue, retrieved from [https://www.sfa.gov.sg/docs/default-source/publication/ava-vision/ava-vision-issue-1-2019.pdf](https://www.sfa.gov.sg/docs/default-source/publication/ava-vision/ava-vision-issue-1-2019.pdf)
 
-Singapore Food Agency, (n.d.), Celebrating AVA’s Excellence Through the Years, retrieved from https://www.sfa.gov.sg/docs/default-source/publication/ava-vision/ava-15years.pdf
+Singapore Food Agency, (n.d.), Celebrating AVA’s Excellence Through the Years, retrieved from [https://www.sfa.gov.sg/docs/default-source/publication/ava-vision/ava-15years.pdf](https://www.sfa.gov.sg/docs/default-source/publication/ava-vision/ava-15years.pdf)
 
-Singapore Infopedia, (2014), Jurong Town Corporation, retrieved from https://eresources.nlb.gov.sg/infopedia/articles/SIP_553_2004-12-31.html
+Singapore Infopedia, (2014), Jurong Town Corporation, retrieved from [https://eresources.nlb.gov.sg/infopedia/articles/SIP_553_2004-12-31.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_553_2004-12-31.html)
 
-Soon Teck-Wong, Tan C. Suan Tan, (n.d.), The Lessons of East Asia: Singapore Public Policy and Economic Development, p11, retrieved from http://documents.worldbank.org/curated/en/376061468776806693/pdf/multi0page.pdf
+Soon Teck-Wong, Tan C. Suan Tan, (n.d.), The Lessons of East Asia: Singapore Public Policy and Economic Development, p11, retrieved from [http://documents.worldbank.org/curated/en/376061468776806693/pdf/multi0page.pdf](http://documents.worldbank.org/curated/en/376061468776806693/pdf/multi0page.pdf)
 
-Startup Genome, (2019), Global Startup Ecosystem Report 2019, Startup Genome, p58, retrieved from https://startupgenome.com/reports/global-startup-ecosystem-report-2019
+Startup Genome, (2019), Global Startup Ecosystem Report 2019, Startup Genome, p58, retrieved from [https://startupgenome.com/reports/global-startup-ecosystem-report-2019](https://startupgenome.com/reports/global-startup-ecosystem-report-2019)
 
-Surbana Jurong, (n.d), Jurong Island, retrieved from https://surbanajurong.com/sector/jurong-island-petrochemical-hub/
+Surbana Jurong, (n.d), Jurong Island, retrieved from [https://surbanajurong.com/sector/jurong-island-petrochemical-hub/](https://surbanajurong.com/sector/jurong-island-petrochemical-hub/)
 
-Tan, Soon, (1993), The Lessons of East Asia: Singapore Public Policy and Economic Development, retrieved from http://documents.worldbank.org/curated/en/376061468776806693/pdf/multi0page.pdf
+Tan, Soon, (1993), The Lessons of East Asia: Singapore Public Policy and Economic Development, retrieved from [http://documents.worldbank.org/curated/en/376061468776806693/pdf/multi0page.pdf](http://documents.worldbank.org/curated/en/376061468776806693/pdf/multi0page.pdf)
 
-Teck Woon Soon, Tan, C. Suan, (1993), The Lessons of East Asia, Singapore Public Policy and Economic Development, The World Bank, retrieved from http://documents.worldbank.org/curated/en/376061468776806693/pdf/multi0page.pdf
+Teck Woon Soon, Tan, C. Suan, (1993), The Lessons of East Asia, Singapore Public Policy and Economic Development, The World Bank, retrieved from [http://documents.worldbank.org/curated/en/376061468776806693/pdf/multi0page.pdf](http://documents.worldbank.org/curated/en/376061468776806693/pdf/multi0page.pdf)
 
-Teh, Cheryl, (18 February 2019), Singapore Budget 2019: New aquaculture centre to work on improving Singapore’s food resilience, retrieved from https://www.straitstimes.com/singapore/singapore-budget-2019-new-aquaculture-centre-to-work-on-improving-singapores-food
+Teh, Cheryl, (18 February 2019), Singapore Budget 2019: New aquaculture centre to work on improving Singapore’s food resilience, retrieved from [https://www.straitstimes.com/singapore/singapore-budget-2019-new-aquaculture-centre-to-work-on-improving-singapores-food](https://www.straitstimes.com/singapore/singapore-budget-2019-new-aquaculture-centre-to-work-on-improving-singapores-food)
 
-The Big Aid Industry, (23 August 1961), retrieved from https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19610823-1.2.77
+The Big Aid Industry, (23 August 1961), retrieved from [https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19610823-1.2.77](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19610823-1.2.77)
 
-The Business Times, The ten-year plan, (7 March 1981), p. 7, retrieved from https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19810307-1.2.28
+The Business Times, The ten-year plan, (7 March 1981), p. 7, retrieved from [https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19810307-1.2.28](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19810307-1.2.28)
 
-The Singapore Free Press, (27 July 1961), Refinery opens: Proud day for S’pore – and Sarmanis, p. 1, retrieved from https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19610727-1.2.5
+The Singapore Free Press, (27 July 1961), Refinery opens: Proud day for S’pore – and Sarmanis, p. 1, retrieved from [https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19610727-1.2.5](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19610727-1.2.5)
 
-The Straits Times, (1967), Pull-out in middle 1970’s, retrieved from https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670719-1.2.2
+The Straits Times, (1967), Pull-out in middle 1970’s, retrieved from [https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670719-1.2.2](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670719-1.2.2)
 
-The Straits Times, (18 June 1981), World’s largest column-free hangar, retrieved from https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810618-1.2.131.4
+The Straits Times, (18 June 1981), World’s largest column-free hangar, retrieved from [https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810618-1.2.131.4](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810618-1.2.131.4)
 
-The Straits Times, (5 April 1975), Driving home the need for higher output, retrieved from https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750405-1.2.30
+The Straits Times, (5 April 1975), Driving home the need for higher output, retrieved from [https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750405-1.2.30](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750405-1.2.30)
 
-The Straits Times, (6 February 2009), There was a time when Singapore had to dip into its reserves, retrieved from https://www.straitstimes.com/singapore/from-the-archives-there-was-a-time-when-singapore-had-to-dip-into-its-reserves
+The Straits Times, (6 February 2009), There was a time when Singapore had to dip into its reserves, retrieved from [https://www.straitstimes.com/singapore/from-the-archives-there-was-a-time-when-singapore-had-to-dip-into-its-reserves](https://www.straitstimes.com/singapore/from-the-archives-there-was-a-time-when-singapore-had-to-dip-into-its-reserves)
 
-TODAY, (15–16 May 2010), Goh Keng Swee: 1918-2010, A visionary who didn’t believe in dreams: A look into the life of the man responsible for HDB flats, National Service, JTC … even the Zoo, pp. 12–13, retrieved from https://eresources.nlb.gov.sg/newspapers/Digitised/Page/today20100515-1.1.12
+TODAY, (15–16 May 2010), Goh Keng Swee: 1918-2010, A visionary who didn’t believe in dreams: A look into the life of the man responsible for HDB flats, National Service, JTC … even the Zoo, pp. 12–13, retrieved from [https://eresources.nlb.gov.sg/newspapers/Digitised/Page/today20100515-1.1.12](https://eresources.nlb.gov.sg/newspapers/Digitised/Page/today20100515-1.1.12)
 
-TODAY, (26 March 2020), SG Resilience Budget 2020, retrieved from https://www.todayonline.com/singapore/covid-19-sg-supplementary-budget-2020
+TODAY, (26 March 2020), SG Resilience Budget 2020, retrieved from [https://www.todayonline.com/singapore/covid-19-sg-supplementary-budget-2020](https://www.todayonline.com/singapore/covid-19-sg-supplementary-budget-2020)
 
 V.V Bhanoji Rao, M Ramakrishnan, (1980), Income Inequality in Singapore, Singapore University Press, p3.
 
-Vivien Shiao, (7 December 2017), Singapore’s ageing population a ticking ‘time bomb’, The Business Times, retrieved from https://www.businesstimes.com.sg/government-economy/singapores-ageing-population-a-ticking-time-bomb
+Vivien Shiao, (7 December 2017), Singapore’s ageing population a ticking ‘time bomb’, The Business Times, retrieved from [https://www.businesstimes.com.sg/government-economy/singapores-ageing-population-a-ticking-time-bomb](https://www.businesstimes.com.sg/government-economy/singapores-ageing-population-a-ticking-time-bomb)
 
 Winsemius Albert, (19 June 1984), Speech to the GE International Personnel Council Meeting in Singapore.
 
-Wong Poh-Kam, (1999), The Dynamics of HDD Industry Development in Singapore, San Diego, University of California, p3, retrieved from https://www.academia.edu/204360/THE_DYNAMICS_OF_HDD_INDUSTRY_DEVELOPMENT_IN_SINGAPORE
+Wong Poh-Kam, (1999), The Dynamics of HDD Industry Development in Singapore, San Diego, University of California, p3, retrieved from [https://www.academia.edu/204360/THE_DYNAMICS_OF_HDD_INDUSTRY_DEVELOPMENT_IN_SINGAPORE](https://www.academia.edu/204360/THE_DYNAMICS_OF_HDD_INDUSTRY_DEVELOPMENT_IN_SINGAPORE)
