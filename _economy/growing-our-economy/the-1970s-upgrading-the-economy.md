@@ -20,7 +20,7 @@ With a limited supply of manpower, labour costs started to rise. At the same tim
 
 In order to keep growing, Singapore had to adjust its economic strategy away from labour-intensive industries and into higher-value goods. This would ensure that Singapore’s workers continue to see a flow of jobs and income.
 
-![Alt text for image on Isomer site](/images/economy/growing-our-economy/img0014.jpg) (Image: Esso Refinery at Pulau Ayer Chawan, 1971; [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d78f7c26-1161-11e3-83d5-0050568939ad))
+![Alt text for image on Isomer site](/images/economy/growing-our-economy/img0014.jpg)(Image: Esso Refinery at Pulau Ayer Chawan, 1971; [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d78f7c26-1161-11e3-83d5-0050568939ad))
 
 In 1973, then Finance Minister Mr Hon Sui Sen announced a two-pronged approach to tackle the labour shortage in Singapore. One, attract new foreign investment in higher-value manufacturing, such as petrochemicals and precision engineering. Two, to upgrade and upskill workers across the economy in a bid to raise productivity.
 
