@@ -1,10 +1,8 @@
 show_reach: false
-feedback: "-"
-faq: "-"
 social_media:
   facebook: https://www.facebook.com/ConnexionSG/
   twitter: https://twitter.com/connexionsg
   youtube: https://www.youtube.com/user/connexionSG
   instagram: https://www.instagram.com/connexionsg/
   linkedin: https://www.linkedin.com/company/mindefsg/mycompany/
-contact_us: Contact Us
+contact_us: /contact-us/
