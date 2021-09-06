@@ -3,3 +3,17 @@ title: "Jurong Island: The Chemical Island"
 permalink: /economy/digging-deeper-case-studies/jurong2
 third_nav_title: Digging Deeper Case Studies
 ---
+<i>2 minute read</i>
+
+![Alt text for image on Isomer site](/images/economy/case-studies/ind-jurongisland2.jpg)
+(Images: [JTC Corporation](https://www.jtc.gov.sg/industrial-land-and-space/Pages/jurong-island.aspx))
+
+Formed from seven smaller islands, Jurong Island was borne out of a vision that Singapore could be a leading global petrochemicals player despite its size. The idea to develop the southern islands came as early as the 1980s. But it was only in the 1990s that Singapore moved to realise this dream of creating an island dedicated to the production of specialty chemicals.
+
+A big part of the reason for building Jurong Island was because of the pressing need to diversify away from electronics manufacturing, which had become a key export for Singapore. Petrochemicals was a good fit for Singapore as Singapore had already established itself as a major oil refining hub in the region.
+
+The idea to build a man-made island came from former EDB chairman Philip Yeo. His plan: to build an integrated facility that would anchor the various types of petrochemical companies in Singapore.
+
+JTC and EDB worked together with other government agencies to develop the island. In 1991, JTC was appointed the agent of the Jurong Island project. JTC planned and worked with other agencies to provide infrastructure and services to the island, including land reclamation, roads and utilities. EDB officers went on an aggressive investment promotion drive to sell the idea to foreign petrochemical companies.
+
+Jurong Island cost the government an estimated $7 billion but it has more than paid back its investment. Since it opened, it has attracted over $50 billion worth of investments, with more than 100 companies employing some 26,000 people. It is a symbol of Singapore’s efficiency, boldness and innovation, traits that will keep Singapore’s economy going.
