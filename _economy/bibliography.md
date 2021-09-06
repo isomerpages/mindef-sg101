@@ -6,37 +6,37 @@ Aqil Haziq Mahmud, (7 March 2019), Singapore aims to produce 30% of its nutritio
 
 Asean, (20 November 2007), 13th Asean Summit Press Statement, National Archives of Singapore, retrieved from [https://www.nas.gov.sg/archivesonline/data/pdfdoc/20071120985.pdf](https://www.nas.gov.sg/archivesonline/data/pdfdoc/20071120985.pdf)
 
-Boston Consultant Group, (3 April 2017), BCG launches Industry 4.0 Accelerator Program and its first Asian Innovation Centre for Operations (ICO) in Singapore, retrieved from https://www.bcg.com/en-sea/d/press/3april2017-asian-innovation-centre-for-operations-150605
+Boston Consultant Group, (3 April 2017), BCG launches Industry 4.0 Accelerator Program and its first Asian Innovation Centre for Operations (ICO) in Singapore, retrieved from [https://www.bcg.com/en-sea/d/press/3april2017-asian-innovation-centre-for-operations-150605](https://www.bcg.com/en-sea/d/press/3april2017-asian-innovation-centre-for-operations-150605)
 
-British Broadcasting Corporation, (26 June 2019), Robots ‘to replace up to 20 million factory jobs’ by 2030, retrieved from https://www.bbc.com/news/business-48760799
+British Broadcasting Corporation, (26 June 2019), Robots ‘to replace up to 20 million factory jobs’ by 2030, retrieved from [https://www.bbc.com/news/business-48760799](https://www.bbc.com/news/business-48760799)
 
-Building on the Economic Miracle, (2009), retrieved from https://www.nas.gov.sg/1stCab/7585/travel_exh_Sec4.html
+Building on the Economic Miracle, (2009), retrieved from [https://www.nas.gov.sg/1stCab/7585/travel_exh_Sec4.html](https://www.nas.gov.sg/1stCab/7585/travel_exh_Sec4.html)
 
-Carpenter, Keith and Ng Wai Kiong, (2013), Singapore’s Chemicals Industry: Engineering an Island, retrieved from http://fscarbonmanagement.org/sites/default/files/cep/20130456.pdf
+Carpenter, Keith and Ng Wai Kiong, (2013), Singapore’s Chemicals Industry: Engineering an Island, retrieved from [http://fscarbonmanagement.org/sites/default/files/cep/20130456.pdf](http://fscarbonmanagement.org/sites/default/files/cep/20130456.pdf)
 
-Channel News Asia, (26 March 2020), Singapore’s economy contracts by 2.2% in Q1 as COVID-19 outbreak hits construction, services sectors, retrieved from https://www.channelnewsasia.com/news/business/singapore-gdp-growth-slows-advance-estimate-covid-19-12577146
+Channel News Asia, (26 March 2020), Singapore’s economy contracts by 2.2% in Q1 as COVID-19 outbreak hits construction, services sectors, retrieved from [https://www.channelnewsasia.com/news/business/singapore-gdp-growth-slows-advance-estimate-covid-19-12577146](https://www.channelnewsasia.com/news/business/singapore-gdp-growth-slows-advance-estimate-covid-19-12577146)
 
-Chee Veronica, (2017), Port of Singapore Authority (PSA), retrieved from https://eresources.nlb.gov.sg/infopedia/articles/SIP_577_2005-01-27.html
+Chee Veronica, (2017), Port of Singapore Authority (PSA), retrieved from [https://eresources.nlb.gov.sg/infopedia/articles/SIP_577_2005-01-27.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_577_2005-01-27.html)
 
 Cheng Siok Hwa (1979), Economic Change in Singapore 1945-1977, Southeast Asian Journal of Social Science, Vol. 7, No. 1/2, University of Malaya, p83.
 
-Department of Statistics Singapore, (n.d.), Population and Population Structure, retrieved from https://www.singstat.gov.sg/find-data/search-by-theme/population/population-and-population-structure/latest-data
+Department of Statistics Singapore, (n.d.), Population and Population Structure, retrieved from [https://www.singstat.gov.sg/find-data/search-by-theme/population/population-and-population-structure/latest-data](https://www.singstat.gov.sg/find-data/search-by-theme/population/population-and-population-structure/latest-data)
 
-Department of Statistics Singapore, (2019), Death and Life Expectancy, retrieved from https://www.singstat.gov.sg/find-data/search-by-theme/population/death-and-life-expectancy/latest-data
+Department of Statistics Singapore, (2019), Death and Life Expectancy, retrieved from [https://www.singstat.gov.sg/find-data/search-by-theme/population/death-and-life-expectancy/latest-data](https://www.singstat.gov.sg/find-data/search-by-theme/population/death-and-life-expectancy/latest-data)
 
-Department of Statistics Singapore, (n.d.) Understanding Age-Specific Fertility Rate & Total Fertility Rate, retrieved from https://www.singstat.gov.sg/modules/infographics/total-fertility-rate
+Department of Statistics Singapore, (n.d.) Understanding Age-Specific Fertility Rate & Total Fertility Rate, retrieved from [https://www.singstat.gov.sg/modules/infographics/total-fertility-rate](https://www.singstat.gov.sg/modules/infographics/total-fertility-rate)
 
-Economic Development Board, (n.d), World-class Infrastructure, retrieved from https://www.edb.gov.sg/en/our-industries/energy-and-chemicals.html
+Economic Development Board, (n.d), World-class Infrastructure, retrieved from [https://www.edb.gov.sg/en/our-industries/energy-and-chemicals.html](https://www.edb.gov.sg/en/our-industries/energy-and-chemicals.html)
 
 Economic Development Board, (1991), Singapore Economic Development Board: Thirty years of economic development. Singapore: The Board, pp. 23–24. (Call no.: RSING 338.95957 SIN)
 
 Edwards, N., & Keys, P, (1988), Singapore: A guide to buildings, streets, places Singapore: Times Books International, pp. 61–62.
 
-Ghosh, Nirmal, (29 October 2017), Singapore is second-largest Asian investor in the US and its largest trade partner in Asean, retrieved from, https://www.straitstimes.com/world/united-states/singapore-is-second-largest-asian-investor-in-the-us-and-its-largest-trade
+Ghosh, Nirmal, (29 October 2017), Singapore is second-largest Asian investor in the US and its largest trade partner in Asean, retrieved from, [https://www.straitstimes.com/world/united-states/singapore-is-second-largest-asian-investor-in-the-us-and-its-largest-trade](https://www.straitstimes.com/world/united-states/singapore-is-second-largest-asian-investor-in-the-us-and-its-largest-trade)
 
-Global Agriculture’s Many Opportunities, (2015), McKinsey, retrieved from https://www.mckinsey.com/~/media/McKinsey/Industries/Private%20Equity%20and%20Principal%20Investors/Our%20Insights/Global%20agricultures%20many%20opportunities/Global%20agricultures%20many%20opportunities.ashx
+Global Agriculture’s Many Opportunities, (2015), McKinsey, retrieved from [https://www.mckinsey.com/~/media/McKinsey/Industries/Private%20Equity%20and%20Principal%20Investors/Our%20Insights/Global%20agricultures%20many%20opportunities/Global%20agricultures%20many%20opportunities.ashx](https://www.mckinsey.com/~/media/McKinsey/Industries/Private%20Equity%20and%20Principal%20Investors/Our%20Insights/Global%20agricultures%20many%20opportunities/Global%20agricultures%20many%20opportunities.ashx)
 
-Goh Chok Tong, (19 October 2003), Keynote Address at the APEC CEO Summit, retrieved from https://www.nas.gov.sg/archivesonline/data/pdfdoc/20031019_0001.pdf
+Goh Chok Tong, (19 October 2003), Keynote Address at the APEC CEO Summit, retrieved from [https://www.nas.gov.sg/archivesonline/data/pdfdoc/20031019_0001.pdf](https://www.nas.gov.sg/archivesonline/data/pdfdoc/20031019_0001.pdf)
 
 Goh Chok Tong, (1981), Budget Statement 1981, retrieved from https://www.nas.gov.sg/archivesonline/data/pdfdoc/gct19810306s.pdf
 
