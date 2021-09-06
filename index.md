@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: ConnexionSG
+title: SG101
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
