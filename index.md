@@ -17,7 +17,7 @@ sections:
           - title: Economy
             url: /economy/our-fundamentals
           - title: Infrastructure
-            url: food/food-history/ice-cream-bread
+            url: ""
           - title: Social / National Identity
             url: ""
   - resources:
