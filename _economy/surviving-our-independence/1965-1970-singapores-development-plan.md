@@ -9,7 +9,7 @@ Without Malaysia’s large market, Singapore’s leaders had to think out of the
 
 Singapore’s plans were, however, disrupted by a shock announcement. Just two years after independence, in 1967, the British announced that it would withdraw its forces from Singapore, dealing a huge blow to the newly independent nation. Not only would the withdrawal compromise the defence of Singapore’s sovereignty, it would also deeply impact Singapore’s economy.
 
-![Alt text for image on Isomer site](/images/economy/Case%20Study_British%20Withdrawal.gif)
+[![Alt text for image on Isomer site](/images/economy/Case%20Study_British%20Withdrawal.gif)](/economy/digging-deeper-case-studies/withdrawal)
 
 The British withdrawal meant that Singapore had to accelerate its plans for an export-led industralisation strategy. This required Singapore to open our borders to foreign investors, a course of action that seemed to go against conventional wisdom at the time. While some newly independent nations were moving to eject foreign corporations from their borders, slashing imports and manufacturing their own products for the domestic market, this only worked because they had a large domestic market that Singapore did not have.
 
