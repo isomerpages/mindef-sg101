@@ -8,7 +8,7 @@ links:
     collection: economy
   - title: Infrastructure
     collection: infrastructure
-  - title: Social National Identity
+  - title: Social / National Identity
     collection: social-national-identity
   - title: Resources
     resource_room: true
