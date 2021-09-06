@@ -50,7 +50,7 @@ Goh, Keng Swee, (1977), “A socialist economy that works,” in Nair, C.V.D. (E
 
 Government of Singapore, (2020), Overall Fiscal Position for FY 2014 to FY 2020 ($ million), retrieved from [https://www.singaporebudget.gov.sg/docs/default-source/budget_2020/download/pdf/fy2020_analysis_of_revenue_and_expenditure.pdf](https://www.singaporebudget.gov.sg/docs/default-source/budget_2020/download/pdf/fy2020_analysis_of_revenue_and_expenditure.pdf)
 
-Guide Me Singapore, (2014), Impact of ASEAN Economic Community (AEC), retrieved from [https://www.guidemesingapore.com/in-the-news/2014/2014—impact-of-asean-economic-community-aec](https://www.guidemesingapore.com/in-the-news/2014/2014—impact-of-asean-economic-community-aec)
+Guide Me Singapore, (2014), Impact of ASEAN Economic Community (AEC), retrieved from [https://www.guidemesingapore.com/in-the-news/2014/2014—impact-of-asean-economic-community-aec](https://www.guidemesingapore.com/in-the-news/2014/2014---impact-of-asean-economic-community-aec)
 
 Han Fook Kwang, Zuraidah Ibrahim, et al, (2011), Lee Kuan Yew: Hard Truths to Keep Singapore Going, Singapore, Straits Times Press, p156.
 
