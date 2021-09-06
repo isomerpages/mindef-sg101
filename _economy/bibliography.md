@@ -2,9 +2,9 @@
 title: Bibliography
 permalink: /economy/bibliography1
 ---
-Aqil Haziq Mahmud, (7 March 2019), Singapore aims to produce 30% of its nutritional needs by 2030, up from less than 10%, retrieved from https://www.channelnewsasia.com/news/singapore/singapore-produce-30-own-food-up-from-10-nutritional-needs-11320426
+Aqil Haziq Mahmud, (7 March 2019), Singapore aims to produce 30% of its nutritional needs by 2030, up from less than 10%, retrieved from [https://www.channelnewsasia.com/news/singapore/singapore-produce-30-own-food-up-from-10-nutritional-needs-11320426](https://www.channelnewsasia.com/news/singapore/singapore-produce-30-own-food-up-from-10-nutritional-needs-11320426)
 
-Asean, (20 November 2007), 13th Asean Summit Press Statement, National Archives of Singapore, retrieved from https://www.nas.gov.sg/archivesonline/data/pdfdoc/20071120985.pdf
+Asean, (20 November 2007), 13th Asean Summit Press Statement, National Archives of Singapore, retrieved from [https://www.nas.gov.sg/archivesonline/data/pdfdoc/20071120985.pdf](https://www.nas.gov.sg/archivesonline/data/pdfdoc/20071120985.pdf)
 
 Boston Consultant Group, (3 April 2017), BCG launches Industry 4.0 Accelerator Program and its first Asian Innovation Centre for Operations (ICO) in Singapore, retrieved from https://www.bcg.com/en-sea/d/press/3april2017-asian-innovation-centre-for-operations-150605
 
