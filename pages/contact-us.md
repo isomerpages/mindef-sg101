@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: ConnexionSG
+agency_name: SG101
 contacts:
   - content:
       - phone: ""
