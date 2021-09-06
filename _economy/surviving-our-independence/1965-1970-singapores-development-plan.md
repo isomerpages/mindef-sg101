@@ -97,4 +97,4 @@ Today, tripartism is seen as a key competitive advantage for Singapore. It has b
 
 By 1970, about a decade after the industrialisation plan was first conceived, Singapore had achieved near full employment. Industrial action had dropped significantly. Instead of disruption, a spirit of cooperation took its place.
 
-![Alt text for image on Isomer site](/images/economy/More_Labour%20Movement.gif)
+[![Alt text for image on Isomer site](/images/economy/More_Labour%20Movement.gif)](http://ms50.ntuc.org.sg/1960s/)
