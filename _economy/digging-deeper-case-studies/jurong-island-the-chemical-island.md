@@ -3,6 +3,7 @@ title: "Jurong Island: The Chemical Island"
 permalink: /economy/digging-deeper-case-studies/jurong2
 third_nav_title: Digging Deeper Case Studies
 ---
+#### Jurong Island: The Chemical Island
 <i>2 minute read</i>
 
 ![Alt text for image on Isomer site](/images/economy/case-studies/ind-jurongisland2.jpg)
