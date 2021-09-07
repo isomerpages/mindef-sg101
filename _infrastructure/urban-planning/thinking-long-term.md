@@ -42,7 +42,6 @@ Singapore’s first Concept Plan was published in 1971. The plan was a mammoth e
 The Concept Plan set in place critical infrastructures instrumental to Singapore’s economic growth. This included the construction of Changi Airport, which opened in 1981, a Mass Rapid Transit (MRT) system, and a network of expressways. The plan also earmarked the Central Area as the Central Business District (CBD).
 
 The second Concept Plan, published in 2001, focused on creating an island city that balanced work, play, culture and commerce. It proposed developing commercial corridors in different parts of the island to bring jobs closer to homes. One of Singapore’s most significant economic engines – Jurong Island – was also borne from this plan.
-
 <hr>
 
 **Example: Jurong Island**
