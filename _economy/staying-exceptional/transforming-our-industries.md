@@ -3,6 +3,8 @@ title: Transforming our Industries
 permalink: /economy/staying-exceptional/transforming
 third_nav_title: Staying Exceptional
 ---
+#### Transforming our Industries
+
 ![Alt text for image on Isomer site](/images/economy/staying-exceptional/a-blueprint-for-a-future-ready-real-estate-industry-img2.jpg)
 (Image: Launch of the Real Estate Industry Transformation Map; JTC Corporation via [Council for Estate Agencies](https://www.cea.gov.sg/docs/default-source/module/newsletter/1-2018b/01-2018_website/a-blueprint-for-a-future-ready-real-estate-industry.htm))
 
@@ -19,4 +21,3 @@ To help companies transform, Singapore has rolled out Industry Transformation Ma
 
 <p>Business associations are partnering the government and the unions to carry out the work the ITMs rolled out so far. </p>
 </div>
-
