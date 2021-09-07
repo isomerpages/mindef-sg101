@@ -3,6 +3,7 @@ title: "The 1985 Recession: Growth Interrupted"
 permalink: /economy/digging-deeper-case-studies/1985
 third_nav_title: Digging Deeper Case Studies
 ---
+#### The 1985 Recession: Growth Interrupted
 <i>2 minute read</i>
 
 After enjoying uninterrupted growth for nearly 20 years, Singapore faced its first recession in 1985, an episode which tested the country’s resolve in managing crises.
