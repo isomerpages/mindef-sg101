@@ -3,6 +3,10 @@ title: Sand
 permalink: /infrastructure/case-studies-resources/sand
 third_nav_title: Case Studies Resources
 ---
+## Digging Deeper: Case Studies (Resources)
+
+#### Sand
+
 ![Alt text for image on Isomer site](/images/infrastructure/case-studies/Screenshot%202021-07325.png)
 
 Every year, Singapore grows larger by a fraction thanks to land reclamation efforts. It has expanded by a fifth over the decades, from 581.5 km2 in 1960 to 725.7km2 in 2019. The country aims to reach 766km2 of landmass by 2030.
