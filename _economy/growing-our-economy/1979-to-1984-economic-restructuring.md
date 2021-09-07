@@ -3,7 +3,6 @@ title: "1979 to 1984: Economic Restructuring"
 permalink: /economy/growing-our-economy/1979
 third_nav_title: Growing Our Economy
 ---
-## Growing Our Economy
 #### 1979 to 1984: Economic Restructuring
 
 By the late 1970s, there were more capital-intensive industries that were set up in Singapore. Using incentives to attract foreign investors and companies was working but the pace was not quick enough.
