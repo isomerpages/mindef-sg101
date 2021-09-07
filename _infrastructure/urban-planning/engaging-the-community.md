@@ -17,7 +17,7 @@ One example was the 2001 Concept Plan. While conceptualising past Master and Con
 
 The preservation of the Chek Jawa coastal wetlands was a result of this consultative approach. When its eastern tip was slated for reclamation, a public forum hosted by the URA in 2001 debated on this issue, arguing that the move would destroy much of the rich biodiversity found there. Reclaiming Chek Jawa would also adversely impact existing natural eco-systems in the east of Pulau Ubin – an island known for its rich natural heritage.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NvhntoAcsJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="660" height="415" src="https://www.youtube.com/embed/NvhntoAcsJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 A public campaign to save Chek Jawa ensued. Singaporeans wrote into the press and ministries, and the MND conducted a public feedback forum where nature groups voiced their concerns. They also submitted alternative proposals backed by scientific arguments.
 
