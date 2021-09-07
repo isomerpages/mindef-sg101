@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - case-studies-urban-planning/.keep
-      - digging-deeper-case-studies/.keep
+      - case-studies-resources/.keep
       - urban-planning/.keep
       - constraints-and-challenges/.keep
       - our-fundamentals.md
