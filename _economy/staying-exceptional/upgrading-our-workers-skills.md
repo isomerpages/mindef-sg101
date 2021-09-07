@@ -3,6 +3,8 @@ title: Upgrading our Workers’ Skills
 permalink: /economy/staying-exceptional/upgrading
 third_nav_title: Staying Exceptional
 ---
+#### Upgrading our Workers’ Skills
+
 ![Alt text for image on Isomer site](/images/economy/staying-exceptional/117714283_1431211413732103_1773481396096366356_o.jpg)
 (Image: [SkillsFuture SG](https://www.facebook.com/skillsfuturesg/?__tn__=-UC*F))
 
