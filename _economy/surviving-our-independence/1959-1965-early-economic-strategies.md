@@ -40,7 +40,7 @@ One of its first tasks was to develop Jurong into an industrial estate, as part 
 
 #### 1963: Merger with Malaysia
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WjkrBKuN6CY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="660" height="415" src="https://www.youtube.com/embed/WjkrBKuN6CY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The economic rationale for a merger with Malaysia was clear. A combined market of about 12 million people was big enough to immediately overcome the limitations of Singapore’s small market size by enabling the growth of local firms, and generating jobs and income for Singaporeans.
 
