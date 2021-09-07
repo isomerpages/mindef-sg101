@@ -3,6 +3,7 @@ title: Creating a Sustainable Economy
 permalink: /infrastructure/urban-planning/sustainable
 third_nav_title: Urban Planning
 ---
+#### Creating a Sustainable Economy
 While the immediate priority upon independence was to create jobs and kick-start a stuttering economy, it was clear from the outset that Singapore could not pursue “growth at all costs” and ignore the trade-offs.
 
 Singapore was committed to sustainable development from the start. With our small land area, we simply cannot afford to implement a development model that placed economic growth over the environment. The “develop first, clean up later” model could permanently scar whatever little land we had – a risk that the Government was unwilling to take. Instead, the Government took the more challenging route by making economic decisions with the environment in mind.
