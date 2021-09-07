@@ -3,7 +3,7 @@ title: Staying Open
 permalink: /economy/staying-exceptional/stayingopen
 third_nav_title: Staying Exceptional
 ---
-#### Staying Exceptional
+## Staying Exceptional
 
 **Keeping the Fundamentals Intact**
 
