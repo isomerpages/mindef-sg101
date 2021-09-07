@@ -3,6 +3,8 @@ title: Thinking Long-Term
 permalink: /infrastructure/constraints-and-challenges/longter
 third_nav_title: Constraints And Challenges
 ---
+#### Thinking Long Term
+
 ![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/Screenshot%202021-07-5355.png)
 
 Thinking long-term has always been a crucial part of Singapore’s planning. This helps identify problems that could arise in the future, which allows policymakers take mitigating steps beforehand. As a result of our constant and consistent effort to think ahead, Singapore has maintained sustained economic growth and infrastructure development despite our lack of natural resources.
