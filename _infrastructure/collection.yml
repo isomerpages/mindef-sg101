@@ -2,6 +2,7 @@ collections:
   infrastructure:
     output: true
     order:
+      - digging-deeper-case-studies/.keep
       - urban-planning/.keep
       - constraints-and-challenges/.keep
       - our-fundamentals.md
