@@ -3,6 +3,8 @@ title: Staying Nimble and Adaptable to Change
 permalink: /economy/staying-exceptional/stayingnimble
 third_nav_title: Staying Exceptional
 ---
+#### Staying Nimble and Adaptable to Change
+
 ![Alt text for image on Isomer site](/images/economy/staying-exceptional/FEC_web_banner-04.jpg)
 (Image: [Ministry of Trade and Industry Singapore](https://www.mti.gov.sg/FutureEconomy/TheFutureEconomyCouncil))
 
@@ -37,6 +39,3 @@ It is with the knowledge of this past that we can be confident of the future. Th
 
 ![Alt text for image on Isomer site](/images/economy/staying-exceptional/pm-speech-2-sep.png)
 (Image: [Gov.sg](https://www.gov.sg/article/pm-lee-responding-to-covid-19-and-the-other-challenges-ahead))
-
-
-
