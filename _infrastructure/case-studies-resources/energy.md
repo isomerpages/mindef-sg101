@@ -3,6 +3,10 @@ title: Energy
 permalink: /infrastructure/case-studies-resources/energy
 third_nav_title: Case Studies Resources
 ---
+## Digging Deeper: Case Studies (Resources)
+
+#### Energy
+
 ![Alt text for image on Isomer site](/images/infrastructure/case-studies/Screenshot%202021-07-024242.png)
 
 Energy is a vital resource that is indispensable to a country’s development. But Singapore does not possess any significant energy resources of our own, and we depend heavily on energy imports to meet our domestic needs.
