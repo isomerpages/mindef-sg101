@@ -3,6 +3,7 @@ title: "Jurong: From Swamp to Suburb"
 permalink: /economy/digging-deeper-case-studies/jurong1
 third_nav_title: Digging Deeper Case Studies
 ---
+#### Jurong: From Swamp to Suburb
 <i>2 minute read</i>
 
 ![Alt text for image on Isomer site](/images/economy/case-studies/banner.jpg)
@@ -39,4 +40,3 @@ Today, the future of Jurong remains bright. The 360ha Jurong Lake District has b
 
 ![Alt text for image on Isomer site](/images/economy/case-studies/slider_labelbkgnd.jpg)
 (Image: [Jurong Lake District](https://www.jld.gov.sg/))
-
