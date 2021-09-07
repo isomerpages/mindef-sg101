@@ -3,6 +3,7 @@ title: "1986 to 1996: Rebounding into a Decade of Growth"
 permalink: /economy/growing-our-economy/1986
 third_nav_title: Growing Our Economy
 ---
+## Growing Our Economy
 #### 1986 to 1996: Rebounding into a Decade of Growth
 
 The 1985 recession was a painful but important reminder that the country could not afford to stand still. The growth we saw prior to the recession was flagging, as resource constraints and the diminishing returns of investment had started to kick in. Change was necessary.
