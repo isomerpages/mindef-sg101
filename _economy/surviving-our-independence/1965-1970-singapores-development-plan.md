@@ -3,6 +3,8 @@ title: "1965-1970: Singapore’s Development Plan"
 permalink: /economy/surviving-our-independence/1965-1970
 third_nav_title: Surviving Our Independence
 ---
+#### 1965-1970: Singapore’s Development Plan
+
 The exit from Malaysia thrust Singapore into the open. Without a hinterland nor natural resources, the challenges facing the new nation were immense. Labour unrest continued to fester while unemployment remained high. The only solution was to press on with the plan to rapidly industrialise the economy.
 
 Without Malaysia’s large market, Singapore’s leaders had to think out of the box. Instead of focusing on the domestic market, our leaders switched to an export-oriented strategy. Labour-intensive industries were created to soak up unemployment while pushing ahead with the building of infrastructure to serve the industries.
