@@ -3,6 +3,9 @@ title: Waste Management
 permalink: /infrastructure/case-studies-resources/wastem
 third_nav_title: Case Studies Resources
 ---
+## Digging Deeper: Case Studies (Resources)
+
+#### Waste Management
 According to the National Environmental Agency (NEA), about 5.88 million tonnes of solid waste was generated in 2020 – the equivalent of 32,000 Jumbo Jets.
 
 Paper and cardboard were disposed of the most and made up almost 20 per cent of total waste generated, followed by ferrous metal and plastics.
