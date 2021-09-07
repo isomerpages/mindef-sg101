@@ -3,6 +3,8 @@ title: Preserving a Unique National Identity
 permalink: /infrastructure/urban-planning/unique
 third_nav_title: Urban Planning
 ---
+#### Preserving A Unique National Identity
+
 ![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-18.png)
 
 Over the decades, conserving historic buildings has become an important component in Singapore’s urban planning. As an essential part of our nation’s heritage and cultural identity, these buildings remind us of what came before.
