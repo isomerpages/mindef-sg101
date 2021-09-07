@@ -41,5 +41,21 @@ As a result, we had to think unconventionally and summon up a spirit of innovati
 
 #### Example: Water
 
-![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/Screenshot%202021-07-535.png)
+![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/Screenshot%202021-07-535.png)Images: MICA courtesy of NAS and PUB
+
+NEWater – reclaimed water purified with membrane and ultraviolet technologies – is perhaps Singapore’s most famous example of this innovative spirit. The idea of turning wastewater into drinkable water emerged as early as the 1970s when Singapore commissioned a study to explore the feasibility of producing clean reclaimed water.
+
+However, it was only 20 years later when technology caught up with the idea that NEWater became a reality. By the 1990s, the development of cost-effective membrane technology allowed Singapore to push ahead with NEWater. Within a decade, our dogged determination paid off. In 2003, NEWater made its public debut with two plants at Bedok and Kranji. After decades of planning and innovation, it was a huge step towards our goal of self-sufficiency.
+
+There was initial scepticism that NEWater was safe to drink. Many balked at the thought of drinking waste and sewage water. In response, PUB set out to raise public awareness of the stringent safety measures in producing the ultra-clean NEWater.
+
+To instil confidence in NEWater, PUB opened up its NEWater plants to the public, demonstrating the technology behind the product. To further convince the public that the water was safe to drink, Singapore enlisted the support of community leaders, scientists and politicians to correct misconceptions about NEWater. Prime Minister Goh Chok Tong himself drank a bottle in front of the nation in a NEWater toast during the 2002 National Day Parade.
+
+![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/image014.jpg)Image: MICA courtesy of NAS
+
+Thinking out of the box is one way we have adapted. This innovative energy is a key theme that runs throughout our short history. Another area that we have consistently applied innovative thinking is in our approach to energy resources.
+
+[![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/image015.gif)]()
+
+
 
