@@ -3,6 +3,7 @@ title: Strengthening Tripartism
 permalink: /economy/staying-exceptional/strengthening
 third_nav_title: Staying Exceptional
 ---
+#### Strengthening Tripartism
 ![Alt text for image on Isomer site](/images/economy/staying-exceptional/59684637_2694277900614158_2205422520599838720_n.png)
 
 Tripartism remains important to Singapore’s success. Harmonious relations were the bedrock on which Singapore’s early industrialisation efforts were based. While industrial disruption is no longer an issue, technological disruption has brought about new and complex challenges.
