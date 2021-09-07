@@ -2,5 +2,6 @@ collections:
   infrastructure:
     output: true
     order:
+      - urban-planning/.keep
       - constraints-and-challenges/.keep
       - our-fundamentals.md
