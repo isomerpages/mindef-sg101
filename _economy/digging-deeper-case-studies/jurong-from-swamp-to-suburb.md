@@ -3,6 +3,7 @@ title: "Jurong: From Swamp to Suburb"
 permalink: /economy/digging-deeper-case-studies/jurong1
 third_nav_title: Digging Deeper Case Studies
 ---
+## Digging Deeper: Case Studies
 #### Jurong: From Swamp to Suburb
 <i>2 minute read</i>
 
