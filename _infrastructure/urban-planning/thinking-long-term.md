@@ -45,7 +45,7 @@ The second Concept Plan, published in 2001, focused on creating an island city t
 
 <hr>
 
-<p> <b>Example: Jurong Island</b>
+<b>Example: Jurong Island</b>
 
 ![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-8.png)Image: Jurong Island / EDB
 
