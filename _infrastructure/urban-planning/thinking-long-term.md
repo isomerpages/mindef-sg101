@@ -3,6 +3,8 @@ title: Thinking Long-Term
 permalink: /infrastructure/urban-planning/longterm
 third_nav_title: Urban Planning
 ---
+## Urban Planning
+
 ![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-1.png)
 
 A furry head pops up from the water, eyes darting around and checking for danger. It sniffs the air and gives the all-clear to the rest of his troop. One by one, the rest of the otter family pop their heads up, weaving their bodies through the clear waters at Kallang River, drawing delighted squeals from the families walking nearby.
