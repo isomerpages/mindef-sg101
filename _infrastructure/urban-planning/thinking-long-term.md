@@ -62,7 +62,9 @@ Jurong Island houses the biggest petrochemicals companies globally in an integra
 The latest Concept Plan, published in 2011, looks further into the future, with an eye on providing and sustaining a high-quality living environment for future generations of Singaporeans. The plan sets out parameters for providing affordable homes, enhancing mobility with greater transport connectivity and growing an economy with good jobs.
 
 While the Concept Plan takes care of the broad, long-term strategies, the Master Plan goes into detail. It focuses on the medium-term and is reviewed once every five years, guiding Singapore’s development over the next 10 to 15 years. The plan lays out the specifics for individual plots of land.
+
 <hr>
+
 
 The latest Concept Plan, published in 2011, looks further into the future, with an eye on providing and sustaining a high-quality living environment for future generations of Singaporeans. The plan sets out parameters for providing affordable homes, enhancing mobility with greater transport connectivity and growing an economy with good jobs.
 
