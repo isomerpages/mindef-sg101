@@ -44,7 +44,7 @@ The Concept Plan set in place critical infrastructures instrumental to Singapore
 The second Concept Plan, published in 2001, focused on creating an island city that balanced work, play, culture and commerce. It proposed developing commercial corridors in different parts of the island to bring jobs closer to homes. One of Singapore’s most significant economic engines – Jurong Island – was also borne from this plan.
 <hr>
 
-# **Example: Jurong Island**
+
 
 ![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-8.png)Image: Jurong Island / EDB
 
@@ -77,5 +77,3 @@ While the Concept Plan takes care of the broad, long-term strategies, the Master
 <p>This approach to long-term planning is a crucial reason we can develop our tiny island with an eye on the future. Likewise, our approach to planning was also a key factor that led to our public transport network development. We have had to project into the future – a process that requires us to think beyond our present needs.</p>
 
 [![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-pubtrans.gif)]()
-
-
