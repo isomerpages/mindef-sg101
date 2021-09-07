@@ -3,7 +3,7 @@ title: Resource Innovation
 permalink: /infrastructure/constraints-and-challenges/resinno
 third_nav_title: Constraints And Challenges
 ---
-### Resource Constraints and Challenges
+## Resource Constraints and Challenges
 
 ![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/image001.png)
 
@@ -33,10 +33,13 @@ Singapore has come a long way in addressing our resource limitations. As a tiny 
 
 ![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/Screenshot%202021-07-0dsd.png)
 
-#### Resource Innovation
+## Resource Innovation
 
 With a tiny landmass lacking in any natural resources, Singapore is unlike any other country in the world. There was no blueprint for success that Singapore could follow.
 
 As a result, we had to think unconventionally and summon up a spirit of innovation to solve our unique problems, especially when dealing with the lack of resources.
-Example: Water
+
+#### Example: Water
+
+![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/Screenshot%202021-07-535.png)
 
