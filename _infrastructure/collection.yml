@@ -2,8 +2,8 @@ collections:
   infrastructure:
     output: true
     order:
-      - case-studies-urban-planning/.keep
-      - case-studies-resources/.keep
-      - urban-planning/.keep
-      - constraints-and-challenges/.keep
       - our-fundamentals.md
+      - constraints-and-challenges/.keep
+      - urban-planning/.keep
+      - case-studies-resources/.keep
+      - case-studies-urban-planning/.keep
