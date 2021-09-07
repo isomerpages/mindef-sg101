@@ -4,6 +4,7 @@ collections:
     order:
       - our-fundamentals.md
       - constraints-and-challenges/.keep
+      - constraints-and-challenges/resource-innovation.md
       - urban-planning/.keep
       - case-studies-resources/.keep
       - case-studies-urban-planning/.keep
