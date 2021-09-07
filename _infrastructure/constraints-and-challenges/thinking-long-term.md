@@ -13,7 +13,9 @@ For instance, PUB worked closely with the Ministry of Trade and Industry (MTI), 
 
 ![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/Screenshot%202021-07-01%20at%201355.png)
 
-#### Example: Water
+<hr>
+
+<b>Example: Water</b>
 
 Long-term planning is critical in managing water resources in Singapore. This resource is often a source of tension between Singapore and Malaysia. In 1998, Malaysia raised supplying water to Singapore when Singapore decided to relocate Malaysia’s immigration and customs checkpoint from the old Tanjong Pagar railway station to Woodlands Train Checkpoint. In 2018, then-Malaysian Prime Minister Mahathir Mohamed sought to renegotiate the price of water sold to Singapore, criticising it as “manifestly ridiculous”.
 
@@ -25,3 +27,4 @@ Singapore’s approach to building water resilience for the long haul started in
 
 ![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/Screenshot%202021-07-014646.png)
 
+<hr>
