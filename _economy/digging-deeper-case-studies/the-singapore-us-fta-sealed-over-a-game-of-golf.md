@@ -3,6 +3,8 @@ title: "The Singapore-US FTA: Sealed Over a Game of Golf"
 permalink: /economy/digging-deeper-case-studies/sgusfta
 third_nav_title: Digging Deeper Case Studies
 ---
+#### The Singapore-US FTA: Sealed Over a Game of Golf
+
 <i>3 minute read</i>
 
 ![Alt text for image on Isomer site](/images/economy/case-studies/Screenshot%202020-10-22%20at%201.png)
