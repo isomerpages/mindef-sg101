@@ -3,6 +3,7 @@ title: "Agritech in Singapore: Achieving Food and Economic Security"
 permalink: /economy/digging-deeper-case-studies/agritechinsg
 third_nav_title: Digging Deeper Case Studies
 ---
+#### Agritech in Singapore: Achieving Food and Economic Security
 *2 minute read*
 
 ![Alt text for image on Isomer site](/images/economy/case-studies/singapore_the_next_great_place_for_urban_agriculture_01.jpg)
