@@ -3,6 +3,8 @@ title: "The 1970s: Upgrading the Economy"
 permalink: /economy/growing-our-economy/1970
 third_nav_title: Growing Our Economy
 ---
+## Growing Our Economy
+#### The 1970s: Upgrading the Economy
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/02a_19980000707_-_0025-lr_qdsqz3o.jpg)
 (Image: [Public Service Division](https://www.psd.gov.sg/heartofpublicservice/our-institutions/making-a-living-ensuring-growth/))
 
@@ -41,4 +43,3 @@ In 1973, then Finance Minister Mr Hon Sui Sen announced a two-pronged approach t
 (Image: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/eb75b4db-1161-11e3-83d5-0050568939ad))
 
 The economy performed well in the 1970s, with real GDP growing an average of 9.2 per cent between 1970 and 1980. With a strong manufacturing base and an increasingly educated workforce, the basic building blocks of Singapore’s modern city-state economy were put in place.
-
