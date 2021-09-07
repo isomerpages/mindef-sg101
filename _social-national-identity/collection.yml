@@ -1,4 +1,5 @@
 collections:
   social-national-identity:
     output: true
-    order: []
+    order:
+      - tooo-looooooooooooooooooooooooooooooooooong.md
