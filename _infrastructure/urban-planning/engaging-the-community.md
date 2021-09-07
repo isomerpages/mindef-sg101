@@ -3,6 +3,8 @@ title: Engaging the Community
 permalink: /infrastructure/urban-planning/engaging
 third_nav_title: Urban Planning
 ---
+#### Engaging The Community
+
 ![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-14.png)
 
 Citizens play a crucial role in Singapore’s urban planning approach. In his 2011 National Day Rally Speech, Prime Minister Lee Hsien Loong had said the country needed ‘active citizens’ to change Singapore for the better.
@@ -30,4 +32,3 @@ Instead, plans were drawn up to protect and preserve the biodiversity at Chek Ja
 Over the years, many groups of Singaporeans have also volunteered for coastal clean-ups and to preserve the biodiversity in Chek Jawa. It is a space that has enabled environmental stewardship, particularly amongst the youth, and helped cultivate love and appreciation for nature. It is this passionate activism that has also helped protect wildlife in the fragile ecospheres in the Chek Jawa inter-tidal zones.
 
 ![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-17.png)Images: Environmental Activism / Climate Conversations and International Coastal Cleanup Singapore
-
