@@ -3,6 +3,7 @@ title: "2010 to the Present: New Challenges"
 permalink: /economy/growing-our-economy/2010
 third_nav_title: Growing Our Economy
 ---
+## Growing Our Economy
 #### 2010 to the Present: New Challenges
 
 The challenges Singapore has and continues to face since 2010 are manifold: some are structural in nature while others require shorter-term tactics.
