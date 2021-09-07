@@ -3,6 +3,7 @@ title: Adapting to Changes
 permalink: /infrastructure/constraints-and-challenges/adapt
 third_nav_title: Constraints And Challenges
 ---
+#### Adapting To Changes
 Although much has been achieved since independence, certain things will remain the same: Singapore will always be a small country in an uncertain world with no natural resources. This will always continue to present challenges for us.
 
 ![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/Screenshot%202021-07-0135346.png)
