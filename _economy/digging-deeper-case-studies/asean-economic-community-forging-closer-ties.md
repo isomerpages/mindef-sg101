@@ -3,6 +3,7 @@ title: "ASEAN Economic Community: Forging Closer Ties"
 permalink: /economy/digging-deeper-case-studies/asean
 third_nav_title: Digging Deeper Case Studies
 ---
+#### ASEAN Economic Community: Forging Closer Ties
 <i>3 minute read</i>
 
 ![Alt text for image on Isomer site](/images/economy/case-studies/aseanregionalinitiatives_aec2025blueprint.jpg)
