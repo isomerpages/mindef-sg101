@@ -67,14 +67,16 @@ While the Concept Plan takes care of the broad, long-term strategies, the Master
 
 <p>The latest Concept Plan, published in 2011, looks further into the future, with an eye on providing and sustaining a high-quality living environment for future generations of Singaporeans. The plan sets out parameters for providing affordable homes, enhancing mobility with greater transport connectivity and growing an economy with good jobs. </p>
 
-While the Concept Plan takes care of the broad, long-term strategies, the Master Plan goes into detail. It focuses on the medium-term and is reviewed once every five years, guiding Singapore’s development over the next 10 to 15 years. The plan lays out the specifics for individual plots of land.
+<p>While the Concept Plan takes care of the broad, long-term strategies, the Master Plan goes into detail. It focuses on the medium-term and is reviewed once every five years, guiding Singapore’s development over the next 10 to 15 years. The plan lays out the specifics for individual plots of land.</p>
 
 ![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-9.png)Image: 1958 Master Plan / URA
 
-For example, the 2003 Master Plan focused on enhancing and protecting Singapore’s natural and heritage sites. The Southern Ridges – completed in 2008 – is one such example, when the plan first conceived linking various hill parks with the construction of two iconic bridges.
+<p>For example, the 2003 Master Plan focused on enhancing and protecting Singapore’s natural and heritage sites. The Southern Ridges – completed in 2008 – is one such example, when the plan first conceived linking various hill parks with the construction of two iconic bridges.</p>
 
 ![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-10.png)Images: Southern Ridges / NParks and Extract from Master Plan 2003 / NAS
 
-This approach to long-term planning is a crucial reason we can develop our tiny island with an eye on the future. Likewise, our approach to planning was also a key factor that led to our public transport network development. We have had to project into the future – a process that requires us to think beyond our present needs.
+<p>This approach to long-term planning is a crucial reason we can develop our tiny island with an eye on the future. Likewise, our approach to planning was also a key factor that led to our public transport network development. We have had to project into the future – a process that requires us to think beyond our present needs.</p>
+
+[![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-pubtrans.gif)]()
 
 
