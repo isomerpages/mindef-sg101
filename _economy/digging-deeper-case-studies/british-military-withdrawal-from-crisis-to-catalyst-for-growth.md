@@ -3,6 +3,10 @@ title: "British Military Withdrawal: From Crisis to Catalyst for Growth"
 permalink: /economy/digging-deeper-case-studies/withdrawal
 third_nav_title: Digging Deeper Case Studies
 ---
+## Digging Deeper: Case Studies
+
+#### British Military Withdrawal: From Crisis to Catalyst for Growth
+
 <i>2 minute read</i>
 
 ![Alt text for image on Isomer site](/images/economy/case-studies/Screenshot%20202.png)
@@ -35,4 +39,3 @@ The BECD was also responsible for the retraining of affected workers. With aid f
 Through sheer will and adaptability, Singapore managed to turn its first crisis into a major catalyst for growth.
 
 As historian Loh Kah Seng noted in 2011, “the accelerated British withdrawal was not only the final chapter of decolonisation in Singapore, but also the first step in the independent city-state’s growth”.
-
