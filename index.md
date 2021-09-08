@@ -20,6 +20,14 @@ sections:
             url: ""
           - title: Social / National Identity
             url: ""
+  - infopic:
+      title: Updated Case Studies
+      subtitle: UPdates
+      description: Insert text here
+      button: See Case studies here
+      url: /economy/digging-deeper-case-studies/withdrawal
+      image: /images/upcs-4.png
+      alt: Image alt text
   - resources:
       title: Latest Resources
       subtitle: What's New
