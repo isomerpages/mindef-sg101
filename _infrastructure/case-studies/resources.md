@@ -108,10 +108,10 @@ Singapore is also exploring whether empoldering can be used to reclaim more land
 
 Another method is to recycle construction debris, which would also help alleviate the demand for sand in the construction sector. Under the Building and Construction Authority’s (BCA) Demolition Protocol, reusable and non-reusable parts of a building must be identified and then separately dismantled. This approach has led to the production of new materials such as recycled concrete.
 
-<a id="WasteManagement"></a>
-<p></p>
 
-#### Waste Management 
+<p><a id="WasteManagement"></a></p>
+
+#### Waste Management <a id="WasteManagement"></a>
 According to the National Environmental Agency (NEA), about 5.88 million tonnes of solid waste was generated in 2020 – the equivalent of 32,000 Jumbo Jets.
 
 Paper and cardboard were disposed of the most and made up almost 20 per cent of total waste generated, followed by ferrous metal and plastics.
