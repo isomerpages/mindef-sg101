@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: SG101
-      background: /images/20627059_1659545014087457_1124741366636516332_o.jpg
+      background: /images/Hero-image.png
       dropdown:
         title: I'm looking for info on...
         options:
