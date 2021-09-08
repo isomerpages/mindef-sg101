@@ -2,9 +2,6 @@ collections:
   infrastructure:
     output: true
     order:
-      - case-studies/.keep
-      - case-studies/resources.md
-      - case-studies/urban-planning.md
       - our-fundamentals.md
       - constraints-and-challenges/.keep
       - constraints-and-challenges/resource-innovation.md
@@ -26,4 +23,7 @@ collections:
       - case-studies-urban-planning/public-transport-network.md
       - case-studies-urban-planning/green-and-blue-spaces.md
       - case-studies-urban-planning/placemaking.md
+      - case-studies/.keep
+      - case-studies/resources.md
+      - case-studies/urban-planning.md
       - test.md
