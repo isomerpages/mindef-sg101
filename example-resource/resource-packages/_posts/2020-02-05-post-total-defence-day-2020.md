@@ -12,4 +12,4 @@ Speakers may use the engagement package (Folio 1) to discuss the relevance of To
 
 Thank you.
 
-Download: [Folio 1 - TD20 NE Engagement Package.pptx](https://go.gov.sg/td20neeegagementpackage)
+Download: [Folio 1 - TD20 NE Engagement Package.pdf](https://go.gov.sg/td20neeegagementpackage)
