@@ -4,11 +4,9 @@ permalink: /infrastructure/case-studies/resources
 third_nav_title: Case Studies
 ---
 ## Digging Deeper: Case Studies (Resources)
-<span class="anchor" id="SAnchor"></span>
-<div class="section"></div>
 
-<span class="anchor" id="WMAnchor"></span>
-<div class="section"></div>
+
+
 
 
 
@@ -80,7 +78,8 @@ Despite the sacrifices, switching to sustainable energy sources is necessary to 
 <hr>
 
 
-	
+<span class="anchor" id="SAnchor"></span>
+<div class="section"></div>
 
 <div class="section" id="SAnchor"></div>
 
@@ -126,7 +125,8 @@ Another method is to recycle construction debris, which would also help alleviat
 
 
 
-
+<span class="anchor" id="WMAnchor"></span>
+<div class="section"></div>
 <div class="section" id="WMAnchor"></div>
 
 
