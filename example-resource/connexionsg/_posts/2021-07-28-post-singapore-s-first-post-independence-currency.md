@@ -1,0 +1,6 @@
+---
+title: Singapore 's First Post-Independence Currency
+date: 2021-07-28
+permalink: /example-resource/connexionsg/permalink
+layout: post
+---
