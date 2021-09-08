@@ -74,7 +74,7 @@ Despite the sacrifices, switching to sustainable energy sources is necessary to 
 
 
 	
-<a name="SAnchor">  
+<a name="SAnchor">  </a>
 
 
 #### Sand
@@ -121,7 +121,7 @@ Another method is to recycle construction debris, which would also help alleviat
 
 
 
-	<a id="WMAnchor">
+	<a id="WMAnchor"></a>
 
 
 
