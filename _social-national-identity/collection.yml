@@ -2,5 +2,4 @@ collections:
   social-national-identity:
     output: true
     order:
-      - pneumonoultramicroscopicsilicovolcanoconiosis.md
       - the-quick-brown-fox-jumps-over-the-lazy-dog-the-quick-brown-fox-jumps-over-the-lazy-dog.md
