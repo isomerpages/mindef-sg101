@@ -4,7 +4,7 @@ permalink: /infrastructure/test
 ---
 
 
-[Button](/infrastructure/case-studies/resources#WM12)
+[Button](/infrastructure/case-studies/resources#WMAnchor)
 
 
 
