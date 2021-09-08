@@ -43,4 +43,4 @@ To date, the Urban Redevelopment Authority has given conservation status to over
 
 Preserving the unique character of our physical landscape also entails creating a sense of place – a place for the community to gather, interact and grow. Singapore’s efforts to develop spaces for communities has grown beyond simply creating functional spaces and towards the idea of placemaking.
 
-[![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-placemake.gif)](/infrastructure/case-studies/urbanplanning#PMAnchor)
+[![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-placemake.gif)](/infrastructure/case-studies-urban-planning/place)
