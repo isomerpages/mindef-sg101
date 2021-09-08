@@ -10,4 +10,4 @@ permalink: /infrastructure/test
 
 
 
-<a href="/infrastructure/case-studies/resources#WMAnchor" target="_blank"><img src="/images/infrastructure/constraints-and-challenges/image015.gif" ></a>
+<a href="/infrastructure/case-studies/resources#234" target="_blank"><img src="/images/infrastructure/constraints-and-challenges/image015.gif" ></a>
