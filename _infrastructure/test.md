@@ -6,7 +6,7 @@ permalink: /infrastructure/test
 
 [Button](/infrastructure/case-studies/resources#WM12)
 
-<a href="/infrastructure/case-studies/resources#WMAnchor" target="_blank">Button</a> 
+
 
 
 
