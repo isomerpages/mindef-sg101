@@ -4,10 +4,8 @@ permalink: /infrastructure/test
 ---
 
 
-[Button](/infrastructure/case-studies/resources#SAnchor)
+<a href="/infrastructure/case-studies/resources#SAnchor" target="_blank"><img src="/images/infrastructure/constraints-and-challenges/image038.gif" ></a>
 
-test2
 
 
 <a href="/infrastructure/case-studies/resources#WMAnchor" target="_blank"><img src="/images/infrastructure/constraints-and-challenges/waste-gif.gif" ></a>
-
