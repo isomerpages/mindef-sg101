@@ -2,7 +2,7 @@
 title: Test
 permalink: /infrastructure/test
 ---
-[Button](/infrastructure/case-studies/resources#123453)
+[Button](/infrastructure/case-studies/resources#WM274)
 
 <a href="/infrastructure/case-studies/resources#123453">Test 2</a>
 
