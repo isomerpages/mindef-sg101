@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - case-studies/.keep
+      - case-studies/resources.md
       - our-fundamentals.md
       - constraints-and-challenges/.keep
       - constraints-and-challenges/resource-innovation.md
