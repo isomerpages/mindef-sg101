@@ -70,7 +70,9 @@ Despite the sacrifices, switching to sustainable energy sources is necessary to 
 
 ![Alt text for image on Isomer site](/images/infrastructure/case-studies/Screenshot%2020352525.png)
 
-<a id="SandAnchor"></a>
+<hr>
+
+<a id="SAnchor"></a>
 
 #### Sand
 
@@ -110,8 +112,8 @@ Singapore is also exploring whether empoldering can be used to reclaim more land
 
 Another method is to recycle construction debris, which would also help alleviate the demand for sand in the construction sector. Under the Building and Construction Authority’s (BCA) Demolition Protocol, reusable and non-reusable parts of a building must be identified and then separately dismantled. This approach has led to the production of new materials such as recycled concrete.
 
+<hr>
 
-<a id="WM274"></a>
 <a id="WMAnchor"></a>
 
 #### Waste Management 
