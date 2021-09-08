@@ -72,7 +72,8 @@ Despite the sacrifices, switching to sustainable energy sources is necessary to 
 
 <hr>
 
-<div name="SAnchor"></div>
+
+<h2 id="SAnchor"></h2>
 
 
 #### Sand
