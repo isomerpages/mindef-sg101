@@ -78,10 +78,10 @@ Despite the sacrifices, switching to sustainable energy sources is necessary to 
 <hr>
 
 
-<div class="section" id="SAnchor"></div>
-<div class="section" id="SAnchor"></div>
 
-#### Sand
+
+
+#### Sand <div class="section" id="SAnchor"></div>
 
 ![Alt text for image on Isomer site](/images/infrastructure/case-studies/Screenshot%202021-07325.png)
 
@@ -122,10 +122,10 @@ Another method is to recycle construction debris, which would also help alleviat
 <hr>
 
 
-<div class="section" id="WMAnchor"></div>
-<div class="section" id="WMAnchor"></div>
 
-#### Waste Management 
+
+
+#### Waste Management <div class="section" id="WMAnchor"></div>
 
 According to the National Environmental Agency (NEA), about 5.88 million tonnes of solid waste was generated in 2020 – the equivalent of 32,000 Jumbo Jets.
 
