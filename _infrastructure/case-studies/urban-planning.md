@@ -49,6 +49,10 @@ Another impetus to building our public transport infrastructure is to reduce our
 
 ![Alt text for image on Isomer site](/images/infrastructure/case-studies-urban-planning/upcs-8.png)
 
+<hr>
+
+<a id="GBAnchor"></a>
+
 #### Green and Blue Spaces
 
 ![Alt text for image on Isomer site](/images/infrastructure/case-studies-urban-planning/upcs-9.png)
@@ -108,6 +112,10 @@ What is key is that the answers to our urban development questions and the outco
 Singapore has also retained ecologically important green spaces that were initially set aside for other purposes. For instance, Mandai Mangrove and Mudflat was initially designated for industrial use. However, it was eventually retained after biodiversity surveys and ecological modelling were conducted, and will open as a nature park in 2022.
 
 ![Alt text for image on Isomer site](/images/infrastructure/case-studies-urban-planning/upcs-19.png)Image: Mandai Mangrove and Mudflat / NParks
+
+<hr>
+
+<a id="PMAnchor"></a>
 
 #### Placemaking
 
