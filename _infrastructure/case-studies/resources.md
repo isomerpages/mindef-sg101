@@ -111,7 +111,8 @@ Another method is to recycle construction debris, which would also help alleviat
 
 <p><a id="WasteManagement"></a></p>
 
-#### Waste Management <a id="WasteManagement"></a>
+#### Waste Management 
+<a id="MyAnchor"></a>
 According to the National Environmental Agency (NEA), about 5.88 million tonnes of solid waste was generated in 2020 – the equivalent of 32,000 Jumbo Jets.
 
 Paper and cardboard were disposed of the most and made up almost 20 per cent of total waste generated, followed by ferrous metal and plastics.
