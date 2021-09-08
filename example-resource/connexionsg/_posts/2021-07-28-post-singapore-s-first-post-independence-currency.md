@@ -1,9 +1,10 @@
 ---
 title: Singapore 's First Post-Independence Currency
 date: 2021-07-28
-permalink: /example-resource/connexionsg/permalink
+permalink: /example-resource/connexionsg/currency
 layout: post
 ---
+
 ![Alt text for image on Isomer site](/images/sgfirstpostindependencecurrency.png)
 
 There is history to be found in our wallets. More than a piece of paper or plastic, the different faces of our currency each has its own story.
