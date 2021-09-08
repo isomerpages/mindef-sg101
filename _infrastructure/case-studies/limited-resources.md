@@ -127,7 +127,6 @@ Another method is to recycle construction debris, which would also help alleviat
 
 <span class="anchor" id="WMAnchor"></span>
 <div class="section"></div>
-<div class="section" id="WMAnchor"></div>
 
 
 #### Waste Management 
