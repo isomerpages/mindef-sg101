@@ -10,5 +10,4 @@ permalink: /infrastructure/test
 
 [Button](/infrastructure/case-studies/resources#SandAnchor)
 
-[Button](/infrastructure/case-studies/resources#WMAnchor)
-
+[Button](/infrastructure/case-studies/resources#WMAnchor"target="_blank")
