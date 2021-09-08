@@ -1,5 +1,4 @@
 collections:
   social-national-identity:
     output: true
-    order:
-      - the-quick-brown-fox-jumps-over-the-lazy-dog-the-quick-brown-fox-jumps-over-the-lazy-dog.md
+    order: []
