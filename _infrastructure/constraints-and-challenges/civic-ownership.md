@@ -28,4 +28,4 @@ Increasing energy efficiency is also another way to be resource resilient. The E
 
 Households can also play their part in reducing energy use. In addition to this ‘Zero Waste’ movement, the National Environment Agency (NEA) has launched a “Save Energy Save Money” campaign to raise awareness on energy-efficient measures by encouraging Singaporeans to practise simple energy-saving habits.
 
-[![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/waste-gif.gif)](/infrastructure/case-studies/resources#WMAnchor)
+[![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/waste-gif.gif)](/infrastructure/case-studies-resources/wastem)
