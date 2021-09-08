@@ -72,8 +72,8 @@ Despite the sacrifices, switching to sustainable energy sources is necessary to 
 
 <hr>
 
-
-<a name="SAnchor"></a>
+<section>
+<a id="SAnchor">
 
 
 #### Sand
@@ -115,9 +115,11 @@ Singapore is also exploring whether empoldering can be used to reclaim more land
 Another method is to recycle construction debris, which would also help alleviate the demand for sand in the construction sector. Under the Building and Construction Authority’s (BCA) Demolition Protocol, reusable and non-reusable parts of a building must be identified and then separately dismantled. This approach has led to the production of new materials such as recycled concrete.
 
 <hr>
+  </a>
+</section>
 
-
-<a name="WMAnchor"></a>
+<section>
+<a id="WMAnchor">
 
 
 #### Waste Management 
@@ -207,3 +209,6 @@ E-waste is also being targeted as it contains small amounts of heavy metals and 
 Management of e-waste starts upstream and at the very beginning during the manufacturing stages. Singapore has several restrictions on hazardous substances for electrical and electronic equipment. For instance, the local sale of batteries exceeding a stipulated mercury content is not allowed. This way, used batteries can be safely discarded along with normal household waste at our WTE incineration plants.
 
 At this point, e-waste recycling has been largely voluntary, with the NEA working closely with industry partners and the community. While voluntary e-waste recycling measures have yielded encouraging results, the NEA recognises the limitations of a voluntary approach and in turn, the need for a regulated system in the long run. At the moment, studies are underway to develop feasible systems for the collection and recycling of e-waste.
+	
+</a>
+</section>
