@@ -27,8 +27,8 @@ sections:
         draw apart. The COVID-19 pandemic and its consequences, termed “the
         crisis of a generation...
       button: Read more
-      url: /economy/digging-deeper-case-studies/withdrawal
-      image: /images/society/case-studies/93835247_3747841691924435_4238911148084166656_n.png
+      url: /social-national-identity/case-studies/covid19
+      image: /images/s_n.png
       alt: Image alt text
   - resources:
       title: Latest Resources
