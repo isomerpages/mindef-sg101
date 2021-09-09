@@ -14,3 +14,5 @@ It's not clear why and when we started to have our ice cream in this way, though
 Eventually, the ubiquitous colourful bread was also introduced into the equation.
 
 And that is how our “must eat” ice cream bread was formed, a product of pragmatism, with a side of being absolutely delicious.
+
+<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
