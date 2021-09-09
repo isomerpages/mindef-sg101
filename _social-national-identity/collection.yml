@@ -2,6 +2,7 @@ collections:
   social-national-identity:
     output: true
     order:
+      - case-studies/.keep
       - examples/.keep
       - a-caring-society/.keep
       - shared-identity/.keep
