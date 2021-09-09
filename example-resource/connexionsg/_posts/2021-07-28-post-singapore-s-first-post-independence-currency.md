@@ -10,5 +10,6 @@ There is history to be found in our wallets. More than a piece of paper or plast
 
 Watch this <a href="https://www.facebook.com/ConnexionSG/videos/371453167685367" target="_blank">video</a>to find out more about the Orchid Series, #SingaporesFirst post-independence currency notes.
 
+<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
 
-<p style="text-align:center;"><a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a></p>
+
