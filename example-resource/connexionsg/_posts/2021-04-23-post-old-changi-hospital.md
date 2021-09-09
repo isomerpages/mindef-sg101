@@ -11,5 +11,4 @@ On the far flung eastern coast of Singapore lies Changi Point, famed for its rus
 Changi Point is also where the Old Changi Hospital sits along Netheravon Road. Many say it’s haunted, but after digging deeper, we found that it's more than just another creepy old building.
 
 Watch the Stumbling video <a href="https://www.facebook.com/watch/?ref=saved&v=549543989768233" target="_blank">here:</a>
-<a href="https://www.facebook.com/ConnexionSG/videos/371453167685367" target="_blank"><img src="/images/stumbling_changihosp.png" ></a>
-
+<a href="https://www.facebook.com/watch/?ref=saved&v=549543989768233" target="_blank"><img src="/images/stumbling_changihosp.png" ></a>
