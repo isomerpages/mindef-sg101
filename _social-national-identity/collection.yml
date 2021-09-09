@@ -2,6 +2,7 @@ collections:
   social-national-identity:
     output: true
     order:
+      - examples/.keep
       - a-caring-society/.keep
       - shared-identity/.keep
       - a-multicultural-singapore/.keep
