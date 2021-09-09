@@ -2,4 +2,5 @@ collections:
   social-national-identity:
     output: true
     order:
+      - a-multicultural-singapore/.keep
       - our-fundamentals.md
