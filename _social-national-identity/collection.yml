@@ -2,10 +2,10 @@ collections:
   social-national-identity:
     output: true
     order:
-      - case-studies/.keep
-      - examples/.keep
+      - our-fundamentals.md
+      - a-multicultural-singapore/.keep
       - a-caring-society/.keep
       - shared-identity/.keep
-      - a-multicultural-singapore/.keep
-      - our-fundamentals.md
+      - examples/.keep
+      - case-studies/.keep
       - bibliography.md
