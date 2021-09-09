@@ -22,3 +22,12 @@ Watch this [video](https://www.facebook.com/ConnexionSG/videos/371453167685367) 
 	
 <div class="fb-video" data-href="https://www.facebook.com/facebook/videos/10153231379946729"  
   data-allowfullscreen="true" data-width="500"></div>
+	
+	
+	
+<div class="fb-video"
+  data-href="https://www.facebook.com/FacebookDevelopers/posts/10151471074398553"
+  data-width="500"
+  data-allowfullscreen="true"
+  data-autoplay="true"
+  data-show-captions="true"></div>
