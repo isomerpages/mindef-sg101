@@ -16,7 +16,7 @@ This segregation hindered the development of mutual understanding and trust betw
 
 In 1964, Singapore encountered one of its worst riots. That day, on 21 July, 23 people lost their lives and another 454 were injured following a scuffle between the Chinese and the Malays during a procession to celebrate the Prophet Muhammad’s birthday. The riots reignited in September, killing 13 people and injuring 106. Five years later, another racial riot broke out, leaving four dead and 80 injured.
 
-![Alt text for image on Isomer site](/images/society/multicultural/OpenDoc%20Banners.gif)
+[![Alt text for image on Isomer site](/images/society/multicultural/OpenDoc%20Banners.gif)](/social-national-identity/examples/racialriots)
 
 ![Alt text for image on Isomer site](/images/society/multicultural/social-02-a1.png)
 
@@ -50,7 +50,7 @@ Besides safeguards against discrimination, measures were also taken to form bond
 
 Hence, the government, while maintaining Malay as Singapore’s national language as Malays are constitutionally recognised as the indigenous people of Singapore, introduced English as the language of administration and instruction. This unified Singaporeans without privileging any particular cultural group while also promoting international trade and diplomacy. Singaporeans continued to retain their mother tongues as second languages, to access their cultural heritage and strengthen their values and sense of cultural belonging.
 
-![Alt text for image on Isomer site](/images/society/multicultural/OpenDoc%20Banners-4.gif)
+[![Alt text for image on Isomer site](/images/society/multicultural/OpenDoc%20Banners-4.gif)](/social-national-identity/case-studies/special)
 
 ![Alt text for image on Isomer site](/images/society/multicultural/racialharmony-07_v2-2.png)
 
@@ -121,4 +121,3 @@ To prevent our social media feeds and those of our friends from becoming echo ch
 “We are not completely colour-blind, and this makes a difference. It will influence our thinking and choices, either consciously or unconsciously,” said Prime Minister Lee Hsien Loong, in a speech on multiculturalism at a PA Kopi Talk on 23 September 2017, shortly after Madam Halimah Yacob was sworn in as Singapore’s first Malay president in 47 years. Singapore, he said, “continues to require guide-ropes and guard-rails to prevent us from falling off along the way.”
 
 ![Alt text for image on Isomer site](/images/society/multicultural/social-quotes-03-v2.png)
-
