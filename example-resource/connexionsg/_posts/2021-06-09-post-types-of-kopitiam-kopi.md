@@ -10,3 +10,5 @@ Don't forget to get your coffee fix from the drinks stalls too, as we help keep 
 Here's ConnexionSG's guide for that customised cup of kopi:
 
 ![Alt text for image on Isomer site](/images/types_kopi.jpg)
+
+<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
