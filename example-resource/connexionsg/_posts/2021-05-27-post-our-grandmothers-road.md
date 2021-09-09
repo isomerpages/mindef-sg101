@@ -23,3 +23,5 @@ Why are there just 41 “female” names out of 3,200 streets? Were women less p
 ![Alt text for image on Isomer site](/images/sos-our-grandmother-rd/SOS_female5.jpg)
 
 Keep an eye out for more stories about #StreetsOfSingapore!
+
+<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
