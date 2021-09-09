@@ -52,7 +52,7 @@ Other aspects such as the arts and music as part of our identity was also consid
 
 Over the years, we have developed a distinctly Singaporean cultural experience, drawing from our richness and diversity from our roots as a migrant nation. Many aspects of our culture, from language to food today are a rich amalgamation and hybrid of Chinese, Malay, Indian, European cultures and so on. One of these examples is our hawker culture, which is on UNESCO’s Intangible Cultural Heritage list.
 
-![Alt text for image on Isomer site](/images/society/sharedid/OpenDoc%20Banners-8.gif)
+[![Alt text for image on Isomer site](/images/society/sharedid/OpenDoc%20Banners-8.gif)](/social-national-identity/case-studies/heritage)
 
 ![Alt text for image on Isomer site](/images/society/sharedid/singapore-icons-e2_v2-2-2.png)
 
@@ -60,7 +60,7 @@ Another example of what is uniquely Singaporean is the evolution and use of a lo
 
 Singlish grammar mirrors that of Malay, by doing away with most prepositions, verb conjugations, and plural words, while its vocabulary reflects the broad range of the country’s immigrant roots. It borrows from Malay, Hokkien, Cantonese, Mandarin and other Chinese languages, as well as Tamil from southern India.
 
-![Alt text for image on Isomer site](/images/society/sharedid/OpenDoc%20Banners-9.gif)
+[![Alt text for image on Isomer site](/images/society/sharedid/OpenDoc%20Banners-9.gif)](/social-national-identity/case-studies/singlish)
 
 ![Alt text for image on Isomer site](/images/society/sharedid/singlish-2.png)
 
@@ -112,4 +112,4 @@ Singapore’s approach to new citizens is one of integration, not assimilation, 
 
 To integrate new citizens, Singapore needs to reaffirm and promote shared values, find and grow common spaces, share collective experiences and strengthen emotional bonds among our people. Opportunities to interact and understand one another better continue to be key, especially between locals and new citizens.
 
-![Alt text for image on Isomer site](/images/society/sharedid/OpenDoc%20Banners-10.gif)
+[![Alt text for image on Isomer site](/images/society/sharedid/OpenDoc%20Banners-10.gif)](/social-national-identity/examples/integrating)
