@@ -19,3 +19,6 @@ Watch this [video](https://www.facebook.com/ConnexionSG/videos/371453167685367) 
       </blockquote>
     </div>
   </div>
+	
+<div class="fb-video" data-href="https://www.facebook.com/facebook/videos/10153231379946729"  
+  data-allowfullscreen="true" data-width="500"></div>
