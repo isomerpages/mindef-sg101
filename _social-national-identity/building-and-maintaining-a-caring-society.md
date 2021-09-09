@@ -42,7 +42,7 @@ Those with disabilities are also given opportunities to improve their lives and 
 
 Total funding for special education schools have also risen by about 40 per cent over the last five years, ensuring that children and teenagers with intellectual difficulties are able to get an education. The number of special needs schools now stands at 19, with three more in the works. More mainstream schools are also opening their doors to students with mild special needs, with the help of allied educators. Currently, 20 per cent of students with special needs are in special education schools, with the rest, or 26,000 students, in mainstream schools. This figure has doubled from 13,000 in 2013.
 
-![Alt text for image on Isomer site](/images/society/caring/OpenDoc%20Banners-11.gif)
+[![Alt text for image on Isomer site](/images/society/caring/OpenDoc%20Banners-11.gif)](/social-national-identity/examples/striving)
 
 While the government’s social provisions have broadened, they remain anchored in the basic principles of self-reliance, individual effort and personal responsibility. As former DPM Tharman famously told a BBC presenter on 7 May 2015, who had pressed him on the concept of a safety net: “I believe in the notion of a trampoline.” Social assistance in Singapore is not supposed to provide for a comfortable life but is meant to spur citizens on to get back on their feet.
 
@@ -50,7 +50,7 @@ Relying on government support alone is also insufficient, and it is up to the in
 
 Many Singaporeans have indeed come forward to help one another, and in recent years, there has been an upward trend in volunteerism in Singapore, especially among retirees. Charities like Temasek Foundation and Lien Foundation have also stepped up. Temasek Foundation has funded initiatives that include offering mothers from vulnerable families a community health and social care support system from pregnancy until their child is three, and empowering children from low-income families to chase their dreams in dance and art. Meanwhile Lien Foundation has been investing in the eldercare sector, creating more centres for seniors to exercise, undergo health checks or socialise, as well as more quality nursing homes equipped with facilities such as a gym and cafe.
 
-![Alt text for image on Isomer site](/images/society/caring/OpenDoc%20Banners-14.gif)
+[![Alt text for image on Isomer site](/images/society/caring/OpenDoc%20Banners-14.gif)](/social-national-identity/examples/volunteerism)
 
 #### Acts of Care
 
@@ -74,7 +74,7 @@ There are other examples where Singaporeans gladly helped others. In 2015, when 
 
 Similarly in 2020, as the world fought to control and contain the Covid-19 pandemic, Singaporeans once again stepped up to help others. One Singaporean couple gave out 6,600 surgical masks for free when they saw how Singaporeans were scrambling to find masks. While another couple made their own alcohol-based hand sanitiser, sharing it with their neighbours by placing a bottle of it at their block’s lift.
 
-![Alt text for image on Isomer site](/images/society/caring/OpenDoc%20Banners-13.gif)
+[![Alt text for image on Isomer site](/images/society/caring/OpenDoc%20Banners-13.gif)](/social-national-identity/case-studies/covid19)
 
 Crises aside, Singaporeans also have the capacity to show love to those struggling in their daily lives. One couple even opened their home to young people in need, quitting their jobs in the process. Mr Kenneth Thong and his wife, Adeline, started The Last Resort, running it out of a rented Seletar four-storey terraced house. The young adults who stay with them could be unwed mothers, homeless teenagers or those with mental problems. Most are from dysfunctional families and have nowhere else to go, and many are too old for institutional care or fostering. “We want them to experience what a normal, safe, functional family looks like. And that means they are free to have whatever we have here,” said Mr Thong in an interview with The Straits Times in 2018.
 
