@@ -17,3 +17,5 @@ The rojak tells a story of inspired craftsmanship in pairing opposing flavours a
 "Rojak" means "mixed" in Malay, and its history reflects how different elements come together. A fruit rojak by any other name, whether rujak buah in Indonesia or rojak buah in Malaysia, may come in different combinations but what’s identifiable is that combined flavour of sweet, sharp, spicy, and sour
 
 Rojak is often used to represent Singapore’s eclectic cultural mix because, unlike a homogenised broth, its appeal comes from having different flavours, united by a distinctive sauce. That speaks too of the connections we have with our neighbours and region. A heritage of diversity, variety, and finding harmony in the disparate that is mixed — quite literally — into our dishes. #FoodForThought
+
+<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
