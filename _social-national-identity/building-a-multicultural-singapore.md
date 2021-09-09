@@ -58,7 +58,7 @@ Another way the government sought to bridge gaps along racial lines was to incre
 
 The Housing Development Board’s (HDB) Ethnic Integration Policy was introduced to do just that. Aimed at preventing the formation of ethnic enclaves and to promote the integration of minority groups, it specified the proportion of flats that could be owned by the various ethnic groups. This created a more balanced ethnic mix in the various housing estates.
 
-![Alt text for image on Isomer site](/images/society/multicultural/OpenDoc%20Banners-2.gif)
+[![Alt text for image on Isomer site](/images/society/multicultural/OpenDoc%20Banners-2.gif)](/social-national-identity/examples/hdb)
 
 ![Alt text for image on Isomer site](/images/society/multicultural/racialharmony-08-2.png)
 
@@ -94,7 +94,7 @@ Understanding that this was the act of radicalised individuals and not reflectiv
 
 The government was therefore able to act quickly to prevent Singaporeans from turning against the Muslims in the community, which could potentially have led to devastating effects on social cohesion and strained communal relations.
 
-![Alt text for image on Isomer site](/images/society/multicultural/OpenDoc%20Banners-5.gif)
+[![Alt text for image on Isomer site](/images/society/multicultural/OpenDoc%20Banners-5.gif)](/social-national-identity/examples/inter)
 
 #### The Continued Need for Racial Harmony
 
@@ -102,7 +102,7 @@ Singapore has adopted social resilience as a key strategy against terrorism and 
 
 But a lapse could tear open old wounds. Singapore, therefore, remains ever vigilant in monitoring tensions from racial differences, taking proactive steps to safeguard the nation’s ability to stay united.
 
-![Alt text for image on Isomer site](/images/society/multicultural/OpenDoc%20Banners-6.gif)
+[![Alt text for image on Isomer site](/images/society/multicultural/OpenDoc%20Banners-6.gif)](/social-national-identity/case-studies/learning)
 
 In recent years, some events have led to conversations in society on whether racism is built into our system. In particular, the recent George Floyd protests in the United States revived discussion around issues of race and privilege, with the term “Chinese Privilege” coming into common usage. Many locals have also come forward to share their experiences of casual and systemic racism in the recent ‘Regardless of Race’ dialogues in 2019, with some questioning the continued relevance of Special Assistance Plan (SAP) and Singapore’s Chinese-Malay-Indian-Others (CMIO) racial framework.
 
