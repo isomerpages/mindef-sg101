@@ -21,12 +21,14 @@ sections:
           - title: Social / National Identity
             url: ""
   - infopic:
-      title: Updated Case Studies
-      subtitle: UPdates
-      description: Insert text here
-      button: See Case studies here
+      title: COVID-19
+      subtitle: Case Studies update
+      description: In any time of crisis, we can either choose to band together, or
+        draw apart. The COVID-19 pandemic and its consequences, termed “the
+        crisis of a generation...
+      button: Read more
       url: /economy/digging-deeper-case-studies/withdrawal
-      image: /images/upcs-4.png
+      image: /images/society/case-studies/93835247_3747841691924435_4238911148084166656_n.png
       alt: Image alt text
   - resources:
       title: Latest Resources
