@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - our-fundamentals.md
-      - examples/.keep
-      - case-studies/.keep
-      - bibliography.md
       - building-a-multicultural-singapore.md
       - creating-a-shared-identity-as-singaporeans.md
       - building-and-maintaining-a-caring-society.md
+      - examples/.keep
+      - case-studies/.keep
+      - bibliography.md
