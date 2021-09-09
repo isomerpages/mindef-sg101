@@ -23,3 +23,6 @@ The content is organised into four key categories – ‘Defence and Security’
 We welcome educators, facilitators, students and Singaporeans who have an interest in the Singapore Story to use this site. Please also help us improve by giving us your feedback and suggestions [here](https://go.gov.sg/sg101survey).
 
 ![Alt text for image on Isomer site](/images/framework3.jpg)
+
+Copyright © 2021, Nexus.
+<br>You can find out more about Nexus [here](https://www.mindef.gov.sg/oms/nexus/index.html).</br>
