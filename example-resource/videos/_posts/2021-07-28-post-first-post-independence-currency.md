@@ -4,8 +4,7 @@ date: 2021-07-28
 permalink: /example-resource/videos/post-indpendence-currency
 layout: post
 ---
-There is history to be found in our wallets. More than a piece of paper or plastic, the different faces of our currency each has its own story. 
+Every Dumpling Festival, Mdm Peh and her three daughters would gather to make at least 300 bak changs for their family and friends. 
 
-Today, find out more about the Orchid Series, #SingaporesFirst post-independence currency notes.
+Though it is easier to buy them, Mdm Peh insists on making the traditional dumplings from scratch as she believes her home-made ones taste far better. This is how she makes her Hokkien-style dumplings.
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FConnexionSG%2Fvideos%2F371453167685367%2F&show_text=false&width=476&t=0" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
