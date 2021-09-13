@@ -25,4 +25,4 @@ We welcome educators, facilitators, students and Singaporeans who have an intere
 ![Alt text for image on Isomer site](/images/framework3.jpg)
 
 Copyright © 2021, Nexus.
-<br>You can find out more about Nexus [here](https://www.mindef.gov.sg/oms/nexus/index.html).</br>
+<br>You can find out more about Nexus [here](https://www.mindef.gov.sg/oms/nexus/index.html).
