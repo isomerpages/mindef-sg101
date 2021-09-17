@@ -2,8 +2,6 @@ collections:
   infrastructure:
     output: true
     order:
-      - case-studies/.keep
-      - case-studies/energy.md
       - our-fundamentals.md
       - constraints-and-challenges/.keep
       - constraints-and-challenges/resource-innovation.md
