@@ -55,4 +55,4 @@ To instil confidence in NEWater, PUB opened up its NEWater plants to the public,
 
 Thinking out of the box is one way we have adapted. This innovative energy is a key theme that runs throughout our short history. Another area that we have consistently applied innovative thinking is in our approach to energy resources.
 
-[![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/image015.gif)](/infrastructure/case-studies-resources/energy)
+[![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/image015.gif)](/infra/case-studies/energy)
