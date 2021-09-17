@@ -28,4 +28,4 @@ We are also progressively strengthening our defences against rising sea levels t
 
 But land reclamation is both expensive and challenging to do, especially since it requires large quantities of sand – a resource that Singapore does not have a large abundance of.
 
-[![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/image038.gif)](/infrastructure/case-studies-resources/sand)
+[![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/image038.gif)](/infra/case-studies/sand)
