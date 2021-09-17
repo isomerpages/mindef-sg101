@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - constraints-and-challenges/.keep
+      - constraints-and-challenges/resource-innovation.md
       - our-fundamentals.md
