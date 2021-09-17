@@ -24,4 +24,4 @@ SGP 2030, pictured below, is a wide-ranging plan that will see Singapore adopt g
 
 ![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-13.png)Image: SG Green Plan
 
-[![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-greenblue.gif)](/infrastructure/case-studies-urban-planning/green)
+[![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-greenblue.gif)](/infrastructure/case-studies-urban-planning/spaces)
