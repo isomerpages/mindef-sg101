@@ -1,0 +1,4 @@
+collections:
+  infra:
+    output: true
+    order: []
