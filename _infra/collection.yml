@@ -2,4 +2,5 @@ collections:
   infra:
     output: true
     order:
+      - constraints-and-challenges/.keep
       - our-fundamentals.md
