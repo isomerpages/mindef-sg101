@@ -2,8 +2,6 @@ collections:
   infrastructure:
     output: true
     order:
-      - case-studies-resources/.keep
-      - case-studies-resources/energy.md
       - our-fundamentals.md
       - constraints-and-challenges/.keep
       - constraints-and-challenges/resource-innovation.md
@@ -17,3 +15,5 @@ collections:
       - urban-planning/engaging-the-community.md
       - urban-planning/preserving-a-unique-national-identity.md
       - urban-planning/conclusion.md
+      - case-studies-resources/.keep
+      - case-studies-resources/energy.md
