@@ -1,4 +1,5 @@
 collections:
   infra:
     output: true
-    order: []
+    order:
+      - our-fundamentals.md
