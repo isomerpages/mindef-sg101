@@ -17,9 +17,9 @@ sections:
           - title: Economy
             url: /economy/our-fundamentals
           - title: Infrastructure
-            url: ""
+            url: /infrastructure/ourfundamentals
           - title: Social / National Identity
-            url: ""
+            url: /social-national-identity/ourfundamentals
   - infopic:
       title: COVID-19
       subtitle: Case Studies update
