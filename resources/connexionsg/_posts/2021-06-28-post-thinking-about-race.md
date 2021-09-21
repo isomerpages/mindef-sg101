@@ -1,9 +1,10 @@
 ---
 title: Thinking About Race
 date: 2021-06-28
-permalink: /example-resource/connexionsg/aboutrace
+permalink: /resources/connexionsg/aboutrace
 layout: post
 ---
+
 In 1965, shortly after independence, Lee Kuan Yew said that Singapore is “not a country that belongs to any single community; it belongs to all of us."
 
 ![Alt text for image on Isomer site](/images/race1.jpeg)
