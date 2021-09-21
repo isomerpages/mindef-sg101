@@ -1,9 +1,10 @@
 ---
 title: Mainland Village
 date: 2021-07-21
-permalink: /example-resource/connexionsg/mainlandvillage
+permalink: /resources/connexionsg/mainlandvillage
 layout: post
 ---
+
 #### A small turn off Gerald Drive in the Yio Chu Kang area is all it takes to transport you to another era
 
 ![Alt text for image on Isomer site](/images/mainlandvillage.jpeg)
