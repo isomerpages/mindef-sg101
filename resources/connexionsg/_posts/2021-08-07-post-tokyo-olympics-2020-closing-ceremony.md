@@ -1,9 +1,10 @@
 ---
 title: Tokyo Olympics 2020 Closing Ceremony
 date: 2021-08-07
-permalink: /example-resource/connexionsg/tokyo2020
+permalink: /resources/connexionsg/tokyo2020
 layout: post
 ---
+
 The Olympics has captivated the world over the past three weeks with humans performing superhuman sporting feats. These athletes train at the highest levels to qualify amongst the world’s best. Then they proceed to push each other and the boundaries of their sport during the actual competition.
 
 ![Alt text for image on Isomer site](/images/tokyoolympics2020.jpeg)
