@@ -1,7 +1,8 @@
 ---
 title: Resources
-permalink: /resources
+permalink: /resourcesold
 ---
+
 ## National Education Resources
 
 #### [Total Defence Resources](https://www.mindef.gov.sg/oms/imindef/mindef_websites/topics/totaldefence/resources.html)
