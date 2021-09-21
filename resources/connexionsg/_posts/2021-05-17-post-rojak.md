@@ -1,9 +1,10 @@
 ---
 title: Rojak
 date: 2021-05-17
-permalink: /example-resource/connexionsg/permalink
+permalink: /resources/connexionsg/permalink
 layout: post
 ---
+
 We all have our own ideas about what makes the best Rojak. 
 
 ![Alt text for image on Isomer site](/images/186548102_5514269018615018_2062938971880375410_n.jpg)
