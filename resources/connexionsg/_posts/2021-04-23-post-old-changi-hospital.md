@@ -1,9 +1,10 @@
 ---
 title: Old Changi Hospital
 date: 2021-04-23
-permalink: /example-resource/connexionsg/oldchangihospital
+permalink: /resources/connexionsg/oldchangihospital
 layout: post
 ---
+
 #### Changi's (Not So Hidden) Hospital
 
 On the far flung eastern coast of Singapore lies Changi Point, famed for its rustic charms and coastal boardwalk. Last week, Urban Redevelopment Authority and Singapore Land Authority launched a contest for ideas to rejuvenate the area.
