@@ -1,9 +1,10 @@
 ---
 title: Kintsugi
 date: 2021-02-20
-permalink: /example-resource/connexionsg/kintsugi
+permalink: /resource/connexionsg/kintsugi
 layout: post
 ---
+
 #TIL Today I Learnt that Kintsugi (golden repair) is a Japanese pottery repair method that dates back more than 400 years. In Singapore, there are classes we can take to learn this. It is an art that embraces flaws and imperfections, turning cracks into golden “scars” that make the pottery even more unique, stronger and more beautiful than before. A concept worth remembering, because it demonstrates resilience.
 
 ![Alt text for image on Isomer site](/images/til_kintsugi.png)
