@@ -1,9 +1,10 @@
 ---
 title: Registration Of Singapore Identity Card Begins
 date: 2021-05-09
-permalink: /example-resource/connexionsg/registrationic
+permalink: /resources/connexionsg/registrationic
 layout: post
 ---
+
 #onthisday in 1966, Singaporeans began registering for pink and blue identity cards. The National Registration Act of 1965 took effect a few days before -- on 5 May -- and required all Singaporeans aged 12 and above to register for new identity cards.
 
 ![Alt text for image on Isomer site](/images/onthisday_nric_reg.jpg)
