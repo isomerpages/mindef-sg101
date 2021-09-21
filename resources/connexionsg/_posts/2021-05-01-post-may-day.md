@@ -1,9 +1,10 @@
 ---
 title: May Day
 date: 2021-05-01
-permalink: /example-resource/connexionsg/mayday
+permalink: /resources/connexionsg/mayday
 layout: post
 ---
+
 #### Did you know Labour Day (AKA May Day) is older than National Day?
 
 It was first gazetted as a public holiday in 1960, five years before Singapore became independent, as a paid day of rest to honour workers.
