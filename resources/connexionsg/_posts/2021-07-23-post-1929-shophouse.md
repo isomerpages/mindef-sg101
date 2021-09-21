@@ -1,9 +1,10 @@
 ---
 title: 1929 Shophouse
 date: 2021-07-23
-permalink: /example-resource/connexionsg/1929shophouse
+permalink: /resources/connexionsg/1929shophouse
 layout: post
 ---
+
 At the intersection of Lorong 19 Geylang and Lorong Bachok stands this shophouse from 1929. #HEREitage
 
 ![Alt text for image on Isomer site](/images/1929shophouse1.jpeg)
