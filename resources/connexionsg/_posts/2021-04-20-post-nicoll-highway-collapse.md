@@ -1,9 +1,10 @@
 ---
 title: Nicoll Highway Collapse
 date: 2021-04-20
-permalink: /example-resource/connexionsg/nicollhigwaycollapse
+permalink: /resources/connexionsg/nicollhigwaycollapse
 layout: post
 ---
+
 #onthisday in 2004, a temporary retaining wall of the tunnel at the Nicoll Highway Circle Line MRT station construction site collapsed at around 3.30pm. The ground above caved in, bringing down the steel supports over the tunnel and a portion of Nicoll Highway. As a result, a 30-metre-deep ravine was created. Tremors from the collapse were felt at Golden Mile Complex nearby.
 
 ![Alt text for image on Isomer site](/images/nicollhw1.jpg)
