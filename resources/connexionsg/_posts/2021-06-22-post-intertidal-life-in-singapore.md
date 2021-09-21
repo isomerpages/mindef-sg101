@@ -1,9 +1,10 @@
 ---
 title: Intertidal Life In Singapore
 date: 2021-06-22
-permalink: /example-resource/connexionsg/intertidallifeinsg
+permalink: /resources/connexionsg/intertidallifeinsg
 layout: post
 ---
+
 Every day between the high and low tides, a coastal zone emerges from the water along Singapore’s shores. These calm, shallow lagoons — known as intertidal zones — reveal a range of marine life: from sea stars to sea urchins; anemones to snails; and sea cucumbers to shrimp.
 
 ![Alt text for image on Isomer site](/images/intertidal-life2.jpeg)
