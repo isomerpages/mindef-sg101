@@ -1,9 +1,10 @@
 ---
 title: Bicycle Licence
 date: 2021-04-17
-permalink: /example-resource/connexionsg/bicyclelicence
+permalink: /resources/connexionsg/bicyclelicence
 layout: post
 ---
+
 More people have taken up cycling in Singapore as roads become better connected: to get to work, fetch children, collect meals or just simply for enjoyment. 
 
 ![Alt text for image on Isomer site](/images/sgfirst_licence_lky.jpg)
