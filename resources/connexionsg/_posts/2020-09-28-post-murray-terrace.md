@@ -1,9 +1,10 @@
 ---
 title: Murray Terrace
 date: 2020-09-28
-permalink: /resource/connexionsg/murrayterrace
+permalink: /resources/connexionsg/murrayterrace
 layout: post
 ---
+
 
 Along Murray Street by Maxwell Road stands Murray Terrace, a cluster of 14 pre-war shophouses. Its namesake was believed to be Colonel A. Murray, a surveyor general of the Straits Settlements. Its original purpose is a bit of a mystery - it could have served as an army barracks. Murray Terrace has unusual architectural features -- a lion head carving and claw-like protrusions on its walls, octagonal columns and a flag post.
 
