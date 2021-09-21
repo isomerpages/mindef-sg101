@@ -1,9 +1,10 @@
 ---
 title: Signing Of Asean Declaration
 date: 2021-08-08
-permalink: /example-resource/connexionsg/aseandeclaration
+permalink: /resources/connexionsg/aseandeclaration
 layout: post
 ---
+
 #onthisday in 1967, the Heads of State from Singapore, Indonesia, Malaysia, the Philippines and Thailand gathered in Bangkok to sign the ASEAN declaration for regional cooperation.
 
 ![Alt text for image on Isomer site](/images/aseandeclaration.jpeg)
