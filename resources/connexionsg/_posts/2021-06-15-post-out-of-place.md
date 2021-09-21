@@ -1,9 +1,10 @@
 ---
 title: Out Of Place
 date: 2021-06-15
-permalink: /example-resource/connexionsg/outofplace
+permalink: /resources/connexionsg/outofplace
 layout: post
 ---
+
 #### Where's the beach on Beach Road?
 
 In Singapore, there are also other odd street names that might seem out of place at first: Airport Road is not at Changi Airport and there is no horse racing at Race Course Road.
