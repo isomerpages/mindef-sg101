@@ -1,9 +1,10 @@
 ---
 title: Underground Ammunition Storage Facility
 date: 2021-08-06
-permalink: /example-resource/connexionsg/undergroundamm
+permalink: /resources/connexionsg/undergroundamm
 layout: post
 ---
+
 #### Breaking new ground with #SingaporesFirst underground ammunition storage facility
 
 With land space constraints in Singapore, underground spaces have been developed to meet our infrastructural needs. This began in the 1980s with the first MRT and road tunnels and was accelerated with the completion of #SingaporesFirst underground ammunition storage facility in 2008.
