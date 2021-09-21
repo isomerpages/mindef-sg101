@@ -1,9 +1,10 @@
 ---
 title: Shipwreck Artefacts In Singapore Eastern Waters Excavated
 date: 2021-06-17
-permalink: /example-resource/connexionsg/partefacts
+permalink: /resources/connexionsg/partefacts
 layout: post
 ---
+
  In June 2021, important pieces to our history were uncovered from two shipwrecks in Singapore's eastern waters — the first to be found in our waters. 
  
 ![Alt text for image on Isomer site](/images/shipwreck1.jpg)
