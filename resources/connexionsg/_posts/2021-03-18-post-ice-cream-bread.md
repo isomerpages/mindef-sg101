@@ -1,9 +1,10 @@
 ---
 title: Ice Cream Bread
 date: 2021-03-18
-permalink: /example-resource/connexionsg/icecreambread
+permalink: /resource/connexionsg/icecreambread
 layout: post
 ---
+
 With the temperature averaging at a sweltering mid-30 degrees celsius these days, what could be better than some ice-cream? And not just a small little ball -- a whole thick slab, now that’s even better.
 
 ![Alt text for image on Isomer site](/images/160717151_5216629471712309_4186014281516695393_n.jpg)
