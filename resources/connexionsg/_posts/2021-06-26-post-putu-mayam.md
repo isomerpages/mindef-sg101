@@ -1,9 +1,10 @@
 ---
 title: Putu Mayam
 date: 2021-06-26
-permalink: /example-resource/connexionsg/putumayam
+permalink: /resources/connexionsg/putumayam
 layout: post
 ---
+
 #### When was the last time you ate this? ###
 
 
