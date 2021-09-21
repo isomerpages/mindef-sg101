@@ -1,9 +1,10 @@
 ---
 title: First Car Free Day
 date: 2021-04-19
-permalink: /example-resource/connexionsg/1stcarfreeday
+permalink: /resources/connexionsg/1stcarfreeday
 layout: post
 ---
+
 #onthisday in 2001, #SingaporesFirst Car-Free Day was organised by the Singapore Environment Council to highlight the importance of minimising traffic pollution. Drivers were encouraged to leave their vehicles at home and take public transport, carpool, cycle or walk.
 
 ![Alt text for image on Isomer site](/images/onthisday_carfreeday.jpg)
