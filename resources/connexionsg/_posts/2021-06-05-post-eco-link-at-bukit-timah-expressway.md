@@ -1,9 +1,10 @@
 ---
 title: Eco Link At Bukit Timah Expressway
 date: 2021-06-05
-permalink: /example-resource/connexionsg/ecolink
+permalink: /resources/connexionsg/ecolink
 layout: post
 ---
+
 Today on #WorldEnvironmentDay, we think about Singapore's constraints, challenges, and efforts in conserving the environment.
 
 In the 1980s, a section of forest that connected Bukit Timah Nature Reserve and the Central Catchment Nature Reserve — two of Singapore’s most important natural habitats for wildlife — was cleared make way for the Bukit Timah Expressway (BKE).
