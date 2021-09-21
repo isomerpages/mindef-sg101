@@ -1,9 +1,10 @@
 ---
 title: Introduction Of The Ez Link Card
 date: 2021-04-13
-permalink: /example-resource/connexionsg/ezlink
+permalink: /resources/connexionsg/ezlink
 layout: post
 ---
+
 Taking the bus used to be such a hassle. You would need to know how much it costs to get to your destination, and then count out the coins. It's even worse when a queue forms behind you as you struggle to dig out the last cent, and then oh no – the coins are dropping. Even with farecards, there was only so long you could stare at the various fare buttons on the machine in puzzlement.
 
 ![Alt text for image on Isomer site](/images/onthisday_ezlink.jpg)
