@@ -12,4 +12,6 @@ This year’s Racial Harmony Day is a timely reminder on how we should not let r
  
 You are encouraged to use this package (Folio 1) to discuss the importance of racial harmony in Singapore. We have also included a PDF version (Folio 2) that you may forward to your respective departments and teams. 
 
-Download: [Racial Harmony Day 2021 (Self Reading Package).pdf](/files/packages/2021/Racial%20Harmony%20Day%202021.pdf)
+Download: 
+<br>[Folio 1 - Racial Harmony Day 2021 (Engagement Package for NE Coordinators).pdf](/files/packages/2021/Folio%201%20-%20Racial%20Harmony%20Day%202021.pdf)
+<br>[Folio 2 - Racial Harmony Day 2021 (Self Reading Package).pdf](/files/packages/2021/Folio%202%20-%20Racial%20Harmony%20Day%202021.pdf)
