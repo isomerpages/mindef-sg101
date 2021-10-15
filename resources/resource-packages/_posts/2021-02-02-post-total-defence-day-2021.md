@@ -9,6 +9,6 @@ In the past year, the world has grappled with the COVID-19 pandemic – Singapor
 Moving forward, Singapore will continue to face different challenges. Hence, it is more important than ever for us to continue putting Total Defence into action. 
 	Speakers may use the engagement package (Folio 1) to discuss the relevance of Total Defence and how each of us can play a part in keeping Singapore strong, amidst existing and future challenges.
 	
-Defence Minister Ng Eng Hen also shared his Total Defence Day video message on his [Facebook page](https://www.facebook.com/ngenghen/videos/1323853364674384) on 14 Feb, 1800 hrs. 
+Defence Minister Ng Eng Hen also shared his Total Defence Day video message on his [Facebook page](https://www.facebook.com/ngenghen) on 14 Feb, 1800 hrs. 
 
 Download: [Total Defence 2021 NE Engagement Package.pdf](https://go.gov.sg/td21-ne-engagement-package)
