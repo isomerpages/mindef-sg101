@@ -3,6 +3,12 @@ title: Strengthening Tripartism
 permalink: /economy/staying-exceptional/strengthening
 third_nav_title: Staying Exceptional
 ---
+## Staying Stable
+
+**Keeping the Fundamentals Intact**
+
+There are no easy solutions to many of these problems. But one thing is clear: in an increasingly fragmented world, Singapore must remain stable, safe and attractive to foreign investment and relevant to the world.
+
 #### Strengthening Tripartism
 ![Alt text for image on Isomer site](/images/economy/staying-exceptional/59684637_2694277900614158_2205422520599838720_n.png)
 
