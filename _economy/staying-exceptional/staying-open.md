@@ -3,11 +3,7 @@ title: Staying Open
 permalink: /economy/staying-exceptional/stayingopen
 third_nav_title: Staying Exceptional
 ---
-## Staying Exceptional
-
-**Keeping the Fundamentals Intact**
-
-There are no easy solutions to many of these problems. But one thing is clear: in an increasingly fragmented world, Singapore must remain stable, safe and attractive to foreign investment and relevant to the world.
+## Staying Attractive and Relevant
 
 #### Staying Open
 ![Alt text for image on Isomer site](/images/economy/staying-exceptional/DSC0964aa.jpg)
