@@ -5,16 +5,16 @@ permalink: /resources/videos/cine65mma2021
 layout: post
 ---
 ##### ciNE65 MMA 2021 – Siti
+Following the death of Joyce's grandmother, she and the domestic helper reminisce about her grandmother through the items left behind by her.
 <iframe width="640" height="360" src="https://www.youtube.com/embed/DVYnY6rJyFs?list=PLzzyAV0vbJD8lArFIc0TEXfhB-Z2E_Yib" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>Following the death of Joyce's grandmother, she and the domestic helper reminisce about her grandmother through the items left behind by her.
 
 ##### ciNE65 MMA 2021 - Ala-mask! [Temasek Polytechnic]
 <iframe width="640" height="360" src="https://www.youtube.com/embed/ZYQCufSEWyw?list=PLzzyAV0vbJD8lArFIc0TEXfhB-Z2E_Yib" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>A student without a mask has to board the bus on time to avoid being barred from doing his examinations.
+A student without a mask has to board the bus on time to avoid being barred from doing his examinations.
 
 ##### ciNE65 MMA 2021 – It Might Be Us Soon
 <iframe width="640" height="360" src="https://www.youtube.com/embed/c_bw-c_DIug?list=PLzzyAV0vbJD8lArFIc0TEXfhB-Z2E_Yib" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>It Might Be Us Soon is a film about two migrant workers during the COVID-19 Circuit Breaker. The story follows Rai as he struggles to put up a front for his family back in India. Despite their language barrier, Rai finds solace in the company of his roommate, Jiang, as they face the inevitable together.
+It Might Be Us Soon is a film about two migrant workers during the COVID-19 Circuit Breaker. The story follows Rai as he struggles to put up a front for his family back in India. Despite their language barrier, Rai finds solace in the company of his roommate, Jiang, as they face the inevitable together.
 
 ##### ciNE65 MMA 2021 – Knock, Knock! [Temasek Polytechnic]
 <iframe width="640" height="360" src="https://www.youtube.com/embed/XuXq4iLvXuY?list=PLzzyAV0vbJD8lArFIc0TEXfhB-Z2E_Yib" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
