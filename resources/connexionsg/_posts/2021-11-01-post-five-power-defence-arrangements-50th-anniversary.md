@@ -24,3 +24,6 @@ Catch the highlights from this week's flypast and naval vessel display commemora
 ![Alt text for image on Isomer site](/images/1994_1.jpeg)
 ###### 1994: FPDA defence ministers meet in Singapore for what was then-termed the FPDA Defence Minister's Conference. (Image: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore)
 
+![Alt text for image on Isomer site](/images/fpda4.jpg)
+###### 2019: Soldiers from the FPDA member-nations during Exercise Bersama Lima 2019. (Image: Ng Eng Hen/Facebook)
+
