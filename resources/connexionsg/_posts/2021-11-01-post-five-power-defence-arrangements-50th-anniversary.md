@@ -23,3 +23,4 @@ Catch the highlights from this week's flypast and naval vessel display commemora
 
 ![Alt text for image on Isomer site](/images/1994_1.jpeg)
 ###### 1994: FPDA defence ministers meet in Singapore for what was then-termed the FPDA Defence Minister's Conference. (Image: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore)
+
