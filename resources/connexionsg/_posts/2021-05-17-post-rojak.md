@@ -1,9 +1,10 @@
 ---
 title: Rojak
 date: 2021-05-17
-permalink: /resources/connexionsg/permalink
+permalink: /resources/connexionsg/rojak
 layout: post
 ---
+
 
 We all have our own ideas about what makes the best Rojak. 
 
