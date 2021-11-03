@@ -17,9 +17,12 @@ Sparks from a cutting torch used during repairs caused a fire, which ignited an 
 
 The victims were rushed to Alexandra Hospital and Singapore General Hospital. Medical staff worked overtime and even volunteered their services off-duty. The public turned up in record numbers at hospitals to donate blood to the injured. “There were so many donors that were queuing outside the building and snaking out to the carpark” recalled Kang Kok Sheng, who was on duty as a lab technician with the Singapore Blood Transfusion Service.
 
-![Alt text for image on Isomer site](/images/spyros1.jpg)
+![Alt text for image on Isomer site](/images/spyros2.jpg)
 
 Various organisations, such as the then-Ministry of Labour and Singapore Labour Foundation, raised funds for the victims and their families. The public also chipped in — hawkers donated their earnings and schools set up education funds to help affected students. Within two weeks, the donations had reached almost $4 million.
+
+> “Any myth that Singaporeans are an uncaring lot was convincing shattered by the hundreds who formed the second group — they had come to the hospital to give live-giving blood, to keep the injured victims alive.” 
+##### The Straits Times, 14 October 1978
 
 A Committee of Inquiry chaired by Senior District Judge, Michael Khoo Kah Lip, found that safety regulations had been ignored. Organised labour, led by NTUC Secretary-General, C. V. Devan Nair, and Senior Parliamentary Secretary (Labour), Fong Sip Chee, expressed outrage at the disaster and both the trade unions and the government lobbied and campaigned vigorously for greater safety consciousness in the shipbuilding and repairing industry.
 
