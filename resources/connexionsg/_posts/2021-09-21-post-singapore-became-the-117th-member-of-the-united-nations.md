@@ -4,7 +4,9 @@ date: 2021-09-21
 permalink: /resources/connexionsg/permalink
 layout: post
 ---
-#onthisday, 21 Sep, in 1965, Singapore became the 117th member of the United Nations (UN). As a young nation, it was critical for Singapore to be recognised as a sovereign and independent state.
+####  #onthisday, 21 Sep, in 1965, Singapore became the 117th member of the United Nations (UN). As a young nation, it was critical for Singapore to be recognised as a sovereign and independent state.
+
+![Alt text for image on Isomer site](/images/un1.jpg)
 
 Our application on 3 Sep was sponsored by Malaysia, the UK, Jordan, and Ivory Coast. With no objections at the Security Council on 20 Sep and the unanimous support from the General Assembly a day later, we were officially part of the UN.
 
