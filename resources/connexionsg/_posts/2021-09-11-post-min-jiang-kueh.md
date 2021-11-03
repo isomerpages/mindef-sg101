@@ -1,9 +1,10 @@
 ---
 title: Min Jiang Kueh
 date: 2021-09-11
-permalink: /resources/connexionsg/permalink
+permalink: /resources/connexionsg/mjk
 layout: post
 ---
+
 #### Min jiang kueh — a thick-ish pancake traditionally folded over either peanut, red bean or coconut fillings, and believed to have originated in Fujian, China. What started off as peanut-filled combat rations for Qing dynasty soldiers is now known in our region by many names and variations, such as apam balik, terang bulan, kueh pulau pinang, martabak manis and 曼煎粿 (man jian guo).
 
 ![Alt text for image on Isomer site](/images/minjiangkueh_final.jpeg)
