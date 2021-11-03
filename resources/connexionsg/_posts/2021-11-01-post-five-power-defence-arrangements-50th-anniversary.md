@@ -27,3 +27,5 @@ Catch the highlights from this week's flypast and naval vessel display commemora
 ![Alt text for image on Isomer site](/images/fpda4.jpg)
 ###### 2019: Soldiers from the FPDA member-nations during Exercise Bersama Lima 2019. (Image: Ng Eng Hen/Facebook)
 
+![Alt text for image on Isomer site](/images/FPDA5.jpeg)
+###### 2021: The FPDA member-nations participated in a flypast and naval vessel display to commemorate the FPDA's 50th anniversary on 18 October 2021. (Image: MINDEF)
