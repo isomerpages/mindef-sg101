@@ -1,9 +1,10 @@
 ---
 title: The Float at Marina Bay
 date: 2021-08-21
-permalink: /resources/connexionsg/permalink
+permalink: /resources/connexionsg/floatmarinabay
 layout: post
 ---
+
 
 #### Tonight (21 Aug), we hold our National Day Parade (NDP) at The Float @ Marina Bay — home of ten NDPs in years past. 
 
