@@ -1,9 +1,10 @@
 ---
 title: World Maritime Day
 date: 2021-09-23
-permalink: /resources/connexionsg/permalink
+permalink: /resources/connexionsg/worldmaritimeday
 layout: post
 ---
+
 ![Alt text for image on Isomer site](/images/worldmaritime.jpg)
 
 Singapore was not a sleepy fishing village before the British arrived. While the early history of Singapore is obscured by myth and legend, archaeology points to an urbanised settlement here by the 14th century. Remains of old pottery, coins, jewellery, and other artefacts have been found, many of which are believed to be imports from various parts of China, India, Sri Lanka, and Indonesia via aquatic trade routes. Over time, we evolved from this trading settlement to a British trading post in the mid-1800s, to an international maritime centre. The decision in 1969 to build our first container terminal in Tanjong Pagar propelled Singapore into the global league.
