@@ -4,7 +4,7 @@ date: 2021-11-01
 permalink: /connexionsg/permalink
 layout: post
 ---
-#onthisday (1 Nov) 50 years ago, the Five Power Defence Arrangements (FPDA) between Singapore, Malaysia, Australia, New Zealand and the United Kingdom came into effect. The pact established defence cooperation between members following the withdrawal of British troops from the region.
+![Alt text for image on Isomer site](/images/FPDA3.jpeg)#onthisday (1 Nov) 50 years ago, the Five Power Defence Arrangements (FPDA) between Singapore, Malaysia, Australia, New Zealand and the United Kingdom came into effect. The pact established defence cooperation between members following the withdrawal of British troops from the region.
 
 Over the years, this partnership has withstood the test of time, with regular joint exercises to ensure our militaries can respond as one if the need arises. Key military personnel and defence ministers also engage in regular dialogue through the FPDA Consultative Council, the FPDA Defence Chiefs' Conference and FPDA Defence Ministers' Meeting.
 
@@ -21,3 +21,5 @@ Catch the highlights from this week's flypast and naval vessel display commemora
 ![Alt text for image on Isomer site](/images/FPDA1.jpg)
 ###### 1989: A FPDA land exercise was held in Singapore for the first time. Prior to Exercise Lion Spirit (now Exercise Suman Warrior), Australia and New Zealand had previously alternated hosted duties until 1987, when Malaysia hosted Exercise Kris Sakti.(Image: MINDEF/Facebook)
 
+![Alt text for image on Isomer site](/images/1994_1.jpeg)
+###### 1994: FPDA defence ministers meet in Singapore for what was then-termed the FPDA Defence Minister's Conference. (Image: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore)
