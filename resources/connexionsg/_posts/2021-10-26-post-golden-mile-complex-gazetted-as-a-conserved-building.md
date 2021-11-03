@@ -8,4 +8,5 @@ The iconic Golden Mile Complex is here to stay — after being gazetted as a con
 
 With an incentive package offered to potential developers, the building’s iconic “typewriter” façade can be retained and restored to its original glory. This package will facilitate potential collective sales and any subsequent adaptive reuse of the building — all in an effort to balance the requirements of conservation while maintaining its commercial viability. #HEREitage
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FConnexionSG%2Fposts%2F3574626475912625&show_text=true&width=500" width="500" height="649" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+[![Alt text for image on Isomer site](/images/goldenmile.png)](https://www.facebook.com/ConnexionSG/photos/a.170987719609868/3574625695912703)
+https://www.facebook.com/ConnexionSG/photos/a.170987719609868/3574625695912703
