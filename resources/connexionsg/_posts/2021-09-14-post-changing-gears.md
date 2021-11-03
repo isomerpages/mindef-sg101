@@ -1,9 +1,10 @@
 ---
 title: Changing Gears
 date: 2021-09-14
-permalink: /resources/connexionsg/permalink
+permalink: /resources/connexionsg/changinggears
 layout: post
 ---
+
 
 COVID-19 has resulted in Singapore's worst recession since independence. After almost two years of living with COVID-19, it is time to move from drawing down on our reserves to survive, to generating jobs and growth in the new normal. 
 
