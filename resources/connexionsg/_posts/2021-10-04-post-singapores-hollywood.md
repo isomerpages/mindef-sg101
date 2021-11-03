@@ -1,9 +1,10 @@
 ---
 title: Singapore's Hollywood
 date: 2021-10-04
-permalink: /resources/connexionsg/permalink
+permalink: /resources/connexionsg/sghollywood
 layout: post
 ---
+
 🎬🎥  ***Imagine living next to Singapore's Hollywood!***  🎬🎥
 
 In Siglap, sits a small estate off East Coast Road with street names like Jalan Buloh Perindu (“yearning bamboo road”) and Jalan Sedara Ku (“my compatriot road”). These are inspired by films produced by the Cathay-Keris movie studios formerly situated in the area.
