@@ -1,9 +1,10 @@
 ---
 title: World Fashion Day
 date: 2021-08-21
-permalink: /resources/connexionsg/permalink
+permalink: /resources/connexionsg/worldfashionday
 layout: post
 ---
+
 ![Alt text for image on Isomer site](/images/fashionday.jpg)
 
 ##### World Fashion Day is marked yearly #onthisday to celebrate the glory, spirit, and art of fashion around the world. What we wear is more than just material sewn together to protect us, our clothes are a signifier of our identities and cultures. 
