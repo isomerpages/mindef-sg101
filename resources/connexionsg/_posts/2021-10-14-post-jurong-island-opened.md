@@ -4,7 +4,9 @@ date: 2021-10-14
 permalink: /resources/connexionsg/permalink
 layout: post
 ---
-#onthisday (14 Oct) in 2000, Jurong Island was officially opened.
+####  #onthisday (14 Oct) in 2000, Jurong Island was officially opened.
+
+![Alt text for image on Isomer site](/images/jurongisland1.jpg)
 
 In the 1980s, to maintain Singapore's global competitive edge, there was a pressing need for us to diversify beyond electronics manufacturing. One way was to build up our petroleum and petrochemical industries which had been around since 1891. There was a scarcity of industrial land on mainland Singapore -- so we joined seven small islands, such as Pulau Ayer Chawan, Pulau Ayer Merbau, and Pulau Merlimau, to form Jurong Island.
 
