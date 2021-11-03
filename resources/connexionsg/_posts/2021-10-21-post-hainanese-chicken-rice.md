@@ -1,9 +1,10 @@
 ---
 title: Hainanese Chicken Rice
 date: 2021-10-21
-permalink: /resources/connexionsg/permalink
+permalink: /resources/connexionsg/chickenrice
 layout: post
 ---
+
 When Hainanese chefs immigrated to Singapore in the late-19th century, they brought with them a dish called Wenchang chicken rice (文昌鸡饭). Wenchang chicken rice remained as a dish for special occasions in Hainanese homes here until around the 1940s.
 
 ![Alt text for image on Isomer site](/images/hainanchickenrice.jpg)
