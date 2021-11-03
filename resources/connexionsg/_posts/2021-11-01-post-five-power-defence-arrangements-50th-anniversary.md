@@ -16,3 +16,8 @@ Catch the highlights from this week's flypast and naval vessel display commemora
 
 ##### The FPDA Throughout the Years
 ![Alt text for image on Isomer site](/images/FPDA1.jpeg)
+###### 1971: Officials attending the Five Power Defence Arrangements (FPDA) talks at the Ministry of National Development building, Singapore. (Image: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore)
+
+![Alt text for image on Isomer site](/images/FPDA1.jpg)
+###### 1989: A FPDA land exercise was held in Singapore for the first time. Prior to Exercise Lion Spirit (now Exercise Suman Warrior), Australia and New Zealand had previously alternated hosted duties until 1987, when Malaysia hosted Exercise Kris Sakti.(Image: MINDEF/Facebook)
+
