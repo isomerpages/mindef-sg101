@@ -6,7 +6,7 @@ layout: post
 ---
 #### On Changi Road lies a little Chinese temple with a big backstory. Known as Sian Keng Tong, the temple is dedicated to Bao Sheng Da Di, the God of Medicine, worshiped in Chinese folk religion and in Taoism, and popular in Fujian province where the Heng Hua (兴化) clansmen had come from.
 
-
+![Alt text for image on Isomer site](/images/siankengtong.jpg)
 
 Most Chinese temples in Singapore were built by visiting craftsmen from China. But when the People’s Republic of China was established on 1 October 1949, official relations and communications between China and Singapore stalled, resulting in restricted travel for decades. Singapore’s Heng Hua clansmen adapted by building the temple entirely with local talent in 1965, including contributions from bus drivers, bus conductors, and businessmen from their dialect group. This ‘made-in-Singapore’ approach caused a sensation in the Chinese community at that time.
 
