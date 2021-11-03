@@ -1,9 +1,10 @@
 ---
 title: Jurong Island Opened
 date: 2021-10-14
-permalink: /resources/connexionsg/permalink
+permalink: /resources/connexionsg/jurongislandopened
 layout: post
 ---
+
 ####  #onthisday (14 Oct) in 2000, Jurong Island was officially opened.
 
 ![Alt text for image on Isomer site](/images/jurongisland1.jpg)
