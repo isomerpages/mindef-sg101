@@ -1,9 +1,10 @@
 ---
 title: Five Power Defence Arrangements 50th Anniversary
 date: 2021-11-01
-permalink: /connexionsg/permalink
+permalink: /connexionsg/fpda50
 layout: post
 ---
+
 ![Alt text for image on Isomer site](/images/FPDA3.jpeg)#onthisday (1 Nov) 50 years ago, the Five Power Defence Arrangements (FPDA) between Singapore, Malaysia, Australia, New Zealand and the United Kingdom came into effect. The pact established defence cooperation between members following the withdrawal of British troops from the region.
 
 Over the years, this partnership has withstood the test of time, with regular joint exercises to ensure our militaries can respond as one if the need arises. Key military personnel and defence ministers also engage in regular dialogue through the FPDA Consultative Council, the FPDA Defence Chiefs' Conference and FPDA Defence Ministers' Meeting.
