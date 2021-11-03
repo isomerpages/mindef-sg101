@@ -1,9 +1,10 @@
 ---
 title: The First Singapore Biennale
 date: 2021-09-04
-permalink: /resources/connexionsg/permalink
+permalink: /resources/connexionsg/1stsgbiennale
 layout: post
 ---
+
 
 
 ####  #onthisday in 2006 (4 Sep), the first Singapore Biennale opened to the public -- an event that bloomed from seeds planted decades ago to transform Singapore from an industrial town into a global city for the arts.
