@@ -1,9 +1,10 @@
 ---
 title: NEWater
 date: 2021-08-26
-permalink: /resources/connexionsg/permalink
+permalink: /resources/connexionsg/newater
 layout: post
 ---
+
 
 ## Reduce, reuse, recycle — can the same be done for water? 
 ![Alt text for image on Isomer site](/images/239288290_6003709209670994_4599516784272778528_n.jpg)
