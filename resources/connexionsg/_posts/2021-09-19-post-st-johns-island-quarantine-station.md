@@ -6,6 +6,8 @@ layout: post
 ---
 Quarantine orders, stay home notices, and social distancing — these seem so distinctly COVID-19. But #TIL that Singapore has been through something like this, nearly two centuries ago. 😷
 
+![Alt text for image on Isomer site](/images/stjohn1.jpg)
+
 In the 19th century, as a transit and trading hub for people from all over the world, Singapore was a hotspot for communicable diseases. This included smallpox, leprosy, and cholera. Partly due to the population's resistance to vaccines, a smallpox epidemic broke out in 1838. This was followed in 1873 by a cholera outbreak that claimed 448 lives. 
 
 Thus, a quarantine station opened on St John’s Island in 1874 — just in time to take in some 1,300 coolies from the S.S. Milton, arriving from Swatow, China. Thereafter, ship passengers had to disembark at St John's Island, and stay for between a few days and two weeks, before they were allowed onto Singapore's mainland. These included Chinese coolies, and pilgrims travelling to and from Mecca.
