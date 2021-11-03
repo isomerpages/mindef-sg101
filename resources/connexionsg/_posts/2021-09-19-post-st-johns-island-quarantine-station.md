@@ -7,6 +7,8 @@ layout: post
 Quarantine orders, stay home notices, and social distancing — these seem so distinctly COVID-19. But #TIL that Singapore has been through something like this, nearly two centuries ago. 😷
 
 ![Alt text for image on Isomer site](/images/stjohn1.jpg)
+![Alt text for image on Isomer site](/images/stjohn2.jpg)
+![Alt text for image on Isomer site](/images/stjohn3.jpg)
 
 In the 19th century, as a transit and trading hub for people from all over the world, Singapore was a hotspot for communicable diseases. This included smallpox, leprosy, and cholera. Partly due to the population's resistance to vaccines, a smallpox epidemic broke out in 1838. This was followed in 1873 by a cholera outbreak that claimed 448 lives. 
 
