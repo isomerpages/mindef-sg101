@@ -1,9 +1,10 @@
 ---
 title: Official Opening of Paya Lebar Airport
 date: 2021-08-20
-permalink: /resources/connexionsg/permalink
+permalink: /resources/connexionsg/openingpayalebarairport
 layout: post
 ---
+
 
 #### #onthisday (20 Aug) in 1955, Paya Lebar Airport officially opened after three years of development, replacing Kallang International Airport as our gateway to the world.
 ![Alt text for image on Isomer site](/images/payalebar.jpg)
