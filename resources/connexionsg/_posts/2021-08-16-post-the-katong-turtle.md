@@ -1,9 +1,10 @@
 ---
 title: The Katong Turtle
 date: 2021-08-16
-permalink: /resources/connexionsg/permalink
+permalink: /resources/connexionsg/katongturtle
 layout: post
 ---
+
 
 #### Katong might just be home to some of the prettiest #StreetsOfSingapore and great food (laksa!). And, it turns out, it plays a part in revitalising our biodiversity too.
 
