@@ -1,9 +1,10 @@
 ---
 title: Tripartism
 date: 2021-09-30
-permalink: /resources/connexionsg/permalink
+permalink: /resources/connexionsg/tripartism
 layout: post
 ---
+
 #### During COVID-19, many Singaporeans have come to better appreciate the importance of cleaners, food delivery personnel, and security guards. Yet the jobs of lower-wage workers such as these tend to be less secure, and they may have less savings to tide over difficult periods like this pandemic. Beyond emergency assistance, how can we improve their wages and well-being in the longer run?
 
 #ChallengeAccepted. Through a tripartite consensus, this can be done.
