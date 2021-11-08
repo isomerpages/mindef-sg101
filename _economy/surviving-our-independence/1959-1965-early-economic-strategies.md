@@ -64,7 +64,7 @@ Furthermore, in 1963, the newly formed Federation of Malaysia came under attack 
 	
 <p>Moreover, it cut trade ties with Malaysia, hoping to disrupt its trade and cripple its economy. As a result, Singapore’s trade with Indonesia shrank. Imports fell by 23 per cent while exports declined 31 per cent in 1964 compared with 1963. </p>
 	
-<p>Indonesia also carried out a series of bombing attempts in Singapore, both to directly cause damage to Singapore as well as rattle foreign investors. On 16th November 1964, an attempt by 10 Indonesian commandos to sabotage an oil installation was foiled. The next year, in 1965, the tragic bombing of Macdonald House along Orchard Road claimed the lives of three, while injuring another 33.</p>
+<p>Indonesia also carried out a series of bombing attempts in Singapore, which were aimed at causing damage to Singapore and rattling foreign investors. On 16 November 1964, an attempt by 10 Indonesian commandos to sabotage an oil installation was foiled. In 1965, the tragic bombing of Macdonald House along Orchard Road claimed three lives and injured 33.</p>
 </div>
 
 ![Alt text for image on Isomer site](/images/economy/img0101.jpg)
