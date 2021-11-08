@@ -6,15 +6,15 @@ third_nav_title: Surviving Our Independence
 ## Surviving Our Independence
 ![Alt text for image on Isomer site](/images/economy/Screenshot%202020-10-19.png)
 
-In 1959, Singapore achieved self-governance after years of struggle. The People’s Action Party (PAP) was voted into power in the Legislative Assembly general election, becoming the first full elected government of the self-governing state of Singapore on 5 June 1959. Mr Lee Kuan Yew was appointed the first Prime Minister.
+In 1959, Singapore achieved self-governance after years of struggle. The People’s Action Party (PAP) was voted into power in the Legislative Assembly general election, becoming the first full elected government of the self-governing state of Singapore on 5 June 1959. Lee Kuan Yew was appointed the first Prime Minister.
 
 #### 1959-1965: Early Economic Strategies
 ![Alt text for image on Isomer site](/images/economy/Screenshot%202020-10-28.png)
 (Image: A scene of a typical squalid side street in the Central Area; Housing Development Board Annual Report 1965 via [BookSG](https://eresources.nlb.gov.sg/printheritage/detail/daa435c7-799e-4a0c-9ee4-376a31ab9f4a.aspx))
 
-The new government faced huge problems almost immediately. While Singapore had recovered from the devastation of World War II, the country was hardly in fit shape: the city centre was overcrowded, buildings were deteriorating, and nearly 70 per cent of the population lived in slums. Moreover, the economy was largely trade-based. As there was hardly any local industry to create meaningful jobs for a growing population, unemployment rate was in the double digits.
+The new government faced huge problems almost immediately. While Singapore had recovered from the devastation of World War II, the country was derelict: the city centre was overcrowded, buildings were deteriorating, and nearly 70 per cent of the population lived in slums. Moreover, the economy was largely trade-based. As there was hardly any local industry to create meaningful jobs for a growing population, unemployment rate was in the double digits.
 
-The economy became a key priority for the new government. The founding leaders of Singapore had in place two key economic strategies. One, rapid industrialisation, and two, merger with Malaysia.
+The economy thus became a key priority. The founding leaders of Singapore had in place two key economic strategies: rapid industrialisation and merger with the Federation of Malaya, North Borneo, and Sarawak.
 
 ![Alt text for image on Isomer site](/images/economy/1320585.jpg)
 (Image: Map of Malaysia, 1963-1965; National Museum of Singapore via [Roots.sg](https://www.roots.gov.sg/Collection-Landing/listing/1320585))
@@ -26,7 +26,7 @@ In 1961, a team of United Nations (UN) economists led by Dutch industrialist Alb
 ![Alt text for image on Isomer site](/images/economy/img0106.jpg)
 (Image: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/2804679b-1162-11e3-83d5-0050568939ad))
 
-They recommended that in order to end unemployment, over 200,000 jobs had to be created within 10 years. Until that time, the local economy was dominated by trading firms and entrepot trade. While trade formed the basis of Singapore’s prosperity during the colonial period, it left Singapore’s economy particularly vulnerable to the global prices of tin and rubber. Furthermore, entrepot trade was not able to generate enough jobs to absorb the rising numbers of unemployed workers.
+They recommended that in order to end unemployment, over 200,000 jobs had to be created within 10 years. Until that time, the local economy was dominated by trading firms and entrepôt trade. While trade formed the basis of Singapore’s prosperity during the colonial period, it left our economy particularly vulnerable to the global prices of tin and rubber. Furthermore, entrepôt trade could not generate enough jobs to absorb the rising numbers of unemployed workers.
 
 The lead agency tasked to undertake the critical role of implementing the industrialisation plan was the Economic Development Board (EDB), which was set up in 1961. Taking over from the Singapore Industrial Promotion Board, which was founded in 1957, EDB had a much larger remit and capital base. It was armed with $100 million over the period of 1961 to 1964 to drive industrialisation in Singapore. Its first task was to build the necessary infrastructure to support the plan.
 
