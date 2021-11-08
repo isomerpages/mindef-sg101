@@ -70,7 +70,7 @@ Furthermore, in 1963, the newly formed Federation of Malaysia came under attack 
 ![Alt text for image on Isomer site](/images/economy/img0101.jpg)
 Konfrontasi bombing of MacDonald House; [Ministry of Culture Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/7e9422be-166c-11e5-9f6b-0050568939ad))
 
-In addition, the union with Malaysia was also troubled from the start.
+In addition, Singapore's union with Malaysia was also troubled from the start.
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
 
