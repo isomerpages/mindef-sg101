@@ -38,11 +38,11 @@ One of its first tasks was to develop Jurong into an industrial estate, as part 
 [![Alt text for image on Isomer site](/images/economy/Case%20Study_Jurong.gif)](/economy/digging-deeper-case-studies/jurong1)
 
 
-#### 1963: Merger with Malaysia
+#### 1963: Formation of Malaysia
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/WjkrBKuN6CY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The economic rationale for a merger with Malaysia was clear. A combined market of about 12 million people was big enough to immediately overcome the limitations of Singapore’s small market size by enabling the growth of local firms, and generating jobs and income for Singaporeans.
+The economic rationale for a merger with Malaya, North Borneo and Sarawak to form Malaysia was clear. A combined market of about 12 million people would overcome the limitations of Singapore’s small market size by enabling the growth of local firms, and generating jobs and income for Singaporeans.
 
 However, this was complicated on several fronts.
 
@@ -56,11 +56,11 @@ First, the strong presence of communism throughout the 1960s engendered a high l
  
  This was severely disruptive to the economy, making Singapore unattractive to foreign investors. “The running joke was that a factory would be set up on Monday and all sorts of banners screaming ‘Exploitation of Workers’ would be hung up by Friday,” shared Mr I.F. Tang, who was part of the UN team of experts.
 
-Furthermore, in 1963, the newly formed Federation of Malaya came under Indonesia’s attack. Back then, Indonesia believed that the Federation was created to contain its influence in the region. As such, it embarked on [Konfrontasi](https://eresources.nlb.gov.sg/history/events/126b6b07-f796-4b4c-b658-938001e3213e), a low-intensity confrontation between Indonesia and the Federation.
+Furthermore, in 1963, the newly formed Federation of Malaysia came under attack by Indonesia. Back then, Indonesia believed that Malaysia was formed to contain Indonesian influence in the region. As such, it embarked on [Konfrontasi](https://eresources.nlb.gov.sg/history/events/126b6b07-f796-4b4c-b658-938001e3213e), a low-intensity confrontation between Indonesia and Malaysia. 
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
 
-<p>Led by President Sukarno, Indonesia carried out acts of subversion and sabotage, including bombings, to destabilise the Federation between 1963 and 1966. </p>
+<p>Led by then-President Sukarno, Indonesia carried out acts of subversion and sabotage, such bombings, to destabilise Malaysia between 1963 and 1966. </p>
 	
 <p>Moreover, it cut trade ties with the Federation, hoping to disrupt its trade and cripple its economy. As a result, Singapore’s trade with Indonesia shrank. Imports fell by 23 per cent while exports declined 31 per cent in 1964 compared with 1963. </p>
 	
