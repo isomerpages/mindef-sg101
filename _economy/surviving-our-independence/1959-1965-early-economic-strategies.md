@@ -62,7 +62,7 @@ Furthermore, in 1963, the newly formed Federation of Malaysia came under attack 
 
 <p>Led by then-President Sukarno, Indonesia carried out acts of subversion and sabotage, such bombings, to destabilise Malaysia between 1963 and 1966. </p>
 	
-<p>Moreover, it cut trade ties with Malaysia, hoping to disrupt its trade and cripple its economy. As a result, Singapore’s trade with Indonesia shrank. Imports fell by 23 per cent while exports declined 31 per cent in 1964 compared with 1963. </p>
+<p>Moreover, it cut trade ties with Malaysia, hoping to disrupt its trade and cripple its economy. As a result, Singapore’s trade with Indonesia shrank. Between 1963 and 1964, imports declined by 23% while exports declined 31%. </p>
 	
 <p>Indonesia also carried out a series of bombing attempts in Singapore, which were aimed at causing damage to Singapore and rattling foreign investors. On 16 November 1964, an attempt by 10 Indonesian commandos to sabotage an oil installation was foiled. In 1965, the tragic bombing of Macdonald House along Orchard Road claimed three lives and injured 33.</p>
 </div>
@@ -76,7 +76,7 @@ In addition, Singapore's union with Malaysia was also troubled from the start.
 
 <p> Then-Malaysian Prime Minister Tunku Abdul Rahman and then-Prime Minister Lee fundamentally disagreed on what kind of society they wanted. While PM Lee was insistent on a society where all races were treated equally, Tunku believed in the primacy of the Malays in Malaysia. Tensions boiled over to the streets as racial violence exploded across the Federation. </p>
 
-<p>Moreover, the anticipated economic benefits from the merger were less than expected. The increase of the manufacturing share of real GDP was modest – from 16.9 percent in 1960 to 19.1 percent in 1965. Real GDP grew at an annual compound rate of 5.7 percent during this period. Some 21,000 jobs were created in manufacturing, but the unemployment percentage still hovered in the double digits. This persuaded Dr Goh that the benefits of the common market were not as substantial as he once believed.</p>
+<p>Moreover, the anticipated economic benefits from the merger were less than expected. The increase of the manufacturing share of real GDP was modest – from 16.9% in 1960 to 19.% in 1965. Real GDP grew at an annual compound rate of 5.7 percent during this period. Some 21,000 jobs were created in manufacturing, but the unemployment percentage still hovered in the double digits. This persuaded Dr Goh that the benefits of the common market were not as substantial as he once believed.</p>
 </div>
 
 The political, social and economic difficulties of the merger led to a momentous decision, one that defined Singapore’s story. Cast out of Malaysia on 9th August, 1965, Singapore was on its own – it no longer had a common market of 12 million consumers to support its growth. With no natural resources, a tiny population and rising unemployment, Singapore’s leaders were faced with a dire situation.
