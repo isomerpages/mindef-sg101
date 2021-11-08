@@ -74,9 +74,9 @@ In addition, Singapore's union with Malaysia was also troubled from the start.
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
 
-<p>Both sets of leaders – Malaysia’s Tunku Abdul Rahman and Singapore’s Lee Kuan Yew – fundamentally disagreed on what kind of society they wanted. Mr Lee was insistent on a society where all races were treated equally but the Tunku believed in the primacy of the Malays in Malaysia. Tensions boiled over to the streets as racial violence exploded across the Federation. </p>
+<p> Then-Malaysian Prime Minister Tunku Abdul Rahman and then-Prime Minister Lee fundamentally disagreed on what kind of society they wanted. While PM Lee was insistent on a society where all races were treated equally, Tunku believed in the primacy of the Malays in Malaysia. Tensions boiled over to the streets as racial violence exploded across the Federation. </p>
 
-<p>On the economic front, the anticipated benefits from the merger did not quite pan out the way it was initially envisioned. The increase of the manufacturing share of real GDP was modest – from 16.9 percent in 1960 to 19.1 percent in 1965. Real GDP grew at an annual compound rate of 5.7 percent during this period. Some 21,000 jobs were created in manufacturing, but the unemployment percentage still hovered in the double digits. This persuaded Dr Goh that the benefits of the common market were not as substantial as he once believed.</p>
+<p>Moreover, the anticipated economic benefits from the merger were less than expected. The increase of the manufacturing share of real GDP was modest – from 16.9 percent in 1960 to 19.1 percent in 1965. Real GDP grew at an annual compound rate of 5.7 percent during this period. Some 21,000 jobs were created in manufacturing, but the unemployment percentage still hovered in the double digits. This persuaded Dr Goh that the benefits of the common market were not as substantial as he once believed.</p>
 </div>
 
 The political, social and economic difficulties of the merger led to a momentous decision, one that defined Singapore’s story. Cast out of Malaysia on 9th August, 1965, Singapore was on its own – it no longer had a common market of 12 million consumers to support its growth. With no natural resources, a tiny population and rising unemployment, Singapore’s leaders were faced with a dire situation.
