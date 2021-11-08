@@ -6,7 +6,7 @@ third_nav_title: Surviving Our Independence
 ## Surviving Our Independence
 ![Alt text for image on Isomer site](/images/economy/Screenshot%202020-10-19.png)
 
-In 1959, Singapore achieved self-governance after years of struggle. The People’s Action Party was voted into power in the Legislative Assembly general election, becoming the first full elected government of the self-governing state of Singapore on 5th June 1959. Mr Lee Kuan Yew was appointed as the state’s first prime minister.
+In 1959, Singapore achieved self-governance after years of struggle. The People’s Action Party (PAP) was voted into power in the Legislative Assembly general election, becoming the first full elected government of the self-governing state of Singapore on 5 June 1959. Mr Lee Kuan Yew was appointed the first Prime Minister.
 
 #### 1959-1965: Early Economic Strategies
 ![Alt text for image on Isomer site](/images/economy/Screenshot%202020-10-28.png)
