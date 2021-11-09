@@ -44,20 +44,20 @@ With that, EDB officers fanned out to foreign markets that included the United S
 <p>EDB worked with other government agencies to quicken this process. Within two weeks of the visit, National Semiconductor was in business here. The speed and efficiency of this operation drew the attention of other American manufacturers. Fairchild came soon after, followed by Texas Instruments, Hewlett-Packard and General Electric. </p>
 </div>
 
-To further boost Singapore’s atas an investment location, the government moved to create a conducive investment environment for foreign corporations.
+To further boost Singapore’s attraction to foreign investors, the government also created a conducive investment environment.
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
-<p>In 1967, the Economic Expansion Incentives Act was introduced. It provided new tax incentives for investments. These included up to 90 per cent remission of tax profits to approved enterprises for up to 15 years, among other tax exemptions and relief. </p>
+<p>In 1967, the Economic Expansion Incentives Act was introduced. It provided new tax incentives for investments. These included tax emeptions and reliefs, such as up to 90% remission of tax profits to approved enterprises for up to 15 years.</p>
 </div>
 
 The government also continued to build infrastructure to support Singapore’s industrialisation efforts.
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
-<p>In 1964, the Port of Singapore Authority (PSA) was created to take over the functions of Singapore Harbour Board, which were previously in charge of port operations. It also took over and converted the former British Naval Base Store Basin into Sembawang Wharves in 1971.  </p>
+<p>In 1964, the Port of Singapore Authority (PSA) was created to take over the functions of Singapore Harbour Board, which was previously in charge of port operations. In 1971, PSA also took over and converted the former British Naval Base Store Basin into Sembawang Wharves .</p>
 
-<p>In 1965, as part of the Jurong industrialisation project, Jurong Port, which handled bulk cargo used by industries located in Jurong, was opened.</p>
+<p>In 1965, as part of the Jurong industrialisation project, we opened Jurong Port, which handled bulk cargo used by industries located in Jurong.</p>
 	
-<p>In 1968, the establishment of Neptune Orient Lines gave Singapore another way to support the economy through fair freight routes. </p>
+<p>In 1968, Neptune Orient Lines was established, and this gave Singapore another way to support the economy through fair freight routes. </p>
 </div>
 
 Communication services such as postal, telegraph, telephone, and telex services also grew rapidly between 1966 and 1973.
