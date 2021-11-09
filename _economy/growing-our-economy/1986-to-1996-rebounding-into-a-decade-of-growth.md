@@ -77,16 +77,17 @@ Hence, throughout the 1990s, Singapore's government and our firms made investmen
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/page_91_-_wto_ministerial_conference-mr.jpg)
 (Image: [Public Service Division](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/))
 
-In order for Singapore to continue exporting goods and services, we had to rely on free trade flows and markets. Thus, Singapore has always supported an open, rules-based multilateral system that promotes a stable and predictable international trading environment such as the World Trade Organisation (WTO).
+**Free Trade Agreements (FTAs)**
 
-We also worked to develop a network of Free Trade Agreements (FTAs). Our first, the ASEAN Free Trade Area, was signed in 1992.
+In order for Singapore to continue exporting goods and services, we had to rely on free trade flows and markets. 
 
-<div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
-<p>As at 2020, Singapore has 23 FTAs, ranging from bilateral agreements with economies such as Japan, Costa Rica, China and the United States, to regional pacts such as the Trans-Pacific Strategic Economic Partnership and Singapore-European Free Trade Association FTA. </p>
+Singapore has always supported an open, rules-based multilateral system that promotes a stable and predictable international trading environment such as the World Trade Organisation (WTO).
 
-<p>The primary goal of such FTAs is to “expand Singapore’s economic space”, wrote Ambassador-at-large Tommy Koh in 2019.</p>
+We also worked to develop a network of FTAs, beginning with the ASEAN Free Trade Area, which was signed in 1992. FTAs are [treaties](https://www.mti.gov.sg/Improving-Trade/Free-Trade-Agreements) which make trade and investment between 2 or more economies easier. 
 
-<p>“The strategy was to link our small economy to the economies of other bigger countries. In this way, Singapore will be more deeply connected to the global supply chain and our exporters will have lower tariff or non-tariff barriers.”</p>
+Singapore has numerous [bilateral and multilateral FTAs](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/singapore-ftas), which aim to “expand Singapore’s economic space”, as then-Ambassador-at-large Tommy Koh said in 2019. 
+
+He also said that “the strategy was to link our small economy to the economies of other bigger countries [...] [so] Singapore will be more deeply connected to the global supply chain and our exporters will have lower tariff or non-tariff barriers.”
 
 <p>These FTAs enable Singapore’s exporters, which include foreign manufacturers based here, to enjoy preferential rates in key export markets such as China, Japan and the US. This gives Singapore an edge over other lower-cost locations and is another reason foreign MNCs are keen to invest in Singapore.</p>
 	</div>
@@ -95,8 +96,8 @@ We also worked to develop a network of Free Trade Agreements (FTAs). Our first, 
 
 [![Alt text for image on Isomer site](/images/economy/growing-our-economy/More_FTA.gif)](https://www.mti.gov.sg/-/media/MTI/improving-trade/FTAs/All-you-need-to-know-about-SG-FTAs-and-DEAs.pdf)
 
-Between 1986 and 1996, Singapore grew at an average of 12.8 per cent a year, launching Singapore into a group of fast-growing nations that analysts termed Asian Tigers. Singapore alongside Taiwan, Korea and Hong Kong, were hailed for their remarkable growth over the decade.
+Between 1986 and 1996, Singapore grew at an average of 12.8% a year, launching Singapore into a group of fast-growing nations that analysts termed Asian Tigers. Singapore alongside Taiwan, Korea and Hong Kong, were hailed for their remarkable growth over the decade.
 
-One key success factor that the ability to constantly make Singapore relevant to the global economy. Without a large domestic market or natural resources, there is no real need for large companies to invest in us. Neither would large countries want to trade with a tiny island that had little to offer in return.
+One key success factor that the ability to constantly make Singapore relevant to the global economy. Without a large domestic market or natural resources, there is no real impetus for large companies to invest in us. Neither would large countries want to trade with a tiny island that had little to offer in return.
 
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/Screenshot%202020-10-19%20at.png)
