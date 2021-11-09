@@ -18,24 +18,24 @@ We took on the challenge and emerged stronger than before.
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/img0052.jpg)
 Skyscrapers at Raffles Place, 1980s; [G P Reichelt Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/bcffdc1f-3c8a-11e4-859c-0050568939ad))
 
-One key niche area that had become increasingly important to Singapore was its financial sector.
+By the 1980s, one area that had become increasingly important to Singapore was the financial sector. In the late 1960s, the development of the Asian Dollar Market helped establish Singapore as a leading foreign exchange market after London New York and Tokyo.
 
-While local banks such as OCBC, UOB and OUB have been stalwarts, their main business prior to independence was supporting Chinese merchants and traders. Once industralisation took off, however, these banks, including DBS, became full commercial banks that financed a wider array of financial activities.
+Moreover, while local banks such as OCBC, UOB and OUB have been mainstays in our economy, they primarily supported Chinese merchants and traders before 1965. However, once Singapore began industralisation, these banks became full commercial banks that financed a wider range of activities.
 
-In the late 1960s, the development of the Asian Dollar Market helped establish Singapore as a leading foreign exchange market after London New York and Tokyo.
+So by the 1980s, financial services had become one of the biggest drivers of Singapore's economic growth. In 1983, for instance, the financial sector alone accounted for about 30% of overall GDP growth.
 
-By the 1980s, financial services had become one of the biggest drivers of economic growth. In 1983, for instance, the financial sector alone accounted for about 30 percent of overall GDP growth.
-
-The 1980s and 1990s also saw Singapore intensify efforts to develop fee-based financial activities such as fund management, stock trading activities and insurance.
+Throughout the 1980s and 90s, Singapore also intensified its efforts to develop fee-based financial activities such as fund management, stock trading activities, and insurance.
 
 **Growing the Tourism Sector**
 
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/1186518.jpg)
 (Image: Indoor Stadium and National Stadium in the early 1990s via [Roots.sg](https://www.roots.gov.sg/Collection-Landing/listing/1186518))
 
-Another area that was given much focus in the 1980s was tourism – in 1981, the government identified the tourism industry as one of the pillars of growth in its 10-year economic development plan. In 1984, a tourism task force headed by then Minister of State for Trade and Industry Wong Kwei Cheong was convened to look at revitalising and promoting Singapore as a major tourist destination.
+In 1981, the government identified the tourism industry as one of the pillars of growth in its 10-year economic development plan. In 1984, a tourism task force headed by then Minister of State for Trade and Industry Wong Kwei Cheong was convened to look at revitalising and promoting Singapore as a major tourist destination. 
 
-The task force recommended developing new tourism attractions such as a new indoor stadium that could host concerts and conventions. It also called for the government to preserve historical areas such as Chinatown, places full of rich historical and cultural tradition.
+The task force recommended developing new tourism attractions, such as a new indoor stadium that could host concerts and conventions. It also called for the conservation of historical and cultural areas such as Chinatown.
+
+From then, tourism became one of Singapore's key drivers of economic growth.
 
 **Strengthening the Manufacturing Sector**
 
