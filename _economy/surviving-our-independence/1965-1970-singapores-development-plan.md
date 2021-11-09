@@ -82,21 +82,21 @@ The National Trades Union Congress was founded in 1961, after the communist elem
 ![Alt text for image on Isomer site](/images/economy/full_Finance_Minister_Goh_Keng_Swee.jpg)
 (Image:[ NTUC](http://ms50.ntuc.org.sg/1960s/))
 
-The following year, in 1969, NTUC held the “Modernisation of the Labour Movement” seminar, a forum that looked to build on the new norm in industrial relations. In it, Mr Lee urged the unions to shed its image as purely as “a combat organisation… for class war,” and move towards acting in the interests of the nation. This formed the foundation of what would later be known as tripartism.
+In 1969, NTUC held the “Modernisation of the Labour Movement” seminar, a forum that looked to build on the new norm in industrial relations. At this seminar, then-PM Lee urged the unions to shed its image as purely as “a combat organisation… for class war,” and move towards acting in the interests of the nation. This formed the foundation of what would later be known as tripartism.
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
 <p>Tripartism refers to the collaboration among unions, employers and the government. The goal is for the three parties to work together in a consultative and collaborative fashion to further shared interests.  </p>
 
-<p>The National Wages Council, set up in 1972, is perhaps the best manifestation of tripartism. Its objective is to help bring employers, unions and the government to a consensus on wages, an issue that was traditionally damaging to labour relations. Since then, the NWC has been issuing yearly wage guidelines that take into account the interests of all three parties, ensuring compromise instead of confrontation. </p>
+<p>The National Wages Council, set up in 1972, is one key manifestation of tripartism. It aims to bring employers, unions and the government to a consensus on wages, an issue that was traditionally damaging to labour relations. Since then, the NWC issues yearly wage guidelines that take into account the interests of all three parties, ensuring compromise instead of confrontation. </p>
 </div>
 
 ![Alt text for image on Isomer site](/images/economy/Screenshot%202020-10-28%20at.png)
-(Image: The introduction of tripartism in Singapore resulted in a marked decreaae in the number of work stoppages and man-days lost by 1968; Singapore Year Book 1968 via [NAS](https://www.nas.gov.sg/1stCab/PanelPDF/Section%203%20-%20Economy%20Miracle%2017.pdf))
+(Image: The introduction of tripartism in Singapore resulted in a marked decrease in the number of work stoppages and man-days lost by 1968; Singapore Year Book 1968 via [NAS](https://www.nas.gov.sg/1stCab/PanelPDF/Section%203%20-%20Economy%20Miracle%2017.pdf))
 
-The number of strikes fell drastically. There were 10 strikes in 1972 and just one in 1977. From 1977 to 2012, Singapore experienced no strikes, a period of calm which also coincided with falling unemployment and rising foreign direct investment.
+After the introduction of tripartism, the number of labour strikes decreased from 10 in 1972 to one in 1977. There were none from 1997 to 2012. In this same period, unemployment fell in Singapore and foreign direct investment rose.
 
-Today, tripartism is seen as a key competitive advantage for Singapore. It has been called Singapore’s “secret weapon”, helping to boost the country’s economic competitiveness, promoting harmonious labour-management relations and contributing to Singapore’s overall progress.
+Today, tripartism is seen as a key competitive advantage for Singapore. It has been called Singapore’s “secret weapon” for helping to boost the country’s economic competitiveness, promoting harmonious labour-management relations, and contributing to Singapore’s overall progress.
 
-By 1970, about a decade after the industrialisation plan was first conceived, Singapore had achieved near full employment. Industrial action had dropped significantly. Instead of disruption, a spirit of cooperation took its place.
+By 1970, about a decade after the industrialisation plan was first conceived, Singapore had achieved near full employment. Industrial action had dropped significantly. And a spirit of cooperation superseded the disruptions of the preceding years. 
 
 [![Alt text for image on Isomer site](/images/economy/More_Labour%20Movement.gif)](http://ms50.ntuc.org.sg/1960s/)
