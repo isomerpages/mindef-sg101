@@ -66,7 +66,7 @@ Communication services such as postal, telegraph, telephone, and telex services 
 ![Alt text for image on Isomer site](/images/economy/img0018.jpg)
 (Image: Training ship for seaman, 1964; [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/2be89202-1162-11e3-83d5-0050568939ad))
 
-The efforts by the government to embark on vocational training in the early 1960s meant that by 1965, Singapore had a pool of semi-skilled workers who would support the nation’s growing industrialisation. This effort did not stop there, for it was one of the ways Singapore could continuously make itself relevant to large companies.
+As Singapore began vocational training in the early 1960s, by 1965 we had a pool of semi-skilled workers who could support the nation’s growing industrialisation. We continued putting emphasis on training and developing human capital to stay relevant.
 
 As then-Finance Minister Goh explained: 
 ![Alt text for image on Isomer site](/images/economy/Screenshot%202020-10-22.png)
