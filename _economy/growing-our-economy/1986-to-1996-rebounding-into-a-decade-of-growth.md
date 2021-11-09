@@ -98,6 +98,6 @@ He also said that “the strategy was to link our small economy to the economies
 
 Between 1986 and 1996, Singapore grew at an average of 12.8% a year, launching Singapore into a group of fast-growing nations that analysts termed Asian Tigers. Singapore alongside Taiwan, Korea and Hong Kong, were hailed for their remarkable growth over the decade.
 
-One key success factor that the ability to constantly make Singapore relevant to the global economy. Without a large domestic market or natural resources, there is no real impetus for large companies to invest in us. Neither would large countries want to trade with a tiny island that had little to offer in return.
+One key success factor was the ability to constantly make Singapore relevant to the global economy. Without a large domestic market or natural resources, there is no real impetus for large companies to invest in us. Neither would large countries want to trade with a tiny island that had little to offer in return. However, we continued to reinvent ourselves, refining and reshaping our value proposition.
 
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/Screenshot%202020-10-19%20at.png)
