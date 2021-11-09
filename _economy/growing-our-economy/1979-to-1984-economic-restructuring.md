@@ -23,17 +23,17 @@ At the same time, Singapore continued make bold investments in upgrading our inf
 
 As a small city-state, Singapore is heavily dependent on international aviation links to the rest of the world. That was why early leaders took an interest in the developing Singapore’s aviation links and airports.
 
-In 1966, just a year after independence, Singapore became a member of the International Civil Aviation Organisation (ICAO), a body under the United Nations.
+In 1966, just a year after independence, Singapore became a member of the International Civil Aviation Organisation (ICAO), a body under the United Nations (UN).
 
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/img0095.jpg)
 Changi Airport taxiways in the 1980s; [Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/f37f49a4-1161-11e3-83d5-0050568939ad))
 
-Founding PM Mr Lee Kuan Yew also advocated moving the airport from Paya Lebar to Changi in the 1970s. This went against the advice of foreign experts who had suggested building a second runway at Paya Lebar instead. The decision would mean writing off some $800 million that had been spent on Paya Lebar with another $1.5 billion to be spent on developing the airport in Changi.
+Then-Prime Minister Lee Kuan Yew also advocated moving the airport from Paya Lebar to Changi in the 1970s. This went against the advice of foreign experts who had suggested building a second runway at Paya Lebar instead, as the airport had cost approximately S$800 million to develop. Singapore would then have to spend another S$1.5 developing Changi Airport. 
 
-Despite the challenges, Mr Lee believed that it was the right decision. For one thing, building the airport near the sea would provide the space needed to grow its capacity for future needs. An airport near the sea would also reduce the noise pollution on residents, with the aircraft flying into Singapore over the sea. Singapore went ahead to build Changi Airport.
+Despite the challenges, then-PM Lee believed that it was the right decision, especially in the long run. For one, building the airport near the sea would provide the sufficient space for future expansions, and allowing aircraft to enter Singapore over the sea would reduce the noise pollution for residents. 
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
-<p>By the time Changi Airport was opened in 1981, it had already racked up a list of achievements.  It was ranked then as Asia’s largest airport, alongside Tokyo’s Narita Airport. It also had the world’s largest column-free hangar, spanning 20,000 sq m. It was also completed in just six years, a time frame that many experts called record-breaking.</p>
+<p> When Changi Airport opened in 1981, it was ranked as the largest airport in Asia, alongside Tokyo’s Narita Airport. It also had the world’s largest column-free hangar, spanning 20,000m2. It was also completed in just six years, a time frame that was considered record-breaking.</p>
 
 <p>More importantly, the airport was a symbol of Singapore’s ambitions and showcased our drive and efficiency. The move allowed Changi Airport to continuously grow its capacity and upgrade its facilities. Indeed, by 1990, just nine years later, a second terminal was opened. By 1991, Changi Airport was handling more than 15.1 million passengers a year, nearly double the 8.1 million passengers when it was first opened.  </p>
 </div>
