@@ -33,9 +33,9 @@ Then-Prime Minister Lee Kuan Yew also advocated moving the airport from Paya Leb
 Despite the challenges, then-PM Lee believed that it was the right decision, especially in the long run. For one, building the airport near the sea would provide the sufficient space for future expansions, and allowing aircraft to enter Singapore over the sea would reduce the noise pollution for residents. 
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
-<p> When Changi Airport opened in 1981, it was ranked as the largest airport in Asia, alongside Tokyo’s Narita Airport. It also had the world’s largest column-free hangar, spanning 20,000m2. It was also completed in just six years, a time frame that was considered record-breaking.</p>
+<p> When Changi Airport opened in 1981, it was ranked as the largest airport in Asia, alongside Tokyo’s Narita Airport. It also had the world’s largest column-free hangar, spanning 20,000 m2. It was also completed in just six years, a time frame that was considered record-breaking.</p>
 
-<p>More importantly, the airport was a symbol of Singapore’s ambitions and showcased our drive and efficiency. The move allowed Changi Airport to continuously grow its capacity and upgrade its facilities. Indeed, by 1990, just nine years later, a second terminal was opened. By 1991, Changi Airport was handling more than 15.1 million passengers a year, nearly double the 8.1 million passengers when it was first opened.  </p>
+<p>More importantly, the airport was a symbol of Singapore’s ambitions and underscored our drive and efficiency. The move allowed Changi Airport to continuously grow its capacity and upgrade its facilities. Indeed, by 1990, just nine years later, a second terminal was opened. By 1991, Changi Airport was handling more than 15.1 million passengers a year, nearly double the 8.1 million passengers it was handling when it was first opened in 1981.</p>
 </div>
 	
 By the end of the restructuring period, Singapore had succeeded in attracting high-value, capital intensive industries and companies.
