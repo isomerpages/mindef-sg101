@@ -8,17 +8,20 @@ third_nav_title: Growing Our Economy
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/02a_19980000707_-_0025-lr_qdsqz3o.jpg)
 (Image: [Public Service Division](https://www.psd.gov.sg/heartofpublicservice/our-institutions/making-a-living-ensuring-growth/))
 
-The rapid industrialisation drive in the 1960s was incredibly successful.
+Singapore successfully industrialised from the 1960s, leading to strong economic growth in the following years. 
 
-Investment commitments between 1968 and 1973 amounted to more than $2.3 billion, mostly from the petroleum and electronics sectors. Real GDP grew at an impressive pace of 13 percent annually from 1966 to 1973. Manufacturing’s share of the economy also rose from 16.0 percent to 22.3 percent over the same period.
+* Investment commitments between 1968 and 1973, primarily from the petroleum and electronics sectors, amounted to more than S$2.3 billion. 
+* Real GDP grew at an average rate of 13% annually from 1966 to 1973. This was one of the highest growth rates in the developing world. 
+* The share of the economy occupied by manufacturing rose  share of the economy also rose from 16.0% to 22.3% from 1966 to 1973.
 
-Employment in the manufacturing sector grew by more than 50 per cent between 1966 and 1969, from 51,272 to about 87,128. Unemployment rate dropped from 8.9 percent in 1966 to 4.5 percent in 1973. Thousands of Singaporeans enjoyed good jobs and better pay. The surge in wealth was accompanied by a corresponding rise in living standards.
+* Employment in the manufacturing sector grew by more than 50% between 1966 and 1969, from 51,272 to about 87,128. 
+* Unemployment rate fell from 8.9% in 1966 to 4.5% in 1973. Thousands of Singaporeans enjoyed good jobs, better pay, and better quality of life. 
 
 #### Facing and Tackling a New Problem: Labour Shortage
 
-The push to develop labour-intensive industries was so effective that by the 1970s, labour surplus turned into a labour shortage.
+However, the push to develop labour-intensive industries was so effective that by the 1970s, labour surplus turned into a labour shortage. This diminishing supply in turn caused labour costs to rise in Singapore. 
 
-With a limited supply of manpower, labour costs started to rise. At the same time, countries such as Indonesia and Malaysia were just firing up their industralisation plans. With large pools of labour, they posed direct competition to Singapore. Thus, tackling the labour shortage problem became a consistent theme throughout the 1970s.
+At the same time, countries such as Indonesia and Malaysia were just firing up their industralisation plans. Their large labour force posed direct competition to Singapore, and hence we had to work through the 1970s to address our labour shortage.
 
 In order to keep growing, Singapore had to adjust its economic strategy away from labour-intensive industries and into higher-value goods. This would ensure that Singapore’s workers continue to see a flow of jobs and income.
 
