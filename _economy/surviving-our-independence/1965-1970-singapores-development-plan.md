@@ -41,10 +41,10 @@ With that, EDB officers fanned out to foreign markets that included the United S
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
 <p>In 1968, when National Semiconductor visited Singapore, EDB’s officers found out that there was an urgent need for the company to start production within two months. </p>
 
-<p>EDB worked with other government agencies to ensure a quick start-up process. Within two weeks of the visit, National Semiconductor was in business here. The speed and efficiency of this operation drew the attention of other American manufacturers. Fairchild came soon after, followed by Texas Instruments, Hewlett-Packard and General Electric. </p>
+<p>EDB worked with other government agencies to quicken this process. Within two weeks of the visit, National Semiconductor was in business here. The speed and efficiency of this operation drew the attention of other American manufacturers. Fairchild came soon after, followed by Texas Instruments, Hewlett-Packard and General Electric. </p>
 </div>
 
-To further boost Singapore’s attractiveness as an investment location, the government moved to create a conducive investment environment for foreign corporations.
+To further boost Singapore’s atas an investment location, the government moved to create a conducive investment environment for foreign corporations.
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
 <p>In 1967, the Economic Expansion Incentives Act was introduced. It provided new tax incentives for investments. These included up to 90 per cent remission of tax profits to approved enterprises for up to 15 years, among other tax exemptions and relief. </p>
