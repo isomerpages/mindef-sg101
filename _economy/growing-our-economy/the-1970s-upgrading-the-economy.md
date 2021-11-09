@@ -35,9 +35,9 @@ In 1973, then-Finance Minister Mr Hon Sui Sen announced a two-pronged approach t
 
 <p>The oil industry has been in Singapore since the late 19th century, as we were a regional distribution centre for kerosene. It was only in the 1960s that oil majors started to invest big in Singapore. Between 1961 and 1973, four refineries were built and commissioned. </p>
 
-<p>In his 1974 Budget statement, Minister Hon said that the economic upgrading strategy had started to pay off, noting that total investment commitments in manufacturing jumped from $336 million in 1972 to $819 million in 1973, led by higher technology industries, such as petroleum and petrochemical products. 
+<p>In his 1974 Budget statement, Minister Hon said that the economic upgrading strategy had started to pay off, noting that total investment commitments in manufacturing jumped from S$336 million in 1972 to S$819 million in 1973, led by higher technology industries, such as petroleum and petrochemical products. 
 	
-	By the late 1970s, Singapore had became one of the largest refining centres in the world, with a capacity of more than 1.2 million barrels a day.</p>
+So by the late 1970s, Singapore had became one of the largest refining centres in the world, with a capacity of more than 1.2 million barrels a day.</p>
 
 <p>2. Investing in the people was another important aspect of growing the economy. In his speech to Parliament in 1970, Dr Goh Keng Swee said that there was an urgent need to tackle a looming skills gap, one that was going to hurt the economy by the mid-1970s. The economy needed engineers, highly skilled technicians and business management graduates to continue powering its growth.</p>
 
