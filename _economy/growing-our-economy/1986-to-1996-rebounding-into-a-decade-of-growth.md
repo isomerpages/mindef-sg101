@@ -51,7 +51,7 @@ Throughout the 1980s, the government also continued the the effort to upgrade ou
 
 Moreover, to ensure that we did not become over-reliant on electronics, we also diversified within the manufacturing sector.
 
-For one, the government embarked on an ambitious plan to develop a petrochemicals facility that would entrench Singapore as a global petrochemicals hub. Jurong Island is a man-made island that combined the best of Singapore – forward thinking, a dare-to-do-and-dream attitude, and an ability to deliver the final product.
+For one, the government embarked on an ambitious plan to develop a petrochemicals facility that would entrench Singapore as a global petrochemicals hub. Jurong Island is a man-made island that combined the best of Singapore – forward thinking, a dare-to-do-and-dream attitude, and an ability to deliver on our word.
 
 [![Alt text for image on Isomer site](/images/economy/growing-our-economy/Case%20Study_Jurong%20Island.gif)](/economy/digging-deeper-case-studies/jurong2)
 
@@ -60,26 +60,26 @@ For one, the government embarked on an ambitious plan to develop a petrochemical
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/Screenshot%202020-10-22%20at.png)
 (Image: Suzhou Industrial Park via [Surbana Jurong](https://surbanajurong.com/sector/china-singapore-suzhou-industrial-park/))
 
-Up till the 1990s, the focus had been to bring in foreign investment to build up Singapore’s economy. Outward investment from Singapore to overseas market was not a key concern. It was clear, however, it should not remain that way.
+Up till the 1990s, Singapore's focus had been on bringing in foreign investment, and not on outward investments from Singapore. 
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
-<p>The 1986 Economic Committee Report noted that investment returns within the country started to face diminishing returns. Moving some investment overseas to growing economies would bring in better returns. </p>
+<p>However, the 1986 Economic Committee Report noted that investment returns within the country started to face diminishing returns, and moving investments overseas to growing economies would bring in better returns. </p>
 
-<p>It also suggested that Singapore could make more use of its accumulated experience in building and operating airports and sea ports, as well as urban planning to help other industrialising countries develop. In this way, Singapore could start to move exports beyond goods and into services.</p>
+<p>This report also suggested that Singapore could export services instead of just goods. For instance, Singapore could draw on our experience in urban planning, and building and operating airports and sea ports to help other industrialising countries develop.</p>
 
-<p>Moreover, there was also a need to groom Singapore’s own crop of home-grown companies. These companies would anchor and base their operations in Singapore and expand overseas in regional markets to develop scale and market share.  </p>
+<p>There was also a need to groom local companies that would base their operations in Singapore, while scaling and expanding to overseas markets.</p>
 
 <p>These considerations led the government to embark on a concerted push to develop an external wing of its economy.  </p>
 </div>
 
-This period saw huge investments from Singapore flow into China and neighbouring countries such as Indonesia and Malaysia. In China, we started our first government-to-government project, the Suzhou Industrial Park, and later Tianjin Eco-City. In Indonesia, Singapore companies helped to set up Batamindo Industrial Park and the Bintan Industrial Estate.
+Hence, throughout the 1990s, Singapore's government and our firms made investments across the region from China to Malaysia to Indonesia. In China, we started our first government-to-government project, the Suzhou Industrial Park, and later Tianjin Eco-City. In Indonesia, Singapore companies helped to set up Batamindo Industrial Park and the Bintan Industrial Estate.
 
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/page_91_-_wto_ministerial_conference-mr.jpg)
 (Image: [Public Service Division](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/))
 
-As Singapore expanded its export of goods and services, we became increasingly dependent on free trade. There is a need to ensure that we have access to open markets. As such, we have always supported an open, rules-based multilateral system that promotes a stable and predictable international trading environment such as the World Trade Organisation (WTO).
+In order for Singapore to continue exporting goods and services, we had to rely on free trade flows and markets. Thus, Singapore has always supported an open, rules-based multilateral system that promotes a stable and predictable international trading environment such as the World Trade Organisation (WTO).
 
-Keeping free trade flowing to Singapore was a key reason behind the drive to develop a network of Free Trade Agreements (FTAs), the first of which – the ASEAN Free Trade Area – was inked in 1992.
+We also worked to develop a network of Free Trade Agreements (FTAs). Our first, the ASEAN Free Trade Area, was signed in 1992.
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
 <p>As at 2020, Singapore has 23 FTAs, ranging from bilateral agreements with economies such as Japan, Costa Rica, China and the United States, to regional pacts such as the Trans-Pacific Strategic Economic Partnership and Singapore-European Free Trade Association FTA. </p>
