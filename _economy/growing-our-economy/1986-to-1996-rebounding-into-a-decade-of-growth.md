@@ -42,19 +42,16 @@ From then, tourism became one of Singapore's key drivers of economic growth.
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/img0109.jpg)
 (Staff of Singatronics assembling consumer electronic products, 1987; [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/fb3488b3-1161-11e3-83d5-0050568939ad))
 
-At the same time, The government also continued the multi-year drive to upgrade our industries and move up the value chain.
-
-In manufacturing, we moved to further deepen our expertise in high-value manufacturing including production, testing and assembly.
+Throughout the 1980s, the government also continued the the effort to upgrade our industries and help Singapore move up the value chain. 
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
-<p>For instance, we built on Singapore’s expertise in electronics and precision engineering. This helped Singapore benefit greatly from the growth of personal computing. </p>
-
-<p>From 1986 to 1996, Singapore produced about 45 to 50 percent of the world’s hard disks, making Singapore a critical global node for hard-disc drives. </p>
+<p>For instance, we deepened our expertise in high-value manufacturing including production, testing and assembly.</p>
+<p>We also built on Singapore’s expertise in electronics and precision engineering. This helped Singapore benefit greatly from the growth of personal computing. In fact, from 1986 to 1996, Singapore produced about 45-50% of the world’s hard disks. </p>
 </div>
 
 Moreover, to ensure that we did not become over-reliant on electronics, we also diversified within the manufacturing sector.
 
-The government embarked on an ambitious plan to develop a petrochemicals facility that would entrench Singapore as a global petrochemicals hub. Jurong Island is a man-made island that combined the best of Singapore – forward thinking, a dare-to-do-and-dream attitude as well as the ability to deliver the final product.
+For one, the government embarked on an ambitious plan to develop a petrochemicals facility that would entrench Singapore as a global petrochemicals hub. Jurong Island is a man-made island that combined the best of Singapore – forward thinking, a dare-to-do-and-dream attitude, and an ability to deliver the final product.
 
 [![Alt text for image on Isomer site](/images/economy/growing-our-economy/Case%20Study_Jurong%20Island.gif)](/economy/digging-deeper-case-studies/jurong2)
 
