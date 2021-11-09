@@ -5,15 +5,15 @@ third_nav_title: Growing Our Economy
 ---
 #### 1979 to 1984: Economic Restructuring
 
-By the late 1970s, there were more capital-intensive industries that were set up in Singapore. Using incentives to attract foreign investors and companies was working but the pace was not quick enough.
+By the late 1970s, more capital-intensive industries had been set up in Singapore. While Signapore was successful in using incentives to attract foreign investors and companies, the pace of growth was not quick enough.
 
 **1979: Three-Year Corrective Wage Policy**
 
-In order to accelerate the economic restructuring programme, the National Wages Council (NWC) adopted a three-year corrective wage policy in 1979. This consisted of strong wage increases as well as hikes in the CPF contribution rates to reflect the full employment state of Singapore’s economy.
+In order to accelerate the economic restructuring programme, the National Wages Council (NWC) adopted a three-year corrective wage policy in 1979. This comprised strong wage increases and hikes in the CPF contribution rates to account for the full-employment state of Singapore’s economy.
 
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/Screenshot%202020-10-19.png)
 
-The efforts paid off, as companies quickly began adopting higher-value work. At the same time, companies producing lower-value products moved to cheaper offshore locations.
+With that, companies quickly began adopting higher-value work. At the same time, companies producing lower-value products moved to cheaper offshore locations.
 
 Net investments between 1980 and 1984 averaged $1.7 billion a year, led by an expansion in high value-added industries such as computers, electronics, machinery and pharmaceutical products.
 
