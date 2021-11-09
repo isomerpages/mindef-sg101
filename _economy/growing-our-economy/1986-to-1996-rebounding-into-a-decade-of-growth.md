@@ -3,10 +3,9 @@ title: "1986 to 1996: Rebounding into a Decade of Growth"
 permalink: /economy/growing-our-economy/1986
 third_nav_title: Growing Our Economy
 ---
-
 #### 1986 to 1996: Rebounding into a Decade of Growth
 
-The 1985 recession was a painful but important reminder that the country could not afford to stand still. The growth we saw prior to the recession was flagging, as resource constraints and the diminishing returns of investment had started to kick in. Change was necessary.
+The 1985 recession was a painful but important reminder that Singapore could not afford to stand still. The growth we saw prior to the recession was flagging, as resource constraints and the diminishing returns of investment had started to kick in. Change was necessary.
 
 The challenge for our economy were clear: could we restructure the economy in order to capture new opportunities while staying ahead of the competition which was emerging from other fast-industrialising economies such as Malaysia, South Korea and Taiwan?
 
