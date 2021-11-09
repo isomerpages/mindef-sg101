@@ -68,7 +68,7 @@ Communication services such as postal, telegraph, telephone, and telex services 
 
 The efforts by the government to embark on vocational training in the early 1960s meant that by 1965, Singapore had a pool of semi-skilled workers who would support the nation’s growing industrialisation. This effort did not stop there, for it was one of the ways Singapore could continuously make itself relevant to large companies.
 
-As Dr Goh explained: 
+As then-Finance Minister Goh explained: 
 ![Alt text for image on Isomer site](/images/economy/Screenshot%202020-10-22.png)
 
 #### Quelling Labour Unrest and Communism
