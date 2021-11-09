@@ -9,7 +9,7 @@ The 1985 recession was a painful but important reminder that Singapore could not
 
 Change was necessary. But could Singapore restructure the economy in order to capture new opportunities, and stay ahead of the competition from other fast-industrialising economies, including Malaysia, South Korea and Taiwan?
 
-We took on new directions and created different engines of growth. For one, Singapore diversified our economy by developing multiple areas of growth. We also expanded our presence overseas. These efforts fortified resilience in the economy and created buffers to mitigate future downturns.
+We took on new directions and created different engines of growth. For one, Singapore diversified our economy by developing multiple areas of growth. We also expanded our presence overseas. These efforts fortified our economy's resilience and created buffers to withstand future downturns.
 
 We took on the challenge and emerged stronger than before.
 
