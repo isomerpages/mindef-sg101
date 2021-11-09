@@ -13,15 +13,15 @@ In order to accelerate the economic restructuring programme, the National Wages 
 
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/Screenshot%202020-10-19.png)
 
-With that, companies quickly began adopting higher-value work. At the same time, companies producing lower-value products moved to cheaper offshore locations.
+With that, companies quickly began adopting higher-value work. At the same time, companies that were producing lower-value products moved out of Singapore to cheaper off-shore locations.
 
-Net investments between 1980 and 1984 averaged $1.7 billion a year, led by an expansion in high value-added industries such as computers, electronics, machinery and pharmaceutical products.
+Net investments between 1980 and 1984 averaged $1.7 billion a year. This was led by an expansion in high value-added industries such as computers, electronics, machinery, and pharmaceutical products.
 
 **Investing in Infrastructure**
 
 At the same time, Singapore continued make bold investments in upgrading our infrastructure to facilitate and improve international connectivity.
 
-As a small city-state, we are heavily dependent on international aviation links to the rest of the world. That was why Singapore’s leaders took an early interest in the development of Singapore’s aviation links and airports.
+As a small city-state, Singapore is heavily dependent on international aviation links to the rest of the world. That was why early leaders took an interest in the developing Singapore’s aviation links and airports.
 
 In 1966, just a year after independence, Singapore became a member of the International Civil Aviation Organisation (ICAO), a body under the United Nations.
 
