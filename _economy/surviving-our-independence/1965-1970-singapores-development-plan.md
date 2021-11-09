@@ -60,7 +60,7 @@ The government also continued to build infrastructure to support Singapore’s i
 <p>In 1968, Neptune Orient Lines was established, and this gave Singapore another way to support the economy through fair freight routes. </p>
 </div>
 
-Communication services such as postal, telegraph, telephone, and telex services also grew rapidly between 1966 and 1973.
+Communication services such as postal, telegraph, telephone, and telex services also developed quickly between 1966 and 1973.
 
 #### Focusing on Education and Training
 ![Alt text for image on Isomer site](/images/economy/img0018.jpg)
