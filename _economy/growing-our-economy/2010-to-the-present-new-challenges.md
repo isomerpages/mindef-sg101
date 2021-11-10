@@ -35,7 +35,7 @@ The ageing workforce also puts strains on other parts of the Singapore economy, 
 
 In 2016, Britain's vote to leave the European Union shocked many, and disquieted the notion of European Unity and the common market. While there were socio-economic and political reasons that prompted the majority of Britons to vote Leave, it can be seen as a symptom of a larger rise in populist politics in the world. 
 
-A byproduct of populist sentiments is the rise of [protectionist ](https://www.britannica.com/topic/protectionism)policies, and the rejection of globalisation, free trade, and open borders. 
+A by-product of populist sentiments is the rise of [protectionist ](https://www.britannica.com/topic/protectionism)policies, and the rejection of globalisation, free trade, and open borders. 
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
 <p>US-China trade tensions: In 2018 and 2019, the world’s two largest economies started levying tariffs on each other, which dampened global trade and the world economy. </p>
@@ -43,13 +43,13 @@ A byproduct of populist sentiments is the rise of [protectionist ](https://www.b
 <p>The rising tensions have also spilled over into the technology sector, such as when the US government banned US companies from using technology from Huawei. While the US and China signed a pact to ease trade tensions in early 2020, this hasty deterioration of trade relations underscore how quickly Singapore's external environment can shift.</p>
 </div>
 
-The rise of protectionism reduces trade, and raises the prices of imports and exports. It also slows growth rates for countries.
+The rise of protectionism reduces trade, and raises the prices of imports and exports. It also slows growth rates for countries. 
 
-The longer-term impact of rising populism is on the fate of multilateral organisations such as the UN, WTO and the International Monetary Fund – will they stay relevant?
+In the long run, the rise of populist sentiments also brings skepticism multi-lateral organisations and fora, such as the United Nations (UN), World Trade Organization (WTO), and the International Monetary Fund (IMF). 
 
-For instance, the US has already pulled out of the Paris Agreement unilaterally, threatening to overturn progress made so far in the landmark climate change pact. Likewise, the WTO, which is the primary forum for countries to resolve trade conflicts, has been under siege.
+For instance, the US pulled out of the Paris Agreement unilaterally in June 2017, threatening to overturn progress made so far in the landmark climate change pact. However, the US under President Joe Biden has since rejoined the agreement (Feb 2021). Likewise, the WTO, which is the primary forum for countries to resolve trade conflicts has been criticsed for being complacent and ineffective. 
 
-This puts Singapore in a difficult spot, since small countries typically rely on such organisations and international law to resolve conflicts with larger powers.
+This puts Singapore in a difficult spot, as small countries require such organisations and international law to have a voice and resolve conflicts with larger powers.
 
 As PM Lee said, multilateral organisations such as the UN and WTO are critical to Singapore’s survival: 
 
