@@ -13,7 +13,9 @@ As more Singaporeans become more educated and informed, they also want to be mor
 
 One example was the 2001 Concept Plan. While conceptualising past Master and Concept Plans previously involved only the likes of professionals, academics and the Government, citizens were now roped into the planning process. An extensive public consultation exercise was carried out with the formation of two focus groups that comprised everyday Singaporeans such as working professionals, grassroots members and students. These groups explored two things: balancing Singapore’s scarce land resources and preserving our identity through heritage sites.
 
-![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-15.png)Image: URA Singapore City Gallery
+
+![Alt text for image on Isomer site](/images/2001conceptplan.jpeg)
+Image: [URA](https://www.ura.gov.sg/Corporate/Planning/Long-Term-Plans/Past-Long-Term-Plans)
 
 The preservation of the Chek Jawa coastal wetlands was a result of this consultative approach. When its eastern tip was slated for reclamation, a public forum hosted by the URA in 2001 debated on this issue, arguing that the move would destroy much of the rich biodiversity found there. Reclaiming Chek Jawa would also adversely impact existing natural eco-systems in the east of Pulau Ubin – an island known for its rich natural heritage.
 
