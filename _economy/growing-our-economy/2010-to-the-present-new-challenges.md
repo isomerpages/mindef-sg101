@@ -87,7 +87,7 @@ Singapore remains one of the top destinations for investment largely because it 
 
 <p>In addition, China’s Belt and Road Initiative will see billions of dollars being poured into the region to build infrastructure, from roads to ports. While stronger connectivity helps keep lines of communication open, some of these ports and airports could rise to become our competitors along the way.</p>
 	
-Trading volume on the Singapore Exchange has also fallen over the years, compared to stock markets in emerging markets like Thailand, Vietnam and the Philippines These markets will continue to attract more investor attention.
+Trading volume on the Singapore Exchange has also fallen over the years, compared to stock markets in emerging markets like Thailand, Vietnam and the Philippines.
 </div>
 
 
@@ -97,8 +97,8 @@ Trading volume on the Singapore Exchange has also fallen over the years, compare
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/airportdeparturehall.jpg)
 (Image: [Gov.sg](https://www.gov.sg/article/further-support-for-aerospace-aviation-tourism-sectors))
 
-The COVID-19 (Coronavirus Disease 2019) pandemic had forced governments to close their borders, halt economic activity, and make people stay at home. With the global economy coming to a partial standstill, Singapore was deeply affected.
+The COVID-19 (Coronavirus Disease 2019) pandemic forced governments to close their borders, halt economic activity, and put cities under lockdown. With the global economy coming to a partial standstill, Singapore was deeply affected, especially as we rely heavily on tourism.
 
-Flash estimates by the Ministry of Trade and Industry showed that the Singapore economy had contracted 2.2 per cent, setting the country on course for its worst recession since independence. 
+Estimates by the Ministry of Trade and Industry (MTI) in March 2020 showed that the Singapore economy had contracted 2.2%, setting the country on course for its worst recession since independence. 
 
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/Screenshot%202020-10-2.png)
