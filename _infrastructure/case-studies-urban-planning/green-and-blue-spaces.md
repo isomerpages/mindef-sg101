@@ -19,7 +19,7 @@ Today, green spaces continued to reduce air pollution and urban heat, and provid
 
 Apart from green spaces, we have also made concerted efforts to turn our waterways blue and clear. As the late-MM Lee Kuan Yew mentioned in his book, ‘From Third World to First: The Singapore Story, 1965-2000’, one of the key reasons for cleaning up Singapore was to allow us to collect as much of our rainfall (95 inches per year) as possible. Thus, in the 1960s and 1970s, the Government made sure that all sewage from homes and factories emptied into the sewers. Only clean rainwater run-off was allowed into open drains that led into the rivers, which could in turn be used as drinking water. This eventually enabled Singapore to provide 63 million gallons of water per day by 1980 – about half of our daily water needs.
 
-![Alt text for image on Isomer site](/images/infrastructure/case-studies-urban-planning/upcs-12.png)*Images: Singapore River before clean-up / first mass swim in the river / PSD *
+![Alt text for image on Isomer site](/images/infrastructure/case-studies-urban-planning/upcs-12.png)Images: Singapore River before clean-up / first mass swim in the river / PSD
 
 Between 1977 and 1987, the Government embarked on an ambitious clean-up of the then-heavily polluted Singapore River and Kallang Basin. On one hand, it was a massive engineering job that required laying underground sewers across the whole island. On the other, it also required relocating squatters which were a significant source of sewage discharge into the rivers, phasing out pig farms as pig waste were heavily pollutants, and moved people from around 3,000 backyard and cottage industries into industrial estates, where there was proper infrastructure to manage waste. Even with compensation, many were resistant to change.
 
@@ -58,11 +58,8 @@ When it came to the 33-hectare Dover Forest, which had been slated to be cleared
 
 What is key is that the answers to our urban development questions and the outcomes we arrive at are never straightforward. Minister for National Development Desmond Lee said that Singapore will need to continue balancing the needs of development and conservation as part of the long-term planning process. Two ways of doing so are to minimise and mitigate environmental impacts, as well as incorporate nature into urban developments where possible. For example, housing developments in Tengah complement the natural environment by retaining as much of the existing topography as possible. This improves the balance between maintaining natural areas and meeting development needs.
 
-![Alt text for image on Isomer site](/images/infrastructure/case-studies-urban-planning/upcs-18.png)mage: Desmond Lee Facebook Page
+![Alt text for image on Isomer site](/images/infrastructure/case-studies-urban-planning/upcs-18.png)Image: Desmond Lee / Facebook
 
 Singapore has also retained ecologically important green spaces that were initially set aside for other purposes. For instance, Mandai Mangrove and Mudflat was initially designated for industrial use. However, it was eventually retained after biodiversity surveys and ecological modelling were conducted, and will open as a nature park in 2022.
 
-![Alt text for image on Isomer site](/images/infrastructure/case-studies-urban-planning/upcs-19.png)mage: Mandai Mangrove and Mudflat / NParks
-
-
-
+![Alt text for image on Isomer site](/images/infrastructure/case-studies-urban-planning/upcs-19.png)Image: Mandai Mangrove and Mudflat / NParks
