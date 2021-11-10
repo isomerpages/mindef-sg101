@@ -86,11 +86,11 @@ Singapore remains one of the top destinations for investment largely because it 
 <p>Bangkok and Kuala Lumpur are aiming to be the regional hubs for air travel. The governments of both countries have spent massively to upgrade existing airport infrastructure. There is hence greater impetus for Singapore to continue being forward-looking and stay ahead of the competition.  </p>
 
 <p>In addition, China’s Belt and Road Initiative will see billions of dollars being poured into the region to build infrastructure, from roads to ports. While stronger connectivity helps keep lines of communication open, some of these ports and airports could rise to become our competitors along the way.</p>
+	
+Trading volume on the Singapore Exchange has also fallen over the years, compared to stock markets in emerging markets like Thailand, Vietnam and the Philippines These markets will continue to attract more investor attention.
 </div>
 
-Likewise on the financial front, Singapore may have a significant lead over neighbouring countries as a financial hub but competition is quickly hotting up.
 
-The Singapore Exchange has seen trading volumes – an indicator of how strong the stock exchange is – fall over the years, compared to stock markets in Thailand, Vietnam and the Philippines. As these emerging economies mature, they will continue to attract more investor attention.
 
 **COVID-19**
 
