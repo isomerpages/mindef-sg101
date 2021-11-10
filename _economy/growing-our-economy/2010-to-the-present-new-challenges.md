@@ -3,39 +3,33 @@ title: "2010 to the Present: New Challenges"
 permalink: /economy/growing-our-economy/2010
 third_nav_title: Growing Our Economy
 ---
-
 #### 2010 to the Present: New Challenges
 
-The challenges Singapore has and continues to face since 2010 are manifold: some are structural in nature while others require shorter-term tactics.
+Singapore continues to face structural challenges as well as short-term obstacles. 
 
-Here are some of the present challenges and how we will be going about tackling them in the years ahead.
 
 **A Mature Phase of Growth**
 
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/Screenshot%202020-10-19%20at%201.png)
 
-By 2011, it was clear that Singapore had entered the next phase of its economic development: the mature stage. It would be difficult for us to grow at previous rates and growing at between 3 percent and 5 percent a year would a good result.
-
-One reason for this is simply our finite resources: as a small country, we have limited land and people. While we were able to circumvent our physical limits through innovations such as the Jurong Rock Caverns, the reality is that we cannot expect to keep growing at the same pace.
+By 2011, it was clear that as Singapore's economy had matured, growth would slow to 3-5 % growth per year. Even though our innovations (e.g. Jurong Rock Cavens) have stretched our limits, the fact is that resource and land constraints remain.
 
 **Ageing Population**
 
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/silver-age-photo-2.jpg)
 (Image: [Population.sg](https://www.population.sg/))
 
-Apart from having to deal with the geographical limitations and small population, our ageing population is one of the most daunting challenges that Singapore faces.
-
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
-<p>The life expectancy in Singapore has risen to 83.2 years, in 2018 from 76.1 years in 1990. By 2030, one in four Singaporeans will be aged 65 and above. Likewise, between 2011 and 2030, the median age of the citizen population will rise from 39 years to 47 years.</p>
+<p>The life expectancy in Singapore has risen to from 76.1 in 1990 to 83.2 in 2018. By 2030, one in four Singaporeans will likely be older than 65. The median age is projected to rise from 39 in 2011 to 47 in 2030. </p>
 
-<p>Efforts to boost the natural rate of population growth has had little success - total fertility rate stood at just 1.14 per Singaporean woman in 2018, much lower than the replacement rate of 2.1.</p>
+<p>Moreover, efforts to boost the natural rate of population growth have had little success. Singapore's Total Fertility Rate (TFR) was 1.14 in 2018 -- below the replacement rate of 2.1.</p>
 </div>
 
 The ageing population will have a significant impact on Singapore’s economy in the long term.
 
-As older workers leave the workforce without a sufficient pool of younger workers to replace them, the economy could also start to lose its dynamism and vibrancy. Talent is a critical component for companies in the knowledge-based economy but with a shrinking workforce, companies could struggle to find the talent they need here. This would make Singapore far less attractive than its neighbours, which have younger population bases.
+Without a sufficient pool of younger workers to replace older workers, our economy could start to lose its dynamism and vibrancy. Talent is a critical component for companies in the knowledge-based economy, but companies could struggle to find the talent they need here. This would make Singapore far less attractive than its neighbours, which have younger population bases.
 
-The ageing workforce also puts strains on other parts of the Singapore economy, especially its fiscal position. Income tax collections could start to decline with a smaller workforce, which would then constrain the government’s ability to spend. At the same time, there will be a need to raise social spending. In fact, social spending has already doubled from $15 billion in 2009 to $30 billion in 2018, with further rises expected as the population continues to age.
+The ageing workforce also puts strains on other parts of the Singapore economy, especially our fiscal position. Income tax collections could start to decline with a smaller workforce, which would constrain the government’s ability to spend. At the same time, there will be a need to continue raising social spending, which has risen from S$15 billion in 2009 to S$30 billion in 2018.
 
 <b>Rise in Populism and Anti-Trade/Globalisation Forces </b>
 
@@ -44,9 +38,9 @@ When Britain first voted to leave the European Union in 2016, many analysts thou
 The rise of populism goes beyond simply embracing nationalism; nativist tendencies result in the wholesale rejection of globalisation and all that open borders bring.
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
-<p>One of the biggest fallouts from this trend has been the ongoing US-China trade tensions. In 2018 and 2019, the world’s two largest economies started to levy tariffs worth hundreds of billions of dollars on each other. That in turn has severely affected the global trade and economy. </p>
+<p>US-China trade tensions: In 2018 and 2019, the world’s two largest economies started levying tariffs on each other, which has affected the global trade and economy. </p>
 
-<p>The rising tensions have also spilled over into the technological arena, with the US banning American companies from using technology from Chinese company Huawei. The US and China signed a pact to ease trade tensions in early 2020 but the episode serves as an important reminder of how quickly a shift in the external environment can hit Singapore hard.</p>
+<p>The rising tensions have also spilled over into the technology sector, with the US banning American companies from using technology from Chinese company Huawei. While the US and China signed a pact to ease trade tensions in early 2020, the hasty deterioration of trade relations underscore how quickly Singapore's external environment can shift.</p>
 </div>
 
 The rise of protectionism results in the reduction of trade, which affects Singapore’s livelihood directly. Should trade barriers go up, Singapore’s exports will start to get more expensive and less competitive. A secondary impact is through slower growth rates for both countries. A reduction in trade is likely to lead to slower growth. This, in turn, will likely lead to falling demand for Singapore’s exports.
