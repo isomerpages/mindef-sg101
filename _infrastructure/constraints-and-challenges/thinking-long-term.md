@@ -25,7 +25,8 @@ Part of our efforts to navigate the thorny water issue includes diversifying our
 
 Singapore’s approach to building water resilience for the long haul started in 1971 with the Water Planning Unit’s formation, which searched for conventional and unconventional water sources. The unit formulated the first Water Master Plan in 1972, which proposed a diversified water supply that would meet future water and development needs for the next 50 years – the Four National Taps.
 
-![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/image020.png)
+
+![Alt text for image on Isomer site](/images/4taps_sg.png)
 
 ![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/Screenshot%202021-07-014646.png)
 
