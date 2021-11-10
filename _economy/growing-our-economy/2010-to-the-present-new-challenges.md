@@ -31,19 +31,19 @@ Without a sufficient pool of younger workers to replace older workers, our econo
 
 The ageing workforce also puts strains on other parts of the Singapore economy, especially our fiscal position. Income tax collections could start to decline with a smaller workforce, which would constrain the government’s ability to spend. At the same time, there will be a need to continue raising social spending, which has risen from S$15 billion in 2009 to S$30 billion in 2018.
 
-<b>Rise in Populism and Anti-Trade/Globalisation Forces </b>
+<b>Rise in Populist Nationalism and Anti-Trade/Globalisation Forces </b>
 
-When Britain first voted to leave the European Union in 2016, many analysts thought it was a one-off event that concerned only the British. What many did not expect was that is was the start of a surge in populism around the world.
+In 2016, Britain's vote to leave the European Union shocked many, and disquieted the notion of European Unity and the common market. While there were socio-economic and political reasons that prompted the majority of Britons to vote Leave, it can be seen as a symptom of a larger rise in populist politics in the world. 
 
-The rise of populism goes beyond simply embracing nationalism; nativist tendencies result in the wholesale rejection of globalisation and all that open borders bring.
+A byproduct of populist sentiments is the rise of [protectionist ](https://www.britannica.com/topic/protectionism)policies, and the rejection of globalisation, free trade, and open borders. 
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
-<p>US-China trade tensions: In 2018 and 2019, the world’s two largest economies started levying tariffs on each other, which has affected the global trade and economy. </p>
+<p>US-China trade tensions: In 2018 and 2019, the world’s two largest economies started levying tariffs on each other, which dampened global trade and the world economy. </p>
 
-<p>The rising tensions have also spilled over into the technology sector, with the US banning American companies from using technology from Chinese company Huawei. While the US and China signed a pact to ease trade tensions in early 2020, the hasty deterioration of trade relations underscore how quickly Singapore's external environment can shift.</p>
+<p>The rising tensions have also spilled over into the technology sector, such as when the US government banned US companies from using technology from Huawei. While the US and China signed a pact to ease trade tensions in early 2020, this hasty deterioration of trade relations underscore how quickly Singapore's external environment can shift.</p>
 </div>
 
-The rise of protectionism results in the reduction of trade, which affects Singapore’s livelihood directly. Should trade barriers go up, Singapore’s exports will start to get more expensive and less competitive. A secondary impact is through slower growth rates for both countries. A reduction in trade is likely to lead to slower growth. This, in turn, will likely lead to falling demand for Singapore’s exports.
+The rise of protectionism reduces trade, and raises the prices of imports and exports. It also slows growth rates for countries.
 
 The longer-term impact of rising populism is on the fate of multilateral organisations such as the UN, WTO and the International Monetary Fund – will they stay relevant?
 
