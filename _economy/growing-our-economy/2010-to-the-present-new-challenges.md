@@ -60,18 +60,17 @@ As PM Lee said, multilateral organisations such as the UN and WTO are critical t
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/aisingapore.jpg)
 (Image: [National Research Foundation](https://www.nrf.gov.sg/programmes/artificial-intelligence-r-d-programme), Prime Minister’s Office Singapore)
 
-Digital technology has reshaped the way we work, live and play. Whether it is Facebook and how it is changed our social circle, or how Grab has redefined the taxi industry, technological disruption is on the rise.
+Technology has reshaped the way we work, live and play -- from ride- and house-sharing apps to delivery apps, to social media which has reshaped democracies, it is clear that technological disruption is only gaining momentum.
 
-The advent of technologies such as artificial intelligence, 3D printing and robotics is revolutionising manufacturing, while big data has given companies new ways to understand their consumers. This in turn is quickly changing the rules of the game for companies. If they are armed with the right idea, capital and networks, small companies can quickly scale up to displace large and slower incumbents.
+The advent of technologies such as artificial intelligence, 3D printing and robotics has revolutionised manufacturing, while the ability to harness and analyse large amounts of data has given companies new ways to understand their consumers. It has enabled start-ups to scale quickly and disrupt markets.
 
 This offers a range of new challenges and opportunities for Singapore for Singapore.
 
-On the one hand, digital technologies have the potential to make quantum leaps on productivity, generating billions in additional economic value. However, digital disruption, if not managed well, could lead to social issues.
+On the one hand, technology enables users to increase productivity, scale innovation, and develop sustainable solutions that could generate greater economic value. However, digital disruption could also create social issues.
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
-<p>For instance, the rise of robots has led some to believe that there could be huge job losses. Large companies which employ thousands of people could find themselves disrupted quickly if they do not move fast enough.  </p>
+<p>For instance, with the rise of technological capabilities and AI, which are capable of during human efforts, capable many workers have been retrenched as their skills have become obsolete. The rise of ride-sharing and delivery apps have also created a gig economy, and a burgeoning population of drivers and delivery riders. However, the gig economy is problematic as workers are not protected, at present, with the same labour rights and laws as traditional workers. </p>
 
-<p>Workers could also find themselves out of a job if they hold on to obsolete skills. New types of workers, including those from the gig economy have risen. </p>
 </div>
 
 The challenge for governments around the world, including Singapore, is managing these challenges while positioning the economy to benefit from these forms of digital disruption.
@@ -81,12 +80,12 @@ The challenge for governments around the world, including Singapore, is managing
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/changiairportterminal.jpg)
 (Image: [Gov.sg](https://www.gov.sg/article/updates-to-border-measures-for-low-risk-countries-from-1-sep))
 
-Singapore remains one of the top destinations for investment largely because it has kept its status as a key transport, financial, maritime and technology hub. However, major cities around the region are challenging Singapore in various fields.
+Singapore remains one of the top destinations for investment largely because it has kept its status as a key transport, financial, maritime and technology hub. However, major cities around the region are challenging Singapore in various ways.
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
-<p>Bangkok and Kuala Lumpur are aiming to be the regional hubs for air travel. The governments of both countries have spent massively to upgrade existing airport infrastructure. This is partly why we have had to be forward-looking in order to stay ahead of the competition.  </p>
+<p>Bangkok and Kuala Lumpur are aiming to be the regional hubs for air travel. The governments of both countries have spent massively to upgrade existing airport infrastructure. There is hence greater impetus for Singapore to continue being forward-looking and stay ahead of the competition.  </p>
 
-<p>China’s Belt and Road Initiative will see billions of dollars being poured into the region to build infrastructure, from roads to ports. While stronger connectivity helps keep lines of communication open, some of these ports and airports could rise to become our competitors along the way.</p>
+<p>In addition, China’s Belt and Road Initiative will see billions of dollars being poured into the region to build infrastructure, from roads to ports. While stronger connectivity helps keep lines of communication open, some of these ports and airports could rise to become our competitors along the way.</p>
 </div>
 
 Likewise on the financial front, Singapore may have a significant lead over neighbouring countries as a financial hub but competition is quickly hotting up.
