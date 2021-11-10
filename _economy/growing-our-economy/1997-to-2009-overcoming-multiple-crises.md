@@ -5,7 +5,7 @@ third_nav_title: Growing Our Economy
 ---
 #### 1997 to 2009: Overcoming Multiple Crises
 
-In 1997, the [Asian Financial Crisis](https://eresources.nlb.gov.sg/history/events/87709dd7-72ae-47e2-876c-60544bb25e00) swept the region, toppling governments and bankrupting companies, governments and individuals. Singapore was also affected, sinking into a deep recession in 1998. Thousands of Singaporeans lost their jobs, as companies folded under the poor economic conditions.
+In 1997, the [Asian Financial Crisis](https://eresources.nlb.gov.sg/history/events/87709dd7-72ae-47e2-876c-60544bb25e00) swept the region, toppling governments and bankrupting companies, governments, and individuals. Singapore was also affected, and sunk into a deep recession in 1998. As companies folded under the poor economic conditions, thousands of Singaporeans lost their jobs. 
 
 It was the first of many crises that marked this 12-year period, one of the most difficult in Singapore’s short history as an independent nation. Soon after the Asian Financial Crisis, Singapore was buffeted by[ SARS](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1529_2009-06-03.html) in 2003 which deeply impacted travel in the region. The world was then confronted with the [Global Financial Crisis](https://eresources.nlb.gov.sg/history/events/3cacf256-82cc-4776-b7f8-83757723b502) in 2008.
 
