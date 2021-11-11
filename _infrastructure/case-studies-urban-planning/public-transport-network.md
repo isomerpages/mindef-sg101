@@ -31,7 +31,7 @@ The new public transport system enabled the government to decentralise urban cen
 
 This was the case in Toa Payoh. When the town was being constructed in the early 1970s, a plot of land was set aside for the future construction of the MRT. Light industries set up shop alongside residential estates, which created jobs in the heartlands and prevented the transport system from being overloaded.
 
-![Alt text for image on Isomer site](/images/infrastructure/case-studies-urban-planning/upcs-6.png)Image: Long and Winding Road / Facebook
+![Alt text for image on Isomer site](/images/MRTMAP.png)Image: LTA
 
 Today, the MRT system is the backbone of Singapore’s public transport system. Singapore has six MRT lines consisting more of than 130 stations, with about 200km of rail spanning the island. It is complemented by the bus system, which provides connections between residential towns and MRT stations. The MRT and bus systems are brought together by the Integrated Transport Hubs (ITHs) – bus interchanges linked to MRT stations and commercial developments such as shopping malls. There are currently nine ITHs in Singapore.
 
@@ -49,6 +49,3 @@ Eventually, after all the feedback, LTA adapted the plan. It decided not to cut 
 Another impetus to building our public transport infrastructure is to reduce our reliance on cars. It will allow us to remain connected, while lowering the impact that our mobility has on limited land space and resources.
 
 ![Alt text for image on Isomer site](/images/infrastructure/case-studies-urban-planning/upcs-8.png)
-
-
-
