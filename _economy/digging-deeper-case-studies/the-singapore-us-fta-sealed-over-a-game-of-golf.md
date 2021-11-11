@@ -24,17 +24,14 @@ Singapore had an ambitious plan to signal its intention -- seal an FTA with the 
 <p>Nonetheless, then-President Ong Teng Cheong reduced the number of strokes from six to four out of respect to then-US President Bill Clinton. Many US lawmakers criticised the decision and the White House thus refused to let PM Goh meet with President Clinton. </p>
 </div>
 
-Instead of forcing his way into the White House, PM Goh decided to go through the informal way – via a game of golf.
+However, PM Goh found his way in through a game of golf. President Clinton, a keen golfer, had learnt about PM Goh’s passion for golf from a mutual friend. So when the opportunity presented itself in 1997 during an Asia-Pacific Economic Cooperation (APEC) Leaders’ meeting in Vancouver, both leaders came together for a game of golf. 
 
-Through a mutual friend, President Clinton, who is a keen golfer, learnt about PM Goh’s passion for golf. When the opportunity presented itself in 1997 during an APEC Leaders’ meeting in Vancouver, both leaders played a game of golf. That set the stage for further discussions, which took place again on the green some three years later at another APEC Leaders’ meeting in 2000 in Brunei.
+That set the stage for further discussions, which took place again on the green at the 2000 APEC Leaders’ meeting in Brunei. There,18  PM Goh approached President Clinton to ask if he would be up for a game of golf. President Clinton said yes.
 
-Following the end of the banquet in Brunei, PM Goh approached President Clinton to ask if he would be up for a game of golf. President Clinton said yes.
-
-They played a game of 18 holes. After which, PM Goh made his pitch: 
+After their game, PM Goh made his pitch: 
 
 ![Alt text for image on Isomer site](/images/economy/case-studies/Screenshot%202020-10-.png)
-Officially signed in 2003 and implemented a year later, the US-Singapore FTA was the first FTA signed between the US and East Asia. The FTA removes tariffs and allows for better movement of goods between the two nations.
 
-The FTA was a powerful signal to the rest of the world.
+The US-Singapore FTA was officially signed in 2003 and implemented a year later. It was the first FTA signed between the US and an East Asian nation. The FTA removes tariffs and allows for better movement of goods between the two nations.
 
-It showed that despite its size, Singapore could persuade the world’s biggest economy to ink a deal on free trade. As a result, the FTA set an important precedent for future FTAs to be negotiated.
+The FTA was also a powerful signal to the rest of the world, and showed that despite its size, Singapore could persuade the world’s biggest economy to sign an FTA. This FTA set an important precedent for future negotiations.
