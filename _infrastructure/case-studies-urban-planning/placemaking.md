@@ -15,7 +15,8 @@ Within three decades of independence, the government had successfully addressed 
 
 Placemaking – creating meaningful spaces where people live, work and play – has thus become key to how Singapore shapes its public spaces in recent years. It was a key theme of URA’s 2019 Master Plan.
 
-![Alt text for image on Isomer site](/images/infrastructure/case-studies-urban-planning/upcs-23.png)Image: Jurong Lake Gardens / HDB
+![Alt text for image on Isomer site](/images/jld.jpeg)
+Image: Jurong Lake Gardens / HDB
 
 A well-designed public space encourages people to come together, interact and foster connections to the area. This ensures that precincts across Singapore will always remain relevant as shared spaces for gathering and activities.
 
@@ -40,4 +41,3 @@ Another is the Somerset Belt Masterplan, which has involved young Singaporeans i
 ![Alt text for image on Isomer site](/images/infrastructure/case-studies-urban-planning/upcs-28.png)Images: Our Tampines Hub and Heartbeat@Bedok / PA
 
 The public housing heartlands is also another example of how public spaces can help create bonds through community hubs, which include facilities such as libraries, gyms, and polyclinics under one roof, integrated community hubs such as Tampines Hub and Heartbeat@Bedok have provided a common area for residents to bond and enjoy diverse activities together, and make more effective use of land.
-
