@@ -22,13 +22,13 @@ This problem was caused by deeper issues in the our economic structure. While th
 
 In March 1985, then-Minister for Trade and Industry Tony Tan formed the Economic Committee. Helmed by then-Minister of State for Defence and Trade and Industry Lee Hsien Loong, the committee was tasked to study the recession and Singapore's recovery. It published a refort, “The Singapore Economy: New Directions”, in 1986, and recommended several policy reforms.
 
-The first issue was to tackle production costs, especially labour costs. It recommended slashing the Central Provident Fund (CPF) contribution by 15%, with temporary wage restraints put in place as well. Corporate tax was also reduced by 7%. The committee also recommended cutting corporate and income taxes and for companies to embark on wage reform to introduce flexibility in wages.
+In order to lower production and labour costs, it recommended cutting Central Provident Fund (CPF) contribution by 15% and putting in place temporary wage restraints. It also recommended cutting corporate and income taxes, and for companies to embark on wage reform to introduce wage flexibility.
 
-By 1987, Singapore‘s growth rate leapt to 10.8 percent, kicking off a period of strong growth that would last well into the 1990s.
+With these reforms, Singapore‘s growth rate increased to 10.8% in 1987, kicking off a period of strong growth that lasted into the 1990s.
 
-For the longer-term outlook, the committee said Singapore should continue with moving up the value chain. It also suggested looking at developing and exporting services, and moving beyond functioning as an offshore production base. At the same time, Singapore should continue to develop itself into a conducive environment for businesses to thrive. This included having competitive taxes and a strong regulatory regime to strengthen the corporate sector.
+The committee also recommended that Singapore continue moving up the value chain in the long-term. This includes developing and exporting services, and moving beyond functioning as an offshore production base. Singapore should also continue to develop itself into a conducive environment for businesses to thrive, such as having competitive taxes and a strong regulatory regime.
 
-The ability to beat off the recession was the product of a decisive government and a people willing to take a bitter pill for long-term gain, said then Prime Minister Mr Lee Kuan Yew in 1986:
+The ability to recover from recession came of a decisive government and a people willing to take a bitter pill for long-term gain, said then-Prime Minister Lee Kuan Yew in 1986:
 
 ![Alt text for image on Isomer site](/images/economy/case-studies/Screenshot%202020.png)
 
