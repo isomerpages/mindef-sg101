@@ -16,6 +16,6 @@ At the time, pressing need to diversify away from electronics manufacturing, one
 
 Then-EDB chairman Philip Yeo. His plan was to build an integrated facility that would anchor the various types of petrochemical companies in Singapore.
 
-JTC and EDB worked together with other government agencies to develop the island. In 1991, JTC was appointed the agent of the Jurong Island project. JTC planned and worked with other agencies to provide infrastructure and services to the island, including land reclamation, roads and utilities. EDB officers went on an aggressive investment promotion drive to sell the idea to foreign petrochemical companies.
+JTC and EDB worked together with other government agencies to develop the island. In 1991, JTC was appointed the agent of the Jurong Island project, and it worked with other agencies to plan and provide infrastructure and services to the island. Meanwhile, EDB officers went on an aggressive investment promotion drive to sell the idea to foreign petrochemical companies.
 
-Jurong Island cost the government an estimated $7 billion but it has more than paid back its investment. Since it opened, it has attracted over $50 billion worth of investments, with more than 100 companies employing some 26,000 people. It is a symbol of Singapore’s efficiency, boldness and innovation, traits that will keep Singapore’s economy going.
+Jurong Island cost the government an estimated S$7 billion, but it has more than paid back its investment. Since it opened, it has attracted over S$50 billion worth of investments, with more than 100 companies employing some 26,000 people. It is a symbol of Singapore’s efficiency, boldness and innovation -- traits that will keep Singapore and our economy going.
