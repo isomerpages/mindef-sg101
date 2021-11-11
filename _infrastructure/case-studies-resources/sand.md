@@ -23,6 +23,13 @@ However, there have been difficulties in getting sand from abroad. Countries lik
 ![Alt text for image on Isomer site](/images/infrastructure/case-studies/Screenshot%20202165463.png)
 Images: Headlines from Reuters and the BBC
 
+#### Indonesia Bans Sand to Singapore
+> "Singapore is to fix the price of sand in the construction industry after Indonesia banned all exports to its city-state neighbour.
+
+> Officially Indonesia has said the ban is due to environmental concerns, but some believe it is politically driven."
+
+##### [BBC News](http://news.bbc.co.uk/2/hi/business/6353633.stm) - 12 Feb 2007
+
 As sand is also an essential material for concrete, there were concerns that this would disrupt the construction industry, delaying key infrastructure projects such as the Circle Line MRT and Integrated Resorts.
 
 In response, Singapore released its national stockpile of sand to the market to ensure a sufficient supply. We also took on 75 per cent of the price increase of sand for public projects and began procuring sand from other countries such as Vietnam and Cambodia.
