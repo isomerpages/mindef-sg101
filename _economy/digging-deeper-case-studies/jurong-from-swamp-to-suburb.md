@@ -10,12 +10,12 @@ third_nav_title: Digging Deeper Case Studies
 ![Alt text for image on Isomer site](/images/economy/case-studies/banner.jpg)
 (Image: [JTC Corporation](https://www.jtc.gov.sg/about-us/our-journey/Pages/default.aspx))
 
-Littered with villages and crocodile-infested rivers, Jurong used to be nothing more than swampland. That is until Singapore’s then Finance Minister Goh Keng Swee mooted the idea of turning Jurong into the centre of Singapore’s early industrialisation plans.
+Littered with villages and crocodile-infested rivers, Jurong used to be nothing more than swampland until then-Finance Minister Goh Keng Swee mooted the idea of turning Jurong into the centre of Singapore’s early industrialisation plans.
 
-It was a risky plan given that Singapore had little experience in creating an industrial town of this size. According to the late Mr Sim Kee Boon, a former Permanent Secretary who had helmed various ministries during his career, Dr Goh himself admitted that the Jurong project was “an act of faith and he himself jokingly said that this could prove to be Goh’s folly”. 
+It was a risky plan given that Singapore had little experience in creating an industrial town of this size. According to the late Sim Kee Boon, a former Permanent Secretary at various ministries, then-Minister Goh himself admitted that the Jurong project was “an act of faith".
 
 ![Alt text for image on Isomer site](/images/economy/case-studies/pm-lky-with-edb-chairman-surveying-what-was-to-become-the-jurong-industrial-estate_a.jpg)
-(Image: Then Prime Minister Lee Kuan Yew with EDB Chairman surveying what was to become the Jurong Industrial Estate; National Archives of Singapore via [Roots.sg](https://www.roots.gov.sg/stories-landing/stories/jurong-industrial-estate/story))
+(Image: Then-Prime Minister Lee Kuan Yew with EDB Chairman surveying what was to become the Jurong Industrial Estate; National Archives of Singapore via [Roots.sg](https://www.roots.gov.sg/stories-landing/stories/jurong-industrial-estate/story))
 
 EDB was tasked to transform Jurong into a hub of factories and industrial activities, a responsibility that was later devolved to Jurong Town Corporation (JTC) which was set up as a separate agency in 1968.
 
