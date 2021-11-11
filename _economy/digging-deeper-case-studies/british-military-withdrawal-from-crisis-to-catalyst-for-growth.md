@@ -15,26 +15,26 @@ In 1967, the British government released a White Paper announcing the withdrawal
 
 The British withdrawal had significant impact on Singapore on several fronts.
 
-The first was on the security of the country. Singapore had just started to build our defence force but it would take many years to build a credible military to defend the country from hostile powers.
+The first was on the security of the country. Singapore had just started to build our defence force, but building a credible military force would take time.
 
-But more immediate and urgent was the impact on Singapore’s fragile economy. The military accounted for about 20 per cent of the economy and more than 30,000 jobs. The Singapore government estimated that the British military spent about $450 million in 1966 alone.
+In the shorter term, the withdrawal would impact Singapore’s fragile economy. The military accounted for about 20% of the economy and more than 30,000 jobs. The Singapore government estimated that the British military spent about S$450 million in 1966 alone.
 
-When it became clear that the British had no intention of changing their minds – they in fact accelerated the withdrawal of the military from the mid-1970s to the end of 1971– the Singapore government acted swiftly to deal with the challenge.
+When it became clear that the British had no intention of changing their mind, and in fact accelerated the withdrawal of the military from the mid-1970s to 1971, the Singapore government acted swiftly to deal with the challenge.
 
 **Converting Military Bases for Civilian Use**
 
-First, the Singapore government formed the Bases Economic Conversion Department (BECD), whose objective was to manage the handover of the bases from the British to Singapore.
+First, the Singapore government formed the Bases Economic Conversion Department (BECD), which would manage the handover of the bases from the British to Singapore.
 
-Led by Mr Hon Sui Sen, the first chairman of the Economic Development Board, the BECD focused on converting the military bases, which occupied some 15,000 acres or 11 per cent of Singapore’s land, to commercial use.
+Led by Hon Sui Sen, the first chairman of the Economic Development Board, the BECD focused on converting the military bases, which occupied some 15,000 acres (11% of Singapore’s land) for commercial use.
 
-The converted bases aided the creation or expansion of several major industries in the early 1970s. These included the conversion of the naval dockyard at Sembawang into a commercial shipyard, turning Changi airbase into a recreational resort and later an international airport, and converting Blakang Mati into a tourist resort, which they renamed Sentosa. These would later aid in the development of the various sectors of the economy, from ship building and tourism to manufacturing.
+For example, the naval dockyard at Sembawang was converted into a commercial shipyard, while Changi airbase became a recreational resort and later an international airport. Blakang Mati (today's Sentosa) was also turned into a tourist destination. These key infrastructural changes were important in the development of the various sectors later on, such as ship building, tourism, and manufacturing.
 
 ![Alt text for image on Isomer site](/images/economy/case-studies/Screenshot%202020-10-2.png)
 (Image: Map of Blakang Mati dated 1895. Up to the 1960s, it was part of a British military base, sparsely populated by barracks and a few kampongs; NAS)
 
 **Retraining Workers**
 
-The BECD was also responsible for the retraining of affected workers. With aid from the British, the department moved to train hundreds of retrenched workers in technical skills that were sorely needed by the growing economy. Thousands of workers also joined civilian shipyards, using their skills to build and repair civilian ships instead of military ones. Others were moved to support growing sectors such as the manufacturing sector.
+The BECD was also responsible for retraining workers. With support from the British, the BECD trained retrenched workers and built up technical skills and help them move into commercial sectors, such as shipyards and manufacturing. 
 
 Through sheer will and adaptability, Singapore managed to turn its first crisis into a major catalyst for growth.
 
