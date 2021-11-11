@@ -7,24 +7,22 @@ third_nav_title: Digging Deeper Case Studies
 #### The 1985 Recession: Growth Interrupted
 <i>2 minute read</i>
 
-After enjoying uninterrupted growth for nearly 20 years, Singapore faced its first recession in 1985, an episode which tested the country’s resolve in managing crises.
+After enjoying uninterrupted growth for nearly 20 years, Singapore faced its first recession in 1985, which tested our resolve and crisis management. 
 
-The factors that contributed to the sharp decline in economic activity were varied. For one, the patchy external global economy was a key factor. Dragged by a slowdown in the US, demand for Singapore’s exports fell sharply.
-
-Singapore’s economy was also grappling with several cyclical and structural problems.
+The recession was caused by several factors, including weak economic growth globally which slowed demand for Singapore’s exports, as well as structural problems within our economy. 
 
 ![Alt text for image on Isomer site](/images/Capture432424.PNG)
 (Source: Economic Survey of Singapore 1985 via NAS)
 
-One key factor was the slump in construction. In the late 1970s to the early 1980s, Singapore went through a major construction boom, contributing almost a third of economic growth during the period. This was unsustainable and when the boom ended, the economy dived.
+One key factor was the slump in construction. In the late-1970s to the early-1980s, Singapore went through a major construction boom, contributing to almost a third of economic growth during the period. However, with booms come busts, and economic growth declined when this happened. 
 
-A deeper problem lay in the structural make-up of the economy – while the wage correction policy helped hasten Singapore’s move up the value chain, the acceleration of rising costs also caused Singapore to lose competitiveness.
+This problem was caused by deeper issues in the our economic structure. While the wage correction policy hastened Singapore’s move up the value chain, the acceleration of rising costs also decreased our competitiveness. 
 
 ![Alt text for image on Isomer site](/images/economy/case-studies/Screenshot%202020-10-28%20at%202.png)
 
-The government quickly sprang into action. In March 1985, then Minister for Trade and Industry Mr Tony Tan formed the Economic Committee. Helmed by then Minister of State for Defence and Trade and Industry Mr Lee Hsien Loong, the committee was tasked to study the recession and what Singapore could do to recover from it. Titled “The Singapore Economy: New Directions”, the report, published in 1986, listed several policy reforms.
+In March 1985, then-Minister for Trade and Industry Tony Tan formed the Economic Committee. Helmed by then-Minister of State for Defence and Trade and Industry Lee Hsien Loong, the committee was tasked to study the recession and Singapore's recovery. It published a refort, “The Singapore Economy: New Directions”, in 1986, and recommended several policy reforms.
 
-The first issue was to tackle production costs, in particular labour costs. The committee recommended slashing the Central Provident Fund (CPF) contribution by 15 per cent, with temporary wage restraints put in place as well. Corporate tax was also reduced by 7 percent. The committee also recommended cutting corporate and income taxes and for companies to embark on wage reform to introduce flexibility in wages.
+The first issue was to tackle production costs, especially labour costs. It recommended slashing the Central Provident Fund (CPF) contribution by 15%, with temporary wage restraints put in place as well. Corporate tax was also reduced by 7%. The committee also recommended cutting corporate and income taxes and for companies to embark on wage reform to introduce flexibility in wages.
 
 By 1987, Singapore‘s growth rate leapt to 10.8 percent, kicking off a period of strong growth that would last well into the 1990s.
 
