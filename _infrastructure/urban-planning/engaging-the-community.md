@@ -25,8 +25,6 @@ A public campaign to save Chek Jawa ensued. Singaporeans wrote into the press an
 
 On 20 December 2001, then-Minister for National Development Mah Bow Tan also held dialogues with several nature groups to discuss saving Chek Jawa’s wildlife. MND then decided to defer the reclamation project and consult with experts on the solutions to protect the marine life in the area.
 
-![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-16.png)Image: Minister Mah Bow Tan addressing the crowd and Chek Jawa / Wikipedia
-
 Instead, plans were drawn up to protect and preserve the biodiversity at Chek Jawa. The Government spent $6.2 million to build boardwalks, a viewing tower and a visiting centre that allowed the public to visit Chek Jawa without harming the fragile eco-system there.
 
 ![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-25.png)Image: Chek Jawa / Visit Singapore
