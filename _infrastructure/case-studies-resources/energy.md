@@ -30,9 +30,6 @@ In 2013, Singapore opened the first LNG Terminal, a significant milestone in our
 
 #### Economic competitiveness
 
-![Alt text for image on Isomer site](/images/infrastructure/case-studies/Screenshot%202024655.png)
-Image: Senoko Energy
-
 With a high dependence on energy imports, especially LNG, Singapore has little control over energy prices. LNG prices closely track oil prices, the result of commercial contracts that link LNG to oil. And because oil prices are set by the market and oil producers, Singapore is highly exposed to any volatility that could affect oil prices.
 
 For one thing, should oil prices rise quickly, there could be knock-on effects for the economy. A sharp price rise could quickly escalate costs for many businesses – and hurt Singapore’s economic growth prospects.
@@ -40,6 +37,9 @@ For one thing, should oil prices rise quickly, there could be knock-on effects f
 Singapore has been grappling with the challenge of balancing economic competitiveness. While other oil-importing countries can afford to subsidise high oil prices, this could lead to huge deficits for SingaporeSingapore should oil prices rise quickly. Hence, instead of subsidies, the Singapore government turned to competition to keep prices fair and affordable for both companies and households.
 
 Since the 1990s, Singapore has been progressively allowing private companies into the electricity market to nudge providers to become more cost-effective and better serve customers. In 2018, Singapore introduced the Open Electricity Market, which allowed households to choose their electricity provider instead of buying from just one source.
+
+![Alt text for image on Isomer site](/images/electric_market.png)
+Image: Open Electricity Market
 
 #### Environment sustainability
 
