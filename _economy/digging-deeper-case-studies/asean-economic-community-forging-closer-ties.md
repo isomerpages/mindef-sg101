@@ -28,4 +28,4 @@ Building on the first phase, the next lap of economic integration is expected to
 
 However, the AEC goes beyond promoting free trade. As a bloc, the AEC will have tremendous influence when dealing with other big trading partners such as China and Europe. It will also attract large amounts of investments from investors eager to be part of the ASEAN's growth. 
 
-More importantly, closer integration will anchor stability within the region and promote cooperation among member states. For Singapore, this is an invaluable part of its foreign trade efforts and will keep Singapore as an attractive location for companies looking to expand into the region.
+More importantly, closer integration will anchor stability within the region and promote cooperation among member states. For Singapore, this is an invaluable part of its foreign trade efforts and will keep Singapore attractive to companies looking to expand into the region.
