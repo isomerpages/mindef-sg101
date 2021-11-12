@@ -46,13 +46,13 @@ While symbols may help Singaporeans identify with the country, it did not create
 
 One of the ways this was done was through the housing scheme introduced to encourage home ownership among Singaporeans. In February 1964, the government introduced the Home Ownership for the People Scheme to give citizens a tangible asset in the country and a stake in nation-building. Today, about 80% of the population live in Housing & Development Board (HDB) flats, and a vast majority own their flats.
 
-A big part of forging a common identity is also in the intangible aspects of culture that people share. The experience of growing up in Singapore is a unique one that forms and shapes shared experiences that Singaporeans can relate to.
+A big part of forging a common identity lies in the intangible aspects of culture that people share. For example, the experience of growing up in Singapore is a unique one that shapes shared experiences that Singaporeans can relate to.
 
 ![Alt text for image on Isomer site](/images/society/sharedid/social-quotes-05-v3.png)
 
-Other aspects such as the arts and music as part of our identity was also considered to help create a Singaporean culture in the 1990s. Led by then-Acting Minister for the Arts George Yeo, Singapore built The Esplanade and new museums, as well as set up the National Arts Council.
+Apart from that, art and music were also used to help create a Singaporean culture in the 1990s. Led by then-Acting Minister for the Arts George Yeo, Singapore built The Esplanade and new museums, as well as set up the National Arts Council (NAC).
 
-Over the years, we have developed a distinctly Singaporean cultural experience, drawing from our richness and diversity from our roots as a migrant nation. Many aspects of our culture, from language to food today are a rich amalgamation and hybrid of Chinese, Malay, Indian, European cultures and so on. One of these examples is our hawker culture, which is on UNESCO’s Intangible Cultural Heritage list.
+Over the years, we have developed a distinctly Singaporean cultural experience, drawing from our richness and diversity from our roots as a migrant nation. Many aspects of our culture are a rich amalgamation and hybrid of Chinese, Malay, Indian, European cultures and so on. OUr hawker culture, for one, has made it onto UNESCO’s Intangible Cultural Heritage list.
 
 [![Alt text for image on Isomer site](/images/society/sharedid/OpenDoc%20Banners-8.gif)](/social-national-identity/case-studies/heritage)
 
