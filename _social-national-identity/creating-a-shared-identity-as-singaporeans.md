@@ -40,11 +40,11 @@ After three drafts and multiple revisions, the Singapore pledge was eventually f
 
 #### Forging a National Identity
 
-While symbols may help Singaporeans identify with the country, it does not mean that it resulted in the instant creation of a national identity. Forging a national identity required time and a conscious effort to allow people opportunities to interact and form bonds with one other. They also need to feel that they had a tangible stake in the country’s development and progress.
+While symbols may help Singaporeans identify with the country, it did not create our national identity overnight. Forging a national identity required time and a conscious effort to allow people opportunities to interact and form bonds with one other. They also need to feel that they have a tangible stake in the country’s development and progress.
 
 ![Alt text for image on Isomer site](/images/society/sharedid/homeown.jpg)
 
-One of the ways this was done was through the housing scheme introduced to encourage home ownership among Singaporeans. In February 1964, the government introduced the Home Ownership for the People Scheme to give citizens a tangible asset in the country and a stake in nation-building. Today, about 80 per cent of the population live in Housing & Development Board (HDB) flats, and a vast majority own their flats.
+One of the ways this was done was through the housing scheme introduced to encourage home ownership among Singaporeans. In February 1964, the government introduced the Home Ownership for the People Scheme to give citizens a tangible asset in the country and a stake in nation-building. Today, about 80% of the population live in Housing & Development Board (HDB) flats, and a vast majority own their flats.
 
 A big part of forging a common identity is also in the intangible aspects of culture that people share. The experience of growing up in Singapore is a unique one that forms and shapes shared experiences that Singaporeans can relate to.
 
