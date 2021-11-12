@@ -92,7 +92,7 @@ Many ministers came forward to speak on the incidents, including then-Labour Chi
 
 Understanding that this was the act of radicalised individuals and not reflective of the whole Muslim community, Singaporeans were aligned with the government's approach in treating terrorism as a national security problem that affected Singaporeans -- regardless of race or religion.
 
-With the community's trust and support, the government was therefore able to act quickly to prevent Singaporeans from turning against the Muslims in the community, which could potentially have led to devastating effects on social cohesion and strained communal relations.
+With the community's trust and support, the government was therefore able to act quickly and ensure other Singaporeans did not turn against  Muslims in the community. This could have disrupted social cohesion and strained community relations.
 
 [![Alt text for image on Isomer site](/images/society/multicultural/OpenDoc%20Banners-5.gif)](/social-national-identity/examples/inter)
 
