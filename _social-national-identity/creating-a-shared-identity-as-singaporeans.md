@@ -26,7 +26,7 @@ Red was chosen because it symbolised prosperity and happiness, while white – f
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/aAE6tC98xpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The idea of a pledge was also mooted as a way to inculcate national consciousness and patriotism in schools. Author of the Singapore pledge, Mr S. Rajaratnam, who was Minister for Foreign Affairs at the time, believed that differences in language, race and religion were potentially divisive. Hence, he made use of the pledge to emphasise that these differences could be overcome if Singaporeans were united in their commitment to the country.
+The idea of a pledge was also mooted as a way to inculcate national consciousness and patriotism in schools. Then-Minister for Foregin Affairs S. Rajaratnam, who authored the pledge, believed that differences in language, race and religion were potentially divisive. Hence, he made use of the pledge to emphasise that these differences could be overcome if Singaporeans were united in their commitment to the country.
 
 The fundamentals of Singapore’s multicultural society were never to forget differences, but rather to acknowledge them, set them aside and go beyond them. This distinction is clear during the creation of the pledge.
 
