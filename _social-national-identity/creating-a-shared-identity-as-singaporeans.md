@@ -8,11 +8,13 @@ permalink: /social-national-identity/sharedidentity
 
 For former Deputy Prime Minister Dr Toh Chin Chye, the national flag, crest and anthem were more than just symbols for a newly independent Singapore.
 
-Still recovering from the communal tensions and racial riots of the 1950s and 60s, Singapore needed to forge a common identity and sense of belonging among its people. These symbols were to help forge a sense of unity, shared purpose and, over time, a common destiny to which all Singaporeans could strive towards. However, unlike other nations which had a far longer history to draw upon to create a shared identity, Singapore could not afford the time to let the process develop naturally.
+Amidst the communal tensions and racial riots of the 1950s and 60s, Singapore needed to forge a common identity and sense of belonging among its people. These symbols would help forge a sense of unity, shared purpose and, over time, a common destiny towards which all Singaporeans could strive. However, unlike other nations which had a much longer history to draw upon to build a shared identity, Singapore did not have that luxury.
 
 ![Alt text for image on Isomer site](/images/society/sharedid/social-quotes-04-v2.png)
 
-The national anthem was the first symbol to be created. “Majulah Singapura”, or Onward Singapore in English, was composed in 1958 by Singapore composer Zubir Said. The song was originally commissioned by the City Council of Singapore in 1958 as an official song for the council’s function. But after Singapore attained self-governance in 1959, a shortened and more upbeat version was made the country’s national anthem, as a musical expression of Singapore’s identity as a nation. Its melody and lyrics echoed the enduring hope and spirit of Singaporeans for progress. It also promoted the coming together of Singaporeans to work towards a common goal: a better future.
+The national anthem was the first symbol to be created. “Majulah Singapura” (Onward Singapore) was composed in 1958 by Singapore composer Zubir Said. It was originally commissioned by the City Council of Singapore in 1958 as an official song for the council’s function. 
+
+After Singapore achieved self-governance in 1959, a shorter and more upbeat version was made into our national anthem. Majulah Singapura is a musical expression of Singapore’s identity as a nation, and its melody and lyrics echo the enduring hope and spirit of Singaporeans for progress. It also speaks to Singaporeans coming together  the coming together of Singaporeans to work towards a common goal: a better future.
 
 According to Dr Toh, Majulah Singapura was chosen for its patriotic lyrics that expressed the aspirations of the people of Singapore. He added that the lyrics of the national anthem were specifically written in Malay as it is an indigenous language of the region and would appeal to all races.
 
