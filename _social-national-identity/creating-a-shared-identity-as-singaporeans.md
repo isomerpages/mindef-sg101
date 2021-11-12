@@ -84,7 +84,7 @@ Apart from that, at the 2015 Southeast Asian (SEA) Games, Team Singapore swimmer
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/MR-ufovi7V0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-These experiences are examples of the closeness and solidarity that stemmed from Singaporeans seeing ourselves as one, instead of separate groups. In his 2019 National Day Rally speech on the importance of developing a common national consciousness, Prime Minister Lee Hsien Loong said that it has taken many years but the concept of being Singaporean is now firmly etched in all Singaporeans.
+These experiences are examples of the closeness and solidarity that stems from Singaporeans seeing ourselves as one, instead of separate groups. In his 2019 National Day Rally speech, PM Lee highlighted the importance of developing a common national consciousness. He said that it has taken many years but the concept of being Singaporean is now firmly etched in all Singaporeans.
 
 Now, as the world enters troubled times, Singapore faces new and daunting challenges that we can only face if we stand together as a nation.
 
@@ -94,24 +94,24 @@ Now, as the world enters troubled times, Singapore faces new and daunting challe
 
 As a global city and international business hub, just like how we were a migrant nation, we continue to attract people of all nationalities and cultures here. This has led to a gradual change in our social mix over the years. In addition to the existing multiracial, multi-religious and multicultural local population, the social fabric now also includes new citizens and foreigners who bring with them different cultures, beliefs and practices.
 
-A study from the United Nations shows that the percentage of migrants in Singapore tripled over the past three decades, growing from 24 per cent (727,000) of the population in 1990 to 37 per cent (2.15 million) in 2019. The biggest source of migrants come from Malaysia, followed by China, Indonesia, India and Pakistan.
+A study from the United Nations (UN) showed that the percentage of migrants in Singapore's population has tripled over the past three decades -- from 24% (727,000) in 1990 to 37% (2.15 million) in 2019. The biggest source of migrants come from Malaysia, followed by China, Indonesia, India and Pakistan.
 
-PM Lee noted in his National Day Rally speech in 2019 that just like Singapore’s forefathers, the immigrants of today have to similarly undergo the process of gradually identifying themselves as Singaporeans, and becoming Singapore citizens. This is a process that took many decades. Singapore’s forefathers arrived as sojourners. Those from China intended to return to their homeland one day, but in the end, the majority chose to remain. They saw this as their new home, and worked to make it succeed, and defended their nation fiercely. Gradually, a Chinese Singaporean identity was developed, said PM Lee.
+PM Lee noted in his National Day Rally speech in 2019 that just like Singapore’s forefathers, the immigrants of today have to similarly undergo the process of gradually identifying themselves as Singaporeans, and becoming Singapore citizens. This is a process that took many decades. Singapore’s forefathers arrived as sojourners. Those from China intended to return to their homeland one day, but in the end, the majority chose to remain. They saw this as their new home, and worked to make it succeed, and defended their nation fiercely. Gradually, a Chinese Singaporean identity was developed.
 
 It was the same for Malay and Indian Singaporeans. During the period of anti-colonial struggle, the Indians were inspired by India’s own struggle for independence while the Malays were inspired by the nationalist movements in Indonesia and Malaya. But like the Chinese, they too, along with the Eurasians, progressively sank their roots in Singapore and a Singapore identity was developed.
 
-Today, the rising number of inter-ethnic and transnational marriages has also added to the complexity of Singapore’s social mix. In 2018, 22.4 per cent of total marriages were between grooms and brides of different ethnic groups, a 16.7 per cent increase from 2008. Singaporeans are more distinct and diverse than ever before.
+Today, the rising number of inter-ethnic and transnational marriages has also added to the complexity of Singapore’s social mix. In 2018, 22.4% of total marriages were between grooms and brides of different ethnic groups, a 16.7% increase from 2008. Singaporeans are more distinct and diverse than ever before.
 
 ![Alt text for image on Isomer site](/images/society/sharedid/social-quotes-08-v2.png)
 
-However, the entry of newcomers to Singapore, coupled with stresses of today has led to increased xenophobia as many view them as competition. Technological and trade disruptions have fuelled concerns about workplace competition and security, with some questioning the need for newcomers who they have to fight with for jobs. Greater connectivity and social media has also made it easier for divisive narratives to take root, sometimes behind the anonymity of a computer screen.
+However, the entry of newcomers to Singapore, coupled with stresses of today has led to increased xenophobia as many view them as competition. Technological and trade disruptions have fueled concerns about workplace competition and security, with some questioning the need for newcomers with whom they have to compete for jobs. Greater connectivity and social media have also made it easier for divisive narratives to take root. 
 
-But as a small and open economy with an ageing population, increasing numbers of trans-national families and a low replacement rate, Singapore has to keep its doors open to achieve further growth.
+But as a small and open economy with an ageing population, increasing numbers of trans-national families, and low Total Fertility Rate , Singapore has to keep its doors open to achieve further growth.
 
 ![Alt text for image on Isomer site](/images/society/sharedid/social-quotes-09-v2-2.png)
 
 Singapore’s approach to new citizens is one of integration, not assimilation, to welcome and not take away, as we have done from our start as a migrant nation. As PM Lee noted, at the official opening of the Singapore Chinese Cultural Centre on 19 May 2019, being Singaporean, he said, has “never been a matter of subtraction, but of addition; not of becoming less, but more; not of limitation and contraction, but of openness and expansion”.
 
-To integrate new citizens, Singapore needs to reaffirm and promote shared values, find and grow common spaces, share collective experiences and strengthen emotional bonds among our people. Opportunities to interact and understand one another better continue to be key, especially between locals and new citizens.
+To integrate new citizens, Singapore needs to reaffirm and promote shared values, find and grow common spaces, share collective experiences and strengthen emotional bonds among our people. Opportunities for citizens and new ones to interact and understand one another better continue to be key.
 
 [![Alt text for image on Isomer site](/images/society/sharedid/OpenDoc%20Banners-10.gif)](/social-national-identity/examples/integrating)
