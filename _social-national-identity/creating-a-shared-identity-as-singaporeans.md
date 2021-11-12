@@ -58,7 +58,7 @@ Over the years, we have developed a distinctly Singaporean cultural experience, 
 
 ![Alt text for image on Isomer site](/images/society/sharedid/singapore-icons-e2_v2-2-2.png)
 
-Another example of what is uniquely Singaporean is the evolution and use of a local English slang. Singlish, as it is called, clearly distinguishes a Singaporean Chinese from a Chinese person from China – it is a mark of local culture. After all, it is a mix of the various cultures in Singapore.
+Another example of what is uniquely Singaporean is the evolution and use of Singlish, an English-based creole which was formed after prolonged linguistic contact between people of different communities and cultures in Singapore.
 
 Singlish grammar mirrors that of Malay, by doing away with most prepositions, verb conjugations, and plural words, while its vocabulary reflects the broad range of the country’s immigrant roots. It borrows from Malay, Hokkien, Cantonese, Mandarin and other Chinese languages, as well as Tamil from southern India.
 
@@ -68,7 +68,7 @@ Singlish grammar mirrors that of Malay, by doing away with most prepositions, ve
 
 A national identity acts as a bulwark against forces that may seek to fracture society. It pulls Singaporeans together in a time of crisis instead of fragmenting into separate ethnic groups.
 
-This was the concern that Mr Goh Chok Tong, then Prime Minister, posed during a parliamentary debate on 5 May 1999: “In a crunch, where the interests of the tribe and the state diverge, can we be sure that the sense of belonging to a state will be stronger than the primordial instinct of belonging to a tribe?”
+This was the concern that then-PM Goh Chok Tong brought up during a parliamentary debate on 5 May 1999. He said, “in a crunch, where the interests of the tribe and the state diverge, can we be sure that the sense of belonging to a state will be stronger than the primordial instinct of belonging to a tribe?”
 
 ![Alt text for image on Isomer site](/images/society/sharedid/social-quotes-06-v2.png)
 
