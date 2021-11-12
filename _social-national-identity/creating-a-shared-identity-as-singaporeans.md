@@ -28,11 +28,11 @@ Red was chosen because it symbolised prosperity and happiness, while white – f
 
 The idea of a pledge was also mooted as a way to inculcate national consciousness and patriotism in schools. Then-Minister for Foregin Affairs S. Rajaratnam, who authored the pledge, believed that differences in language, race and religion were potentially divisive. Hence, he made use of the pledge to emphasise that these differences could be overcome if Singaporeans were united in their commitment to the country.
 
-The fundamentals of Singapore’s multicultural society were never to forget differences, but rather to acknowledge them, set them aside and go beyond them. This distinction is clear during the creation of the pledge.
+The fundamentals of Singapore’s multicultural society were not to forget or paper over differences, but to acknowledge them, set them aside, and go beyond them -- regardless of race, language or religion. 
 
 ![Alt text for image on Isomer site](/images/society/sharedid/Earlier%20version%20of%20the%20pledge_-2.png)
 
-After three drafts and multiple revisions, the Singapore pledge was finalised. On 24 August 1966, about 500,000 students at all 529 government and government-aided schools held the first daily recitation of the pledge of allegiance before the national flag.
+After three drafts and multiple revisions, the Singapore pledge was eventually finalised. On 24 August 1966, about 500,000 students at all 529 government and government-aided schools took part in the first daily recitation of the pledge before the national flag.
 
 ![Alt text for image on Isomer site](/images/society/sharedid/pledge1966.jpg)
 
