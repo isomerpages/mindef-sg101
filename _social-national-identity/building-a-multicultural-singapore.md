@@ -98,9 +98,9 @@ With the community's trust and support, the government was therefore able to act
 
 #### The Continued Need for Racial Harmony
 
-Singapore has adopted social resilience as a key strategy against terrorism and domestic conflict because race and religion are dangerous fault lines. Reducing racial and religious tension through cooperation and understanding between communities is critical in preventing future acts of violence in Singapore.
+Social resilience is Singapore's key strategy against terrorism and domestic conflict, and ensures that we do not fracture irreparably along the fault lines of race and religion. Reducing racial and religious tension through cooperation and understanding between communities is critical in preventing future acts of violence in Singapore.
 
-But a lapse could tear open old wounds. Singapore, therefore, remains ever vigilant in monitoring tensions from racial differences, taking proactive steps to safeguard the nation’s ability to stay united.
+But a lapse could tear open old wounds. Singapore the remains ever vigilant in monitoring tensions from racial differences, and we take proactive steps to safeguard our ability to stay united.
 
 [![Alt text for image on Isomer site](/images/society/multicultural/OpenDoc%20Banners-6.gif)](/social-national-identity/case-studies/learning)
 
