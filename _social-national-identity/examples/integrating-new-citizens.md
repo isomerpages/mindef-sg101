@@ -5,11 +5,11 @@ third_nav_title: Examples
 ---
 #### Integrating New Citizens
 
-What bonds us as Singaporeans is not how we look, but the way we behave, our values and the norms we uphold. This can be challenging for new citizens who may have to change the way they would normally act and interact with people.
+What bonds us as Singaporeans is not how we look, but the way we behave, our values and the norms we uphold. This can be challenging for new citizens who may have to change the way they would normally act and interact with others
 
-As of June 2019, there were 3.5 million Singapore citizens, an increase of 0.8 per cent from the previous year. There were 22,550 new citizens in 2018, up from 22,076 the year before. The majority (61.6 per cent) were from Southeast Asian countries, with 32.4 per cent from other Asian countries and 6 per cent from countries outside Asia.
+As of June 2019, there were 3.5 million Singapore citizens, an increase of 0.8 per cent from the previous year. There were 22,550 new citizens in 2018, up from 22,076 the year before. The majority (61.6%) were from Southeast Asian countries, with 32.4 per cent from other Asian countries and 6 per cent from countries outside Asia.
 
-![Alt text for image on Isomer site](/images/society/examples/singapore-citizenships-and-pr-status-granted-2.png)Image courtesy of CNA, taken from this [article](https://www.channelnewsasia.com/news/singapore/population-number-singapore-foreign-workers-new-citizens-11941034).
+![Alt text for image on Isomer site](/images/society/examples/singapore-citizenships-and-pr-status-granted-2.png)Image: CNA, taken from this [article](https://www.channelnewsasia.com/news/singapore/population-number-singapore-foreign-workers-new-citizens-11941034).
 
 To help new citizens adapt, the National Integration Council (NIC) was set up in April 2009 to promote integration through ground-up projects. Among more than 280 initiatives the council has funded are Singapore heritage visits, organised by the Singapore Federation of Chinese Clan Associations, as well as a short film –- #WhyBeTowkayTan – about a kopitiam runner from China who spends Chinese New Year Eve with co-workers.
 
@@ -25,12 +25,8 @@ Software engineers Nguyen The Huy, 33, and Tran Thi Tuyet Mai, 33, who became ne
 
 But while most Singaporeans accept that immigration is important, many also feel that immigrants can do more to integrate into society. An Institute of Policy Studies (IPS) survey of about 4,000 Singapore citizens and permanent residents, released in 2019, found that about nine in 10 felt that it was good to have people of different nationalities living in the same neighbourhood, and that they can learn a lot from the immigrants’ cultures. However, more than six in 10 said immigrants are not doing enough to integrate into Singapore.
 
-A major stumbling block, identified during dialogues with the survey participants, is the limiting beliefs and perceptions about each other due to stereotypes, fear of rejection and lack of trust, said Culture, Community and Youth Minister Grace Fu at a National Integration Council convention on 3 August 2019.
+A major stumbling block that was identified during dialogues with the survey participants, however, is the limiting beliefs and perceptions about each other due to stereotypes, fear of rejection and lack of trust, said then-Minister for Culture, Community and Youth Grace Fu at a National Integration Council convention on 3 August 2019.
 
 ![Alt text for image on Isomer site](/images/society/examples/social-quotes-19-2.png)
 
-Hence, MCCY is looking to add new ways of partnership and to involve more parts of Singapore’s society, starting with a workgroup with Singaporeans to help shape the curriculum of the Singapore Citizenship Journey.
-
-
-
-
+Hence, MCCY is looking to ways to partner and involve more parts of Singapore’s society, starting with a workgroup with Singaporeans to help shape the curriculum of the Singapore Citizenship Journey.
