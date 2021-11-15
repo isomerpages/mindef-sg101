@@ -16,7 +16,7 @@ This is a problem for Singapore. Professor Tommy Koh, a veteran diplomat and spe
 
 ![Alt text for image on Isomer site](/images/society/caring/social-quotes-11-3.png)
 
-PM Lee also spoke about inequality in a dialogue in 2018, noting that Singaporeans' displeasure came from not given opportunities to work hard and improve their lives, and felt stuck in a poverty cycle. Using the previous generation as an example, PM Lee said that they worked hard for a better living, and though it was tough, because they were given opportunities to improve their lives, they were still satisfied.
+PM Lee also spoke about inequality in a dialogue in 2018, noting that displeasure came from being stuck in a poverty cycle, and a lack of opportunities to work hard and improve their lives. In contrast, though previous generations had to work hard for their livelihoods, there was greater socio-economic mobility.
 
 ![Alt text for image on Isomer site](/images/society/caring/social-quotes-12-2.png)
 
