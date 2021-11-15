@@ -84,8 +84,8 @@ While there are many of these heartwarming examples, fostering a caring and incl
 
 #### Conclusion
 
-In Singapore, there are many opportunities to interact with one another regardless of background, whether in schools, workplaces, community organisations or neighbourhoods. However, building a caring and inclusive society boils down to a society of people with the heart and desire to take action and help one other at all times, from the efforts of one person to a joined effort by many.
+In Singapore, there are many opportunities to interact with one another regardless of background, whether in schools, workplaces, community organisations or neighbourhoods. However, building a caring and inclusive society takes a society of people with the heart and desire to take action and help one other at all times. This is what will amplify individual work to collective, community effort. 
 
 ![Alt text for image on Isomer site](/images/society/caring/social-quotes-14.png)
 
-From providing equal rights to people of all races and religions, to forging a national identity that brings Singaporeans together, and building a society that is inclusive and caring, the journey towards a Singapore that will stay united against all odds is one that is still in progress and one that is up to Singaporeans to achieve.
+Providing equal rights to people of all races and religions, to forging a national identity that brings Singaporeans together, and building a society that is inclusive and caring, the journey towards a Singapore that will stay united against all odds is one that is still in progress and one that is up to Singaporeans to achieve.
