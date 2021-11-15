@@ -30,9 +30,9 @@ Many attempts have also been made to tear down the metaphorical fences between t
 
 ![Alt text for image on Isomer site](/images/society/caring/social-images-15-2.png)
 
-Sports have been another rallying point, bringing people of various backgrounds together. Joining sports clubs at community centres is free, allowing avid players of the sport to mingle and get to know each other.
+Sports have also been a way to bring people together. Joining sports clubs at community centres is free, allowing avid players of the sport to mingle and get to know each other.
 
-To ensure that no one is left behind, schemes such as SkillsFuture and the Progressive Wage Model provide opportunities for low-wage workers to upgrade their skills and take on more highly skilled work. In the case of SkillsFuture, the aim is to help Singaporeans develop and master relevant skills that will help them in their career. To ensure that all have the opportunity to access courses for self-improvement, credits are provided for Singaporeans aged 25 and above to use for courses. Subsidies are also provided for certain courses and after meeting certain requirements, such as an up to 90% subsidy on selected courses for Singaporeans aged 40 and above. This initiative helps to make training courses accessible to all, and help boost employability to achieve higher paying jobs, regardless of one’s starting point.
+To ensure that no one is left behind, schemes such as SkillsFuture and the Progressive Wage Model (PWM) provide opportunities for low-wage workers to upgrade their skills and take on more highly skilled work. For instance, SkillsFuture aims is to help Singaporeans develop and master relevant skills that will help them in their career. To ensure that all have the opportunity to access courses for self-improvement, credits are provided for Singaporeans aged 25 and above to use for courses. Subsidies are also provided for certain courses and after meeting certain requirements, such as an up to 90% subsidy on selected courses for Singaporeans aged 40 and above. This initiative helps to make training courses accessible to all, and help boost employability to achieve higher paying jobs, regardless of one’s starting point.
 
 ![Alt text for image on Isomer site](/images/society/caring/social-images-12-2.png)
 
