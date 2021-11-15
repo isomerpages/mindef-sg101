@@ -88,4 +88,4 @@ In Singapore, there are many opportunities to interact with one another regardle
 
 ![Alt text for image on Isomer site](/images/society/caring/social-quotes-14.png)
 
-Providing equal rights to people of all races and religions, to forging a national identity that brings Singaporeans together, and building a society that is inclusive and caring, the journey towards a Singapore that will stay united against all odds is one that is still in progress and one that is up to Singaporeans to achieve.
+We continue to work towards equal rights to people of all races and religions, forging a national identity that brings Singaporeans together, and building a society that is inclusive and caring. The journey towards a Singapore that will stay united against all odds is one that is still in progress and up to generations of Singaporeans to achieve.
