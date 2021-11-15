@@ -7,7 +7,7 @@ third_nav_title: Examples
 
 After the arrest of 15 Jemaah Islamiyah (JI) members in Singapore in December 2001, there were jitters in the community. The Malay/Muslim community was worried that they would be discriminated against, while non-Muslims grew suspicious of their Muslim neighbours.
 
-This growing distrust threatened to disrupt Singapore’s multiracial, multi-religious society, prompting then Prime Minister Goh Chok Tong to promote open and public dialogues. He believed that the best way to address pockets of disquiet within society was for the community itself to take action.
+This growing distrust threatened to disturb Singapore’s multiracial, multi-religious society, prompting then-PM Goh Chok Tong to promote open and public dialogue. He believed that the best way to address pockets of disquiet within society was for the community to take action.
 
 ![Alt text for image on Isomer site](/images/society/examples/social-quotes-17-2.png)
 
