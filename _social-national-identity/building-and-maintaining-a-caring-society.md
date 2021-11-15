@@ -26,7 +26,7 @@ For example, steps have been taken to address the disproportionate number of stu
 
 Advancement in schools is also based on merit, using results from national examinations. Tuition grants and financial aid are available to ensure education remains accessible to those in financial need. These policies help create a school environment where students from varied backgrounds can interact. 
 
-Many attempts have also been made to tear down the metaphorical fences between those living in public and private homes. For example, in June 1998, the People’s Association formed Neighbourhood Committees within private estates to promote active citizenry and neighbourliness, as what the Residents’ Committees in HDB zones do. Joint activities for both groups have been regularly organised since then.
+Many attempts have also been made to tear down the metaphorical fences between those living in public and private homes. For example, in June 1998, the People’s Association (PA) formed Neighbourhood Committees within private estates to promote active citizenry and neighbourliness, as what the Residents’ Committees in HDB zones do. Joint activities for both groups have been regularly organised since then.
 
 ![Alt text for image on Isomer site](/images/society/caring/social-images-15-2.png)
 
