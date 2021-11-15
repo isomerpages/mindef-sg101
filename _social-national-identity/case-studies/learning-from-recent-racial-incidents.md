@@ -9,9 +9,9 @@ Every Racial Harmony Day, we remember the Maria Hertogh racial riots. It has bee
 
 #### Make Curry, Not War
 
-In 2011, curry became the hot topic among Singaporeans. The incident, known as the “curry incident”, was sparked off when a Chinese family complained about the strong smell of curry coming from their Indian neighbour’s home.
+In 2011, curry became the hot topic among Singaporeans. The “curry incident” was sparked off when a Chinese family complained about the strong smell of curry coming from their Indian neighbour’s home.
 
-With the help of the Community Mediation Centre (CMC), both families voluntarily eventually agreed to compromise: the Indian family would cook curry only when their Chinese neighbours were out of the house, and the Chinese neighbours would try their curry. The incident led to positive ground-up campaigns and reactions in support of the Indian family, such as the “Cook and Share a Pot of Curry” campaign. In contrast, negative actions such as uploading a video stereotyping mainland Chinese immigrants and mocking them simply leads to more unhappiness and does not solve the issue.
+With the help of the Community Mediation Centre (CMC), both families voluntarily eventually agreed to compromise: the Indian family would cook curry only when their Chinese neighbours were out of the house, and the Chinese neighbours would try their curry. The incident led to positive ground-up campaigns and reactions in support of the Indian family, such as the “Cook and Share a Pot of Curry” campaign. In contrast, negative actions such as uploading a video stereotyping mainland Chinese immigrants and mocking them simply leads to more unhappiness and does not help overcome misunderstandings nor resolve conflict. 
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/ExZxfJ37Hww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -116,7 +116,3 @@ The amendment was motivated by several events, such as the demonstrations in Ind
  <li> The consolidation strengthens the mandate of the MHRA and ensures racial harmony is legally protected against issues that may threaten racial harmony</li>
 </ul> 
 </div>
-
-
-
-
