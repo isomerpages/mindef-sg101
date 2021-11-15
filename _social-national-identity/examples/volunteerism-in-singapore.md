@@ -9,9 +9,9 @@ As Singapore approached the second millennium, it faced a new crisis: an ageing 
 
 The average life expectancy of a Singaporean had increased to 78 in 2000, and in the same year, birth rates had plunged to just 1.6. The number of seniors living here is also set to double to around 900,000 by 2030.
 
-The burden on the working population will only increase, even as its size shrinks. Getting able-bodied seniors to help their peers in need is one way around the problem. And so elderly volunteerism took root in Singapore.
+The burden on the working population will only increase. As getting able-bodied seniors to help their peers in need is one way around the problem, elderly volunteerism has taken root in Singapore.
 
-In countries like the United States, it is common for the elderly in states like New York and Louisiana to help others with tasks such as financial management and handicrafts under a movement called Retired and Senior Volunteer Programme (RSVP).
+In countries like the United States, it is common for the elderly in states like New York and Louisiana to help others with tasks such as financial management and handicrafts as part of the Retired and Senior Volunteer Programme (RSVP).
 
 In 1998, then Prime Minister Goh Chok Tong, impressed by the success and influence of the movement, launched the Singapore chapter of RSVP.
 
