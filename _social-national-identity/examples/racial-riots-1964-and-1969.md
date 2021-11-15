@@ -33,6 +33,6 @@ The election was preceded by outbreaks of racial incidents that created a tense 
 
 On 13 May, just before UMNO’s procession, fist fights broke out in Setapak, in KL between a group of Malays and Chinese bystanders who taunted them, which escalated into bottle and stone throwing. Violence soon spread across the city and across the border into Singapore.
 
-On 31 May, fuelled by rumours of the clash, Malay mobs and Chinese triads in Singapore began attacking one another. The seven-day clashes left four people dead and some 80 injured. However, the government was quick to contain the riots before they could spread. The Internal Security Department (ISD) stepped in to quash the conflicts together with the police.
+On 31 May, fuelled by rumours of the clash, Malay mobs and Chinese triads in Singapore began attacking one another. The seven-day clashes left four people dead and some 80 injured. However, the government was quick to contain the riots before they could spread. The Internal Security Department (ISD) stepped in with the police to suppress the conflict.
 
 ![Alt text for image on Isomer site](/images/society/examples/racialharmony-05-2.png)
