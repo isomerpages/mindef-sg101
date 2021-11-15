@@ -44,7 +44,7 @@ Total funding for special education schools have also risen by about 40 per cent
 
 [![Alt text for image on Isomer site](/images/society/caring/OpenDoc%20Banners-11.gif)](/social-national-identity/examples/striving)
 
-While the government’s social provisions have broadened, they remain anchored in the basic principles of self-reliance, individual effort and personal responsibility. As former DPM Tharman famously told a BBC presenter on 7 May 2015, who had pressed him on the concept of a safety net: “I believe in the notion of a trampoline.” Social assistance in Singapore is not supposed to provide for a comfortable life but is meant to spur citizens on to get back on their feet.
+While the government’s social provisions have broadened, they remain anchored in the basic principles of self-reliance, individual effort and personal responsibility. As former DPM Tharman famously told a BBC presenter on 7 May 2015, when pressed about the concept of a safety net, “I believe in the notion of a trampoline.” Social assistance in Singapore is not supposed to provide a comfortable life but to spur citizens on to get back on their feet.
 
 Relying on government support alone is also insufficient, and it is up to the individual to take initiative and put in the hard work. PM Lee in his 2012 National Day Rally speech noted that there a need to “maintain a sense of mutual responsibility amongst ourselves and especially on the part of those who are more successful than others”.
 
