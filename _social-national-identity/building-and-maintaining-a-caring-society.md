@@ -24,7 +24,7 @@ To enhance social mobility within Singapore, many government policies are target
 
 For example, steps have been taken to address the disproportionate number of students from well-off families in brand-name schools. Since 2014, all primary schools are required to keep at least 40 places for children with no connections to the school. From 2019, one-fifth of places in affiliated secondary schools are set aside for students who do not benefit from affiliation.
 
-Advancement in schools is also based on merit, using results from national examinations. Tuition grants and financial aid are available to ensure education remains accessible to those in financial need. These policies help create a school environment where most students come from a mix of backgrounds and are given opportunities to mingle, regardless of socioeconomic status.
+Advancement in schools is also based on merit, using results from national examinations. Tuition grants and financial aid are available to ensure education remains accessible to those in financial need. These policies help create a school environment where students from varied backgrounds can interact. 
 
 Many attempts have also been made to tear down the metaphorical fences between those living in public and private homes. For example, in June 1998, the People’s Association formed Neighbourhood Committees within private estates to promote active citizenry and neighbourliness, as what the Residents’ Committees in HDB zones do. Joint activities for both groups have been regularly organised since then.
 
