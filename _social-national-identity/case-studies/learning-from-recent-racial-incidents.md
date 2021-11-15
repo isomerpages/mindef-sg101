@@ -20,7 +20,8 @@ In 2012, Singaporean Amy Cheong made the headlines after she launched a racist t
 ![Alt text for image on Isomer site](/images/society/case-studies/Screenshot%202020-0.png)
 
 As Singapore welcomes a greater diversity of cultures, these two incidents shows us how communication and consideration for other cultures can go a long way in building a harmonious society.
-Fake News, Real Emotions
+
+#### Fake News, Real Emotions
 
 In 2016, a couple running the socio-political website, The Real Singapore, was charged for publishing incendiary fake news. One particular article about a Filipino’s fictitious complaints over Thaipusam fanned resentment against the Pinoy community here. Ai Takagi and Yang Kaiheng, who were jailed for 10 months and eight months respectively, published the articles as early as 2013. Their site has since been shut down.
 
