@@ -23,11 +23,11 @@ However, peace was short-lived. Widespread communal riots broke out between the 
 
 Curfews were again imposed, and the police and military mobilised. On 14 September, 12 days later, calm was established. By then, 13 people had died and another 106 were injured.
 
-The target was not just the Singapore Chinese, but also the Malay PAP leaders to pressure them into endorsing the primacy of Malays. But Mr Othman and his Malay comrades stood firm and kept the dream of a multiracial society alive.
+The target was not just the Singapore Chinese, but also the Malay PAP leaders to pressure them into endorsing the primacy of Malays. But Othman Wok and his Malay comrades stood firm and kept the dream of a multiracial society alive.
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/P9_l4Vp1wLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In 1969, riots between Malays and Chinese erupted again, spilling over to Singapore from Kuala Lumpur (KL) where fighting had broken out as a result of unhappiness surrounding the general elections results and rumours pertaining to the Chinese and Malays.
+In 1969, riots between Malays and Chinese erupted again, spilling over to Singapore from Kuala Lumpur where fighting had broken out as a result of unhappiness surrounding the general elections results and rumours pertaining to the Chinese and Malays.
 
 The election was preceded by outbreaks of racial incidents that created a tense atmosphere. A Malay political worker had been killed by a Chinese gang in Penang, while a Chinese youth was shot and killed by police in Kuala Lumpur. While election day passed without incident, the parade by winning opposition parties DAP and Gerakan were alleged to be highly provocative, with non-Malays taunting the Malays. They were seen as an attack on Malay supremacy, though the overall election results still favoured the Malay.
 
