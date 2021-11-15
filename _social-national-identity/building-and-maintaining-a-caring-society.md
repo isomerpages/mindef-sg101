@@ -6,17 +6,17 @@ permalink: /social-national-identity/caringsociety
 
 ![Alt text for image on Isomer site](/images/society/caring/social-banner-03.png)
 
-As Singapore progresses, new fault lines on issues such as class, immigration and LGBTQ (lesbian, gay, bisexual and transgender) have emerged.
+As Singapore progresses, new fault lines on issues such as class, immigration and identity have emerged.
 
-In a 2017 study on social capital in Singapore where 3,000 Singapore citizens and permanent residents were interviewed, the Institute of Policy Studies (IPS) concluded that the sharpest social divisions may now be based on class, instead of race or religion. The study found that Singaporeans who live in public housing have fewer than one friend who lives in private housing, and that people who study in elite schools also tend to be less close to those in non-elite schools, and vice versa. It was also observed that while the respondents could easily name a friend of a different gender or age, and even race and religion, they were unable to name someone from another class.
+In a 2017 study on social capital in Singapore where 3,000 Singapore citizens and permanent residents were interviewed, the Institute of Policy Studies (IPS) concluded that the sharpest social divisions may now be based on class, instead of race or religion. The study found that Singaporeans who live in public housing have fewer than one friend who lives in private housing, and that people who study in elite schools also tend to be less close to those in non-elite schools, and vice-versa. It was also observed that while the respondents could easily name a friend of a different gender or age, and even race and religion, they were unable to name someone from another class.
 
-This is supported by a report by the World Economic Forum released in January 2020, where Singapore was ranked 20th out of 82 countries surveyed on social mobility. Singapore performed poorly on fair wage distribution and social protection, ranking 51st and 61st respectively.
+Likewise, a report by the World Economic Forum released in January 2020 ranked Singapore 20th out of 82 countries surveyed on social mobility. Singapore performed poorly on fair wage distribution and social protection, ranking 51st and 61st respectively.
 
 This is a problem for Singapore. Professor Tommy Koh, a veteran diplomat and special adviser to the IPS, said at a dialogue in 2018, that despite Singapore ranking among the top in terms of per-capita income, there are still many Singaporeans who live in poverty. His research estimates that 100,000 to 140,000 households lack the means to pay for their basic human needs. Poverty is very much a real issue in Singapore. Singapore’s leaders have acknowledged this potential time bomb of social inequality among Singaporeans, and that something needs to be done.
 
 ![Alt text for image on Isomer site](/images/society/caring/social-quotes-11-3.png)
 
-PM Lee also spoke about the issue of inequality in a dialogue in 2018, noting that disgruntlement about this issue was not about coming from different backgrounds, rich or poor. On the contrary, the unhappiness arose if they were not given opportunities to work hard and improve their lives, and were instead stuck in a poverty cycle. Using the previous generation as an example, PM Lee said that they worked hard for a better living, and though it was tough, because they were given opportunities to improve their lives, they were still satisfied.
+PM Lee also spoke about inequality in a dialogue in 2018, noting that Singaporeans' displeasure came from not given opportunities to work hard and improve their lives, and felt stuck in a poverty cycle. Using the previous generation as an example, PM Lee said that they worked hard for a better living, and though it was tough, because they were given opportunities to improve their lives, they were still satisfied.
 
 ![Alt text for image on Isomer site](/images/society/caring/social-quotes-12-2.png)
 
