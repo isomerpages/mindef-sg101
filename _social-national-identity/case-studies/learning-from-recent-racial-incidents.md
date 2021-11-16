@@ -29,7 +29,7 @@ In 2016, a couple running the socio-political website, The Real Singapore, was c
 
 Then, in 2019, a post was uploaded to Facebook group “Complaint Singapore” claiming that police officers from the Public Transport Security Command (Transcom) unit practiced racial discrimination and targeted people by race. In the video, a Malay man was seen speaking aggressively to police officers, accusing them of checking mostly only Malays, but not other races.
 
-![Alt text for image on Isomer site](/images/society/case-studies/Screenshot%20202.png)Screengrab of video, full video can be viewed [here](https://www.reddit.com/r/singapore/comments/cb956x/man_refuses_to_be_screened_by_transcom/).
+![Alt text for image on Isomer site](/images/society/case-studies/Screenshot%20202.png)Image: Screengrab / Full video can be seen [here](https://www.reddit.com/r/singapore/comments/cb956x/man_refuses_to_be_screened_by_transcom/)
 
 The post led to many different responses from the public, with some agreeing that the police are biased, screening more people from a particular race in supposedly random checks, while others disagreed and thanked the police officers for their work.
 
