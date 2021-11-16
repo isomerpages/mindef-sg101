@@ -31,4 +31,5 @@ Instead, plans were drawn up to protect and preserve the biodiversity at Chek Ja
 
 Over the years, many groups of Singaporeans have also volunteered for coastal clean-ups and to preserve the biodiversity in Chek Jawa. It is a space that has enabled environmental stewardship, particularly amongst the youth, and helped cultivate love and appreciation for nature. It is this passionate activism that has also helped protect wildlife in the fragile ecospheres in the Chek Jawa inter-tidal zones.
 
-![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-17.png)Images: Environmental Activism / Climate Conversations and International Coastal Cleanup Singapore
+![Alt text for image on Isomer site](/images/chekjawa2.png)
+Image: NParks
