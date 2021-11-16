@@ -46,15 +46,17 @@ The economic rationale for a merger with Malaya, North Borneo and Sarawak to for
 
 However, this was complicated on several fronts.
 
-First, the strong presence of communism throughout the 1960s engendered a high level of industrial unrest in Singapore.
+First, the strong presence of communism throughout the 1960s led to a high level of industrial unrest in Singapore.
 
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
 
-<p>In 1961, the left-wing arm of the ruling People’s Action Party broke off to form the Barisan Sosialis, whose objective was to topple the government. As part of their strategy, the communists instigated workers to wreak havoc on the economy. From 1963 to 1968, Singapore lost some 35,000 to 45,000 man-hours each year to strikes. </p>
+<p>In 1961, left-wing members of the ruling People’s Action Party who had been expelled from the party formed the Barisan Sosialis, which became the main opposition party. It campaigned against merger and, in the years after independence, boycotted parliament until 1972.</p>
+	
+<p> In As part of their strategy, the communists instigated workers to wreak havoc on the economy. From 1963 to 1968, Singapore lost some 35,000 to 45,000 man-hours each year to strikes. </p>
 </div>
  
- This was severely disruptive to the economy, making Singapore unattractive to foreign investors. “The running joke was that a factory would be set up on Monday and all sorts of banners screaming ‘Exploitation of Workers’ would be hung up by Friday,” shared Mr I.F. Tang, who was part of the UN team of experts.
+This was severely disruptive to the economy, making Singapore unattractive to foreign investors. “The running joke was that a factory would be set up on Monday and all sorts of banners screaming ‘Exploitation of Workers’ would be hung up by Friday,” shared I.F. Tang, who was part of the UN team of experts.
 
 Furthermore, in 1963, the newly formed Federation of Malaysia came under attack by Indonesia. Back then, Indonesia believed that Malaysia was formed to contain Indonesian influence in the region. As such, it embarked on [Konfrontasi](https://eresources.nlb.gov.sg/history/events/126b6b07-f796-4b4c-b658-938001e3213e), a low-intensity confrontation between Indonesia and Malaysia. 
 
