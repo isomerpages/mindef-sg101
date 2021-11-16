@@ -46,15 +46,7 @@ The economic rationale for a merger with Malaya, North Borneo and Sarawak to for
 
 However, this was complicated on several fronts.
 
-First, the strong presence of communism throughout the 1960s led to a high level of industrial unrest in Singapore.
-
-
-<div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
-
-<p>In 1961, left-wing members of the ruling People’s Action Party who had been expelled from the party formed the Barisan Sosialis, which became the main opposition party. It campaigned against merger and, in the years after independence, boycotted parliament until 1972.</p>
-	
-<p> In As part of their strategy, the communists instigated workers to wreak havoc on the economy. From 1963 to 1968, Singapore lost some 35,000 to 45,000 man-hours each year to strikes. </p>
-</div>
+The years after WWII were highly unstable, and Singapore and the rest of British Malaya saw violent anti-colonial and communist insurgency. There were labour strikes, for instance, particularly from 1963 to 1968.
  
 This was severely disruptive to the economy, making Singapore unattractive to foreign investors. “The running joke was that a factory would be set up on Monday and all sorts of banners screaming ‘Exploitation of Workers’ would be hung up by Friday,” shared I.F. Tang, who was part of the UN team of experts.
 
