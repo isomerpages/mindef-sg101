@@ -11,7 +11,10 @@ Singaporeans play a critical role in ensuring that our limited resources are car
 
 <b>Example: Water</b>
 
-![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/image024.png)
+| ![Alt text for image on Isomer site](/images/watercamp1983.jpeg)| ![Alt text for image on Isomer site](/images/watercamp2.jpeg) | 
+| -------- | -------- | 
+| 1983: Let's not waste precious water  | 1995: Let's save precious water    | 
+
 
 These campaigns have helped reduce Singaporeans’ water usage in recent years.
 
