@@ -9,7 +9,9 @@ While many today consider Singlish part of our national identity, this has not a
 
 #### The History of English in Singapore
 
-English was first introduced to Southeast Asia when the British colonial settlers arrived in the late 1700s, arriving on Singapore’s shores in 1819. However, Malay remained the lingua franca even up until the beginning of the 1900s. In the early 1900s, with the establishment of institutes of higher learning that taught in English, proficiency in English became key to social mobility in terms of further education and employment opportunities. As a result, English took on greater and greater importance, such that at the end of British colonial rule, English had become a language of prestige and was often used as a lingua franca between different ethnic groups. This more widespread use of English led to the birth of a colloquial variant used in informal domains, influenced by the different languages and dialects spoken – also known as Singlish!
+English was first introduced to Southeast Asia when the British colonial settlers arrived in region in the late 1700s, and eventually arrived on Singapore’s shores in 1819. However, Malay remained the lingua franca even up until the beginning of the 1900s. 
+
+In the early 1900s, institutes of higher learning that taught in English were established. Consequently, proficiency in English became key to social mobility in terms of further education and employment opportunities. By extension, English took on greater and greater importance, such that at the end of British colonial rule, English had become a language of prestige and was often used as a lingua franca between different ethnic groups. This more widespread use of English led to the birth of a colloquial variant used in informal domains, influenced by the different languages and dialects spoken – also known as Singlish!
 
 In 1960, a year after the People’s Action Party (PAP) came into power, it implemented a bilingualism policy that essentially made learning English mandatory in primary schools, followed by secondary schools in 1966. Additionally, in post-independence Singapore, English was established as the official lingua franca, due its ethnic neutrality, as well as its economic benefits, in terms of international trade and access to English-language educational resources.
 
@@ -38,5 +40,3 @@ Despite these glowing endorsements, Singlish is far from established as part of 
 Although Singlish still lacks acknowledgement as part of Singapore’s Intangible Cultural Heritage, its pervasiveness and status amongst Singaporeans cannot be ignored. Although many Singaporeans today fail to identify with Singlish the most, Singlish remains part of the sounds of Singapore, that lets Singaporeans arriving in Singapore know that they are home. As the world starts to take notice of our home-grown dialect, maybe it’s time for Singaporeans too to start thinking about protecting and preserving Singlish as something valuable to our culture and identity.
 
 ![Alt text for image on Isomer site](/images/society/case-studies/82851581_3431911386850802_689134705303355392_n-2.png)
-
-
