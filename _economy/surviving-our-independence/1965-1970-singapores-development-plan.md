@@ -77,7 +77,7 @@ Another key priority for the government was to stamp out the communist elements 
 
 ![Alt text for image on Isomer site](/images/economy/Screenshot%202020-10-22aaadad.png)
 
-The National Trades Union Congress was founded in 1961, after the communist elements broke away from the PAP. Over the course of three years, NTUC battled with the communist-supported Singapore Association of Trade Unions for influence over workers. In 1968, the government amended the Industrial Relations Act, which was aimed at reducing the number of strikes in the economy.
+The National Trades Union Congress was founded in 1961, after the communist elements broke away from the PAP. Over the course of three years, NTUC battled with the Singapore Association of Trade Unions for influence over workers. In 1968, the government amended the Industrial Relations Act, which was aimed at reducing the number of strikes in the economy.
 
 ![Alt text for image on Isomer site](/images/economy/full_Finance_Minister_Goh_Keng_Swee.jpg)
 (Image:[ NTUC](http://ms50.ntuc.org.sg/1960s/))
