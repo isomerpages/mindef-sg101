@@ -58,7 +58,7 @@ When it came to the 33-hectare Dover Forest, which had been slated to be cleared
 
 What is key is that the answers to our urban development questions and the outcomes we arrive at are never straightforward. Minister for National Development Desmond Lee said that Singapore will need to continue balancing the needs of development and conservation as part of the long-term planning process. Two ways of doing so are to minimise and mitigate environmental impacts, as well as incorporate nature into urban developments where possible. For example, housing developments in Tengah complement the natural environment by retaining as much of the existing topography as possible. This improves the balance between maintaining natural areas and meeting development needs.
 
-![Alt text for image on Isomer site](/images/infrastructure/case-studies-urban-planning/upcs-18.png)Image: Desmond Lee / Facebook
+![Alt text for image on Isomer site](/images/tengahtown.png)Image: HDB
 
 Singapore has also retained ecologically important green spaces that were initially set aside for other purposes. For instance, Mandai Mangrove and Mudflat was initially designated for industrial use. However, it was eventually retained after biodiversity surveys and ecological modelling were conducted, and will open as a nature park in 2022.
 
