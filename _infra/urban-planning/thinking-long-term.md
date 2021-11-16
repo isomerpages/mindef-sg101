@@ -35,7 +35,7 @@ To this end, the Government has taken an integrated and long-term approach to ur
 
 As the strategic land use and transportation plan that provides broad guidelines for Singapore’s physical development over the next 40 to 50 years, the Concept Plan provides the overall strategy. Its goal is to ensure sufficient space to support long-term population growth, economic development, and a good living environment.
 
-![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-6.png)Image: [Singapore Concept Plans](http://www.scp.com/page.aspx?s=en&cid=19&id=450)
+![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-6.png)Image: Meng, Weiwei & You, Tingting & Duan, Yan & He, Jia. (2021). Planning Practice of Coordinated Development of Urban Traffic and Land Use
 
 Singapore’s first Concept Plan was published in 1971. The plan was a mammoth effort, involving more than 100 local and overseas urban planners, architects, civil servants and academics between 1967 and 1969. It laid the foundations of the land needs for the young nation, setting out the principles for developing housing estates, recreational spaces and industrial estates. Its legacies continue to this day, more than 50 years after the plan was published.
 
