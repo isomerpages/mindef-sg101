@@ -14,7 +14,8 @@ Image: MOT
 
 Beginning from the 1950s, buses were the primary mode of public transport. However, in 1967, the State and City Planning Project, which had been initiated that same year, proposed building a rail system to develop Singapore’s public transport system. This rail proposal was later incorporated into the 1971 Concept Plan to serve a rapidly growing population and ease traffic congestion problems.
 
-Great Mass Rapid Transit (MRT) Debate of the project. Expected to cost S$5 billion, it was to be the most expensive public project undertaken by Singapore at that time. The ‘Great MRT Debate’ ensued, with founding Prime Minister Lee Kuan Yew and then-Finance Minister Goh Keng Swee on opposing sides. While the PM Lee supported the MRT plan as it would bolster economic and social growth, Dr Goh was unsure if the high costs would make it a worthy investment.
+##### Great Mass Rapid Transit (MRT) Debate of the project.
+Expected to cost S$5 billion, it was to be the most expensive public project undertaken by Singapore at that time. The ‘Great MRT Debate’ ensued, with founding Prime Minister Lee Kuan Yew and then-Finance Minister Goh Keng Swee on opposing sides. While the PM Lee supported the MRT plan as it would bolster economic and social growth, Dr Goh was unsure if the high costs would make it a worthy investment.
 
 Instead, Dr Goh advocated for a cheaper all-bus system. However, the 1982 Comprehensive Traffic Study later deemed that Singapore’s limited land could not cater for the amount of road space that an all-bus system required.
 
