@@ -5,7 +5,7 @@ third_nav_title: Case Studies
 ---
 #### COVID-19
 
-In any crisis, we can either choose to band together, or draw apart. The COVID-19 pandemic and its consequences, termed “the crisis of a generation” by our Prime Minister Lee Hsien Loong, is no exception. Let us examine some of these incidents to see what we can learn from them, to help us overcome future crises together.
+In any crisis, we can either choose to band together, or draw apart. The COVID-19 pandemic and its consequences, termed “the crisis of a generation” by PMLee Hsien Loong, is no exception. Let us examine some of these incidents to see what we can learn from them, to help us overcome future crises together.
 
 #### Blaming others in times of uncertainty
 
