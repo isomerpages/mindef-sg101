@@ -15,7 +15,7 @@ With the help of the Community Mediation Centre (CMC), both families voluntarily
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/ExZxfJ37Hww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In 2012, Singaporean Amy Cheong made the headlines after she launched a racist tirade against Malays and their wedding practices. She disparaged Malays for holding weddings at void decks and mocked their divorce rate. She was promptly fired from work and left Singapore after being shamed and threatened by netizens. A police report was made against her, but she was let off with a stern warning after issuing a public apology.
+In 2012, Singaporean Amy Cheong made the headlines after she launched a racist tirade against Malays and their wedding practices. She disparaged Malays for holding weddings at void decks and mocked the divorce rates in the community. She was promptly fired from work and left Singapore after being shamed and threatened by netizens. A police report was made against her, but she was let off with a stern warning after issuing a public apology.
 
 ![Alt text for image on Isomer site](/images/society/case-studies/Screenshot%202020-0.png)
 
@@ -23,7 +23,7 @@ As Singapore welcomes a greater diversity of cultures, these two incidents shows
 
 #### Fake News, Real Emotions
 
-In 2016, a couple running the socio-political website, The Real Singapore, was charged for publishing incendiary fake news. One particular article about a Filipino’s fictitious complaints over Thaipusam fanned resentment against the Pinoy community here. Ai Takagi and Yang Kaiheng, who were jailed for 10 months and eight months respectively, published the articles as early as 2013. Their site has since been shut down.
+In 2016, a couple running the socio-political website, The Real Singapore, was charged for publishing incendiary fake news. One particular article about a Filipino’s fictitious complaints over Thaipusam fanned resentment against the Pinoy community here. Ai Takagi and Yang Kaiheng, published the articles from 2013. They were jailed for 10 months and eight months respectively, and their site has since been shut down.
 
 ![Alt text for image on Isomer site](/images/society/case-studies/trsthaipusam.jpg)
 
