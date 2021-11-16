@@ -50,7 +50,7 @@ The years after WWII were highly unstable, and Singapore and the rest of British
  
 This was severely disruptive to the economy, making Singapore unattractive to foreign investors. “The running joke was that a factory would be set up on Monday and all sorts of banners screaming ‘Exploitation of Workers’ would be hung up by Friday,” shared I.F. Tang, who was part of the UN team of experts.
 
-Furthermore, in 1963, the newly formed Federation of Malaysia came under attack by Indonesia. Back then, Indonesia believed that Malaysia was formed to contain Indonesian influence in the region. As such, it embarked on [Konfrontasi](https://eresources.nlb.gov.sg/history/events/126b6b07-f796-4b4c-b658-938001e3213e), a low-intensity confrontation between Indonesia and Malaysia. 
+Furthermore, in 1963, the newly formed Federation of Malaysia came under attack by Indonesia. Back then, Indonesia believed that Malaysia was formed to contain Indonesian influence in the region. Thus, it embarked on [Konfrontasi](https://eresources.nlb.gov.sg/history/events/126b6b07-f796-4b4c-b658-938001e3213e), a low-intensity confrontation between Indonesia and Malaysia. 
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
 
@@ -68,7 +68,7 @@ In addition, Singapore's union with Malaysia was also troubled from the start.
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
 
-<p> Then-Malaysian Prime Minister Tunku Abdul Rahman and then-Prime Minister Lee fundamentally disagreed on what kind of society they wanted. While PM Lee insisted on a society where all races were treated equally, Tunku believed in the primacy of the Malays in Malaysia. Tensions boiled over to the streets as racial violence exploded across the Federation. </p>
+<p> Then-Malaysian Prime Minister Tunku Abdul Rahman and then-Prime Minister Lee fundamentally disagreed on what kind of society they wanted. While PM Lee insisted on a society where all races were treated equally, Tunku believed in the primacy of the Malays in Malaysia. At this time, racial violence was also rife across Malaysia.</p>
 
 <p>Moreover, the anticipated economic benefits from the merger were less than expected. The increase of the manufacturing share of real GDP was modest – from 16.9% in 1960 to 19.% in 1965. Real GDP grew at an annual compound rate of 5.7% during this period. Some 21,000 jobs were created in manufacturing, but the unemployment percentage still hovered in the double digits. This persuaded then-Finance Minister Goh Keng Swee that the benefits of the common market were not as substantial as he once believed.</p>
 </div>
