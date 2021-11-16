@@ -13,7 +13,7 @@ English was first introduced to Southeast Asia when the British colonial settler
 
 In the early 1900s, institutes of higher learning that taught in English were established. Consequently, proficiency in English became key to social mobility in terms of further education and employment opportunities. By extension, English took on greater and greater importance, such that at the end of British colonial rule, English had become a language of prestige and was often used as a lingua franca between different ethnic groups. This more widespread use of English led to the birth of a colloquial variant used in informal domains, influenced by the different languages and dialects spoken – also known as Singlish!
 
-In 1960, a year after the People’s Action Party (PAP) came into power, it implemented a bilingualism policy that essentially made learning English mandatory in primary schools, followed by secondary schools in 1966. Additionally, in post-independence Singapore, English was established as the official lingua franca, due its ethnic neutrality, as well as its economic benefits, in terms of international trade and access to English-language educational resources.
+In 1960, a year after the People’s Action Party (PAP) came into power, it implemented a bilingualism policy that made learning English mandatory in primary schools. This was followed by secondary schools in 1966. English was established as the official lingua franca in post-independence Singapore, due its ethnic neutrality, as well as the economic benefits it allowed in terms of international trade and access to English-language educational resources.
 
 #### The War Against Singlish – The Speak Good English Movement
 
