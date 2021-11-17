@@ -49,6 +49,6 @@ This culminated in Singapore’s first national productivity campaign, which was
 </div>
 
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/img0106-2.jpg)
-(Image: [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/eb75b4db-1161-11e3-83d5-0050568939ad))
+Image: [MICA/NAS](https://www.nas.gov.sg/archivesonline/photographs/record-details/eb75b4db-1161-11e3-83d5-0050568939ad)
 
 The economy performed well in the 1970s, with real GDP growing an average of 9.2% yearly between 1970 and 1980. With a strong manufacturing base and an increasingly educated workforce, the basic building blocks of Singapore’s modern city-state economy were put in place.
