@@ -28,7 +28,7 @@ The economic rationale behind the courting of foreign investors was twofold:
 2. Second, our goal was to eventually enable knowledge transfer from foreign companies to local enterprises. This would enable local companies to acquire the necessary technical expertise to start building local industries in the longer term.
 
 ![Alt text for image on Isomer site](/images/economy/img0062.jpg)
- (Image: Opening Ceremony of Shell Refinery at Pulau Bukom, 1961; [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/1190c3fe-42cf-11e4-859c-0050568939ad))
+ Image: Opening Ceremony of Shell Refinery at Pulau Bukom, 1961; [MICA/NAS](https://www.nas.gov.sg/archivesonline/photographs/record-details/1190c3fe-42cf-11e4-859c-0050568939ad)
  
  ![Alt text for image on Isomer site](/images/economy/Winsemius%20on%20Shell%20and%20Esso.png)
  
@@ -64,7 +64,7 @@ Communication services such as postal, telegraph, telephone, and telex services 
 
 #### Focusing on Education and Training
 ![Alt text for image on Isomer site](/images/economy/img0018.jpg)
-(Image: Training ship for seaman, 1964; [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/2be89202-1162-11e3-83d5-0050568939ad))
+Image: Training ship for seaman, 1964; [MICA/NAS](https://www.nas.gov.sg/archivesonline/photographs/record-details/2be89202-1162-11e3-83d5-0050568939ad)
 
 As Singapore began vocational training in the early 1960s, by 1965 we had a pool of semi-skilled workers who could support the nation’s growing industrialisation. We continued putting emphasis on training and developing human capital to stay relevant.
 
@@ -91,7 +91,7 @@ In 1969, NTUC held the “Modernisation of the Labour Movement” seminar, a for
 </div>
 
 ![Alt text for image on Isomer site](/images/economy/Screenshot%202020-10-28%20at.png)
-(Image: The introduction of tripartism in Singapore resulted in a marked decrease in the number of work stoppages and man-days lost by 1968; Singapore Year Book 1968 via [NAS](https://www.nas.gov.sg/1stCab/PanelPDF/Section%203%20-%20Economy%20Miracle%2017.pdf))
+Image: The introduction of tripartism in Singapore resulted in a marked decrease in the number of work stoppages and man-days lost by 1968; Singapore Year Book 1968;[NAS](https://www.nas.gov.sg/1stCab/PanelPDF/Section%203%20-%20Economy%20Miracle%2017.pdf)
 
 After the introduction of tripartism, the number of labour strikes decreased from 10 in 1972 to one in 1977. There were none from 1997 to 2012. In this same period, unemployment fell in Singapore and foreign direct investment rose.
 
