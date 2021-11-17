@@ -6,7 +6,7 @@ third_nav_title: Growing Our Economy
 ## Growing Our Economy
 #### The 1970s: Upgrading the Economy
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/02a_19980000707_-_0025-lr_qdsqz3o.jpg)
-(Image: [Public Service Division](https://www.psd.gov.sg/heartofpublicservice/our-institutions/making-a-living-ensuring-growth/))
+Image: [PSD](https://www.psd.gov.sg/heartofpublicservice/our-institutions/making-a-living-ensuring-growth/)
 
 Singapore successfully industrialised from the 1960s, leading to strong economic growth in the following years. 
 
@@ -25,7 +25,7 @@ At the same time, countries such as Indonesia and Malaysia were just firing up t
 
 In order to keep growing, Singapore had to adjust its economic strategy away from labour-intensive industries and into higher-value goods. This would ensure that Singapore’s workers continue to see a flow of jobs and income.
 
-![Alt text for image on Isomer site](/images/economy/growing-our-economy/img0014.jpg)(Image: Esso Refinery at Pulau Ayer Chawan, 1971; [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/d78f7c26-1161-11e3-83d5-0050568939ad))
+![Alt text for image on Isomer site](/images/economy/growing-our-economy/img0014.jpg)Image: Esso Refinery at Pulau Ayer Chawan, 1971; [MICA/NAS](https://www.nas.gov.sg/archivesonline/photographs/record-details/d78f7c26-1161-11e3-83d5-0050568939ad)
 
 In 1973, then-Finance Minister Mr Hon Sui Sen announced a two-pronged approach to tackle the labour shortage in Singapore. One, attract new foreign investment in higher-value manufacturing, such as petrochemicals and precision engineering. Two, to upgrade and upskill workers across the economy in a bid to raise productivity.
 
