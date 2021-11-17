@@ -16,7 +16,7 @@ We took on the challenge and emerged stronger than before.
 **Growing the Financial Sector**
 
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/img0052.jpg)
-Skyscrapers at Raffles Place, 1980s; [G P Reichelt Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/bcffdc1f-3c8a-11e4-859c-0050568939ad))
+Imag: Skyscrapers at Raffles Place, 1980s; [G P Reichelt Collection/NAS](https://www.nas.gov.sg/archivesonline/photographs/record-details/bcffdc1f-3c8a-11e4-859c-0050568939ad))
 
 By the 1980s, one area that had become increasingly important to Singapore was the financial sector. In the late 1960s, the development of the Asian Dollar Market helped establish Singapore as a leading foreign exchange market after London New York and Tokyo.
 
@@ -29,7 +29,7 @@ Throughout the 1980s and 90s, Singapore also intensified its efforts to develop 
 **Growing the Tourism Sector**
 
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/1186518.jpg)
-(Image: Indoor Stadium and National Stadium in the early 1990s via [Roots.sg](https://www.roots.gov.sg/Collection-Landing/listing/1186518))
+Image: Indoor Stadium and National Stadium in the early 1990s; [Roots.sg](https://www.roots.gov.sg/Collection-Landing/listing/1186518))
 
 In 1981, the government identified the tourism industry as one of the pillars of growth in its 10-year economic development plan. In 1984, a tourism task force headed by then Minister of State for Trade and Industry Wong Kwei Cheong was convened to look at revitalising and promoting Singapore as a major tourist destination. 
 
@@ -40,7 +40,7 @@ From then, tourism became one of Singapore's key drivers of economic growth.
 **Strengthening the Manufacturing Sector**
 
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/img0109.jpg)
-(Staff of Singatronics assembling consumer electronic products, 1987; [Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/fb3488b3-1161-11e3-83d5-0050568939ad))
+Image: Staff of Singatronics assembling consumer electronic products, 1987; [MICA/NAS](https://www.nas.gov.sg/archivesonline/photographs/record-details/fb3488b3-1161-11e3-83d5-0050568939ad))
 
 Throughout the 1980s, the government also continued the the effort to upgrade our industries and help Singapore move up the value chain. 
 
@@ -58,7 +58,7 @@ For one, the government embarked on an ambitious plan to develop a petrochemical
 **Developing an External Wing**
 
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/Screenshot%202020-10-22%20at.png)
-(Image: Suzhou Industrial Park via [Surbana Jurong](https://surbanajurong.com/sector/china-singapore-suzhou-industrial-park/))
+Image: Suzhou Industrial Park; [Surbana Jurong](https://surbanajurong.com/sector/china-singapore-suzhou-industrial-park/)
 
 Up till the 1990s, Singapore's focus had been on bringing in foreign investment, and not on outward investments from Singapore. 
 
@@ -75,7 +75,7 @@ Up till the 1990s, Singapore's focus had been on bringing in foreign investment,
 Hence, throughout the 1990s, Singapore's government and our firms made investments across the region from China to Malaysia to Indonesia. In China, we started our first government-to-government project, the Suzhou Industrial Park, and later Tianjin Eco-City. In Indonesia, Singapore companies helped to set up Batamindo Industrial Park and the Bintan Industrial Estate.
 
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/page_91_-_wto_ministerial_conference-mr.jpg)
-(Image: [Public Service Division](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/))
+Image: [PSD](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/)
 
 **Free Trade Agreements (FTAs)**
 
