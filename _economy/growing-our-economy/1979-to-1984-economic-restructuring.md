@@ -26,7 +26,7 @@ As a small city-state, Singapore is heavily dependent on international aviation 
 In 1966, just a year after independence, Singapore became a member of the International Civil Aviation Organisation (ICAO), a body under the United Nations (UN).
 
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/img0095.jpg)
-Changi Airport taxiways in the 1980s; [Civil Aviation Authority of Singapore Collection, courtesy of National Archives of Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/f37f49a4-1161-11e3-83d5-0050568939ad))
+Image: Changi Airport taxiways in the 1980s; [CAAS/NAS](https://www.nas.gov.sg/archivesonline/photographs/record-details/f37f49a4-1161-11e3-83d5-0050568939ad))
 
 Then-Prime Minister Lee Kuan Yew also advocated moving the airport from Paya Lebar to Changi in the 1970s. This went against the advice of foreign experts who had suggested building a second runway at Paya Lebar instead, as the airport had cost approximately S$800 million to develop. Singapore would then have to spend another S$1.5 developing Changi Airport. 
 
