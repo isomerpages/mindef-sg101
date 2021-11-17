@@ -10,7 +10,7 @@ In 1959, Singapore achieved self-governance after years of struggle. The Peopleâ
 
 #### 1959-1965: Early Economic Strategies
 ![Alt text for image on Isomer site](/images/economy/Screenshot%202020-10-28.png)
-Image: A scene of a typical squalid side street in the Central Area; HDB Annual Report 1965 via [BookSG](https://eresources.nlb.gov.sg/printheritage/detail/daa435c7-799e-4a0c-9ee4-376a31ab9f4a.aspx)
+Image: A scene of a typical squalid side street in the Central Area; HDB Annual Report 1965; [BookSG](https://eresources.nlb.gov.sg/printheritage/detail/daa435c7-799e-4a0c-9ee4-376a31ab9f4a.aspx)
 
 The new government faced huge problems almost immediately. While Singapore had recovered from the devastation of World War II, the country was derelict: the city centre was overcrowded, buildings were deteriorating, and nearly 70 per cent of the population lived in slums. Moreover, the economy was largely trade-based. As there was hardly any local industry to create meaningful jobs for a growing population, unemployment rate was in the double digits.
 
