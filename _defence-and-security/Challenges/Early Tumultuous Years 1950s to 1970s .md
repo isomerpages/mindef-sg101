@@ -4,7 +4,6 @@ permalink: /defence-and-security/Challenges/1950-1970
 description: ""
 third_nav_title: Challenges
 ---
-
 #### The early tumultuous years: 1950s to 1970s
 
 The regional security landscape from the 1950s to 1970s was fraught with uncertainty, with threats from bigger neighbours and the looming shadow of communism hanging over the region at the height of the Cold War. Singapore’s security concerns were exacerbated by domestic unrest in the form of riots and terrorism as well. 
@@ -28,3 +27,6 @@ Tensions boiled over during a procession to celebrate the Prophet Mohammad’s b
 In September, a second series of communal riots was ignited by the killing of a Malay trishaw rider, leading to 13 deaths and 106 people injured. This time, both Malaysian and Singapore governments directed blame towards Indonesian provocateurs who were part of Indonesia’s Konfrontasi policy aimed at weakening Malaysia.
 
 Besides these riots, there were others such as the 1950 Maria Hertogh riots, the 1954 National Service demonstrations, the 1955 Hock Lee bus riots and the 1969 race riots in Malaysia which spilt over to Singapore. The violent riots led to numerous deaths and significant damage to both our physical infrastructure and social fabric.
+
+
+[Case Study: Bukom Bombers](/defence-and-security/case-studies/bukombombers)
