@@ -2,5 +2,6 @@ collections:
   defence-and-security:
     output: true
     order:
+      - Challenges/A small country without a hinterland.md
       - Challenges/.keep
       - our-fundamentals.md
