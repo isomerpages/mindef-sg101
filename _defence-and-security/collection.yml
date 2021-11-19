@@ -2,6 +2,7 @@ collections:
   defence-and-security:
     output: true
     order:
+      - Challenges/Withdrawal of British forces.md
       - Challenges/Konfrontasi.md
       - Challenges/Separation from Malaysia.md
       - Challenges/.keep
