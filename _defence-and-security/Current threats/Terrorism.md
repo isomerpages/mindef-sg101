@@ -24,7 +24,7 @@ In recent years, far-right extremism has also emerged as a major terrorism conce
 
 In Singapore, self-radicalised actors influenced by Islamist and far-right extremist materials online are the main domestic terrorism threat, due to the ease of radicalisation and the difficulty in detecting these individuals. The trend of self-radicalisation in Singapore has persisted since 2019, and it is important that we remain vigilant against such threats. 
 
-Case Study: The Threat of Self-Radicalisation
+[Case Study: The Threat of Self-Radicalisation](/defence-and-security/case-studies/selfrad)
 
 #### Safeguarding Singapore against Terrorism
 As an open society, Singaporeans are susceptible to influence by global developments which have spill-over effects, such as hate speech and divisive rhetorics. These may motivate at-risk individuals to plot and carry out attacks. 
