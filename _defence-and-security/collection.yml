@@ -2,9 +2,9 @@ collections:
   defence-and-security:
     output: true
     order:
-      - Current threats/A New Global and Regional Security Landscape.md
-      - Current threats/Overview .md
       - Current threats/.keep
+      - Current threats/Overview .md
+      - Current threats/A New Global and Regional Security Landscape.md
       - our-fundamentals.md
       - Challenges/.keep
       - Challenges/A Small Country Without a Hinterland.md
