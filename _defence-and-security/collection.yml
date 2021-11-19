@@ -2,9 +2,9 @@ collections:
   defence-and-security:
     output: true
     order:
-      - "Our Defence & Security/First Pillar: Diplomacy.md"
-      - Our Defence & Security/Building a Strong Defence.md
       - Our Defence & Security/.keep
+      - Our Defence & Security/Building a Strong Defence.md
+      - "Our Defence & Security/First Pillar: Diplomacy.md"
       - our-fundamentals.md
       - Challenges/.keep
       - Challenges/A Small Country Without a Hinterland.md
