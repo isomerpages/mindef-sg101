@@ -2,7 +2,7 @@ collections:
   defence-and-security:
     output: true
     order:
-      - Strong Defence & Security/.keep
+      - Our Defence & Security/.keep
       - our-fundamentals.md
       - Challenges/.keep
       - Challenges/A Small Country Without a Hinterland.md
