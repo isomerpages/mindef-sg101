@@ -41,5 +41,5 @@ To this end, the role of a vigilant citizenry is vital. Ministry of Home Affairs
 
 Singapore has also moved to deepen inter-religious and cross-cultural understanding as radicalisation is not limited to any religion or ethnic group. Additionally, the government has taken swift action to counter hate speech and moved to ban religious speakers espousing views that incite hatred on another race or religion. For instance, the Government banned Christian preacher Lou Engle following remarks he made in a sermon in Singapore.
 
-A holistic approach also has to be taken to counter radicalisation, which also includes re-integrating those who have fallen astray.
+A holistic approach also has to be taken to counter radicalisation, which also includes re-integrating those who have gone astray.
 </div>
