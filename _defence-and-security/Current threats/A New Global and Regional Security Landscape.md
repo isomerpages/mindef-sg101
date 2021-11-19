@@ -21,11 +21,11 @@ Even with Singapore building one of the most advanced militaries in the world, a
 An example would be occasional disputes arising from incursions by neighbours into Singapore Territorial Waters or the nation’s airspace. Singapore has labelled such incidents as “provocative and escalatory”, adding that they increase tensions and real risks, harming bilateral ties. 
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
-In October 2018, Malaysia unilaterally extended the Johor Baru Port Limits, encroaching into Singapore Territorial Waters off Tuas. Singapore lodged a strong protest with the Malaysian government. During this period, there were daily intrusions by Malaysian government vessels into Singapore waters. 
+<p>In October 2018, Malaysia unilaterally extended the Johor Baru Port Limits, encroaching into Singapore Territorial Waters off Tuas. Singapore lodged a strong protest with the Malaysian government. During this period, there were daily intrusions by Malaysian government vessels into Singapore waters. </p>
 
-On 6 December 2018, the Government extended port limits off Tuas. The RSN’s patrol operations were challenging as it had to defend Singapore’s sovereignty and yet show considerable restraint to avoid potentially escalating the situation. 
+<p>On 6 December 2018, the Government extended port limits off Tuas. The RSN’s patrol operations were challenging as it had to defend Singapore’s sovereignty and yet show considerable restraint to avoid potentially escalating the situation. </p>
 	
-After months of negotiation, on 8 April 2019, both countries suspended their overlapping port limit claims and implemented their port limits in effect prior to 25 October 2018 and 6 December 2018. 
+<p>After months of negotiation, on 8 April 2019, both countries suspended their overlapping port limit claims and implemented their port limits in effect prior to 25 October 2018 and 6 December 2018. </p>
 </div>
 
 Singapore remains committed to our strategic interests, backed by a strong SAF armed with a mandate to protect our country’s sovereignty. However, we also look out for the region’s interests, being neighbours by geography and partners by choice. Singapore’s approach to our neighbours and like-minded partners is based on sovereign equals and mutual respect. We share common interests and work together on issues to progress together. 
