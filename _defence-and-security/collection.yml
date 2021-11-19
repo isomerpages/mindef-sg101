@@ -2,5 +2,5 @@ collections:
   defence-and-security:
     output: true
     order:
-      - Challenges Over the Years/.keep
+      - Challenges over the years/.keep
       - our-fundamentals.md
