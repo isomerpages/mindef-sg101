@@ -2,6 +2,7 @@ collections:
   defence-and-security:
     output: true
     order:
+      - Challenges/Separation from Malaysia.md
       - Challenges/.keep
       - Challenges/A Small Country Without a Hinterland.md
       - Challenges/Early Tumultuous Years 1950s to 1970s .md
