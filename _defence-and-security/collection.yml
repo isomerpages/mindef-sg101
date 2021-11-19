@@ -2,8 +2,6 @@ collections:
   defence-and-security:
     output: true
     order:
-      - Lessons for Small Nations/Global Incidents.md
-      - Lessons for Small Nations/.keep
       - our-fundamentals.md
       - Challenges/.keep
       - Challenges/A Small Country Without a Hinterland.md
@@ -16,6 +14,8 @@ collections:
       - Current threats/A New Global and Regional Security Landscape.md
       - Current threats/Terrorism.md
       - Current threats/Hostile Information Campaigns.md
+      - Lessons for Small Nations/.keep
+      - Lessons for Small Nations/Global Incidents.md
       - Case Studies/.keep
       - Case Studies/Building a Defence Force 1960s.md
       - Case Studies/Bukom Bombers.md
