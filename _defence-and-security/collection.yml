@@ -2,6 +2,7 @@ collections:
   defence-and-security:
     output: true
     order:
+      - Current threats/Terrorism.md
       - Current threats/.keep
       - Current threats/Overview .md
       - Current threats/A New Global and Regional Security Landscape.md
