@@ -2,8 +2,8 @@ collections:
   defence-and-security:
     output: true
     order:
-      - Small Nations/Global Incidents.md
-      - Small Nations/.keep
+      - Lessons for Small Nations/Global Incidents.md
+      - Lessons for Small Nations/.keep
       - our-fundamentals.md
       - Challenges/.keep
       - Challenges/A Small Country Without a Hinterland.md
