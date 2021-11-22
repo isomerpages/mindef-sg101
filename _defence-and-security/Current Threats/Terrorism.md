@@ -4,8 +4,7 @@ permalink: /defence-and-security/Current-threats/Terrorism
 description: ""
 third_nav_title: Current Threats
 ---
-
-#### Terrorism 
+## Terrorism 
 
 Singapore has been struck by terrorist incidents in the past, such as the Laju incident in 1974 and SQ 117 hijacking by Pakistani extremists in 1991. However, these incidents were isolated and episodic, in contrast to the more widespread, transnational and sophisticated brand of terrorism that plagues Singapore and the region today. In recent years, Singapore has been targeted by terrorist groups and the terrorism threat to the country remains high, according to the Internal Security Department.
 
