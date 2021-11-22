@@ -47,6 +47,8 @@ As a responsible member of the international and regional community, Singapore a
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;"> <p>The RSN rendered assistance to Aceh in the aftermath of the 2004 Boxing Day tsunami. In the largest SAF overseas operation conducted so far, more than 1,500 SAF personnel and three Endurance Class landing ship tanks (LSTs) were deployed as part of the HADR efforts. In 2014, Singapore also assisted in the search for the missing Malaysian Airlines Flight MH370, and Air Asia flight QZ8501 which crashed into the Java Sea in the same year. In 2021, the RSAF deployed a A330 Multi-Role Tanker Transport (A330 MRTT) aircraft to Afghanistan to assist the evacuation of Afghanistan evacuees.</p>
 </div>
 
+----
+
 #### Second Pillar: Deterrence 
 The second pillar of Singapore’s defence is deterrence, which is contingent on a strong and capable SAF and a resilient populace, through the institutions of National Service (NS) and Total Defence (TD). 
 	
@@ -61,6 +63,8 @@ These efforts require significant investment and resources, both financial and m
 However, the best technology has to be complemented by a determined fighting force, which in Singapore’s case, is a conscription army honed through the decades. 
 
 [Case Study: National Service Through the Years](/defence-and-security/case-studies/ns)
+
+----
 
 #### Singapore Armed Forces (SAF): Being Resourceful and Innovative 
 
