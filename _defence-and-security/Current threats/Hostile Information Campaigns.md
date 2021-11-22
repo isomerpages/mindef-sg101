@@ -18,4 +18,4 @@ During a period of tension with another country between 2016 and 2017, Singapore
 During a period of bilateral tension with a country in 2018, we saw a large spike in online comments critical of Singapore, and many came from anonymous accounts. They sought to give an artificial impression of widespread objection to Singapore’s position.
 </div>
 
-[Case Study: The Battle for Hearts and Minds](/defence-and-security/case-studies/hic)
+[Case Study: The Battle for Hearts and Minds](/defence-and-security/case-studies/hearts)
