@@ -15,10 +15,10 @@ collections:
       - urban-planning/engaging-the-community.md
       - urban-planning/preserving-a-unique-national-identity.md
       - urban-planning/conclusion.md
-      - case-studies-resources/.keep
-      - case-studies-resources/energy.md
-      - case-studies-resources/sand.md
-      - case-studies-resources/waste-management.md
+      - Case studies/.keep
+      - Case studies/energy.md
+      - Case studies/sand.md
+      - Case studies/waste-management.md
       - case-studies-urban-planning/.keep
       - case-studies-urban-planning/public-transport-network.md
       - case-studies-urban-planning/green-and-blue-spaces.md
