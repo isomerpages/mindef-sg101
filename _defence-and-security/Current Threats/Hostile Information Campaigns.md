@@ -4,7 +4,6 @@ permalink: /defence-and-security/Current-threats/hics
 description: ""
 third_nav_title: Current Threats
 ---
-
 ## Hostile Information Campaigns 
 A non-conventional threat that has grown in the digital age is the emergence of hostile information campaigns (HICs). In HICs, hostile foreign actors seek to manipulate political discourse and harm a country’s interest by carrying out coordinated and sophisticated online communications activities to manipulate public opinion. The Internet’s anonymity and the prevalent use of social media give hostile actors a vast and easily accessible playing field.
 
@@ -18,6 +17,8 @@ During a period of tension with another country between 2016 and 2017, Singapore
 
 During a period of bilateral tension with a country in 2018, we saw a large spike in online comments critical of Singapore, and many came from anonymous accounts. They sought to give an artificial impression of widespread objection to Singapore’s position.
 </div>
+
+----
 
 #### The Battle for Hearts and Minds
 
@@ -42,6 +43,8 @@ Fake news, if left to perpetuate through the digital domain, can have real and d
 In 2016, fake news of a collapsed roof in a Punggol HDB estate made its rounds, leading to police and Singapore Civil Defence Force officers attending to the false alarm.
 
 Other instances of false reporting have threatened community harmony. Local-foreigner relations were endangered in 2017 after a survey claimed that over 60 per cent of foreign domestic workers in Singapore were exploited. In the same year, a social media post showed plain-clothed police at a Geylang Serai bazaar food stall, and claimed that non-halal food was being sold. However, the operation was to arrest unregistered foreign food handlers.
+
+-----
 
 #### COVID-19 Pandemic 
 
