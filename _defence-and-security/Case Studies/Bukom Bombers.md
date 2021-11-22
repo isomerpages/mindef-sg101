@@ -4,7 +4,7 @@ permalink: /defence-and-security/Case-Studies/bukombombers
 description: ""
 third_nav_title: Case Studies
 ---
-#### Bukom Bombers 
+## Bukom Bombers 
 
 Domestic turmoil stretched an already thin law enforcement force, drawing heavily on police resources and military reinforcements. However, the internal threats did not end at deadly clashes sparked by communism and communalism. While terrorism is an issue that plagues modern-day Singapore, we faced our first international terrorist attack early on in the early 1970s. 
 
