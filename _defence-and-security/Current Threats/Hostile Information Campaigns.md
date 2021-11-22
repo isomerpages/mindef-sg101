@@ -52,6 +52,8 @@ During the COVID-19 pandemic in Singapore, multiple instances of fake news occur
 
 There were also other false messages on vaccine-related information that were circulated. Some claimed that the mRNA vaccines were ineffective against COVID-19 and its mutations, or even unsafe. Others claimed that the Sinovac virus vaccine could protect us better than mRNA, even as studies showed otherwise.
 
+----
+
 #### Efforts to counter HICs
 
 To combat HICs, Parliament passed the Foreign Interference (Countermeasures) Act (FICA) in October 2021, which would provide for calibrated and targeted interventions against HICs. These include allowing the Government to require internet companies and others to provide information that could aid in an investigation of a HIC, and to provide for a range of interventions to disrupt the spread of HICs, including removing content and accounts. 
