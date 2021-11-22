@@ -4,7 +4,7 @@ permalink: /defence-and-security/Case-Studies/selfrad
 description: ""
 third_nav_title: Case Studies
 ---
-#### The Threat of Self-Radicalisation
+## The Threat of Self-Radicalisation
 
 Today, there is an increasing number of terrorist attacks being carried out by self-radicalised individuals and lone wolf actors on everyday venues, using ordinary objects such as knives and vehicles. The radicalised individuals are also significantly younger, have no prior terror links, and are influenced by extremist propaganda on social media. 
 
