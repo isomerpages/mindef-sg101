@@ -4,7 +4,7 @@ permalink: /defence-and-security/Challenges/1950-1970
 description: ""
 third_nav_title: Challenges
 ---
-## The early tumultuous years: 1950s to 1970s
+## The Early Tumultuous Years: 1950s to 1970s
 
 The regional security landscape from the 1950s to 1970s was fraught with uncertainty, with threats from bigger neighbours and the looming shadow of communism hanging over the region at the height of the Cold War. Singapore’s security concerns were exacerbated by domestic unrest in the form of riots and terrorism as well. 
 
