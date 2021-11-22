@@ -4,7 +4,7 @@ permalink: /defence-and-security/Case-Studies/crimea
 description: ""
 third_nav_title: Case Studies
 ---
-#### Annexation of Crimea
+## Annexation of Crimea
 
 In February 2014, groups of armed men without labelled uniforms started occupying important public places in Crimea, a peninsula on the northern coast of the Black Sea in Eastern Europe that was part of Ukraine. Soon, masked gunmen occupied the Crimean parliament building and raised a Russian flag. By March, Crimea had been incorporated into Russia, amid an international outcry. The unidentified soldiers turned out to be Russian.
  
