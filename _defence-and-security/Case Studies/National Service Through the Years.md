@@ -4,6 +4,8 @@ permalink: /defence-and-security/Case-Studies/ns
 description: ""
 third_nav_title: Case Studies
 ---
+## National Service Through the Years 
+
 When Singapore became independent in 1965, one immediate task was to build up our defence. 
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
@@ -30,5 +32,4 @@ As Prime Minister Lee Hsien Loong said at a dinner commemorating 50 years of NS 
 	
 NS is still the critical need for a strong defence, to protect the Singapore that generations have built. We cannot afford to take our peace for granted and become complacent in peacetime. Our NSFs and NSmen fight alongside SAF regulars and are able to deploy sophisticated weapons, use powerful systems and pick up soldiering skills quickly. As the threat landscape evolves, they protect Singapore not only from armed conflicts but also from non-conventional threats like terrorism, and render aid in humanitarian assistance and disaster relief (HADR), and assist in health epidemics such as SARS in 2003 and more recently, COVID-19. 
 	
-Over the years, NS has become a national institution that is accepted as our way of life. It has touched Singaporeans in one way or another and is the cornerstone of our national identity. It brings people from diverse racial, religious, language, and educational backgrounds to train, live and serve the country together. NS has since become a rite of passage, where boys grow to become men and life-long bonds are forged. Such common life-shaping experiences have helped to foster greater cohesiveness and national identity among our people. As security threats become more insidious and difficult to spot and manage, it becomes more important for society to rally behind and support our national servicemen and women. 
-	
+Over the years, NS has become a national institution that is accepted as our way of life. It has touched Singaporeans in one way or another and is the cornerstone of our national identity. It brings people from diverse racial, religious, language, and educational backgrounds to train, live and serve the country together. NS has since become a rite of passage, where boys grow to become men and life-long bonds are forged. Such common life-shaping experiences have helped to foster greater cohesiveness and national identity among our people. As security threats become more insidious and difficult to spot and manage, it becomes more important for society to rally behind and support our national servicemen and women.
