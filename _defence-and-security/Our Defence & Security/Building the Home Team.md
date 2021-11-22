@@ -4,6 +4,7 @@ permalink: /defence-and-security/Our-Defence-and-Security/ht
 description: ""
 third_nav_title: Our Defence & Security
 ---
+## Building the Home Team
 As Singapore’s early challenges showed, domestic turmoil can be as damaging and deadly as external ones. Communism and communalism were two salient threats to the nation’s internal security. 
 
 The various security agencies, with the police, Internal Security Department and the SAF, had to cooperate and work together to counter these threats. Early on, there was a need for a coordinated response.
@@ -22,4 +23,4 @@ The move to develop the Home Team was seen to be especially important as crises 
 
 Amid evolving challenges, the Home Team is on a journey of constant transformation and strengthening of partnerships with the community to keep Singapore safe and secure. 
 
-For example, the SCDF is introducing smart technology to transform its work. Future fire stations will use Internet of Things sensors to support operations by monitoring the status of equipment such as fuel and foam tank levels. The Home Team Science and Technology Agency, formed in 2019, helps to pioneer such projects. 
+For example, the SCDF is introducing smart technology to transform its work. Future fire stations will use Internet of Things sensors to support operations by monitoring the status of equipment such as fuel and foam tank levels. The Home Team Science and Technology Agency, formed in 2019, helps to pioneer such projects.
