@@ -3,11 +3,6 @@ collections:
     output: true
     order:
       - Coming Soon.md
-      - Current Threats/.keep
-      - Current Threats/Overview .md
-      - Current Threats/Terrorism.md
-      - Current Threats/Hostile Information Campaigns.md
-      - Current Threats/Other Non Conventional Threats.md
       - Our Defence & Security/.keep
       - Our Defence & Security/Building a Strong Defence.md
       - Our Defence & Security/Whole of Nation Approach.md
