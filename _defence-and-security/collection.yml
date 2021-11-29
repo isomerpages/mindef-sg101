@@ -3,10 +3,6 @@ collections:
     output: true
     order:
       - Coming Soon.md
-      - Our Defence & Security/.keep
-      - Our Defence & Security/Building a Strong Defence.md
-      - Our Defence & Security/Whole of Nation Approach.md
-      - Our Defence & Security/Building the Home Team.md
       - Case Studies/.keep
       - Case Studies/Bukom Bombers.md
       - Case Studies/The Threat of Self Radicalisation.md
