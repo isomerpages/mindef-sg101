@@ -3,10 +3,6 @@ collections:
     output: true
     order:
       - Coming Soon.md
-      - Challenges/.keep
-      - Challenges/A Small Country Without a Hinterland.md
-      - Challenges/Early Tumultuous Years 1950s to 1970s .md
-      - Challenges/Withdrawal of British forces.md
       - Current Threats/.keep
       - Current Threats/Overview .md
       - Current Threats/Terrorism.md
