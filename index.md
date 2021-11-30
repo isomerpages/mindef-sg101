@@ -13,7 +13,7 @@ sections:
         title: I'm looking for info on...
         options:
           - title: Defence And Security
-            url: /defence-and-security/Coming Soon.md
+            url: /defence-and-security/comingsoon
           - title: Economy
             url: /economy/our-fundamentals
           - title: Infrastructure
