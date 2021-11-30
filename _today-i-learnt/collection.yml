@@ -1,0 +1,6 @@
+collections:
+  today-i-learnt:
+    output: true
+    order:
+      - bu-dao-weng-roly-poly-toy.md
+      - kintsugi.md

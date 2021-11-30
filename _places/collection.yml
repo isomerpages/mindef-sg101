@@ -1,0 +1,18 @@
+collections:
+  places:
+    output: true
+    order:
+      - streets-of-singapore/.keep
+      - streets-of-singapore/our-grandmothers-road.md
+      - streets-of-singapore/out-of-place.md
+      - streets-of-singapore/our-streets-of-singapore.md
+      - streets-of-singapore/eredias-1604-map-of-singapore.md
+      - stumbling/.keep
+      - stumbling/old-changi-hospital.md
+      - stumbling/the-last-dragon.md
+      - hereitage/.keep
+      - hereitage/church-of-the-blessed-sacrament.md
+      - hereitage/kampong-silat-estate.md
+      - hereitage/murray-terrace.md
+      - hereitage/silat-road-sikh-temple.md
+      - hereitage/1929-shophouse.md

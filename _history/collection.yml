@@ -1,0 +1,29 @@
+collections:
+  history:
+    output: true
+    order:
+      - singapores-last/.keep
+      - singapores-last/mainland-village.md
+      - sg-eastern-waters-shipwrecks/.keep
+      - sg-eastern-waters-shipwrecks/shipwreck-artefacts-in-singapore-eastern-waters-excavated.md
+      - singapores-first/.keep
+      - singapores-first/national-campaign.md
+      - singapores-first/bicycle-licence.md
+      - singapores-first/newspaper.md
+      - singapores-first/mobile-library-service.md
+      - singapores-first/post-independence-currency-notes.md
+      - singapores-first/underground-ammunition-storage-facility.md
+      - on-this-day/.keep
+      - on-this-day/bukit-ho-swee-fire.md
+      - on-this-day/nicoll-highway-collapse.md
+      - on-this-day/introduction-of-the-ez-link-card.md
+      - on-this-day/first-car-free-day.md
+      - on-this-day/registration-of-singapore-identity-card-begins.md
+      - on-this-day/singapore-achieves-internal-self-governance.md
+      - on-this-day/may-day.md
+      - on-this-day/singapore-entered-a-state-of-emergency.md
+      - on-this-day/singapore-botanic-gardens-was-recognised-as-a-unesco-world-heritage-site.md
+      - on-this-day/britain-announced-the-withdraw-of-their-troops-from-singapore.md
+      - on-this-day/tokyo-olympics-2020-closing-ceremony.md
+      - on-this-day/signing-of-asean-declaration.md
+      - on-this-day/national-day-2021.md

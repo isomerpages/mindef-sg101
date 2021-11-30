@@ -1,0 +1,5 @@
+collections:
+  defence-and-security:
+    output: true
+    order:
+      - Coming Soon.md

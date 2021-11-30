@@ -1,36 +1,37 @@
 ---
 layout: homepage
-title: Isomer Site
+title: SG101
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  - hero:
+      title: SG101
+      background: /images/Hero-image2.png
+      dropdown:
+        title: I'm looking for info on...
+        options:
+          - title: Defence And Security
+            url: /defence-and-security/our-fundamentals
+          - title: Economy
+            url: /economy/our-fundamentals
+          - title: Infrastructure
+            url: /infrastructure/ourfundamentals
+          - title: Social / National Identity
+            url: /social-national-identity/ourfundamentals
+  - infopic:
+      title: COVID-19
+      subtitle: Case Studies update
+      description: In any time of crisis, we can either choose to band together, or
+        draw apart. The COVID-19 pandemic and its consequences, termed “the
+        crisis of a generation...
+      button: Read more
+      url: /social-national-identity/case-studies/covid19
+      image: /images/s_n.png
+      alt: Image alt text
+  - resources:
+      title: Latest Resources
+      subtitle: What's New
+      button: More Resources
 ---
-
