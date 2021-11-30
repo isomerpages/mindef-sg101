@@ -1,8 +1,9 @@
 ---
 title: "ASEAN Economic Community: Forging Closer Ties"
 permalink: /economy/digging-deeper-case-studies/asean
-third_nav_title: Digging Deeper Case Studies
+third_nav_title: Case Studies
 ---
+
 ## Digging Deeper: Case Studies
 #### ASEAN Economic Community: Forging Closer Ties
 <i>3 minute read</i>

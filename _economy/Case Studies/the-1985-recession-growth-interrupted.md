@@ -1,8 +1,9 @@
 ---
 title: "The 1985 Recession: Growth Interrupted"
 permalink: /economy/digging-deeper-case-studies/1985
-third_nav_title: Digging Deeper Case Studies
+third_nav_title: Case Studies
 ---
+
 ## Digging Deeper: Case Studies
 #### The 1985 Recession: Growth Interrupted
 <i>2 minute read</i>

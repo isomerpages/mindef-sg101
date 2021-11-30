@@ -53,3 +53,4 @@ plugins:
 staging: https://mindef-connexion-staging.netlify.app
 prod: https://mindef-connexion-prod.netlify.app
 is_government: true
+shareicon: /images/SG101sq.png
