@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: SG101
-description: "An Isomer site of the Singapore Government "
+description: www.sg101.gov.sg
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -35,5 +35,6 @@ sections:
       subtitle: What's New
       button: More Resources
 ---
+
 
 
