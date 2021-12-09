@@ -14,7 +14,8 @@ It is not uncommon to spot the family of otters in the Kallang River. But they a
 It was not always this case. In the 1970s, the Kallang River was more known for its stench than its sights. The sludge-filled water carried chicken carcasses, rotting fruit and a foul stench that blanketed the area. Similarly, most other waterways in Singapore were also heavily polluted.
 
 ![Alt text for image on Isomer site](/images/kallangriver1.jpg)
-![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-2.png)Images: Kallang River before the clean-up / NAS
+![Alt text for image on Isomer site](/images/kallangriver2.jpg)
+Images: Kallang River before the clean-up / NAS
 
 It took an order by then-Prime Minister Lee Kuan Yew to start a national effort to clean up the waterways around the island. Instead of dead animals, he wanted the rivers and canals to have “more or less clean, translucent water, where fish, water lilies, and other water plants [could] grow, and [for] both sides of the waterway [to] be planted with trees, like willow”. After decades of cleaning, we now have waters so clean that a wide range of animal and plant life thriving in our rivers and waterways.
 
