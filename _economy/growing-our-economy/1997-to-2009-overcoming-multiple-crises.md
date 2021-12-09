@@ -37,5 +37,4 @@ The government has also regularly distributed the surpluses to Singaporeans so t
 Singapore also drew on our reserves to support the economy and Singaporeans during the COVID-19 crisis.
 
 The reserves were built by a country that had no natural resources, but through discipline and the hard work of its people, noted DPM Heng: 
-
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/Screenshot%202020-10-22%20a.png)
