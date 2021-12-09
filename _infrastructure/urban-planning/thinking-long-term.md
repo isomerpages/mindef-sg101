@@ -76,7 +76,8 @@ While the Concept Plan takes care of the broad, long-term strategies, the Master
 
 <p>For example, the 2003 Master Plan focused on enhancing and protecting Singapore’s natural and heritage sites. The Southern Ridges – completed in 2008 – is one such example, when the plan first conceived linking various hill parks with the construction of two iconic bridges.</p>
 
-![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-10.png)Images: Southern Ridges / NParks and Extract from Master Plan 2003 / NAS
+![Alt text for image on Isomer site](/images/southernridges.jpeg)
+Images: Southern Ridges / NParks 
 
 <p>This approach to long-term planning is a crucial reason we can develop our tiny island with an eye on the future. Likewise, our approach to planning was also a key factor that led to our public transport network development. We have had to project into the future – a process that requires us to think beyond our present needs.</p>
 
