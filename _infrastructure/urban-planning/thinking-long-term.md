@@ -72,7 +72,7 @@ While the Concept Plan takes care of the broad, long-term strategies, the Master
 
 <p>While the Concept Plan takes care of the broad, long-term strategies, the Master Plan goes into detail. It focuses on the medium-term and is reviewed once every five years, guiding Singapore’s development over the next 10 to 15 years. The plan lays out the specifics for individual plots of land.</p>
 
-![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-9.png)Image: 1958 Master Plan / URA
+![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-9.png)Image: 1958 Master Plan / © Urban Redevelopment Authority. All rights reserved. Permission from URA required for use of Image.
 
 <p>For example, the 2003 Master Plan focused on enhancing and protecting Singapore’s natural and heritage sites. The Southern Ridges – completed in 2008 – is one such example, when the plan first conceived linking various hill parks with the construction of two iconic bridges.</p>
 
