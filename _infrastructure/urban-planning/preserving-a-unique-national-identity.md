@@ -34,7 +34,9 @@ This difficult decision illustrates the complexity in deeming what to conserve i
 
 To date, the Urban Redevelopment Authority has given conservation status to over 7,000 buildings in Singapore. Many of them have been repurposed for Singaporeans to now enjoy. Examples include the Warehouse Hotel – formerly a warehouse dating back to 1895 – and the Jurong Town Hall, Jurong Town Corporation’s former headquarters, which is now home to the Trade Association Hub.
 
-![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-23.png)Images: Warehouse Hotel / URA and Old Warehouse along Robertson Quay / NAS
+![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-23.png)
+![Alt text for image on Isomer site](/images/warehouseold.jpg)
+Images: Warehouse Hotel / URA and Old Warehouse along Robertson Quay / Joanne Lee Collection, courtesy of National Archives of Singapore
 
 ![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-24.png)Images: Jurong Town Hall / URA
 
