@@ -4,10 +4,6 @@ permalink: /infrastructure/case-studies/publictptnetwork
 third_nav_title: Case Studies
 description: ""
 ---
-
-
-
-
 #### Public Transport Network
 
 ![Alt text for image on Isomer site](/images/infrastructure/case-studies-urban-planning/upcs-1.png)
@@ -28,7 +24,8 @@ Instead, Dr Goh advocated for a cheaper all-bus system. However, the 1982 Compre
 
 Eventually, after nine studies that spanned a decade, Singapore decided to build the MRT, which first opened in 1987.
 
-![Alt text for image on Isomer site](/images/infrastructure/case-studies-urban-planning/upcs-4.png)
+![Alt text for image on Isomer site](/images/mrtfirsttrains.jpg)
+
 Image: One of the first trains delivered to Singapore / MITA from NAS
 
 ![Alt text for image on Isomer site](/images/infrastructure/case-studies-urban-planning/upcs-5.png)
