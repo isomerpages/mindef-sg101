@@ -25,7 +25,8 @@ In 1986, the URA launched its Conservation Master Plan. It earmarked six histori
 
 But there have been times where the Government has had to make a difficult choice between development and conservation. This happened in 2000 when it was announced that the former National Library building at Stamford Road had to be demolished. The move was to make way for constructing a tunnel that would alleviate the heavy traffic between the Marina and Orchard area.
 
-![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-22.png)Images: Old National Library / NAS
+![Alt text for image on Isomer site](/images/natlibold.jpeg)
+Images: Old National Library / NAS
 
 The decision sparked public debate. Many opposed the move, as the red-bricked building was an iconic landmark for many Singaporeans. After exploring various alternatives, such as expanding Stamford Road to allow more traffic flow and digging a deeper tunnel that would leave the library untouched, the Government concluded that removing the building remained the best option. In 2004, the building was torn down.
 
