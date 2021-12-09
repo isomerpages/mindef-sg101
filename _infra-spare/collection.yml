@@ -1,5 +1,5 @@
 collections:
-  infra:
+  infra-spare:
     output: true
     order:
       - our-fundamentals.md
