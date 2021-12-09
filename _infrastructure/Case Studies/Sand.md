@@ -4,16 +4,11 @@ permalink: /infrastructure/case-studies/sand
 third_nav_title: Case Studies
 description: ""
 ---
-
-
-
-
-
 #### Sand
 
 ![Alt text for image on Isomer site](/images/infrastructure/case-studies/Screenshot%202021-07325.png)
 
-Every year, Singapore grows larger by a fraction thanks to land reclamation efforts. It has expanded by a fifth over the decades, from 581.5 km2 in 1960 to 725.7km2 in 2019. The country aims to reach 766km2 of landmass by 2030.
+Every year, Singapore grows larger by a fraction thanks to land reclamation efforts. It has expanded by a fifth over the decades, from 581.5 km² in 1960 to 725.7km² in 2019. The country aims to reach 766km² of landmass by 2030.
 
 Reclaimed land has been a key driver of our economic growth. Infrastructure such as Changi Airport, Tuas Port and Jurong Island have all been built on land reclaimed from the sea.
 
