@@ -41,7 +41,9 @@ As a result, we had to think unconventionally and summon up a spirit of innovati
 
 #### Example: Water
 
-![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/Screenshot%202021-07-535.png)Images: MICA courtesy of NAS and PUB
+![Alt text for image on Isomer site](/images/newwatervisitorcentre.jpg)
+![Alt text for image on Isomer site](/images/newwaterplant.png)
+Images: MICA courtesy of NAS and PUB
 
 NEWater – reclaimed water purified with membrane and ultraviolet technologies – is perhaps Singapore’s most famous example of this innovative spirit. The idea of turning wastewater into drinkable water emerged as early as the 1970s when Singapore commissioned a study to explore the feasibility of producing clean reclaimed water.
 

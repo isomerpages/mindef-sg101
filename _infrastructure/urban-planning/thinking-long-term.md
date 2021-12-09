@@ -13,7 +13,9 @@ It is not uncommon to spot the family of otters in the Kallang River. But they a
 
 It was not always this case. In the 1970s, the Kallang River was more known for its stench than its sights. The sludge-filled water carried chicken carcasses, rotting fruit and a foul stench that blanketed the area. Similarly, most other waterways in Singapore were also heavily polluted.
 
-![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-2.png)Images: Kallang River before the clean-up / NAS
+![Alt text for image on Isomer site](/images/kallangriver1.jpg)
+![Alt text for image on Isomer site](/images/kallangriver2.jpg)
+Images: Kallang River before the clean-up / NAS
 
 It took an order by then-Prime Minister Lee Kuan Yew to start a national effort to clean up the waterways around the island. Instead of dead animals, he wanted the rivers and canals to have “more or less clean, translucent water, where fish, water lilies, and other water plants [could] grow, and [for] both sides of the waterway [to] be planted with trees, like willow”. After decades of cleaning, we now have waters so clean that a wide range of animal and plant life thriving in our rivers and waterways.
 
@@ -35,11 +37,11 @@ To this end, the Government has taken an integrated and long-term approach to ur
 
 As the strategic land use and transportation plan that provides broad guidelines for Singapore’s physical development over the next 40 to 50 years, the Concept Plan provides the overall strategy. Its goal is to ensure sufficient space to support long-term population growth, economic development, and a good living environment.
 
-![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-6.png)Image: [Principles of Urban Planning- Q. Wu,D. Li, etc](https://www.researchgate.net/figure/Singapore-Concept-Plan-2-Traffic-control-policy-Singapores-Mass-Rapid-Transit-MRT_fig1_348495583)
+![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-6.png)Image: 1971, 1991, 2001 and 2011 Concept Plans/ © Urban Redevelopment Authority. All rights reserved. Permission from URA required for use of images.
 
 Singapore’s first Concept Plan was published in 1971. The plan was a mammoth effort, involving more than 100 local and overseas urban planners, architects, civil servants and academics between 1967 and 1969. It laid the foundations of the land needs for the young nation, setting out the principles for developing housing estates, recreational spaces and industrial estates. Its legacies continue to this day, more than 50 years after the plan was published.
 
-![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-7.png)Image: 1971 Concept Plan / URA
+![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-7.png)Image: 1971 Concept Plan / © Urban Redevelopment Authority. All rights reserved. Permission from URA required for use of image.
 
 The Concept Plan set in place critical infrastructures instrumental to Singapore’s economic growth. This included the construction of Changi Airport, which opened in 1981, a Mass Rapid Transit (MRT) system, and a network of expressways. The plan also earmarked the Central Area as the Central Business District (CBD).
 
@@ -70,11 +72,12 @@ While the Concept Plan takes care of the broad, long-term strategies, the Master
 
 <p>While the Concept Plan takes care of the broad, long-term strategies, the Master Plan goes into detail. It focuses on the medium-term and is reviewed once every five years, guiding Singapore’s development over the next 10 to 15 years. The plan lays out the specifics for individual plots of land.</p>
 
-![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-9.png)Image: 1958 Master Plan / URA
+![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-9.png)Image: 1958 Master Plan / © Urban Redevelopment Authority. All rights reserved. Permission from URA required for use of image.
 
 <p>For example, the 2003 Master Plan focused on enhancing and protecting Singapore’s natural and heritage sites. The Southern Ridges – completed in 2008 – is one such example, when the plan first conceived linking various hill parks with the construction of two iconic bridges.</p>
 
-![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-10.png)Images: Southern Ridges / NParks and Extract from Master Plan 2003 / NAS
+![Alt text for image on Isomer site](/images/southernridges.jpeg)
+Images: Southern Ridges / NParks 
 
 <p>This approach to long-term planning is a crucial reason we can develop our tiny island with an eye on the future. Likewise, our approach to planning was also a key factor that led to our public transport network development. We have had to project into the future – a process that requires us to think beyond our present needs.</p>
 

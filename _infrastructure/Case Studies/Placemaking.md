@@ -4,10 +4,6 @@ permalink: /infrastructure/case-studies/placemaking
 third_nav_title: Case Studies
 description: ""
 ---
-
-
-
-
 #### Placemaking
 
 ![Alt text for image on Isomer site](/images/infrastructure/case-studies-urban-planning/upcs-20.png)
@@ -25,7 +21,7 @@ Image: Jurong Lake Gardens / HDB
 
 A well-designed public space encourages people to come together, interact and foster connections to the area. This ensures that precincts across Singapore will always remain relevant as shared spaces for gathering and activities.
 
-![Alt text for image on Isomer site](/images/infrastructure/case-studies-urban-planning/upcs-24.png)Images: Tras Link Park and Bencoolen Benches / URA
+![Alt text for image on Isomer site](/images/infrastructure/case-studies-urban-planning/upcs-24.png)Images: Tras Link Park and Bencoolen Benches / © Urban Redevelopment Authority. All rights reserved. Permission from URA required for use of image.
 
 The community has been involved in these placemaking projects. The Lively Places Programme – a joint initiative by HDB and URA – is one example. It supports community-led efforts, organising activities such as art classes in neighbourhoods and allowing installations like murals to be put up. This has helped residents form close bonds with the areas they live in.
 
