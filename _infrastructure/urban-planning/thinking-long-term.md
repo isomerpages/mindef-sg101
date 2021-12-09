@@ -41,7 +41,7 @@ As the strategic land use and transportation plan that provides broad guidelines
 
 Singapore’s first Concept Plan was published in 1971. The plan was a mammoth effort, involving more than 100 local and overseas urban planners, architects, civil servants and academics between 1967 and 1969. It laid the foundations of the land needs for the young nation, setting out the principles for developing housing estates, recreational spaces and industrial estates. Its legacies continue to this day, more than 50 years after the plan was published.
 
-![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-7.png)Image: 1971 Concept Plan / URA
+![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-7.png)Image: 1971 Concept Plan / © Urban Redevelopment Authority. All rights reserved. Permission from URA required for use of image.
 
 The Concept Plan set in place critical infrastructures instrumental to Singapore’s economic growth. This included the construction of Changi Airport, which opened in 1981, a Mass Rapid Transit (MRT) system, and a network of expressways. The plan also earmarked the Central Area as the Central Business District (CBD).
 
@@ -72,7 +72,7 @@ While the Concept Plan takes care of the broad, long-term strategies, the Master
 
 <p>While the Concept Plan takes care of the broad, long-term strategies, the Master Plan goes into detail. It focuses on the medium-term and is reviewed once every five years, guiding Singapore’s development over the next 10 to 15 years. The plan lays out the specifics for individual plots of land.</p>
 
-![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-9.png)Image: 1958 Master Plan / © Urban Redevelopment Authority. All rights reserved. Permission from URA required for use of Image.
+![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-9.png)Image: 1958 Master Plan / © Urban Redevelopment Authority. All rights reserved. Permission from URA required for use of image.
 
 <p>For example, the 2003 Master Plan focused on enhancing and protecting Singapore’s natural and heritage sites. The Southern Ridges – completed in 2008 – is one such example, when the plan first conceived linking various hill parks with the construction of two iconic bridges.</p>
 
