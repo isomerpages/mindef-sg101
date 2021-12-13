@@ -19,9 +19,9 @@ In 1998, then-PM Goh Chok Tong, impressed by the success and influence of the mo
 
 Between 2018 and 2019, the non-profit organisation, made up of purely senior volunteers, helped 172,221 beneficiaries. It has close to 2,500 members today, up from 824 in 2016.
 
-This supports an upward trend in volunteerism in Singapore, especially among retirees. In a National Volunteer and Philanthropy Centre survey published in May 2017, the number of volunteers aged 55 to 64 increased from 18% in 2014 to 20% in 2016. The total number of volunteers almost doubled between 2014 and 2016.
+This supports an upward trend in volunteerism in Singapore, especially among retirees. In a National Volunteer and Philanthropy Centre survey published in May 2017, the number of volunteers aged 55 to 64 increased from 18 per cent in 2014 to 20 per cent in 2016. The total number of volunteers almost doubled between 2014 and 2016.
 
-However, Singapore’s national volunteerism rate has fallen to 29%, compared with 35% in 2016. On 5 June 2018, then-Minister for Culture, Community and Youth (MCCY) Grace Fu said during a keynote address during an Asian Venture Philanthropy Network’s (AVPN) conference that the government is looking to boost volunteerism rates to 70% by 2023.
+However, Singapore’s national volunteerism rate has fallen to 29 per cent, compared with 35 per cent in 2016. On 5 June 2018, then-Minister for Culture, Community and Youth (MCCY) Grace Fu said during a keynote address during an Asian Venture Philanthropy Network’s (AVPN) conference that the government is looking to boost volunteerism rates to 70 per cent by 2023.
 
 In 2019, SG Cares, a national movement to promote volunteerism, was launched. MCCY partnered community groups to establish Volunteer Centres, which aid in volunteer matching, deployment and training. In addition, an SG Care app was developed to allow volunteers to find volunteering opportunities more easily, such as by allowing them to choose their preferred timings or propose or collaborate on projects to help those in need.
 
