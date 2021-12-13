@@ -84,7 +84,7 @@ Then-PM Goh was concerned that revealing that a Singaporean Muslim's involvement
 
 In the aftermath of the JI arrests, Inter-Racial Confidence Circles (IRCC) were formed in 2002, to act as a critical bridge between racial and religious leaders, and promote inter-faith interaction and understanding. In the event of any racial and religious conflict, the IRCCs act as first responders to quell any brewing tension among the various ethnic groups and reestablish peace.
 
-The key value of the IRCC network is “to make sure that in times of peace, we build relationships, trust and confidence. This will create a safety net for Singapore.” said then-Minsiter for Community Development, Youth and Sports Vivian Balakrishnan in 2008.
+The key value of the IRCC network is “to make sure that in times of peace, we build relationships, trust and confidence. This will create a safety net for Singapore.” said then-Minister for Community Development, Youth and Sports Vivian Balakrishnan in 2008.
 
 On January 2016, the Ministry of Home Affairs (MHA) released news of the arrest of 27 radicalised Bangladeshis in Singapore, who were contemplating carrying out acts of armed violence overseas. In May that year, another 8 Bangladeshi men were detained for planning to stage terror attacks back in Bangladesh, and for intending to join terror group ISIS as foreign fighters in Syria and Iraq.
 
