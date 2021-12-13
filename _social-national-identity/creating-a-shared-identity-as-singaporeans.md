@@ -52,7 +52,7 @@ A big part of forging a common identity lies in the intangible aspects of cultur
 
 Apart from that, art and music were also used to help create a Singaporean culture in the 1990s. Led by then-Acting Minister for the Arts George Yeo, Singapore built The Esplanade and new museums, as well as set up the National Arts Council (NAC).
 
-Over the years, we have developed a distinctly Singaporean cultural experience, drawing from our richness and diversity from our roots as a migrant nation. Many aspects of our culture are a rich amalgamation and hybrid of Chinese, Malay, Indian, European cultures and so on. OUr hawker culture, for one, has made it onto UNESCO’s Intangible Cultural Heritage list.
+Over the years, we have developed a distinctly Singaporean cultural experience, drawing from our richness and diversity from our roots as a migrant nation. Many aspects of our culture are a rich amalgamation and hybrid of Chinese, Malay, Indian, European cultures and so on. Our hawker culture, for one, has made it onto UNESCO’s Intangible Cultural Heritage list.
 
 [![Alt text for image on Isomer site](/images/society/sharedid/OpenDoc%20Banners-8.gif)](/social-national-identity/case-studies/heritage)
 
