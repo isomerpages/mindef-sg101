@@ -64,7 +64,7 @@ The Housing Development Board’s (HDB) Ethnic Integration Policy (EIP) was intr
 
 In just three decades, HDB estates have become a microcosm of society, with a mix of residents of all races. The abundance of common spaces, including coffeeshops, fitness corners and community centres, has also made it easier for residents of different races to gather, mix, and play. 
 
-Residents have also largely accommodated one another's practices and customs. Cultural and religious practices such as the burning of joss paper and incense during Hungry Ghost Festival, prayer sessions at void decks during Ramadhan and the annual foot procession by Hindus during Thaipusum have largely gained acceptance among all ethnic groups. There have also been instances of the various ethnic groups celebrating the festivals of other races. For example, they would visit the homes of friends and neighbours of different ethnic groups during national holidays like Chinese New Year, Hari Raya Puasa, and Deepavali.
+Residents have also largely accommodated one another's practices and customs. Cultural and religious practices such as the burning of joss paper and incense during Hungry Ghost Festival, prayer sessions at void decks during Ramadhan and the annual foot procession by Hindus during Thaipusam have largely gained acceptance among all ethnic groups. There have also been instances of the various ethnic groups celebrating the festivals of other races. For example, they would visit the homes of friends and neighbours of different ethnic groups during national holidays like Chinese New Year, Hari Raya Puasa, and Deepavali.
 
 #### Building Common Ground Amid Diversity
 
