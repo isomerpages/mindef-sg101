@@ -10,8 +10,8 @@ description: ""
 
 As the most space-efficient way that allows large numbers of people to travel, Singapore’s public transport network has been crucial in helping us manage our limited land space.
 
-![Alt text for image on Isomer site](/images/infrastructure/case-studies-urban-planning/upcs-2.png)
-Image: MOT
+![Alt text for image on Isomer site](/images/signboard_mot.jpg)
+Image: Ministry of Transport
 
 Beginning from the 1950s, buses were the primary mode of public transport. However, in 1967, the State and City Planning Project, which had been initiated that same year, proposed building a rail system to develop Singapore’s public transport system. This rail proposal was later incorporated into the 1971 Concept Plan to serve a rapidly growing population and ease traffic congestion problems.
 
