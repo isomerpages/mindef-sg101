@@ -3,7 +3,6 @@ title: "Jurong: From Swamp to Suburb"
 permalink: /economy/digging-deeper-case-studies/jurong1
 third_nav_title: Case Studies
 ---
-
 ## Digging Deeper: Case Studies
 #### Jurong: From Swamp to Suburb
 <i>2 minute read</i>
@@ -38,7 +37,9 @@ Thus, JTC also oversaw the construction of recreational facilities, a town centr
 
 ![Alt text for image on Isomer site](/images/economy/case-studies/5435353.jpg)
 
-Today, the 360ha Jurong Lake District has been earmarked to be Singapore’s second central business district (CBD). Development plans are in the works, and these include a commercial precinct, housing and expanded gardens.
+The 410ha Jurong Lake District will be Singapore’s largest mixed-use business district outside of the city centre when it is fully developed in the next 30 years. A substantial commercial core has since been built up around Jurong East MRT Interchange, alongside the established International Business Park. The district also houses Jurong Lake Gardens, Singapore’s third national gardens and first in the heartlands. There are other plans in the works to support more mixed-use developments, leisure & recreational amenities and transport connectivity improvements.
+
+More information on Jurong Lake District can be found [here](https://www.jld.gov.sg/).
 
 ![Alt text for image on Isomer site](/images/economy/case-studies/slider_labelbkgnd.jpg)
-(Image: [Jurong Lake District](https://www.jld.gov.sg/))
+(Image: Courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
