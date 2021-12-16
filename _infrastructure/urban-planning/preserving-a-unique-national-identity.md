@@ -37,8 +37,6 @@ To date, the Urban Redevelopment Authority has given conservation status to over
 ![Alt text for image on Isomer site](/images/warehouseold.jpg)
 Images: Old Warehouse along Robertson Quay / Joanne Lee Collection, courtesy of National Archives of Singapore
 
-![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-24.png)Images: Jurong Town Hall / URA
-
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
 <p>“Using a collaborative approach involving government organisations, the public, and developers, the Island Republic’s Urban Redevelopment Authority has achieved a balance between free-market economics and cultural conservation”, stated a jury from the Asia-Pacific Urban Land Institute in 2006 when it commended URA for its conservation programme. </p> 
 </div>
