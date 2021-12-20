@@ -59,7 +59,8 @@ Hence, the government introduced English as the language of administration and i
 
 [![Alt text for image on Isomer site](/images/society/multicultural/OpenDoc%20Banners-4.gif)](/social-national-identity/case-studies/special)
 
-![Alt text for image on Isomer site](/images/society/multicultural/racialharmony-07_v2-2.png)
+![Alt text for image on Isomer site](/images/multic6.jpg)
+(Image: Ministry of Education)
 
 Another way the government sought to bridge gaps along racial lines was to increase opportunities for interaction and build familiarity with other practices and customs, so that Singaporeans see themselves as part of a larger community of diverse people.
 
