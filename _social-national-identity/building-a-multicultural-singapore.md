@@ -25,7 +25,10 @@ In 1964, Singapore encountered one of its worst riots. On 21 July, 23 people los
 
 The racially-charged riots of 1964 and 1969 showed how easily ethnic tensions could be exploited to thrust the nation into turmoil. Singapore’s early leaders recognised that race and religion were potential fault lines that had to be addressed, if Singapore were to progress.
 
-![Alt text for image on Isomer site](/images/society/multicultural/racialharmony-06-a.png)
+![Alt text for image on Isomer site](/images/multic3.jpg)
+(Image: National Archives of Singapore)
+![Alt text for image on Isomer site](/images/multic4.jpg)
+(Image: National Archives of Singapore)
 
 This issue was the key reason why they made the painful decision to separate from Malaysia in 1965. The Malaysian leaders wanted a “Malay Malaysia”, not a “Malaysian Malaysia”. They saw Singapore’s multiracial slogan as a challenge to Malay dominance. It was a disagreement that could not be resolved.
 
