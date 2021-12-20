@@ -37,6 +37,7 @@ This issue was the key reason why they made the painful decision to separate fro
 Having experienced racial politics, where the majority Malay race in Malaysia was favoured, Singapore’s founding Prime Minister Lee Kuan Yew understood the need for meritocracy and equality. When Singapore separated from Malaysia, our leaders drummed into Singaporeans that each citizen is equal, regardless of race, language or religion.
 
 ![Alt text for image on Isomer site](/images/society/multicultural/img0042.jpg)
+(Image: National Archives of Singapore)
 
 In his first speech to the United Nations General Assembly on 21 September 1965, then-Foreign Minister S. Rajaratnam described Singapore as a “little United Nations in the making” where four cultures – Malay, Chinese, Indian and Western – were allowed to develop freely and equally.
 
