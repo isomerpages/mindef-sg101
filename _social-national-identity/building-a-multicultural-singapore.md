@@ -70,8 +70,9 @@ The Housing Development Board’s (HDB) Ethnic Integration Policy (EIP) was intr
 
 [![Alt text for image on Isomer site](/images/society/multicultural/OpenDoc%20Banners-2.gif)](/social-national-identity/examples/hdb)
 
-![Alt text for image on Isomer site](/images/society/multicultural/racialharmony-08-2.png)
 ![Alt text for image on Isomer site](/images/multic8.jpg)
+(Image: National Archives of Singapore)
+![Alt text for image on Isomer site](/images/multic9.jpg)
 (Image: National Archives of Singapore)
 
 In just three decades, HDB estates have become a microcosm of society, with a mix of residents of all races. The abundance of common spaces, including coffeeshops, fitness corners and community centres, has also made it easier for residents of different races to gather, mix, and play. 
