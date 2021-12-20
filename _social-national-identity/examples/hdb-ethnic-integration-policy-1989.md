@@ -7,7 +7,8 @@ third_nav_title: Examples
 
 In the 1980s, more than 20 years after HDB flats were introduced, there were signs that segregation among the races had once again started to take root. Malay households made up more than 30 per cent of the estate population in Bedok and Tampines while the Chinese formed more than 90 per cent of the households in Hougang. This was made worse by a growing resale market for HDB flats, where families tended to buy flats in areas with more residents of their own race.
 
-![Alt text for image on Isomer site](/images/society/examples/social-images-2.png)
+![Alt text for image on Isomer site](/images/multic18.jpg)
+(Image: National Archives of Singapore)
 
 Then-Minister for National Development S. Dhanabalan warned that it would be “unthinkable” for Singapore to regress to the days before independence, when a certain place was seen as belonging to a certain ethnic or dialect group.
 
