@@ -26,7 +26,7 @@ Red was chosen because it symbolised prosperity and happiness, while white – f
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/aAE6tC98xpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The idea of a pledge was also mooted as a way to inculcate national consciousness and patriotism in schools. Then-Minister for Foregin Affairs S. Rajaratnam, who authored the pledge, believed that differences in language, race and religion were potentially divisive. Hence, he made use of the pledge to emphasise that these differences could be overcome if Singaporeans were united in their commitment to the country.
+The idea of a pledge was also mooted as a way to inculcate national consciousness and patriotism in schools. Then-Minister for Foreign Affairs S. Rajaratnam, who authored the pledge, believed that differences in language, race and religion were potentially divisive. Hence, he made use of the pledge to emphasise that these differences could be overcome if Singaporeans were united in their commitment to the country.
 
 The fundamentals of Singapore’s multicultural society were not to forget or paper over differences, but to acknowledge them, set them aside, and go beyond them -- regardless of race, language or religion. 
 
@@ -44,7 +44,9 @@ After three drafts and multiple revisions, the Singapore pledge was eventually f
 
 While symbols may help Singaporeans identify with the country, it did not create our national identity overnight. Forging a national identity required time and a conscious effort to allow people opportunities to interact and form bonds with one other. They also need to feel that they have a tangible stake in the country’s development and progress.
 
-![Alt text for image on Isomer site](/images/society/sharedid/homeown.jpg)
+![Alt text for image on Isomer site](/images/multic12.jpg)
+![Alt text for image on Isomer site](/images/multic13.jpg)
+(Images: National Archives of Singapore)
 
 One of the ways this was done was through the housing scheme introduced to encourage home ownership among Singaporeans. In February 1964, the government introduced the Home Ownership for the People Scheme to give citizens a tangible asset in the country and a stake in nation-building. Today, about 80% of the population live in Housing & Development Board (HDB) flats, and a vast majority own their flats.
 
