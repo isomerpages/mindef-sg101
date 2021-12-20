@@ -19,13 +19,15 @@ This decline led to the concern over preserving the best Chinese-medium schools 
 
 The excellent performance of the first batch of SAP school students in the O-level examinations contributed to a significant increase in the number of applications for SAP schools. Thanks to the SAP, schools like Nanyang Girls’ High School and Hwa Chong Institution, which were involved in historical moments during World War II when they were used by allied defenders, were preserved.
 
-![Alt text for image on Isomer site](/images/society/case-studies/social-images-21.png)
+![Alt text for image on Isomer site](/images/multic26.jpg)
+(Image: Wikimedia)
 
 #### Related programmes and campaigns
 
 Along with the SAP, the government also introduced the Speak Mandarin Campaign from 1979, to encourage Chinese in Singapore to learn and speak Mandarin instead of their dialects. The standardization of Chinese as the vernacular was intended to reduce the language barriers between the different dialect-speaking Chinese groups, and facilitate communication with Mainland Chinese. However, forcing these dialect-speaking Chinese to learn Mandarin in schools along with English essentially made them learn two second languages. This “sacrifice” of Chinese dialects in schools, accompanied by the elimination of dialect programmes from local media, led to the near-elimination of dialect-speaking ability within one generation. This loss of our cultural-linguistic heritage is a key example of the trade-offs our founding fathers had to make to secure our economic future.
 
 ![Alt text for image on Isomer site](/images/society/case-studies/speakmand.jpg)
+(Image: National Archives of Singapore)
 
 In 2005, with the strengthening of the Chinese economy, the Bicultural Studies Programme (BSP) was established in 3 SAP schools to develop among students a strong understanding of China’s history, culture and contemporary developments, in addition to a good command of the Chinese language. In 2007, a review taskforce chaired by the then-Minister of State Gan Kim Yong encouraged SAP schools to develop their own flagship programmes related to the learning of the Chinese language, culture and traditions. This led to the introduction of examinable and non-examinable subjects in the different SAP schools centered on Chinese.
 
