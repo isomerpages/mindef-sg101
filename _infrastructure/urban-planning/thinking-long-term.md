@@ -81,4 +81,4 @@ Images: Southern Ridges / NParks
 
 <p>This approach to long-term planning is a crucial reason we can develop our tiny island with an eye on the future. Likewise, our approach to planning was also a key factor that led to our public transport network development. We have had to project into the future – a process that requires us to think beyond our present needs.</p>
 
-[![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-pubtrans.gif)](/infrastructure/case-studies-urban-planning/public)
+[![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-pubtrans.gif)](/infrastructure/case-studies/publictptnetwork)
