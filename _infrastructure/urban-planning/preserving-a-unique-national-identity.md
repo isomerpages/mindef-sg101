@@ -43,4 +43,4 @@ Images: Old Warehouse along Robertson Quay / Joanne Lee Collection, courtesy of 
 
 Preserving the unique character of our physical landscape also entails creating a sense of place – a place for the community to gather, interact and grow. Singapore’s efforts to develop spaces for communities has grown beyond simply creating functional spaces and towards the idea of placemaking.
 
-[![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-placemake.gif)](/infrastructure/case-studies-urban-planning/place)
+[![Alt text for image on Isomer site](/images/infrastructure/urban-planning/up-placemake.gif)](/infrastructure/case-studies/placemaking)
