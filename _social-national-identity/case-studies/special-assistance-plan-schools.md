@@ -19,13 +19,15 @@ This decline led to the concern over preserving the best Chinese-medium schools 
 
 The excellent performance of the first batch of SAP school students in the O-level examinations contributed to a significant increase in the number of applications for SAP schools. Thanks to the SAP, schools like Nanyang Girls’ High School and Hwa Chong Institution, which were involved in historical moments during World War II when they were used by allied defenders, were preserved.
 
-![Alt text for image on Isomer site](/images/society/case-studies/social-images-21.png)
+![Alt text for image on Isomer site](/images/multic26.jpg)
+(Image: Wikimedia)
 
 #### Related programmes and campaigns
 
 Along with the SAP, the government also introduced the Speak Mandarin Campaign from 1979, to encourage Chinese in Singapore to learn and speak Mandarin instead of their dialects. The standardization of Chinese as the vernacular was intended to reduce the language barriers between the different dialect-speaking Chinese groups, and facilitate communication with Mainland Chinese. However, forcing these dialect-speaking Chinese to learn Mandarin in schools along with English essentially made them learn two second languages. This “sacrifice” of Chinese dialects in schools, accompanied by the elimination of dialect programmes from local media, led to the near-elimination of dialect-speaking ability within one generation. This loss of our cultural-linguistic heritage is a key example of the trade-offs our founding fathers had to make to secure our economic future.
 
 ![Alt text for image on Isomer site](/images/society/case-studies/speakmand.jpg)
+(Image: National Archives of Singapore)
 
 In 2005, with the strengthening of the Chinese economy, the Bicultural Studies Programme (BSP) was established in 3 SAP schools to develop among students a strong understanding of China’s history, culture and contemporary developments, in addition to a good command of the Chinese language. In 2007, a review taskforce chaired by the then-Minister of State Gan Kim Yong encouraged SAP schools to develop their own flagship programmes related to the learning of the Chinese language, culture and traditions. This led to the introduction of examinable and non-examinable subjects in the different SAP schools centered on Chinese.
 
@@ -33,7 +35,7 @@ In 2005, with the strengthening of the Chinese economy, the Bicultural Studies P
 
 These policies were originally meant “to preserve traditional Chinese values and nurture bilingualism”, to facilitate business with China and allow Singapore to benefit from China’s economic rise. Although the preservation of these schools may have already been achieved, the trade impetus remains, as China has been Singapore’s largest trading partner since 2014. Singapore, too, has been the top foreign investor in China until 2017. 
 
-Furthermore, with less people speaking in their mother tongues (MT) at home and the quality of MT education decreasing over the years, the SAP seems all the more necessary to promote true bilingualism, not just for Mandarin but for Malay and Tamil as well. However, this emphasis on language-learning for its economic value may actually backfire for Malay and Tamil, where members of the two communities view English instead as more important for success. Here, Singapore is once again caught between difficult choices, and we need to find the right trade-off between honing our economic advantage and preserving our cultural heritage, versus allowing the Anglicization of our society to continue.
+Furthermore, with less people speaking in their mother tongues (MT) at home and the quality of MT education decreasing over the years, the SAP seems all the more necessary to promote true bilingualism, not just for Mandarin but for Malay and Tamil as well. However, this emphasis on language-learning for its economic value may actually backfire for Malay and Tamil, where members of the two communities view English instead as more important for success. Here, Singapore is once again caught between difficult choices, and we need to find the right trade-off between honing our economic advantage and preserving our cultural heritage, versus allowing the anglicisation of our society to continue.
 
 If we choose to retain the SAP, the problem of racial segregation needs to be addressed. Since its inception in 1979, concerns have been raised about the lack of opportunities for students in SAP schools for interracial mixing. In response, some SAP schools have made Malay a compulsory subject for lower secondary students, while others introduced opportunities for students to broaden their social interactions through community-based activities or exchanges with cultural groups and other schools. Although these measures were deemed sufficient in 1990, it is worth re-examining them in light of the recent anecdotal reports of students experiencing casual or outright racism at the hands of those from SAP schools.
 

@@ -51,10 +51,10 @@ However, it was only 20 years later when technology caught up with the idea that
 
 There was initial scepticism that NEWater was safe to drink. Many balked at the thought of drinking waste and sewage water. In response, PUB set out to raise public awareness of the stringent safety measures in producing the ultra-clean NEWater.
 
-To instil confidence in NEWater, PUB opened up its NEWater plants to the public, demonstrating the technology behind the product. To further convince the public that the water was safe to drink, Singapore enlisted the support of community leaders, scientists and politicians to correct misconceptions about NEWater. Prime Minister Goh Chok Tong himself drank a bottle in front of the nation in a NEWater toast during the 2002 National Day Parade.
+To instil confidence in NEWater, PUB opened up its NEWater plants to the public, demonstrating the technology behind the product. To further convince the public that the water was safe to drink, Singapore enlisted the support of community leaders, scientists and politicians to correct misconceptions about NEWater. Then-Prime Minister Goh Chok Tong endorsed NEWater multiple times, such as drinking a bottle in front of the nation in a NEWater toast during the 2002 National Day Parade and after a tennis game at the Istana.
 
-![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/image014.jpg)Image: MICA courtesy of NAS
+![Alt text for image on Isomer site](/images/pm_goh_newater.jpg)Image: Ministry of Information, Communications and the Arts Collection, courtesy of National Archives of Singapore
 
 Thinking out of the box is one way we have adapted. This innovative energy is a key theme that runs throughout our short history. Another area that we have consistently applied innovative thinking is in our approach to energy resources.
 
-[![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/image015.gif)](/infrastructure/case-studies-resources/energy)
+[![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/image015.gif)](/infrastructure/case-studies/energy)

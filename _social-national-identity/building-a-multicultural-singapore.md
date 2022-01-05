@@ -12,7 +12,10 @@ Interactions between the different ethnic groups, however, were limited under Br
 
 This segregation hindered the development of mutual understanding and trust between communities. “Each group clung to its own clan or dialect community for security. There was no social cohesion. We were a divided society,” former Minister for National Development S. Dhanabalan said at a New Year gathering for community leaders on 6 January 1989.
 
-![Alt text for image on Isomer site](/images/society/multicultural/racialharmony-01-adjusted.png)
+![Alt text for image on Isomer site](/images/multic1.jpg)
+(Image: National Archives of Singapore)
+![Alt text for image on Isomer site](/images/multic2.jpg)
+(Image: National Archives of Singapore)
 
 In 1964, Singapore encountered one of its worst riots. On 21 July, 23 people lost their lives and another 454 were injured following a scuffle between the Chinese and the Malays during a procession to celebrate the Prophet Muhammad’s birthday. The riots reignited in September, killing 13 people and injuring 106. Five years later, another racial riot broke out, leaving four dead and 80 injured.
 
@@ -22,7 +25,10 @@ In 1964, Singapore encountered one of its worst riots. On 21 July, 23 people los
 
 The racially-charged riots of 1964 and 1969 showed how easily ethnic tensions could be exploited to thrust the nation into turmoil. Singapore’s early leaders recognised that race and religion were potential fault lines that had to be addressed, if Singapore were to progress.
 
-![Alt text for image on Isomer site](/images/society/multicultural/racialharmony-06-a.png)
+![Alt text for image on Isomer site](/images/multic3.jpg)
+(Image: National Archives of Singapore)
+![Alt text for image on Isomer site](/images/multic4.jpg)
+(Image: National Archives of Singapore)
 
 This issue was the key reason why they made the painful decision to separate from Malaysia in 1965. The Malaysian leaders wanted a “Malay Malaysia”, not a “Malaysian Malaysia”. They saw Singapore’s multiracial slogan as a challenge to Malay dominance. It was a disagreement that could not be resolved.
 
@@ -31,6 +37,7 @@ This issue was the key reason why they made the painful decision to separate fro
 Having experienced racial politics, where the majority Malay race in Malaysia was favoured, Singapore’s founding Prime Minister Lee Kuan Yew understood the need for meritocracy and equality. When Singapore separated from Malaysia, our leaders drummed into Singaporeans that each citizen is equal, regardless of race, language or religion.
 
 ![Alt text for image on Isomer site](/images/society/multicultural/img0042.jpg)
+(Image: National Archives of Singapore)
 
 In his first speech to the United Nations General Assembly on 21 September 1965, then-Foreign Minister S. Rajaratnam described Singapore as a “little United Nations in the making” where four cultures – Malay, Chinese, Indian and Western – were allowed to develop freely and equally.
 
@@ -52,7 +59,10 @@ Hence, the government introduced English as the language of administration and i
 
 [![Alt text for image on Isomer site](/images/society/multicultural/OpenDoc%20Banners-4.gif)](/social-national-identity/case-studies/special)
 
-![Alt text for image on Isomer site](/images/society/multicultural/racialharmony-07_v2-2.png)
+![Alt text for image on Isomer site](/images/multic6.jpg)
+(Image: Ministry of Education)
+![Alt text for image on Isomer site](/images/multic7.jpg)
+(Image: National Archives of Singapore)
 
 Another way the government sought to bridge gaps along racial lines was to increase opportunities for interaction and build familiarity with other practices and customs, so that Singaporeans see themselves as part of a larger community of diverse people.
 
@@ -60,11 +70,14 @@ The Housing Development Board’s (HDB) Ethnic Integration Policy (EIP) was intr
 
 [![Alt text for image on Isomer site](/images/society/multicultural/OpenDoc%20Banners-2.gif)](/social-national-identity/examples/hdb)
 
-![Alt text for image on Isomer site](/images/society/multicultural/racialharmony-08-2.png)
+![Alt text for image on Isomer site](/images/multic8.jpg)
+(Image: National Archives of Singapore)
+![Alt text for image on Isomer site](/images/multic9.jpg)
+(Image: National Archives of Singapore)
 
 In just three decades, HDB estates have become a microcosm of society, with a mix of residents of all races. The abundance of common spaces, including coffeeshops, fitness corners and community centres, has also made it easier for residents of different races to gather, mix, and play. 
 
-Residents have also largely accommodated one another's practices and customs. Cultural and religious practices such as the burning of joss paper and incense during Hungry Ghost Festival, prayer sessions at void decks during Ramadhan and the annual foot procession by Hindus during Thaipusum have largely gained acceptance among all ethnic groups. There have also been instances of the various ethnic groups celebrating the festivals of other races. For example, they would visit the homes of friends and neighbours of different ethnic groups during national holidays like Chinese New Year, Hari Raya Puasa, and Deepavali.
+Residents have also largely accommodated one another's practices and customs. Cultural and religious practices such as the burning of joss paper and incense during Hungry Ghost Festival, prayer sessions at void decks during Ramadhan and the annual foot procession by Hindus during Thaipusam have largely gained acceptance among all ethnic groups. There have also been instances of the various ethnic groups celebrating the festivals of other races. For example, they would visit the homes of friends and neighbours of different ethnic groups during national holidays like Chinese New Year, Hari Raya Puasa, and Deepavali.
 
 #### Building Common Ground Amid Diversity
 
@@ -84,7 +97,7 @@ Then-PM Goh was concerned that revealing that a Singaporean Muslim's involvement
 
 In the aftermath of the JI arrests, Inter-Racial Confidence Circles (IRCC) were formed in 2002, to act as a critical bridge between racial and religious leaders, and promote inter-faith interaction and understanding. In the event of any racial and religious conflict, the IRCCs act as first responders to quell any brewing tension among the various ethnic groups and reestablish peace.
 
-The key value of the IRCC network is “to make sure that in times of peace, we build relationships, trust and confidence. This will create a safety net for Singapore.” said then-Minsiter for Community Development, Youth and Sports Vivian Balakrishnan in 2008.
+The key value of the IRCC network is “to make sure that in times of peace, we build relationships, trust and confidence. This will create a safety net for Singapore.” said then-Minister for Community Development, Youth and Sports Vivian Balakrishnan in 2008.
 
 On January 2016, the Ministry of Home Affairs (MHA) released news of the arrest of 27 radicalised Bangladeshis in Singapore, who were contemplating carrying out acts of armed violence overseas. In May that year, another 8 Bangladeshi men were detained for planning to stage terror attacks back in Bangladesh, and for intending to join terror group ISIS as foreign fighters in Syria and Iraq.
 

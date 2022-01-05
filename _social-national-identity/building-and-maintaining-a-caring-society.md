@@ -28,17 +28,20 @@ Advancement in schools is also based on merit, using results from national exami
 
 Many attempts have also been made to tear down the metaphorical fences between those living in public and private homes. For example, in June 1998, the People’s Association (PA) formed Neighbourhood Committees within private estates to promote active citizenry and neighbourliness, as what the Residents’ Committees in HDB zones do. Joint activities for both groups have been regularly organised since then.
 
-![Alt text for image on Isomer site](/images/society/caring/social-images-15-2.png)
+![Alt text for image on Isomer site](/images/multic14.jpg)
+(Image: National Archives of Singapore)
 
 Sports have also been a way to bring people together. Joining sports clubs at community centres is free, allowing avid players of the sport to mingle and get to know each other.
 
-To ensure that no one is left behind, schemes such as SkillsFuture and the Progressive Wage Model (PWM) provide opportunities for low-wage workers to upgrade their skills and take on more highly skilled work. For instance, SkillsFuture aims is to help Singaporeans develop and master relevant skills that will help them in their career. To ensure that all have the opportunity to access courses for self-improvement, credits are provided for Singaporeans aged 25 and above to use for courses. There are also subsidies are also provided for certain courses and after meeting certain requirements, such as an up to 90% subsidy on selected courses for Singaporeans aged 40 and above. This initiative helps to make training courses accessible to all, and help boost employability to achieve higher paying jobs, regardless of one’s starting point.
+To ensure that no one is left behind, schemes such as SkillsFuture and the Progressive Wage Model (PWM) provide opportunities for low-wage workers to upgrade their skills and take on more highly skilled work. For instance, SkillsFuture aims to help Singaporeans develop and master relevant skills that will help them in their careers. To ensure that all have the opportunity to access courses for self-improvement, credits are provided for Singaporeans aged 25 and above to use for courses. There are also subsidies are also provided for certain courses and after meeting certain requirements, such as up to 90% subsidy on selected courses for Singaporeans aged 40 and above. This initiative helps to make training courses accessible to all, and help boost employability to achieve higher paying jobs, regardless of one’s starting point.
 
-![Alt text for image on Isomer site](/images/society/caring/social-images-12-2.png)
+![Alt text for image on Isomer site](/images/multic15.jpg)
 
 Those with disabilities are also given opportunities to improve their lives and contribute to society. A national road map – the Enabling Masterplan – was launched to improve the lives of the disabled and support their caregivers. The first masterplan was unveiled in 2007; the second in 2012. The third, launched in 2019, saw the creation of two new workgroups to help people with special needs live independently and improve their chances of getting a job. One group will look at making it easier to access lifelong learning opportunities and employment pathways, while the second will assess how technology and design in homes and the community help those with special needs live independently.
 
-![Alt text for image on Isomer site](/images/society/caring/social-images-13-2.png)
+![Alt text for image on Isomer site](/images/multic16.jpg)
+![Alt text for image on Isomer site](/images/multic17.jpg)
+(Images: National Archives of Singapore)
 
 Total funding for special education schools have also risen by about 40 per cent over the last five years, ensuring that children and teenagers with intellectual difficulties are able to get an education. The number of special needs schools now stands at 19, with three more in the works. More mainstream schools are also opening their doors to students with mild special needs, with the help of allied educators. Currently, 20 per cent of students with special needs are in special education schools, with the rest, or 26,000 students, in mainstream schools. This figure has doubled from 13,000 in 2013.
 
@@ -48,7 +51,7 @@ While the government’s social provisions have broadened, they remain anchored 
 
 Relying on government support alone is also insufficient, and it is up to the individual to take initiative and put in the hard work. In his 2012 National Day Rally speech, PM Lee noted that there a need to “maintain a sense of mutual responsibility amongst ourselves and especially on the part of those who are more successful than others”.
 
-Many Singaporeans have indeed come forward to help one another, and in recent years, there has been an upward trend in volunteerism in Singapore, especially among retirees. Charities like Temasek Foundation and Lien Foundation have also stepped up. Temasek Foundation has funded initiatives that include offering mothers from vulnerable families a community health and social care support system from pregnancy until their child is three, and empowering children from low-income families to chase their dreams in dance and art. Meanwhile Lien Foundation has been investing in the eldercare sector, creating more centres for seniors to exercise, undergo health checks or socialise, as well as more quality nursing homes equipped with facilities such as a gym and cafe.
+Many Singaporeans have come forward to help one another, and in recent years, there has been an upward trend in volunteerism in Singapore, especially among retirees. Charities like Temasek Foundation and Lien Foundation have also stepped up. Temasek Foundation has funded initiatives that include offering mothers from vulnerable families a community health and social care support system from pregnancy until the child turns three years old, and empowering children from low-income families to chase their dreams in dance and art. Meanwhile Lien Foundation has been investing in the eldercare sector, creating more centres for seniors to exercise, undergo health checks or socialise, as well as more quality nursing homes equipped with facilities such as a gym and cafe.
 
 [![Alt text for image on Isomer site](/images/society/caring/OpenDoc%20Banners-14.gif)](/social-national-identity/examples/volunteerism)
 
@@ -76,7 +79,7 @@ Similarly in 2020, as the world fought to control and contain the COVID-19 pande
 
 [![Alt text for image on Isomer site](/images/society/caring/OpenDoc%20Banners-13.gif)](/social-national-identity/case-studies/covid19)
 
-Even our daily lives, Singaporeans have shown love and compassion to others. One couple opened their home to young people in need, quitting their jobs in the process. Mr Kenneth Thong and his wife, Adeline, started The Last Resort -- a home for young adults operating out of a rented four-storey terraced house in Seletar. The young adults who stay with them could be unwed mothers, homeless teenagers or those with mental problems. Most are from dysfunctional families and have nowhere else to go, and many are too old for institutional care or fostering. “We want them to experience what a normal, safe, functional family looks like. And that means they are free to have whatever we have here,” said Mr Thong in an interview with The Straits Times in 2018.
+Even our daily lives, Singaporeans have shown love and compassion to others. One couple opened their home to young people in need, quitting their jobs in the process. Mr Kenneth Thong and his wife, Adeline, started The Last Resort — a home for young adults operating out of a rented four-storey terraced house in Seletar. The young adults who stay with them could be unwed mothers, homeless teenagers or those with mental problems. Most are from dysfunctional families and have nowhere else to go, and many are too old for institutional care or fostering. “We want them to experience what a normal, safe, functional family looks like. And that means they are free to have whatever we have here,” said Mr Thong in an interview with The Straits Times in 2018.
 
 While there are many of these heartwarming examples, fostering a caring and inclusive society still requires constant nurturing, and getting people to look beyond the boundaries of their class lines.
 

@@ -19,7 +19,7 @@ In 2012, Singaporean Amy Cheong made the headlines after she launched a racist t
 
 ![Alt text for image on Isomer site](/images/society/case-studies/Screenshot%202020-0.png)
 
-As Singapore welcomes a greater diversity of cultures, these two incidents shows us how communication and consideration for other cultures can go a long way in building a harmonious society.
+As Singapore welcomes a greater diversity of cultures, these two incidents have shown us how communication and consideration for other cultures can go a long way in building a harmonious society.
 
 #### Fake News, Real Emotions
 

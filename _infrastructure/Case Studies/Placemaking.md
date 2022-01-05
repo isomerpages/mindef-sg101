@@ -29,9 +29,7 @@ The community has been involved in these placemaking projects. The Lively Places
 
 There are many examples of how Singapore has sought to make public spaces unique for Singaporeans.
 
-![Alt text for image on Isomer site](/images/infrastructure/case-studies-urban-planning/upcs-26.png)Images: Precincts in the Pilot Business Improvement District Programme / URA
-
-One example is the URA’s Business Improvement District (BID) programme. The BID has increased the allure of 10 precincts across Singapore, including City Hall, Singapore River, Jurong Gateway, and Paya Lebarthrough targeted marketing and events. The private sector independently takes charges of the programme, which provides stakeholders in the area, such as local businesses and communities, with a sense of ownership.
+One example is the URA’s [Business Improvement District (BID) programme](https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Placemaking-and-Partnership/Business-Improvement-District). The BID has increased the allure of 10 precincts across Singapore, including City Hall, Singapore River, Jurong Gateway, and Paya Lebarthrough targeted marketing and events. The private sector independently takes charges of the programme, which provides stakeholders in the area, such as local businesses and communities, with a sense of ownership.
 
 The Singapore River One programme is another example, with the waterfront bolstered by events such as the Singapore River Festival. Street benches and playgrounds have also been installed to encourage recreational activities there.
 

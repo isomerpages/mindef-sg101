@@ -17,7 +17,7 @@ We are pushing for regional cooperation across multiple platforms, from the Regi
 
 Apart from building international linkages, we have been forging closer ties within the region. ASEAN remains an important market for us, given our strong ties with our neighbours and the rest of the ASEAN countries.
 
-![Alt text for image on Isomer site](/images/economy/staying-exceptional/Case%20Study_ASEAN%20Econ%20Community.gif)
+[![Alt text for image on Isomer site](/images/economy/staying-exceptional/Case%20Study_ASEAN%20Econ%20Community.gif)](/economy/digging-deeper-case-studies/asean)
 
 #### Upgrading our Workers’ Skills
 

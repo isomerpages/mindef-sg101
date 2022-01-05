@@ -11,9 +11,9 @@ Located near Redhill MRT station, the $25 million set-up opened in 2015. It has 
 
 To boost the job prospects of people with disabilities, it also has an information and career centre, as well as training facilities such as a mock hotel room where they can learn housekeeping. Various training courses are also offered.
 
-As Singapore strives to be more inclusive, there have been more initiatives that not only cater to people of all needs and abilities, but also encourage interaction among them.
+As Singapore strives to be more inclusive, there have been more initiatives that not only cater to people of all needs and abilities, but also to encourage interactions among them.
 
-Another example is Kindle Garden, an inclusive preschool that is the first of its kind in Singapore. It enables children of all abilities, from mainstream ability children to those with severe needs, to learn and play together. About 30% of the approximately 80 currently enrolled at the preschool, which is run by non-profit AWWA, have special needs such as autism, down syndrome or cerebral palsy.
+Another example is Kindle Garden, an inclusive preschool that is the first of its kind in Singapore. It enables children of all abilities, from mainstream ability children to those with severe needs, to learn and play together. About 30 per cent of the approximately 80 currently enrolled at the preschool, which is run by non-profit AWWA, have special needs such as autism, down syndrome or cerebral palsy.
 
 This mindset has extended to the workplace, such as at Foreword Coffee. This specialty coffee company has a social mission to empower people with special needs by giving them jobs and equipping them with barista skills.
 

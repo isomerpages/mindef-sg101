@@ -90,7 +90,7 @@ Singapore has numerous [bilateral and multilateral FTAs](https://www.enterprises
 He also said that “the strategy was to link our small economy to the economies of other bigger countries [...] [so] Singapore will be more deeply connected to the global supply chain and our exporters will have lower tariff or non-tariff barriers.”
 
 <p>These FTAs enable Singapore’s exporters, which include foreign manufacturers based here, to enjoy preferential rates in key export markets such as China, Japan and the US. This gives Singapore an edge over other lower-cost locations and is another reason foreign MNCs are keen to invest in Singapore.</p>
-	</div>
+	
 	
 [![Alt text for image on Isomer site](/images/economy/growing-our-economy/Case%20Study_SG-US%20FTA.gif)](/economy/digging-deeper-case-studies/sgusfta)
 

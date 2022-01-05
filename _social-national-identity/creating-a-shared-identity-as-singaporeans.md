@@ -26,7 +26,7 @@ Red was chosen because it symbolised prosperity and happiness, while white – f
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/aAE6tC98xpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The idea of a pledge was also mooted as a way to inculcate national consciousness and patriotism in schools. Then-Minister for Foregin Affairs S. Rajaratnam, who authored the pledge, believed that differences in language, race and religion were potentially divisive. Hence, he made use of the pledge to emphasise that these differences could be overcome if Singaporeans were united in their commitment to the country.
+The idea of a pledge was also mooted as a way to inculcate national consciousness and patriotism in schools. Then-Minister for Foreign Affairs S. Rajaratnam, who authored the pledge, believed that differences in language, race and religion were potentially divisive. Hence, he made use of the pledge to emphasise that these differences could be overcome if Singaporeans were united in their commitment to the country.
 
 The fundamentals of Singapore’s multicultural society were not to forget or paper over differences, but to acknowledge them, set them aside, and go beyond them -- regardless of race, language or religion. 
 
@@ -34,7 +34,9 @@ The fundamentals of Singapore’s multicultural society were not to forget or pa
 
 After three drafts and multiple revisions, the Singapore pledge was eventually finalised. On 24 August 1966, about 500,000 students at all 529 government and government-aided schools took part in the first daily recitation of the pledge before the national flag.
 
-![Alt text for image on Isomer site](/images/society/sharedid/pledge1966.jpg)
+![Alt text for image on Isomer site](/images/multic10.jpg)
+![Alt text for image on Isomer site](/images/multic11.jpg)
+(Images: National Archive of Singapore)
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/dIZHmB2r7JM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -42,7 +44,9 @@ After three drafts and multiple revisions, the Singapore pledge was eventually f
 
 While symbols may help Singaporeans identify with the country, it did not create our national identity overnight. Forging a national identity required time and a conscious effort to allow people opportunities to interact and form bonds with one other. They also need to feel that they have a tangible stake in the country’s development and progress.
 
-![Alt text for image on Isomer site](/images/society/sharedid/homeown.jpg)
+![Alt text for image on Isomer site](/images/multic12.jpg)
+![Alt text for image on Isomer site](/images/multic13.jpg)
+(Images: National Archives of Singapore)
 
 One of the ways this was done was through the housing scheme introduced to encourage home ownership among Singaporeans. In February 1964, the government introduced the Home Ownership for the People Scheme to give citizens a tangible asset in the country and a stake in nation-building. Today, about 80% of the population live in Housing & Development Board (HDB) flats, and a vast majority own their flats.
 
@@ -52,7 +56,7 @@ A big part of forging a common identity lies in the intangible aspects of cultur
 
 Apart from that, art and music were also used to help create a Singaporean culture in the 1990s. Led by then-Acting Minister for the Arts George Yeo, Singapore built The Esplanade and new museums, as well as set up the National Arts Council (NAC).
 
-Over the years, we have developed a distinctly Singaporean cultural experience, drawing from our richness and diversity from our roots as a migrant nation. Many aspects of our culture are a rich amalgamation and hybrid of Chinese, Malay, Indian, European cultures and so on. OUr hawker culture, for one, has made it onto UNESCO’s Intangible Cultural Heritage list.
+Over the years, we have developed a distinctly Singaporean cultural experience, drawing from our richness and diversity from our roots as a migrant nation. Many aspects of our culture are a rich amalgamation and hybrid of Chinese, Malay, Indian, European cultures and so on. Our hawker culture, for one, has made it onto UNESCO’s Intangible Cultural Heritage list.
 
 [![Alt text for image on Isomer site](/images/society/sharedid/OpenDoc%20Banners-8.gif)](/social-national-identity/case-studies/heritage)
 
