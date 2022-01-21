@@ -17,3 +17,5 @@ Frigates are key in the RSN’s ability to defend Singapore’s Sea Lines of Com
 Today, the RSN's six frigates form First Flotilla, with RSS Formidable as the lead ship. They participate in range of exercises and operations around the world, including counter-piracy and search and rescue operations, contributing to defending Singapore’s waters and beyond. ⚓️
 
 📸 RSN
+
+Visit ConnexionSG Facebook @ [https://www.facebook.com/ConnexionSG](https://www.facebook.com/ConnexionSG)
