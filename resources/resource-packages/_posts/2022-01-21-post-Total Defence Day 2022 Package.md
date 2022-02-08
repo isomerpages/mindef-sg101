@@ -35,5 +35,7 @@ Pri 5 - 6 Activity Sheets & Educators Guide
 * [Folio 3 - Activity Sheet.pdf](/files/packages/2022/td-activity-sheets/folio4/Folio%203%20-%20Activity%20Sheet.pdf)
 
 Secondary Activity Sheets & Educators Guide
-* [Folio 1 - [Educator's Guide] Total Defence Activity Sheet (Secondary).pdf](/files/packages/2022/td-activity-sheets/folio5/Folio%201%20-%20Educators%20Guide%20Total%20Defence%20Activity%20Sheet%20Secondary%20v2.pdf)
-* [Folio 2 - Activity Sheet.pdf](/files/packages/2022/td-activity-sheets/folio5/Folio%202%20-%20Activity%20Sheet.pdf)
+* [Folio 1 - [Educator's Guide] Total Defence Activity Sheet (Secondary).pdf](/files/packages/2022/td-activity-sheets/folio5/Folio%201%20-%20Educators%20Guide%20Total%20Defence%20Activity%20Sheet%20Secondary%2008022022.pdf)
+
+* [Folio 2 - Activity Sheet.pdf](/files/packages/2022/td-activity-sheets/folio5/Folio%202%20-%20Activity%20Sheet%2008022022.pdf)
+
