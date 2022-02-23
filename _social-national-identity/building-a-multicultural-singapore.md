@@ -25,9 +25,10 @@ In 1964, Singapore encountered one of its worst riots. On 21 July, 23 people los
 
 The racially-charged riots of 1964 and 1969 showed how easily ethnic tensions could be exploited to thrust the nation into turmoil. Singapore’s early leaders recognised that race and religion were potential fault lines that had to be addressed, if Singapore were to progress.
 
-![Alt text for image on Isomer site](/images/multic3.jpg)
-(Image: National Archives of Singapore)
-![Alt text for image on Isomer site](/images/multic4.jpg)
+![](/images/Junior_OSD_YishunPriSchool_Ng_Xi_Rou_2%20-%20Liang%20Tien%20Ang.jpg)
+(Image: Ministry of Education, Singapore)
+
+![](/images/img0113.jpg)
 (Image: National Archives of Singapore)
 
 This issue was the key reason why they made the painful decision to separate from Malaysia in 1965. The Malaysian leaders wanted a “Malay Malaysia”, not a “Malaysian Malaysia”. They saw Singapore’s multiracial slogan as a challenge to Malay dominance. It was a disagreement that could not be resolved.
@@ -36,7 +37,7 @@ This issue was the key reason why they made the painful decision to separate fro
 
 Having experienced racial politics, where the majority Malay race in Malaysia was favoured, Singapore’s founding Prime Minister Lee Kuan Yew understood the need for meritocracy and equality. When Singapore separated from Malaysia, our leaders drummed into Singaporeans that each citizen is equal, regardless of race, language or religion.
 
-![Alt text for image on Isomer site](/images/society/multicultural/img0042.jpg)
+![](/images/img0042%20(1).jpg)
 (Image: National Archives of Singapore)
 
 In his first speech to the United Nations General Assembly on 21 September 1965, then-Foreign Minister S. Rajaratnam described Singapore as a “little United Nations in the making” where four cultures – Malay, Chinese, Indian and Western – were allowed to develop freely and equally.
