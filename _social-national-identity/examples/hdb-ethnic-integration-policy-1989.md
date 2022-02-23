@@ -7,7 +7,7 @@ third_nav_title: Examples
 
 In the 1980s, more than 20 years after HDB flats were introduced, there were signs that segregation among the races had once again started to take root. Malay households made up more than 30 per cent of the estate population in Bedok and Tampines while the Chinese formed more than 90 per cent of the households in Hougang. This was made worse by a growing resale market for HDB flats, where families tended to buy flats in areas with more residents of their own race.
 
-![Alt text for image on Isomer site](/images/multic18.jpg)
+![](/images/img0083.jpg)
 ![Alt text for image on Isomer site](/images/multic19.jpg)
 (Images: National Archives of Singapore)
 
@@ -23,7 +23,7 @@ Then-Minister Dhanabalan, in introducing the policy to Parliament on 16 February
 
 The policy stipulated that the ratio of flats within neighbourhoods for the different ethnic groups: 22 per cent for Malays, 84 per cent for Chinese, and 10 per cent for Indians and other minority groups. Within each block, the ratio for flats was 25 per cent for Malays, 87 per cent for Chinese, and 13 per cent for Indians. These quotas have changed over the years, such as in 2010, where the neighbourhood- and block-level limits for Indians and other minority groups were raised to 12 per cent and 15 per cent respectively. Nonetheless, the principles remain the same. 
 
-![Alt text for image on Isomer site](/images/multic20.jpg)
-![Alt text for image on Isomer site](/images/multic21.jpg)
-![Alt text for image on Isomer site](/images/multic22.jpg)
+![](/images/img0054.jpg)
+![](/images/img0020.jpg)
+![](/images/img0064.jpg)
 (Images: National Archives of Singapore)
