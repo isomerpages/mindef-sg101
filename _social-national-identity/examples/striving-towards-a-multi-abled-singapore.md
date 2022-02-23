@@ -15,6 +15,9 @@ As Singapore strives to be more inclusive, there have been more initiatives that
 
 Another example is Kindle Garden, an inclusive preschool that is the first of its kind in Singapore. It enables children of all abilities, from mainstream ability children to those with severe needs, to learn and play together. About 30 per cent of the approximately 80 currently enrolled at the preschool, which is run by non-profit AWWA, have special needs such as autism, down syndrome or cerebral palsy.
 
+![](/images/kindle%20garden.jpg)
+(Image: Kindle Garden)
+
 This mindset has extended to the workplace, such as at Foreword Coffee. This specialty coffee company has a social mission to empower people with special needs by giving them jobs and equipping them with barista skills.
 
 The work processes at their cafes are split into four stations so that each employee can focus on just one task. The coffee machine for Foreword Coffee’s third outlet, at Temasek Shophouse, also uses a switch that can be flipped easily instead of the more conventional knob. It was bought specially for staff with health conditions such as cerebral palsy, who do not have enough strength in their arms.
