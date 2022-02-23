@@ -34,8 +34,8 @@ The fundamentals of Singapore’s multicultural society were not to forget or pa
 
 After three drafts and multiple revisions, the Singapore pledge was eventually finalised. On 24 August 1966, about 500,000 students at all 529 government and government-aided schools took part in the first daily recitation of the pledge before the national flag.
 
-![Alt text for image on Isomer site](/images/multic10.jpg)
-![Alt text for image on Isomer site](/images/multic11.jpg)
+![](/images/img0091.jpg)
+![](/images/img0084.jpg)
 (Images: National Archive of Singapore)
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/dIZHmB2r7JM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
