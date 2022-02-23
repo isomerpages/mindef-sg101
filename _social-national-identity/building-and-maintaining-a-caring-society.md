@@ -28,7 +28,7 @@ Advancement in schools is also based on merit, using results from national exami
 
 Many attempts have also been made to tear down the metaphorical fences between those living in public and private homes. For example, in June 1998, the People’s Association (PA) formed Neighbourhood Committees within private estates to promote active citizenry and neighbourliness, as what the Residents’ Committees in HDB zones do. Joint activities for both groups have been regularly organised since then.
 
-![Alt text for image on Isomer site](/images/multic14.jpg)
+![](/images/img0001%20(1).jpg)
 (Image: National Archives of Singapore)
 
 Sports have also been a way to bring people together. Joining sports clubs at community centres is free, allowing avid players of the sport to mingle and get to know each other.
