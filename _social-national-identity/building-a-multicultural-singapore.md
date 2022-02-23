@@ -71,7 +71,7 @@ The Housing Development Board’s (HDB) Ethnic Integration Policy (EIP) was intr
 
 [![Alt text for image on Isomer site](/images/society/multicultural/OpenDoc%20Banners-2.gif)](/social-national-identity/examples/hdb)
 
-![Alt text for image on Isomer site](/images/multic8.jpg)
+![](/images/housing.jpg)
 (Image: National Archives of Singapore)
 ![Alt text for image on Isomer site](/images/multic9.jpg)
 (Image: National Archives of Singapore)
@@ -130,7 +130,8 @@ Moreover, there is a tendency for social media platform algorithms to create “
 
 To prevent our social media feeds and those of our friends from becoming echo chambers, we need to consciously look out for people with opinions different from our own to converse with them, and share articles or commentaries from a range of perspectives. We need to also be aware of accounts that spread fake news or cause hate, by those who seek to destabilise our society. Calling out the inaccuracies in these posts and having conversations with those who share them, helps protect the unity we enjoy as a society.
 
-![Alt text for image on Isomer site](/images/society/multicultural/social-images-10-2.png)
+![](/images/Junior_PM_TeckWhyePrimarySchool.jpg)
+(Image: Ministry of Education, Singapore)
 
 “We are not completely colour-blind, and this makes a difference. It will influence our thinking and choices, either consciously or unconsciously,” said PM Lee Hsien Loong, in a speech on multiculturalism at a PA Kopi Talk on 23 September 2017, shortly after Madam Halimah Yacob was sworn in as Singapore’s first Malay president in 47 years. Singapore, he said, “continues to require guide-ropes and guard-rails to prevent us from falling off along the way.”
 
