@@ -40,8 +40,8 @@ To ensure that no one is left behind, schemes such as SkillsFuture and the Progr
 
 Those with disabilities are also given opportunities to improve their lives and contribute to society. A national road map – the Enabling Masterplan – was launched to improve the lives of the disabled and support their caregivers. The first masterplan was unveiled in 2007; the second in 2012. The third, launched in 2019, saw the creation of two new workgroups to help people with special needs live independently and improve their chances of getting a job. One group will look at making it easier to access lifelong learning opportunities and employment pathways, while the second will assess how technology and design in homes and the community help those with special needs live independently.
 
-![Alt text for image on Isomer site](/images/multic16.jpg)
-![Alt text for image on Isomer site](/images/multic17.jpg)
+![](/images/img0001.jpg)
+![](/images/img0042.jpg)
 (Images: National Archives of Singapore)
 
 Total funding for special education schools have also risen by about 40 per cent over the last five years, ensuring that children and teenagers with intellectual difficulties are able to get an education. The number of special needs schools now stands at 19, with three more in the works. More mainstream schools are also opening their doors to students with mild special needs, with the help of allied educators. Currently, 20 per cent of students with special needs are in special education schools, with the rest, or 26,000 students, in mainstream schools. This figure has doubled from 13,000 in 2013.
