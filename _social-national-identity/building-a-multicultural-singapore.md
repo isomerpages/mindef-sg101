@@ -12,9 +12,9 @@ Interactions between the different ethnic groups, however, were limited under Br
 
 This segregation hindered the development of mutual understanding and trust between communities. “Each group clung to its own clan or dialect community for security. There was no social cohesion. We were a divided society,” former Minister for National Development S. Dhanabalan said at a New Year gathering for community leaders on 6 January 1989.
 
-![Alt text for image on Isomer site](/images/multic1.jpg)
+![](/images/img0112.jpg)
 (Image: National Archives of Singapore)
-![Alt text for image on Isomer site](/images/multic2.jpg)
+![](/images/img0103.jpg)
 (Image: National Archives of Singapore)
 
 In 1964, Singapore encountered one of its worst riots. On 21 July, 23 people lost their lives and another 454 were injured following a scuffle between the Chinese and the Malays during a procession to celebrate the Prophet Muhammad’s birthday. The riots reignited in September, killing 13 people and injuring 106. Five years later, another racial riot broke out, leaving four dead and 80 injured.
