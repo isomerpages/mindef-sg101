@@ -44,7 +44,7 @@ After three drafts and multiple revisions, the Singapore pledge was eventually f
 
 While symbols may help Singaporeans identify with the country, it did not create our national identity overnight. Forging a national identity required time and a conscious effort to allow people opportunities to interact and form bonds with one other. They also need to feel that they have a tangible stake in the country’s development and progress.
 
-![Alt text for image on Isomer site](/images/multic12.jpg)
+![](/images/img0119.jpg)
 ![Alt text for image on Isomer site](/images/multic13.jpg)
 (Images: National Archives of Singapore)
 
