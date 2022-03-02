@@ -17,7 +17,7 @@ In 2011, the NIC developed the Singapore Citizenship Journey, consisting of inte
 
 Each year, a National Citizenship Ceremony is held in conjunction with the National Day celebrations, where new citizens receive their pink NRICs and citizen certificates. Citizenship ceremonies are also held every three months or so in group representation constituencies (GRCs) across the island, aimed at fostering a deeper sense of belonging among new citizens.
 
-![Alt text for image on Isomer site](/images/multic24.jpg)
+![](/images/img0053.jpg)
 ![Alt text for image on Isomer site](/images/multic25.jpg)
 (Images: National Archives of Singapore)
 

@@ -16,6 +16,7 @@ Apart from encouraging every community to speak up against extremist voices, wee
 They served as important bridges for leaders of the various racial and religious communities to interact through networking sessions and inter-faith dialogues and visits.
 
 ![Alt text for image on Isomer site](/images/society/examples/IRCC-2.png)
+(Image: Ministry of Culture, Community, and Youth, Singapore)
 
 Renamed Inter-Racial and Religious Confidence Circles in 2007, IRCCs continue to act as peacekeepers. Besides promoting inter-faith interaction and understanding, they also respond quickly to racial and religious tensions by addressing ground concerns, quashing rumours and preserving solidarity among members.
 

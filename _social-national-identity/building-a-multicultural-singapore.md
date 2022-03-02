@@ -12,9 +12,9 @@ Interactions between the different ethnic groups, however, were limited under Br
 
 This segregation hindered the development of mutual understanding and trust between communities. “Each group clung to its own clan or dialect community for security. There was no social cohesion. We were a divided society,” former Minister for National Development S. Dhanabalan said at a New Year gathering for community leaders on 6 January 1989.
 
-![Alt text for image on Isomer site](/images/multic1.jpg)
+![](/images/img0112.jpg)
 (Image: National Archives of Singapore)
-![Alt text for image on Isomer site](/images/multic2.jpg)
+![](/images/img0103.jpg)
 (Image: National Archives of Singapore)
 
 In 1964, Singapore encountered one of its worst riots. On 21 July, 23 people lost their lives and another 454 were injured following a scuffle between the Chinese and the Malays during a procession to celebrate the Prophet Muhammad’s birthday. The riots reignited in September, killing 13 people and injuring 106. Five years later, another racial riot broke out, leaving four dead and 80 injured.
@@ -25,9 +25,10 @@ In 1964, Singapore encountered one of its worst riots. On 21 July, 23 people los
 
 The racially-charged riots of 1964 and 1969 showed how easily ethnic tensions could be exploited to thrust the nation into turmoil. Singapore’s early leaders recognised that race and religion were potential fault lines that had to be addressed, if Singapore were to progress.
 
-![Alt text for image on Isomer site](/images/multic3.jpg)
-(Image: National Archives of Singapore)
-![Alt text for image on Isomer site](/images/multic4.jpg)
+![](/images/Junior_OSD_YishunPriSchool_Ng_Xi_Rou_2%20-%20Liang%20Tien%20Ang.jpg)
+(Image: Ministry of Education, Singapore)
+
+![](/images/img0113.jpg)
 (Image: National Archives of Singapore)
 
 This issue was the key reason why they made the painful decision to separate from Malaysia in 1965. The Malaysian leaders wanted a “Malay Malaysia”, not a “Malaysian Malaysia”. They saw Singapore’s multiracial slogan as a challenge to Malay dominance. It was a disagreement that could not be resolved.
@@ -36,7 +37,7 @@ This issue was the key reason why they made the painful decision to separate fro
 
 Having experienced racial politics, where the majority Malay race in Malaysia was favoured, Singapore’s founding Prime Minister Lee Kuan Yew understood the need for meritocracy and equality. When Singapore separated from Malaysia, our leaders drummed into Singaporeans that each citizen is equal, regardless of race, language or religion.
 
-![Alt text for image on Isomer site](/images/society/multicultural/img0042.jpg)
+![](/images/img0042%20(1).jpg)
 (Image: National Archives of Singapore)
 
 In his first speech to the United Nations General Assembly on 21 September 1965, then-Foreign Minister S. Rajaratnam described Singapore as a “little United Nations in the making” where four cultures – Malay, Chinese, Indian and Western – were allowed to develop freely and equally.
@@ -70,7 +71,7 @@ The Housing Development Board’s (HDB) Ethnic Integration Policy (EIP) was intr
 
 [![Alt text for image on Isomer site](/images/society/multicultural/OpenDoc%20Banners-2.gif)](/social-national-identity/examples/hdb)
 
-![Alt text for image on Isomer site](/images/multic8.jpg)
+![](/images/housing.jpg)
 (Image: National Archives of Singapore)
 ![Alt text for image on Isomer site](/images/multic9.jpg)
 (Image: National Archives of Singapore)
@@ -129,7 +130,8 @@ Moreover, there is a tendency for social media platform algorithms to create “
 
 To prevent our social media feeds and those of our friends from becoming echo chambers, we need to consciously look out for people with opinions different from our own to converse with them, and share articles or commentaries from a range of perspectives. We need to also be aware of accounts that spread fake news or cause hate, by those who seek to destabilise our society. Calling out the inaccuracies in these posts and having conversations with those who share them, helps protect the unity we enjoy as a society.
 
-![Alt text for image on Isomer site](/images/society/multicultural/social-images-10-2.png)
+![](/images/Junior_PM_TeckWhyePrimarySchool.jpg)
+(Image: Ministry of Education, Singapore)
 
 “We are not completely colour-blind, and this makes a difference. It will influence our thinking and choices, either consciously or unconsciously,” said PM Lee Hsien Loong, in a speech on multiculturalism at a PA Kopi Talk on 23 September 2017, shortly after Madam Halimah Yacob was sworn in as Singapore’s first Malay president in 47 years. Singapore, he said, “continues to require guide-ropes and guard-rails to prevent us from falling off along the way.”
 
