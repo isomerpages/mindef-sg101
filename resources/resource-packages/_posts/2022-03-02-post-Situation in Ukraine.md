@@ -8,7 +8,7 @@ description: ""
 On 24 Feb 22, Russian President Vladimir Putin authorised a “special military operation” against Ukraine.Singapore has since strongly condemned Russia’s unprovoked attack on Ukraine. To better understand the situation in Ukraine, Singapore’s position and key lessons for Singapore, please see attached the latest issue of NE Insights produced by Nexus on The Situation in Ukraine. 
 
 Download:
-[Folio 1 - Insights 1-22_Situation in Ukraine](/files/packages/2022/Folio%201%20-%20Insights%201-22_Situation%20in%20Ukraine.pdf)
+<br>[Folio 1 - Insights 1-22_Situation in Ukraine](/files/packages/2022/Folio%201%20-%20Insights%201-22_Situation%20in%20Ukraine.pdf)
 
 
 <br>Here are some useful resources:
@@ -26,4 +26,3 @@ Download:
 [[ConnexionSG Facebook post] - 24 Feb 2022](https://www.facebook.com/ConnexionSG/posts/7075684192473485)
 <br>[[ConnexionSG Facebook post] - 28 Feb 2022](https://www.facebook.com/ConnexionSG/posts/7095545250487379)
 <br>[[ConnexionSG Facebook post] - 2 Mar 2022](https://www.facebook.com/ConnexionSG/posts/7103935702981667)
-
