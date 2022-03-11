@@ -7,7 +7,6 @@ layout: post
 description: ""
 image: /images/31 jan.jpg
 ---
-
 ![](/images/31%20jan.jpg)
 
 #OnThisDay in 1942 (31 January) during World War II, Allied military engineers blew a 70-foot (or 21 metre) gap on Causeway in an attempt to slow down the Japanese troops’ advance into Singapore. This was after the last Allied military unit had crossed and withdrawn to Singapore — the Malayan mainland was lost to the Japanese.
@@ -20,4 +19,4 @@ When the Causeway was officially completed on 11 June 1924, it marked an importa
 
 📷: Japanese troops crossing the Causeway into Singapore after constructing a girder bridge over the gap; Lim Kheng Chye Collection, courtesy of National Archives of Singapore
 
-Visit ConnexionSG Facebook @ https://www.facebook.com/ConnexionSG
+Visit ConnexionSG Facebook @ [https://www.facebook.com/ConnexionSG](https://www.facebook.com/ConnexionSG)
