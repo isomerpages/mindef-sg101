@@ -22,4 +22,4 @@ But the victory could not last. Two hours later, the Japanese returned in the th
 
 📷: Men of the Malay Regiment training before the war. Source: Imperial War Museum (FE414) via Roots.sg
 
-Visit ConnexionSG Facebook @ https://www.facebook.com/ConnexionSG
+Visit ConnexionSG Facebook @ [https://www.facebook.com/ConnexionSG](https://www.facebook.com/ConnexionSG)
