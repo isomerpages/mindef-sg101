@@ -16,4 +16,4 @@ Today marks Total Defence Day. It reminds us of what it takes to stay free -- th
 
 📸: Lieutenant-General Percival (far right) and his party on his way to surrendering Singapore to the Japanese on 15 February 1942; Imperial War Museum Collection, courtesy of National Archives of Singapore
 
-Visit ConnexionSG Facebook @ https://www.facebook.com/ConnexionSG
+Visit ConnexionSG Facebook @ [https://www.facebook.com/ConnexionSG](https://www.facebook.com/ConnexionSG)
