@@ -16,4 +16,4 @@ By midnight, the Australian brigades defending Sarimbun Beach had lost contact w
 
 📸: Japanese troops arriving at Sarimbun beach
 
-Visit ConnexionSG Facebook @ https://www.facebook.com/ConnexionSG
+Visit ConnexionSG Facebook @ [https://www.facebook.com/ConnexionSG](https://www.facebook.com/ConnexionSG)
