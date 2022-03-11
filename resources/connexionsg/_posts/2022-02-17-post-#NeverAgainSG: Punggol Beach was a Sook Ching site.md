@@ -19,3 +19,5 @@ Punggol Beach — which has been redeveloped as Punggol Point today — was wher
 In 1995, a memorial plaque was included on Punggol Beach to mark the 50 years since the end of WWII, and to remind us that this shall never happen again. #neveragainSG
 
 📸 Punggol Beach in 2018 by Ria Tan / Wild Singapore; Heritage Marker on the Punggol Beach Massacre
+
+Visit ConnexionSG Facebook @ https://www.facebook.com/ConnexionSG
