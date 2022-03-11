@@ -17,4 +17,4 @@ It wasn’t just all boiled sweet potatoes and biscuits. Food was one way to rai
 
 🧑‍🍳 Recipe: Wartime Kitchen (Wong Hong Suen)
 
-Visit ConnexionSG Facebook @ https://www.facebook.com/ConnexionSG
+Visit ConnexionSG Facebook @ [https://www.facebook.com/ConnexionSG](https://www.facebook.com/ConnexionSG)
