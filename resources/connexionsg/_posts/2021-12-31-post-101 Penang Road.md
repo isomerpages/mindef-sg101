@@ -25,4 +25,4 @@ Retaining most of its original features and looking almost identical to when it 
 
 📷: NHB via Roots
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & Instagram
