@@ -12,3 +12,4 @@ With an incentive package offered to potential developers, the building’s icon
 
 Read more [here](https://www.facebook.com/ConnexionSG/photos/a.170987719609868/3574625695912703)
 
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
