@@ -20,4 +20,4 @@ Kampong Lorong Buangkok is the last example of village life, where community and
 
 References: Remember Singapore, Jalan Kayu Trail, Singapore Infopedia (NLB), Project Kampong Lorong Buangkok — Singapore Mainland’s Last Rural Village, BBC Travel, The Smart Local, Honeycombers, TODAY
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
