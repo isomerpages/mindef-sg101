@@ -18,4 +18,4 @@ The cards were much better than their predecessors too — they were laminated, 
 
 The registration exercise lasted till 31 Jan 1967. Right up to the last day, people formed long queues outside registration offices to certify that they belong to Singapore. The cards made us "officially" Singaporean, but the formation of orderly queues is one of many small things that unofficially make us, us.
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
