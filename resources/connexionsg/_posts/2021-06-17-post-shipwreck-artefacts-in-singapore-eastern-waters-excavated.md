@@ -4,9 +4,7 @@ date: 2021-06-17
 permalink: /resources/connexionsg/shipwreckartefacts
 layout: post
 ---
-
-
- In June 2021, important pieces to our history were uncovered from two shipwrecks in Singapore's eastern waters — the first to be found in our waters. 
+In June 2021, important pieces to our history were uncovered from two shipwrecks in Singapore's eastern waters — the first to be found in our waters. 
  
 ![Alt text for image on Isomer site](/images/shipwreck1.jpg)
 
@@ -24,4 +22,4 @@ The second shipwreck likely dates to the 18th century. It yielded Chinese cerami
 
 While the objects are themselves fascinating, what is even more so are questions they pose, and the insights they offer into Singapore’s place in the maritime crossroads of the east and west. With 700 years of history behind us, there is still much to piece together about who we were. And indeed how we flourished, met the challenges we faced, and, eventually, got to where we are today.
 
-<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
