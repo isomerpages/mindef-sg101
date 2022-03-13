@@ -16,4 +16,4 @@ In 2008, Molly made a comeback, to cater to those with difficulty accessing publ
 
 Molly buses continue to travel across Singapore today, so that people, from literally all walks of life, can enjoy the company of books.
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
