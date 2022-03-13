@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: /images/8 feb.jpg
 ---
-
 ![](/images/8%20feb.jpg)
 
 The Japanese launched their invasion of Singapore #onthisday, 8 Feb 1942, from concealed positions up the Skudai and Melayu Rivers of Johore. At around 1030pm, using assault boats and barges, Japanese 5th Division soldiers crossed the narrow Straits of Johore, and landed on the coast Lim Chu Kang and Sarimbun Beach in the northwestern corner of Singapore. This marked the first stage of the Japanese assault on the Allied forces in Singapore.
@@ -17,4 +16,4 @@ By midnight, the Australian brigades defending Sarimbun Beach had lost contact w
 
 📸: Japanese troops arriving at Sarimbun beach
 
-Visit ConnexionSG Facebook @ [https://www.facebook.com/ConnexionSG](https://www.facebook.com/ConnexionSG)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
