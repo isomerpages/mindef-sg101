@@ -17,3 +17,5 @@ And because we all have things to do regardless of rain or shine, over 250km of 
 Did you know the first sheltered walkways in Singapore go as far back as 1822? Read more about them here: https://www.facebook.com/ConnexionSG/posts/4447421911966406
 
 📷 Kallang River, Bishan-Ang Mo Kio Park (PUB Singapore)
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
