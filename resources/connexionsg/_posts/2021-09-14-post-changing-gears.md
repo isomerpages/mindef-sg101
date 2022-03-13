@@ -24,4 +24,4 @@ Singapore has never stood still. We have made economic pivots as our circumstanc
 
 📸: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
