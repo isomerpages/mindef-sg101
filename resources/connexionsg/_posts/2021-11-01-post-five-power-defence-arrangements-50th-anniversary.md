@@ -30,4 +30,4 @@ Catch the highlights from this week's flypast and naval vessel display commemora
 ![Alt text for image on Isomer site](/images/FPDA5.jpeg)
 ###### 2021: The FPDA member-nations participated in a flypast and naval vessel display to commemorate the FPDA's 50th anniversary on 18 October 2021. (Image: MINDEF)
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & Instagram
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
