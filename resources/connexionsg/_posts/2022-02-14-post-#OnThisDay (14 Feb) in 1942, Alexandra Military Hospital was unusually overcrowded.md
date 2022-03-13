@@ -7,7 +7,6 @@ layout: post
 description: ""
 image: /images/14 feb.jpg
 ---
-
 ![](/images/14%20feb.jpg)
 
 Alexandra Military Hospital (today’s Alexandra Hospital) was unusually overcrowded with twice as many patients as there were beds #OnThisDay (14 February) in 1942.
@@ -18,4 +17,4 @@ They bayoneted 50 unarmed patients and medical staff in the wards. Even people i
 
 Caught between the advancing Japanese troops and retreating British forces, the hospital's men and women were massacred, with no mercy. #neveragainSG #TotalDefence 
 
-Visit ConnexionSG Facebook @ [https://www.facebook.com/ConnexionSG](https://www.facebook.com/ConnexionSG)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
