@@ -19,4 +19,4 @@ It didn't just stop there. Efforts continued over the years to rebuild the lives
 The Bukit Ho Swee fire is now known by many as one of the biggest fires in Singapore. But it was also an incident that demonstrated a tenacity that comes of banding together, through adversity, and reflected how we are — and have always been — stronger, together.  #WeAreTotalDefence
 
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
