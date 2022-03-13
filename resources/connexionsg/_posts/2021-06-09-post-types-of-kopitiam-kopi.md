@@ -11,4 +11,4 @@ Here's ConnexionSG's guide for that customised cup of kopi:
 
 ![Alt text for image on Isomer site](/images/types_kopi.jpg)
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
