@@ -21,4 +21,4 @@ With over 400 years of history behind them, these places have seen how Singapore
 
 References: SGHistory (NLB), Singapore Bicentennial, Seven Hundred Years: A History of Singapore, Yeoweij.com, Singapore Infopedia (NLB), Roots.gov.sg (NHB)
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
