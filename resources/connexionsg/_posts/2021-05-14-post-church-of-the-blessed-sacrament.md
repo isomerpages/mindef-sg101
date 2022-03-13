@@ -4,8 +4,7 @@ date: 2021-05-14
 permalink: /resources/connexionsg/blessedsacrament
 layout: post
 ---
-
- It’s hard to miss the “origami” roof of the Church of the Blessed Sacrament in Queenstown.  It mimics “the tent of meetings'', where Catholics believed God met his followers in the desert. The folded shape drapes downwards to wrap the interior with portions touching the ground, reminiscent of a tent’s anchoring pegs. The building was designed by Y.G. Dowsett and completed in 1965. 
+It’s hard to miss the “origami” roof of the Church of the Blessed Sacrament in Queenstown.  It mimics “the tent of meetings'', where Catholics believed God met his followers in the desert. The folded shape drapes downwards to wrap the interior with portions touching the ground, reminiscent of a tent’s anchoring pegs. The building was designed by Y.G. Dowsett and completed in 1965. 
  
 ![Alt text for image on Isomer site](/images/bsc_roots.jpg)
 
@@ -13,4 +12,4 @@ Since its establishment as the first catholic church in Queenstown, the Church o
 
 In 2005, the Urban Redevelopment Authority (URA) accorded the church’s building conservation status. As one of URA’s 7,000 conserved buildings, the Church of the Blessed Sacrament’s building is now protected for its contribution to Singapore’s built heritage. Queenstown's church with the “origami” roof is an architectural gem that also shines with neighbourly goodwill.
 
-<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
