@@ -4,8 +4,6 @@ date: 2021-04-01
 permalink: /resources/connexionsg/streetsofsingapore
 layout: post
 ---
-
-
 #TIL - Today I learnt that back in 1966, Singapore had approximately 1,600 streets. Since then, the number of streets has more than doubled, to 3,200.
 
 ![Alt text for image on Isomer site](/images/sos_ourstreets.jpg)
@@ -18,4 +16,4 @@ English names form around one quarter of our street names, such as King’s Road
 
 The diversity of our street names reflects our identity as a nation of different cultures, sharing a common bond of Singapore as home.
 
-<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
