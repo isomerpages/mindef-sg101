@@ -20,4 +20,4 @@ Measures like these are all part of Singapore’s continued efforts to be a plac
 
 📷: I Feel Young SG via MOH
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & Instagram
