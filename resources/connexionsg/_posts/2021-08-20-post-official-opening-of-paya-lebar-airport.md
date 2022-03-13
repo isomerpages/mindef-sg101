@@ -4,8 +4,6 @@ date: 2021-08-20
 permalink: /resources/connexionsg/openingpayalebarairport
 layout: post
 ---
-
-
 #### #onthisday (20 Aug) in 1955, Paya Lebar Airport officially opened after three years of development, replacing Kallang International Airport as our gateway to the world.
 ![Alt text for image on Isomer site](/images/payalebar.jpg)
 
@@ -18,3 +16,5 @@ However, all that was not enough. In 1960, the airport was processing 300,000 pa
 And so plans began for a new commercial airport in Changi, which opened in 1981. Paya Lebar Airport still stands today, as part of the RSAF’s Paya Lebar Air Base. But with the relocation of Paya Lebar Air Base from 2030s onwards, new plans are being made to transform the space into “a community of the future”. What ideas will take flight there? What will arrive and what will go? How should Singaporeans today pass on Paya Lebar’s heritage to Singaporeans tomorrow?
 
 Find out more about Paya Lebar Airport’s redevelopment here: https://www.ura.gov.sg/.../Urban.../Paya-Lebar-Airbase
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
