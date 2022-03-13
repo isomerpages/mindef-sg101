@@ -4,7 +4,6 @@ date: 2021-06-24
 permalink: /resources/connexionsg/sgstateofemergency
 layout: post
 ---
-
 #onthisday in 1948, Singapore entered a state of emergency. This came in response to the ongoing armed struggle by the Communist Party of Malaya (CPM) in Malaya and Singapore. 
 
   ![Alt text for image on Isomer site](/images/stateofemergency.jpeg)
@@ -21,4 +20,4 @@ The tumultuous 12-year state of emergency in Singapore is one flashpoint in our 
 
 By the time the Malayan Emergency formally ended on 31 Jul 1960, it had wounded the lives of some 8,000 civilians and security personnel across Malaya and Singapore.
 
-<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
