@@ -10,3 +10,5 @@ What does home look like to you? And as we face new challenges, how can Singapor
 
 [![Alt text for image on Isomer site](/images/ltpr.png)](https://fb.watch/91Lsj-y5_w/)
 [https://fb.watch/91Lsj-y5_w/](https://fb.watch/91Lsj-y5_w/)
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
