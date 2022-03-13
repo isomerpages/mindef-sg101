@@ -4,7 +4,6 @@ date: 2021-10-12
 permalink: /resources/connexionsg/spyros
 layout: post
 ---
-
 ###  #onthisday (12 Oct) in 1978, Singapore’s worst industrial accident happened — The Spyros Disaster.
 
 
@@ -28,3 +27,5 @@ Various organisations, such as the then-Ministry of Labour and Singapore Labour 
 A Committee of Inquiry chaired by Senior District Judge, Michael Khoo Kah Lip, found that safety regulations had been ignored. Organised labour, led by NTUC Secretary-General, C. V. Devan Nair, and Senior Parliamentary Secretary (Labour), Fong Sip Chee, expressed outrage at the disaster and both the trade unions and the government lobbied and campaigned vigorously for greater safety consciousness in the shipbuilding and repairing industry.
 
 The Spyros incident revealed the capacity for compassion and cohesion among Singaporeans, as we stepped up in times of crisis. And it remains a painful reminder for us to always look out for one another and consider what could go wrong if we took safety for granted.
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
