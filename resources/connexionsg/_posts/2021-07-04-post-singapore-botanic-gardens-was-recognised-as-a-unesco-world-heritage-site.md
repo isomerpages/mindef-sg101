@@ -12,4 +12,4 @@ The 82ha Singapore Botanic Gardens is where Singapore’s natural history is in 
 
 Our lush botanic gardens are respite for Singaporeans and one of the green spaces we rediscovered in past months when we headed outdoors for fresh air. It’s where we can always come together for our morning tai chi or evening jogs. It’s where we walk our dogs or have a picnic with friends and family, and where generations of us enjoy our City in a Garden.
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
