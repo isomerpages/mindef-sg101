@@ -23,4 +23,4 @@ Singapore Changi Airport has grown much bigger since then, with a fifth oncoming
 
 📷: @shawnanggg/Unsplash
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & Instagram
