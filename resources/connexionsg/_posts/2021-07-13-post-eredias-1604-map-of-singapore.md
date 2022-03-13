@@ -4,7 +4,6 @@ date: 2021-07-13
 permalink: /resources/connexionsg/1604mapofsingapore
 layout: post
 ---
-
 Many may think Singapore was a sleepy fishing village before Sir Stamford Raffles set foot in 1819, but the island was already a vital trading outpost 200 years before.A close look at the 1604 map of the Singapore Straits by Portuguese cartographer Manuel Godinho de Erédia offered clues of entrepot activity on the island during that time.
 
 ![Alt text for image on Isomer site](/images/eredia-map-1604.jpeg)
@@ -22,4 +21,4 @@ With over 400 years of history behind them, these places have seen how Singapore
 
 References: SGHistory (NLB), Singapore Bicentennial, Seven Hundred Years: A History of Singapore, Yeoweij.com, Singapore Infopedia (NLB), Roots.gov.sg (NHB)
 
-<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
