@@ -4,7 +4,6 @@ date: 2021-04-10
 permalink: /resources/connexionsg/kampongsilat
 layout: post
 ---
-
 On Silat Avenue, just off Kampong Bahru Road, stand the remaining five blocks of the Kampong Silat Estate. Built between 1948 and 1952 by the Singapore Improvement Trust (SIT), it’s the second-oldest surviving public housing estate after Tiong Bahru Estate.
 
 ![Alt text for image on Isomer site](/images/170916935_5328760383832550_1631461279701068943_n.jpg)
@@ -19,4 +18,4 @@ We didn’t bulldoze all the old Kampong Silat flats to make way for new, shiny 
 
 In land-scarce Singapore, where competing needs jostle for precious, prime-land real estate, retaining these flats — symbols of our housing story and heritage — reflects the delicate and important balance we’re always trying to strike between renewal and conservation. #HEREitage
 
-<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
