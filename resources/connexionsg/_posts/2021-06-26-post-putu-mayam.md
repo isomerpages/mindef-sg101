@@ -22,4 +22,4 @@ Dishes like putu mayam made their way to our shores as our forefathers settled i
 
 References: Singapore Infopedia (NLB), Makansutra, HungryGoWhere, World Street Food Congress
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
