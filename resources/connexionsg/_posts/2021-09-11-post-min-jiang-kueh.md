@@ -14,4 +14,4 @@ The fillings tell the story of multicultural adaption — in addition to traditi
 
 The min jiang kueh we enjoy today has come a long way from its beginning, the natural result of diversity and openness to innovation. What was historically a wartime meal for soldiers came to our region with our forefathers and evolved into a delectable dessert enjoyed by everyone. #FoodForThought
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
