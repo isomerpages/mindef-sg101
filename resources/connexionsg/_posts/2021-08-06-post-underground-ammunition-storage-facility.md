@@ -21,4 +21,4 @@ By going underground, Singapore has dug deep to alleviate our land space constra
 
 Resources: Ministry of Defence Singapore, AsiaOne, The Straits Times, Centre for Liveable Cities Singapore, Urban Redevelopment Authority Singapore
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
