@@ -20,4 +20,4 @@ We also use  the land we have to the fullest extent. Rain-gardens in schools and
 
 Our determination in overcoming obstacles, using technology and innovation to meet our water challenges, has made us one of the few countries in the world to harvest urban stormwater on a large scale for potable consumption. Look out for more upcoming #ChallengeAccepted posts on how we find different ways to satisfy our thirst to do our best for our country.
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
