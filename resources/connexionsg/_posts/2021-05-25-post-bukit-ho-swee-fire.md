@@ -4,7 +4,6 @@ date: 2021-05-25
 permalink: /resources/connexionsg/bukithosweefire
 layout: post
 ---
-
 #onthisday in 1961, at around 3.30pm, a small fire that began at a makeshift squatter hut on Kampong Tiong Bahru Road spread to neighbouring Bukit Ho Swee, where almost 20,000 people were in attap huts at the time. With the strong winds that afternoon, the fire quickly intensified, engulfing the settlement and forcing residents to flee. 
 
 ![Alt text for image on Isomer site](/images/183798906_5529375907104329_1496355667352748066_n.jpg)
@@ -20,6 +19,4 @@ It didn't just stop there. Efforts continued over the years to rebuild the lives
 The Bukit Ho Swee fire is now known by many as one of the biggest fires in Singapore. But it was also an incident that demonstrated a tenacity that comes of banding together, through adversity, and reflected how we are — and have always been — stronger, together.  #WeAreTotalDefence
 
 
-<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
-
-
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
