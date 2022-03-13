@@ -19,4 +19,4 @@ The riots reveal the potential harm that can come from sensationalised and disto
 
 (📷: Muslim demonstrators shouting slogans in front of the Supreme Court during the Maria Hertogh riots / Kenneth Chia Collection, courtesy of National Archives of Singapore)
 
-Visit ConnexionSG Facebook @ https://www.facebook.com/ConnexionSG
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
