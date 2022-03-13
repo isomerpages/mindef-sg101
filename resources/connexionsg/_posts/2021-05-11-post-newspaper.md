@@ -4,7 +4,7 @@ date: 2021-05-11
 permalink: /resources/connexionsg/newspaper
 layout: post
 ---
-On 1 January 1824, SingaporesFirst newspaper, the Singapore Chronicles, was published. Printed on a single piece of rough paper and folded once, the four pages held vital information about the movement of cargo, people and mail for the growing maritime port. While its main purpose was for tracking shipping, imports and exports, it also had news about events in Singapore and other countries.
+On 1 January 1824, #SingaporesFirst newspaper, the Singapore Chronicles, was published. Printed on a single piece of rough paper and folded once, the four pages held vital information about the movement of cargo, people and mail for the growing maritime port. While its main purpose was for tracking shipping, imports and exports, it also had news about events in Singapore and other countries.
 
 ![Alt text for image on Isomer site](/images/sgfirst_newspaper.jpg)
 
