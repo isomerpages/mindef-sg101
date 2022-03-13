@@ -18,4 +18,4 @@ He emphasised that, as a small state, Singapore needed both the UN as well as it
 
 The UN has been a platform for dialogue and strengthening cooperation in the international community -- in which Singapore will continue to play a part.
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
