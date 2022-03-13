@@ -21,4 +21,4 @@ Moving from screen to stage, the nearby Opera Estate has streets named after ope
 
 The streets of Siglap and Opera Estate remind us that art and culture had a vital presence in the early years of our nation's development. Their names keep us linked to some splendid eras of our cultural heritage. #StreetsOfSingapore
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & Instagram
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
