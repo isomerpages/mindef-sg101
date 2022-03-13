@@ -18,4 +18,4 @@ We may not be champion swimmers or sharpshooters but we all face competition in 
 
 #TeamSingapore #OneTeamSG #OneDaySG
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
