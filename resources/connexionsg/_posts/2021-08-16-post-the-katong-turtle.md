@@ -4,8 +4,6 @@ date: 2021-08-16
 permalink: /resources/connexionsg/katongturtle
 layout: post
 ---
-
-
 #### Katong might just be home to some of the prettiest #StreetsOfSingapore and great food (laksa!). And, it turns out, it plays a part in revitalising our biodiversity too.
 
 Before it became ‘east side, best side’, Katong was home to several small fishing kampongs. It is believed to have gotten its name from an ultra-rare sighting of the Leatherback sea turtle (known as “Katong” in Javanese) in the area in 1883. The actual turtle is still around today, albeit taxidemised, on display at the Lee Kong Chian Natural History Museum in NUS.
@@ -20,3 +18,5 @@ This is promising news for our island and a step in the right direction as we ai
 While wildlife conversion is going to involve some trade-offs, what can we do to make this island an even better home for all our inhabitants — both human and animals?
 
 References: Urban Explorers of Singapore/Facebook, What’s in the Name (Ng Yew Peng), NParks/Facebook, The Straits Times, Singapore Green Plan 2030
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
