@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: /images/13 feb.jpg
 ---
-
 ![](/images/13%20feb.jpg)
 
 #OnThisDay (13 February) in 1942, the Battle of Pasir Panjang started. This was the western end of the final British defensive perimeter around Singapore, under the 1st Malaya Infantry Brigade.
@@ -23,4 +22,4 @@ But the victory could not last. Two hours later, the Japanese returned in the th
 
 📷: Men of the Malay Regiment training before the war. Source: Imperial War Museum (FE414) via Roots.sg
 
-Visit ConnexionSG Facebook @ [https://www.facebook.com/ConnexionSG](https://www.facebook.com/ConnexionSG)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
