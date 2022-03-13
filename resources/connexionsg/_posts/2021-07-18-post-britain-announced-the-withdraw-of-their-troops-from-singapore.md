@@ -4,8 +4,7 @@ date: 2021-07-18
 permalink: /resources/connexionsg/britainwithdraw
 layout: post
 ---
-
-#onthisday in 1967, Britain announced the withdrawal of their troops from Singapore by the mid-1970s. Six months later, the deadline was brought forward to 1971, as Britain announced a total withdrawal “East of Suez”. At the time, there were 30,000 British troops stationed in Singapore — Britain’s second largest deployment after its NATO commitments. However, as it was becoming too expensive for Britain to continue spending £70 million a year to maintain military bases in Singapore, they decided to reduce defence spending and send troops home.
+#OnThisDay in 1967, Britain announced the withdrawal of their troops from Singapore by the mid-1970s. Six months later, the deadline was brought forward to 1971, as Britain announced a total withdrawal “East of Suez”. At the time, there were 30,000 British troops stationed in Singapore — Britain’s second largest deployment after its NATO commitments. However, as it was becoming too expensive for Britain to continue spending £70 million a year to maintain military bases in Singapore, they decided to reduce defence spending and send troops home.
 
 ![Alt text for image on Isomer site](/images/britainannouncedwithdrawal.jpeg)
 
@@ -19,4 +18,4 @@ Even at a time when we were starting out and finding our footing, we held on to 
 
 That has not, and will never, change. #WeAreTotalDefence
 
-<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
