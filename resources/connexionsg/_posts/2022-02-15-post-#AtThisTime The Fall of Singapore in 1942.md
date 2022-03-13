@@ -27,4 +27,4 @@ Today marks Total Defence Day. It reminds us of what it takes to stay free -- th
 
 ![](/images/atthistime-15feb.png)
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & Instagram
