@@ -16,4 +16,4 @@ Recently, the Tripartite Workgroup on Lower-Wage Workers came up with 18 recomme
 
 Over the years, our unique blend of tripartism has enabled us to rebuild from many crises. Given the impact of the COVID-19 pandemic, a consensus on the way forward for workers and businesses can see us through this storm and ensure that lower-wage workers can emerge stronger, together with the rest of Singapore.
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
