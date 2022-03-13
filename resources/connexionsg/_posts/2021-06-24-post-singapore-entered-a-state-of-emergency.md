@@ -20,4 +20,4 @@ The tumultuous 12-year state of emergency in Singapore is one flashpoint in our 
 
 By the time the Malayan Emergency formally ended on 31 Jul 1960, it had wounded the lives of some 8,000 civilians and security personnel across Malaya and Singapore.
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
