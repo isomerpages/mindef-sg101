@@ -15,4 +15,4 @@ Eventually, the ubiquitous colourful bread was also introduced into the equation
 
 And that is how our “must eat” ice cream bread was formed, a product of pragmatism, with a side of being absolutely delicious.
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & Instagram
