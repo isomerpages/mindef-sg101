@@ -4,7 +4,6 @@ date: 2021-04-20
 permalink: /resources/connexionsg/nicollhigwaycollapse
 layout: post
 ---
-
 #onthisday in 2004, a temporary retaining wall of the tunnel at the Nicoll Highway Circle Line MRT station construction site collapsed at around 3.30pm. The ground above caved in, bringing down the steel supports over the tunnel and a portion of Nicoll Highway. As a result, a 30-metre-deep ravine was created. Tremors from the collapse were felt at Golden Mile Complex nearby.
 
 ![Alt text for image on Isomer site](/images/nicollhw1.jpg)
@@ -15,4 +14,4 @@ The SCDF search and rescue went on for four days, till 23 April, when it became 
 
 17 years on, we remember the heroism of rescuers and victims, in what is still one of Singapore’s worst worksite disasters. We must strive to keep each other safe and be prepared for any emergency, so that such tragedies remain as memories we honour, but do not experience.
 
-<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
