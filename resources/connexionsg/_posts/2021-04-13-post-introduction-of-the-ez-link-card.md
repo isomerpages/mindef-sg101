@@ -14,4 +14,4 @@ The idea of EZ-Link had been long in the making, and was mooted in 1994. After m
 
 EZ-Link cards made our lives easier and more convenient. Yet, we don’t stop, and keep finding more ways to improve. We are looking at new versions of the EZ-Link card to allow top-ups on the go by using our phones. No more going to the nearest top-up machine for that. The EZ-link card is small but efficient, and never stops improving.
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
