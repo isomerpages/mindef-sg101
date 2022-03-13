@@ -16,4 +16,4 @@ With self-governance, Singaporeans became responsible for our own future. Voting
 
 Our sense of responsibility governs the way we defend, house, and educate ourselves. It informs how we work, play, and care for one another. It drives our nation to overcome enormous challenges -- from building our own defence force, to attracting global investments, to meeting our food, water, and energy needs. And it is what unites us as we rise to face the challenges of COVID-19, together.
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
