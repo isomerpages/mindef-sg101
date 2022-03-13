@@ -18,3 +18,5 @@ Today, at almost 57 hectares, Kranji Marshes is home to a rich array of flora an
 Officially opened in 2016, Kranji Marshes was added as a project under the Nature Conservation Masterplan. In densely populated Singapore, conserving nature and greenery is key to ensuring a high quality living environment. Through such conservation efforts, we can continue to build Singapore as a City in Nature, where our wildlife can better thrive and interact across the island, for the benefit of all Singaporeans. #ShapingOurCity
 
 📸: Urban Redevelopment Authority
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
