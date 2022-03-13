@@ -26,4 +26,4 @@ Along the perimeter of the shophouse, there are panels depicting scenes from Chi
 
 In Singapore, the threads of our varied histories are woven together, in ways that may seem chaotic at first glance. But it’s a confluence of influences that’s distinctly ours. Whatever the metaphor we use to think about ourselves (rojak, potpourri, or late-style shophouse), it comes back time and again how it's all in the details. For it's here that connections are thrown into sharp relief (literally), and the uniqueness of every brick, tile, or individual is highlighted and celebrated. #SGinHarmony
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
