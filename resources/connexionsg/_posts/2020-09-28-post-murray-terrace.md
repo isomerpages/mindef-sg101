@@ -4,8 +4,6 @@ date: 2020-09-28
 permalink: /resources/connexionsg/murrayterrace
 layout: post
 ---
-
-
 Along Murray Street by Maxwell Road stands Murray Terrace, a cluster of 14 pre-war shophouses. Its namesake was believed to be Colonel A. Murray, a surveyor general of the Straits Settlements. Its original purpose is a bit of a mystery - it could have served as an army barracks. Murray Terrace has unusual architectural features -- a lion head carving and claw-like protrusions on its walls, octagonal columns and a flag post.
 
 ![Alt text for image on Isomer site](/images/120192087_4447437661964831_2425019169392547505_n.png)
@@ -22,4 +20,4 @@ However, by the 1990s however, the food street lost its appeal as many famous ha
 
 Murray Terrace, through its various incarnations, has adapted to the changes and challenges that Singapore has faced. This shophouse row proves that heritage structures can be more than nostalgic reminders – with will and creativity, they can be transformed to become useful to the present while commemorating the past. #HEREitage
 
-<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
