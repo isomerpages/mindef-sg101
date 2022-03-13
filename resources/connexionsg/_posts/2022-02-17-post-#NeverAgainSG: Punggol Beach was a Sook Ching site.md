@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: /images/punggol beach.jpg
 ---
-
 ![](/images/punggol%20beach.jpg)
 
 Punggol Beach: Sook Ching Site
@@ -21,4 +20,4 @@ In 1995, a memorial plaque was included on Punggol Beach to mark the 50 years si
 
 📸 Punggol Beach in 2018 by Ria Tan / Wild Singapore; Heritage Marker on the Punggol Beach Massacre
 
-Visit ConnexionSG Facebook @ [https://www.facebook.com/ConnexionSG](https://www.facebook.com/ConnexionSG)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
