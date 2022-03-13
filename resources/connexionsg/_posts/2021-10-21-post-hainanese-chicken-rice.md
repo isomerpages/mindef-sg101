@@ -14,4 +14,4 @@ Around Asia, many Asian countries have their own version of chicken rice. For ex
 
 The different versions reflect the evolution of the dish as Hainanese immigrants settled in Nanyang or Southeast Asia over a hundred years ago. Singapore’s own version -- slices of poached chicken served atop flavourful rice, accompanied by specialty chilli sauce or dark soy sauce -- has since become a must-try dish for our tourists, and a much-loved food for our nation #FoodForThought
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & Instagram
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
