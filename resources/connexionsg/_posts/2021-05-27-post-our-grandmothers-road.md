@@ -24,4 +24,4 @@ Why are there just 41 “female” names out of 3,200 streets? Were women less p
 
 Keep an eye out for more stories about #StreetsOfSingapore!
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
