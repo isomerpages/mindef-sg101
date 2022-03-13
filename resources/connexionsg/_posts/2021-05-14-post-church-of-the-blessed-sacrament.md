@@ -12,4 +12,4 @@ Since its establishment as the first catholic church in Queenstown, the Church o
 
 In 2005, the Urban Redevelopment Authority (URA) accorded the church’s building conservation status. As one of URA’s 7,000 conserved buildings, the Church of the Blessed Sacrament’s building is now protected for its contribution to Singapore’s built heritage. Queenstown's church with the “origami” roof is an architectural gem that also shines with neighbourly goodwill.
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
