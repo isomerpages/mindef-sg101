@@ -18,4 +18,4 @@ We also minimised disturbance to the animals’ nocturnal rhythms, by keeping th
 
 Our safekeeping efforts also included protecting heritage structures along the corridor, such as the Bukit Timah and Tanjong Pagar Railway Stations, and truss bridges. And now, with better access points created for walkers, runners, hikers, and cyclists, we can all enjoy the Rail Corridor as a treasure trove of biodiversity and heritage; an interlocking ecosystem of human and wildlife that lies — quite literally — in the heart of our city. #ShapingOurCity
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & Instagram
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
