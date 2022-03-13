@@ -12,4 +12,4 @@ Watch the video <a href="https://www.facebook.com/ConnexionSG/videos/37145316768
 <a href="https://www.facebook.com/ConnexionSG/videos/371453167685367" target="_blank"><img src="/images/Capturecard21.png" ></a>
 
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
