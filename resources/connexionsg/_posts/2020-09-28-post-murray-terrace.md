@@ -20,4 +20,4 @@ However, by the 1990s however, the food street lost its appeal as many famous ha
 
 Murray Terrace, through its various incarnations, has adapted to the changes and challenges that Singapore has faced. This shophouse row proves that heritage structures can be more than nostalgic reminders – with will and creativity, they can be transformed to become useful to the present while commemorating the past. #HEREitage
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
