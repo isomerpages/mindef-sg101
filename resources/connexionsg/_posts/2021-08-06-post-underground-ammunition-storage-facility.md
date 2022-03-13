@@ -4,7 +4,6 @@ date: 2021-08-06
 permalink: /resources/connexionsg/undergroundamm
 layout: post
 ---
-
 #### Breaking new ground with #SingaporesFirst underground ammunition storage facility
 
 With land space constraints in Singapore, underground spaces have been developed to meet our infrastructural needs. This began in the 1980s with the first MRT and road tunnels and was accelerated with the completion of #SingaporesFirst underground ammunition storage facility in 2008.
@@ -22,4 +21,4 @@ By going underground, Singapore has dug deep to alleviate our land space constra
 
 Resources: Ministry of Defence Singapore, AsiaOne, The Straits Times, Centre for Liveable Cities Singapore, Urban Redevelopment Authority Singapore
 
-<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
