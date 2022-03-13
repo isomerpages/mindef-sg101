@@ -18,4 +18,4 @@ Now, 54 years later, ASEAN continues to play a vital part in our region’s coll
 
 References: The ASEAN Miracle (Mahbubani), 50 years of Singapore and ASEAN (Koh, et. al)
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
