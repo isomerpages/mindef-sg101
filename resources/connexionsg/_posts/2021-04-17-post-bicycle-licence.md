@@ -18,4 +18,4 @@ Whether bicycles need to have licence plates again or not, it is clear that moto
 
 What would it take for people in Singapore to have a greater sense of responsibility while mobile?
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
