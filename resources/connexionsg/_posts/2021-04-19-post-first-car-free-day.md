@@ -4,7 +4,6 @@ date: 2021-04-19
 permalink: /resources/connexionsg/1stcarfreeday
 layout: post
 ---
-
 #onthisday in 2001, #SingaporesFirst Car-Free Day was organised by the Singapore Environment Council to highlight the importance of minimising traffic pollution. Drivers were encouraged to leave their vehicles at home and take public transport, carpool, cycle or walk.
 
 ![Alt text for image on Isomer site](/images/onthisday_carfreeday.jpg)
@@ -19,4 +18,4 @@ By 2040, Singapore’s public transportation network is expected to get resident
 
 The big question is, will these efforts convince Singaporeans to ditch owning cars? After all, cars are still regarded by many as a status symbol and lifestyle aspiration. With better transport alternatives emerging, can “Convenience” replace “Cars” as one of the evolving 5C’s of the Singaporean Dream?”
 
-<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
