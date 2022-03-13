@@ -16,4 +16,4 @@ But #YouShouldKnow that there are some things that marine life cannot endure. In
 
 While our intertidal zones are beautiful, they are also the homes of marine and aquatic life. So like any good house guest, let’s take care when exploring the intertidal zones in Singapore. Take nothing but photos, respect the environment, and do our part to protect the fragile biodiversity.
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
