@@ -18,4 +18,4 @@ Today, the Eco-Link@BKE is lush with native vegetation, and provides safe passag
 
 In Singapore, we’re constantly grappling with the challenges of building our city and protecting our heritage. How can we make this island an #EvenBetter home for all?
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
