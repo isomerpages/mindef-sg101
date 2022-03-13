@@ -20,4 +20,4 @@ Food, and cooking, were ways to keep going when there was not enough, and when h
 
 🧑‍🍳 Recipe: Wartime Kitchen (Wong Hong Suen)
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & Instagram
