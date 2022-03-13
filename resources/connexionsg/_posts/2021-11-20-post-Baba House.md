@@ -25,4 +25,4 @@ The Baba House offers a glimpse into the past by conserving it in our present, s
 
 (📷: All images courtesy of NUS Baba House)
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & Instagram
