@@ -4,7 +4,6 @@ date: 2021-08-07
 permalink: /resources/connexionsg/tokyo2020
 layout: post
 ---
-
 The Olympics has captivated the world over the past three weeks with humans performing superhuman sporting feats. These athletes train at the highest levels to qualify amongst the world’s best. Then they proceed to push each other and the boundaries of their sport during the actual competition.
 
 ![Alt text for image on Isomer site](/images/tokyoolympics2020.jpeg)
@@ -19,4 +18,4 @@ We may not be champion swimmers or sharpshooters but we all face competition in 
 
 #TeamSingapore #OneTeamSG #OneDaySG
 
-<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
