@@ -4,8 +4,6 @@ date: 2021-04-03
 permalink: /resources/connexionsg/nationalcampaign
 layout: post
 ---
-
-
 Over the years, Singapore has had many national campaigns, each with specific goals: from the Clean and Green campaign to cultivate a mindset of care for the environment, to the National Courtesy Campaign to inspire care for one another.
 
 ![Alt text for image on Isomer site](/images/antispitting1.jpg)
@@ -17,4 +15,4 @@ The Anti-Spitting Campaign reminded people that spitting, then commonplace, was 
 
 Campaigns were a key part of our nation-building: they shaped our collective values, and reminded us to think of others. The need for campaigns tapered off as Singaporeans matured as a people. We have come to understand that our small, individual actions — whether spitting into a handkerchief in 1958 or coughing and sneezing with our masks on in 2021 — add up to a nation made stronger, for all.
 
-<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
