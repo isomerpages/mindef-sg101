@@ -22,4 +22,4 @@ So gradually, from 1972, the PUB, Singapore's National Water Agency began laying
 
 📸 National Archives of Singapore
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & Instagram
