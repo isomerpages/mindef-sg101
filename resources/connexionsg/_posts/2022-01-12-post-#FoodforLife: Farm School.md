@@ -20,4 +20,4 @@ Agriculture may not be a major pillar in our economy but for greater resilience 
 
 📷: A practical session at the Farm School in the 1960s; Primary Production Department Collection, courtesy of National Archives of Singapore
 
-Visit ConnexionSG Facebook @ [https://www.facebook.com/ConnexionSG](https://www.facebook.com/ConnexionSG)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
