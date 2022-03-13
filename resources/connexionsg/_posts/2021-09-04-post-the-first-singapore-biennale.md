@@ -4,9 +4,6 @@ date: 2021-09-04
 permalink: /resources/connexionsg/1stsgbiennale
 layout: post
 ---
-
-
-
 ####  #onthisday in 2006 (4 Sep), the first Singapore Biennale opened to the public -- an event that bloomed from seeds planted decades ago to transform Singapore from an industrial town into a global city for the arts.
 
 ![Alt text for image on Isomer site](/images/biennale1.jpg)
@@ -20,3 +17,5 @@ In 2000, the first of three Renaissance City Plans (RCP) was launched, inspired 
 The same year that Singapore held our inaugural Biennale, we also hosted the 2006 International Monetary Fund and World Bank Meeting, attracting international recognition for our transformation from sterile to stellar, both in the realm of the arts as well as in the knowledge economy.
 
 Since then, more Biennales have been organised, with the next to come in 2022. And Singapore has since joined the ranks of the world’s top five cities, in our continued effort to build a nation that inspires us.
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
