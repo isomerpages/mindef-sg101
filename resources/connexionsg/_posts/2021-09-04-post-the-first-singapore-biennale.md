@@ -18,4 +18,4 @@ The same year that Singapore held our inaugural Biennale, we also hosted the 200
 
 Since then, more Biennales have been organised, with the next to come in 2022. And Singapore has since joined the ranks of the world’s top five cities, in our continued effort to build a nation that inspires us.
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
