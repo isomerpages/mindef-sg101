@@ -4,7 +4,6 @@ date: 2021-09-19
 permalink: /resources/connexionsg/stjohnsquarantine
 layout: post
 ---
-
 Quarantine orders, stay home notices, and social distancing — these seem so distinctly COVID-19. But #TIL that Singapore has been through something like this, nearly two centuries ago. 😷
 
 ![Alt text for image on Isomer site](/images/stjohn1.jpg)
@@ -21,3 +20,5 @@ By 1935, the quarantine station had grown to become one of the largest in the wo
 In the following decades, it was a combination of vaccines, improvements in public and healthcare infrastructure, and quarantines that helped prevent the spread of diseases on the mainland. Eventually, the St Johns Island quarantine station closed in 1976, and was no longer the first thing new arrivals saw of Singapore. 
 
 Today, we're learning to live with an endemic COVID-19 through a combination of vaccines, social distancing, testing, and home quarantines and recovery. We're not quite there yet, as any transition takes time. But we're on our way.
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
