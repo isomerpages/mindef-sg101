@@ -8,3 +8,5 @@ Vaccinations have always helped protect us and our loved ones, whether against t
 
 [![Alt text for image on Isomer site](/images/getvax.png)](https://fb.watch/91KVw7vNvZ/)
 [https://fb.watch/91KVw7vNvZ/](https://fb.watch/91KVw7vNvZ/)
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
