@@ -35,4 +35,4 @@ This year, for the first time in 55 years, NDP will take place on 21 Aug, after 
 ##### Happy National Day! 🇸🇬
 #TogetherOurSGSpirit #NDP2021 #WeAreTotalDefence #PsychologicalDefence #TogetherWeKeepSingaporeStrong
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
