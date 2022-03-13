@@ -18,4 +18,4 @@ The rojak tells a story of inspired craftsmanship in pairing opposing flavours a
 
 Rojak is often used to represent Singapore’s eclectic cultural mix because, unlike a homogenised broth, its appeal comes from having different flavours, united by a distinctive sauce. That speaks too of the connections we have with our neighbours and region. A heritage of diversity, variety, and finding harmony in the disparate that is mixed — quite literally — into our dishes. #FoodForThought
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
