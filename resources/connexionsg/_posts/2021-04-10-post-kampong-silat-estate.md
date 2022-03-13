@@ -18,4 +18,4 @@ We didn’t bulldoze all the old Kampong Silat flats to make way for new, shiny 
 
 In land-scarce Singapore, where competing needs jostle for precious, prime-land real estate, retaining these flats — symbols of our housing story and heritage — reflects the delicate and important balance we’re always trying to strike between renewal and conservation. #HEREitage
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
