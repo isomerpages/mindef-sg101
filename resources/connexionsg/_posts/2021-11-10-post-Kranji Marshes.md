@@ -19,4 +19,4 @@ Officially opened in 2016, Kranji Marshes was added as a project under the Natur
 
 📸: Urban Redevelopment Authority
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & Instagram
