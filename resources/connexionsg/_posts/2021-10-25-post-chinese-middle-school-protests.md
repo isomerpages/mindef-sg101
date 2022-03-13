@@ -17,4 +17,4 @@ The crackdown drew the ire of many Chinese middle school students. Supported by 
 📷: Roots / National Heritage Board
 References: Roots; HistorySG; Seven Hundred Years: A History of Singapore; The Straits Times, 28 October 1956 and 13 April 2015
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & Instagram
