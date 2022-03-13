@@ -4,8 +4,6 @@ date: 2021-08-14
 permalink: /resources/connexionsg/traditionalsgbf
 layout: post
 ---
-
-
 ![Alt text for image on Isomer site](/images/Breakfast.jpeg)
 
 Ah, the quintessential Singaporean breakfast — toasted bread with kaya and thin slices of butter, kopi, and soft-boiled eggs seasoned with pepper and dark soy sauce. It looks deceptively simple, but this morning ritual of crunching, dunking, and sipping is a great pick me up for the day ahead.
@@ -19,3 +17,5 @@ It started with the arrival of Hainanese immigrants in the 19th century. Many of
 Shaped by our various influences and evolved to suit our local ingredients and tastes, this breakfast has become a well-loved feature of Singapore living. Can you think of any other “localised” dishes? #FoodForThought
 
 References: Grandturismo travels, Roots.gov.sg (NHB), The Atlanta Journal-Constitution
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
