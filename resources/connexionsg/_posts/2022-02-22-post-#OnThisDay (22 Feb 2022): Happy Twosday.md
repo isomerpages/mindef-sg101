@@ -14,4 +14,4 @@ Check out some of our military assets with the number "22". Can you identify the
 
 📷 credits: Ministry of Defence, Singapore (MINDEF)
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & Instagram
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
