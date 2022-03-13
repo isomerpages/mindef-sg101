@@ -18,4 +18,4 @@ By 2040, Singapore’s public transportation network is expected to get resident
 
 The big question is, will these efforts convince Singaporeans to ditch owning cars? After all, cars are still regarded by many as a status symbol and lifestyle aspiration. With better transport alternatives emerging, can “Convenience” replace “Cars” as one of the evolving 5C’s of the Singaporean Dream?”
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & Instagram
