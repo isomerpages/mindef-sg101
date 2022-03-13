@@ -4,7 +4,6 @@ date: 2021-04-07
 permalink: /resources/connexionsg/budaoweng
 layout: post
 ---
-
 #TIL Today I Learnt that the 不倒翁 (bù dǎo wēng), also known as a roly-poly toy, is one of the oldest toys in the world. In Russia, it is known as a nevаlyashka ("untopply") or van'ka-vstan'ka ("Ivan-get-up"). In Japan, it is a okiagari-koboshi (“oki” = get up, “agari” = rise again).
 
 ![Alt text for image on Isomer site](/images/til_rolypoly.jpg)
@@ -15,4 +14,4 @@ The roly-poly toy demonstrates resilience by coming back up. Hits can come from 
 
 Singapore’s centre of stability is the unity of our people: our willingness to put aside our differences to cooperate in crises, whether by putting on masks during COVID-19, taking pay cuts during downturns, and supporting the defence of our nation. We may wobble from the impact, but our cohesion brings us back up. #WeAreTotalDefence
 
-<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
