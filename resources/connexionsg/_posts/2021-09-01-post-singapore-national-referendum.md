@@ -20,4 +20,4 @@ After less than 23 months, Singapore separated from Malaysia. While this union d
 
 📸: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
