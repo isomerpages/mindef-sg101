@@ -18,4 +18,4 @@ Shaped by our various influences and evolved to suit our local ingredients and t
 
 References: Grandturismo travels, Roots.gov.sg (NHB), The Atlanta Journal-Constitution
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
