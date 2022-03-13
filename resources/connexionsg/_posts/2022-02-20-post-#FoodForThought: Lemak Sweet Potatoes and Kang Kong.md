@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: /images/lemak sweet potatoes and kang kong.jpg
 ---
-
 ![](/images/lemak%20sweet%20potatoes%20and%20kang%20kong.jpg)
 
 Lemak sweet potatoes and kang kong - cubed sweet potato simmered in a spicy, coconut milk-based shrimp gravy, and complete with tender kang kong leaves and stems. 🌱🥔🥥
@@ -18,4 +17,4 @@ It wasn’t just all boiled sweet potatoes and biscuits. Food was one way to rai
 
 🧑‍🍳 Recipe: Wartime Kitchen (Wong Hong Suen)
 
-Visit ConnexionSG Facebook @ [https://www.facebook.com/ConnexionSG](https://www.facebook.com/ConnexionSG)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
