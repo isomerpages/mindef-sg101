@@ -15,4 +15,4 @@ The Anti-Spitting Campaign reminded people that spitting, then commonplace, was 
 
 Campaigns were a key part of our nation-building: they shaped our collective values, and reminded us to think of others. The need for campaigns tapered off as Singaporeans matured as a people. We have come to understand that our small, individual actions — whether spitting into a handkerchief in 1958 or coughing and sneezing with our masks on in 2021 — add up to a nation made stronger, for all.
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
