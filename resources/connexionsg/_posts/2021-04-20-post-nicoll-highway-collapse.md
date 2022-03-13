@@ -14,4 +14,4 @@ The SCDF search and rescue went on for four days, till 23 April, when it became 
 
 17 years on, we remember the heroism of rescuers and victims, in what is still one of Singapore’s worst worksite disasters. We must strive to keep each other safe and be prepared for any emergency, so that such tragedies remain as memories we honour, but do not experience.
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
