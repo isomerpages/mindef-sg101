@@ -4,7 +4,6 @@ date: 2021-10-25
 permalink: /resources/connexionsg/chinesemiddleschprotests
 layout: post
 ---
-
 The Communist Party of Malaya (CPM) was formed in 1930 and began establishing links with labour unions in Singapore and Malaya. While it was declared illegal by the British after it launched an armed insurgency in 1948, official accounts show the CPM revived its "united front" strategy of subverting trade unions and student bodies, as well as political parties, with the goal of a communist Singapore, and then Malaya. The state of social chaos and instability made freshly post-war Singapore fertile ground for agitation. By the 1950s, the CPM had gained significant traction in Singapore. 
 
 ![Alt text for image on Isomer site](/images/chinesemiddlesch.jpg)
@@ -17,3 +16,5 @@ The crackdown drew the ire of many Chinese middle school students. Supported by 
 
 📷: Roots / National Heritage Board
 References: Roots; HistorySG; Seven Hundred Years: A History of Singapore; The Straits Times, 28 October 1956 and 13 April 2015
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
