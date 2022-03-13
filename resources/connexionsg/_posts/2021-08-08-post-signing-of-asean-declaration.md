@@ -4,7 +4,6 @@ date: 2021-08-08
 permalink: /resources/connexionsg/aseandeclaration
 layout: post
 ---
-
 #onthisday in 1967, the Heads of State from Singapore, Indonesia, Malaysia, the Philippines and Thailand gathered in Bangkok to sign the ASEAN declaration for regional cooperation.
 
 ![Alt text for image on Isomer site](/images/aseandeclaration.jpeg)
@@ -19,4 +18,4 @@ Now, 54 years later, ASEAN continues to play a vital part in our region’s coll
 
 References: The ASEAN Miracle (Mahbubani), 50 years of Singapore and ASEAN (Koh, et. al)
 
-<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
