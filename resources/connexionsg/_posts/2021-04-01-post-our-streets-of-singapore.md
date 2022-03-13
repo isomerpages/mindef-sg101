@@ -16,4 +16,4 @@ English names form around one quarter of our street names, such as King’s Road
 
 The diversity of our street names reflects our identity as a nation of different cultures, sharing a common bond of Singapore as home.
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
