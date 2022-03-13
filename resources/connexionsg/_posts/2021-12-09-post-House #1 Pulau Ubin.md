@@ -26,4 +26,4 @@ Today, House No. 1 on Pulau Ubin is the Chek Jawa Visitor Centre, within the nat
 
 📸: URA Conservation Portal
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & Instagram
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
