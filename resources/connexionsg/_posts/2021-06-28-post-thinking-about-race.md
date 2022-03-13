@@ -28,4 +28,4 @@ We formed platforms like Inter-Racial and Religious Confidence Circles to build 
 
 The work is ongoing. At times we’ve said or done things that hurt one another, which we can’t take back. But we can learn from our mistakes so that something better can emerge. Take our challenges as opportunities to cultivate compassion, overcome ignorance, and strengthen bonds with one another. So let’s keep at it and shape a Singapore that is #EvenBetter, together.
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
