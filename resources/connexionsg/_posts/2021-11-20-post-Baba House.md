@@ -24,3 +24,5 @@ Visits to the Baba House are by appointment only. It allows visitors an immersiv
 The Baba House offers a glimpse into the past by conserving it in our present, so that future generations can appreciate the gems of our physical heritage. #HEREitage 
 
 (📷: All images courtesy of NUS Baba House)
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
