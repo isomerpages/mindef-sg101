@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: /images/well.jpg
 ---
-
 ![](/images/well.jpg)
 
 ![](/images/well%202.jpg)
@@ -23,5 +22,4 @@ So gradually, from 1972, the PUB, Singapore's National Water Agency began laying
 
 📸 National Archives of Singapore
 
-Visit ConnexionSG Facebook @ 
-[https://www.facebook.com/ConnexionSG](https://www.facebook.com/ConnexionSG)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
