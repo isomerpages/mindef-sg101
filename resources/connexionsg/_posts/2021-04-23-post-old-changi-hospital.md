@@ -13,4 +13,4 @@ Changi Point is also where the Old Changi Hospital sits along Netheravon Road. M
 Watch the Stumbling video <a href="https://www.facebook.com/watch/?ref=saved&v=549543989768233" target="_blank">here:</a>
 <a href="https://www.facebook.com/watch/?ref=saved&v=549543989768233" target="_blank"><img src="/images/stumbling_changihosp.png" ></a>
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
