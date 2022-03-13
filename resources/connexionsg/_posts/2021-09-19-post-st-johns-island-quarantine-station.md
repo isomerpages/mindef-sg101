@@ -21,4 +21,4 @@ In the following decades, it was a combination of vaccines, improvements in publ
 
 Today, we're learning to live with an endemic COVID-19 through a combination of vaccines, social distancing, testing, and home quarantines and recovery. We're not quite there yet, as any transition takes time. But we're on our way.
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
