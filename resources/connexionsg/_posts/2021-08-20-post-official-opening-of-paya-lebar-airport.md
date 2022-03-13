@@ -17,4 +17,4 @@ And so plans began for a new commercial airport in Changi, which opened in 1981.
 
 Find out more about Paya Lebar Airport’s redevelopment here: https://www.ura.gov.sg/.../Urban.../Paya-Lebar-Airbase
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
