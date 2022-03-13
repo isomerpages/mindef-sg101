@@ -18,4 +18,4 @@ During the Japanese Occupation, the temple sheltered vulnerable members of the S
 
 In 1999, the temple was designated a historic site by the National Heritage Board. With its rich history and heritage, the Silat Road Sikh temple continues to play an important social and religious function for the Sikh community, ensuring their cultural and religious roots are preserved in this multi-cultural, multi-racial country. #HEREitage
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
