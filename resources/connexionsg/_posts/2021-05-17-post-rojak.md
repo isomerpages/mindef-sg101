@@ -4,8 +4,6 @@ date: 2021-05-17
 permalink: /resources/connexionsg/rojak
 layout: post
 ---
-
-
 We all have our own ideas about what makes the best Rojak. 
 
 ![Alt text for image on Isomer site](/images/186548102_5514269018615018_2062938971880375410_n.jpg)
@@ -20,4 +18,4 @@ The rojak tells a story of inspired craftsmanship in pairing opposing flavours a
 
 Rojak is often used to represent Singapore’s eclectic cultural mix because, unlike a homogenised broth, its appeal comes from having different flavours, united by a distinctive sauce. That speaks too of the connections we have with our neighbours and region. A heritage of diversity, variety, and finding harmony in the disparate that is mixed — quite literally — into our dishes. #FoodForThought
 
-<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
