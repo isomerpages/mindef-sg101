@@ -28,4 +28,4 @@ A Committee of Inquiry chaired by Senior District Judge, Michael Khoo Kah Lip, f
 
 The Spyros incident revealed the capacity for compassion and cohesion among Singaporeans, as we stepped up in times of crisis. And it remains a painful reminder for us to always look out for one another and consider what could go wrong if we took safety for granted.
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & Instagram
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
