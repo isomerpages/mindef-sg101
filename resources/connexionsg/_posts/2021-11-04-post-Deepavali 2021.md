@@ -15,4 +15,4 @@ Happy Deepavali to all!
 
 (📷: LiSHA — Little India Shopkeepers and Heritage Association)
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & Instagram
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
