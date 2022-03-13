@@ -18,4 +18,4 @@ Even at a time when we were starting out and finding our footing, we held on to 
 
 That has not, and will never, change. #WeAreTotalDefence
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
