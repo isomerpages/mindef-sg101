@@ -14,4 +14,4 @@ When fully operational in the 2040s, our new Tuas Port is expected to be the wor
 
 Singapore’s historic role as a port-of-call may be the natural result of our geographical location. But our strength as a global port comes from our determined efforts to make the most of what we have, and our willingness to harness the winds of change.
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
