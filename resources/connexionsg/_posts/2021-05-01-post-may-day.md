@@ -19,4 +19,4 @@ This May Day is a good day to reflect on this relationship, which has seen us th
 
 Every worker matters as we weather the fallout of COVID-19.
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
