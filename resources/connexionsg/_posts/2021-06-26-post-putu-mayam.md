@@ -4,7 +4,6 @@ date: 2021-06-26
 permalink: /resources/connexionsg/putumayam
 layout: post
 ---
-
 #### When was the last time you ate this? ###
 
 
@@ -23,4 +22,4 @@ Dishes like putu mayam made their way to our shores as our forefathers settled i
 
 References: Singapore Infopedia (NLB), Makansutra, HungryGoWhere, World Street Food Congress
 
-<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
