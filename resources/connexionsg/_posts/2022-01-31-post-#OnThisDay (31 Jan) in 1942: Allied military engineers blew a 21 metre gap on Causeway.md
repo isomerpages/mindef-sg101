@@ -19,4 +19,4 @@ When the Causeway was officially completed on 11 June 1924, it marked an importa
 
 📷: Japanese troops crossing the Causeway into Singapore after constructing a girder bridge over the gap; Lim Kheng Chye Collection, courtesy of National Archives of Singapore
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & Instagram
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
