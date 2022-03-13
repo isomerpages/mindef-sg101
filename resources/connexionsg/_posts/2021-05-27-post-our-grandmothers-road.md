@@ -4,7 +4,6 @@ date: 2021-05-27
 permalink: /resources/connexionsg/grandmothersroad
 layout: post
 ---
-
 There are more than 3,200 streets in Singapore. Their names not only help us locate places efficiently but also reflect Singapore’s heritage.
 
 ![Alt text for image on Isomer site](/images/sos-our-grandmother-rd/SOS_female1.jpeg)
@@ -25,4 +24,4 @@ Why are there just 41 “female” names out of 3,200 streets? Were women less p
 
 Keep an eye out for more stories about #StreetsOfSingapore!
 
-<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
