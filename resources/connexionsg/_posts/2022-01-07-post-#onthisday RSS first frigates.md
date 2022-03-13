@@ -18,4 +18,4 @@ Today, the RSN's six frigates form First Flotilla, with RSS Formidable as the le
 
 📸 RSN
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & Instagram
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
