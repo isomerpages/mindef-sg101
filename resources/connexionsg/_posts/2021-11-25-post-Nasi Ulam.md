@@ -21,4 +21,4 @@ Whether you go old school with Chendol Melaka or try Staunch Food’s modern tak
 
 Tastiness aside, nasi ulam delights us with the effort and craftsmanship that go into our heritage dishes. Additionally, bringing home-cooked delights like nasi ulam to the masses allow us to revive the warmth of home gatherings that have been dearly missed during the pandemic. #FoodForThought
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
