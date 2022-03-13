@@ -14,4 +14,4 @@ The roly-poly toy demonstrates resilience by coming back up. Hits can come from 
 
 Singapore’s centre of stability is the unity of our people: our willingness to put aside our differences to cooperate in crises, whether by putting on masks during COVID-19, taking pay cuts during downturns, and supporting the defence of our nation. We may wobble from the impact, but our cohesion brings us back up. #WeAreTotalDefence
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
