@@ -4,7 +4,6 @@ date: 2021-09-25
 permalink: /resources/connexionsg/siankengtong
 layout: post
 ---
-
 #### On Changi Road lies a little Chinese temple with a big backstory. Known as Sian Keng Tong, the temple is dedicated to Bao Sheng Da Di, the God of Medicine, worshiped in Chinese folk religion and in Taoism, and popular in Fujian province where the Heng Hua (兴化) clansmen had come from.
 
 ![Alt text for image on Isomer site](/images/siankengtong.jpg)
@@ -14,3 +13,5 @@ Most Chinese temples in Singapore were built by visiting craftsmen from China. B
 The temple’s innovations include reproducing traditional Qing dynasty carpentry on tropical hardwoods such as Jelutong and Chengal -- resulting in excellent durability for the climate. The use of the natural terracotta Marseilles roof tiles reflects the time of its construction, when there was no access to traditional tiles from China. The temple’s main beam was cast from reinforced concrete, a modern adaptation to traditional timber structures. And the lanterns at the temple contain uniquely handmade skeleton and aluminium ribs.
 
 Sian Keng Tong temple protected the spiritual and cultural heritage of Singapore’s Heng Hua community. In addition to being a place of worship, Heng Hua puppetry can still be seen here, a rare sight in Singapore. In 2013, the Urban Redevelopment Authority of Singapore added Sian Keng Tong temple to the nation’s list of conservation buildings. This ensures that even as new buildings rise around it, this little temple will stay -- and tell the story of how Singapore's clansmen had adapted and created a place meaningful to everyone. #HEREitage
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
