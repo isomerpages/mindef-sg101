@@ -20,4 +20,4 @@ To ensure competitiveness and sustainable growth, Jurong Island will continue to
 
 📸: JTC Corporation
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & Instagram
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
