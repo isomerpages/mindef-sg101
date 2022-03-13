@@ -14,4 +14,4 @@ We did this when we built our own defence forces, after Singapore fell during th
 
 When bad things happen, they can be turned into opportunities to do even better. Like kintsugi. What "golden repairs" have you also done in your life?
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
