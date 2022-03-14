@@ -4,7 +4,6 @@ date: 2021-06-15
 permalink: /resources/connexionsg/outofplace
 layout: post
 ---
-
 #### Where's the beach on Beach Road?
 
 In Singapore, there are also other odd street names that might seem out of place at first: Airport Road is not at Changi Airport and there is no horse racing at Race Course Road.
@@ -43,4 +42,4 @@ The field also saw its share of historic moments. In 1942, following the fall of
 
 In 2018, the sporting facilities were closed after being earmarked for redevelopment into a residential area. However, after public feedback, it was decided the swimming pool and boxing gym will be retained, to preserve the sporting heritage of the area. In the meantime, the stories from the area also live online. The Lives of Farrer Park project ([https://livesoffarrerpark.wordpress.com](https://livesoffarrerpark.wordpress.com)) is a collection of stories and interviews from athletes and residents of the area.
 
-<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)

@@ -23,3 +23,5 @@ That was 54 years ago. How are we doing today?
 Speech: https://www.nas.gov.sg/.../data/pdfdoc/PressR19670301a.pdf
 
 📸: A portrait of Dr Goh, taken during a press conference in 1967; Source: Ministry of Information, Communications and the Arts (MICA) via NHB/Roots
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)

@@ -4,8 +4,6 @@ date: 2021-03-18
 permalink: /resources/connexionsg/icecreambread
 layout: post
 ---
-
-
 With the temperature averaging at a sweltering mid-30 degrees celsius these days, what could be better than some ice-cream? And not just a small little ball -- a whole thick slab, now that’s even better.
 
 ![Alt text for image on Isomer site](/images/160717151_5216629471712309_4186014281516695393_n.jpg)
@@ -17,4 +15,4 @@ Eventually, the ubiquitous colourful bread was also introduced into the equation
 
 And that is how our “must eat” ice cream bread was formed, a product of pragmatism, with a side of being absolutely delicious.
 
-<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)

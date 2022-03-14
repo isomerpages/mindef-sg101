@@ -5,7 +5,6 @@ date: 2021-12-27
 layout: post
 description: ""
 ---
-
 It started with a tip from the community, which came after our security agencies in Singapore had reached out to Singaporeans in the wake of 9/11.
 
 20 years ago, in Dec 2001, the Internal Security Department (ISD) had launched community engagements as part of a security operation against the Jemaah Islamiyah (JI) network in Singapore. The operation eventually thwarted various terrorist plots that JI had planned across Singapore, including attacks on various embassies, planes, and key public infrastructure, and uncovered JI’s networks across the region. It resulted in the arrest, too, of Mas Selamat, a JI leader who was at one point Singapore’s most-wanted fugitive after escaping from a detention centre in 2008.
@@ -25,4 +24,4 @@ How we've responded has showed us the strength of our security systems, and what
 
 📷: MHA / ISD
 
-Visit ConnexionSG Facebook @ https://www.facebook.com/ConnexionSG
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)

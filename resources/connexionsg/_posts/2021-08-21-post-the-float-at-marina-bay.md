@@ -4,8 +4,6 @@ date: 2021-08-21
 permalink: /resources/connexionsg/floatmarinabay
 layout: post
 ---
-
-
 #### Tonight (21 Aug), we hold our National Day Parade (NDP) at The Float @ Marina Bay — home of ten NDPs in years past. 
 
 ![Alt text for image on Isomer site](/images/float.jpg)
@@ -20,3 +18,5 @@ In many ways, the floating platform tells a story of our constant effort to make
 
 In the next few years, the area where the platform stands will be developed into the NS Square, home to the upcoming NS Gallery and a new waterfront location for community events — another addition to our scenic skyline. Our years at the floating platform is a chapter we can look back on fondly, as we move onward in our Singapore story. 
 #TogetherOurSGSpirit #NDP2021
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) | [Instagram](https://www.instagram.com/connexionsg/)

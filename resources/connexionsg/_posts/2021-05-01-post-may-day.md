@@ -4,7 +4,6 @@ date: 2021-05-01
 permalink: /resources/connexionsg/mayday
 layout: post
 ---
-
 #### Did you know Labour Day (AKA May Day) is older than National Day?
 
 It was first gazetted as a public holiday in 1960, five years before Singapore became independent, as a paid day of rest to honour workers.
@@ -20,4 +19,4 @@ This May Day is a good day to reflect on this relationship, which has seen us th
 
 Every worker matters as we weather the fallout of COVID-19.
 
-<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)

@@ -16,4 +16,4 @@ In Singapore, our homegrown version likely developed from immigrants from southe
 
 There are many ways to do biryani, and ours — slow-cooked to perfection and steeped in regional and local influence — adds to the richness of food on our tables. #FoodForThought
 
-Visit ConnexionSG Facebook @ [https://www.facebook.com/ConnexionSG](https://www.facebook.com/ConnexionSG)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)

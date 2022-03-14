@@ -4,7 +4,6 @@ date: 2021-10-04
 permalink: /resources/connexionsg/sghollywood
 layout: post
 ---
-
 🎬🎥  ***Imagine living next to Singapore's Hollywood!***  🎬🎥
 
 In Siglap, sits a small estate off East Coast Road with street names like Jalan Buloh Perindu (“yearning bamboo road”) and Jalan Sedara Ku (“my compatriot road”). These are inspired by films produced by the Cathay-Keris movie studios formerly situated in the area.
@@ -21,3 +20,5 @@ Moving from screen to stage, the nearby Opera Estate has streets named after ope
 ![Alt text for image on Isomer site](/images/siglap3.jpeg)
 
 The streets of Siglap and Opera Estate remind us that art and culture had a vital presence in the early years of our nation's development. Their names keep us linked to some splendid eras of our cultural heritage. #StreetsOfSingapore
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)

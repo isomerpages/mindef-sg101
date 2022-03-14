@@ -4,8 +4,6 @@ date: 2021-09-14
 permalink: /resources/connexionsg/changinggears
 layout: post
 ---
-
-
 COVID-19 has resulted in Singapore's worst recession since independence. After almost two years of living with COVID-19, it is time to move from drawing down on our reserves to survive, to generating jobs and growth in the new normal. 
 
 ![Alt text for image on Isomer site](/images/changinggears.jpg)
@@ -25,3 +23,5 @@ At every stage of our journey from Third World to First, we have moved forward b
 Singapore has never stood still. We have made economic pivots as our circumstances change, each time getting better and smarter. What opportunities lie in our current challenges? We will find them again. 
 
 📸: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)

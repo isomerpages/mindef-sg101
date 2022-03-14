@@ -4,7 +4,6 @@ date: 2021-06-22
 permalink: /resources/connexionsg/intertidallifeinsg
 layout: post
 ---
-
 Every day between the high and low tides, a coastal zone emerges from the water along Singapore’s shores. These calm, shallow lagoons — known as intertidal zones — reveal a range of marine life: from sea stars to sea urchins; anemones to snails; and sea cucumbers to shrimp.
 
 ![Alt text for image on Isomer site](/images/intertidal-life2.jpeg)
@@ -17,4 +16,4 @@ But #YouShouldKnow that there are some things that marine life cannot endure. In
 
 While our intertidal zones are beautiful, they are also the homes of marine and aquatic life. So like any good house guest, let’s take care when exploring the intertidal zones in Singapore. Take nothing but photos, respect the environment, and do our part to protect the fragile biodiversity.
 
-<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)

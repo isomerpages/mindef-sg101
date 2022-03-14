@@ -20,3 +20,5 @@ There is also Staunch Food, a home-based business started by two teenage sibling
 Whether you go old school with Chendol Melaka or try Staunch Food’s modern take on nasi ulam, the dish always delivers by being complex yet well-balanced. The finely-chopped ingredients ensure every mouthful of nasi ulam is packed with a multitude of tastes and sensations. And if this wasn’t enough, the dish is frequently garnished with umami-bombs such as sambal belacan (shrimp chilli paste), grago (baby krill) or kerisik (toasted coconut).
 
 Tastiness aside, nasi ulam delights us with the effort and craftsmanship that go into our heritage dishes. Additionally, bringing home-cooked delights like nasi ulam to the masses allow us to revive the warmth of home gatherings that have been dearly missed during the pandemic. #FoodForThought
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)

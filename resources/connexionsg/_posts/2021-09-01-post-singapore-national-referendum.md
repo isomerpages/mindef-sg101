@@ -4,7 +4,6 @@ date: 2021-09-01
 permalink: /resources/connexionsg/sgnatlreferendum
 layout: post
 ---
-
 ### #OnThisDay in 1962, the Singapore National Referendum was held. The people of Singapore voted to express their preference on the mode and manner of the merger with Malaya, Sabah, and Sarawak, to form Malaysia. 
 
 ![Alt text for image on Isomer site](/images/referendum.jpg)
@@ -20,3 +19,5 @@ But Singapore’s pursuit of a "more just and equal society" and non-communal po
 After less than 23 months, Singapore separated from Malaysia. While this union did not last, our pursuit of a meritocratic multiracial society, and prosperity for our nation, continues.
 
 📸: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)

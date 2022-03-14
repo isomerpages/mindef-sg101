@@ -4,7 +4,6 @@ date: 2021-04-17
 permalink: /resources/connexionsg/bicyclelicence
 layout: post
 ---
-
 More people have taken up cycling in Singapore as roads become better connected: to get to work, fetch children, collect meals or just simply for enjoyment. 
 
 ![Alt text for image on Isomer site](/images/sgfirst_licence_lky.jpg)
@@ -19,4 +18,4 @@ Whether bicycles need to have licence plates again or not, it is clear that moto
 
 What would it take for people in Singapore to have a greater sense of responsibility while mobile?
 
-<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)

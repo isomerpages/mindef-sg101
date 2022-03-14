@@ -4,7 +4,6 @@ date: 2021-10-14
 permalink: /resources/connexionsg/jurongislandopened
 layout: post
 ---
-
 ####  #onthisday (14 Oct) in 2000, Jurong Island was officially opened.
 
 ![Alt text for image on Isomer site](/images/jurongisland1.jpg)
@@ -20,3 +19,5 @@ But Jurong Island is also preparing itself for the future. It is transforming it
 To ensure competitiveness and sustainable growth, Jurong Island will continue to adapt and find solutions to challenges. And Singapore, like Jurong Island, will not stay still but keep moving forward to meet new challenges.
 
 📸: JTC Corporation
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)

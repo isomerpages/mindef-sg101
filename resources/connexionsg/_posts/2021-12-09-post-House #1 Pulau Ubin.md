@@ -24,5 +24,6 @@ While the original interior layout of the house was kept throughout, some intern
 Today, House No. 1 on Pulau Ubin is the Chek Jawa Visitor Centre, within the natural environment of Chek Jawa (and home to two colonies of rare bats!). It is as much a nod to the diverse cultures that have shaped our island, as it is a reflection of the care and sensitivity with which we conserve our built environment in Singapore. #HEREitage
 
 
-
 📸: URA Conservation Portal
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)

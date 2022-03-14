@@ -4,7 +4,6 @@ date: 2021-07-21
 permalink: /resources/connexionsg/mainlandvillage
 layout: post
 ---
-
 #### A small turn off Gerald Drive in the Yio Chu Kang area is all it takes to transport you to another era
 
 ![Alt text for image on Isomer site](/images/mainlandvillage.jpeg)
@@ -21,4 +20,4 @@ Kampong Lorong Buangkok is the last example of village life, where community and
 
 References: Remember Singapore, Jalan Kayu Trail, Singapore Infopedia (NLB), Project Kampong Lorong Buangkok — Singapore Mainland’s Last Rural Village, BBC Travel, The Smart Local, Honeycombers, TODAY
 
-<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)

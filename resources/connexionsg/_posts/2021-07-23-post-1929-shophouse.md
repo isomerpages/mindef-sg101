@@ -4,7 +4,6 @@ date: 2021-07-23
 permalink: /resources/connexionsg/1929shophouse
 layout: post
 ---
-
 At the intersection of Lorong 19 Geylang and Lorong Bachok stands this shophouse from 1929. #HEREitage
 
 ![Alt text for image on Isomer site](/images/1929shophouse1.jpeg)
@@ -27,4 +26,4 @@ Along the perimeter of the shophouse, there are panels depicting scenes from Chi
 
 In Singapore, the threads of our varied histories are woven together, in ways that may seem chaotic at first glance. But it’s a confluence of influences that’s distinctly ours. Whatever the metaphor we use to think about ourselves (rojak, potpourri, or late-style shophouse), it comes back time and again how it's all in the details. For it's here that connections are thrown into sharp relief (literally), and the uniqueness of every brick, tile, or individual is highlighted and celebrated. #SGinHarmony
 
-<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)

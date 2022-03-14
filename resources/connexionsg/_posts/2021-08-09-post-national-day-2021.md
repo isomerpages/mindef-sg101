@@ -4,7 +4,6 @@ date: 2021-08-09
 permalink: /resources/connexionsg/ndp2021
 layout: post
 ---
-
 Our first National Day Parade (NDP) was held at the Padang in 1966, a year after Singapore’s separation from Malaysia. It drew massive crowds, and more than 23,000 people participated in the march past, as Singapore’s first president, Yusof bin Ishak, reviewed the parade on the steps of City Hall.
 
 ![Alt text for image on Isomer site](/images/ndp2021_1.jpeg)
@@ -36,4 +35,4 @@ This year, for the first time in 55 years, NDP will take place on 21 Aug, after 
 ##### Happy National Day! 🇸🇬
 #TogetherOurSGSpirit #NDP2021 #WeAreTotalDefence #PsychologicalDefence #TogetherWeKeepSingaporeStrong
 
-<a href="https://www.facebook.com/ConnexionSG" target="_blank">Visit ConnexionSG Facebook</a>
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
