@@ -9,8 +9,7 @@ Since 24 February 2022, Russia has used military force to invade Ukraine from mu
 Russia’s unprovoked invasion of Ukraine and acted in concert with many other like-minded countries to impose appropriate sanctions and 
 restrictions against Russia.
 
-To better understand Singapore’s principled stand on Russia’s invasion of Ukraine, please see this issue of NE Insights. We have also
-also prepared an accompanying set of slides on this. 
+To better understand Singapore’s principled stand on Russia’s invasion of Ukraine, please see this issue of NE Insights. We have also prepared an accompanying set of slides on this. 
 
 Download the package 
 
