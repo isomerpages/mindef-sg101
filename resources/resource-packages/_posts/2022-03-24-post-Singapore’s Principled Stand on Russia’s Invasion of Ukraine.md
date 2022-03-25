@@ -13,5 +13,7 @@ To better understand Singapore’s principled stand on Russia’s invasion of Uk
 also prepared an accompanying set of slides on this. 
 
 Download the package 
-<br>[Folio 1 - Insights 2-22_Singapore's Principled Stand on Russia's Invasion of Ukraine.pdf](/files/packages/2022/Russia’s%20Invasion%20of%20Ukraine/Folio%201%20-%20Insights%202-22_Singapore's%20Principled%20Stand%20on%20Russia's%20Invasion%20of%20Ukraine.pdf)
-<br>[Folio 2 - Insights on Singapore's Principled Stand on Russia's Invasion of Ukraine.pdf](/files/packages/2022/Russia’s%20Invasion%20of%20Ukraine/Folio%202%20-%20Insights%20on%20Singapore's%20Principled%20Stand%20on%20Russia's%20Invasion%20of%20Ukraine.pdf)
+
+[02/22 Insights on Singapore's Principled Stand on Russia's Invasion of Ukraine](/files/packages/2022/Russia’s%20Invasion%20of%20Ukraine/Folio%201%20-%20Insights%202-22_Singapore's%20Principled%20Stand%20On%20Russia's%20Invasion%20of%20Ukraine.pdf)
+
+[Slides on Singapore's Principled Stand on Russia's Invasion of Ukraine](/files/packages/2022/Folio%202%20-%20Accompanying%20deck%20on%20Singapore's%20Principled%20Stand%20on%20Russia's%20Invasion%20of%20Ukraine.pdf)
