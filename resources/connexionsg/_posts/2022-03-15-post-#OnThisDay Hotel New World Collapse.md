@@ -15,4 +15,4 @@ In the aftermath, many came together for the five-day search-and-rescue operatio
 
 Following the disaster, we raised safety standards and tightened construction regulations, to ensure that a disaster like this never happens again. #CivilDefence #WeAreTotalDefence
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG ) & [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
