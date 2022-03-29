@@ -21,7 +21,7 @@ He made three points on why we should not take Singapore’s access to fresh dri
 
 “We must always remember that water is precious and each of us must do his part in our national effort to save water.” As we observe Singapore World Water Day today (22 March), let us #MakeEveryDropCount. #GoBlue4SG
 
-Speech: https://www.nas.gov.sg/.../cc6b6e8a-a1e6-11e9-9972...
+You can read his speech [here](https://www.nas.gov.sg/archivesonline/speeches/record-details/cc6b6e8a-a1e6-11e9-9972-001a4a5ba61b?fbclid=IwAR1Op8voaXT8kWq9TK-xEeQ3FoDFjHutlh0otjFWI7WaqZfEtgOrItpegic).
 
 📷: Portrait of Mr Ong Teng Cheong (1976); Ong Teng Cheong Collection, courtesy of National Archives of Singapore
 
