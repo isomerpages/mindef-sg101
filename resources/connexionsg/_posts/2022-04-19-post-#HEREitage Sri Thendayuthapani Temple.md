@@ -6,8 +6,14 @@ layout: post
 description: ""
 ---
 ![](/images/connexionsg/2022/Sri%20Thendayuthapani%20Temple%201.jpg)
+📷 1: Roots.sg
+
 ![](/images/connexionsg/2022/Sri%20Thendayuthapani%20Temple%202.jpg)
+📷 2: Sri Thendayuthapani Temple's gopuram by Shiny Things (CC)
+
 ![](/images/connexionsg/2022/Sri%20Thendayuthapani%20Temple%203.jpg)
+📷 3: Sri Thendayuthapani Temple's prayer hall via Roots.sg
+
 
 Sri Thendayuthapani Temple (commonly referred to as the Chettiars’ Temple) at 15 Tank Road is one of Singapore’s oldest Hindu temples dedicated to Lord Murugan, the deity also known as Sri Thendayuthapani. The temple was established in 1859 by the Nattukottai Chettiars (or Nagarathars), who first came to Singapore around the 1820s from the Chettinad region in the southern Indian state of Tamil Nadu as traders, financiers, and merchant bankers.
 
@@ -19,9 +25,5 @@ After a decision by the temple committee to reconstruct the temple in the late-1
 
 Today, apart from being the end point for Thaipusam celebrations of up to 50,000 devotees, the temple hosts a series of programmes and continues to provide annathaanam (free food) during special occasions for everyone. Not only does the temple remain a place of worship for the Hindu community, it stands as a living testimony to the Chettiars’ contributions to Singapore. #HEREitage
 
-
-📷 1: Roots.sg
-📷 2: Sri Thendayuthapani Temple's gopuram by Shiny Things (CC)
-📷 3: Sri Thendayuthapani Temple's prayer hall via Roots.sg
 
 Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
