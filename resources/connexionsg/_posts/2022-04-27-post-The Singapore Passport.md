@@ -27,4 +27,4 @@ Over the years, the Singapore passport has become a symbol of our nation’s pro
 Thinking of renewing your passport before jetting off for your travels? Swipe to read about how our passport has changed over the years! 🛫
 
 
-Visit ConnexionSG Facebook & Instagram
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
