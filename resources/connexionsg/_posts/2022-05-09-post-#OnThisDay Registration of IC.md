@@ -7,7 +7,7 @@ description: ""
 ---
 ![](/images/Registration%20of%20IC.png)
 
-#onthisday (9 May) in 1966, Singaporeans began registering for pink and blue identity cards, after the National Registration Act of 1965 took effect a few days before.
+#OnThisDay (9 May) in 1966, Singaporeans began registering for pink and blue identity cards, after the National Registration Act of 1965 took effect a few days before.
 
 The new cards replaced the identification papers issued under British colonial rule. And between May and December 1966, we issued about a million new cards — with the first (number S0000001) going to our first President, the late Mr Yusof Ishak.
 
