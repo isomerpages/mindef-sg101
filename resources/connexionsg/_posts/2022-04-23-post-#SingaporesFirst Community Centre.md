@@ -16,5 +16,3 @@ In 1951, they did just that. They turned an air-raid shelter at Eu Chin Street i
 
 
 Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
-
-
