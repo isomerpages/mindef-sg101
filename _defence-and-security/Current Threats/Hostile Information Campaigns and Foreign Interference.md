@@ -59,7 +59,7 @@ Defined and designated PSPs will be subjected to countermeasures covering the fo
 ![](/images/Defence/FICA.jpg)
 *Understanding the Foreign Interference (Countermeasures) Act (FICA). Image: MHA.*
 
-Building Public Awareness
+#### Building Public Awareness
 
 Government agencies have also been providing real-time updates on their websites. For instance, the Ministry of Health will quickly post information on its official website to debunk fake news. When a Facebook post stated that a three-year-old pre-schooler had died from COVID-19 in August 2021, MOH clarified that the story was false. 
 
