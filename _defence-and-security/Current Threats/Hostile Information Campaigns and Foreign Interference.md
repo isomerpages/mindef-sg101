@@ -74,5 +74,5 @@ Singapore has extremely high rates of internet penetration and social media use.
 
 On 15 February 2019, Digital Defence was launched as the sixth pillar of Total Defence, bringing across the message that every individual is at the forefront of Digital Defence. As then-Senior Minister of State for Defence, Dr Mohamad Maliki bin Osman said during the Committee of Supply (COS) debate in 2019, “Only if everyone plays a part – the Government, businesses, communities and individuals - can we make Digital Defence a part of Singapore’s DNA, and keep our defence total.” 
 
-
+![](/images/Defence/Digital%20Defence.jpg)
 *Digital Defence actions that every individual can take to protect themselves online. Image: MINDEF.*
