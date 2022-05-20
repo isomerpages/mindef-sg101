@@ -26,13 +26,15 @@ Although Singapore has, over the years, built one of the most capable militaries
 
 An example would be periodic incursions by neighbours into our territorial waters. Some of these incidents have been provocative and escalatory, increasing tensions and the risk of miscalculation on the ground, as well as harming bilateral ties. 
 
-For example, in October 2018, Malaysia unilaterally extended the Johor Bahru Port Limits, encroaching into Singapore Territorial Waters off Tuas. Under international law, port limits are to be declared by a country only within its own territorial waters. Due to this violation of Singapore’s sovereignty, Singapore lodged a strong protest with the Malaysian government. During this period, there were daily intrusions by Malaysian government vessels into Singapore waters, including prolonged anchoring. 
+<div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
+<p>For example, in October 2018, Malaysia unilaterally extended the Johor Bahru Port Limits, encroaching into Singapore Territorial Waters off Tuas. Under international law, port limits are to be declared by a country only within its own territorial waters. Due to this violation of Singapore’s sovereignty, Singapore lodged a strong protest with the Malaysian government. During this period, there were daily intrusions by Malaysian government vessels into Singapore waters, including prolonged anchoring. 
 
 On 6 December 2018, the Singapore government extended the Singapore Port Limits off Tuas. It was challenging to manage the situation without escalating tensions, especially as the waters in the area became more congested with civilian and military vessels.
 
 ![](/images/Defence/STW.jpg)
-*RSS Independence (left) watching over a Malaysian government vessel in Singapore waters off Tuas. Image: MINDEF.*
+*RSS Independence (left) watching over a Malaysian government vessel in Singapore waters off Tuas. Image: MINDEF.*</p> 
+</div>
 
 As the threat landscape continues to evolve, new and complex security challenges such as transnational terrorism, cyber-attacks, and disinformation campaigns have emerged. Such emerging threats are not only more difficult to deter and detect compared to conventional military threats, but will also require the SAF to rethink traditional concepts of defence in order to be able to respond effectively.
 
-In the face of threats new and old, Singapore remains committed to defending our strategic interests and sovereignty, backed by a strong SAF. 
+In the face of threats new and old, Singapore remains committed to defending our strategic interests and sovereignty, backed by a strong SAF.
