@@ -23,7 +23,9 @@ During the COVID-19 pandemic in Singapore, there were also multiple instances of
 These episodes illustrate how Singapore, as a highly connected, multi-religious and multiracial society, can become a target for divisive falsehoods. Through fake news and falsehoods, potential aggressors can exploit these vulnerabilities to harm our country. They may disrupt our way of life, affect our hearts and minds, influence our perceptions of issues and how we behave, reduce public confidence in public institutions, and undermine our social cohesion and psychological resilience. 
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
-<p>Examples of Foreign Interference in Other Countries
+<p>
+	
+### Examples of Foreign Interference in Other Countries
 
 For many countries, elections are the main way by which a government is chosen to lead and organise society. By tampering or interfering with the elections, these state actors are looking to destabilise the target’s government or to influence results in their favour. 
 
