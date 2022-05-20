@@ -4,6 +4,8 @@ permalink: /defence-and-security/Current-Threats/permalink
 description: ""
 third_nav_title: Current Threats
 ---
+## Hostile Information Campaigns and Foreign Interference
+
 An inter-connected threat that has grown in the digital age is the emergence of hostile information campaigns (HICs) and foreign interference (FI). As part of a hybrid attack, a country may face economic and/or diplomatic pressures, cyber-attacks, HICs and/or foreign interference. HICs/FI aim to exploit social divides, weaken public trust in the government and amongst the community, and sow anxiety. The prevalent use of the Internet and social media and the anonymity they accord have exacerbated these threats.
 
 As Singapore works towards being a Smart Nation, digital technology will pervade all aspects of our lives. While the digital revolution presents opportunities for Singapore, it also makes us vulnerable to threats from the digital domain. Singapore’s size, hyper-connectivity and multi-ethnic and multi-religious society make us even more of a target, as shown in local examples. 
@@ -33,7 +35,7 @@ In the United Kingdom, domestic unhappiness was exploited during the referendum 
 *Examples of foreign interference in Singapore and other countries. Image: MHA.*</p> 
 </div>
 
-**Safeguarding Singapore against Hostile Information Campaigns (HICs) and Foreign Interference (FI)**
+## Safeguarding Singapore Against Hostile Information Campaigns (HICs) and Foreign Interference (FI)
 
 To combat HICs/FI, Parliament passed the Protection from Online Falsehoods and Manipulation Act (POFMA) on 8 May 2019, and the Foreign Interference (Countermeasures) Act (FICA) on 4 October 2021. POFMA seeks to safeguard against the spread of falsehoods via electronic means and online platforms. FICA aims to strengthen Singapore’s ability to prevent, detect and disrupt foreign interference in its domestic politics conducted through HICs and the use of local proxies. 
 
