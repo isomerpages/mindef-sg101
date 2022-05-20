@@ -2,4 +2,5 @@ collections:
   defence-and-security:
     output: true
     order:
+      - Challenges/.keep
       - Coming Soon.md
