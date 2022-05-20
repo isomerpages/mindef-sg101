@@ -41,7 +41,7 @@ In Singapore, the main domestic terrorism threat comes from self-radicalised act
 
 The Government has taken significant steps to enhance our counter-terrorism capabilities. Part of the Singapore Police Force (SPF)’s enhanced response capabilities include the Emergency Response Teams (ERTs) and Rapid Deployment Troops (RDTs). The ERTs patrol various locations, including iconic locations, locations with high footfall, and transport nodes. They are also trained to respond swiftly to neutralise threats. RDTs are equipped with tactical response motorcycles to navigate through traffic gridlock. The In-Situ Reaction Teams (IRTs) complement ERTs and RDTs, and are deployed at iconic areas with high footfall, such as Orchard Road and Marina Bay, to project deterrence and provide quick response.
 
-
+![](/images/Defence/ERT.jpg)
 *An Emergency Response Team (ERT) from the Singapore Police Force (SPF) patrolling Raffles Place. Image: MHA.*
 
 Regular counter-terrorism exercises are also conducted to enhance operational preparedness. Some of these exercises are conducted with community stakeholders such as shopping malls, educational institutions, places of worship, and public transport facilities. Some of these exercises are also conducted jointly across agencies from the Home Team, such as the SPF and Singapore Civil Defence Force (SCDF), as well as with the SAF.
