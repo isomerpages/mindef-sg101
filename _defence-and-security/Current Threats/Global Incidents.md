@@ -4,6 +4,7 @@ permalink: /defence-and-security/Current-Threats/permalink
 description: ""
 third_nav_title: Current Threats
 ---
+## Global Incidents
 ![](/images/Defence/Defence%205.jpg)
 
 Singapore only has to take a look at recent events to see how other countries, especially small states, can have their interests subjugated. 
