@@ -19,6 +19,7 @@ As a result, we had to grapple with domestic instability through the 1950s and 1
 The government’s measures to clamp down on communist activities, such as disbanding pro-communist Chinese organisations, resulted in island-wide protests from thousands of Chinese middle school students in October 1956. Tensions swelled when students attacked police, sparking off violent riots across the country. When the disturbances ended, there were 13 deaths, 127 injured, and more than 1,000 arrested.
 
 In 1964, Singapore had to deal with a series of racial riots amidst the thick of Konfrontasi (Confrontation) and tensions between the state government in Singapore and the federal government in Kuala Lumpur (KL). 
+<hr>
 
 ***Konfrontasi***
 
@@ -33,6 +34,7 @@ Konfrontasi was put to an end in August 1966 when Indonesia signed a peace treat
 Watch the video on Konfrontasi – Defending Our Sovereignty for more details.
 [Konfrontasi - Defending Our Sovereignty](https://www.youtube.com/watch?v=m5HNGgfz8i8)
 
+<hr>
 In another occasion, tensions boiled over during a procession to celebrate the Prophet Muhammad’s birthday in July 1964 which saw clashes between Malays and Chinese. News of these led to further communal violence across the island, leading to 23 deaths and 454 people injured.
 
 In September, a second series of communal riots was ignited by the killing of a Malay trishaw rider, leading to 13 deaths and 109 people injured. This time, Indonesia was accused of fomenting the unrest as part of Konfrontasi operations.
