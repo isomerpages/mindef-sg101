@@ -2,11 +2,11 @@ collections:
   defence-and-security:
     output: true
     order:
-      - Current Threats/Overview.md
-      - Current Threats/.keep
       - Challenges/.keep
       - Challenges/A Small Country.md
       - "Challenges/The Early Tumultuous Years: 1950s to 1970s.md"
       - Challenges/Withdrawal of British Forces and the Need to Build Our Own
         Defence Force.md
+      - Current Threats/.keep
+      - Current Threats/Overview.md
       - Coming Soon.md
