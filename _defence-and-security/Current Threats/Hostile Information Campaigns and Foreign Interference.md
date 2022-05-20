@@ -39,13 +39,13 @@ In the United Kingdom, domestic unhappiness was exploited during the referendum 
 
 To combat HICs/FI, Parliament passed the Protection from Online Falsehoods and Manipulation Act (POFMA) on 8 May 2019, and the Foreign Interference (Countermeasures) Act (FICA) on 4 October 2021. POFMA seeks to safeguard against the spread of falsehoods via electronic means and online platforms. FICA aims to strengthen Singapore’s ability to prevent, detect and disrupt foreign interference in its domestic politics conducted through HICs and the use of local proxies. 
 
-Countering HICs
+#### Countering HICs
 
 HICs involve the covert manipulation of domestic political discourse to advance the hostile actor’s objectives, which may range from destabilising the target country through inciting or inflaming social tensions, manipulating public opinion on sensitive issues, or undermining the public’s trust in the country’s institutions.
 
 Under FICA, the Minister for Home Affairs will have the powers to issue directions to various individuals and entities, such as social media services, relevant electronic services, and Internet access services, to help the authorities investigate and counter hostile communications activity that is of foreign origin. These directions allow the government to (a) obtain information on foreign interference operations, (b) prevent HIC activity from taking place, and (c) swiftly block or contain the propagation of harmful HIC content.
 
-Countering the Use of Local Proxies
+#### Countering the Use of Local Proxies
 
 Local proxies may also be used to interfere in political processes, or government decision-making. Tactics include funding or providing non-monetary support for specific entities and persons who are actively engaged in politics or who are in positions of power or influence over governmental decisions.
 
