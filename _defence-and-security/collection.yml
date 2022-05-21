@@ -2,7 +2,6 @@ collections:
   defence-and-security:
     output: true
     order:
-      - Our Defence and Security/.keep
       - Challenges/.keep
       - Challenges/A Small Country.md
       - "Challenges/The Early Tumultuous Years: 1950s to 1970s.md"
@@ -13,4 +12,5 @@ collections:
       - Current Threats/Terrorism and Self Radicalisation.md
       - Current Threats/Hostile Information Campaigns and Foreign Interference.md
       - Current Threats/Global Incidents.md
+      - Our Defence and Security/.keep
       - Coming Soon.md
