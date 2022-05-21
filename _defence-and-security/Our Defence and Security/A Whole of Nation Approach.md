@@ -61,4 +61,15 @@ The government continues to enhance our counter-terrorism capabilities. At the s
 	
 The CEP was later revamped and expanded to become the SGSecure movement, which was launched in 2016 to sensitise, train and mobilise the community in the fight against terror. The SGSecure movement puts Civil Defence, Social Defence and Psychological Defence into action.
 
+![](/images/Defence/SGSecure%20Logo.png)
+*Image: MHA.*
 
+It focuses on three core actions: Staying Alert, Staying United and Staying Strong. SGSecure programmes have been introduced in our neighbourhoods, schools, workplaces and religious organisations to raise awareness of the terrorism threat and increase community vigilance. Emergency preparedness skills training were also made more easily accessible to improve community preparedness. Other programmes include activities that strengthen social cohesion, such as inter-faith activities. 
+
+SGSecure has also leveraged technology, allowing SGSecure app users to submit information on suspicious sightings and receive alerts and updates in the event of major emergencies. 
+	
+The SGSecure Responders’ Network was also launched in November 2019 to encourage members of the public to be active responders. Anyone can be a SGSecure Responder, and members of the public can join easily through the SGSecure app. The “Respond” feature in the app allows Responders to be mobilised to help people in distress, such as by responding to cardiac arrest or minor fires around them.  
+
+
+
+[Visit https://www.sgsecure.gov.sg/what-can-i-do/be-an-sgsecure-responders for more videos on how you can become a SGSecure Responder.]
