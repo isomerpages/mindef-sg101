@@ -52,4 +52,16 @@ The second pillar of Singapore’s defence is deterrence, which is contingent on
 	
 Building robust deterrence means steadily investing in capabilities to ensure that our armed forces’ hardware and technology stay up to date. Furthermore, it means developing our people and equipping them with the necessary knowledge and expertise to ward off potential aggressors. 
 	
-These efforts require significant investments in financial and manpower resources. Investments are made in human capital, infrastructure, technology, as well as in new capabilities, and research and development endeavours. The SAF uses technology as a “force multiplier”, developing defence science to augment the SAF’s capabilities. 
+These efforts require significant investments in financial and manpower resources. Investments are made in human capital, infrastructure, technology, as well as in new capabilities, and research and development endeavours. The SAF uses technology as a “force multiplier”, developing defence science to augment the SAF’s capabilities.
+
+![](/images/Defence/Defence%206.jpg)
+
+Nevertheless, even the best technology has to be manned by a determined fighting force which, in Singapore’s case, is a conscript armed force built up over decades, and supported by the entire nation. 
+
+![](/images/Defence/OpenDoc%20Banners%201.gif)
+
+Being Resourceful and Innovative
+	
+SAF in the 1960s
+
+In the early years of independence, Singapore was short on resources to build a strong and capable defence force. The British withdrawal left a huge gap, especially in air and naval protection. The key priority after Singapore’s independence was to build up the country’s own defence capability as soon as possible. The only way to overcome this was to develop a conscript armed force built around a small professional core. Singapore’s first defence force was created in the 1960s. In our formative years, the SAF had just two infantry battalions, two wooden ships and two leased aircraft. 
