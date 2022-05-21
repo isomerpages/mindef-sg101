@@ -21,7 +21,7 @@ Singapore has also been a strong advocate of upholding an open and inclusive reg
 	
 The ASEAN Defence Ministers’ Meeting (ADMM), established in 2006, is the highest-level defence consultative and cooperative mechanism in ASEAN. It aims to promote mutual trust and confidence through dialogue and practical cooperation. In 2010, the ADMM-Plus was established. The ADMM-Plus is the de facto regional security platform for ASEAN and eight of its Dialogue Partners (Australia, China, India, Japan, New Zealand, Russia, South Korea, and the United States, collectively referred to as the “Plus Countries”) to strengthen security and defence cooperation for peace, stability and development through the ADMM-Plus Meetings and its Experts Working Groups. 
 
-	![](/images/Defence/ADMM.jpg)
+![](/images/Defence/ADMM.jpg)
 *Minister for Defence Dr Ng Eng Hen (centre) at the ADMM Retreat held virtually on 10 November 2021. Image: MINDEF.*
 	
 Another example is the Shangri-La Dialogue (SLD), an annual dialogue that brings together defence ministers and military chiefs from around the world to exchange perspectives on the region’s most pressing security challenges. It is organised by the International Institute for Strategic Studies (IISS), with support from the Singapore government. The dialogue gets its name from the location where it is held – the Shangri-La Hotel in Singapore. The event is a platform that allows countries to strengthen defence relations, build understanding and foster practical cooperation with one other. 
@@ -29,4 +29,3 @@ Another example is the Shangri-La Dialogue (SLD), an annual dialogue that brings
 ![](/images/Defence/PM%20Lee%20at%20SLD2019.jpg)
 *Prime Minister Mr Lee Hsien Loong delivering the keynote address at the SLD on 31 May 2019. Image: MINDEF.*</p> 
 </div>
-
