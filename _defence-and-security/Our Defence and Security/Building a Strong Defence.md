@@ -86,3 +86,15 @@ The digital domain has grown into a full-fledged arena of conflict and contestat
 
 Notwithstanding, the Next Generation SAF has and will continue to incorporate new capabilities to strengthen its ability to deter potential aggressors and defend Singapore. For instance, by 2040, the Army, equipped with Next Gen Infantry Battalions and new armoured tracked carriers and howitzers, will be more manoeuvrable and able to strike faster and harder. The Navy, with Multi-Role Combat Vessels, Invincible-class submarines, and unmanned vessels, will be able to see and strike further at sea and in the depths to better protect our waters and our Sea Lines of Communication. The Next Gen Air Force, with F-15s and F-35s fighter jets, will be more versatile and effective to better protect our skies, and our Next Gen UAVs, such as the Close-range (CR) UAVs, will enhance the SAF’s air intelligence, surveillance and reconnaissance capabilities.
 
+![](/images/Defence/Next%20Gen%20SAF.jpg)
+*Image: MINDEF.*
+
+SAF servicemen and women are also being nurtured and equipped with the relevant technological expertise and digital tools to leverage data in performing their operational duties. The Next Gen SAF has also stepped up efforts to leverage technology to deal with security challenges, and make up for fewer boots on the ground, as well as explored ways to deploy manned-unmanned assets in operations to more effectively deploy our manpower. For example, by exploiting automation, the TPQ-53 Weapon Locating Radar is able to identify and acquire threats further and with more accuracy while using about 30% less manpower compared with its predecessors. Likewise, the Army’s next-generation howitzer will be operated by a three-man crew, compared to the current nine-man team. 
+
+The RSN’s new Maritime Security Unmanned Surface Vessels (MARSEC USVs) will operate alongside manned ships, such as the RSN’s Littoral Mission Vessels (LMVs), to enhance the security of Singapore’s waters. The MARSEC USVs are equipped with autonomous navigation systems, and are able to conduct round-the clock patrols, investigate and interdict suspicious vessels in our waters.
+
+Apart from existing initiatives, the RSAF continues to leverage on advancements in technology to enhance effectiveness and efficiency in its base operations. The RSAF’s smart airbase of the future taps on fourth industrial revolution technologies to enable the RSAF to operate more effectively in a high operational tempo and increasingly complex environment.  For example, the RSAF’s  enhanced munitions loader for fighter aircraft requires only one personnel to operate as compared to the current three-men loading team, providing manpower savings of up to 66%.
+
+Together, the Next Gen SAF will be more networked and capable of Singapore’s peace and security across the air, land, sea and digital domains.
+
+
