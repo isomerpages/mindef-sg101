@@ -29,3 +29,16 @@ Another example is the Shangri-La Dialogue (SLD), an annual dialogue that brings
 ![](/images/Defence/PM%20Lee%20at%20SLD2019.jpg)
 *Prime Minister Mr Lee Hsien Loong delivering the keynote address at the SLD on 31 May 2019. Image: MINDEF.*</p> 
 </div>
+
+As a responsible member of the international and regional community, Singapore also contributes to international security efforts.
+
+<div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
+<p>
+	
+##### Maritime Security Efforts
+
+The Straits of Malacca and Singapore (SOMS) are critical and strategic waterways as about half of the global yearly seaborne trade and 70% of Asia’s oil imports pass through the SOMS. To deal with rising piracy rates in the SOMS and ensure its security, the Malacca Straits Patrol initiative was launched in 2004, and includes Indonesia, Malaysia, Thailand and Singapore. The measures include the Malacca Straits Sea Patrol, the “Eyes-in-the-Sky”  Combined Maritime Air Patrols and the Intelligence Exchange Group. Singapore works together with the other member countries to conduct regular patrols and exchange information to ensure the safety and security of the waterways. The cooperation was a success. In 2006, the Lloyd’s Joint War Risk Committee decided to drop the classification of the Malacca Strait as “a war-risk area”.
+
+Internationally, Singapore plays a part in ensuring the security of global waterways. In 2018, Singapore successfully completed its fifth command of the Combined Task Force (CTF) 151, as part of the international counter-piracy efforts in the Gulf of Aden (GoA). The 2018 deployment was also the SAF’s last and 11th deployment to the Gulf of Aden. Since 2009, Singapore has deployed five ships and one maritime patrol aircraft, five SAF command teams, five task groups and one air detachment to support counter-piracy operations in the Gulf. These deployments involved more than 1,400 sailors, soldiers and airmen and women.
+
+
