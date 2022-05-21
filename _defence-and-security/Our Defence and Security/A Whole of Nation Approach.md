@@ -27,5 +27,38 @@ Former Prime Minister Mr Goh Chok Tong was at the helm during the SARS situation
 	
 Besides government action, Singaporeans also demonstrated resilience and cohesion during the SARS crisis, showcasing the Total Defence mind-set. Volunteers helped to conduct temperature checks at public events, while both individuals and organisations donated to help healthcare workers and SARS victims.
 	
-Singapore’s limited resources and size, in addition to the nature of today’s threats, require that our country has a Total Defence capability. This means that our defence involves not only the SAF but also the civilian population – every sector of society is mobilised and has a part to play in keeping Singapore secure. Citizens are organised to defend the country against all forms of attacks, whether military or non-military. 
+Singapore’s limited resources and size, in addition to the nature of today’s threats, require that our country has a Total Defence capability. This means that our defence involves not only the SAF but also the civilian population – every sector of society is mobilised and has a part to play in keeping Singapore secure. Citizens are organised to defend the country against all forms of attacks, whether military or non-military.
+
+![](/images/Defence/TD1984%20Poster.jpg)
+*Poster from 1984. Image: MINDEF.*
+
+The Total Defence concept was introduced in 1984 as a national defence concept to rally all Singaporeans around the SAF, should we face a conventional military threat. Over the years, Total Defence has become an all-round response to the changing threats and challenges facing Singapore on all fronts. It includes the following pillars:
+	
+(a)	Military Defence means having a strong and credible SAF to deter aggression and protect the country. As National Service is core to the SAF, the support of individual servicemen, families, employers and the community is also crucial for a strong Military Defence.
+	
+(b)	Civil Defence is about being alert to signs of threats and being effective first responders when a crisis occurs, helping one another regardless of race, religion or background, so that we can bounce back quickly as one people, and life may go on as normally as possible.
+	
+(c)	Economic Defence is about strengthening the competitiveness and attractiveness of Singapore’s economy to keep Singapore relevant to the world, as this is critical for our survival and success. It is also about keeping our economy strong and resilient so that we can carry on and recover quickly should we face a crisis that cripples our economic systems.
+	
+(d)	Social Defence is about building understanding and trust amongst people of all races and religions, and looking out for one another beyond self-interest, so that we remain strong and united especially during times of national crises.
+	
+(e)	Psychological Defence is the will to defend our way of life, the resolve to stand up for Singapore when our interests are challenged, and the fighting spirit to press on and overcome crises together.
+	
+In 2019, a sixth pillar was added – Digital Defence, which is the ability to protect ourselves online so that we remain resilient and cohesive as a nation as we progress towards the digital future together. Every individual is at the frontline of Digital Defence and has a role to play.
+
+![](/images/Defence/TD%20Pillars.png)
+*Image: MINDEF.*
+
+Total Defence also revolves around the concept of staying resilient and united when the nation faces vulnerabilities and crisis. For instance, how do we respond when we are faced with devastation; how do we rally around our neighbours and friends to offer help when the chips are down? Resilience is a trait that will define us as a nation when we are confronted with the sternest of tests, especially as the environment that we live in and the nature of threats become more complex.
+
+![](/images/Defence/Defence%207.jpg)
+
+Alongside the Total Defence concept is the SGSecure, a national movement to rally the community in the fight against terrorism. 
+	
+#### SGSecure – Strengthening the Community to Fight Terrorism
+
+The government continues to enhance our counter-terrorism capabilities. At the same time, our community response is equally critical in our fight against terrorism. In 2006, the government started the Community Engagement Programme (CEP), which began as an initiative to preserve and strengthen communal harmony and cohesion in the aftermath of a terror attack. Over time, the CEP expanded its objectives to also prepare our people to be resilient and better prepared for any crisis or emergency.
+	
+The CEP was later revamped and expanded to become the SGSecure movement, which was launched in 2016 to sensitise, train and mobilise the community in the fight against terror. The SGSecure movement puts Civil Defence, Social Defence and Psychological Defence into action.
+
 
