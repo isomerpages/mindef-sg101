@@ -27,5 +27,6 @@ The ASEAN Defence Ministers’ Meeting (ADMM), established in 2006, is the highe
 Another example is the Shangri-La Dialogue (SLD), an annual dialogue that brings together defence ministers and military chiefs from around the world to exchange perspectives on the region’s most pressing security challenges. It is organised by the International Institute for Strategic Studies (IISS), with support from the Singapore government. The dialogue gets its name from the location where it is held – the Shangri-La Hotel in Singapore. The event is a platform that allows countries to strengthen defence relations, build understanding and foster practical cooperation with one other. 
 	
 ![](/images/Defence/PM%20Lee%20at%20SLD2019.jpg)
-*Prime Minister Mr Lee Hsien Loong delivering the keynote address at the SLD on 31 May 2019. Image: MINDEF.*
+*Prime Minister Mr Lee Hsien Loong delivering the keynote address at the SLD on 31 May 2019. Image: MINDEF.*</p> 
+</div>
 
