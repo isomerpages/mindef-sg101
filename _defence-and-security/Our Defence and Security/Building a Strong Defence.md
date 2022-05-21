@@ -60,8 +60,28 @@ Nevertheless, even the best technology has to be manned by a determined fighting
 
 ![](/images/Defence/OpenDoc%20Banners%201.gif)
 
-Being Resourceful and Innovative
+##### Being Resourceful and Innovative
 	
-SAF in the 1960s
+##### SAF in the 1960s
 
-In the early years of independence, Singapore was short on resources to build a strong and capable defence force. The British withdrawal left a huge gap, especially in air and naval protection. The key priority after Singapore’s independence was to build up the country’s own defence capability as soon as possible. The only way to overcome this was to develop a conscript armed force built around a small professional core. Singapore’s first defence force was created in the 1960s. In our formative years, the SAF had just two infantry battalions, two wooden ships and two leased aircraft. 
+In the early years of independence, Singapore was short on resources to build a strong and capable defence force. The British withdrawal left a huge gap, especially in air and naval protection. The key priority after Singapore’s independence was to build up the country’s own defence capability as soon as possible. The only way to overcome this was to develop a conscript armed force built around a small professional core. Singapore’s first defence force was created in the 1960s. In our formative years, the SAF had just two infantry battalions, two wooden ships and two leased aircraft.
+
+![](/images/Defence/SAFTI.jpg)
+*March-past of first batch of 117 officer cadets, who had completed a 12-month intensive training at SAF Training Institute (SAFTI), at their commissioning parade held at Pasir Laba Camp, Jurong. Image: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (NAS).*
+
+##### SAF in the 1980s to 1990s
+	
+With Singapore’s constraints in natural resources and manpower, innovation has always been key to developing an effective defence force with maximum efficacy. From the early 1980s to late 1990s, the SAF continually upgraded and modernised its hardware and software. For example, the arrival of the F-5s heralded the Republic of Singapore Air Force (RSAF)’s entry into the realm of supersonic flight in 1979. Our efforts to continually upgrade and modernise our hardware and software, together with new investments into the necessary capabilities, have enabled the SAF to shift towards a concept of precision warfare – the precise application of combat power at the time and location we require – to achieve a swift and decisive victory. 
+
+##### Post 9-11 
+	
+The September 11 terror attacks in 2001 saw a shift in the security landscape, which had widened to include non-conventional threats such as terrorism and piracy. In 2004, the SAF further upgraded its capabilities, developing the ability to fight as an integrated and networked force, and to use precision warfare capabilities not only on the traditional battlefield but also in urban warfare. It became a flexible force capable of a full spectrum of operations, including counter-terrorism operations. 
+
+##### Next Generation SAF
+
+The digital domain has grown into a full-fledged arena of conflict and contestation. Threats that emanate from the digital domain can readily impact events in the physical world. However, these digital threats have continued to grow in scale, sophistication and organisation. Therefore, MINDEF/SAF has set up a fourth Service, the Digital and Intelligence Service (DIS), which will more tightly integrate the SAF’s capabilities across the Services to deal with a spectrum of security threats, including those from the digital domain. The DIS will provide enhanced intelligence, advanced connectivity and resilient digital defence for the SAF. As a force with specialisations in core technology areas and communications, and across diverse areas such as data science, psychology, linguistics, anthropology and geography, the DIS will accelerate the SAF’s Next Generation transformation efforts.
+
+![](/images/Defence/DIS.jpg)
+*Image: MINDEF.*
+
+Notwithstanding, the Next Generation SAF has and will continue to incorporate new capabilities to strengthen its ability to deter potential aggressors and defend Singapore. For instance, by 2040, the Army, equipped with Next Gen Infantry Battalions and new armoured tracked carriers and howitzers, will be more manoeuvrable and able to strike faster and harder. The Navy, with Multi-Role Combat Vessels, Invincible-class submarines, and unmanned vessels, will be able to see and strike further at sea and in the depths to better protect our waters and our Sea Lines of Communication. The Next Gen Air Force, with F-15s and F-35s fighter jets, will be more versatile and effective to better protect our skies, and our Next Gen UAVs, such as the Close-range (CR) UAVs, will enhance the SAF’s air intelligence, surveillance and reconnaissance capabilities.
