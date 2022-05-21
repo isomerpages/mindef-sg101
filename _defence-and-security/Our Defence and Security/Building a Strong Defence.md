@@ -85,3 +85,4 @@ The digital domain has grown into a full-fledged arena of conflict and contestat
 *Image: MINDEF.*
 
 Notwithstanding, the Next Generation SAF has and will continue to incorporate new capabilities to strengthen its ability to deter potential aggressors and defend Singapore. For instance, by 2040, the Army, equipped with Next Gen Infantry Battalions and new armoured tracked carriers and howitzers, will be more manoeuvrable and able to strike faster and harder. The Navy, with Multi-Role Combat Vessels, Invincible-class submarines, and unmanned vessels, will be able to see and strike further at sea and in the depths to better protect our waters and our Sea Lines of Communication. The Next Gen Air Force, with F-15s and F-35s fighter jets, will be more versatile and effective to better protect our skies, and our Next Gen UAVs, such as the Close-range (CR) UAVs, will enhance the SAF’s air intelligence, surveillance and reconnaissance capabilities.
+
