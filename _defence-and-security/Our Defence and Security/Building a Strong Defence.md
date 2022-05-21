@@ -96,5 +96,3 @@ The RSN’s new Maritime Security Unmanned Surface Vessels (MARSEC USVs) will op
 Apart from existing initiatives, the RSAF continues to leverage on advancements in technology to enhance effectiveness and efficiency in its base operations. The RSAF’s smart airbase of the future taps on fourth industrial revolution technologies to enable the RSAF to operate more effectively in a high operational tempo and increasingly complex environment.  For example, the RSAF’s  enhanced munitions loader for fighter aircraft requires only one personnel to operate as compared to the current three-men loading team, providing manpower savings of up to 66%.
 
 Together, the Next Gen SAF will be more networked and capable of Singapore’s peace and security across the air, land, sea and digital domains.
-
-
