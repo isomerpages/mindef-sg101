@@ -10,7 +10,7 @@ Singapore’s vulnerabilities and the constantly shifting security landscape dem
 
 Our defence policy is based on the twin pillars of deterrence and diplomacy. This allows Singapore to enjoy security, peace and stability while protecting our sovereignty, territorial integrity and way of life. A strong defence also allows Singapore to act in our national interests without being swayed by external pressures.
 
-##### The First Pillar: Diplomacy
+#### The First Pillar: Diplomacy
 
 Singapore places great importance on the development of defence relations with other countries. Our defence diplomacy efforts enable us to improve mutual trust and understanding between Singapore and other countries, meet the Singapore Armed Forces (SAF)'s training and defence technology needs, and facilitate multilateral efforts to strengthen regional security and stability.
 
@@ -43,4 +43,13 @@ Internationally, Singapore plays a part in ensuring the security of global water
 	
 ##### Humanitarian Assistance and Disaster Relief (HADR) Missions
 
-Singapore rendered assistance to Aceh in the aftermath of the 2004 Boxing Day tsunami. In the largest SAF overseas operation conducted so far, more than 1,500 SAF personnel and three Endurance-class landing ships tank (LSTs) were deployed as part of the HADR efforts. In 2021, the RSAF deployed an A330 Multi-Role Tanker Transport (A330 MRTT) aircraft to Qatar to assist in the evacuation of Afghanistan evacuees to Germany.
+Singapore rendered assistance to Aceh in the aftermath of the 2004 Boxing Day tsunami. In the largest SAF overseas operation conducted so far, more than 1,500 SAF personnel and three Endurance-class landing ships tank (LSTs) were deployed as part of the HADR efforts. In 2021, the RSAF deployed an A330 Multi-Role Tanker Transport (A330 MRTT) aircraft to Qatar to assist in the evacuation of Afghanistan evacuees to Germany.</p> 
+</div>
+	
+#### Second Pillar – Deterrence 
+
+The second pillar of Singapore’s defence is deterrence, which is contingent on a strong and capable SAF and a resilient and committed populace, through the institutions of National Service (NS) and Total Defence (TD). 
+	
+Building robust deterrence means steadily investing in capabilities to ensure that our armed forces’ hardware and technology stay up to date. Furthermore, it means developing our people and equipping them with the necessary knowledge and expertise to ward off potential aggressors. 
+	
+These efforts require significant investments in financial and manpower resources. Investments are made in human capital, infrastructure, technology, as well as in new capabilities, and research and development endeavours. The SAF uses technology as a “force multiplier”, developing defence science to augment the SAF’s capabilities. 
