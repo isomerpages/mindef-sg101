@@ -4,11 +4,9 @@ permalink: /defence-and-security/Challenges/a-small-country
 description: ""
 third_nav_title: Challenges
 ---
-
-
 ### A Small Country
 
-![](/images/Defence/S%20Rajaratnam%20quote.jpg)
+![S Rajaratnam quote 1965](/images/Defence/S%20Rajaratnam%20quote.jpg)
 
 As a small island city-state without a hinterland and surrounded by large neighbours in a culturally diverse region, our independence, survival and growth are always at risk.  We are dependent on external sources for our essential needs, like food and water. Hence, freedom of navigation and unimpeded access to air and sea lines of communication is critical to sustain our supply chains and maintain Singapore’s economic vibrancy.  
 
