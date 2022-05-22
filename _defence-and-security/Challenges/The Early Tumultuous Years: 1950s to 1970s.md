@@ -4,8 +4,6 @@ permalink: /defence-and-security/Challenges/the-early-tumultuous-years
 description: ""
 third_nav_title: Challenges
 ---
-
-
 ### The Early Tumultuous Years: 1950s to 1970s 
 
 Our forefathers were determined to defend ourselves, especially after having experienced the Japanese Occupation between 1942 and 1945. Events in the decades after our Independence further solidified our determination to build a credible defence force of our own and strengthen our external and homefront security. 
@@ -49,7 +47,7 @@ Besides these riots, there were others such as the 1950 Maria Hertogh riots, the
 
 Domestic turmoil stretched an already thin law enforcement force, which was forced to draw heavily on police resources and military reinforcements. However, the internal threats did not end at deadly clashes sparked by communism and communalism. While terrorism is an issue that plagues modern-day Singapore, we faced our first international terrorist attack early on in the early 1970s. 
 
-![](/images/Defence/OpenDoc%20Banners3.gif)
+![](/images/Defence/OpenDoc%20Banners2.gif)
 
 #### Separation from Malaysia
 
