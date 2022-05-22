@@ -4,7 +4,6 @@ permalink: /defence-and-security/Our-Defence-and-Security/building-a-strong-defe
 description: ""
 third_nav_title: Our Defence and Security
 ---
-
 ### Building a Strong Defence
 
 Singapore’s vulnerabilities and the constantly shifting security landscape demand that we frequently fine-tune how we best defend our interests.
@@ -59,7 +58,7 @@ These efforts require significant investments in financial and manpower resource
 
 Nevertheless, even the best technology has to be manned by a determined fighting force which, in Singapore’s case, is a conscript armed force built up over decades, and supported by the entire nation. 
 
-![](/images/Defence/OpenDoc%20Banners%201.gif)
+[![](/images/Defence/OpenDoc%20Banners%201.gif)](/defence-and-security/Case-Studies/national-service)
 
 ##### Being Resourceful and Innovative
 	
