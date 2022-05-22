@@ -2,10 +2,6 @@ collections:
   defence-and-security:
     output: true
     order:
-      - Case Studies/.keep
-      - Case Studies/The Bukom Bombers.md
-      - Case Studies/The Threat of Self Radicalisation.md
-      - Case Studies/National Service Through the Years.md
       - Our Fundamentals.md
       - Challenges/.keep
       - Challenges/A Small Country.md
@@ -20,4 +16,8 @@ collections:
       - Our Defence and Security/.keep
       - Our Defence and Security/Building a Strong Defence.md
       - Our Defence and Security/A Whole of Nation Approach.md
+      - Case Studies/.keep
+      - Case Studies/The Bukom Bombers.md
+      - Case Studies/The Threat of Self Radicalisation.md
+      - Case Studies/National Service Through the Years.md
       - Coming Soon.md
