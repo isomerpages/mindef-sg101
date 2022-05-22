@@ -4,6 +4,8 @@ permalink: /defence-and-security/Challenges/permalink
 description: ""
 third_nav_title: Challenges
 ---
+### The Early Tumultuous Years: 1950s to 1970s 
+
 Our forefathers were determined to defend ourselves, especially after having experienced the Japanese Occupation between 1942 and 1945. Events in the decades after our Independence further solidified our determination to build a credible defence force of our own and strengthen our external and homefront security. 
 
 The regional security landscape from the 1950s to 1970s was fraught with uncertainty, with threats from bigger neighbours and the looming shadow of communism hanging over the region at the height of the Cold War. Singapore’s security concerns were exacerbated by domestic unrest in the form of riots and terrorism as well. 
@@ -23,7 +25,7 @@ In 1964, Singapore had to deal with a series of racial riots amidst the thick of
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
 	<p>
 		
-### Konfrontasi
+##### *Konfrontasi*
 		
 Against the backdrop of Singapore’s tensions with Malaysia, the dominant power in the region – Indonesia – was carrying out Konfrontasi (Confrontation) against the states that were to be included in the Federation of Malaysia, namely Singapore, Malaya, Sarawak, Brunei and North Borneo, through sabotage and bombing. Between 1963 and 1966, there were at least 42 Konfrontasi-related attacks in Singapore.
 
@@ -33,9 +35,9 @@ When Singapore sentenced and hanged the two Indonesian marines responsible for t
 
 Konfrontasi was put to an end in August 1966 when Indonesia signed a peace treaty with Malaysia. In September 1967, Singapore established formal diplomatic relations with Indonesia. 
 
-Watch the video on Konfrontasi – Defending Our Sovereignty for more details.
-[Konfrontasi - Defending Our Sovereignty](https://www.youtube.com/watch?v=m5HNGgfz8i8)</p> 
-</div>
+Watch the video on Konfrontasi – 
+[Konfrontasi - Defending Our Sovereignty](https://www.youtube.com/watch?v=m5HNGgfz8i8) for more details.</p> 
+</div> 
 
 In another occasion, tensions boiled over during a procession to celebrate the Prophet Muhammad’s birthday in July 1964 which saw clashes between Malays and Chinese. News of these led to further communal violence across the island, leading to 23 deaths and 454 people injured.
 
@@ -47,7 +49,7 @@ Domestic turmoil stretched an already thin law enforcement force, which was forc
 
 ![](/images/Defence/OpenDoc%20Banners3.gif)
 
-**Separation from Malaysia**
+#### Separation from Malaysia
 
 Following separation from Malaysia in August 1965, Singapore’s foremost concern was defending ourselves and our “piece of real estate”, in the words of our Founding Prime Minister Mr Lee Kuan Yew.
 
