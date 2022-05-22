@@ -4,7 +4,7 @@ permalink: /defence-and-security/Current-Threats/permalink
 description: ""
 third_nav_title: Current Threats
 ---
-## Terrorism and Self-radicalisation
+### Terrorism and Self-radicalisation
 Singapore has been struck by terrorist incidents in the past, such as the Laju incident in 1974 and the SQ 117 hijacking by Pakistani extremists in 1991. However, these incidents were isolated and episodic, in contrast to the more widespread, transnational and sophisticated brand of terrorism that plagues Singapore and the region today. In recent years, Singapore has been identified by terrorist groups as a target, and the threat of terrorism remains high.
 
 The events of September 11, 2001 (9/11) in the United States (US) underscored the catastrophic impact of militant transnational terrorism and sparked a global response to terrorism, with the US waging a war on terror on Al-Qaeda in Afghanistan and Iraq. The terror group, Al-Qaeda, had hijacked four commercial planes; two were crashed into the World Trade Centre twin towers in New York City, one plane hit the Pentagon just outside Washington, D.C., and the fourth plane crashed into a field in Shanksville, Pennsylvania. Almost 3,000 people were killed during the 9/11 terrorist attacks, the largest attack on American soil since the Japanese bombed Pearl Harbour in World War 2.
@@ -38,7 +38,7 @@ In Singapore, the main domestic terrorism threat comes from self-radicalised act
 
 ![](/images/Defence/OpenDoc%20Banners3.gif)
 
-## Safeguarding Singapore Against Terrorism
+#### Safeguarding Singapore Against Terrorism
 
 The Government has taken significant steps to enhance our counter-terrorism capabilities. Part of the Singapore Police Force (SPF)’s enhanced response capabilities include the Emergency Response Teams (ERTs) and Rapid Deployment Troops (RDTs). The ERTs patrol various locations, including iconic locations, locations with high footfall, and transport nodes. They are also trained to respond swiftly to neutralise threats. RDTs are equipped with tactical response motorcycles to navigate through traffic gridlock. The In-Situ Reaction Teams (IRTs) complement ERTs and RDTs, and are deployed at iconic areas with high footfall, such as Orchard Road and Marina Bay, to project deterrence and provide quick response.
 
