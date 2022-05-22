@@ -4,14 +4,15 @@ permalink: /defence-and-security/Current-Threats/permalink
 description: ""
 third_nav_title: Current Threats
 ---
-## Overview
+### Overview
 
 ![](/images/Defence/Defence%204.jpg)
 
 Through the years, threats to Singapore have ranged from riots and terrorist incidents to maritime disputes and cyber-attacks. As challenges to Singapore’s defence and security continue to evolve, we must keep refining our approach to stay prepared for all manner of threats. 
 
 Even though the Singapore Armed Forces (SAF) and Home Team are capable, they face significant challenges in terms of our immutable vulnerability of size while keeping up with new security threats. For example, we will always be a small country without the backing of a hinterland with abundant resources. Our small size also means that in the world of international politics, Singapore is a price-taker and not a price-setter. At the same time, the security landscape grows more complex and new threats have emerged, exacerbated by the accelerated adoption of digital and communications technology.
-## A Complex Global and Regional Security Landscape
+
+#### A Complex Global and Regional Security Landscape
 
 From the end of the World War II up to the late 1980s, the geopolitical landscape was defined by two superpowers, the United Sates (US) and the Soviet Union. When the Soviet Union collapsed in 1991, the US was the sole superpower in a unipolar world.
 
