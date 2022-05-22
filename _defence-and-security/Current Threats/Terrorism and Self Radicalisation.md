@@ -4,8 +4,6 @@ permalink: /defence-and-security/Current-Threats/terrorism-and-self-radicalisati
 description: ""
 third_nav_title: Current Threats
 ---
-
-
 ### Terrorism and Self-radicalisation
 Singapore has been struck by terrorist incidents in the past, such as the Laju incident in 1974 and the SQ 117 hijacking by Pakistani extremists in 1991. However, these incidents were isolated and episodic, in contrast to the more widespread, transnational and sophisticated brand of terrorism that plagues Singapore and the region today. In recent years, Singapore has been identified by terrorist groups as a target, and the threat of terrorism remains high.
 
@@ -38,7 +36,7 @@ In 2020, a 16-year-old Singaporean youth made plans to attack Muslims at two mos
 
 In Singapore, the main domestic terrorism threat comes from self-radicalised actors influenced by violent extremist materials online. The use of online and digital communications networks to recruit terrorists makes it difficult for authorities to detect the radicalised individuals. The trend of self-radicalisation in Singapore saw a sharp spike after 2015, following the emergence of ISIS. ISIS’ leadership and territorial losses in Syria and Iraq have not yet diminished the appeal of the group.  It is important that we remain vigilant against such threats. 
 
-![](/images/Defence/OpenDoc%20Banners3.gif)
+[![](/images/Defence/OpenDoc%20Banners3.gif)](/defence-and-security/Case-Studies/the-threat-of-self-radicalisation)
 
 #### Safeguarding Singapore Against Terrorism
 
