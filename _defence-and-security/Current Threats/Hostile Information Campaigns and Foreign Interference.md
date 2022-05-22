@@ -25,7 +25,7 @@ These episodes illustrate how Singapore, as a highly connected, multi-religious 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
 <p>
 	
-#### Examples of Foreign Interference in Other Countries
+##### Examples of Foreign Interference in Other Countries
 
 For many countries, elections are the main way by which a government is chosen to lead and organise society. By tampering or interfering with the elections, these state actors are looking to destabilise the target’s government or to influence results in their favour. 
 
@@ -37,17 +37,17 @@ In the United Kingdom, domestic unhappiness was exploited during the referendum 
 *Examples of foreign interference in Singapore and other countries. Image: MHA.*</p> 
 </div>
 
-### Safeguarding Singapore Against Hostile Information Campaigns (HICs) and Foreign Interference (FI)
+#### Safeguarding Singapore Against Hostile Information Campaigns (HICs) and Foreign Interference (FI)
 
 To combat HICs/FI, Parliament passed the Protection from Online Falsehoods and Manipulation Act (POFMA) on 8 May 2019, and the Foreign Interference (Countermeasures) Act (FICA) on 4 October 2021. POFMA seeks to safeguard against the spread of falsehoods via electronic means and online platforms. FICA aims to strengthen Singapore’s ability to prevent, detect and disrupt foreign interference in its domestic politics conducted through HICs and the use of local proxies. 
 
-#### Countering HICs
+##### Countering HICs
 
 HICs involve the covert manipulation of domestic political discourse to advance the hostile actor’s objectives, which may range from destabilising the target country through inciting or inflaming social tensions, manipulating public opinion on sensitive issues, or undermining the public’s trust in the country’s institutions.
 
 Under FICA, the Minister for Home Affairs will have the powers to issue directions to various individuals and entities, such as social media services, relevant electronic services, and Internet access services, to help the authorities investigate and counter hostile communications activity that is of foreign origin. These directions allow the government to (a) obtain information on foreign interference operations, (b) prevent HIC activity from taking place, and (c) swiftly block or contain the propagation of harmful HIC content.
 
-#### Countering the Use of Local Proxies
+##### Countering the Use of Local Proxies
 
 Local proxies may also be used to interfere in political processes, or government decision-making. Tactics include funding or providing non-monetary support for specific entities and persons who are actively engaged in politics or who are in positions of power or influence over governmental decisions.
 
@@ -61,7 +61,7 @@ Defined and designated PSPs will be subjected to countermeasures covering the fo
 ![](/images/Defence/FICA.jpg)
 *Understanding the Foreign Interference (Countermeasures) Act (FICA). Image: MHA.*
 
-#### Building Public Awareness
+##### Building Public Awareness
 
 Government agencies have also been providing real-time updates on their websites. For instance, the Ministry of Health will quickly post information on its official website to debunk fake news. When a Facebook post stated that a three-year-old pre-schooler had died from COVID-19 in August 2021, MOH clarified that the story was false. 
 
