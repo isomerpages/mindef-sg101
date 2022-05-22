@@ -16,7 +16,7 @@ Throughout the 1950s and 1960s, against the backdrop of the Cold War, the then-S
 
 As a result, we had to grapple with domestic instability through the 1950s and 1960s as riots related to communism and communalism rocked the nation. The two were not always unrelated – political scientist Bilveer Singh wrote that communist elements in Singapore saw the Chinese community as “useful partners of the communist united front”, and instigated them against the authorities. 
 
-![](/images/Defence/Defence%201.jpg)
+![Prof Bilveer Singh quote 2015](/images/Defence/Defence%201.jpg)
 
 The government’s measures to clamp down on communist activities, such as disbanding pro-communist Chinese organisations, resulted in island-wide protests from thousands of Chinese middle school students in October 1956. Tensions swelled when students attacked police, sparking off violent riots across the country. When the disturbances ended, there were 13 deaths, 127 injured, and more than 1,000 arrested.
 
