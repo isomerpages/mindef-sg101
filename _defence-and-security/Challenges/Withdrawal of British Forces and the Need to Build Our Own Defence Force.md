@@ -4,6 +4,8 @@ permalink: /defence-and-security/Challenges/permalink
 description: ""
 third_nav_title: Challenges
 ---
+### Withdrawal of British Forces and the Need to Build Our Own Defence Force
+
 Amid such regional hostilities, we had to contend with a serious blow to our national defence. In July 1967, the British announced that they would be withdrawing their military from Singapore. The withdrawal of British forces illustrated the need to build our own military to protect ourselves from hostile forces.  
 
 ![](/images/Defence/Defence%203.jpg)
@@ -12,7 +14,7 @@ At independence, Singapore’s external security was still very much in the hand
 
 On 18 July 1967, the dreaded news arrived. Britain announced that it would withdraw its troops from Singapore by the mid-1970s. The withdrawal was brought earlier to 1971. We had to start relying on ourselves for the nation’s security. 
 
-**Building Our Own Defence Force**
+#### Building Our Own Defence Force
 
 Singapore had to build a defence force from almost nothing. Even though the British had helped Malaya build an army in the 1950s, the British did not assist us to build up our national defence because of their own economic problems. Mr Lee explained in his memoirs that the British felt Malaysia would want to be “our military instructors”, and only left some rudimentary equipment to us.
 
