@@ -47,7 +47,7 @@ Besides these riots, there were others such as the 1950 Maria Hertogh riots, the
 
 Domestic turmoil stretched an already thin law enforcement force, which was forced to draw heavily on police resources and military reinforcements. However, the internal threats did not end at deadly clashes sparked by communism and communalism. While terrorism is an issue that plagues modern-day Singapore, we faced our first international terrorist attack early on in the early 1970s. 
 
-![](/images/Defence/OpenDoc%20Banners2.gif)
+[![](/images/Defence/OpenDoc%20Banners2.gif)](/defence-and-security/Case-Studies/the-bukom-bombers)
 
 #### Separation from Malaysia
 
