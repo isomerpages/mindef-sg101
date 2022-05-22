@@ -2,6 +2,7 @@ collections:
   defence-and-security:
     output: true
     order:
+      - Our Fundamentals/.keep
       - Challenges/.keep
       - Challenges/A Small Country.md
       - "Challenges/The Early Tumultuous Years: 1950s to 1970s.md"
