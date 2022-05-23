@@ -11,14 +11,14 @@ The events of September 11, 2001 (9/11) in the United States (US) underscored th
 
 Closer to home, Al-Qaeda had forged links to its affiliate, the Jemaah Islamiyah (JI) group, in Southeast Asia in the 1980s and 1990s. JI intended to set up a pan-Islamic state in Southeast Asia and had a branch in Singapore. It even planned to construct truck bombs to mount suicide attacks on Singapore targets, but the perpetrators were arrested by Singapore authorities before the attacks were carried out. On 9 December 2001, the Internal Security Department (ISD) arrested six Singaporean JI members, thwarting plans to attack Yishun MRT station and several foreign embassies. In total, 36 persons were arrested during ISD’s operations against the JI group in 2001 and 2002.
 
-![](/images/Defence/Yishun%20MRT.jpg)
+![Yishun mrt station Jemaah Islamiyah JI](/images/Defence/Yishun%20MRT.jpg)
 *Top to bottom left: JI members had taken videos of Yishun MRT Station and its surroundings in preparation for their attacks. Bottom right: Video recorder used by JI members during their reconnaissance. Screenshots: Internal Security Department (ISD).*
 
 The threat has not abated through the years. The Islamic State in Iraq and Syria (ISIS), which aims to establish a caliphate as an overarching global state over Muslims worldwide, remains a menace even though it has lost its territory in Iraq and Syria. 
 
 ISIS originally began as part of Al-Qaeda but later rebranded itself and seized territory in Iraq and Syria from 2014. It represents a more sophisticated form of terrorism; while Al-Qaeda fashioned itself as a rebel group, ISIS positioned itself as a legitimate state for all followers of its radical brand of Islam. It also used social media, the Internet and other media to propagate its ideology worldwide. This insidious approach helped recruit thousands of foreign fighters and spawned local groups to orchestrate attacks in regions like Europe and Southeast Asia, thousands of miles away from the Middle East.
 
-![](/images/Defence/STTAR1.png)
+![terrorism ISIS wilayah Islamic State of Iraq and Syria](/images/Defence/STTAR1.png)
 *Image: Singapore Terrorism Threat Assessment Report 2021, ISD (STTAR reports over the years can be found at www.sgsecure.gov.sg/terror-threat )*
 
 Global terrorist groups like ISIS and Al-Qaeda have proven resilient and adaptable, despite their leadership losses and military setbacks in recent years. Even amidst the COVID-19 pandemic, they have stepped up their recruitment and propaganda on social media, encouraging their supporters to conduct attacks. There has been international concern over the possibility of foreign fighters for ISIS returning from the Middle East to set up terrorist cells in their home regions. 
@@ -27,7 +27,7 @@ With its sizeable Muslim population, Southeast Asia has been a target for ISIS, 
 
 In 2016, pro-ISIS terrorists in Indonesia (who received instructions from a Syrian-based Indonesian ISIS militant) planned a rocket attack on Marina Bay Sands from Batam, just 18km away from downtown Singapore. The attack was foiled with the arrest of six terror cell members by Indonesian police in August 2016.
 
-![](/images/Defence/STTAR2.jpg)
+![MHA Terrorism Threat Assessment Report Islamist ISIS ](/images/Defence/STTAR2.jpg)
 *Image: Singapore Terrorism Threat Assessment Report 2021, ISD*
 
 In recent years, far-right extremism has also emerged as a major terrorism concern overseas, and is the fastest-growing threat in some Western countries. This movement is inspired by ideologies such as neo-Nazism, neo-fascism and white nationalism. Many such groups believe that their race is inherently superior to others and that their country should only belong to a certain group of people. This has, in turn, led to problems such as anti-immigration and racial supremacist sentiments, resulting in serious cases of racism and racist violence. 
@@ -61,5 +61,5 @@ A ground-up volunteer group of Islamic scholars and teachers, known as the Relig
 
 Over the years, the RRG’s and ACG’s work have expanded to also include community outreach against the threat of self-radicalisation. The Home Team also teaches and encourages members of the community to be more aware of and look out for signs of individuals around us who might be at risk or have become radicalised.
 
-![](/images/Defence/SOTF.jpg)
+![Special Operations Task Force SOTF counter-terrorism exercise](/images/Defence/SOTF.jpg)
 *Troopers from the Singapore Armed Forces’ (SAF) Special Operations Task Force (SOTF) preparing to storm the room during a counter-terrorism exercise conducted by the SAF at the F1 Pit Building on 2 August 2021. Image: MINDEF.*
