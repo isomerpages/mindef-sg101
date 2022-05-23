@@ -4,7 +4,6 @@ permalink: /defence-and-security/Our-Defence-and-Security/whole-of-nation-approa
 description: ""
 third_nav_title: Our Defence and Security
 ---
-
 ### A Whole-of-Nation Approach
 
 In the face of evolving and increasingly sophisticated security threats, Singapore must not only have a strong defence force and Home Team, but also ensure that its community plays its part in keeping Singapore safe and secure. For instance, if and when Singapore faces terrorism threats, external diplomatic or economic pressures or supply chain difficulties arising from the COVID-19 pandemic, a Whole-of-Society response, in the form of Total Defence, will enable us to remain united and overcome the crises together.
@@ -47,7 +46,7 @@ The Total Defence concept was introduced in 1984 as a national defence concept t
 	
 In 2019, a sixth pillar was added – Digital Defence, which is the ability to protect ourselves online so that we remain resilient and cohesive as a nation as we progress towards the digital future together. Every individual is at the frontline of Digital Defence and has a role to play.
 
-![](/images/Defence/TD%20Pillars.png)
+![Total Defence pillars](/images/Defence/TD%20Pillars.png)
 *Image: MINDEF.*
 
 Total Defence also revolves around the concept of staying resilient and united when the nation faces vulnerabilities and crisis. For instance, how do we respond when we are faced with devastation; how do we rally around our neighbours and friends to offer help when the chips are down? Resilience is a trait that will define us as a nation when we are confronted with the sternest of tests, especially as the environment that we live in and the nature of threats become more complex.
