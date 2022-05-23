@@ -35,7 +35,7 @@ In 1964, Singapore had to deal with a series of racial riots amidst the thick of
 	
 <p>
 Watch the video on Konfrontasi – 
-[Konfrontasi - Defending Our Sovereignty](https://www.youtube.com/watch?v=m5HNGgfz8i8) for more details.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m5HNGgfz8i8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 </div>
 
 In another occasion, tensions boiled over during a procession to celebrate the Prophet Muhammad’s birthday in July 1964 which saw clashes between Malays and Chinese. News of these led to further communal violence across the island, leading to 23 deaths and 454 people injured.
