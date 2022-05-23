@@ -4,13 +4,11 @@ permalink: /defence-and-security/Challenges/withdrawal-of-british-forces-and-nee
 description: ""
 third_nav_title: Challenges
 ---
-
-
 ### Withdrawal of British Forces and the Need to Build Our Own Defence Force
 
 Amid such regional hostilities, we had to contend with a serious blow to our national defence. In July 1967, the British announced that they would be withdrawing their military from Singapore. The withdrawal of British forces illustrated the need to build our own military to protect ourselves from hostile forces.  
 
-![](/images/Defence/Defence%203.jpg)
+![British withdrawal Goh Keng Swee 1965](/images/Defence/Defence%203.jpg)
 
 At independence, Singapore’s external security was still very much in the hands of British forces. However, the vast British Empire was being stretched thin with high defence expenditure and its weak economic performance. Hence it decided to withdraw most of its military forces East of Suez by 1971. This was a daunting prospect for Singapore’s defence and economy, as British military bases were contributing over 20 per cent to our gross national product at the time.
 
@@ -30,5 +28,5 @@ On 14 March 1967, the National Service (Amendment) Bill was passed. The first ba
 
 In 1969, our military strength was demonstrated at Singapore’s National Day Parade, with a procession of tanks and armoured vehicles. Today, our military defence consists of a forward-looking and integrated core of Singapore Armed Forces (SAF) regulars and  Operationally Ready National Servicemen, supported by the SAF Volunteer Corps (SAF VC), and a population that is resilient and united who will stand together to protect Singapore when the times call for it. 
 
-![](/images/Defence/National%20Day%20Parade.jpg)
+![SAF National Day Parade 1965 Padang](/images/Defence/National%20Day%20Parade.jpg)
 *National Day Parade 1969 at the Padang – Debut of the Singapore Armed Forces (SAF) armoured mobile column at the parade. Image: Yusof Ishak Collection, courtesy of National Archives of Singapore (NAS).*
