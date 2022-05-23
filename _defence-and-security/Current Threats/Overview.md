@@ -33,8 +33,8 @@ An example would be periodic incursions by neighbours into our territorial water
 
 <p>On 6 December 2018, the Singapore government extended the Singapore Port Limits off Tuas. It was challenging to manage the situation without escalating tensions, especially as the waters in the area became more congested with civilian and military vessels.</p> 
 
-<p>![Singapore Territorial waters dispute Tuas 2018](/images/Defence/STW.jpg)
-*RSS Independence (left) watching over a Malaysian government vessel in Singapore waters off Tuas. Image: MINDEF.*</p> 
+![Singapore Territorial waters dispute Tuas 2018](/images/Defence/STW.jpg)
+*RSS Independence (left) watching over a Malaysian government vessel in Singapore waters off Tuas. Image: MINDEF.*
 </div>
 
 As the threat landscape continues to evolve, new and complex security challenges such as transnational terrorism, cyber-attacks, and disinformation campaigns have emerged. Such emerging threats are not only more difficult to deter and detect compared to conventional military threats, but will also require the SAF to rethink traditional concepts of defence in order to be able to respond effectively.
