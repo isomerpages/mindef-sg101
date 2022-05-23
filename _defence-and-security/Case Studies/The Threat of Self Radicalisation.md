@@ -14,7 +14,7 @@ Self-radicalisation takes place when individuals consume such propaganda and sta
 
 Self-radicalisation presents an increasing challenge to the authorities, especially in identifying radicals who plot in secret and dealing with those who are radicalised within a short span of time.
 
-##### Examples of self-radicalisation in Singapore
+##### Examples of Self-radicalisation in Singapore
 
 In December 2020, a 16-year-old Singaporean youth was detained under the Internal Security Act (ISA) after making plans to attack Muslims at two mosques in Singapore. This was the youngest person then to be detained for terrorism-related activities and the first detainee who had been influenced by far-right extremist ideologies. The Secondary 4 student was influenced by the 2019 terror attacks at two mosques in Christchurch, New Zealand, having watched the livestreamed video of the attack and read the manifesto of the perpetrator. 
 
