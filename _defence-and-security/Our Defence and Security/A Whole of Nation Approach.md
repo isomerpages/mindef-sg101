@@ -70,7 +70,7 @@ SGSecure has also leveraged technology, allowing SGSecure app users to submit in
 	
 The SGSecure Responders’ Network was also launched in November 2019 to encourage members of the public to be active responders. Anyone can be a SGSecure Responder, and members of the public can join easily through the SGSecure app. The “Respond” feature in the app allows Responders to be mobilised to help people in distress, such as by responding to cardiac arrest or minor fires around them.  
 
-(Visit https://www.sgsecure.gov.sg/what-can-i-do/be-an-sgsecure-responders for more videos on how you can become a SGSecure Responder.)
+(Visit [https://www.sgsecure.gov.sg/what-can-i-do/be-an-sgsecure-responders](https://www.sgsecure.gov.sg/what-can-i-do/be-an-sgsecure-responders) for more videos on how you can become a SGSecure Responder.)
 
 The Home Team also works closely with the community in other areas such as the Community Policing System, which leverages technology and community partnerships as one of many ways to keep our neighbourhoods safe.
 	
