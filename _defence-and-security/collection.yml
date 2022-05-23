@@ -2,4 +2,22 @@ collections:
   defence-and-security:
     output: true
     order:
+      - Our Fundamentals.md
+      - Challenges/.keep
+      - Challenges/A Small Country.md
+      - "Challenges/The Early Tumultuous Years: 1950s to 1970s.md"
+      - Challenges/Withdrawal of British Forces and the Need to Build Our Own
+        Defence Force.md
+      - Current Threats/.keep
+      - Current Threats/Overview.md
+      - Current Threats/Terrorism and Self Radicalisation.md
+      - Current Threats/Hostile Information Campaigns and Foreign Interference.md
+      - Current Threats/Global Incidents.md
+      - Our Defence and Security/.keep
+      - Our Defence and Security/Building a Strong Defence.md
+      - Our Defence and Security/A Whole of Nation Approach.md
+      - Case Studies/.keep
+      - Case Studies/The Bukom Bombers.md
+      - Case Studies/The Threat of Self Radicalisation.md
+      - Case Studies/National Service Through the Years.md
       - Coming Soon.md
