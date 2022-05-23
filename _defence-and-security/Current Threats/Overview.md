@@ -4,10 +4,9 @@ permalink: /defence-and-security/Current-Threats/overview
 description: ""
 third_nav_title: Current Threats
 ---
-
 ### Overview
 
-![](/images/Defence/Defence%204.jpg)
+![defence war dr ng eng hen quote committee of supply debate 2020](/images/Defence/Defence%204.jpg)
 
 Through the years, threats to Singapore have ranged from riots and terrorist incidents to maritime disputes and cyber-attacks. As challenges to Singapore’s defence and security continue to evolve, we must keep refining our approach to stay prepared for all manner of threats. 
 
@@ -34,7 +33,7 @@ An example would be periodic incursions by neighbours into our territorial water
 
 On 6 December 2018, the Singapore government extended the Singapore Port Limits off Tuas. It was challenging to manage the situation without escalating tensions, especially as the waters in the area became more congested with civilian and military vessels.
 
-![](/images/Defence/STW.jpg)
+![Singapore Territorial waters dispute Tuas 2018](/images/Defence/STW.jpg)
 *RSS Independence (left) watching over a Malaysian government vessel in Singapore waters off Tuas. Image: MINDEF.*</p> 
 </div>
 
