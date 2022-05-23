@@ -25,7 +25,7 @@ These episodes illustrate how Singapore, as a highly connected, multi-religious 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
 
 	
-<p><i> Examples of Foreign Interference in Other Countries</i></p> 
+<p><i><b> Examples of Foreign Interference in Other Countries</b></i></p> 
 
 <p>For many countries, elections are the main way by which a government is chosen to lead and organise society. By tampering or interfering with the elections, these state actors are looking to destabilise the target’s government or to influence results in their favour. </p> 
 
