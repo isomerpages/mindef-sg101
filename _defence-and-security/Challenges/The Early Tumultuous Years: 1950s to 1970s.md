@@ -23,8 +23,8 @@ The government’s measures to clamp down on communist activities, such as disba
 In 1964, Singapore had to deal with a series of racial riots amidst the thick of Konfrontasi (Confrontation) and tensions between the state government in Singapore and the federal government in Kuala Lumpur (KL). 
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
-	<p>
-		
+
+
 ##### *Konfrontasi*
 		
 Against the backdrop of Singapore’s tensions with Malaysia, the dominant power in the region – Indonesia – was carrying out Konfrontasi (Confrontation) against the states that were to be included in the Federation of Malaysia, namely Singapore, Malaya, Sarawak, Brunei and North Borneo, through sabotage and bombing. Between 1963 and 1966, there were at least 42 Konfrontasi-related attacks in Singapore.
@@ -36,7 +36,7 @@ When Singapore sentenced and hanged the two Indonesian marines responsible for t
 Konfrontasi was put to an end in August 1966 when Indonesia signed a peace treaty with Malaysia. In September 1967, Singapore established formal diplomatic relations with Indonesia. 
 
 Watch the video on Konfrontasi – 
-[Konfrontasi - Defending Our Sovereignty](https://www.youtube.com/watch?v=m5HNGgfz8i8) for more details.</p> 
+[Konfrontasi - Defending Our Sovereignty](https://www.youtube.com/watch?v=m5HNGgfz8i8) for more details.
 </div> 
 
 In another occasion, tensions boiled over during a procession to celebrate the Prophet Muhammad’s birthday in July 1964 which saw clashes between Malays and Chinese. News of these led to further communal violence across the island, leading to 23 deaths and 454 people injured.
