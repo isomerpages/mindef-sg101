@@ -30,13 +30,13 @@ Singapore has also been a strong advocate of upholding an open and inclusive reg
 As a responsible member of the international and regional community, Singapore also contributes to international security efforts.
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
-<p><i>Maritime Security Efforts</i></p> 
+<p><i><b>Maritime Security Efforts</b></i></p> 
 
 <p>The Straits of Malacca and Singapore (SOMS) are critical and strategic waterways as about half of the global yearly seaborne trade and 70% of Asia’s oil imports pass through the SOMS. To deal with rising piracy rates in the SOMS and ensure its security, the Malacca Straits Patrol initiative was launched in 2004, and includes Indonesia, Malaysia, Thailand and Singapore. The measures include the Malacca Straits Sea Patrol, the “Eyes-in-the-Sky”  Combined Maritime Air Patrols and the Intelligence Exchange Group. Singapore works together with the other member countries to conduct regular patrols and exchange information to ensure the safety and security of the waterways. The cooperation was a success. In 2006, the Lloyd’s Joint War Risk Committee decided to drop the classification of the Malacca Strait as “a war-risk area”.</p> 
 
 <p>Internationally, Singapore plays a part in ensuring the security of global waterways. In 2018, Singapore successfully completed its fifth command of the Combined Task Force (CTF) 151, as part of the international counter-piracy efforts in the Gulf of Aden (GoA). The 2018 deployment was also the SAF’s last and 11th deployment to the Gulf of Aden. Since 2009, Singapore has deployed five ships and one maritime patrol aircraft, five SAF command teams, five task groups and one air detachment to support counter-piracy operations in the Gulf. These deployments involved more than 1,400 sailors, soldiers and airmen and women.</p> 
 	
-<p><i> Humanitarian Assistance and Disaster Relief (HADR) Missions</i></p> 
+<p><i><b>Humanitarian Assistance and Disaster Relief (HADR) Missions</b></i></p> 
 
 <p>Singapore rendered assistance to Aceh in the aftermath of the 2004 Boxing Day tsunami. In the largest SAF overseas operation conducted so far, more than 1,500 SAF personnel and three Endurance-class landing ships tank (LSTs) were deployed as part of the HADR efforts. In 2021, the RSAF deployed an A330 Multi-Role Tanker Transport (A330 MRTT) aircraft to Qatar to assist in the evacuation of Afghanistan evacuees to Germany.</p> 
 </div>
