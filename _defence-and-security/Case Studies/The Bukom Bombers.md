@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Case Studies
 ---
 ### The Bukom Bombers
-![Laju Incident quote](/images/Defence/Defence%209.jpg)
+![Laju incident ](/images/Defence/Defence%209a.jpg)
+
 In the 1950s and 1960s, Singapore weathered storms from regional hostility and domestic unrest. But a new threat emerged in the 1970s, one that our newly independent country had not encountered, posing a severe test for our security forces. The Laju incident, the first international terrorist attack on our country, was also an example of how events played out in the region could spill over into Singapore. 
 
 Four hijackers commandeered an unsuspecting fishing boat in Singapore waters on the morning of 31 January 1974. The four hijackers identified themselves as Hiroshi Kimura and Akira Sato from the Japanese Red Army, and Saleh Salim Ali and Husain Mohammad Saad from the Popular Front for the Liberation of Palestine. The armed foreign men, dubbed the “Bukom bombers”, were retaliating against perceived American imperialism and planned to disrupt the oil supply from Singapore to South Vietnam, in solidarity with revolutionary forces in Vietnam.

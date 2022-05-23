@@ -8,7 +8,7 @@ third_nav_title: Case Studies
 
 When Singapore became independent in 1965, one immediate task was to build up our defence. 
 
-![Lee Kuan Yew quote Singapore Armed Forces SAF defence survival](/images/Defence/Defence%208.jpg)
+![Lee Kuan Yew quote SAF Singapore Armed Forces defence survival](/images/Defence/Defence%208a.jpg)
 
 Before the Singapore Armed Forces (SAF) was formed, there was the Singapore Volunteer Rifle Corps (SVRC) that was formed in 1854 following violent riots in Singapore. It was later renamed the Singapore Volunteer Corps (SVC) in 1901, and eventually became the People’s Defence Force (PDF) in 1965. The defence force back then depended on volunteers to supplement the local constabulary for internal security and to defend Singapore against external threats. However, Singapore could not depend solely on volunteers for its security. 
 

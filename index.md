@@ -13,7 +13,7 @@ sections:
         title: I'm looking for info on...
         options:
           - title: Defence And Security
-            url: /defence-and-security/comingsoon
+            url: /defence-and-security/our-fundamentals
           - title: Economy
             url: /economy/our-fundamentals
           - title: Infrastructure
@@ -35,6 +35,3 @@ sections:
       subtitle: What's New
       button: More Resources
 ---
-
-
-
