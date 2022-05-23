@@ -21,6 +21,8 @@ Singapore has also been a strong advocate of upholding an open and inclusive reg
 	
 The ASEAN Defence Ministers’ Meeting (ADMM), established in 2006, is the highest-level defence consultative and cooperative mechanism in ASEAN. It aims to promote mutual trust and confidence through dialogue and practical cooperation. In 2010, the ADMM-Plus was established. The ADMM-Plus is the de facto regional security platform for ASEAN and eight of its Dialogue Partners (Australia, China, India, Japan, New Zealand, Russia, South Korea, and the United States, collectively referred to as the “Plus Countries”) to strengthen security and defence cooperation for peace, stability and development through the ADMM-Plus Meetings and its Experts Working Groups. 
 
+<img src="/images/Defence/ADMM.jpg" alt="" width="400" height="500">
+
 ![ASEAN Defence Ministers’ Meeting](/images/Defence/ADMM.jpg)
 *Minister for Defence Dr Ng Eng Hen (centre) at the ADMM Retreat held virtually on 10 November 2021. Image: MINDEF.*
 	
