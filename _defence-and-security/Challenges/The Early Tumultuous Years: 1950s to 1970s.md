@@ -16,7 +16,7 @@ Throughout the 1950s and 1960s, against the backdrop of the Cold War, the then-S
 
 As a result, we had to grapple with domestic instability through the 1950s and 1960s as riots related to communism and communalism rocked the nation. The two were not always unrelated – political scientist Bilveer Singh wrote that communist elements in Singapore saw the Chinese community as “useful partners of the communist united front”, and instigated them against the authorities. 
 
-![Prof Bilveer Singh quote 2015](/images/Defence/Defence%201.jpg)
+![Bilveer Singh MCP quote Chinese](/images/Defence/Defence%201.jpg)
 
 The government’s measures to clamp down on communist activities, such as disbanding pro-communist Chinese organisations, resulted in island-wide protests from thousands of Chinese middle school students in October 1956. Tensions swelled when students attacked police, sparking off violent riots across the country. When the disturbances ended, there were 13 deaths, 127 injured, and more than 1,000 arrested.
 
@@ -54,17 +54,17 @@ Domestic turmoil stretched an already thin law enforcement force, which was forc
 Following separation from Malaysia in August 1965, Singapore’s foremost concern was defending ourselves and our “piece of real estate”, in the words of our Founding Prime Minister Mr Lee Kuan Yew.
 
 The only two battalions in the country were still under command of a Malaysian Brigadier, Brigadier Syed Mohamed bin Syed Ahmad Alsagoff, and there was a need to deter Malay Ultras (extremists) in KL who were keen to reverse the independence acquired. Mr Lee revealed in his memoirs that many KL leaders believed Singapore should never have been allowed to leave Malaysia, and was to be kept a part of the country, by force if necessary.
+![Opening of first parliament](/images/Defence/Opening%20of%20First%20Parliament.jpg)
 
-![](/images/Defence/Opening%20of%20First%20Parliament.jpg)
 *Opening of First Parliament. Image: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (NAS).*
 
 One episode came to illustrate Malaysia’s lingering military presence in Singapore. Mr Lee shared that Brigadier Alsagoff insisted on escorting him to the first meeting of the Parliament of independent Singapore in December 1965. 
 
-![](/images/Defence/Defence%202.jpg)
+![PM Lee quote Tunku separation from Malaysia](/images/Defence/Defence%202.jpg)
 
 Singapore’s first two regular infantry regiments were the 1st Singapore Infantry Regiment (1 SIR) and the 2nd Singapore Infantry Regiment (2 SIR), formed in 1957 and 1962 respectively. In 1966, the 1st Royal Malay Regiment (1 RMR) of the Malaysian Armed Forces occupied Camp Temasek in Ulu Pandan, the barracks of 2 SIR. This took place after 2 SIR was sent to Sabah for operational duties a week after Singapore’s separation from Malaysia. But on their return, 1 RMR refused to vacate the camp and 2 SIR had to be housed in tents at Farrer Park Sports Field. In a speech by former Defence Minister Dr Goh Keng Swee in Parliament, he said the issue was “symptomatic of a deeper malaise in the relations between the two governments on defence matters”.
 
 These flashpoints of tension with Malaysia showed how Singapore had to confront the realities of being a new, small independent nation. 
 
-![](/images/Defence/Passing%20out%20parade.jpg)
+![boxer recruits passing out parade ](/images/Defence/Passing%20out%20parade.jpg)
 *Passing-out parade of boxer recruits at Camp Temasek in 1966. Image: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (NAS). After separation from Malaysia, the Singapore government had sought to recruit soldiers under the recruitment drives code named ‘Boxer I’ and ‘Boxer II’.*
