@@ -23,19 +23,19 @@ During the COVID-19 pandemic in Singapore, there were also multiple instances of
 These episodes illustrate how Singapore, as a highly connected, multi-religious and multiracial society, can become a target for divisive falsehoods. Through fake news and falsehoods, potential aggressors can exploit these vulnerabilities to harm our country. They may disrupt our way of life, affect our hearts and minds, influence our perceptions of issues and how we behave, reduce public confidence in public institutions, and undermine our social cohesion and psychological resilience. 
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
-<p>
+
 	
-##### Examples of Foreign Interference in Other Countries
+<p><i><b> Examples of Foreign Interference in Other Countries</b></i></p> 
 
-For many countries, elections are the main way by which a government is chosen to lead and organise society. By tampering or interfering with the elections, these state actors are looking to destabilise the target’s government or to influence results in their favour. 
+<p>For many countries, elections are the main way by which a government is chosen to lead and organise society. By tampering or interfering with the elections, these state actors are looking to destabilise the target’s government or to influence results in their favour. </p> 
 
-For example, the United States (US) Government has alleged that Russia interfered in the 2020 US Presidential elections. US intelligence agencies concluded that Russia had backed Presidential candidate Donald Trump over Presidential candidate Joe Biden, with a Kremlin official attempting to discredit the election process.
+<p>For example, the United States (US) Government has alleged that Russia interfered in the 2020 US Presidential elections. US intelligence agencies concluded that Russia had backed Presidential candidate Donald Trump over Presidential candidate Joe Biden, with a Kremlin official attempting to discredit the election process.</p> 
 
-In the United Kingdom, domestic unhappiness was exploited during the referendum on Brexit in 2016. Anti-immigration falsehoods were propagated by foreign-linked social media accounts to build a narrative that the government had failed to protect its citizens.
-
-![Foreign interference examples countries](/images/Defence/FI.jpg)
-*Examples of foreign interference in Singapore and other countries. Image: MHA.*</p> 
+<p>In the United Kingdom, domestic unhappiness was exploited during the referendum on Brexit in 2016. Anti-immigration falsehoods were propagated by foreign-linked social media accounts to build a narrative that the government had failed to protect its citizens.</p> 
 </div>
+
+![foreign interference examples countries](/images/Defence/examples-of-foreign-interference.jpg)
+*Examples of foreign interference in Singapore and other countries. Image: MHA.*
 
 #### Safeguarding Singapore Against Hostile Information Campaigns (HICs) and Foreign Interference (FI)
 
@@ -55,10 +55,10 @@ Under FICA, individuals and organisations who are directly involved in Singapore
 
 Defined and designated PSPs will be subjected to countermeasures covering the following vectors of foreign interference – (a) donations, (b) volunteers, (c) leadership and membership, and (d) affiliations. If there are increased risks of foreign interference, the competent authority can step up countermeasures on the defined and designated PSPs.
 
-![Countermeasures recommended by the Select Committee on Deliberate Online Falsehoods POFMA](/images/Defence/POFMA.jpg)
+![POFMA ](/images/Defence/POFMA_info.jpg)
 *Countermeasures recommended by the Select Committee on Deliberate Online Falsehoods. Image: iMDA/ POFMA Office.*
 
-![foreign interference countermeasures act hostile information campaigns proxies ](/images/Defence/FICA.jpg)
+![Foreign Interference countermeasures act FICA](/images/Defence/FICA%20Highlights.jpeg)
 *Understanding the Foreign Interference (Countermeasures) Act (FICA). Image: MHA.*
 
 ##### Building Public Awareness
