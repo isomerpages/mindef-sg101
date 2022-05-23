@@ -21,12 +21,12 @@ Singapore has also been a strong advocate of upholding an open and inclusive reg
 	
 The ASEAN Defence Ministers’ Meeting (ADMM), established in 2006, is the highest-level defence consultative and cooperative mechanism in ASEAN. It aims to promote mutual trust and confidence through dialogue and practical cooperation. In 2010, the ADMM-Plus was established. The ADMM-Plus is the de facto regional security platform for ASEAN and eight of its Dialogue Partners (Australia, China, India, Japan, New Zealand, Russia, South Korea, and the United States, collectively referred to as the “Plus Countries”) to strengthen security and defence cooperation for peace, stability and development through the ADMM-Plus Meetings and its Experts Working Groups. 
 
-![](/images/Defence/ADMM.jpg)
+![ASEAN Defence Ministers’ Meeting](/images/Defence/ADMM.jpg)
 *Minister for Defence Dr Ng Eng Hen (centre) at the ADMM Retreat held virtually on 10 November 2021. Image: MINDEF.*
 	
 Another example is the Shangri-La Dialogue (SLD), an annual dialogue that brings together defence ministers and military chiefs from around the world to exchange perspectives on the region’s most pressing security challenges. It is organised by the International Institute for Strategic Studies (IISS), with support from the Singapore government. The dialogue gets its name from the location where it is held – the Shangri-La Hotel in Singapore. The event is a platform that allows countries to strengthen defence relations, build understanding and foster practical cooperation with one other. 
 	
-![](/images/Defence/PM%20Lee%20at%20SLD2019.jpg)
+![Shangri-la dialogue PM Lee Hsien Loong](/images/Defence/PM%20Lee%20at%20SLD2019.jpg)
 *Prime Minister Mr Lee Hsien Loong delivering the keynote address at the SLD on 31 May 2019. Image: MINDEF.*</p> 
 </div>
 
@@ -54,7 +54,7 @@ Building robust deterrence means steadily investing in capabilities to ensure th
 	
 These efforts require significant investments in financial and manpower resources. Investments are made in human capital, infrastructure, technology, as well as in new capabilities, and research and development endeavours. The SAF uses technology as a “force multiplier”, developing defence science to augment the SAF’s capabilities.
 
-![](/images/Defence/Defence%206.jpg)
+![Dr Goh Keng Swee quote SAF Singapore Armed Forces manpower technology](/images/Defence/Defence%206.jpg)
 
 Nevertheless, even the best technology has to be manned by a determined fighting force which, in Singapore’s case, is a conscript armed force built up over decades, and supported by the entire nation. 
 
@@ -66,7 +66,7 @@ Nevertheless, even the best technology has to be manned by a determined fighting
 
 In the early years of independence, Singapore was short on resources to build a strong and capable defence force. The British withdrawal left a huge gap, especially in air and naval protection. The key priority after Singapore’s independence was to build up the country’s own defence capability as soon as possible. The only way to overcome this was to develop a conscript armed force built around a small professional core. Singapore’s first defence force was created in the 1960s. In our formative years, the SAF had just two infantry battalions, two wooden ships and two leased aircraft.
 
-![](/images/Defence/SAFTI.jpg)
+![SAF Training Institute](/images/Defence/SAFTI.jpg)
 *March-past of first batch of 117 officer cadets, who had completed a 12-month intensive training at SAF Training Institute (SAFTI), at their commissioning parade held at Pasir Laba Camp, Jurong. Image: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (NAS).*
 
 ##### SAF in the 1980s to 1990s
@@ -81,12 +81,12 @@ The September 11 terror attacks in 2001 saw a shift in the security landscape, w
 
 The digital domain has grown into a full-fledged arena of conflict and contestation. Threats that emanate from the digital domain can readily impact events in the physical world. However, these digital threats have continued to grow in scale, sophistication and organisation. Therefore, MINDEF/SAF has set up a fourth Service, the Digital and Intelligence Service (DIS), which will more tightly integrate the SAF’s capabilities across the Services to deal with a spectrum of security threats, including those from the digital domain. The DIS will provide enhanced intelligence, advanced connectivity and resilient digital defence for the SAF. As a force with specialisations in core technology areas and communications, and across diverse areas such as data science, psychology, linguistics, anthropology and geography, the DIS will accelerate the SAF’s Next Generation transformation efforts.
 
-![](/images/Defence/DIS.jpg)
+![SAF Digital and Intelligence Service](/images/Defence/DIS.jpg)
 *Image: MINDEF.*
 
 Notwithstanding, the Next Generation SAF has and will continue to incorporate new capabilities to strengthen its ability to deter potential aggressors and defend Singapore. For instance, by 2040, the Army, equipped with Next Gen Infantry Battalions and new armoured tracked carriers and howitzers, will be more manoeuvrable and able to strike faster and harder. The Navy, with Multi-Role Combat Vessels, Invincible-class submarines, and unmanned vessels, will be able to see and strike further at sea and in the depths to better protect our waters and our Sea Lines of Communication. The Next Gen Air Force, with F-15s and F-35s fighter jets, will be more versatile and effective to better protect our skies, and our Next Gen UAVs, such as the Close-range (CR) UAVs, will enhance the SAF’s air intelligence, surveillance and reconnaissance capabilities.
 
-![](/images/Defence/Next%20Gen%20SAF.jpg)
+![Next Gen SAF Singapore Armed Forces](/images/Defence/Next%20Gen%20SAF.jpg)
 *Image: MINDEF.*
 
 SAF servicemen and women are also being nurtured and equipped with the relevant technological expertise and digital tools to leverage data in performing their operational duties. The Next Gen SAF has also stepped up efforts to leverage technology to deal with security challenges, and make up for fewer boots on the ground, as well as explored ways to deploy manned-unmanned assets in operations to more effectively deploy our manpower. For example, by exploiting automation, the TPQ-53 Weapon Locating Radar is able to identify and acquire threats further and with more accuracy while using about 30% less manpower compared with its predecessors. Likewise, the Army’s next-generation howitzer will be operated by a three-man crew, compared to the current nine-man team. 
