@@ -33,9 +33,11 @@ For example, the United States (US) Government has alleged that Russia interfere
 
 In the United Kingdom, domestic unhappiness was exploited during the referendum on Brexit in 2016. Anti-immigration falsehoods were propagated by foreign-linked social media accounts to build a narrative that the government had failed to protect its citizens.
 
-![Foreign interference examples countries](/images/Defence/FI.jpg)
-*Examples of foreign interference in Singapore and other countries. Image: MHA.*</p> 
+</p> 
 </div>
+
+![Foreign interference examples countries](/images/Defence/FI.jpg)
+*Examples of foreign interference in Singapore and other countries. Image: MHA.*
 
 #### Safeguarding Singapore Against Hostile Information Campaigns (HICs) and Foreign Interference (FI)
 
