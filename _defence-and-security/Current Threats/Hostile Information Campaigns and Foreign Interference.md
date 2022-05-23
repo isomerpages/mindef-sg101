@@ -23,17 +23,15 @@ During the COVID-19 pandemic in Singapore, there were also multiple instances of
 These episodes illustrate how Singapore, as a highly connected, multi-religious and multiracial society, can become a target for divisive falsehoods. Through fake news and falsehoods, potential aggressors can exploit these vulnerabilities to harm our country. They may disrupt our way of life, affect our hearts and minds, influence our perceptions of issues and how we behave, reduce public confidence in public institutions, and undermine our social cohesion and psychological resilience. 
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
-<p>
+
 	
-##### Examples of Foreign Interference in Other Countries
+<p><i> Examples of Foreign Interference in Other Countries</i></p> 
 
-For many countries, elections are the main way by which a government is chosen to lead and organise society. By tampering or interfering with the elections, these state actors are looking to destabilise the target’s government or to influence results in their favour. 
+<p>For many countries, elections are the main way by which a government is chosen to lead and organise society. By tampering or interfering with the elections, these state actors are looking to destabilise the target’s government or to influence results in their favour. </p> 
 
-For example, the United States (US) Government has alleged that Russia interfered in the 2020 US Presidential elections. US intelligence agencies concluded that Russia had backed Presidential candidate Donald Trump over Presidential candidate Joe Biden, with a Kremlin official attempting to discredit the election process.
+<p>For example, the United States (US) Government has alleged that Russia interfered in the 2020 US Presidential elections. US intelligence agencies concluded that Russia had backed Presidential candidate Donald Trump over Presidential candidate Joe Biden, with a Kremlin official attempting to discredit the election process.</p> 
 
-In the United Kingdom, domestic unhappiness was exploited during the referendum on Brexit in 2016. Anti-immigration falsehoods were propagated by foreign-linked social media accounts to build a narrative that the government had failed to protect its citizens.
-
-</p> 
+<p>In the United Kingdom, domestic unhappiness was exploited during the referendum on Brexit in 2016. Anti-immigration falsehoods were propagated by foreign-linked social media accounts to build a narrative that the government had failed to protect its citizens.</p> 
 </div>
 
 ![Foreign interference examples countries](/images/Defence/FI.jpg)
