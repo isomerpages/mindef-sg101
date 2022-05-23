@@ -55,7 +55,6 @@ Following separation from Malaysia in August 1965, Singapore’s foremost concer
 The only two battalions in the country were still under command of a Malaysian Brigadier, Brigadier Syed Mohamed bin Syed Ahmad Alsagoff, and there was a need to deter Malay Ultras (extremists) in KL who were keen to reverse the independence acquired. Mr Lee revealed in his memoirs that many KL leaders believed Singapore should never have been allowed to leave Malaysia, and was to be kept a part of the country, by force if necessary.
 
 ![Opening of first parliament](/images/Defence/Opening%20of%20First%20Parliament.jpg)
-
 *Opening of First Parliament. Image: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (NAS).*
 
 One episode came to illustrate Malaysia’s lingering military presence in Singapore. Mr Lee shared that Brigadier Alsagoff insisted on escorting him to the first meeting of the Parliament of independent Singapore in December 1965. 
