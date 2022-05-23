@@ -58,7 +58,7 @@ Defined and designated PSPs will be subjected to countermeasures covering the fo
 ![POFMA deliberate falsehoods select committee](/images/Defence/POFMA.jpg)
 *Countermeasures recommended by the Select Committee on Deliberate Online Falsehoods. Image: iMDA/ POFMA Office.*
 
-![foreign interference countermeasures act hostile information campaigns proxies ](/images/Defence/FICA.jpg)
+![Foreign Interference countermeasures act FICA](/images/Defence/FICA%20Highlights.jpeg)
 *Understanding the Foreign Interference (Countermeasures) Act (FICA). Image: MHA.*
 
 ##### Building Public Awareness
