@@ -38,7 +38,7 @@ As a responsible member of the international and regional community, Singapore a
 	
 <p><i> Humanitarian Assistance and Disaster Relief (HADR) Missions</i></p> 
 
-Singapore rendered assistance to Aceh in the aftermath of the 2004 Boxing Day tsunami. In the largest SAF overseas operation conducted so far, more than 1,500 SAF personnel and three Endurance-class landing ships tank (LSTs) were deployed as part of the HADR efforts. In 2021, the RSAF deployed an A330 Multi-Role Tanker Transport (A330 MRTT) aircraft to Qatar to assist in the evacuation of Afghanistan evacuees to Germany.</p> 
+<p>Singapore rendered assistance to Aceh in the aftermath of the 2004 Boxing Day tsunami. In the largest SAF overseas operation conducted so far, more than 1,500 SAF personnel and three Endurance-class landing ships tank (LSTs) were deployed as part of the HADR efforts. In 2021, the RSAF deployed an A330 Multi-Role Tanker Transport (A330 MRTT) aircraft to Qatar to assist in the evacuation of Afghanistan evacuees to Germany.</p> 
 </div>
 	
 #### Second Pillar – Deterrence 
