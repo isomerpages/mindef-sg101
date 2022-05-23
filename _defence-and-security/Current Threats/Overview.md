@@ -29,11 +29,11 @@ Although Singapore has, over the years, built one of the most capable militaries
 An example would be periodic incursions by neighbours into our territorial waters. Some of these incidents have been provocative and escalatory, increasing tensions and the risk of miscalculation on the ground, as well as harming bilateral ties. 
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
-<p>For example, in October 2018, Malaysia unilaterally extended the Johor Bahru Port Limits, encroaching into Singapore Territorial Waters off Tuas. Under international law, port limits are to be declared by a country only within its own territorial waters. Due to this violation of Singapore’s sovereignty, Singapore lodged a strong protest with the Malaysian government. During this period, there were daily intrusions by Malaysian government vessels into Singapore waters, including prolonged anchoring. 
+<p>For example, in October 2018, Malaysia unilaterally extended the Johor Bahru Port Limits, encroaching into Singapore Territorial Waters off Tuas. Under international law, port limits are to be declared by a country only within its own territorial waters. Due to this violation of Singapore’s sovereignty, Singapore lodged a strong protest with the Malaysian government. During this period, there were daily intrusions by Malaysian government vessels into Singapore waters, including prolonged anchoring. </p> 
 
-On 6 December 2018, the Singapore government extended the Singapore Port Limits off Tuas. It was challenging to manage the situation without escalating tensions, especially as the waters in the area became more congested with civilian and military vessels.
+<p>On 6 December 2018, the Singapore government extended the Singapore Port Limits off Tuas. It was challenging to manage the situation without escalating tensions, especially as the waters in the area became more congested with civilian and military vessels.</p> 
 
-![Singapore Territorial waters dispute Tuas 2018](/images/Defence/STW.jpg)
+<p>![Singapore Territorial waters dispute Tuas 2018](/images/Defence/STW.jpg)
 *RSS Independence (left) watching over a Malaysian government vessel in Singapore waters off Tuas. Image: MINDEF.*</p> 
 </div>
 
