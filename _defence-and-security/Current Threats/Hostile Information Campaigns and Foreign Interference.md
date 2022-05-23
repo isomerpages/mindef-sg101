@@ -55,7 +55,7 @@ Under FICA, individuals and organisations who are directly involved in Singapore
 
 Defined and designated PSPs will be subjected to countermeasures covering the following vectors of foreign interference – (a) donations, (b) volunteers, (c) leadership and membership, and (d) affiliations. If there are increased risks of foreign interference, the competent authority can step up countermeasures on the defined and designated PSPs.
 
-![POFMA select committee deliberate online falsehoods](/images/Defence/POFMA_info.jpg)
+![POFMA ](/images/Defence/POFMA_info.jpg)
 *Countermeasures recommended by the Select Committee on Deliberate Online Falsehoods. Image: iMDA/ POFMA Office.*
 
 ![Foreign Interference countermeasures act FICA](/images/Defence/FICA%20Highlights.jpeg)
