@@ -34,7 +34,7 @@ These episodes illustrate how Singapore, as a highly connected, multi-religious 
 <p>In the United Kingdom, domestic unhappiness was exploited during the referendum on Brexit in 2016. Anti-immigration falsehoods were propagated by foreign-linked social media accounts to build a narrative that the government had failed to protect its citizens.</p> 
 </div>
 
-![Foreign interference examples countries](/images/Defence/FI.jpg)
+![examples of foreign interference ](/images/Defence/FI.jpg)
 *Examples of foreign interference in Singapore and other countries. Image: MHA.*
 
 #### Safeguarding Singapore Against Hostile Information Campaigns (HICs) and Foreign Interference (FI)
@@ -55,7 +55,7 @@ Under FICA, individuals and organisations who are directly involved in Singapore
 
 Defined and designated PSPs will be subjected to countermeasures covering the following vectors of foreign interference – (a) donations, (b) volunteers, (c) leadership and membership, and (d) affiliations. If there are increased risks of foreign interference, the competent authority can step up countermeasures on the defined and designated PSPs.
 
-![Countermeasures recommended by the Select Committee on Deliberate Online Falsehoods POFMA](/images/Defence/POFMA.jpg)
+![POFMA deliberate falsehoods select committee](/images/Defence/POFMA.jpg)
 *Countermeasures recommended by the Select Committee on Deliberate Online Falsehoods. Image: iMDA/ POFMA Office.*
 
 ![foreign interference countermeasures act hostile information campaigns proxies ](/images/Defence/FICA.jpg)
