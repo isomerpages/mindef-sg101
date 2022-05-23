@@ -4,7 +4,6 @@ permalink: /defence-and-security/Case-Studies/the-threat-of-self-radicalisation
 description: ""
 third_nav_title: Case Studies
 ---
-
 ### The Threat of Self-radicalisation
 
 Today, there is an increasing number of terrorist attacks being carried out by self-radicalised individuals and lone wolf actors on everyday venues, using readily available objects such as knives and vehicles. The radicalised individuals are also significantly younger, have no prior terror links, and are influenced by extremist propaganda on social media. 
@@ -19,14 +18,14 @@ Self-radicalisation presents an increasing challenge to the authorities, especia
 
 In December 2020, a 16-year-old Singaporean youth was detained under the Internal Security Act (ISA) after making plans to attack Muslims at two mosques in Singapore. This was the youngest person then to be detained for terrorism-related activities and the first detainee who had been influenced by far-right extremist ideologies. The Secondary 4 student was influenced by the 2019 terror attacks at two mosques in Christchurch, New Zealand, having watched the livestreamed video of the attack and read the manifesto of the perpetrator. 
 
-![](/images/Defence/Assyafaah%20Mosque%20and%20Yusof%20Ishak%20Mosque.png)
+![Assyafaah Mosque Yusof Ishak Mosque self-radicalisation planned attack](/images/Defence/Assyafaah%20Mosque%20and%20Yusof%20Ishak%20Mosque.png)
 *Image: Singapore Terrorism Threat Assessment Report 2021, MHA.*
 
 A 22-year-old Singaporean became the first woman to be detained under the ISA for radicalisation in 2017. She was a contract infant care assistant with a PCF Sparkletots Preschool, and began to be radicalised in 2013 by online ISIS propaganda. She had been planning to travel to Syria with her young child and was looking for an ISIS supporter to marry.
 
 A 20-year-old Singaporean was detained in March 2021. Driven by his radicalised views of the Israel-Palestine conflict, he had made plans and preparations to conduct a knife attack on Jews at a synagogue in Singapore. He had been enraged by the Israel-Palestine conflict and made plans to travel to Gaza to join the fight against Israel.
 
-![](/images/Defence/Replica%20weapons.png)
+![planned attack replica weapons terrorism self-radicalisation](/images/Defence/Replica%20weapons.png)
 *Image: Singapore Terrorism Threat Assessment Report 2021, MHA.*
 
 In August 2020, a 34-year-old Singaporean housewife and former religious teacher was issued with a Restriction Order (RO) under the ISA after she was found to have been radicalised by her husband, and had supported his intentions to join and fight for ISIS in Syria. In April 2021, she was detained after an escalation in her radical behaviour and involvement in activities prejudicial to Singapore’s security.
