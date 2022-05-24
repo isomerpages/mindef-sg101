@@ -15,8 +15,7 @@ Image: Ustadz Abdul Somad, an Indonesian Muslim preacher, speaking at a school e
 <p>
 •	 Somad was denied entry due to his history of extremist and segregationist teachings, which are unacceptable in Singapore’s multiracial and multi-religious society.
 
-•	Entry to Singapore is neither automatic nor a right. Each case is assessed on its own merits. We take a serious view of any persons who advocate violence and/or espouse extremist and segregationist teachings.
-</p></div> 
+•	Entry to Singapore is neither automatic nor a right. Each case is assessed on its own merits. We take a serious view of any persons who advocate violence and/or espouse extremist and segregationist teachings. </p></div> 
 
 ## Key Points
 
@@ -58,8 +57,4 @@ Social media accounts of govt leaders, agencies spammed by supporters of Indones
 
 Indonesian preacher denied entry to Singapore says he will not give up trying to visit (CNA, 21 May 22) (https://go.gov.sg/20220521-cna-article)
 
-Supporters of Indonesian preacher denied entry to S’pore stage protests in Jakarta, Medan (ST, 22 May 22) (https://go.gov.sg/20220522-st-article) 
-
-
-
-
+Supporters of Indonesian preacher denied entry to S’pore stage protests in Jakarta, Medan (ST, 22 May 22) (https://go.gov.sg/20220522-st-article)
