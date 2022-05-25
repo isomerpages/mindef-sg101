@@ -18,7 +18,7 @@ The threat has not abated through the years. The Islamic State in Iraq and Syria
 
 ISIS originally began as part of Al-Qaeda but later rebranded itself and seized territory in Iraq and Syria from 2014. It represents a more sophisticated form of terrorism; while Al-Qaeda fashioned itself as a rebel group, ISIS positioned itself as a legitimate state for all followers of its radical brand of Islam. It also used social media, the Internet and other media to propagate its ideology worldwide. This insidious approach helped recruit thousands of foreign fighters and spawned local groups to orchestrate attacks in regions like Europe and Southeast Asia, thousands of miles away from the Middle East.
 
-![terrorism ISIS wilayah Islamic State of Iraq and Syria](/images/Defence/STTAR1.png)
+![ISIS wilayah provinces terrorism Islamic State of Iraq and Syria](/images/Defence/STTAR%20-%20maps(21%20June)-01.jpeg)
 *Image: Singapore Terrorism Threat Assessment Report 2021, ISD (STTAR reports over the years can be found at [https://www.sgsecure.gov.sg/terror-threat](https://www.sgsecure.gov.sg/terror-threat) )*
 
 Global terrorist groups like ISIS and Al-Qaeda have proven resilient and adaptable, despite their leadership losses and military setbacks in recent years. Even amidst the COVID-19 pandemic, they have stepped up their recruitment and propaganda on social media, encouraging their supporters to conduct attacks. There has been international concern over the possibility of foreign fighters for ISIS returning from the Middle East to set up terrorist cells in their home regions. 
