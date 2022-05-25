@@ -36,6 +36,10 @@ c.	Inflammatory remarks towards other religions. In 2019, Somad described the Ch
 
 7. This is not the first time Singapore has denied entry of and/or removed individuals who had sought to promote divisive or intolerant views along religious lines. For example, in 2017, two Christian preachers were banned from preaching in Singapore after they made derogatory comments towards Islam and Buddhism. Entry to Singapore is neither automatic nor a right. The Singapore government takes a serious view of any persons who advocate violence and/or espouse extremist and segregationist teachings. Moreover, Singapore is not the first jurisdiction to deny entry to Somad − he had also been denied entry to areas including Hong Kong, Timor Leste, and the United Kingdom. <br><br>
 
+## Minister for Home Affairs K Shanmugam's remarks
+
+
+
 
 ## For more information: 
 
