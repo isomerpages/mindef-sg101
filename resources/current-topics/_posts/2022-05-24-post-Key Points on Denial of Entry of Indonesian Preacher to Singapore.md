@@ -5,7 +5,6 @@ date: 2022-05-24
 layout: post
 description: Key Points on Denial of Entry of Indonesian Preacher to Singapore
 ---
-
 ## Overview 
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
