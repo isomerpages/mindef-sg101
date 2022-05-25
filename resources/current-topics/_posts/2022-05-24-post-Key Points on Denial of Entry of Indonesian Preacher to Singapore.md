@@ -38,8 +38,11 @@ c.	Inflammatory remarks towards other religions. In 2019, Somad described the Ch
 
 ## Minister for Home Affairs K Shanmugam's remarks
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UFy1PJnuCGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WkIHEJ5Wvew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C5U-bPhlPks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 ## For more information: 
 
