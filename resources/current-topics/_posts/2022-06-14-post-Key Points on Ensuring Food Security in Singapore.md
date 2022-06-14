@@ -60,6 +60,17 @@ Diversification of our food sources by importing from different countries.
 We have always recognised our need for self-sufficiency in food production, even as a newly self-governing state.
 [https://www.facebook.com/ConnexionSG/posts/pfbid01UNYJPpr4vhbMKQTkqzsTyNEfi3kRCSW1Q3FMPY8HWezsPiuYJP5RBZ9U6mDARWAl](https://www.facebook.com/ConnexionSG/posts/pfbid01UNYJPpr4vhbMKQTkqzsTyNEfi3kRCSW1Q3FMPY8HWezsPiuYJP5RBZ9U6mDARWAl)
 
-
-Levelling up Singapore’s food supply resilience
+Levelling up Singapore’s food supply resilience.
 [https://www.sfa.gov.sg/food-for-thought/article/detail/levelling-up-singapore-s-food-supply-resilience?fbclid=IwAR3tt6Iv-PJE2sNPiuhuqIuSR6sTy59gJYuO3X3bP3J4v0lI9aad4A8jXaU](https://www.sfa.gov.sg/food-for-thought/article/detail/levelling-up-singapore-s-food-supply-resilience?fbclid=IwAR3tt6Iv-PJE2sNPiuhuqIuSR6sTy59gJYuO3X3bP3J4v0lI9aad4A8jXaU)
+
+Strengthening Singapore’s Food Security.
+[https://www.psd.gov.sg/challenge/ideas/deep-dive/strengthening-singapore-s-food-security?fbclid=IwAR24ECJxZfcb74dGBncg1aJvU-NIlVg2lSOhDFsPqbQTLbfQGIGfw33AJNU](https://www.psd.gov.sg/challenge/ideas/deep-dive/strengthening-singapore-s-food-security?fbclid=IwAR24ECJxZfcb74dGBncg1aJvU-NIlVg2lSOhDFsPqbQTLbfQGIGfw33AJNU)
+
+Singapore has months' worth of stockpiles, planned for disruption of supplies from Malaysia for years: Chan Chun Sing.
+[https://www.channelnewsasia.com/singapore/coronavirus-covid-19-chan-chun-sing-food-supply-772876](https://www.channelnewsasia.com/singapore/coronavirus-covid-19-chan-chun-sing-food-supply-772876)
+
+The Big Read: Singapore has been buttressing its food security for decades. Now, people realise why.
+[https://www.channelnewsasia.com/singapore/covid19-coronavirus-singapore-food-security-stockpile-national-773856](https://www.channelnewsasia.com/singapore/covid19-coronavirus-singapore-food-security-stockpile-national-773856)
+
+MTI’s Facebook post on Strengthening Resilience of our Food Supply.
+[https://www.facebook.com/MTISingapore/posts/pfbid022fPgmFvFNEeXFXgKLCyVUxE9CqiHASbvn9PYBVTXx941eEQFKbrXe4AAgY7dXu2wl](https://www.facebook.com/MTISingapore/posts/pfbid022fPgmFvFNEeXFXgKLCyVUxE9CqiHASbvn9PYBVTXx941eEQFKbrXe4AAgY7dXu2wl)
