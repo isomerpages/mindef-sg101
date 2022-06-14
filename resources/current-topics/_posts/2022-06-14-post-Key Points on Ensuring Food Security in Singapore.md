@@ -35,7 +35,7 @@ Produce | Annual Production | Local Production as % of Consumption |
 Data obtained from: Singapore Food Agency (SFA)
 
 
-![](/images/Common%20myths%20about%20frozen%20meat.png)
+![](/images/Common%20myths%20about%20frozen%20meat.jpg)
 Source: Singapore Food Agency (SFA)
 
 
@@ -77,8 +77,9 @@ MTI’s Facebook post on Strengthening Resilience of our Food Supply.
 
 # **Relevant information and resources on the recent ban of chicken exports by Malaysia:**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j26mBnlMz9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+Food security expert Professor Paul Teng on Malaysia's chicken export ban
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZMcmx5wINwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 SFA’s Statement on Chicken Import
