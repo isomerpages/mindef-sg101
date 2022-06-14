@@ -47,3 +47,9 @@ Source: Singapore Food Agency (SFA)
 Singapore has built food resilience with buffer stocks, diversified sources: PM Lee
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k-3ebN05wjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+How will Singapore ensure we have enough food?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U_6LdCWLe4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Podcast on Keeping our Food Supply Secure (on the Camokakis app):
+[https://app.camokakis.sg/GTxG](https://app.camokakis.sg/GTxG)
+
