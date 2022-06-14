@@ -74,3 +74,23 @@ The Big Read: Singapore has been buttressing its food security for decades. Now,
 
 MTI’s Facebook post on Strengthening Resilience of our Food Supply.
 [https://www.facebook.com/MTISingapore/posts/pfbid022fPgmFvFNEeXFXgKLCyVUxE9CqiHASbvn9PYBVTXx941eEQFKbrXe4AAgY7dXu2wl](https://www.facebook.com/MTISingapore/posts/pfbid022fPgmFvFNEeXFXgKLCyVUxE9CqiHASbvn9PYBVTXx941eEQFKbrXe4AAgY7dXu2wl)
+
+# **Relevant information and resources on the recent ban of chicken exports by Malaysia:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j26mBnlMz9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZMcmx5wINwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+SFA’s Statement on Chicken Import
+[https://www.facebook.com/SGFoodAgency/posts/pfbid035Nesy7UedNiByoP9dtuNe6oLkszh87CAaRMgjzEcFBbUghPS33QA9JefzvRL4g7Ql](https://www.facebook.com/SGFoodAgency/posts/pfbid035Nesy7UedNiByoP9dtuNe6oLkszh87CAaRMgjzEcFBbUghPS33QA9JefzvRL4g7Ql)
+
+
+Follow these ABC tips on your grocery run!
+
+> **A**lways buy what you need, and do not over-purchase.
+> 
+> **B**e flexible and adaptable with your protein options
+> 
+> **C**hoose alternatives such as frozen or processed chicken!
+> 
+Let’s do our part and buy only what we need :)
