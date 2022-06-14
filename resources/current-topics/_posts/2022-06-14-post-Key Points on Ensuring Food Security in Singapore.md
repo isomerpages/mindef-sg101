@@ -58,3 +58,8 @@ Podcast on Keeping our Food Supply Secure (on the Camokakis app):
 Diversification of our food sources by importing from different countries.
 [https://www.facebook.com/ConnexionSG/posts/pfbid0A7Y7zSJcMincxHXzNGruxVYPaVCDPCPXLAkTZ12i1Q8o7V9dWyzZ2RbJKL1WYmsXl](https://www.facebook.com/ConnexionSG/posts/pfbid0A7Y7zSJcMincxHXzNGruxVYPaVCDPCPXLAkTZ12i1Q8o7V9dWyzZ2RbJKL1WYmsXl)
 
+![](/images/Picture3.png)
+
+We have always recognised our need for self-sufficiency in food production, even as a newly self-governing state.
+[https://www.facebook.com/ConnexionSG/posts/pfbid01UNYJPpr4vhbMKQTkqzsTyNEfi3kRCSW1Q3FMPY8HWezsPiuYJP5RBZ9U6mDARWAl](https://www.facebook.com/ConnexionSG/posts/pfbid01UNYJPpr4vhbMKQTkqzsTyNEfi3kRCSW1Q3FMPY8HWezsPiuYJP5RBZ9U6mDARWAl)
+
