@@ -53,3 +53,8 @@ How will Singapore ensure we have enough food?
 Podcast on Keeping our Food Supply Secure (on the Camokakis app):
 [https://app.camokakis.sg/GTxG](https://app.camokakis.sg/GTxG)
 
+![](/images/Picture2.png)
+ 
+Diversification of our food sources by importing from different countries.
+[https://www.facebook.com/ConnexionSG/posts/pfbid0A7Y7zSJcMincxHXzNGruxVYPaVCDPCPXLAkTZ12i1Q8o7V9dWyzZ2RbJKL1WYmsXl](https://www.facebook.com/ConnexionSG/posts/pfbid0A7Y7zSJcMincxHXzNGruxVYPaVCDPCPXLAkTZ12i1Q8o7V9dWyzZ2RbJKL1WYmsXl)
+
