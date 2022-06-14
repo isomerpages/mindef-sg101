@@ -76,9 +76,7 @@ MTI’s Facebook post on Strengthening Resilience of our Food Supply.
 [https://www.facebook.com/MTISingapore/posts/pfbid022fPgmFvFNEeXFXgKLCyVUxE9CqiHASbvn9PYBVTXx941eEQFKbrXe4AAgY7dXu2wl](https://www.facebook.com/MTISingapore/posts/pfbid022fPgmFvFNEeXFXgKLCyVUxE9CqiHASbvn9PYBVTXx941eEQFKbrXe4AAgY7dXu2wl)
 
 # **Relevant information and resources on the recent ban of chicken exports by Malaysia:**
-
-
-
+				 
 Food security expert Professor Paul Teng on Malaysia's chicken export ban
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZMcmx5wINwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
