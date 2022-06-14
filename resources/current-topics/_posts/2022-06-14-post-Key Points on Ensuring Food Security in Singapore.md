@@ -34,3 +34,16 @@ Produce | Annual Production | Local Production as % of Consumption |
 | Hen shell eggs     | 528 million pieces     | 26%     |
 | Fish | 4,700 tonnes | 10% |
 | Leafy vegetables     | 12,700 tonnes     | 14%     |
+
+Data obtained from: Singapore Food Agency (SFA)
+
+
+![](/images/Common%20myths%20about%20frozen%20meat.png)
+Source: Singapore Food Agency (SFA)
+
+
+**Relevant information and resources on Singapore’s approach to ensuring food security:**
+
+```
+[https://www.youtube.com/watch?v=k-3ebN05wjU](https://www.youtube.com/watch?v=k-3ebN05wjU)
+```
