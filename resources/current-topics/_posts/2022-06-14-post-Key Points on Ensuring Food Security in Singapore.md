@@ -5,7 +5,6 @@ date: 2022-06-14
 layout: post
 description: ""
 ---
-
 # **Overview**
 
 * Singapore will face disruptions in our food supply from time to time, due to volatility in crop yields, geopolitical developments, and unexpected policy changes. Climate change, which brings with it the loss of arable land and more erratic weather patterns, will put more strain on the global food supply.
@@ -93,4 +92,5 @@ Follow these ABC tips on your grocery run!
 > 
 > **C**hoose alternatives such as frozen or processed chicken!
 > 
+
 Let’s do our part and buy only what we need :)
