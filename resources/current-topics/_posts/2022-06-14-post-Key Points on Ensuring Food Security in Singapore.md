@@ -23,8 +23,14 @@ description: ""
 
 * Singapore has built and strengthened our food resilience over the years, drawing on past lessons. In 1959, the Primary Production Department was set up to provide for the socio-economic development of rural communities, including raising farming productivity. The measures took off, and by the 1980s, Singapore achieved self-sufficiency with the local production of eggs, poultry, and pork.
 
-·      However, over time, with the scarcity of land, the number of farms dwindled out and we relied more on imports for our food needs. But the rising volatility in food prices in the mid-2000s prompted us to rethink our food strategy. Food imports and diversification had to be supplemented by secondary measures, such as stockpiling and local production.
+* However, over time, with the scarcity of land, the number of farms dwindled out and we relied more on imports for our food needs. But the rising volatility in food prices in the mid-2000s prompted us to rethink our food strategy. Food imports and diversification had to be supplemented by secondary measures, such as stockpiling and local production.
 
-·      The Singapore government maintains a national stockpile of essential items, such as rice, infant milk powder, and face masks. For instance, in March 2020, Singapore has stockpiled more than three months’ worth of carbohydrates like rice and noodles (the Rice Stockpile Scheme started in 1968), and more than two months’ worth of stockpiles for proteins and vegetables.
+* The Singapore government maintains a national stockpile of essential items, such as rice, infant milk powder, and face masks. For instance, in March 2020, Singapore has stockpiled more than three months’ worth of carbohydrates like rice and noodles (the Rice Stockpile Scheme started in 1968), and more than two months’ worth of stockpiles for proteins and vegetables.
 
-·      While less than 10% of Singapore’s food is locally grown, food produced locally can also provide a buffer in the event of supply disruptions. In 2019, our local farms contributed to the following key food production of our total food consumption:
+* While less than 10% of Singapore’s food is locally grown, food produced locally can also provide a buffer in the event of supply disruptions. In 2019, our local farms contributed to the following key food production of our total food consumption:
+
+Produce | Annual Production | Local Production as % of Consumption |
+| -------- | -------- | -------- |
+| Hen shell eggs     | 528 million pieces     | 26%     |
+| Fish | 4,700 tonnes | 10% |
+| Leafy vegetables     | 12,700 tonnes     | 14%     |
