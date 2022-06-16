@@ -1,10 +1,11 @@
 ---
-title: Singapore’s Principled Stand on Russia’s Invasion of Ukraine
+title: NE Insights on Singapore’s Principled Stand on Russia’s Invasion of Ukraine
 permalink: /resources/resource-packages/SGPrincipledStandonRussiasInvasionofUkraine
 date: 2022-03-24
 layout: post
 description: ""
 ---
+
 Since 24 February 2022, Russia has used military force to invade Ukraine from multiple directions. Singapore has strongly condemned
 Russia’s unprovoked invasion of Ukraine and acted in concert with many other like-minded countries to impose appropriate sanctions and 
 restrictions against Russia.
