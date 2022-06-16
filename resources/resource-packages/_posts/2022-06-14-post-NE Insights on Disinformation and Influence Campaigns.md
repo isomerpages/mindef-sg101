@@ -11,4 +11,4 @@ Download the package:
 
 [03/22 NE Insights on Disinformation and Influence Campaigns](/files/03_22%20NE%20Insights%20on%20Disinformation%20and%20Influence%20Campaigns.pdf)
 
-[Slides on Disinformation and Influence Campaigns](/files/Slides%20on%20Disinformation%20and%20Influence%20Campaigns.pdf)
+[Slides on Disinformation and Influence Campaigns](/files/Slides%20on%20Disinformation%20and%20Influence%20Campaigns_.pdf)
