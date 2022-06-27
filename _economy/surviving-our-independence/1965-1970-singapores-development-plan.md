@@ -26,11 +26,6 @@ The economic rationale behind the courting of foreign investors was twofold:
 1. First, large foreign companies targeted the global market. They had the necessary expertise and networks that would allow Singapore to quickly scale up these industries. They also had the financial capital to invest in Singapore’s infrastructure. For instance, oil company Shell built Singapore’s first oil refinery at the cost of S$30 million on Pulau Bukom in 1961.
 
 2. Second, our goal was to eventually enable knowledge transfer from foreign companies to local enterprises. This would enable local companies to acquire the necessary technical expertise to start building local industries in the longer term.
-
-![Alt text for image on Isomer site](/images/economy/img0062.jpg)
- Image: Opening Ceremony of Shell Refinery at Pulau Bukom, 1961; [MICA/NAS](https://www.nas.gov.sg/archivesonline/photographs/record-details/1190c3fe-42cf-11e4-859c-0050568939ad)
- 
- ![Alt text for image on Isomer site](/images/economy/Winsemius%20on%20Shell%20and%20Esso.png)
  
 Singapore thus pressing ahead with the export-oriented strategy.
 
@@ -63,8 +58,7 @@ The government also continued to build infrastructure to support Singapore’s i
 Communication services such as postal, telegraph, telephone, and telex services also developed quickly between 1966 and 1973.
 
 #### Focusing on Education and Training
-![Alt text for image on Isomer site](/images/economy/img0018.jpg)
-Image: Training ship for seaman, 1964; [MICA/NAS](https://www.nas.gov.sg/archivesonline/photographs/record-details/2be89202-1162-11e3-83d5-0050568939ad)
+
 
 As Singapore began vocational training in the early 1960s, by 1965 we had a pool of semi-skilled workers who could support the nation’s growing industrialisation. We continued putting emphasis on training and developing human capital to stay relevant.
 

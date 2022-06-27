@@ -25,8 +25,6 @@ At the same time, countries such as Indonesia and Malaysia were just firing up t
 
 In order to keep growing, Singapore had to adjust its economic strategy away from labour-intensive industries and into higher-value goods. This would ensure that Singapore’s workers continue to see a flow of jobs and income.
 
-![Alt text for image on Isomer site](/images/economy/growing-our-economy/img0014.jpg)Image: Esso Refinery at Pulau Ayer Chawan, 1971; [MICA/NAS](https://www.nas.gov.sg/archivesonline/photographs/record-details/d78f7c26-1161-11e3-83d5-0050568939ad)
-
 In 1973, then-Finance Minister Mr Hon Sui Sen announced a two-pronged approach to tackle the labour shortage in Singapore. One, attract new foreign investment in higher-value manufacturing, such as petrochemicals and precision engineering. Two, to upgrade and upskill workers across the economy in a bid to raise productivity.
 
 
@@ -47,8 +45,5 @@ Apart from that, we also focused on raising the productivity of workers, as part
 	
 This culminated in Singapore’s first national productivity campaign, which was launched by then-Minister for Foreign Affairs S. Rajaratnam in 1975. </p>
 </div>
-
-![Alt text for image on Isomer site](/images/economy/growing-our-economy/img0106-2.jpg)
-Image: [MICA/NAS](https://www.nas.gov.sg/archivesonline/photographs/record-details/eb75b4db-1161-11e3-83d5-0050568939ad)
 
 The economy performed well in the 1970s, with real GDP growing an average of 9.2% yearly between 1970 and 1980. With a strong manufacturing base and an increasingly educated workforce, the basic building blocks of Singapore’s modern city-state economy were put in place.

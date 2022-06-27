@@ -15,9 +15,6 @@ We took on the challenge and emerged stronger than before.
 
 **Growing the Financial Sector**
 
-![Alt text for image on Isomer site](/images/economy/growing-our-economy/img0052.jpg)
-Imag: Skyscrapers at Raffles Place, 1980s; [G P Reichelt Collection/NAS](https://www.nas.gov.sg/archivesonline/photographs/record-details/bcffdc1f-3c8a-11e4-859c-0050568939ad))
-
 By the 1980s, one area that had become increasingly important to Singapore was the financial sector. In the late 1960s, the development of the Asian Dollar Market helped establish Singapore as a leading foreign exchange market after London New York and Tokyo.
 
 Moreover, while local banks such as OCBC, UOB and OUB have been mainstays in our economy, they primarily supported Chinese merchants and traders before 1965. However, once Singapore began industralisation, these banks became full commercial banks that financed a wider range of activities.
@@ -38,9 +35,6 @@ The task force recommended developing new tourism attractions, such as a new ind
 From then, tourism became one of Singapore's key drivers of economic growth.
 
 **Strengthening the Manufacturing Sector**
-
-![Alt text for image on Isomer site](/images/economy/growing-our-economy/img0109.jpg)
-Image: Staff of Singatronics assembling consumer electronic products, 1987; [MICA/NAS](https://www.nas.gov.sg/archivesonline/photographs/record-details/fb3488b3-1161-11e3-83d5-0050568939ad))
 
 Throughout the 1980s, the government also continued the the effort to upgrade our industries and help Singapore move up the value chain. 
 
