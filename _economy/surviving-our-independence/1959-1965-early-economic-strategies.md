@@ -23,15 +23,9 @@ The economy thus became a key priority. The founding leaders of Singapore had in
 
 In 1961, a team of United Nations (UN) economists led by Dutch industrialist Albert Winsemius visited Singapore to advise the new government how to develop its economy. They issued a report, “A Proposed Industrialisation Programme for the State of Singapore”, which outlined a plan to embark Singapore on a path of rapid industralisation to absorb the large numbers of unemployed workers.
 
-![Alt text for image on Isomer site](/images/economy/img0106.jpg)
-Image: [MICA / NAS](https://www.nas.gov.sg/archivesonline/photographs/record-details/2804679b-1162-11e3-83d5-0050568939ad)
-
 They recommended that in order to end unemployment, over 200,000 jobs had to be created within 10 years. Until that time, the local economy was dominated by trading firms and entrepôt trade. While trade formed the basis of Singapore’s prosperity during the colonial period, it left our economy particularly vulnerable to the global prices of tin and rubber. Furthermore, entrepôt trade could not generate enough jobs to absorb the rising numbers of unemployed workers.
 
 The lead agency tasked to undertake the critical role of implementing the industrialisation plan was the Economic Development Board (EDB), which was set up in 1961. Taking over from the Singapore Industrial Promotion Board, which was founded in 1957, EDB had a much larger remit and capital base. It was armed with $100 million over the period of 1961 to 1964 to drive industrialisation in Singapore. Its first task was to build the necessary infrastructure to support the plan.
-
-![Alt text for image on Isomer site](/images/economy/pm-lky-with-edb-chairman-surveying-what-was-to-become-the-jurong-industrial-estate.jpg)
-(Image: [Surveying what was to become the Jurong Industrial Estate; MICA/NAS](https://www.nas.gov.sg/archivesonline/photographs/record-details/5b0a4d9b-1162-11e3-83d5-0050568939ad))
 
 One of its first tasks was to develop Jurong into an industrial estate, as part of a push to create labour-intensive industries that would generate jobs for the people. Some of the early factories produced items such as garments, toys and wigs. This was only the beginning of the story of Jurong.
 
@@ -60,9 +54,6 @@ Furthermore, in 1963, the newly formed Federation of Malaysia came under attack 
 	
 <p>Indonesia also carried out a series of bombing attempts in Singapore, which were aimed at causing damage to Singapore and rattling foreign investors. On 16 November 1964, an attempt by 10 Indonesian commandos to sabotage an oil installation was foiled. In 1965, the tragic bombing of Macdonald House along Orchard Road claimed three lives and injured 33.</p>
 </div>
-
-![Alt text for image on Isomer site](/images/economy/img0101.jpg)
-Image: Konfrontasi bombing of MacDonald House; [MICA/NAS](https://www.nas.gov.sg/archivesonline/photographs/record-details/7e9422be-166c-11e5-9f6b-0050568939ad)
 
 In addition, Singapore's union with Malaysia was also troubled from the start.
 
