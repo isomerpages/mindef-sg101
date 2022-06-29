@@ -9,7 +9,7 @@ description: ""
 
 * Singapore will face disruptions in our food supply from time to time, due to volatility in crop yields, geopolitical developments, and unexpected policy changes. Climate change, which brings with it the loss of arable land and more erratic weather patterns, will put more strain on the global food supply.
 
-* There is no need to hoard or panic buy food products as we have strengthened our food security with buffer stocks and diversified sources to cope with supply disruptions.
+* There is no need to hoard or panic buy food products as we have strengthened our food security with buffer stocks and diversified sources to cope with supply disruptions. We can also be more open to alternatives and flexible about our food choices.
 
 # **Key Points** 
 * Over 90% of Singapore’s food comes from some 170 countries and regions. This heavy reliance on food import leaves us exposed to external forces, from supply shocks in source countries to disruptions in global supply chains.
@@ -56,6 +56,9 @@ Diversification of our food sources by importing from different countries.
 [https://www.facebook.com/ConnexionSG/posts/pfbid0A7Y7zSJcMincxHXzNGruxVYPaVCDPCPXLAkTZ12i1Q8o7V9dWyzZ2RbJKL1WYmsXl](https://www.facebook.com/ConnexionSG/posts/pfbid0A7Y7zSJcMincxHXzNGruxVYPaVCDPCPXLAkTZ12i1Q8o7V9dWyzZ2RbJKL1WYmsXl)
 
 ![](/images/Picture3.png)
+
+The world on your plate: So where does your food come from?
+https://www.channelnewsasia.com/brandstudio/sgfoodsources
 
 We have always recognised our need for self-sufficiency in food production, even as a newly self-governing state.
 [https://www.facebook.com/ConnexionSG/posts/pfbid01UNYJPpr4vhbMKQTkqzsTyNEfi3kRCSW1Q3FMPY8HWezsPiuYJP5RBZ9U6mDARWAl](https://www.facebook.com/ConnexionSG/posts/pfbid01UNYJPpr4vhbMKQTkqzsTyNEfi3kRCSW1Q3FMPY8HWezsPiuYJP5RBZ9U6mDARWAl)
