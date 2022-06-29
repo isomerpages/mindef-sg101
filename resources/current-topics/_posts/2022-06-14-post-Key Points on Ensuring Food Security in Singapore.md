@@ -58,7 +58,7 @@ Diversification of our food sources by importing from different countries.
 ![](/images/Picture3.png)
 
 The world on your plate: So where does your food come from?
-https://www.channelnewsasia.com/brandstudio/sgfoodsources
+[https://www.channelnewsasia.com/brandstudio/sgfoodsources](https://www.channelnewsasia.com/brandstudio/sgfoodsources)
 
 We have always recognised our need for self-sufficiency in food production, even as a newly self-governing state.
 [https://www.facebook.com/ConnexionSG/posts/pfbid01UNYJPpr4vhbMKQTkqzsTyNEfi3kRCSW1Q3FMPY8HWezsPiuYJP5RBZ9U6mDARWAl](https://www.facebook.com/ConnexionSG/posts/pfbid01UNYJPpr4vhbMKQTkqzsTyNEfi3kRCSW1Q3FMPY8HWezsPiuYJP5RBZ9U6mDARWAl)
