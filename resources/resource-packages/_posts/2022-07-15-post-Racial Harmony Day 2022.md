@@ -11,4 +11,3 @@ For this year's Racial Harmony Day Package, please download the package using th
 
 Download:
 
-[Racial Harmony Day 2022 Package](/files/packages/2022/Racial%20Harmony%20Day%202022%20Engagement%20Package.pdf)
