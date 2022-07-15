@@ -9,4 +9,6 @@ Every year on 21 Jul, we commemorate Racial Harmony Day to remind ourselves not 
 
 For this year's Racial Harmony Day Package, please download the package using the link below.
 
-[](/files/packages/2022/Racial%20Harmony%20Day%202022%20Engagement%20Package.pdf)
+Download:
+
+[Racial Harmony Day 2022 Package](/files/packages/2022/Racial%20Harmony%20Day%202022%20Engagement%20Package.pdf)
