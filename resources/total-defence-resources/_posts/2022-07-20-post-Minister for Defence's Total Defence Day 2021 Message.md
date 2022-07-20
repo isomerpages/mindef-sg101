@@ -13,6 +13,4 @@ You may view the **Video Recording** and **Transcript** of Minister for Defence'
 
 ****
 
-Download Transcript here: 
-[](/files/Transcript%20-%20Minister%20for%20Defence%20Dr%20Ng%20Eng%20Hen's%202021%20Total%20Defence%20Day%20Message.pdf)
-[Transcript - Minister for Defence's Total Defence Day 2021 Message]()
+Download Transcript here: [Transcript - Minister for Defence Total Defence Day 2021 Message ](/files/Transcript%20-%20Minister%20for%20Defence%20Total%20Defence%20Day%202021%20Message.pdf)
