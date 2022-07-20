@@ -5,7 +5,6 @@ date: 2022-07-20
 layout: post
 description: ""
 ---
-
 You may view the **Video Recording** and **Transcript** of Minister for Defence's Total Defence Day 2022 Message below.
 
 ****
@@ -14,4 +13,4 @@ You may view the **Video Recording** and **Transcript** of Minister for Defence'
 
 ****
 
-Download Transcript here: [Transcript - Minister for Defence's Total Defence Day 2022 Message]()
+Download Transcript here: [Transcript - Minister for Defence Total Defence Day Message.pdf](/files/Transcript%20-%20Minister%20for%20Defence%20Dr%20Ng%20Eng%20Hen's%202022%20Total%20Defence%20Day%20Message.pdf)
