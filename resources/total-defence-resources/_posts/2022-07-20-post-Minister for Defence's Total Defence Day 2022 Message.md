@@ -14,4 +14,3 @@ You may view the **Video Recording** and **Transcript** of Minister for Defence'
 ****
 
 Download Transcript here: [Transcript - Minister for Defence's Total Defence Day 2022 Message]()
-
