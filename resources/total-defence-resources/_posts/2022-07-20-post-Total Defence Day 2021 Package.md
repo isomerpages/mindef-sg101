@@ -12,5 +12,3 @@ In the past year, the world has grappled with the COVID-19 pandemic – Singapor
 Moving forward, Singapore will continue to face different challenges. Hence, it is more important than ever for us to continue putting Total Defence into action.
 
 You may use this engagement package to discuss the relevance of Total Defence and how each of us can play a part in keeping Singapore strong, amidst existing and future challenges.
-
-
