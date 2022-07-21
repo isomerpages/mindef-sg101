@@ -5,6 +5,7 @@ date: 2022-07-20
 layout: post
 description: ""
 ---
+#### Total Defence Day 2021 NE Engagement Package
 Download: [Total Defence 2021 NE Engagement Package.pdf](https://go.gov.sg/td21-ne-engagement-package)
 
 In the past year, the world has grappled with the COVID-19 pandemic – Singapore too was not spared. Amidst the challenging circumstances of the pandemic, Total Defence strengthened our resilience as a nation and a community, and showed how important it is for every one of us to take initiative and be involved. 
