@@ -5,7 +5,7 @@ date: 2022-07-20
 layout: post
 description: ""
 ---
-You may view the **Video Recording** and **Transcript** of Minister for Defence's **Total Defence Day 2022** Message below.
+You may view the Video Recording and Transcript of Minister for Defence's **Total Defence Day 2022** Message below.
 
 ****
 
