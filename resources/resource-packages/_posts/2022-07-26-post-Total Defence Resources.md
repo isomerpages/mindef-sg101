@@ -6,7 +6,7 @@ layout: post
 description: ""
 ---
 This page provides resources on Total Defence which you may find useful for your engagement. 
-****
+
 ### **Total Defence Engagement Packages**
 
 * [Total Defence Day 2022 NE Engagement Package](https://www.sg101.gov.sg/resources/resource-packages/td2022) 
@@ -16,7 +16,7 @@ This page provides resources on Total Defence which you may find useful for your
 ### **Total Defence Day Video Messages**
 
 **Minister for Defence's Total Defence Day 2022 Message**. Download the transcript [here](/files/Transcript%20-%20Minister%20for%20Defence%20Total%20Defence%20Day%202022%20Message.pdf).
-****
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7zzFPeTDa5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
