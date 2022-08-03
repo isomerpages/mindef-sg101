@@ -19,4 +19,4 @@ Each feature of our national flag was carefully chosen from many other alternati
 1959 was when our pioneers started a journey from being Singapore to Singaporean, driven by these ideals. How have we done? #StrongerTogether #Majulah
 
 
-Visit ConnexionSG 
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
