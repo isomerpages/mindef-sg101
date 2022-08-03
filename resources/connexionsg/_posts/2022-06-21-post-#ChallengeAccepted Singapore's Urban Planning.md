@@ -22,3 +22,5 @@ In Apr 2019, then-Minister for National Development Lawrence Wong said, “space
 
 Check out URA's latest 50-year plan [here](https://www.ura.gov.sg/Corporate/Planning/Long-Term-Plan-Review/Space-for-Our-Dreams-Exhibition?fbclid=IwAR30OTARfKh2u20BEfnYAWXFxvaopJZMbdwwgrXCHP-aAZACF_32z1jAZkU).
 
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
