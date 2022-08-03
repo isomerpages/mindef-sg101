@@ -5,6 +5,9 @@ date: 2022-07-21
 layout: post
 description: ""
 ---
+![](/images/connexionsg/2022/racial%20riot.jpg)
+📸: Road block set up by police and soldiers in North Bridge Road Area after a racial riot (24 July 1964); Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
+
 “In teaching the Singapore Story, you will have to deal with delicate issues, especially race and religion, and sometimes relations with our neighbours. We must treat such issues sensitively, but we cannot gloss over them. Amnesia is not an option. We cannot pretend that incidents involving race and religion never happened. They are part of our history.” This was what then-DPM Lee Hsien Loong said at the launch of National Education on 17 May 1997.
 
 The communal riots that broke out on 21 July 1964 between Malays and Chinese during a Muslim procession celebrating the Prophet Muhammad’s birthday was identified as one of the key events that mark defining moments in Singapore’s history. So #onthisday (21 July), we celebrate Racial Harmony Day to remind us of the importance and fragility of racial harmony.
