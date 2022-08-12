@@ -5,7 +5,6 @@ date: 2022-08-09
 layout: post
 description: ""
 ---
-
 Because of who you are, I can be everything I am.
 
 We did it before, and we’ll do it again.
@@ -22,11 +21,8 @@ These lyrics come from a trilogy of NDP songs that took our nation through the g
 
 Happy 57th birthday, Singapore. ❤️
 
-NDP 2022 Theme Song 📹
+NDP 2022 Theme Song 📹: [Listen here](https://www.youtube.com/watch?v=IScTJbj_6kc)
 
-NDP 2021 Theme Song 📹
+NDP 2021 Theme Song 📹: [Listen here](https://www.youtube.com/watch?v=mRc6hsAQePI)
 
-NDP 2020 Theme Song 📹
-
-
-
+NDP 2020 Theme Song 📹: 
