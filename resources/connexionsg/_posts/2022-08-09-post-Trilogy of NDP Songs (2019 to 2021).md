@@ -21,12 +21,11 @@ These lyrics come from a trilogy of NDP songs that took our nation through the g
 
 Happy 57th birthday, Singapore. ❤️
 
-NDP 2021 Theme Song 📹
-
 NDP 2022 Theme Song 📹
 
-NDP 2022 Theme Song ![📹](https://static.xx.fbcdn.net/images/emoji.php/v9/tb8/1.5/16/1f4f9.png): [https://www.youtube.com/watch?v=IScTJbj\_6kc](https://www.youtube.com/watch?v=IScTJbj_6kc&fbclid=IwAR1ikDBDrNuHg8PRUhrQp_CN6rYFG-pSG0CfXrGXmKiRDa83jKE7QBEqaEs)
+NDP 2021 Theme Song 📹
 
-NDP 2021 Theme Song ![📹](https://static.xx.fbcdn.net/images/emoji.php/v9/tb8/1.5/16/1f4f9.png): [https://www.youtube.com/watch?v=mRc6hsAQePI](https://www.youtube.com/watch?v=mRc6hsAQePI&fbclid=IwAR3LBXoeSZ-rO_xXg8PhKJcNtIj1CQzXg5z0UXub_kxw5vkZkSTlqcDv3eY)
+NDP 2020 Theme Song 📹
 
-NDP 2020 Theme Song ![📹](https://static.xx.fbcdn.net/images/emoji.php/v9/tb8/1.5/16/1f4f9.png): [https://www.youtube.com/watch?v=7qetsLTxml0](https://www.youtube.com/watch?v=7qetsLTxml0&fbclid=IwAR20P50gQlIYRcOv8cwQLV4Lc0jQn6hi3ghgwDciva0_ctMPjsJj8-ZpnZM)
+
+
