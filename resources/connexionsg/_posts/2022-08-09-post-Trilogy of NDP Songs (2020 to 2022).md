@@ -28,4 +28,4 @@ NDP 2021 Theme Song 📹: [Spirits Anew](https://www.youtube.com/watch?v=mRc6hsA
 NDP 2020 Theme Song 📹: [Everything I Am](https://www.youtube.com/watch?v=7qetsLTxml0)
 
 
-Visit ConnexionSG 
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
