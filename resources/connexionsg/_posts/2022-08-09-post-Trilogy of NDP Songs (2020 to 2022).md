@@ -21,8 +21,11 @@ These lyrics come from a trilogy of NDP songs that took our nation through the g
 
 Happy 57th birthday, Singapore. ❤️
 
-NDP 2022 Theme Song 📹: [Listen here](https://www.youtube.com/watch?v=IScTJbj_6kc)
+NDP 2022 Theme Song 📹: [Stronger Together](https://www.youtube.com/watch?v=IScTJbj_6kc)
 
-NDP 2021 Theme Song 📹: [Listen here](https://www.youtube.com/watch?v=mRc6hsAQePI)
+NDP 2021 Theme Song 📹: [Spirits Anew](https://www.youtube.com/watch?v=mRc6hsAQePI)
 
-NDP 2020 Theme Song 📹: [Listen here](https://www.youtube.com/watch?v=7qetsLTxml0)
+NDP 2020 Theme Song 📹: [Everything I Am](https://www.youtube.com/watch?v=7qetsLTxml0)
+
+
+Visit ConnexionSG 
