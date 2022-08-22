@@ -14,9 +14,9 @@ Littered with villages and crocodile-infested rivers, Jurong used to be nothing 
 
 It was a risky plan given that Singapore had little experience in creating an industrial town of this size. According to the late Sim Kee Boon, a former Permanent Secretary at various ministries, then-Dr Goh himself admitted that the Jurong project was “an act of faith".
 
-EDB was tasked to transform Jurong into a hub of factories and industrial activities. This mandtae was later passed to Jurong Town Corporation (JTC), which was set up as in 1968.
+EDB was tasked to transform Jurong into a hub of factories and industrial activities. This mandate was later passed to Jurong Town Corporation (JTC), which was set up as in 1968.
 
-The project set out to develop a 9,000 area through land reclamation, resettlement, and infrastructure (roads, power lines, and water) construction. 
+The project set out to develop a 9,000-acre through land reclamation, resettlement, and infrastructure (roads, power lines, and water) construction. 
 
 Though Jurong industrial estate was ready to be launched in 1963, foreign investors were still unsure about Singapore and Jurong. However, EDB's persuasion and tax incentives slowly changed their minds. The first company to set up a factory was the [National Iron and Steel Mills](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2018-11-20_105235.html) in 1964.
 
