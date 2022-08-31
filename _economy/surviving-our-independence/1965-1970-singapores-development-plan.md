@@ -1,6 +1,6 @@
 ---
 title: "1965-1970: Singapore’s Development Plan"
-permalink: /economy/surviving-our-independence/1965-1970
+permalink: /economy/surviving-our-independence/1965-1970/
 third_nav_title: Surviving Our Independence
 ---
 #### 1965-1970: Singapore’s Development Plan
@@ -27,7 +27,7 @@ The economic rationale behind the courting of foreign investors was twofold:
 
 2. Second, our goal was to eventually enable knowledge transfer from foreign companies to local enterprises. This would enable local companies to acquire the necessary technical expertise to start building local industries in the longer term.
  
-Singapore thus pressing ahead with the export-oriented strategy.
+Singapore thus pressed ahead with the export-oriented strategy.
 
 EDB shifted its focus to promoting Singapore as an attractive destination for foreign investment. Its other functions were then transferred to new agencies set up in 1968. For one, initial function of providing financing to companies was hived off to the newly set-up Development Bank of Singapore (DBS). Jurong Town Corporation (JTC) took over the development and management of industrial infrastructure, while EDB's export promotion division was absorbed by Intraco, a government trading company. 
 

@@ -20,6 +20,10 @@ sections:
             url: /infrastructure/ourfundamentals
           - title: Social / National Identity
             url: /social-national-identity/ourfundamentals
+  - resources:
+      title: Latest Resources
+      subtitle: What's New
+      button: More Resources
   - infopic:
       title: COVID-19
       subtitle: Case Studies update
@@ -30,8 +34,4 @@ sections:
       url: /social-national-identity/case-studies/covid19
       image: /images/s_n.png
       alt: Image alt text
-  - resources:
-      title: Latest Resources
-      subtitle: What's New
-      button: More Resources
 ---
