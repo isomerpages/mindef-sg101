@@ -29,4 +29,3 @@ Successful conservation efforts in the 2000s by the National Parks Board (NParks
 However, while local hornbills are no longer hunted for their valuable casques, their survival remain threatened by environmental damage caused due to human activity. There have been recorded cases where hornbills were entangled with discarded fishing lines, leading to their injury and death. Deforestation is also a threat to our hornbills, as lush forests crucial for breeding and survival are cleared for urban development.
 
 As Singapore continues to progress and develop, it is paramount that we maintain a harmonious relationship with our natural environment – that, even as we urbanise, Singapore will still remain a 'City in Nature' that is liveable and sustainable for humans and wildlife alike.
-
