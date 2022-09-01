@@ -13,6 +13,14 @@ description: ""
 
 ![📷 4: The Merdeka Lions are currently placed on both sides of SAFTI MI’s landmark tower (Roots.sg)](/images/connexionsg/2022/M4.jpg)
 
+📷 1: An overhead view of the Kallang Basin and the Merdeka Bridge (Roots.sg)
+
+📷 2: Merdeka Bridge links two sections of the Nicoll Highway (Google Maps)
+
+📷 3: The Merdeka Lions stand at both ends of the Merdeka Bridge (Roots.sg)
+
+📷 4: The Merdeka Lions are currently placed on both sides of steps leading up to the SAFTI MI’s landmark tower of 17 storeys (Roots.sg)
+
 Spanning across the Kallang Basin, near the mouths of the Kallang and Rochor Rivers, is a bridge with a heroic name — the Merdeka Bridge.
 
 It was the first bridge to be built in Singapore after the Japanese Occupation and was named ‘Merdeka Bridge’ to signify our people’s aspirations for independence then, when it was completed in 1956. The Merdeka Bridge may look plain but this was the longest pre-stressed bridge of its kind in Southeast Asia on its completion.
