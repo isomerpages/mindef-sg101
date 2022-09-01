@@ -10,6 +10,14 @@ description: ""
 ![](/images/connexionsg/2022/J3.jpg)
 ![](/images/connexionsg/2022/J4.jpg)
 
+📷 1: An aerial view of the surrounding area of Jurong Town Hall in the 1970s (Periscope: A JTC Magazine)
+
+📷 2: An aerial view of the surrounding area of Jurong Town Hall at present (Periscope: A JTC Magazine)
+
+📷 3: An advertisement of the national design competition on 7 April 1969 (The Straits Times)
+
+📷 4: The exterior view of Jurong Town Hall (URA)
+
 On a hill overlooking the sprawling Jurong estate stands an edifice that looks like a giant ship’s hull, with a mast towering into the sky. This is Jurong Town Hall, one of Singapore’s early Brutalist buildings — an architectural form of massive blocks of raw concrete that gained popularity here as we looked for an international image to project to the world.
 
 Brutalist buildings portray power and functionality through its undecorated structures, as seen in Jurong Town Hall’s huge horizontal blocks and 50-metre tower with a digital clock, once considered to be the largest in Southeast Asia.
