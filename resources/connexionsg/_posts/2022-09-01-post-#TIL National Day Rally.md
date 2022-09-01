@@ -22,9 +22,9 @@ The NDR is commonly seen as one of the most important political messages that ma
 
 Despite its different durations, the NDR remains true to the spirit of the first NDR speech, as laid out in these extracts from 1966:
 
-1) To review how we have done – “I think it is reassuring on an anniversary to weigh the odds to see how we have performed, the promises against the performances.”
+1. To review how we have done – “I think it is reassuring on an anniversary to weigh the odds to see how we have performed, the promises against the performances.”
 
-2) To set direction to build our tomorrow – “This capacity to face up to situations, however intractable, however unpleasant, is one of the great qualities for survival. A people able to look facts squarely in the face, able to calculate the odds, to weigh the chances and then decide to go it, are a people not likely to go under.”
+2.  To set direction to build our tomorrow – “This capacity to face up to situations, however intractable, however unpleasant, is one of the great qualities for survival. A people able to look facts squarely in the face, able to calculate the odds, to weigh the chances and then decide to go it, are a people not likely to go under.”
 
 The NDR 2022 delivered yesterday was Singapore’s 56th. Did you manage to catch it? Read NDR 2022 transcript [here](https://www.pmo.gov.sg/Newsroom/National-Day-Rally-2022-English).
 
