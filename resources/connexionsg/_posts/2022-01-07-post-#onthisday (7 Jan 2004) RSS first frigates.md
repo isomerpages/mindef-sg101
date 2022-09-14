@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: /images/connexionsg/2022/270133068_6758446224197285_9140104582807073476_n.jpg
 ---
-
 #onthisday, 7 Jan, in 2004, the first of the Republic of Singapore Navy's (RSN) six frigates, RSS Formidable, was launched at Direction Des Constructions Navales (DCN) shipyard in Lorient, France.
 
 ![Alt text for image on Isomer site](/images/connexionsg/2022/270133068_6758446224197285_9140104582807073476_n.jpg)
