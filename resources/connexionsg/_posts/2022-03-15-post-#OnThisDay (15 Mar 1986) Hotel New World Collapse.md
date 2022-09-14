@@ -1,10 +1,11 @@
 ---
-title: "#OnThisDay Hotel New World Collapse"
-permalink: /resources/connexionsg/HotelNewWorldCollapse
+title: "#OnThisDay (15 Mar 1986) Hotel New World Collapse"
+permalink: /resources/connexionsg/HotelNewWorldCollapse/
 date: 2022-03-15
 layout: post
 description: ""
 ---
+
 ![Hotel New World Collapse](/images/275559984_7141101412598429_1256638170519355575_n.jpg)
 
 #OnThisDay (15 Mar) in 1986, the Lian Yak Building (commonly known as Hotel New World)— located at the intersection of Owen Road and Serangoon Road — collapsed at approximately 11.15 am. It was considered Singapore’s first major civil disaster, and one of the worst disasters in post-war Singapore.

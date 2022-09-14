@@ -1,10 +1,11 @@
 ---
-title: "#OnThisDay Registration of IC"
-permalink: /resources/connexionsg/RegistrationofIC
+title: "#OnThisDay (9 May 1966) Registration of IC"
+permalink: /resources/connexionsg/RegistrationofIC/
 date: 2022-05-09
 layout: post
 description: ""
 ---
+
 ![](/images/Registration%20of%20IC.png)
 
 #OnThisDay (9 May) in 1966, Singaporeans began registering for pink and blue identity cards, after the National Registration Act of 1965 took effect a few days before.

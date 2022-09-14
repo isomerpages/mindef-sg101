@@ -1,10 +1,11 @@
 ---
-title: "#OnThisDay Labour Day"
-permalink: /resources/connexionsg/LabourDay
+title: "#OnThisDay (1 May 1960) Labour Day"
+permalink: /resources/connexionsg/LabourDay/
 date: 2022-05-01
 layout: post
 description: ""
 ---
+
 ![](/images/279069978_7362538277121407_266671574425422622_n.jpg)
 📷: 2016 May Day Rally at Downtown East
 

@@ -1,10 +1,11 @@
 ---
-title: "#OnThisDay SQ117 Hijack"
-permalink: /resources/connexionsg/SQ117Hijack
+title: "#OnThisDay (26 Mar 1991) SQ117 Hijack"
+permalink: /resources/connexionsg/SQ117Hijack/
 date: 2022-03-26
 layout: post
 description: ""
 ---
+
 ![](/images/SQ117-Recovered.jpg)
 
 #onthisday (26 Mar) in 1991, Singapore Airlines flight SQ117 took off from Subang Internal Airport in Kuala Lumpur for Singapore. 

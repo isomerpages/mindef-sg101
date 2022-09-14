@@ -1,6 +1,6 @@
 ---
-title: "#onthisday RSS first frigates"
-permalink: /resources/connexionsg/rssformidable
+title: "#onthisday (7 Jan 2004) RSS first frigates"
+permalink: /resources/connexionsg/rssformidable/
 date: 2022-01-07
 layout: post
 description: ""
