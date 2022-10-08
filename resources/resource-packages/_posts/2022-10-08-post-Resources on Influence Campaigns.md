@@ -10,7 +10,7 @@ This page provides resources on Influence Campaigns which you may find useful fo
 
 #### **Video on Sovereignty of Small States**
 
-**Introduction to understanding the sovereignty of small states**.
+**Introduction to understanding the sovereignty of small states**. Download the discusssion package [here]().
 
 
 
