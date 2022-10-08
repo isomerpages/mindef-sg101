@@ -8,18 +8,18 @@ image: ""
 ---
 This page provides resources on Influence Campaigns which you may find useful for your engagement.
 
-#### **Video on Sovereignty of Small States**
+#### **Useful video on Sovereignty of Small States**
 
-**Introduction to understanding the sovereignty of small states**. Download the discusssion package [here]([](/files/Discussion%20Package%20on%20The%20Sovereignty%20of%20Small%20States(1).pdf)).
+**Introduction to understanding why sovereignty matters to small states**. Download the discusssion package [here]([](/files/Discussion%20Package%20on%20The%20Sovereignty%20of%20Small%20States(1).pdf)).
 
 
 
 
 ****
 
-#### **Video on Influence Campaigns**
+#### **Useful video on Influence Campaigns**
 
-**Introduction to understanding influence campaigns and the impact on a country and its society**.
+**Introduction to understanding what influence campaigns are and the impact on a country and its society**.
 
 
 
@@ -27,3 +27,4 @@ This page provides resources on Influence Campaigns which you may find useful fo
 ****
 
 #### **More resources on Influence Campaigns**
+
