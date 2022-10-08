@@ -18,11 +18,8 @@ Download the discusssion package [here]([](/files/Discussion%20Package%20on%20Th
 
 
 
-****
 
-#### **Useful video on Influence Campaigns**
-
-**Introduction to understanding what influence campaigns are and the impact on a country and its society**.
+**Introduction to understanding what influence campaigns are and the impact on a country and its society**. Every nation must make their own choices to determine their destiny. How will these choices play out on the world stage? Countries may align their interests, come to a conflict or even seek to influence one another. Bilahari Kausikan shares his thoughts on what happens when larger nations seek to change what we want for ourselves.
 
 
 
