@@ -27,4 +27,3 @@ This page provides resources on Influence Campaigns which you may find useful fo
 ****
 
 #### **More resources on Influence Campaigns**
-
