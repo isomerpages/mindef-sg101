@@ -12,3 +12,13 @@ This page provides resources on Influence Campaigns which you may find useful fo
 
 **Introduction to understanding the sovereignty of small states**.
 
+
+
+
+****
+
+#### **Video on Influence Campaigns**
+
+**Introduction to understanding influence campaigns and the impact on a country and its society**.
+
+
