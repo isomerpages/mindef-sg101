@@ -19,6 +19,12 @@ This page provides resources on Influence Campaigns which you may find useful fo
 
 #### **Video on Influence Campaigns**
 
-**Introduction to understanding influence campaigns and the impact on a country and its society**. 
+**Introduction to understanding influence campaigns and the impact on a country and its society**.
 
+
+
+
+****
+
+#### **More resources on Influence Campaigns**
 
