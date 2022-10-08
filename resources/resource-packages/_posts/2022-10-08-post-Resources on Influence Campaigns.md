@@ -15,7 +15,7 @@ This page provides resources on Influence Campaigns which you may find useful fo
 
 Download the discusssion package [here]([](/files/Discussion%20Package%20on%20The%20Sovereignty%20of%20Small%20States(1).pdf)).
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dVdaHPbGpLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
