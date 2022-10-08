@@ -26,9 +26,14 @@ Download the discusssion package [here]([](/files/Discussion%20Package%20on%20Th
 
 ****
 
-#### **More NE Resources on Influence Campaigns**
+#### **Information on Countering Foreign Interference in Singapore**
 
-You may find more NE resources on Influence Campaigns below. 
+You may find more resources on Influence Campaigns and how Singapore counters foreign interference at [https://www.mha.gov.sg/fica ](https://www.mha.gov.sg/fica ). 
+
+
+****
+
+#### **Other Useful NE Resources on Influence Campaigns**
 
 **3/22 NE Insights on Disinformation and Influence Campaigns**. In this issue of NE Insights, we take a look at how Singapore’s small size, hyper-connectivity, and multi-religious society make us a vulnerable target for disinformation and influence campaigns, and how we, as Singaporeans, can safeguard ourselves against this threat. 
 
@@ -37,7 +42,3 @@ Download the package:
 [03/22 NE Insights on Disinformation and Influence Campaigns](/files/03_22%20NE%20Insights%20on%20Disinformation%20and%20Influence%20Campaigns.pdf)
 
 [Slides on Disinformation and Influence Campaigns](/files/Slides%20on%20Disinformation%20and%20Influence%20Campaigns_.pdf)
-
-
-
-For more information on countering foreign interference, go to: [https://www.mha.gov.sg/fica ](https://www.mha.gov.sg/fica )
