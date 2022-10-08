@@ -27,7 +27,7 @@ Download the discusssion package [here]([](/files/Discussion%20Package%20on%20Th
 
 #### **Information on Countering Foreign Interference in Singapore**
 
-You may find more resources on Influence Campaigns and how Singapore counters foreign interference at [https://www.mha.gov.sg/fica ](https://www.mha.gov.sg/fica ). 
+You may find more resources on influence campaigns and how Singapore counters foreign interference at [https://www.mha.gov.sg/fica ](https://www.mha.gov.sg/fica ). 
 
 
 ****
