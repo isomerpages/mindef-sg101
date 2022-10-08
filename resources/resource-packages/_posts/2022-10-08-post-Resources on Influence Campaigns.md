@@ -8,9 +8,12 @@ image: ""
 ---
 This page provides resources on Influence Campaigns which you may find useful for your engagement.
 
-#### **Useful video on Sovereignty of Small States**
+#### **Useful videos**
 
-**Introduction to understanding why sovereignty matters to small states**. Download the discusssion package [here]([](/files/Discussion%20Package%20on%20The%20Sovereignty%20of%20Small%20States(1).pdf)).
+**Introduction to understanding why sovereignty matters to small states**. 
+"If they are bigger, we have to do what they say, right?" "What chance do we have when we are small?" In a world that is increasingly chaotic, how do small countries survive or even thrive? How should we see ourselves as we face the interests of larger countries? Bilahari Kausikan shares his thoughts on how Singapore can find her place in the world. He is Singapore's former Ambassador to Russia and Finland. He also served as Singapore's Permanent Representative to the United Nations.
+
+Download the discusssion package [here]([](/files/Discussion%20Package%20on%20The%20Sovereignty%20of%20Small%20States(1).pdf)).
 
 
 
