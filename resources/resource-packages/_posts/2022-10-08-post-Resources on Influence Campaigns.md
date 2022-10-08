@@ -8,5 +8,5 @@ image: ""
 ---
 This page provides resources on Influence Campaigns which you may find useful for your engagement.
 
-#### **Introduction: Sovereignty of Small States**
+#### **Video on Sovereignty of Small States**
 
