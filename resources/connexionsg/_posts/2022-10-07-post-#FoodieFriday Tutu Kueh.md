@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2022/Tutu%20Kueh.png)
+![](/images/connexionsg/2022/tutu%20kueh.png)
 
 What’s your favourite sweet treat?  
   
