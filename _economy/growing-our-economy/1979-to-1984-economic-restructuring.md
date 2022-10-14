@@ -1,11 +1,11 @@
 ---
 title: "1979 to 1984: Economic Restructuring"
-permalink: /economy/growing-our-economy/1979
+permalink: /economy/growing-our-economy/1979/
 third_nav_title: Growing Our Economy
 ---
 #### 1979 to 1984: Economic Restructuring
 
-By the late 1970s, more capital-intensive industries had been set up in Singapore. While Signapore was successful in using incentives to attract foreign investors and companies, the pace of growth was not quick enough.
+By the late 1970s, more capital-intensive industries had been set up in Singapore. While Singapore was successful in using incentives to attract foreign investors and companies, the pace of growth was not quick enough.
 
 **1979: Three-Year Corrective Wage Policy**
 
