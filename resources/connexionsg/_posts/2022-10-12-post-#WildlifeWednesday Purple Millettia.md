@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2022/purple%20milletia.png)
+![](/images/connexionsg/2022/purple%20millletia.png)
 
 You may have noticed scatterings of seeds and seed pods on pathways in parks or on the roadside. These seeds and seed pods actually belong to the Purple Millettia (Callerya atropurpurea), a tropical tree commonly grown in Southeast Asia. When the flowers mature, the seed pods burst open and scatter their seeds in a small area.
 
