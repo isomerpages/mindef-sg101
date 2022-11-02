@@ -1,0 +1,4 @@
+collections:
+  ne-initiatives:
+    output: true
+    order: []
