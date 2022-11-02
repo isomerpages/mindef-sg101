@@ -14,5 +14,8 @@ links:
     resource_room: true
   - title: NE Initiatives
     collection: defence-and-security
+  - title: NE Initiatives (N)
+    url: /NEInitiatives
+    sublinks: []
   - title: Contact Us
     url: /contact-us/
