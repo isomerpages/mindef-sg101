@@ -1,6 +1,6 @@
 ---
 title: Total Defence Sandbox
-permalink: /ne-initiatives/TotalDefenceSandbox/
+permalink: /TDSandbox/
 description: ""
 ---
 ![](/images/TD%20Sandbox%20Logo.png)

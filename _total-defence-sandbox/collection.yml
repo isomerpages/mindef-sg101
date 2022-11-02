@@ -1,5 +1,5 @@
 collections:
-  ne-initiatives:
+  total-defence-sandbox:
     output: true
     order:
       - Total Defence Sandbox.md
