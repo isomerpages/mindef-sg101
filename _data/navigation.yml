@@ -13,9 +13,9 @@ links:
   - title: Resources
     resource_room: true
   - title: NE Initiatives
-    collection: defence-and-security
-  - title: NE Initiatives (N)
     url: /NEInitiatives
-    sublinks: []
+    sublinks:
+      - title: Total Defence Sandbox
+        url: /TDSandbox
   - title: Contact Us
     url: /contact-us/
