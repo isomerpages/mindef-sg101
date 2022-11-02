@@ -19,7 +19,7 @@ The Total Defence Sandbox seeks ground-up innovation from Singaporeans especiall
 
 An example as follows:
 
-**Issue: Hybrid Threats and Emerging Challenges in Singapore**
+**Issue:  Hybrid Threats and Emerging Challenges in Singapore**
 
 The nature of threats is constantly evolving. Other than traditional security threats (e.g. territorial tensions, terrorism and piracy), there are emerging ones where Singapore’s vulnerabilities could be easily exploited without the need for military conflict (e.g. cyberattacks, misinformation and fake news – social media and digital platforms being major channels of influence where there are no boundaries). 
 
@@ -85,4 +85,4 @@ Yes, you can.
 
 
 #### About the Organiser
-The Total Defence Sandbox is organised by Nexus, MINDEF. Nexus is the branch that oversees both National Education and Total Defence and seeks to deepen Singaporeans’ commitment to Singapore through fostering a strong sense of identity and a deeper understanding of our shared challenges and hopes. This is done by providing opportunities to Singaporeans to think about who we are as Singaporeans and the expression of thoughts through creative means such as filmmaking, animation and gaming. 
+The Total Defence Sandbox is organised by Nexus, MINDEF. Nexus is the branch that oversees both National Education and Total Defence and seeks to deepen Singaporeans’ commitment to Singapore through fostering a strong sense of identity and a deeper understanding of our shared challenges and hopes. This is done by providing opportunities to Singaporeans to think about who we are as Singaporeans and the expression of thoughts through creative means such as filmmaking, animation and gaming.
