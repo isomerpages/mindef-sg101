@@ -3,7 +3,6 @@ title: Total Defence Sandbox
 permalink: /TDSandbox/
 description: ""
 ---
-
 ![](/images/TD%20Sandbox%20Logo.png)
 
 ##### The Total Defence Sandbox is calling ideas from now until 30 Nov 2022, 2359HRS!
