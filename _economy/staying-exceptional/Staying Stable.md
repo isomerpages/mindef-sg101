@@ -93,3 +93,5 @@ Such a stance continues to be necessary because:
 * Our ageing population will have implications on the workforce and the economy. [By 2030](https://www.todayonline.com/singapore/elderly-make-almost-half-spore-population-2050-united-nations), one in four Singaporeans will be 65 years old and older, compared to one in eight in 2018.
 
 [![](/images/Labour%20Policies.png)](/economy/Case-Studies/Sustainable-Inclusive-Labour-Policies/)
+
+[![](/images/Green%20Economy.png)](/economy/case-studies/growing-sg-green-economy/)
