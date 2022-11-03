@@ -8,7 +8,7 @@ third_nav_title: Case Studies
 
 #### Singapore's Food Challenge
 
-<i>3 minute read</i>
+<i>7 minute read</i>
 
 Over 90% of [Singapore’s food](http://www.channelnewsasia.com/brandstudio/sgfoodsources) comes from some 170 countries and regions. This reliance on food imports leaves us exposed to external forces – from supply shocks in source countries to disruptions in global supply chains. Climate change, which brings with it the loss of arable land and more erratic weather patterns, will put more strain on global food supply. 
 
