@@ -57,6 +57,10 @@ These efforts have entrenched Singapore’s position as a resilient and reliable
 
 ![](/images/PM%20Lee%20at%20NDR%202022_Global%20City.png)
 
+[![](/images/SS%20Chain%20Resilience.png)](/economy/case-studies/strategies-for-ss-chain-resilience/)
+
+[![](/images/Food%20Challenge.png)](/economy/Case-Studies/SG-food-challenge/)
+
 #### Developing Sustainably
 
 Sustainable development refers to a kind of development that “meets the needs of the present without compromising the ability of future generations to meet their own needs”, according to the 1987 Brundtland Report, a landmark report that set out the impact profit-led capitalism had on communities and the environment.
@@ -87,3 +91,5 @@ Such a stance continues to be necessary because:
 *   Singapore will need to align our economic development plans with our international obligations, including the targets outlined in our [pledge](https://www.nccs.gov.sg/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore.pdf) to cut emissions intensity by 36% from 2005 levels by 2030. For a country with limited renewable energy options, meeting them will require collective and serious action by the government, businesses, households, and individuals. 
   
 * Our ageing population will have implications on the workforce and the economy. [By 2030](https://www.todayonline.com/singapore/elderly-make-almost-half-spore-population-2050-united-nations), one in four Singaporeans will be 65 years old and older, compared to one in eight in 2018.
+
+[undefined](/economy/Case-Studies/Sustainable-Inclusive-Labour-Policies/)
