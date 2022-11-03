@@ -66,7 +66,6 @@ Sustainable development refers to a kind of development that “meets the needs 
 In September 2015, Singapore, together with other world leaders, adopted a framework based on UN’s 2030 Agenda for Sustainable Development, a blueprint that lays out [17 Sustainable Development Goals](https://sdgs.un.org/goals) (SDGs) and 169 targets for a more sustainable future. This includes mobilising efforts to end poverty, fight inequalities, and tackle climate change.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0XTBYMfZyrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-(Video: "Do you know all 17 SDGs?" by the United Nations)
 
 For a small country with limited land and no natural resources, sustainable development matters. Singapore has designed policies with an eye on long-term sustainability, built on the belief that economic development and environmental considerations are not contradictory, but complementary. 
 
