@@ -56,3 +56,34 @@ Changi Airport – one of Asia’s largest cargo airports, even during COVID-19,
 These efforts have entrenched Singapore’s position as a resilient and reliable node in the global supply chain, even in times of crisis. This is a critical element in upholding our reputation as a trusted hub and responsible stakeholder in the international community.</p></div>
 
 ![](/images/PM%20Lee%20at%20NDR%202022_Global%20City.png)
+
+#### Developing Sustainably
+
+Sustainable development refers to a kind of development that “meets the needs of the present without compromising the ability of future generations to meet their own needs”, according to the 1987 Brundtland Report, a landmark report that set out the impact profit-led capitalism had on communities and the environment.
+
+  
+In September 2015, Singapore, together with other world leaders, adopted a framework based on UN’s 2030 Agenda for Sustainable Development, a blueprint that lays out [17 Sustainable Development Goals](https://sdgs.un.org/goals) (SDGs) and 169 targets for a more sustainable future. This includes mobilising efforts to end poverty, fight inequalities, and tackle climate change.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0XTBYMfZyrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(Video: "Do you know all 17 SDGs?" by the United Nations)
+
+For a small country with limited land and no natural resources, sustainable development matters. Singapore has designed policies with an eye on long-term sustainability, built on the belief that economic development and environmental considerations are not contradictory, but complementary. 
+
+<div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
+<p>For example, despite competing demands for funding, Singapore made early investments in environmental infrastructure in the post-independence years. We moved very pollutive industries away from residential areas in the 1970s, and in the early-2000s, switched from oil to natural gas, the cleanest form of fossil fuel, for power generation. Today, natural gas generates 95% of our electricity.  </p></div>
+ 
+To ensure sustainable growth, Singapore operates with careful long-term planning. We optimise the use of resources to add value to the production of goods and services, always looking for ways to stay relevant to the rest of the world. 
+
+Such a stance continues to be necessary because:
+
+* The growing world population is likely to lead to higher demand and competition for resources such as energy, water, and food. This could spell upward pressure on the prices of these limited resources. 
+
+*   Singapore’s demand for resources could become unsustainable if no action is taken to change current trajectories. For example, Semakau Landfill is projected to run out of space by 2035. With demand for water expected to double by 2060, we could also face water constraints. 
+
+*   Climate change is an existential threat. Singapore remains particularly vulnerable to extreme weather patterns and rising sea levels as a low-lying island city-state.
+
+*   The need to balance land use needs may lead to difficult trade-offs between redevelopment and heritage preservation, as well as efforts to protect our biodiversity. 
+    
+*   Singapore will need to align our economic development plans with our international obligations, including the targets outlined in our [pledge](https://www.nccs.gov.sg/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore.pdf) to cut emissions intensity by 36% from 2005 levels by 2030. For a country with limited renewable energy options, meeting them will require collective and serious action by the government, businesses, households, and individuals. 
+  
+* Our ageing population will have implications on the workforce and the economy. [By 2030](https://www.todayonline.com/singapore/elderly-make-almost-half-spore-population-2050-united-nations), one in four Singaporeans will be 65 years old and older, compared to one in eight in 2018.
