@@ -54,9 +54,9 @@ These efforts have entrenched Singapore’s position as a resilient and reliable
 
 ![](/images/PM%20Lee%20at%20NDR%202022_Global%20City.png)
 
-[![](/images/SS%20Chain%20Resilience.png)](/economy/case-studies/strategies-for-ss-chain-resilience/)
+[![](/images/SS%20Chain.gif)](/economy/case-studies/strategies-for-ss-chain-resilience/)
 
-[![](/images/Food%20Challenge.png)](/economy/Case-Studies/SG-food-challenge/)
+[![](/images/Food.gif)](/economy/Case-Studies/SG-food-challenge/)
 
 #### Developing Sustainably
 
@@ -88,6 +88,6 @@ Such a stance continues to be necessary because:
   
 * Our ageing population will have implications on the workforce and the economy. [By 2030](https://www.todayonline.com/singapore/elderly-make-almost-half-spore-population-2050-united-nations), one in four Singaporeans will be 65 years old and older, compared to one in eight in 2018.
 
-[![](/images/Labour%20Policies.png)](/economy/Case-Studies/Sustainable-Inclusive-Labour-Policies/)
+[![](/images/Labour%20Policies.gif)](/economy/Case-Studies/Sustainable-Inclusive-Labour-Policies/)
 
-[![](/images/Green%20Economy.png)](/economy/case-studies/growing-sg-green-economy/)
+[![](/images/Green.gif)](/economy/case-studies/growing-sg-green-economy/)
