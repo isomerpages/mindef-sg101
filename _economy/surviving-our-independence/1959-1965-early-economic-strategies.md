@@ -66,7 +66,4 @@ In addition, Singapore's union with Malaysia was also troubled from the start.
 
 The political, social and economic difficulties of the merger led to a momentous decision. Expelled from Malaysia on 9th August 1965, Singapore was on our own. We no longer had a common market of 12 million consumers to support our growth. With no natural resources, a tiny population and rising unemployment, Singapore’s leaders were faced with a dire situation.
 
-![Alt text for image on Isomer site](/images/economy/straitstimes_19650810_0001-1024x649.jpg)
-(Image: Reproduced from The Straits Times, 10 August 1965, p.1 via [Biblioasia](http://www.nlb.gov.sg/biblioasia/2019/01/23/looking-back-at-700-years-of-singapore/))
-
 ![Alt text for image on Isomer site](/images/More_Separation%20Agreement.gif)
