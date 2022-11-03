@@ -36,9 +36,6 @@ Other supply chain risks include raw materials shortages, regulations, industria
 
 Therefore, Singapore must keep open and maintain connectivity while ensuring that our supply chains are robust and resilient.
 
-<div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
-<p>
-
 **How COVID-19 exposed the fragility of global supply chains** 
 
 When China – known as “the world’s factory” for manufacturing a third of global output – first went into lockdown during the early phase of the COVID-19 outbreak in 2020, manufacturers around the world struggled to adapt and find new suppliers. The production of certain goods, such as [electronic components](https://www.npr.org/2020/02/14/806155636/coronavirus-is-shuttering-chinese-factories-and-affecting-global-manufacturing) and [personal protective equipment](https://www.who.int/news/item/03-03-2020-shortage-of-personal-protective-equipment-endangering-health-workers-worldwide), stalled. 
@@ -53,7 +50,7 @@ Our port is connected to 600 ports in over 120 countries and handles one-seventh
 
 Changi Airport – one of Asia’s largest cargo airports, even during COVID-19, with an annual handling capacity of 3 million tonnes of cargo – has also been supporting the movement of goods over the air. To help ease the disruptions to the global supply chain, airlines repurposed some of their passenger aircraft to carry cargo. Between April and December 2020, [more than 50 passenger airlines](https://www.changiairport.com/corporate/media-centre/changijourneys/faces-of-changi/CargoInterview.html) operated flights into Singapore, transporting cargo to about 90 cities globally.
 
-These efforts have entrenched Singapore’s position as a resilient and reliable node in the global supply chain, even in times of crisis. This is a critical element in upholding our reputation as a trusted hub and responsible stakeholder in the international community.</p></div>
+These efforts have entrenched Singapore’s position as a resilient and reliable node in the global supply chain, even in times of crisis. This is a critical element in upholding our reputation as a trusted hub and responsible stakeholder in the international community.
 
 ![](/images/PM%20Lee%20at%20NDR%202022_Global%20City.png)
 
