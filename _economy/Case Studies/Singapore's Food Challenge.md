@@ -46,4 +46,4 @@ With help from SFA, local companies have exported their urban food solutions ove
 ![](/images/PM%20Lee%20at%20NDR%202022_Preparedness.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k-3ebN05wjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-(Video: "Singapore has built food resilience with buffer stocks, diversified sources: PM Lee" by CNA)
+(Video: “Singapore has built food resilience with buffer stocks, diversified sources: PM Lee” by CNA)
