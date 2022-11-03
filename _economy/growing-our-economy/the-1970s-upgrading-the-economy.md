@@ -1,12 +1,12 @@
 ---
 title: "The 1970s: Upgrading the Economy"
-permalink: /economy/growing-our-economy/1970
+permalink: /economy/growing-our-economy/1970/
 third_nav_title: Growing Our Economy
 ---
 ## Growing Our Economy
 #### The 1970s: Upgrading the Economy
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/02a_19980000707_-_0025-lr_qdsqz3o.jpg)
-Image: [PSD](https://www.psd.gov.sg/heartofpublicservice/our-institutions/making-a-living-ensuring-growth/)
+(Image: [Public Service Division](https://www.psd.gov.sg/heartofpublicservice/our-institutions/making-a-living-ensuring-growth/))
 
 Singapore successfully industrialised from the 1960s, leading to strong economic growth in the following years. 
 
