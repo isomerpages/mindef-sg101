@@ -1,6 +1,6 @@
 ---
 title: Staying Nimble and Adaptable to Change
-permalink: /economy/staying-exceptional/stayingnimble
+permalink: /economy/staying-exceptional/stayingnimble/
 third_nav_title: Staying Exceptional
 ---
 #### Staying Nimble and Adaptable to Change
@@ -44,7 +44,27 @@ To help companies transform, Singapore has rolled out Industry Transformation Ma
 <p>Business associations are partnering the government and the unions to carry out the work the ITMs rolled out so far. </p>
 </div>
 
-**Conclusion**
+#### The New Normal
+
+In the recent years, international economic conditions have changed. 
+
+The COVID-19 pandemic triggered unprecedented challenges worldwide, and governments and observers around the world believe its economic impact will be lasting. There will be structural shifts – in global trade, investments, right down to jobs – that will transform how industries and markets run in a post-COVID world. As Prime Minister Lee Hsien Loong put it in his [May Day 2020 message](https://sg.news.yahoo.com/covid-19-to-have-major-longterm-impact-on-singapores-economy-pm-lee-114615905.html): 
+
+> “Some industries will be disrupted permanently. Companies will have to change their business models to survive. Some jobs will simply disappear. Workers in these industries will have to re-skill themselves, to take up jobs in new sectors.”
+> 
+> “But there will also be new opportunities, and new jobs created too. For instance, during the circuit breaker, people have adjusted. We have learnt to telecommute and work with others virtually. Students are getting used to online learning. And more people are buying things online and making e-payments.” 
+
+As we adapt and get more accustomed to working and learning from remotely, for instance, the way companies and employees operate in the future can change. The same goes with how we now consult a doctor through telemedicine, or use delivery services, which is increasingly becoming an integral part of life. 
+
+But it is not just the COVID-19 pandemic, or even the war in Ukraine. As PM Lee also said at the [National Day Rally 2022](https://www.pmo.gov.sg/Newsroom/National-Day-Rally-2022-English)”: 
+
+> “The recent decades were an exceptional period. China’s economy was growing exponentially, and exporting more and more goods at highly competitive prices all over the world…This era is now over.
+> 
+> “Some countries have raised tariffs against each other, particularly between the US and China. Countries are also relooking at their supply chains to prioritise resilience and self-sufficiency.” 
+
+For Singapore to stay relevant and exceptional, it is important that we become more productive and competitive – to press on with economic upgrading and restructuring; redouble transformation efforts; and have workers upgrade their skills at every opportunity.
+
+### Conclusion
 
 In the 2011 book *Hard Truths*, former Prime Minister Lee Kuan Yew was asked what it will take for Singapore to survive, given the rising challenges that Singapore face.
 
