@@ -10,14 +10,14 @@ In 1959, Singapore achieved self-governance after years of struggle. The Peopleâ
 
 #### 1959-1965: Early Economic Strategies
 ![Alt text for image on Isomer site](/images/economy/Screenshot%202020-10-28.png)
-Image: A scene of a typical squalid side street in the Central Area; HDB Annual Report 1965; [BookSG](https://eresources.nlb.gov.sg/printheritage/detail/daa435c7-799e-4a0c-9ee4-376a31ab9f4a.aspx)
+(Image: A scene of a typical squalid side street in the Central Area; HDB Annual Report 1965; [BookSG](https://eresources.nlb.gov.sg/printheritage/detail/daa435c7-799e-4a0c-9ee4-376a31ab9f4a.aspx))
 
-The new government faced huge problems almost immediately. While Singapore had recovered from the devastation of World War II, the country was derelict: the city centre was overcrowded, buildings were deteriorating, and nearly 70 per cent of the population lived in slums. Moreover, the economy was largely trade-based. As there was hardly any local industry to create meaningful jobs for a growing population, unemployment rate was in the double digits.
+The new government faced huge problems almost immediately. While Singapore had recovered from the devastation of World War II, the country was derelict: the city centre was overcrowded, buildings were deteriorating, and nearly 70% of the population lived in slums. Moreover, the economy was largely trade-based. As there was hardly any local industry to create meaningful jobs for a growing population, unemployment rate was in the double digits.
 
 The economy thus became a key priority. The founding leaders of Singapore had in place two key economic strategies: rapid industrialisation and merger with the Federation of Malaya, North Borneo, and Sarawak.
 
 ![Alt text for image on Isomer site](/images/economy/1320585.jpg)
-(Image: Map of Malaysia, 1963-1965; NMS via [Roots.sg](https://www.roots.gov.sg/Collection-Landing/listing/1320585))
+(Image: Map of Malaysia, 1963-1965; National Museum of Singapore via [Roots.sg](https://www.roots.gov.sg/Collection-Landing/listing/1320585))
 
 #### 1961: A Plan for Rapid Industralisation
 
@@ -67,6 +67,6 @@ In addition, Singapore's union with Malaysia was also troubled from the start.
 The political, social and economic difficulties of the merger led to a momentous decision. Expelled from Malaysia on 9th August 1965, Singapore was on our own. We no longer had a common market of 12 million consumers to support our growth. With no natural resources, a tiny population and rising unemployment, Singaporeâ€™s leaders were faced with a dire situation.
 
 ![Alt text for image on Isomer site](/images/economy/straitstimes_19650810_0001-1024x649.jpg)
-Image: Reproduced from The Straits Times, 10 August 1965, p.1 via [Biblioasia](http://www.nlb.gov.sg/biblioasia/2019/01/23/looking-back-at-700-years-of-singapore/)
+(Image: Reproduced from The Straits Times, 10 August 1965, p.1 via [Biblioasia](http://www.nlb.gov.sg/biblioasia/2019/01/23/looking-back-at-700-years-of-singapore/))
 
 ![Alt text for image on Isomer site](/images/More_Separation%20Agreement.gif)
