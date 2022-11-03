@@ -1,6 +1,6 @@
 ---
 title: "1986 to 1996: Rebounding into a Decade of Growth"
-permalink: /economy/growing-our-economy/1986
+permalink: /economy/growing-our-economy/1986/
 third_nav_title: Growing Our Economy
 ---
 #### 1986 to 1996: Rebounding into a Decade of Growth
@@ -26,7 +26,7 @@ Throughout the 1980s and 90s, Singapore also intensified its efforts to develop 
 **Growing the Tourism Sector**
 
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/1186518.jpg)
-Image: Indoor Stadium and National Stadium in the early 1990s; [Roots.sg](https://www.roots.gov.sg/Collection-Landing/listing/1186518))
+(Image: Indoor Stadium and National Stadium in the early 1990s; [Roots.sg](https://www.roots.gov.sg/Collection-Landing/listing/1186518))
 
 In 1981, the government identified the tourism industry as one of the pillars of growth in its 10-year economic development plan. In 1984, a tourism task force headed by then Minister of State for Trade and Industry Wong Kwei Cheong was convened to look at revitalising and promoting Singapore as a major tourist destination. 
 
@@ -52,7 +52,7 @@ For one, the government embarked on an ambitious plan to develop a petrochemical
 **Developing an External Wing**
 
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/Screenshot%202020-10-22%20at.png)
-Image: Suzhou Industrial Park; [Surbana Jurong](https://surbanajurong.com/sector/china-singapore-suzhou-industrial-park/)
+(Image: Suzhou Industrial Park; [Surbana Jurong](https://surbanajurong.com/sector/china-singapore-suzhou-industrial-park/))
 
 Up till the 1990s, Singapore's focus had been on bringing in foreign investment, and not on outward investments from Singapore. 
 
@@ -69,7 +69,7 @@ Up till the 1990s, Singapore's focus had been on bringing in foreign investment,
 Hence, throughout the 1990s, Singapore's government and our firms made investments across the region from China to Malaysia to Indonesia. In China, we started our first government-to-government project, the Suzhou Industrial Park, and later Tianjin Eco-City. In Indonesia, Singapore companies helped to set up Batamindo Industrial Park and the Bintan Industrial Estate.
 
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/page_91_-_wto_ministerial_conference-mr.jpg)
-Image: [PSD](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/)
+(Image: [Public Service Division](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/))
 
 **Free Trade Agreements (FTAs)**
 
