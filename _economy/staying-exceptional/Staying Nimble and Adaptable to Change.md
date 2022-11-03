@@ -56,7 +56,7 @@ The COVID-19 pandemic triggered unprecedented challenges worldwide, and governme
 
 As we adapt and get more accustomed to working and learning from remotely, for instance, the way companies and employees operate in the future can change. The same goes with how we now consult a doctor through telemedicine, or use delivery services, which is increasingly becoming an integral part of life. 
 
-But it is not just the COVID-19 pandemic, or even the war in Ukraine. As PM Lee also said at the [National Day Rally 2022](https://www.pmo.gov.sg/Newsroom/National-Day-Rally-2022-English)”: 
+But it is not just the COVID-19 pandemic, or even the war in Ukraine. As PM Lee also said at the [National Day Rally 2022](https://www.pmo.gov.sg/Newsroom/National-Day-Rally-2022-English): 
 
 > “The recent decades were an exceptional period. China’s economy was growing exponentially, and exporting more and more goods at highly competitive prices all over the world…This era is now over.
 > 

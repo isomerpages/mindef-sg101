@@ -26,6 +26,9 @@ Singapore has been diversifying import sources to minimise the impact of supply 
 
 Having a diversified network of food sources proved to be crucial in tiding us over challenges that came with the COVID-19 pandemic. As countries went into lockdowns or banned certain exports to cater to their domestic needs, SFA tapped its source network. In June 2020, Singapore received the first batch of eggs from Poland. Today, we also import oranges from Egypt, milk powder from Uruguay, and shrimps from Saudi Arabia, as part of [efforts to broaden food supplies](https://www.businesstimes.com.sg/consumer/singapore-diversifies-food-supplies-with-saudi-shrimps-and-polish-eggs). This has allowed Singaporeans to enjoy steady access to food supplies despite disruptions from regular suppliers.
 
+![](/images/Min%20CCS_food%20resilience.png)
+(Image: Screenshot of [Minister Chan Chun Sing's Facebook post](https://www.facebook.com/ChanChunSing.SG/posts/3041790732539556), 16 March 2020)
+
 ##### Basket 2: Grow local
 
 Complementing imports with local food production provides us with a buffer supply in the event of overseas supply disruptions, bolstering our food supply resilience. 
@@ -43,4 +46,4 @@ With help from SFA, local companies have exported their urban food solutions ove
 ![](/images/PM%20Lee%20at%20NDR%202022_Preparedness.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k-3ebN05wjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-(Video: "Singapore has built food resilience with buffer stocks, diversified sources: PM Lee" by CNA)
+(Video: “Singapore has built food resilience with buffer stocks, diversified sources: PM Lee” by CNA)
