@@ -7,13 +7,13 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: https://www.instagram.com/connexionsg
-    title: ConnexionSG Instagram
+      - other: https://www.facebook.com/ConnexionSG/
+    title: ConnexionSG Facebook
   - content:
       - phone: ""
       - email: ""
-      - other: https://www.facebook.com/ConnexionSG/
-    title: ConnexionSG Facebook
+      - other: https://www.instagram.com/connexionsg
+    title: ConnexionSG Instagram
   - content:
       - phone: ""
       - email: nexus@defence.gov.sg
