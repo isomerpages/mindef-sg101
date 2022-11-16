@@ -12,7 +12,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: https://www.instagram.com/connexionsg
+      - other: https://www.instagram.com/ConnexionSG
     title: ConnexionSG Instagram
   - content:
       - phone: ""
