@@ -3,11 +3,9 @@ title: Total Defence Sandbox
 permalink: /NEInitiatives/TDSandbox/
 description: ""
 ---
-
-
 ![](/images/TD%20Sandbox%20Logo.png)
 
-##### The Total Defence Sandbox is calling ideas from now until 30 Nov 2022, 2359HRS!
+##### The Total Defence Sandbox is calling ideas from now until 30 Nov 2022, 2359HRS!I . Shortlisted participants may be invited to give a short presentation to the Expert Panel in Dec to Jan 2023!
 
 ### What is the Total Defence Sandbox?
 The Total Defence Sandbox seeks ground-up innovation from Singaporeans especially youths to start initiatives that puts Total Defence into action. **The Total Defence Sandbox invites everyone to share ideas on Total Defence, and aims to nurture these ideas and eventually match ideas with partners who could support the implementation or amplification of their efforts.** 
