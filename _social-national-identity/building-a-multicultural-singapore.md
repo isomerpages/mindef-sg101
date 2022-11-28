@@ -1,6 +1,6 @@
 ---
 title: Building a Multicultural Singapore
-permalink: /social-national-identity/multicultural
+permalink: /social-national-identity/multicultural/
 ---
 #### Building a Multicultural Singapore
 
@@ -43,6 +43,39 @@ Having experienced racial politics, where the majority Malay race in Malaysia wa
 In his first speech to the United Nations General Assembly on 21 September 1965, then-Foreign Minister S. Rajaratnam described Singapore as a “little United Nations in the making” where four cultures – Malay, Chinese, Indian and Western – were allowed to develop freely and equally.
 
 ![Alt text for image on Isomer site](/images/society/multicultural/social-quotes-v2.png)
+
+#### Building and Maintaining Religious Harmony 
+
+As a multi-religious society, Singapore protects the freedom to practise religion while maintaining harmony among the various faiths.
+
+Inter-religious harmony is essential for a densely populated city-state like Singapore, ranked the world’s most religiously diverse country in a 2014 Pew survey.
+
+Amid the growing polarisation in race and religion across many parts of the world, the harmonious co-existence that we enjoy should not be taken for granted. In a 2019 Gallup World Poll, Singapore was ranked top out of 124 countries for tolerance of ethnic minorities, and 95 percent of respondents stated that for racial and ethnic minorities, Singapore was “a good place to live”. This was higher than the global average of about 70 per cent . 
+
+In the same year, a Ministry of Culture, Community and Youth (MCCY) survey found that eight in 10 Singaporeans were satisfied with relations between different races . 
+
+This positive view was supported by the growing levels of friendship and trust between Singaporeans of different religions: a study by the Institute of Policy Studies and racial harmony advocacy group OnePeople.sg released in 2019 found that 59 per cent of respondents said they could trust either “more than half” or “all or mostly all” people of a different faith to help in a national crisis, compared to over 51 percent in 2013 .
+
+More Singaporeans said they have close friends of another race in 2018 compared to five years ago. In 2018, Malays and Indians were more likely as in 2013 to have at least one Chinese friend than not. For instance, 77.2 per cent of Indian respondents said they had a close Chinese friend, up from 63 per cent in 2013, according to the same 2019 IPS survey . Similarly, while 23 per cent of Chinese respondents had a close Malay friend in 2013, this proportion rose to 30 per cent in 2018, indicating increasing levels of racial harmony and inter-racial interaction.
+
+This racial and religious harmony is not a natural state for Singapore, nor was it easily cultivated. 
+
+> “Singapore might be the world’s most religiously diverse country. Here, you will find almost all religions living together harmoniously. This is the exception rather than the norm. It is only possible because generations of Singaporeans have worked hard to make racial and religious diversity our strength, not our weakness. 
+> 
+	Goh Chok Tong, Emeritus Senior Minister and Patron of IRO (2018- present)
+
+Efforts to forge mutual understanding and awareness about different beliefs and practices were already underway long before Singapore gained independence. 
+
+A key milestone in Singapore’s history of multi-religious engagement was the formation of the Inter-Religious Organisation (IRO) after the end of World War II . In 1949, the Malayan Sultan, His Eminence Maulana Mohamed Abdul Aleem Siddiqui, proposed the formation of a body to represent all religions.
+
+The IRO played a pivotal role to help calm the population during the 1964 racial riots. Members of the IRO visited those injured during the riots. At the same time, its leaders rallied Singaporeans around the common goal of working for “the national good” by issuing regular speeches calling for understanding  on broadcast on radio, newspapers and television. 
+
+When Singapore gained independence, former PM Lee Kuan Yew pledged to build “a multiracial nation where every community…can integrate fully, yet have maximum space to maintain their identities and practise their faiths, customs and way of life.” His vision was reflected in the constitution of Singapore, which guarantees the right of religious freedom for all people, as long as the religious activities do not violate laws on public order, health, or morality. 
+
+Over the years, Singapore has continued to promote religious harmony and unity through interfaith community initiatives, combined with secular policies, careful planning and governance. 
+
+Dubbed a “secular state with a soul” today by Singaporean diplomat Zainul Abidin Rasheed, Singapore has reflected Mr Lee’s vision by building physical places of worship and a strong social acceptance of our multi-religious culture and heritage. 
+
 
 #### Maintaining Racial and Religious Harmony
 
