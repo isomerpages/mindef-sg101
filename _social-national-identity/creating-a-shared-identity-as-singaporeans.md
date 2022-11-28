@@ -1,7 +1,14 @@
 ---
 title: Creating a Shared Identity as Singaporeans
-permalink: /social-national-identity/sharedidentity
+permalink: /social-national-identity/sharedidentity/
 ---
+# Forging the Singapore Identity 
+
+Our national identity is constantly evolving with the country's changing demographics, generational shifts, and renewed mindsets about our values and aspirations.
+
+The make-up of our population has changed significantly in recent decades, driven by an ageing population, shrinking birth rates and immigration policy changes. All these factors have, in turn, profoundly influenced the way Singaporeans view themselves as citizens of this nation they call home. 
+
+
 #### Creating a Shared Identity as Singaporeans
 
 ![Alt text for image on Isomer site](/images/society/sharedid/social-banner-02-2.png)
