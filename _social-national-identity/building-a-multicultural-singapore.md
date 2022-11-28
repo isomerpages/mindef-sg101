@@ -189,13 +189,17 @@ Some Chinese temples here are seeing more Chinese immigrant worshippers with dif
 For all these new groups, the task remains to help them integrate into our multi-religious society. But just as any religious believer or group must adhere to Singapore’s laws and not propound disharmony and violence, these groups also need to contribute to upholding Singapore’s social harmony.
 
 #### Religious harmony a continuous work in progress
+
 In 2021, a spate of incidents stoked public discourse. 
 
 In June 2021, an Indian man posted a video of a Chinese woman hitting a gong in an apparent attempt to disrupt him as he conducted Hindu prayers and rang a religious bell at the doorway of his HDB flat. The video went viral, prompting a police investigation and igniting a lively online discussion. While many Singaporeans expressed sympathy for the Indian man, others debated the disturbance caused by religious practices such as religious chanting or incense burning in a shared space. 
 
-Another incident that has attracted national attention is the “Tudung issue” (see case study). 
+Another incident that has attracted national attention is the “Tudung issue”. 
+
+![https://www.sg101.gov.sg//social-national-identity/case-studies/TudungIssue](/images/society/Gif%20banner%20for%20social%20sector.gif)
 
 #### The Way Forward
+
 The tudung issue, as well as recent racist acts such as a Chinese man kicking an Indian woman while uttering racist slurs and a Malay lady hurling racist insults at an Indian commuter, have prompted much national discussion about the way forward for religious and racial harmony.
 
 In a forum on race and racism held in June 2021, Minister of Finance Lawrence Wong called on Singaporeans of different backgrounds to reflect on how to better understand one another, as “tolerance without real understanding cannot work”.
