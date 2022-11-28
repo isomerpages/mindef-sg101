@@ -100,6 +100,8 @@ This racial and religious harmony is not a natural state for Singapore, nor was 
  
 `Goh Chok Tong, Emeritus Senior Minister and Patron of IRO (2018- present)`
 
+![](/images/society/Strengthen%20religious%20harmony.png)
+
 Efforts to forge mutual understanding and awareness about different beliefs and practices were already underway long before Singapore gained independence. 
 
 A key milestone in Singapore’s history of multi-religious engagement was the formation of the Inter-Religious Organisation (IRO) after the end of World War II . In 1949, the Malayan Sultan, His Eminence Maulana Mohamed Abdul Aleem Siddiqui, proposed the formation of a body to represent all religions.
