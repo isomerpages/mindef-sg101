@@ -188,7 +188,22 @@ While Singapore's social mix is increasingly varied, many Singaporeans, includin
 
 Many Singaporeans share a strong sense of satisfaction with the country's multiracial harmony, food, excellent healthcare system and cleanliness. These were named as the top five sources of national pride among 24 components identified by an IPS study released in 2021 . The IPS list also included the Singapore Armed Forces, the education system and the Government's management of the COVID-19 pandemic. 
 
-
-
-
 [![Alt text for image on Isomer site](/images/society/sharedid/OpenDoc%20Banners-10.gif)](/social-national-identity/examples/integrating)
+
+As Singapore continues to grow its economy and improve the workforce with an appropriate influx of foreign talent, Singaporeans will need to embrace greater diversity in our society.
+
+We are already witnessing many nationalities and races in our country's demographic makeup, as more immigrants and foreign residents have come here to work over the past few decades. Many foreigners marry local Singaporeans and decide to make Singapore their new permanent home. One in four marriages in Singapore is between a local and a non-Singaporean. This, in turn, is making our Singapore identity even more multi-faceted. 
+
+#### Building a shared identity with a new social mix 
+
+With increasing diversity among our population, future generations of Singaporeans will likely be more multicultural. Some may not fit easily into ethnic labels and CMIO ("Chinese, Malay, Indian, Others") categorisation because they come from mixed marriages and immigrant backgrounds or have spent many years growing up or working abroad. They may not share the same institutional memory imbued through the Singapore school system and national education lessons. However, they can still integrate into Singapore society by being immersed in our local communities and exposed to our national values.
+
+A 2020 study by the Institute of Policy Studies showed that most Singaporeans believed that it was good having different cultures and nationalities in the same neighbourhood.  But nearly six in 10 polled said that many immigrants were not doing enough to integrate into Singapore.
+
+While there are specific government programmes to help new immigrants integrate into the Singapore society (refer to Part 4 "Integrating New Citizens" MCCY - Citizens' workgroup for Singapore Citizenship Journey), it is also important to build a shared identity through everyday interactions and conversations with locals of all backgrounds.
+
+Indeed, creating a common identity calls for everyone in the social mix – whether they are born in Singapore or naturalised citizens – to embark on collective learning journeys to internalise Singapore's national values. 
+
+The fact is, Singapore's identity is not static or immutable: each successive generation of Singaporeans can contribute to forging a shared national identity that transcends all lines – be it cultural, racial, religious, or economic. Some ways to strengthen our Singaporean identity are through food, arts and sports, which are universally accessible to all regardless of background and constantly evolving to accommodate new participants and ideas. 
+
+They can also participate in more broad-based and inclusive dialogue, as described in the next section on Singapore's shift towards a more collaborative approach to articulating our national identity and values.
