@@ -193,6 +193,26 @@ In June 2021, an Indian man posted a video of a Chinese woman hitting a gong in 
 
 Another incident that has attracted national attention is the “Tudung issue” (see case study). 
 
+#### The Way Forward
+The tudung issue, as well as recent racist acts such as a Chinese man kicking an Indian woman while uttering racist slurs and a Malay lady hurling racist insults at an Indian commuter, have prompted much national discussion about the way forward for religious and racial harmony.
+
+In a forum on race and racism held in June 2021, Minister of Finance Lawrence Wong called on Singaporeans of different backgrounds to reflect on how to better understand one another, as “tolerance without real understanding cannot work”.
+
+These “worrying incidents have given us pause to consider the state of our racial harmony”, he said. “We clearly cannot leave things as they are. We are better than this. Whether online or offline, we must hold ourselves to higher standards, and tackle racism wherever it exists in our society.”
+
+Having more open discussions about different beliefs and identities is in itself a step in the right direction. 
+
+For older Singaporeans, many tended to treat this as a taboo subject in the past, looking to the force of the law to effectively manage religious fault lines. An IPS study in 2019 found that seven in 10 Singaporeans aged 65 and above felt that the Government is responsible for racial and religious harmony in Singapore, compared to just half of respondents aged 18 to 25 who felt this way. 
+
+Hence, it is timely and essential to engage older Singaporeans in more discussions about their personal views about different races and religions. They can become more involved in a “whole-of-society” effort to foster inter-religious understanding through taking part community-led initiatives such as Regardless of Race Dialogues by OnePeople.sg and A Tapestry of Sacred Music by The Esplanade Co Ltd which are funded by the Harmony Fund.
+
+As for the younger generations, they have expressed a stronger preference for a more community-driven approach to race and religion rather than looking to state intervention. They also respond well to dialogue and community efforts to help those who may face issues arising from racial or religious differences. This is reflected in the IPS survey, which found that young Singaporeans are more sensitive to discrimination and are more likely to investigate a message that claimed a business refused to serve a person from a certain race or religion. 
+
+The amendment to the Maintenance of Religious Harmony Act in 2019 reflects this paradigm shift by incorporating softer touches that focus on persuasion and rehabilitation, while encouraging moderation and tolerance between different racial groups .  One example of these softer touches in the Act is vesting the authorities with powers to order someone who has caused offence to stop and make amends, by learning more about the other race. The Act also seeks to encourage offending parties to take part in activities that can mend ties with the aggrieved persons in the religious community. 
+
+Under this Act, the Community Remedial Initiative (CRI) was introduced to allow people who have hurt the feelings of another religious community to make amends to the affected community and learn more about our multi-religious society. Examples of remedial actions may include a public or private apology to the aggrieved parties, or participation in inter-religious events.
+
+Such touches can promote peace-building and soothe religious tensions, while still making clear that Singapore laws absolutely do not accept views that denigrate people of different backgrounds or beliefs.
 
 #### Building Common Ground Amid Diversity
 
