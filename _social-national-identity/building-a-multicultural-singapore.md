@@ -191,7 +191,8 @@ In 2021, a spate of incidents stoked public discourse.
 
 In June 2021, an Indian man posted a video of a Chinese woman hitting a gong in an apparent attempt to disrupt him as he conducted Hindu prayers and rang a religious bell at the doorway of his HDB flat. The video went viral, prompting a police investigation and igniting a lively online discussion. While many Singaporeans expressed sympathy for the Indian man, others debated the disturbance caused by religious practices such as religious chanting or incense burning in a shared space. 
 
-Another incident that has attracted national attention is the “Tudung issue”. 
+Another incident that has attracted national attention is the “Tudung issue” (see case study). 
+
 
 #### Building Common Ground Amid Diversity
 
