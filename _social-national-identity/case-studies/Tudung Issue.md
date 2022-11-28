@@ -4,6 +4,8 @@ permalink: /social-national-identity/case-studies/TudungIssue/
 description: ""
 third_nav_title: Case Studies
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rs7Bh-g55m8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Over the years, the “tudung issue” – whether Muslim women can wear the tudung in professional settings – has attracted public discussion. 
 
 In August 2020, public attention to this issue was stoked by a viral social media post about a Muslim woman being asked to remove her tudung before she could work as a promoter at Tang’s department store. The decision by the Tangs store was subsequently reversed.
