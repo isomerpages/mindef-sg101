@@ -1,6 +1,6 @@
 ---
 title: Building and Maintaining a Caring Society
-permalink: /social-national-identity/caringsociety
+permalink: /social-national-identity/caringsociety/
 ---
 #### Building and Maintaining a Caring Society
 
@@ -52,7 +52,41 @@ While the government’s social provisions have broadened, they remain anchored 
 
 Relying on government support alone is also insufficient, and it is up to the individual to take initiative and put in the hard work. In his 2012 National Day Rally speech, PM Lee noted that there a need to “maintain a sense of mutual responsibility amongst ourselves and especially on the part of those who are more successful than others”.
 
-Many Singaporeans have come forward to help one another, and in recent years, there has been an upward trend in volunteerism in Singapore, especially among retirees. Charities like Temasek Foundation and Lien Foundation have also stepped up. Temasek Foundation has funded initiatives that include offering mothers from vulnerable families a community health and social care support system from pregnancy until the child turns three years old, and empowering children from low-income families to chase their dreams in dance and art. Meanwhile Lien Foundation has been investing in the eldercare sector, creating more centres for seniors to exercise, undergo health checks or socialise, as well as more quality nursing homes equipped with facilities such as a gym and cafe.
+#### Volunteerism in Singapore
+
+Many Singaporeans have come forward to help one another, and in recent years, there has been an upward trend in volunteerism in Singapore, especially among retirees. 
+
+Charities like Temasek Foundation and Lien Foundation have also stepped up. Temasek Foundation has funded initiatives that include offering mothers from vulnerable families a community health and social care support system from pregnancy until the child turns three years old, and empowering children from low-income families to chase their dreams in dance and art. Meanwhile Lien Foundation has been investing in the eldercare sector, creating more centres for seniors to exercise, undergo health checks or socialise, as well as more quality nursing homes equipped with facilities such as a gym and cafe.
+
+During the COVID-19 pandemic, Singapore's volunteerism rate dropped to 22 per cent in 2021, down from 29 per cent in 2018. The study, conducted by the National Volunteer and Philanthropy Centre (NVPC), said that this  was likely because many people were unable to be physically present for the activities due to COVID-19 restrictions. 
+
+However, that does not mean that Singaporeans' spirit of volunteerism has waned. The same survey showed that 56 per cent of those polled were likely to volunteer over the next few years. 
+
+The pandemic also changed the way people helped each other out. More Singaporeans moved to offer skills-based volunteering online, such as doing pro bono training programmes for lower-income students or small businesses or social workers, noted NVPC.
+
+They were also more involved in ground-up non-profit organisations working with various community groups affected by the pandemic. 
+
+Such groups included: (1) low-income families whose breadwinners were unable to work due to COVID-19 and kids could not do home-based learning due to lack of internet access; (2) home-bound elderly and those with disabilities who need vaccinations and medical care; and (3) migrant workers, stuck in their living quarters due to circuit breaker measures. 
+
+"COVID-19 has changed the way we live. But it has also further emphasised the importance of building and sustaining a caring and cohesive society," said President Halimah Yacob at the President's Volunteerism and Philanthropy Awards (PVPA) ceremony on 11 October 2021.
+
+"Almost two years on, we are still battling COVID-19. But just as the pandemic has disrupted our economy and everyday life, it has also brought out the best in some Singaporeans, who gave their best for others," she noted.
+ 
+To encourage more volunteer groups to tackle community needs arising due to the pandemic, the SG Strong Fund was set up in 2020. The fund raised more than $550,000 for 150 projects . These causes include Project Wellness, which distributed cloth masks and care packs for hospitalised individuals and nursing home residents, and 6th Sense, which distributed devices and data cards for children who needed to do home-based learning.
+
+Young "digital volunteers" were among the many Singaporeans who offered their time and hard work. For example, some volunteered to help small and medium enterprises (SMEs) upskill their staff or upgrade their digital platforms. Others responded to the SG Digital Office (SDO) 's call for digital ambassadors to help senior citizens pick up digital skills. They participated in the 60 SG Digital Community Hubs set up islandwide, teaching tens of thousands of seniors how to stay connected with their family and community, navigate digital government services, conduct e-payment via their smartphones, and more. 
+
+At the same time, older Singaporeans have stepped forward to contribute by helping other seniors to learn about healthy ageing, preparing food donations, cleaning up beaches, and serving as befrienders to Singaporeans of different backgrounds. 
+
+With Singapore's ageing demographics leading to an increase in senior volunteers, organisations such as RSVP Singapore are creating programmes for senior volunteers. In 2019, RSVP Singapore signed a Memorandum of Understanding with the Ministry of Culture, Community and Youth’s (MCCY) Singapore Cares Office (SG Cares Office)   to grow senior volunteerism.  RSVP Singapore hopes to tap the wealth of skills and expertise that our seniors have to benefit the community whilst remaining active in the community.
+
+The silver lining of the pandemic is that it has opened up new means of volunteering through online and digital initiatives like zoom-based training sessions that can benefit a regional audience and peer-to-peer fundraising. 
+
+These online volunteering initiatives focus on imparting skills to non-profit organisations, SMEs, social workers and other groups who need professional help. This addresses one of social service agencies' most important challenges, in upgrading and upskilling to improve their digitalisation, fundraising and management of manpower and volunteers, according to a 2020 survey by the National Council of Social Services. 
+
+The SG Cares Office is also working with national intermediaries to grow skills-based volunteerism among working professionals such as accountants and lawyers. Organisations such as the Pro Bono SG (formerly known as Law Society Pro Bono Services) and the Institute of Singapore Chartered Accountants partner local community organisations to curate volunteer opportunities for skills-based volunteers to meet community needs. 
+
+"Skills-based volunteerism has very tangible and intangible benefits, not just to those who receive the benefits of volunteerism, but also to those who give. This approach helps one expand beyond their usual corporate centric goals to encompass a larger purpose in society," said Minister for Culture, Community and Youth Edwin Tong. 
 
 [![Alt text for image on Isomer site](/images/society/caring/OpenDoc%20Banners-14.gif)](/social-national-identity/examples/volunteerism)
 
