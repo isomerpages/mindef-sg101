@@ -38,6 +38,8 @@ To ensure that no one is left behind, schemes such as SkillsFuture and the Progr
 ![](/images/img0077.jpg)
 (Image: National Archives of Singapore)
 
+#### Working towards a multi-abled society 
+
 Those with disabilities are also given opportunities to improve their lives and contribute to society. A national road map – the Enabling Masterplan – was launched to improve the lives of the disabled and support their caregivers. The first masterplan was unveiled in 2007; the second in 2012. The third, launched in 2019, saw the creation of two new workgroups to help people with special needs live independently and improve their chances of getting a job. One group will look at making it easier to access lifelong learning opportunities and employment pathways, while the second will assess how technology and design in homes and the community help those with special needs live independently.
 
 ![](/images/img0001.jpg)
@@ -51,6 +53,9 @@ Total funding for special education schools have also risen by about 40 per cent
 While the government’s social provisions have broadened, they remain anchored in the basic principles of self-reliance, individual effort and personal responsibility. As former DPM Tharman famously told a BBC presenter on 7 May 2015, when pressed about the concept of a safety net, “I believe in the notion of a trampoline.” Social assistance in Singapore is not supposed to provide a comfortable life but to spur citizens on to get back on their feet.
 
 Relying on government support alone is also insufficient, and it is up to the individual to take initiative and put in the hard work. In his 2012 National Day Rally speech, PM Lee noted that there a need to “maintain a sense of mutual responsibility amongst ourselves and especially on the part of those who are more successful than others”.
+
+
+
 
 #### Volunteerism in Singapore
 
