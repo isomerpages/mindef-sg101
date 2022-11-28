@@ -145,7 +145,14 @@ Now, as the world enters troubled times, Singapore faces new and daunting challe
 
 As a global city and international business hub, just like how we were a migrant nation, we continue to attract people of all nationalities and cultures here. This has led to a gradual change in our social mix over the years. In addition to the existing multiracial, multi-religious and multicultural local population, the social fabric now also includes new citizens and foreigners who bring with them different cultures, beliefs and practices.
 
-A study from the United Nations (UN) showed that the percentage of migrants in Singapore's population has tripled over the past three decades -- from 24% (727,000) in 1990 to 37% (2.15 million) in 2019. The biggest source of migrants come from Malaysia, followed by China, Indonesia, India and Pakistan.
+#### Integrating new citizens and permanent residents 
+
+In 2020, Singapore saw about 27,470 new permanent residents and 21,085 new citizens, according to the Immigration and Checkpoints Authority.  These figures are lower than previous years due to the COVID-19 pandemic, which were likely due to travel restrictions and operational issues arising from COVID-19.
+
+While some newcomers have successfully built strong ties with the community, others are perceived to stay in their own circles instead of making substantial efforts to learn and appreciate Singapore's multicultural norms.
+
+This may be why only 17 per cent of Singaporean youth feel that locals and foreigners get along well here despite their differences, compared to 38 percent of foreigners, based on a recent poll by the National Youth Council (NYC) in 2022.  
+
 
 PM Lee noted in his National Day Rally speech in 2019 that just like Singapore’s forefathers, the immigrants of today have to similarly undergo the process of gradually identifying themselves as Singaporeans, and becoming Singapore citizens. This is a process that took many decades. Singapore’s forefathers arrived as sojourners. Those from China intended to return to their homeland one day, but in the end, the majority chose to remain. They saw this as their new home, and worked to make it succeed, and defended their nation fiercely. Gradually, a Chinese Singaporean identity was developed.
 
@@ -164,5 +171,24 @@ But as a small and open economy with an ageing population, increasing numbers of
 Singapore’s approach to new citizens is one of integration, not assimilation, to welcome and not take away, as we have done from our start as a migrant nation. As PM Lee noted, at the official opening of the Singapore Chinese Cultural Centre on 19 May 2019, being Singaporean, he said, has “never been a matter of subtraction, but of addition; not of becoming less, but more; not of limitation and contraction, but of openness and expansion”.
 
 To integrate new citizens, Singapore needs to reaffirm and promote shared values, find and grow common spaces, share collective experiences and strengthen emotional bonds among our people. Opportunities for citizens and new ones to interact and understand one another better continue to be key.
+
+To support the social mixing and integration of newcomers, the National Integration Council (NIC) promotes a "whole-of-society" approach for integration , by working with its tripartite members and partners from the community, schools, employers and the Government to develop programmes and initiatives.
+
+For example, naturalised citizens granted in-principle approval for Singapore citizenship must complete the Singapore Citizenship Journey programme. In addition, community groups such as the Integration and Naturalisation Champions help naturalised citizens and permanent residents settle into their neighbourhoods. These initiatives help newcomers’ understanding and appreciation of Singapore’s history and development, norms and values, and also to build stronger ties with the local community to better understand Singapore's identity, culture, and people.
+
+In the end, integration in practice means everyone plays an important part in helping newcomers settle and adapt to Singapore’s way of life: neighbours can start a friendly conversation about anything from the humid weather to the beautiful Angsana trees; students can share folklore about the Merlion or the Red Hill swordfish; colleagues can bond over kaya toast in the kopitiam, and families shopping at a supermarket can share tips about where to buy the freshest durians.
+
+It is in the mundane, daily interactions with locals that immigrants will naturally find their new, uniquely Singaporean comfort zones.
+
+With the influx of new immigrants and more mixed marriages across race and nationality, some Singaporeans are grappling with even more existential questions, such as whether our ethnic labels and CMIO ("Chinese, Malay, Indian, Others") categorisation are still relevant. Many also debate what social harmony, multicultural integration and racial balance should look like in today's society, where numerous marked differences exist even within each "race" – for example, Chinese immigrants from different provinces can have vastly different cultural backgrounds, not to mention their differences compared to Singaporean Chinese.
+
+There are no easy answers to such questions. Nor are they definitive – indeed, they are not meant to be, with Singapore's diverse and multicultural population and multitude of viewpoints, as well as the younger generation’s propensity towards open dialogue and acceptance of differences. They are also engaging more actively in dialogue about our national identity through new social media platforms.
+
+While Singapore's social mix is increasingly varied, many Singaporeans, including new citizens, share a common sense of pride in Singapore's strengths. National pride can be linked to a stronger sense of identification with one's country. Positive sentiment about the country's strengths can help to reinforce our citizens' sense of ownership and loyalty, thus strengthening national identity. 
+
+Many Singaporeans share a strong sense of satisfaction with the country's multiracial harmony, food, excellent healthcare system and cleanliness. These were named as the top five sources of national pride among 24 components identified by an IPS study released in 2021 . The IPS list also included the Singapore Armed Forces, the education system and the Government's management of the COVID-19 pandemic. 
+
+
+
 
 [![Alt text for image on Isomer site](/images/society/sharedid/OpenDoc%20Banners-10.gif)](/social-national-identity/examples/integrating)
