@@ -8,6 +8,16 @@ Our national identity is constantly evolving with the country's changing demogra
 
 The make-up of our population has changed significantly in recent decades, driven by an ageing population, shrinking birth rates and immigration policy changes. All these factors have, in turn, profoundly influenced the way Singaporeans view themselves as citizens of this nation they call home. 
 
+#### The evolving dialogue on our shared values and identity
+
+Singapore's common values transcend race, language or religion. How these values are articulated and expressed through our Singapore identity has evolved, even as the country held steadfast to the national pledge to be "one united people" regardless of background since its independence.
+
+Efforts to consciously shape a national identity have shifted from a top-down approach to a more collaborative one.
+
+In 1988, former Prime Minister Goh Chok Tong proposed the idea of a national ideology to help Singaporeans preserve their Asian values amid growing exposure to western lifestyles and ideologies.
+
+A committee led by the then Minister for Trade and Industry Lee Hsien Loong was convened to advance a debate on national ideology, and key values common to the various races and communities in Singapore were identified. The findings were published as a White Paper on 2 Jan 1991, before being debated in Parliament, and eventually adopted on 15 Jan 1991. It outlined five shared values: 
+
 
 #### Creating a Shared Identity as Singaporeans
 
