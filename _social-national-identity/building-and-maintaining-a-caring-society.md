@@ -54,90 +54,14 @@ While the government’s social provisions have broadened, they remain anchored 
 
 Relying on government support alone is also insufficient, and it is up to the individual to take initiative and put in the hard work. In his 2012 National Day Rally speech, PM Lee noted that there a need to “maintain a sense of mutual responsibility amongst ourselves and especially on the part of those who are more successful than others”.
 
+#### How have we fared in creating a multi-abled society and what more else has been done?
+
 In August 2021, Singaporeans celebrated the achievement of backstroke swimmer Yip Pin Xu in winning two gold medals at the 2020 Tokyo Paralympics, becoming the country's most decorated Paralympian. 
 
 Many were also puzzled why the financial reward that the five-time Paralympic Gold medallist, who has muscular dystrophy, received for each gold medal was just $200,000, compared to the $1 million awarded to an Olympic gold medallist.  
 
 There were social media posts, letters to the Straits Times forum and several members of Parliament asking if more could be done to reduce this disparity in cash rewards for able-bodied and para-athletes. Eventually, DBS stepped forward to as a sponsor for the Singapore National Paralympic Council. It said that it will match the council's Athletes Achievement Awards (AAA), the cash incentive scheme for Singaporean athletes who win medals at major para games. This meant that Ms Yip received $800,000 for her achievements, double what she would have originally received for her two golds at the Paralympics.  
 
-The public discourse about this topic of a disparity in reward reflects the growing attention paid by Singaporeans to fostering an inclusive, multi-abled society in all areas – be it for sports, arts, education or the workplace. 
-
-It also points to the direction that Singapore is working towards an inclusive, multi-abled society.
-
-"We will continue to work hard to foster an inclusive society through sports where people of all abilities can come together to experience, to play, to socialise and if you're able to, to excel at the highest level in sports, and through this, to help Singapore and Singaporeans build deep social connections," said Minister for Culture, Community and Youth Edwin Tong, in a speech to celebrate the achievements of Olympians and Paralympians. 
-
-Part 3: Standing in Solidarity [935 words]
-1.	[Case study] Singaporeans coming together in our fight against SARS (2003) 
-Existing Sg101 text: In March 2003, a deadly then-unknown virus made its way from Hong Kong to Singapore via a Singaporean former flight attendant. Within a month, the virus – later named the severe acute respiratory syndrome (SARS) – spread to over 100 people on the island, killing four. There was widespread fear in dealing with an unknown and deadly disease. The initial alarm and panic soon gave rise to acts of discrimination against healthcare workers.
-Taxis and buses refused to stop at Tan Tock Seng Hospital (TTSH), the designated screening and treatment centre for SARS. Neighbours did not want to share the elevator with nurses in uniform. Queues at food courts would quickly dissipate whenever a nurse joined the line. After a dialogue with TTSH staff, Dr S. Balaji, then-Minister of State for Health, highlighted the issue to the media and drew attention to these discriminatory, fear-based practices.
-Subsequently, there was an outpouring of tributes to healthcare workers on the SARS frontline. Singaporeans condemned discriminatory behaviours towards healthcare workers in forum letters, while others delivered food, drinks and bouquets to TTSH to demonstrate their appreciation.
-Singaporeans also expressed support with their participation in initiatives such as the Peach Ribbon Campaign. Peach satin ribbons were worn to show appreciation for healthcare workers. Through the visibility afforded by the ribbons, members of the public were encouraged to make a donation to the Courage Fund, which was set up to provide relief to SARS victims and healthcare workers. Within two months, the campaign raised S$322,121 for the fund. 
-Continuation below:
-More and more Singaporeans rallied around those fighting on the frontlines against the virus, forming volunteer and community groups. 
-
-Within weeks of the SARS outbreak, many individuals stepped forward to offer their time and resources: the National Volunteer Centre saw hundreds of volunteers register to educate the public on SARS, provide help to quarantined persons, or take temperatures at public events.  
-Singaporeans found different ways to express their gratitude and appreciation. For example, Ms Rosemary Chng started a "Cookie Loves SGH" project to get the community to give 6,000 jars of cookies to the staff at Singapore General Hospital.  Other Singaporeans also gave tokens of appreciation to neighbourhood clinics and a pool of doctors who went on board ships to check for SARS and contain its spread. 
-Other Singaporeans joined grassroots efforts, such as accompanying the elderly for help checkups or reminding them to practise good hygiene. They also spread the word about being more socially responsible by observing good personal hygiene like washing hands regularly and taking one's temperature daily. Many volunteers were also involved in community SARS task forces as part of the National Environment Agency's "OK" campaign to help enforce hygiene standards in public venues.  
-Professionals from Social Service Agencies also contributed their services for quarantined persons, including telephone counselling, making care arrangements for their dependents and providing home help.  
-
-Companies also contributed in meaningful ways. Tecman, a local book distributor, invited customers to write tributes in a Courage Appreciation Book and donated $5 to The Courage Fund for every message received. Singapore's three telecommunications companies, M1, SingTel and StarHub, provided mobile phones to hospitals to keep in touch with loved ones who were not allowed to visit them. Another 20 companies in the "Purple Heart Lunch Series" pledged to bring 1,200 lunches to Tan Tock Seng Hospital thrice a week. 
-Meanwhile, donations to charitable funds for the SARS relief effort continued to grow, with the Courage Fundraising $10 million in seven weeks and $32 million in total. 
-The fight against SARS had brought the nation closer together in solidarity and laid the foundation for a resilient and rapid response to a national crisis, lessons that helped the country when it confronted the COVID-19 pandemic.
-
-2.	[Case study] Grief, gratitude, and how a nation grew closer together following the passing of Mr Lee Kuan Yew (2015)
-
-Singapore's founding Prime Minister Lee Kuan Yew, passed away at the age of 91 on 23 March 2015. 
-The nation mourned the passing of Mr Lee, who was instrumental in creating modern Singapore. This was accompanied by a wave of national solidarity, as Singaporeans came together to share memories and gratitude for his leadership and legacy.
-After Mr Lee's passing, an estimated 1.2 million people paid their last respects to him at the Parliament House and tribute centres across the island.  Many people queued overnight, some waiting for as long as eight hours outside the Parliament House. Singaporeans looked out for each other during this time, with some offering bottles of water and snacks to people in line. 
-On 29 March 2015, the day of the state funeral and procession, more than 100,000 people lined up along the streets in torrential rain from Parliament House to NUS Cultural Centre to see Mr Lee off. Clutching umbrellas, flags and tissues, the crowds – with many elderly and young children among them - broke down in tears and joined in the heartfelt roar of "Lee Kuan Yew, Lee Kuan Yew". The chant was an expression not just of spontaneous grief but solidarity transcending all classes, ages and backgrounds, who stood together united as a monument to the life and work of the great statesman.
-Different groups of Singaporeans came together in various ways to pay tribute to his contributions to Singapore. 
-An art installation entitled "Our Father, Our Country, Our Flag" was among these tributes. Some 110 Singaporeans aged 18 to 35 constructed a portrait of Mr Lee with erasers bearing the image of the Singapore flag. Some 4,877 erasers were used to build the installation, which was 2.3 metres wide and 3.1 metres tall. 
-On the first anniversary of Mr Lee's death, organisations, companies, and individuals organised more than 100 events , including tree planting activities in a special nod to his favourite tree, the Tembusu. Singaporeans also visited remembrance sites to pay their respects, while a carnival was organised for Singapore families to bond together.
-Over the years, individual Singaporeans continue to remember Mr Lee on National Day and special occasions, such as 7 August 2021, which marked the 70th anniversary of the day he was called to the Bar. Beyond organising the events to mark his work for Singapore, Singapore honours his legacy by continuing to build the nation that Mr Lee, together with his team of pioneering leaders, helped to steer more than five decades ago.
-
-Part 4: Building and Maintaining a Caring Society [total 3000 words]
-Beefing up three categories 
-1.	Volunteerism [655 words]
-
-During the COVID-19 pandemic, Singapore's volunteerism rate dropped to 22 per cent in 2021, down from 29 per cent in 2018. The study, conducted by the National Volunteer and Philanthropy Centre (NVPC), said that this  was likely because many people were unable to be physically present for the activities due to COVID-19 restrictions. 
-
-However, that does not mean that Singaporeans' spirit of volunteerism has waned. The same survey showed that 56 per cent of those polled were likely to volunteer over the next few years. 
-
-The pandemic also changed the way people helped each other out. More Singaporeans moved to offer skills-based volunteering online, such as doing pro bono training programmes for lower-income students or small businesses or social workers, noted NVPC.
-
-They were also more involved in ground-up non-profit organisations working with various community groups affected by the pandemic. 
-
-Such groups included: (1) low-income families whose breadwinners were unable to work due to COVID-19 and kids could not do home-based learning due to lack of internet access; (2) home-bound elderly and those with disabilities who need vaccinations and medical care; and (3) migrant workers, stuck in their living quarters due to circuit breaker measures. 
-
-"COVID-19 has changed the way we live. But it has also further emphasised the importance of building and sustaining a caring and cohesive society," said President Halimah Yacob at the President's Volunteerism and Philanthropy Awards (PVPA) ceremony on 11 October 2021.
-
-"Almost two years on, we are still battling COVID-19. But just as the pandemic has disrupted our economy and everyday life, it has also brought out the best in some Singaporeans, who gave their best for others," she noted.
- 
-To encourage more volunteer groups to tackle community needs arising due to the pandemic, the SG Strong Fund was set up in 2020. The fund raised more than $550,000 for 150 projects . These causes include Project Wellness, which distributed cloth masks and care packs for hospitalised individuals and nursing home residents, and 6th Sense, which distributed devices and data cards for children who needed to do home-based learning.
-
-Young "digital volunteers" were among the many Singaporeans who offered their time and hard work. For example, some volunteered to help small and medium enterprises (SMEs) upskill their staff or upgrade their digital platforms. Others responded to the SG Digital Office (SDO) 's call for digital ambassadors to help senior citizens pick up digital skills. They participated in the 60 SG Digital Community Hubs set up islandwide, teaching tens of thousands of seniors how to stay connected with their family and community, navigate digital government services, conduct e-payment via their smartphones, and more. 
-
-At the same time, older Singaporeans have stepped forward to contribute by helping other seniors to learn about healthy ageing, preparing food donations, cleaning up beaches, and serving as befrienders to Singaporeans of different backgrounds. 
-
-With Singapore's ageing demographics leading to an increase in senior volunteers, organisations such as RSVP Singapore are creating programmes for senior volunteers. In 2019, RSVP Singapore signed a Memorandum of Understanding with the Ministry of Culture, Community and Youth’s (MCCY) Singapore Cares Office (SG Cares Office)   to grow senior volunteerism.  RSVP Singapore hopes to tap the wealth of skills and expertise that our seniors have to benefit the community whilst remaining active in the community.
-
-The silver lining of the pandemic is that it has opened up new means of volunteering through online and digital initiatives like zoom-based training sessions that can benefit a regional audience and peer-to-peer fundraising. 
-
-These online volunteering initiatives focus on imparting skills to non-profit organisations, SMEs, social workers and other groups who need professional help. This addresses one of social service agencies' most important challenges, in upgrading and upskilling to improve their digitalisation, fundraising and management of manpower and volunteers, according to a 2020 survey by the National Council of Social Services. 
-
-The SG Cares Office is also working with national intermediaries to grow skills-based volunteerism among working professionals such as accountants and lawyers. Organisations such as the Pro Bono SG (formerly known as Law Society Pro Bono Services) and the Institute of Singapore Chartered Accountants partner local community organisations to curate volunteer opportunities for skills-based volunteers to meet community needs. 
-
-"Skills-based volunteerism has very tangible and intangible benefits, not just to those who receive the benefits of volunteerism, but also to those who give. This approach helps one expand beyond their usual corporate centric goals to encompass a larger purpose in society," said Minister for Culture, Community and Youth Edwin Tong. 
-
-2.	Working towards a multi-abled society [629 words]
-
-In August 2021, Singaporeans celebrated the achievement of backstroke swimmer Yip Pin Xu in winning two gold medals at the 2020 Tokyo Paralympics, becoming the country's most decorated Paralympian. 
-
-Many were also puzzled why the financial reward that the five-time Paralympic Gold medallist, who has muscular dystrophy, received for each gold medal was just $200,000, compared to the $1 million awarded to an Olympic gold medallist.  
-
-There were social media posts, letters to the Straits Times forum and several members of Parliament asking if more could be done to reduce this disparity in cash rewards for able-bodied and para-athletes. 
-
-Eventually, DBS stepped forward to as a sponsor for the Singapore National Paralympic Council. It said that it will match the council's Athletes Achievement Awards (AAA), the cash incentive scheme for Singaporean athletes who win medals at major para games. This meant that Ms Yip received $800,000 for her achievements, double what she would have originally received for her two golds at the Paralympics.  
 The public discourse about this topic of a disparity in reward reflects the growing attention paid by Singaporeans to fostering an inclusive, multi-abled society in all areas – be it for sports, arts, education or the workplace. 
 
 It also points to the direction that Singapore is working towards an inclusive, multi-abled society.
@@ -156,7 +80,7 @@ But there is change on this front, with growing awareness of the need to provide
 
 To raise more public awareness and support, the inaugural Shaping Hearts Festival 2021 invited about 150 community artists with special needs to present artworks and performances over a two-week event in November 2021. 
 
-Other ground-up initiatives include the Purple Symphony, an orchestra of over 100 musicians who are differently-abled. This was founded by Member of Parliament Denise Phua, a champion of people with disabilities in Singapore.  Meanwhile, the Inclusive Arts Movement was started by pianist Ron Tan,  who is hard of hearing. Such initiatives have opened many Singaporeans' eyes to differently-abled talents and inspirational stories. 
+Other ground-up initiatives include the Purple Symphony, an orchestra of over 100 musicians who are differently-abled. This was founded by Member of Parliament Denise Phua, a champion of people with disabilities in Singapore.  Meanwhile, the Inclusive Arts Movement was started by pianist Ron Tan,  who is hard of hearing. Such initiatives have opened many Singaporeans' eyes to differently-abled talents and inspirational stories.
 
 
 #### Volunteerism in Singapore
