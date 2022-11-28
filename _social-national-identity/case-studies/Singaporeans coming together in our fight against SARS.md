@@ -10,6 +10,8 @@ Taxis and buses refused to stop at Tan Tock Seng Hospital (TTSH), the designated
 
 Subsequently, there was an outpouring of tributes to healthcare workers on the SARS frontline. Singaporeans condemned discriminatory behaviours towards healthcare workers in forum letters, while others delivered food, drinks and bouquets to TTSH to demonstrate their appreciation.
 
+![](/images/society/case-studies/sars.jpg)
+
 Singaporeans also expressed support with their participation in initiatives such as the Peach Ribbon Campaign. Peach satin ribbons were worn to show appreciation for healthcare workers. Through the visibility afforded by the ribbons, members of the public were encouraged to make a donation to the Courage Fund, which was set up to provide relief to SARS victims and healthcare workers. Within two months, the campaign raised S$322,121 for the fund. 
 
 More and more Singaporeans rallied around those fighting on the frontlines against the virus, forming volunteer and community groups. 
@@ -27,4 +29,3 @@ Companies also contributed in meaningful ways. Tecman, a local book distributor,
 Meanwhile, donations to charitable funds for the SARS relief effort continued to grow, with the Courage Fundraising $10 million in seven weeks and $32 million in total. 
 
 The fight against SARS had brought the nation closer together in solidarity and laid the foundation for a resilient and rapid response to a national crisis, lessons that helped the country when it confronted the COVID-19 pandemic.
-
