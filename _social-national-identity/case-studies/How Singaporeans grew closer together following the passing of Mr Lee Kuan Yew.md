@@ -16,6 +16,9 @@ Different groups of Singaporeans came together in various ways to pay tribute to
 
 An art installation entitled "Our Father, Our Country, Our Flag" was among these tributes. Some 110 Singaporeans aged 18 to 35 constructed a portrait of Mr Lee with erasers bearing the image of the Singapore flag. Some 4,877 erasers were used to build the installation, which was 2.3 metres wide and 3.1 metres tall. 
 
+![Portrait of Mr LKY made using erasers](/images/society/case-studies/lky.jpg)
+Image: Kaplan Singapore's Facebook Page
+
 On the first anniversary of Mr Lee's death, organisations, companies, and individuals organised more than 100 events , including tree planting activities in a special nod to his favourite tree, the Tembusu. Singaporeans also visited remembrance sites to pay their respects, while a carnival was organised for Singapore families to bond together.
 
 Over the years, individual Singaporeans continue to remember Mr Lee on National Day and special occasions, such as 7 August 2021, which marked the 70th anniversary of the day he was called to the Bar. Beyond organising the events to mark his work for Singapore, Singapore honours his legacy by continuing to build the nation that Mr Lee, together with his team of pioneering leaders, helped to steer more than five decades ago.
