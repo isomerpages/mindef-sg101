@@ -21,6 +21,8 @@ The NGP would amplify the use of cutting-edge port technologies in vessel traffi
 
 As PM Lee mentioned at the official opening of Tuas Port, the ongoing NGP formation is “a project every Singaporean can be proud of”. Pressing on with the NGP despite the pandemic sends a strong signal to the world that Singapore is open for business and going full steam ahead. Singapore's position as a global maritime hub comes not just from our geographical advantage, but the result of bold vision, national determination, and assiduous planning.
 
-🔗: [https://www.csc.gov.sg/articles/connecting-to-the-world-singapore-as-a-hub-port](https://www.csc.gov.sg/articles/connecting-to-the-world-singapore-as-a-hub-port)
+🔗: [Connecting to the World: Singapore as a Hub Port](https://www.csc.gov.sg/articles/connecting-to-the-world-singapore-as-a-hub-port)
 
-🔗: [https://www.ship-technology.com/analysis/size-matters-inside-tuas-mega-port-project-singapore/?fbclid=IwAR3yX574EdqcHjqGUBauphDrJji1mmtYk6sndINfNsCc4QDiW-sfdV3ozzs](https://www.ship-technology.com/analysis/size-matters-inside-tuas-mega-port-project-singapore/?fbclid=IwAR3yX574EdqcHjqGUBauphDrJji1mmtYk6sndINfNsCc4QDiW-sfdV3ozzs)
+🔗: [Size matters: inside the Tuas Mega Port project in Singapore](https://www.ship-technology.com/analysis/size-matters-inside-tuas-mega-port-project-singapore/?fbclid=IwAR3yX574EdqcHjqGUBauphDrJji1mmtYk6sndINfNsCc4QDiW-sfdV3ozzs)
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
