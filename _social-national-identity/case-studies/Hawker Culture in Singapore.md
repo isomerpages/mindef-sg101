@@ -18,6 +18,9 @@ Gathering for hawker food is a national past-time, with 83 per cent of Singapore
  
 Singapore is one of the few highly cosmopolitan cities where eating out can be cheaper than home cooking – and possibly even more delicious. Indeed, several hawker eateries have won a Michelin star before, such as Hong Kong Soya Sauce Chicken Rice in Chinatown and Hill Street Tai Hwa Pork Noodles. 
 
+![Chicken Rice](/images/society/case-studies/chicken%20rice%20(credit%20-%20unsplash).jpg)
+Image credit: Unsplash
+
 One local food blogger, Dr Leslie Tay, who also goes by the moniker, ieatishootipost, even proudly declared: "Hawker food embodies the essence of being Singaporean."
 
 Some distinctive Singapore dishes include rojak – a mix of Indian, Malay and Chinese influences and tastes melded together into a uniquely Singaporean culinary experience – and roti prata, which has been localised with ingredients like cheese and mushroom.   
