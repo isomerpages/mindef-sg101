@@ -66,7 +66,7 @@ The public discourse about this topic of a disparity in reward reflects the grow
 
 It also points to the direction that Singapore is working towards an inclusive, multi-abled society.
 
-"We will continue to work hard to foster an inclusive society through sports where people of all abilities can come together to experience, to play, to socialise and if you're able to, to excel at the highest level in sports, and through this, to help Singapore and Singaporeans build deep social connections," said Minister for Culture, Community and Youth Edwin Tong, in a speech to celebrate the achievements of Olympians and Paralympians. 
+![](/images/society/caring/edwin%20tong%20quote%201.png)
 
 Singaporeans like Ms Yip have won the highest admiration from her fellow citizens because of her contributions to sports and community work, including serving as a Nominated Member of Parliament. In recognition of her strong contributions to Singapore and society, Ms Yip became the first recipient of the President's Award for Inspiring Achievement in February 2022.
 
