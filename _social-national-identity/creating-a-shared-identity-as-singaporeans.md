@@ -87,6 +87,8 @@ After three drafts and multiple revisions, the Singapore pledge was eventually f
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/dIZHmB2r7JM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Singaporeans have increasingly sought to use the flag and other national symbols to show their national pride and solidarity in ways not anticipated by the 1959 rules. On 13 Sep 2022, four more national symbols – our national pledge, national flower Vanda Miss Joaquim, lion head, and public seal – have been formally recognised under the new National Symbols Bill.
+
 #### Forging a National Identity
 
 While symbols may help Singaporeans identify with the country, it did not create our national identity overnight. Forging a national identity required time and a conscious effort to allow people opportunities to interact and form bonds with one other. They also need to feel that they have a tangible stake in the country’s development and progress.
