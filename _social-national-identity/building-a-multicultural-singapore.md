@@ -148,7 +148,7 @@ Racial & Religious Harmony Circles serve as local networks fostering trust among
 Another example would be hash.peace, a youth-led advocacy group which serves to develop programmes for sustainable social harmony. For example, hash.peace supports the efforts of Religious Rehabilitation Group (RRG) in Singapore by speaking out against groups and individuals with radicalised views. 
 
 ![](/images/society/hashpeace2.jpg)
-Image credit: hash.peace
+(Image: hash.peace)
 
 #### Legislation to safeguard religious harmony 
 
@@ -185,6 +185,7 @@ Recognising that younger generations respond well to a community-driven approach
 Meanwhile, a church and a mosque in Geylang Serai went on TikTok to engage youths and create opportunities for them to learn about each other’s faiths. 
 
 ![](/images/society/tiktok%20geylangserai.jpeg)
+(Image: Screengrabs from Tiktok)
 
 #### New areas of racial and religious diversity
 
