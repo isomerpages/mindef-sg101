@@ -99,9 +99,7 @@ They were also more involved in ground-up non-profit organisations working with 
 
 Such groups included: (1) low-income families whose breadwinners were unable to work due to COVID-19 and kids could not do home-based learning due to lack of internet access; (2) home-bound elderly and those with disabilities who need vaccinations and medical care; and (3) migrant workers, stuck in their living quarters due to circuit breaker measures. 
 
-"COVID-19 has changed the way we live. But it has also further emphasised the importance of building and sustaining a caring and cohesive society," said President Halimah Yacob at the President's Volunteerism and Philanthropy Awards (PVPA) ceremony on 11 October 2021.
-
-"Almost two years on, we are still battling COVID-19. But just as the pandemic has disrupted our economy and everyday life, it has also brought out the best in some Singaporeans, who gave their best for others," she noted.
+![](/images/society/caring/president%20halimah%20quote%201%20v2.png)
  
 To encourage more volunteer groups to tackle community needs arising due to the pandemic, the SG Strong Fund was set up in 2020. The fund raised more than $550,000 for 150 projects . These causes include Project Wellness, which distributed cloth masks and care packs for hospitalised individuals and nursing home residents, and 6th Sense, which distributed devices and data cards for children who needed to do home-based learning.
 
