@@ -6,11 +6,9 @@ Agency for Science, Technology and Research, (18 August 2020), From Lab to Table
 
 Asean, (20 November 2007), 13th Asean Summit Press Statement, National Archives of Singapore, retrieved from [https://www.nas.gov.sg/archivesonline/data/pdfdoc/20071120985.pdf](https://www.nas.gov.sg/archivesonline/data/pdfdoc/20071120985.pdf) 
 
+BBC, (26 June 2019), Robots ‘to replace up to 20 million factory jobs’ by 2030, retrieved from [https://www.bbc.com/news/business-48760799](https://www.bbc.com/news/business-48760799) 
+
 Bloomberg, (27 April 2021), Singapore Is Now the World’s Best Place to Be During Covid, retrieved from [https://www.bloomberg.com/news/newsletters/2021-04-27/singapore-is-now-the-world-s-best-place-to-be-during-covid?sref=nfBouUGg](https://www.bloomberg.com/news/newsletters/2021-04-27/singapore-is-now-the-world-s-best-place-to-be-during-covid?sref=nfBouUGg) 
-
-Boston Consultant Group, (3 April 2017), BCG launches Industry 4.0 Accelerator Program and its first Asian Innovation Centre for Operations (ICO) in Singapore, retrieved from [https://www.bcg.com/en-sea/d/press/3april2017-asian-innovation-centre-for-operations-150605](https://www.bcg.com/en-sea/d/press/3april2017-asian-innovation-centre-for-operations-150605) 
-
-British Broadcasting Corporation, (26 June 2019), Robots ‘to replace up to 20 million factory jobs’ by 2030, retrieved from [https://www.bbc.com/news/business-48760799](https://www.bbc.com/news/business-48760799) 
 
 Building on the Economic Miracle, (2009), retrieved from  [https://www.nas.gov.sg/1stCab/7585/travel\_exh\_Sec4.html](https://www.nas.gov.sg/1stCab/7585/travel_exh_Sec4.html) 
 
