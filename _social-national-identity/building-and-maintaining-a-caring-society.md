@@ -117,7 +117,7 @@ These online volunteering initiatives focus on imparting skills to non-profit or
 
 The SG Cares Office is also working with national intermediaries to grow skills-based volunteerism among working professionals such as accountants and lawyers. Organisations such as the Pro Bono SG (formerly known as Law Society Pro Bono Services) and the Institute of Singapore Chartered Accountants partner local community organisations to curate volunteer opportunities for skills-based volunteers to meet community needs. 
 
-"Skills-based volunteerism has very tangible and intangible benefits, not just to those who receive the benefits of volunteerism, but also to those who give. This approach helps one expand beyond their usual corporate centric goals to encompass a larger purpose in society," said Minister for Culture, Community and Youth Edwin Tong. 
+![](/images/society/caring/edwin%20tong%20quote%202.png)
 
 [![Alt text for image on Isomer site](/images/society/caring/OpenDoc%20Banners-14.gif)](/social-national-identity/examples/volunteerism)
 
