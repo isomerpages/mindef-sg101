@@ -147,6 +147,9 @@ Racial & Religious Harmony Circles serve as local networks fostering trust among
 
 Another example would be hash.peace, a youth-led advocacy group which serves to develop programmes for sustainable social harmony. For example, hash.peace supports the efforts of Religious Rehabilitation Group (RRG) in Singapore by speaking out against groups and individuals with radicalised views. 
 
+![](/images/society/hashpeace2.jpg)
+Image credit: hash.peace
+
 #### Legislation to safeguard religious harmony 
 
 The Maintenance of Religious Harmony Act (MRHA), enacted in 1990, aims to prevent friction and misunderstanding among different religious groups. It also provides the Government with the necessary powers to maintain religious harmony while safeguarding the separation of religion and politics. For example, it allows restraining orders to be issued against those who cause feelings of hatred and enmity between different religious groups.
