@@ -158,7 +158,9 @@ In 2019, the Act was amended to safeguard against foreign actors exploiting reli
 
 "In the nearly 30 years since MRHA was enacted, we look around us. Al Qaeda, ISIS, communal violence in Myanmar, Sri Lanka and more. There are disputes between all major religions across the world, and abuse of religion by politicians and religious leaders,” Law and Home Affairs Minister K Shanmugam told Parliament when the changes to Act were passed on 7 October 2019 . 
 
-“Through this, we stand proud – a beacon of religious tolerance and social harmony. We need to ask ourselves why, why have we been spared?" Mr Shanmugam added that Singapore had previous incidents of religious disharmony, which were handled with “wisdom and common sense”. 
+![](/images/society/Quote%201%20-%20Shanmugam.png)
+
+Mr Shanmugam added that Singapore had previous incidents of religious disharmony, which were handled with “wisdom and common sense”. 
 
 Under the amended Act, more safeguards were put in place to protect local religious organisations against foreign influences . For instance, religious groups will be required to disclose single foreign donations that are above S$10,000 for the Government to assess if there is negative foreign influence.
 
