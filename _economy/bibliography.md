@@ -250,4 +250,4 @@ World Health Organization, (3 March 2020), Shortage of Personal Protective Equip
 
 World Integrated Trade Solution, (n.d.), retrieved from [https://wits.worldbank.org/CountryProfile/en/Country/SGP/Year/2019/TradeFlow/Import/Partner/by-country/Product/UNCTAD-SoP1](https://wits.worldbank.org/CountryProfile/en/Country/SGP/Year/2019/TradeFlow/Import/Partner/by-country/Product/UNCTAD-SoP1) 
 
-Yahoo News, (30 April 2020), COVID-19 to Have Major Long-Term Impact on Singapore’s Economy: PM Lee, retrieved from [https://sg.news.yahoo.com/covid-19-to-have-major-longterm-impact-on-singapores-economy-pm-lee-114615905.html](https://sg.news.yahoo.com/covid-19-to-have-major-longterm-impact-on-singapores-economy-pm-lee-114615905.html)**
+Yahoo News, (30 April 2020), COVID-19 to Have Major Long-Term Impact on Singapore’s Economy: PM Lee, retrieved from [https://sg.news.yahoo.com/covid-19-to-have-major-longterm-impact-on-singapores-economy-pm-lee-114615905.html](https://sg.news.yahoo.com/covid-19-to-have-major-longterm-impact-on-singapores-economy-pm-lee-114615905.html)
