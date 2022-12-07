@@ -100,7 +100,7 @@ This racial and religious harmony is not a natural state for Singapore, nor was 
  
 `Goh Chok Tong, Emeritus Senior Minister and Patron of IRO (2018- present)`
 
-![](/images/society/Strengthen%20religious%20harmony.png)
+![](/images/society/Strengthen%20religious%20harmony%20v2.png)
 
 Efforts to forge mutual understanding and awareness about different beliefs and practices were already underway long before Singapore gained independence. 
 
