@@ -182,7 +182,9 @@ To educate the public on terrorism, extremism and the risk of self-radicalisatio
 
 Recognising that younger generations respond well to a community-driven approach to religious discourse, the youth-led interfaith initiative Roses of Peace has trained youths to become peace ambassadors and interfaith leaders over the past few years.  The non-profit organisation has been equipping youth with digital media advocacy and public speaking skills to build bridges among various religious communities and organise interfaith activities involving over 3000 young volunteers.
 
-Meanwhile, a church and a mosque in Geylang Serai went on TikTok to engage youths and create opportunities for them to learn about each other’s faiths . 
+Meanwhile, a church and a mosque in Geylang Serai went on TikTok to engage youths and create opportunities for them to learn about each other’s faiths. 
+
+![](/images/society/tiktok%20geylangserai.jpeg)
 
 #### New areas of racial and religious diversity
 
