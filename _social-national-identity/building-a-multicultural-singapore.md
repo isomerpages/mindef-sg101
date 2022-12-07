@@ -123,6 +123,7 @@ The location and design of the PWs are planned to optimise land usage while refl
 One example of a PW carefully preserved and integrated into the housing estate is the “tree shrine” in the middle of Toa Payoh town centre. This ficus tree dates to the colonial days and served as a prominent landmark in the kampung area, where it stood steadfast even during Toa Payoh’s redevelopment in the 1960s. A Buddhist shrine, “Ci En Ge”, was later built next to the tree and is an essential site for worship and community events today.
 
 ![](/images/society/ficus%20tree.png)
+Image: The Ci En Ge shrine is devoted the the spirit that lives in the Banyan Tree behind it. 
 
 Today, some PWs also serve as centres for advancing interfaith understanding and religious harmony. One example is the Harmony Centre housed in the An-Nahdhah Mosque in Bishan. Opened in 2006 to promote a greater understanding of Islam and Muslims, it showcases exhibits and artefacts on inter-religious relations in Islamic history, civilisation and lifestyle, and other religions in Singapore.
 
