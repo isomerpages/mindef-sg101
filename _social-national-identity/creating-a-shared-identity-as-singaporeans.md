@@ -16,17 +16,9 @@ Efforts to consciously shape a national identity have shifted from a top-down ap
 
 In 1988, former Prime Minister Goh Chok Tong proposed the idea of a national ideology to help Singaporeans preserve their Asian values amid growing exposure to western lifestyles and ideologies.
 
-A committee led by the then Minister for Trade and Industry Lee Hsien Loong was convened to advance a debate on national ideology, and key values common to the various races and communities in Singapore were identified. The findings were published as a White Paper on 2 Jan 1991, before being debated in Parliament, and eventually adopted on 15 Jan 1991. It outlined five shared values: 
+A committee led by the then Minister for Trade and Industry Lee Hsien Loong was convened to advance a debate on national ideology, and key values common to the various races and communities in Singapore were identified. The findings were published as a White Paper on 2 Jan 1991, before being debated in Parliament, and eventually adopted on 15 Jan 1991. 
 
-> Nation before community and society above self
-> 
->Family as the basic unit of society
->
->Community support and respect for the individual
->
->Consensus, not conflict
->
->Racial and religious harmony.
+![shared values 1991](/images/society/shared%20values.png)
 
 Amid concerns that Singaporeans were too preoccupied with the materialistic "5 C's" values - Cash, Car, Credit Card, Condo and Country Club – in the post-Independence years, the "Remaking Singapore 2002" White Paper sought to relook broad social policy. It steered attention towards the aspirations of a third generation of citizens for a more multi-dimensional, inclusive future for Singapore. The document summed up what Singapore meant to its people under four themes: 
 > A Home for All Singaporeans
