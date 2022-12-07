@@ -10,6 +10,8 @@ BBC, (26 June 2019), Robots ‘to replace up to 20 million factory jobs’ by 20
 
 Bloomberg, (27 April 2021), Singapore Is Now the World’s Best Place to Be During Covid, retrieved from [https://www.bloomberg.com/news/newsletters/2021-04-27/singapore-is-now-the-world-s-best-place-to-be-during-covid?sref=nfBouUGg](https://www.bloomberg.com/news/newsletters/2021-04-27/singapore-is-now-the-world-s-best-place-to-be-during-covid?sref=nfBouUGg) 
 
+Building on the Economic Miracle, (2009), retrieved from  [https://www.nas.gov.sg/1stCab/7585/travel\_exh\_Sec4.html](https://www.nas.gov.sg/1stCab/7585/travel_exh_Sec4.html) 
+
 Business Times, (7 March 1981), The ten-year plan, retrieved from [https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19810307-1.2.28](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19810307-1.2.28) 
 
 Business Times, (23 March 2015), Changi Airport continues to pursue Lee Kuan Yew’s vision: CAG, retrieved from [https://www.businesstimes.com.sg/government-economy/lee-kuan-yew-dies/changi-airport-continues-to-pursue-lee-kuan-yews-vision-cag](https://www.businesstimes.com.sg/government-economy/lee-kuan-yew-dies/changi-airport-continues-to-pursue-lee-kuan-yews-vision-cag) 
@@ -38,7 +40,7 @@ Cheng Siok Hwa (1979), Economic Change in Singapore 1945-1977, Southeast Asian J
 
 CNBC, (12 November 2019), The world’s largest trade deal could be signed in 2020 — and the US isn’t in it, retrieved from [https://www.cnbc.com/2019/11/12/what-is-rcep-asia-pacific-trade-deal-slated-to-be-worlds-largest-fta.html](https://www.cnbc.com/2019/11/12/what-is-rcep-asia-pacific-trade-deal-slated-to-be-worlds-largest-fta.html) 
 
-CNA, (n.d.), The World on Your Plate, retrieved from [http://www.channelnewsasia.com/brandstudio/sgfoodsources](http://www.channelnewsasia.com/brandstudio/sgfoodsources)
+CNA, The World on Your Plate, retrieved from [http://www.channelnewsasia.com/brandstudio/sgfoodsources](http://www.channelnewsasia.com/brandstudio/sgfoodsources)
 
 CNA, (7 March 2019), Singapore aims to produce 30% of its nutritional needs by 2030, up from less than 10%, retrieved from [https://www.channelnewsasia.com/news/singapore/singapore-produce-30-own-food-up-from-10-nutritional-needs-11320426](https://www.channelnewsasia.com/news/singapore/singapore-produce-30-own-food-up-from-10-nutritional-needs-11320426) 
 
@@ -77,8 +79,6 @@ Global Agriculture’s Many Opportunities, (2015), McKinsey, retrieved from [htt
 Goh Chok Tong, (19 October 2003), Keynote Address at the APEC CEO Summit, retrieved from [https://www.nas.gov.sg/archivesonline/data/pdfdoc/20031019\_0001.pdf](https://www.nas.gov.sg/archivesonline/data/pdfdoc/20031019_0001.pdf) 
 
 Goh Chok Tong, (1981), Budget Statement 1981, retrieved from [https://www.nas.gov.sg/archivesonline/data/pdfdoc/gct19810306s.pdf](https://www.nas.gov.sg/archivesonline/data/pdfdoc/gct19810306s.pdf) 
-
-Goh Chok Tong, (20 October 2014), Goh Chok Tong’s midnight golf game with US President Bill Clinton in 2000: The untold story, retrieved from [https://www.straitstimes.com/opinion/goh-chok-tongs-midnight-golf-game-with-us-president-bill-clinton-in-2000-the-untold-story](https://www.straitstimes.com/opinion/goh-chok-tongs-midnight-golf-game-with-us-president-bill-clinton-in-2000-the-untold-story) 
 
 Goh Chok Tong, (6 October 2003), Keynote Address at Inauguration Ceremony of the ASEAN Business and Investment Summit, retrieved from [https://asean.org/keynote-address-by-his-excellency-goh-chok-tong-prime-minister-of-singapore-at-the-inauguration-ceremony-of-the-asean-business-and-investment-summit-asean-bis-nusa-dua-bali/](https://asean.org/keynote-address-by-his-excellency-goh-chok-tong-prime-minister-of-singapore-at-the-inauguration-ceremony-of-the-asean-business-and-investment-summit-asean-bis-nusa-dua-bali/) 
 
@@ -207,6 +207,8 @@ The Straits Times, (5 April 1975), Driving home the need for higher output, retr
 The Straits Times, (18 June 1981), World’s largest column-free hangar, retrieved from [https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810618-1.2.131.4](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810618-1.2.131.4) 
 
 The Straits Times, (6 February 2009), There was a time when Singapore had to dip into its reserves, retrieved from [https://www.straitstimes.com/singapore/from-the-archives-there-was-a-time-when-singapore-had-to-dip-into-its-reserves](https://www.straitstimes.com/singapore/from-the-archives-there-was-a-time-when-singapore-had-to-dip-into-its-reserves) 
+
+The Straits Times, (20 October 2014), Goh Chok Tong’s midnight golf game with US President Bill Clinton in 2000: The untold story, retrieved from [https://www.straitstimes.com/opinion/goh-chok-tongs-midnight-golf-game-with-us-president-bill-clinton-in-2000-the-untold-story](https://www.straitstimes.com/opinion/goh-chok-tongs-midnight-golf-game-with-us-president-bill-clinton-in-2000-the-untold-story) 
 
 The Straits Times, (29 October 2017), Singapore is second-largest Asian investor in the US and its largest trade partner in Asean, retrieved from, [https://www.straitstimes.com/world/united-states/singapore-is-second-largest-asian-investor-in-the-us-and-its-largest-trade](https://www.straitstimes.com/world/united-states/singapore-is-second-largest-asian-investor-in-the-us-and-its-largest-trade) 
 
