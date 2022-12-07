@@ -18,17 +18,12 @@ In 1988, former Prime Minister Goh Chok Tong proposed the idea of a national ide
 
 A committee led by the then Minister for Trade and Industry Lee Hsien Loong was convened to advance a debate on national ideology, and key values common to the various races and communities in Singapore were identified. The findings were published as a White Paper on 2 Jan 1991, before being debated in Parliament, and eventually adopted on 15 Jan 1991. 
 
-![](/images/society/shared%20values%20v2.png)
+![](/images/society/shared%20values%203.png)
 
-Amid concerns that Singaporeans were too preoccupied with the materialistic "5 C's" values - Cash, Car, Credit Card, Condo and Country Club – in the post-Independence years, the "Remaking Singapore 2002" White Paper sought to relook broad social policy. It steered attention towards the aspirations of a third generation of citizens for a more multi-dimensional, inclusive future for Singapore. The document summed up what Singapore meant to its people under four themes: 
-> A Home for All Singaporeans
-> 
-> A Home Owned
-> 
-> A Home for All Seasons
-> 
-> A Home to Cherish.  
-> 
+Amid concerns that Singaporeans were too preoccupied with the materialistic "5 C's" values - Cash, Car, Credit Card, Condo and Country Club – in the post-Independence years, the "Remaking Singapore 2002" White Paper sought to relook broad social policy. It steered attention towards the aspirations of a third generation of citizens for a more multi-dimensional, inclusive future for Singapore. 
+
+![](/images/society/four%20themes%202.png)
+
 While the refreshed identity had an appealing message, it was still seen as a relatively top-down exercise with input from Singapore's political, academic and professional elites, as it did not get general feedback from the "man on the street".
 
 To address this groundswell of public sentiment about the need for wider engagement, the Government launched an initiative in 2012, known as the "Our Singapore Conversation", to interact with Singaporeans on an unprecedented scale:  over 47,000 Singaporeans participated in more than 660 dialogue sessions – both online and in-person or through surveys – over one year to articulate their views and aspirations. 
