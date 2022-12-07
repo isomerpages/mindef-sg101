@@ -10,8 +10,6 @@ BBC, (26 June 2019), Robots ‘to replace up to 20 million factory jobs’ by 20
 
 Bloomberg, (27 April 2021), Singapore Is Now the World’s Best Place to Be During Covid, retrieved from [https://www.bloomberg.com/news/newsletters/2021-04-27/singapore-is-now-the-world-s-best-place-to-be-during-covid?sref=nfBouUGg](https://www.bloomberg.com/news/newsletters/2021-04-27/singapore-is-now-the-world-s-best-place-to-be-during-covid?sref=nfBouUGg) 
 
-Building on the Economic Miracle, (2009), retrieved from  [https://www.nas.gov.sg/1stCab/7585/travel\_exh\_Sec4.html](https://www.nas.gov.sg/1stCab/7585/travel_exh_Sec4.html) 
-
 Business Times, (7 March 1981), The ten-year plan, retrieved from [https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19810307-1.2.28](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19810307-1.2.28) 
 
 Business Times, (23 March 2015), Changi Airport continues to pursue Lee Kuan Yew’s vision: CAG, retrieved from [https://www.businesstimes.com.sg/government-economy/lee-kuan-yew-dies/changi-airport-continues-to-pursue-lee-kuan-yews-vision-cag](https://www.businesstimes.com.sg/government-economy/lee-kuan-yew-dies/changi-airport-continues-to-pursue-lee-kuan-yews-vision-cag) 
@@ -40,7 +38,7 @@ Cheng Siok Hwa (1979), Economic Change in Singapore 1945-1977, Southeast Asian J
 
 CNBC, (12 November 2019), The world’s largest trade deal could be signed in 2020 — and the US isn’t in it, retrieved from [https://www.cnbc.com/2019/11/12/what-is-rcep-asia-pacific-trade-deal-slated-to-be-worlds-largest-fta.html](https://www.cnbc.com/2019/11/12/what-is-rcep-asia-pacific-trade-deal-slated-to-be-worlds-largest-fta.html) 
 
-CNA, The World on Your Plate, retrieved from [http://www.channelnewsasia.com/brandstudio/sgfoodsources](http://www.channelnewsasia.com/brandstudio/sgfoodsources)
+CNA, (n.d.), The World on Your Plate, retrieved from [http://www.channelnewsasia.com/brandstudio/sgfoodsources](http://www.channelnewsasia.com/brandstudio/sgfoodsources)
 
 CNA, (7 March 2019), Singapore aims to produce 30% of its nutritional needs by 2030, up from less than 10%, retrieved from [https://www.channelnewsasia.com/news/singapore/singapore-produce-30-own-food-up-from-10-nutritional-needs-11320426](https://www.channelnewsasia.com/news/singapore/singapore-produce-30-own-food-up-from-10-nutritional-needs-11320426) 
 
