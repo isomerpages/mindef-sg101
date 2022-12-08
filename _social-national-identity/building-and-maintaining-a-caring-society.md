@@ -85,6 +85,8 @@ To raise more public awareness and support, the inaugural Shaping Hearts Festiva
 
 Other ground-up initiatives include the Purple Symphony, an orchestra of over 100 musicians who are differently-abled. This was founded by Member of Parliament Denise Phua, a champion of people with disabilities in Singapore.  Meanwhile, the Inclusive Arts Movement was started by pianist Ron Tan,  who is hard of hearing. Such initiatives have opened many Singaporeans' eyes to differently-abled talents and inspirational stories.
 
+![purple symphony](/images/society/caring/purple%20symphony.jpg)
+(Image: Central Singapore CDC)
 
 #### Volunteerism in Singapore
 
