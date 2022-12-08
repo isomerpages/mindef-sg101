@@ -14,7 +14,7 @@ His thought-provoking piece was one of 15 creations presented at the 2019 Singap
 
 Art can serve as a reflective, forward-looking and versatile form of expression for Singapore's national identity. They help draw Singaporeans of all backgrounds into the national conversation about our shared values and heritage. This equips the nation with the will and creative resources to thrive.
 
-Said Mr Lee Kuan Yew in 2005: "Heritage is not something static, lying hidden to be discovered, admired and conserved. It is a part of the lives of a people; it shapes the ways people meet new challenges and helps them adapt to survive." 
+![](/images/society/case-studies/MM%20Lee%20Kuan%20Yew%20quote%201.png)
  
 As Singapore develops into a vibrant cosmopolitan hub and global city, more citizens engage and participate in different forms of artistic expression to articulate what being Singaporean means to them. One example was the communal artwork created by 40,000 members of the public to commemorate Singapore's 51st birthday during the National Day Parade. Artist Sun Yu-Li gathered these 40,000 different personal interpretations of Singapore in a mosaic displayed with sculptures outside Suntec City and the Singapore Art Museum.
 
