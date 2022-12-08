@@ -4,7 +4,7 @@ permalink: /social-national-identity/case-studies/SportsSceneinSingapore/
 description: ""
 third_nav_title: Case Studies
 ---
-# The role of sports (and athletes) in strengthening national identity
+### The role of sports (and athletes) in strengthening national identity
 
 In August 2016, Joseph Schooling won Singapore's first-ever Olympic gold medal by winning the men's 100 metres butterfly at the Rio Olympics in record time. 
 
