@@ -15,7 +15,7 @@ Singapore erupted in joyful celebration, cheering the achievement of a Singapore
 
 The Olympic win by Schooling further propelled the role of sports in bringing Singaporeans of different backgrounds together, whether to cheer for our athletes or to participate in sports.
 
-Former Deputy Prime Minister Teo Chee Hean at the Singapore Sports Awards ceremony in 2011: "Living in a nation of many races and cultures, we need to find common ground. Sport is that common ground, the space we can all share and celebrate. Sport is our opportunity to unite as one, regardless of language, religion, race or age."
+![](/images/society/case-studies/teo%20chee%20hean%20-%20quote%201.png)
 
 Earlier generations of Singaporeans will fondly recall how Singaporeans of different backgrounds bonded through their support for the Lions' "Dream Team" that won the 1994 Malaysia Cup. Today, Singaporeans continue to display this same national spirit as they draw pride in the achievements and efforts of "Team Singapore". 
 
