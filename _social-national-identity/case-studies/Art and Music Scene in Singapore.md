@@ -10,6 +10,9 @@ How does a structure with a four-legged stand, a wooden middle and a large ceram
 
 For artist and Singapore permanent resident Ahmad Abu Bakar, 56, his artwork depicts pathways between his birthplace Malacca and his current home Sengkang, multiculturalism in Singapore and Malaysia, and "the complexities of the relationship between two countries, two societies, two politics".
 
+![Ahmad Abu Bakar's artwork](/images/society/case-studies/Ahmad%20Abu%20Bakar's%20artwork.jpg)
+(Image: The Private Museum)
+
 His thought-provoking piece was one of 15 creations presented at the 2019 Singapore Utopia exhibition exploring the relationship between national identity and art, covering multiculturalism, intimacy and diaspora. 
 
 Art can serve as a reflective, forward-looking and versatile form of expression for Singapore's national identity. They help draw Singaporeans of all backgrounds into the national conversation about our shared values and heritage. This equips the nation with the will and creative resources to thrive.
