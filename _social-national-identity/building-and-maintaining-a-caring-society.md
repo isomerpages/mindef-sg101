@@ -78,6 +78,9 @@ People with physical disabilities still face challenges in finding employment in
 
 But there is change on this front, with growing awareness of the need to provide equal opportunities for all Singaporeans. A growing number of local companies have launched initiatives to provide more jobs for people with disabilities. For example, United Overseas Bank hires people with autism and hearing impairments for roles such as document archival; Uniqlo Singapore created a mentor-buddy system that pairs store managers with its workers with intellectual disabilities; the National Library Board has trained dozens of people on the autism spectrum to do scanning and digitalising tasks. Meanwhile, ride-hailing and food-delivery service provider Grab hires staff with disabilities, allocating shorter trips to wheelchair-bound riders and hiring a blind software engineer.
 
+![](/images/society/caring/UOB%20scan%20hub%20employee.jpg)
+(Image: UOB. People with autism account for about one-third of the 53 employees at UOB's Scan Hub, where customer documents such as credit card application forms are scanned, classified and archived.)
+
 To raise more public awareness and support, the inaugural Shaping Hearts Festival 2021 invited about 150 community artists with special needs to present artworks and performances over a two-week event in November 2021. 
 
 Other ground-up initiatives include the Purple Symphony, an orchestra of over 100 musicians who are differently-abled. This was founded by Member of Parliament Denise Phua, a champion of people with disabilities in Singapore.  Meanwhile, the Inclusive Arts Movement was started by pianist Ron Tan,  who is hard of hearing. Such initiatives have opened many Singaporeans' eyes to differently-abled talents and inspirational stories.
