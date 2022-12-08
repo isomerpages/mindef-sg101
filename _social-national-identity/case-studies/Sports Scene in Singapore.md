@@ -8,6 +8,9 @@ third_nav_title: Case Studies
 
 In August 2016, Joseph Schooling won Singapore's first-ever Olympic gold medal by winning the men's 100 metres butterfly at the Rio Olympics in record time. 
 
+![Joseph Schooling](/images/society/case-studies/joseph%20schooling.jpg)
+(Image: Olympics)
+
 Singapore erupted in joyful celebration, cheering the achievement of a Singaporean athlete who beat one of the greatest Olympians in history, American Michael Phelps.
 
 The Olympic win by Schooling further propelled the role of sports in bringing Singaporeans of different backgrounds together, whether to cheer for our athletes or to participate in sports.
@@ -34,4 +37,4 @@ The current "Vision 2030", which spans 2013 to 2030, lays out aspirations for Si
 
 One highlight of this vision is the creation of the Super Sports Club to help ensure more people stay active in sports after they leave school. After a year of conceptualizing and planning, ActiveSG was formed to realise the Super Sports Club recommendation, by providing experiential sport-related programmes at sports centres island-wide. This reflects the importance of encouraging more Singaporeans of all fitness and skill levels to experience sports together.
 
-As we continue to root for our national athletes and the aspiring sportsmen and sportswomen among us, our national identity is growing stronger. Our national spirit celebrates not just sporting achievements but also the core attributes of "Pride, Performance and Perseverance" that anchor the ethos of Team Singapore. 
+As we continue to root for our national athletes and the aspiring sportsmen and sportswomen among us, our national identity is growing stronger. Our national spirit celebrates not just sporting achievements but also the core attributes of "Pride, Performance and Perseverance" that anchor the ethos of Team Singapore.
