@@ -52,7 +52,6 @@ After Singapore achieved self-governance in 1959, a shorter and more upbeat vers
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XJlDt-FwfmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 According to Dr Toh, Majulah Singapura was chosen for its patriotic lyrics that expressed the aspirations of the people of Singapore. He added that the lyrics of the national anthem should be in Malay as it is “the indigenous language of the region, as English is not native to this part of the world (…) (the) Malay version of the national anthem would appeal to all races (...) it can be easily understood. And at the same time can be easily remembered (...) it must be brief, to the point; (...) and can be sung.”
 
 Thereafter, our national flag was unveiled on 3 Dec 1959. “The political purpose was to have a flag around which the three different communities of Singapore can rally around. That is important,” said Dr Toh, in an interview with the National Archives of Singapore on 23 August 1989. He was tasked to create the symbols back in 1959 when Singapore achieved self-governance. (Listen to the rest of his interview [here](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001063).)
