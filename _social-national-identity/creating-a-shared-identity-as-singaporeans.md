@@ -125,7 +125,7 @@ And indeed, there are many times when we have stood together as a nation in soli
 
 On 23 March 2015, Singapore’s founding Prime Minister, Lee Kuan Yew, passed away. Over a week, hundreds of thousands paid their last respects at the Istana and 18 community tribute centres across the island. Queues snaked as people braving the blazing sun for eight hours or more at times to say their last goodbyes. Singaporeans took care of one other as they waited to pay their respects, handing out paper fans, food and drinks paid for from their own pockets. In grief, Singaporeans showed solidarity.
 
-![https://www.sg101.gov.sg//social-national-identity/case-studies/PassingofLKY/](/images/society/multicultural/banner%201.gif)
+[![Alt text for image on Isomer site](/images/society/multicultural/banner%201.gif)](/social-national-identity/case-studies/PassingofLKY/)
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/TMeQwCLEnRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
