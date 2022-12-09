@@ -202,7 +202,7 @@ In June 2021, an Indian man posted a video of a Chinese woman hitting a gong in 
 
 Another incident that has attracted national attention is the “Tudung issue”. 
 
-![https://www.sg101.gov.sg//social-national-identity/case-studies/TudungIssue/](/images/society/case-studies/banner%206.gif)
+[![Alt text for image on Isomer site](/images/society/case-studies/banner%206.gif)](/social-national-identity/case-studies/TudungIssue/)
 
 #### The Way Forward
 
