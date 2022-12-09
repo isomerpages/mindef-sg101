@@ -96,10 +96,7 @@ More Singaporeans said they have close friends of another race in 2018 compared 
 
 This racial and religious harmony is not a natural state for Singapore, nor was it easily cultivated. 
 
-> “Singapore might be the world’s most religiously diverse country. Here, you will find almost all religions living together harmoniously. This is the exception rather than the norm. It is only possible because generations of Singaporeans have worked hard to make racial and religious diversity our strength, not our weakness. 
- 
-`Goh Chok Tong, Emeritus Senior Minister and Patron of IRO (2018- present)`
-
+![](/images/society/Goh%20Chok%20Tong%20quote.png)
 ![](/images/society/Strengthen%20religious%20harmony%20v2.png)
 
 Efforts to forge mutual understanding and awareness about different beliefs and practices were already underway long before Singapore gained independence. 
