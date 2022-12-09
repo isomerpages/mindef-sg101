@@ -153,7 +153,6 @@ While some newcomers have successfully built strong ties with the community, oth
 
 This may be why only 17 per cent of Singaporean youth feel that locals and foreigners get along well here despite their differences, compared to 38 percent of foreigners, based on a recent poll by the National Youth Council (NYC) in 2022.  
 
-
 PM Lee noted in his National Day Rally speech in 2019 that just like Singapore’s forefathers, the immigrants of today have to similarly undergo the process of gradually identifying themselves as Singaporeans, and becoming Singapore citizens. This is a process that took many decades. Singapore’s forefathers arrived as sojourners. Those from China intended to return to their homeland one day, but in the end, the majority chose to remain. They saw this as their new home, and worked to make it succeed, and defended their nation fiercely. Gradually, a Chinese Singaporean identity was developed.
 
 It was the same for Malay and Indian Singaporeans. During the period of anti-colonial struggle, the Indians were inspired by India’s own struggle for independence while the Malays were inspired by the nationalist movements in Indonesia and Malaya. But like the Chinese, they too, along with the Eurasians, progressively sank their roots in Singapore and a Singapore identity was developed.
