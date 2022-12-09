@@ -123,6 +123,8 @@ And indeed, there are many times when we have stood together as a nation in soli
 
 On 23 March 2015, Singapore’s founding Prime Minister, Lee Kuan Yew, passed away. Over a week, hundreds of thousands paid their last respects at the Istana and 18 community tribute centres across the island. Queues snaked as people braving the blazing sun for eight hours or more at times to say their last goodbyes. Singaporeans took care of one other as they waited to pay their respects, handing out paper fans, food and drinks paid for from their own pockets. In grief, Singaporeans showed solidarity.
 
+![https://www.sg101.gov.sg//social-national-identity/case-studies/PassingofLKY/](/images/society/multicultural/banner%201.gif)
+
 <iframe width="660" height="415" src="https://www.youtube.com/embed/TMeQwCLEnRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Apart from that, at the 2015 Southeast Asian (SEA) Games, Team Singapore swimmers won the women's 4x200m freestyle relay. The national anthem played while they stood on the podium. However, the PA system crackled and died midway through. Undeterred, Singaporeans in the stands picked up the anthem from where the PA system left off, singing even louder, till the end of the national anthem. The heartfelt rendition drew loud applause from the packed arena, with the swimmers visibly moved.
