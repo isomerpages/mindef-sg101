@@ -131,6 +131,8 @@ Apart from that, at the 2015 Southeast Asian (SEA) Games, Team Singapore swimmer
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/MR-ufovi7V0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+![https://www.sg101.gov.sg//social-national-identity/case-studies/SportsSceneinSG/](/images/society/multicultural/banner%203.gif)
+
 These experiences are examples of the closeness and solidarity that stems from Singaporeans seeing ourselves as one, instead of separate groups. In his 2019 National Day Rally speech, PM Lee highlighted the importance of developing a common national consciousness. He said that it has taken many years but the concept of being Singaporean is now firmly etched in all Singaporeans.
 
 Now, as the world enters troubled times, Singapore faces new and daunting challenges that we can only face if we stand together as a nation.
