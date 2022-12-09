@@ -2,7 +2,7 @@
 title: Creating a Shared Identity as Singaporeans
 permalink: /social-national-identity/sharedidentity/
 ---
-# Forging the Singapore Identity 
+## Forging the Singapore Identity 
 
 Our national identity is constantly evolving with the country's changing demographics, generational shifts, and renewed mindsets about our values and aspirations.
 
