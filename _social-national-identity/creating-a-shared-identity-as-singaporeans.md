@@ -2,7 +2,7 @@
 title: Creating a Shared Identity as Singaporeans
 permalink: /social-national-identity/sharedidentity/
 ---
-# Forging the Singapore Identity 
+### Forging the Singapore Identity 
 
 Our national identity is constantly evolving with the country's changing demographics, generational shifts, and renewed mindsets about our values and aspirations.
 
@@ -52,7 +52,6 @@ After Singapore achieved self-governance in 1959, a shorter and more upbeat vers
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XJlDt-FwfmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 According to Dr Toh, Majulah Singapura was chosen for its patriotic lyrics that expressed the aspirations of the people of Singapore. He added that the lyrics of the national anthem should be in Malay as it is “the indigenous language of the region, as English is not native to this part of the world (…) (the) Malay version of the national anthem would appeal to all races (...) it can be easily understood. And at the same time can be easily remembered (...) it must be brief, to the point; (...) and can be sung.”
 
 Thereafter, our national flag was unveiled on 3 Dec 1959. “The political purpose was to have a flag around which the three different communities of Singapore can rally around. That is important,” said Dr Toh, in an interview with the National Archives of Singapore on 23 August 1989. He was tasked to create the symbols back in 1959 when Singapore achieved self-governance. (Listen to the rest of his interview [here](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001063).)
@@ -77,7 +76,7 @@ After three drafts and multiple revisions, the Singapore pledge was eventually f
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/dIZHmB2r7JM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Singaporeans have increasingly sought to use the flag and other national symbols to show their national pride and solidarity in ways not anticipated by the 1959 rules. On 13 Sep 2022, four more national symbols – our national pledge, national flower Vanda Miss Joaquim, lion head, and public seal – have been formally recognised under the new National Symbols Bill.
+Singaporeans have increasingly sought to use the flag and other national symbols to show their national pride and solidarity in ways not anticipated by the 1959 rules. On 13 September 2022, four more national symbols – our national pledge, national flower Vanda Miss Joaquim, lion head, and public seal – have been formally recognised under the new National Symbols Bill.
 
 #### Forging a National Identity
 
@@ -95,11 +94,11 @@ A big part of forging a common identity lies in the intangible aspects of cultur
 
 Apart from that, art and music were also used to help create a Singaporean culture in the 1990s. Led by then-Acting Minister for the Arts George Yeo, Singapore built The Esplanade and new museums, as well as set up the National Arts Council (NAC).
 
-![https://www.sg101.gov.sg//social-national-identity/case-studies/ArtAndMusicSceneinSingapore/](/images/society/multicultural/banner%204.gif)
+[![Alt text for image on Isomer site](/images/society/multicultural/banner%204.gif)](/social-national-identity/case-studies/ArtMusicSceneinSG/)
 
 Over the years, we have developed a distinctly Singaporean cultural experience, drawing from our richness and diversity from our roots as a migrant nation. Many aspects of our culture are a rich amalgamation and hybrid of Chinese, Malay, Indian, European cultures and so on. Our hawker culture, for one, has made it onto UNESCO’s Intangible Cultural Heritage list.
 
-![https://www.sg101.gov.sg//social-national-identity/case-studies/HawkerCultureinSG/](/images/society/multicultural/banner%205.gif)
+[![Alt text for image on Isomer site](/images/society/multicultural/banner%205.gif)](/social-national-identity/case-studies/HawkerCultureinSG/)
 
 [![Alt text for image on Isomer site](/images/society/sharedid/OpenDoc%20Banners-8.gif)](/social-national-identity/case-studies/heritage)
 
@@ -125,7 +124,7 @@ And indeed, there are many times when we have stood together as a nation in soli
 
 On 23 March 2015, Singapore’s founding Prime Minister, Lee Kuan Yew, passed away. Over a week, hundreds of thousands paid their last respects at the Istana and 18 community tribute centres across the island. Queues snaked as people braving the blazing sun for eight hours or more at times to say their last goodbyes. Singaporeans took care of one other as they waited to pay their respects, handing out paper fans, food and drinks paid for from their own pockets. In grief, Singaporeans showed solidarity.
 
-![https://www.sg101.gov.sg//social-national-identity/case-studies/PassingofLKY/](/images/society/multicultural/banner%201.gif)
+[![Alt text for image on Isomer site](/images/society/multicultural/banner%201.gif)](/social-national-identity/case-studies/PassingofLKY/)
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/TMeQwCLEnRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -133,7 +132,7 @@ Apart from that, at the 2015 Southeast Asian (SEA) Games, Team Singapore swimmer
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/MR-ufovi7V0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![https://www.sg101.gov.sg//social-national-identity/case-studies/SportsSceneinSG/](/images/society/multicultural/banner%203.gif)
+[![Alt text for image on Isomer site](/images/society/multicultural/banner%203.gif)](/social-national-identity/case-studies/SportsSceneinSG/)
 
 These experiences are examples of the closeness and solidarity that stems from Singaporeans seeing ourselves as one, instead of separate groups. In his 2019 National Day Rally speech, PM Lee highlighted the importance of developing a common national consciousness. He said that it has taken many years but the concept of being Singaporean is now firmly etched in all Singaporeans.
 
@@ -152,7 +151,6 @@ In 2020, Singapore saw about 27,470 new permanent residents and 21,085 new citiz
 While some newcomers have successfully built strong ties with the community, others are perceived to stay in their own circles instead of making substantial efforts to learn and appreciate Singapore's multicultural norms.
 
 This may be why only 17 per cent of Singaporean youth feel that locals and foreigners get along well here despite their differences, compared to 38 percent of foreigners, based on a recent poll by the National Youth Council (NYC) in 2022.  
-
 
 PM Lee noted in his National Day Rally speech in 2019 that just like Singapore’s forefathers, the immigrants of today have to similarly undergo the process of gradually identifying themselves as Singaporeans, and becoming Singapore citizens. This is a process that took many decades. Singapore’s forefathers arrived as sojourners. Those from China intended to return to their homeland one day, but in the end, the majority chose to remain. They saw this as their new home, and worked to make it succeed, and defended their nation fiercely. Gradually, a Chinese Singaporean identity was developed.
 

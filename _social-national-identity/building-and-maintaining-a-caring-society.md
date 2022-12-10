@@ -132,7 +132,7 @@ In March 2003, a deadly then-unknown virus made its way from Hong Kong to Singap
 
 Taxis and buses refused to stop at Tan Tock Seng Hospital (TTSH), the designated screening and treatment centre for SARS. Neighbours did not want to ride the lift with nurses. Queues at food courts would quickly shorten when a nurse joined the line. After hearing about these incidents at a dialogue with TTSH staff, Dr S. Balaji, then-Minister of State for Health highlighted the issue to the media, who then made the public aware of these discriminatory, fearful practices.
 
-![https://www.sg101.gov.sg//social-national-identity/case-studies/OurFightAgainstSARS/](/images/society/caring/banner%202.gif)
+[![Alt text for image on Isomer site](/images/society/caring/banner%202.gif)](/social-national-identity/case-studies/OurFightAgainstSARS/)
 
 There was an outpouring of tributes to healthcare workers on the SARS frontline, with some Singaporeans writing in to forums to condemn discriminatory behaviour towards them, while others sent food, drinks and bouquets to TTSH.
 

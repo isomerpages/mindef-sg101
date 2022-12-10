@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Case Studies
 ---
 
+
 ### Fried rice paradise: How hawker culture has become an essential ingredient of national identity
 
 Regardless of race, language or religion, Singaporeans bond through their taste buds, embracing a mind-blowing plethora of cuisines that have evolved and fused over many decades in the cross-cultural melting pot of this island city.

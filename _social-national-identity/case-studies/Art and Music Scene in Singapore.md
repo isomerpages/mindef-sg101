@@ -1,9 +1,10 @@
 ---
 title: Art and Music Scene in Singapore
-permalink: /social-national-identity/case-studies/ArtAndMusicSceneinSingapore/
+permalink: /social-national-identity/case-studies/ArtMusicSceneinSG/
 description: ""
 third_nav_title: Case Studies
 ---
+
 ### Retaining the soul of Singapore through art and music  
 
 How does a structure with a four-legged stand, a wooden middle and a large ceramic head shaped like a saga seed represent the relationship between art and national identity? 
