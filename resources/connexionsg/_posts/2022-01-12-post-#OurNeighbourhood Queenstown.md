@@ -9,8 +9,7 @@ image: ""
 ![](/images/connexionsg/2023/Queenstown.jpg)
 📷: A current bird's eye view of Queenstown estate. [HDB]
 
-
-When public spaces are designed with care, people develop strong connections to the area. The space then gets transformed into a place: more than just a physical location, it becomes a site where memories and meaning are built into it over time.
+When public spaces are designed with care, people develop strong connections to the area. The space then gets transformed into a place: more than just a physical location, it becomes a site where memories and meaning are built into it over time. 
 
 One example of such a place is Queenstown, developed by the HDB’s predecessor, the Singapore Improvement Trust (SIT) in the 1950s. Queenstown was built to be more than just blocks of flats. Singapore’s first satellite town was an experimental effort in creating a “self-contained” district away from the city centre, with its own council, schools, clinics, and markets within walking distance from home.
 
@@ -23,6 +22,3 @@ Queenstown will soon be our country’s first health district with infrastructur
 Queenstown is where the urban design pioneered liveable neighbourhoods for the rest of the nation. Its transformation into our first health district will ensure it remains a place of historic reference, for years to come.
 
 #OurNeighbourhood #Placemaking #SGPlacemaking
-
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
-
