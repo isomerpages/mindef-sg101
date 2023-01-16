@@ -20,3 +20,5 @@ Jurong Bird Park in its current form will cease operations after 52 years to rel
 The relocation presents an opportunity for our nation's avian park to re-invent itself with state-of-the-art facilities and better living environments for its avian residents. The next weekends are the last ones for us to experience Jurong Bird Park at its original site before it ceases operations on 3 Jan 2023 and morphs into a better one at Mandai!
 
 [Jurong Bird Park will be running a series of heritage tours and displays on its history until 3 Jan 2023.]
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
