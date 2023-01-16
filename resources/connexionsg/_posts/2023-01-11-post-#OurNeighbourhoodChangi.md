@@ -24,3 +24,4 @@ Going forward, the broader Changi region is anticipated to become Singapore’s 
 With its unique charm and heritage, Changi will continue to have a special place in our hearts.
 #OurNeighbourhood #Placemaking #SGPlacemaking
 
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
