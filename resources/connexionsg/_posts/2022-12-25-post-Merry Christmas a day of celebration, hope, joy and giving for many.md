@@ -6,3 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/connexionsg/2023/Merry%20Christmas%202022.jpg)
+
+Christmas – a day of celebration, hope, joy and giving for many. Christians commemorate the birth of Jesus Christ on this day, while others spend this festive season in the warm company of family and friends.
+
+With the gradual easing of safe distancing measures, we can expect more lively festivities this year. Here’s wishing everyone good tidings, peace, joy and health.
+
+Merry Christmas! 🎄
