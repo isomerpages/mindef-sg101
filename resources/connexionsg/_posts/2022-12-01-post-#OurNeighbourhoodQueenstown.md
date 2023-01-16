@@ -22,6 +22,4 @@ Queenstown will soon be our country’s first health district with infrastructur
 Queenstown is where the urban design pioneered liveable neighbourhoods for the rest of the nation. Its transformation into our first health district will ensure it remains a place of historic reference, for years to come.
 #OurNeighbourhood #Placemaking #SGPlacemaking
 
-
-
-
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
