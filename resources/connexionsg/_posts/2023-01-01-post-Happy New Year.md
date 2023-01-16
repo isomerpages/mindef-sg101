@@ -13,3 +13,5 @@ image: ""
 Just as morning follows after the night, new beginnings come after endings.
 
 Here’s to welcoming new beginnings in 2023! Happy New Year! 🥳
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
