@@ -25,5 +25,6 @@ Our acts of altruism and neighbourliness could start a chain reaction of kindnes
 
 📝 Quote from https://www.volunteer.gov.sg/ 
 
-🔗: The Individual Giving Study 2021 (https://cityofgood.sg/.../Individual-Giving-Study-2021.pdf) 
+🔗: The Individual Giving Study 2021 (https://cityofgood.sg/.../Individual-Giving-Study-2021.pdf)
 
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
