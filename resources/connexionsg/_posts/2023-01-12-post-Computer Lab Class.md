@@ -20,4 +20,4 @@ Why did you like your computer lab lessons, and what was the most memorable thin
 
 #ThrowbackThursday #ThrowbackThursdaySG #computerlab #school
 
-
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg) for more content.
