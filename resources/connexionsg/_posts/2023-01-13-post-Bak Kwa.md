@@ -17,3 +17,5 @@ A very popular delicacy in Singapore, bak kwa have taken on many variations over
 Many of us will certainly be excited to indulge in this delicious treat with our friends and relatives during this festive period, but remember to have it in moderation for the best Lunar New Year experience possible!
 
 #FoodieFriday #FoodieFridaySG #bakkwa #Singapore #LunarNewYear
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
