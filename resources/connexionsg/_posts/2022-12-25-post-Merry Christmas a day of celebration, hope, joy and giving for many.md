@@ -13,3 +13,5 @@ Christmas – a day of celebration, hope, joy and giving for many. Christians co
 With the gradual easing of safe distancing measures, we can expect more lively festivities this year. Here’s wishing everyone good tidings, peace, joy and health.
 
 Merry Christmas! 🎄
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
