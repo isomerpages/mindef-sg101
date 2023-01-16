@@ -19,4 +19,4 @@ However, the measures were inadequate — on 8 December 1941, many people ran ou
 
 On 8 February 1942, the land invasion was launched as Japanese assualt troops crossed over from Malaya to the coastline between Lim Chu Kang Road and Sarimbun Beach. One week later, on 15 February, Singapore fell. Only on 12 September 1945 did the often brutal Japanese Occupation end. #NeverAgainSG
 
-
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
