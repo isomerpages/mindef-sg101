@@ -25,3 +25,5 @@ The Yue Hwa building has since been gazetted for conservation by the Urban Redev
 Today, the Yue Hwa Building continues to be a landmark in Chinatown. Singaporeans and tourists can shop here for traditional Chinese products such as snacks, apparel, traditional Chinese medicines (TCM), antique furniture, and oriental ornaments among others.
 
 #HEREitage
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
