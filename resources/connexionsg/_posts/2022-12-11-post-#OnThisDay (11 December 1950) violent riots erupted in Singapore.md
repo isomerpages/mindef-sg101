@@ -19,3 +19,5 @@ The riots remind us that from time to time, sensitive issues will crop up and po
 
 Source of statistics: Infopedia, NLB. Maria Hertogh Riots. https://eresources.nlb.gov.sg/.../SIP_83_2005-02-02.html 
 Other sources: S R Nathan, 2011. An Unexpected Journey: Path to the Presidency.
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
