@@ -20,3 +20,4 @@ With many attractions, activities, and breathtaking views to offer, MacRitchie N
 
 #SundayFunday #nature #naturelovers #outdoors #family #weekend #hike #healthierSG
 
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
