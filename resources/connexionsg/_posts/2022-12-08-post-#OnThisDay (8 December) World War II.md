@@ -19,3 +19,5 @@ In 1936, the British colonial government’s Air Raids and Bombardment Precautio
 However, the measures were inadequate — on 8 December 1941, many people ran out to the streets in panic after hearing the explosions, and some thought it was only an air raid exercise. A number of people who had alerted the local authorities were told that the raid was only a practice. By January 1942, there were two to three air raids daily, killing more than 1,000 people that month.
 
 On 8 February 1942, the land invasion was launched as Japanese assualt troops crossed over from Malaya to the coastline between Lim Chu Kang Road and Sarimbun Beach. One week later, on 15 February, Singapore fell. Only on 12 September 1945 did the often brutal Japanese Occupation end. #NeverAgainSG
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
