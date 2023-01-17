@@ -21,4 +21,4 @@ On 8 February 1942, the land invasion was launched as Japanese assualt troops cr
 
 #NeverAgainSG
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
