@@ -18,4 +18,4 @@ Many of us will certainly be excited to indulge in this delicious treat with our
 
 #FoodieFriday #FoodieFridaySG #bakkwa #Singapore #LunarNewYear
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
