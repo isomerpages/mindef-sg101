@@ -76,13 +76,17 @@ More information regarding the Total Defence Sandbox can be found [here](https:/
 
 
 ****
-#### **More TD Resources and Activities**
-You may find more TD resources and Activities such as Total Defence Song, Total Defence Sandbox, Total Defence Puzzle, Guardians of the City II Card Game [here](https://www.mindef.gov.sg/oms/imindef/mindef_websites/topics/totaldefence/resources.html).
+
+#### **Total Defence Badge Programme**
+![Total Defence Badge (Gold, Silver, Bronze)](/images/TD%20Badge%20(Gold,Silver,Bronze)%202023.png)
+The Total Defence Programme for Uniformed Groups (UGs) aims to promote awareness and involvement in Total Defence by UGs for the attainment of different levels (Bronze, Silver and Gold Badges) of the programme. The refreshed programme provides more opportunities for UG cadets to put Total Defence into action with a greater emphasis on practical emergency preparedness skills, self-directed learning and active citizenry through volunteering. 
+
+For more details, please click [here] . Schools may write in directly to nexus@defence.gov.sg to request for the badges for the non-UG students.
 
 ****
 
-#### **Total Defence Badge Programme**
-The Facilitation Guide for the Total Defence Badge Programme is a work-in-progress. Watch this space for more updates!
+#### **More TD Resources and Activities**
+You may find more TD resources and Activities such as Total Defence Song, Total Defence Sandbox, Total Defence Puzzle, Guardians of the City II Card Game [here] (https://drive.google.com/drive/folders/1fuABBH_EteJ_aimlel)
 
 ****
 
@@ -101,3 +105,5 @@ You may find useful podcasts related to Total Defence below. Please note that yo
 **#2 - Keeping our Food Supply Secure:** In the wake of Malaysia’s chicken export ban, Singapore Food Agency’s Gwyneth Tey shares about the country’s strategies in ensuring a safe supply of food and how everyone can play a role to strengthen our food security. Listen [here](https://go.gov.sg/tdpodcast2).
 
 **#3 - Reflections on Resilience from the Ukraine War:** Most of us would have heard of Total Defence before, but how and why does playing your part really matter? Hear from former actor Ix Shen who is currently living in war-torn Ukraine, and Singapore Red Cross Senior Director Sahari Ani, who has spent months helping displaced refugees from the conflict. Listen [here](go.gov.sg/tdpodcast3).
+
+****
