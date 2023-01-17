@@ -21,4 +21,4 @@ Source of statistics: Infopedia, NLB. Maria Hertogh Riots. https://eresources.nl
 
 Other sources: S R Nathan, 2011. An Unexpected Journey: Path to the Presidency.
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
