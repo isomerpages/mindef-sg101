@@ -21,4 +21,4 @@ The relocation presents an opportunity for our nation's avian park to re-invent 
 
 [Jurong Bird Park will be running a series of heritage tours and displays on its history until 3 Jan 2023.]
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
