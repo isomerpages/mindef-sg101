@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![](/images/connexionsg/2023/Changi_1.jpg)
 📷 1: Changi Village, c.1945. David Turner Collection, courtesy of National Archives of Singapore [NAS]
 ![](/images/connexionsg/2023/Changi%20Beach.jpg)
@@ -23,6 +22,7 @@ Changi is also where we land when we come from flights abroad. When Singapore Ch
 Going forward, the broader Changi region is anticipated to become Singapore’s Eastern Gateway where a live-work-play-learn ecosystem around the airport, comprising the Singapore University of Technology & Design, Changi Business Park and the future Changi East Urban District, will be developed to further elevate Singapore’s status as an aviation hub.
 
 With its unique charm and heritage, Changi will continue to have a special place in our hearts.
+
 #OurNeighbourhood #Placemaking #SGPlacemaking
 
 Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
