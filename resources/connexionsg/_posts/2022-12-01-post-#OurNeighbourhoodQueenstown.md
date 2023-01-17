@@ -23,4 +23,4 @@ Queenstown is where the urban design pioneered liveable neighbourhoods for the r
 
 #OurNeighbourhood #Placemaking #SGPlacemaking
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
