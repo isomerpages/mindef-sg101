@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![](/images/connexionsg/2023/national%20symbols.png)
 📷: Four more national symbols have been recognised under the National Symbols Bill.
 
@@ -26,4 +25,4 @@ Under this new Bill, there would be more flexibility in usage. A prescribed pers
 
 🔗: https://www.parliament.gov.sg/docs/default-source/default-document-library/national-symbols-bill-21-2022.pdf
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
