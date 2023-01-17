@@ -32,10 +32,12 @@ What are the consequences of your choices? In the Total Defence Interactive Vide
 Experience the video and understand what you can do to play your part for Total Defence!
 
 **(New) Total Defence Interactive Video #2 (2023)**
-
+![Total Defence Interactive Video 2](/images/tdiv2.png)
+Watch the new Total Defence Interactive Video #2 (2023) [here] (https://go.gov.sg/tdiv2).
 
 **Total Defence Interactive Video #1 (2022)**
-
+![Total Defence Interactive Video 1](/images/tdiv1.png)
+Watch the Total Defence Interactive Video #1 (2022) [here] (https://go.gov.sg/tdinteractivevid).
 
 ****
 #### **Total Defence Engagement Packages**
