@@ -20,6 +20,7 @@ In 2021, HDB revealed that Queenstown will be the first estate to undergo a pilo
 Queenstown will soon be our country’s first health district with infrastructure for residents to lead physically and mentally healthy lifestyles, for example, on wellness trails and easily accessible jogging loops. At Queenstown, there will be improved access to preventive health services, with on-site health screenings and vaccinations easily available to residents, and places where health talks can be conducted within the community to foster healthy ageing.
 
 Queenstown is where the urban design pioneered liveable neighbourhoods for the rest of the nation. Its transformation into our first health district will ensure it remains a place of historic reference, for years to come.
+
 #OurNeighbourhood #Placemaking #SGPlacemaking
 
 Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
