@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![](/images/connexionsg/2023/Riots.jpg)
 📷: A member of the riot squad trying to stop a rioter during the Maria Hertogh riot. (NAS)
 
@@ -19,6 +18,7 @@ On the morning of 11 December 1950, the day when Aminah’s appeal was to be hea
 The riots remind us that from time to time, sensitive issues will crop up and pose a challenge to our racial and religious harmony. We need to handle issues of race and religion with sensitivity, so as not to destroy the long-standing bonds that we have established amongst the races over the years. In particular, as the Internet and social media are prevalent, all the more we should be wary of mischievous and insensitive remarks which can become viral and spread quickly amongst our population.
 
 Source of statistics: Infopedia, NLB. Maria Hertogh Riots. https://eresources.nlb.gov.sg/.../SIP_83_2005-02-02.html 
+
 Other sources: S R Nathan, 2011. An Unexpected Journey: Path to the Presidency.
 
 Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
