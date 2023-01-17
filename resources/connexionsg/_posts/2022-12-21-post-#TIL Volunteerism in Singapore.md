@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![](/images/connexionsg/2023/Volunteerism.jpg)
 📸: Sharing of a hand sanitiser and masks in a lift. (Credits to: Minister Ong Ye Kung’s Instagram page)
 
