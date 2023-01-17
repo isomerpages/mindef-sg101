@@ -13,6 +13,7 @@ Every Singaporean has a part to play in our daily lives to ensure that Singapore
 
 Below are some resources on Total Defence which you may find useful for your engagement. 
 
+****
 #### **Total Defence 2023 Campaign Poster**
 
 ![Total Defence 2023 Campaign Poster](/images/TD2023%20Poster%20with%20Frame%20Final.jpg)
@@ -24,6 +25,19 @@ The poster can be downloaded [here] (https://go.gov.sg/tdposter23).
 
 A black-and-white (b/w) version of the Total Defence poster will also be made available at the same link by end-January as a Total Defence activity sheet for printing and distribution as a colouring activity.
 
+****
+#### **Total Defence Interactive Video 2023**
+What are the consequences of your choices? In the Total Defence Interactive Video, you will get to make decisions that will determine the outcome of the character's day.
+
+Experience the video and understand what you can do to play your part for Total Defence!
+
+**(New) Total Defence Interactive Video #2 (2023)**
+
+
+**Total Defence Interactive Video #1 (2022)**
+
+
+****
 #### **Total Defence Engagement Packages**
 You may use this engagement package to discuss or better understand the relevance of Total Defence and how each of us can play a part in keeping Singapore strong, amidst the challenges and threats we face. The Total Defence Day 2023 NE Engagement Package will be available by end-January.
 
@@ -33,6 +47,9 @@ Meanwhile, you may check out past years' packages below:
 
 ****
 #### **Total Defence Day Video Messages**
+Stay tuned to this space! The Total Defence Day 2023 Video Message will be available on [WATD Facebook page] (https://www.facebook.com/WeAreTotalDefence) and [TotalDefenceSG YouTube page] (https://www.youtube.com/@TotalDefenceSG).
+
+In the meantime, you may check out the previous years' Total Defence Video Message below:
 
 **Minister for Defence's Total Defence Day 2022 Message**. Download the transcript [here](/files/Transcript%20-%20Minister%20for%20Defence%20Total%20Defence%20Day%202022%20Message.pdf).
 
@@ -53,6 +70,7 @@ You may find past speeches and press releases on Total Defence [here](https://ww
 You may find more TD resources and Activities such as Total Defence Song, Total Defence Sandbox, Total Defence Puzzle, Guardians of the City II Card Game [here](https://www.mindef.gov.sg/oms/imindef/mindef_websites/topics/totaldefence/resources.html).
 
 ****
+
 #### **Total Defence Badge Programme**
 The Facilitation Guide for the Total Defence Badge Programme is a work-in-progress. Watch this space for more updates!
 
