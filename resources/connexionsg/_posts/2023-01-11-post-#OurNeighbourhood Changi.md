@@ -25,4 +25,4 @@ With its unique charm and heritage, Changi will continue to have a special place
 
 #OurNeighbourhood #Placemaking #SGPlacemaking
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
