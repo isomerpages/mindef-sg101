@@ -17,3 +17,5 @@ Perhaps the most important component of an excellent bowl of Lor Mee is the grav
 Enjoy a bowl of Lor Mee today or during the weekend and feel the warm, tasty broth slide down your throat! Let us know in the comments which style of Lor Mee you prefer, and from where!
 
 #FoodieFriday #TGIF #Friyay #hawker #lormee
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
