@@ -15,3 +15,4 @@ Just a friendly reminder that our challenges bring us ripe opportunities to test
 
 #MondayMotivation #challenge #henryford
 
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
