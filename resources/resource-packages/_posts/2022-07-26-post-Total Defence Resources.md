@@ -21,7 +21,7 @@ The theme of the Total Defence campaign and poster is "Together We Keep Singapor
 
 This year's poster features what Singaporeans can do to put Total Defence in action in their everyday lives, and how we can be more prepared during a crisis or disruption.
 
-The poster can be downloaded [here] (https://go.gov.sg/tdposter23).
+The poster can be downloaded [here](https://go.gov.sg/tdposter23).
 
 A black-and-white (b/w) version of the Total Defence poster will also be made available at the same link by end-January as a Total Defence activity sheet for printing and distribution as a colouring activity.
 
@@ -33,11 +33,11 @@ Experience the video and understand what you can do to play your part for Total 
 
 **(New) Total Defence Interactive Video #2 (2023)**
 ![Total Defence Interactive Video 2](/images/tdiv2.png)
-Watch the new Total Defence Interactive Video #2 (2023) [here] (https://go.gov.sg/tdiv2).
+Watch the new Total Defence Interactive Video #2 (2023) [here](https://go.gov.sg/tdiv2).
 
 **Total Defence Interactive Video #1 (2022)**
 ![Total Defence Interactive Video 1](/images/tdiv1.png)
-Watch the Total Defence Interactive Video #1 (2022) [here] (https://go.gov.sg/tdinteractivevid).
+Watch the Total Defence Interactive Video #1 (2022) [here](https://go.gov.sg/tdinteractivevid).
 
 ****
 #### **Total Defence Engagement Packages**
@@ -49,7 +49,7 @@ Meanwhile, you may check out past years' packages below:
 
 ****
 #### **Total Defence Day Video Messages**
-Stay tuned to this space! The Total Defence Day 2023 Video Message will be available on [WATD Facebook page] (https://www.facebook.com/WeAreTotalDefence) and [TotalDefenceSG YouTube page] (https://www.youtube.com/@TotalDefenceSG).
+Stay tuned to this space! The Total Defence Day 2023 Video Message will be available on [We Are Total Defence (WATD) Facebook page](https://www.facebook.com/WeAreTotalDefence) and [Total Defence YouTube page](https://www.youtube.com/@TotalDefenceSG).
 
 In the meantime, you may check out the previous years' Total Defence Video Message below:
 
@@ -81,17 +81,14 @@ More information regarding the Total Defence Sandbox can be found [here](https:/
 ![Total Defence Badge (Gold, Silver, Bronze)](/images/TD%20Badge%20(Gold,Silver,Bronze)%202023.png)
 The Total Defence Programme for Uniformed Groups (UGs) aims to promote awareness and involvement in Total Defence by UGs for the attainment of different levels (Bronze, Silver and Gold Badges) of the programme. The refreshed programme provides more opportunities for UG cadets to put Total Defence into action with a greater emphasis on practical emergency preparedness skills, self-directed learning and active citizenry through volunteering. 
 
-For more details and to download the Facilitation Guide, please click [here] (https://drive.google.com/drive/folders/1fuABBH_EteJ_aimlelRBTp8n7IDzbEpd?usp=sharing_eil_m&ts=63155ae6). Schools may write in directly to nexus@defence.gov.sg to request for the badges for the non-UG students.
+For more details and to download the Facilitation Guide, please click [here](https://drive.google.com/drive/folders/1fuABBH_EteJ_aimlelRBTp8n7IDzbEpd?usp=sharing_eil_m&ts=63155ae6). Schools may also write in directly to nexus@defence.gov.sg to request for the badges for the non-UG students.
 
 ****
 
 #### **More TD Resources and Activities**
-You may find more TD resources and Activities such as Total Defence Song, Total Defence Sandbox, Total Defence Puzzle, Guardians of the City II Card Game [here] (https://drive.google.com/drive/folders/1fuABBH_EteJ_aimlel)
+You may find more TD resources and Activities such as Total Defence Song, Total Defence Sandbox, Total Defence Puzzle, Guardians of the City II Card Game [here](https://www.mindef.gov.sg/oms/imindef/mindef_websites/topics/totaldefence/resources.html).
 
 ****
-Shitting
-
-
 
 
 #### **Useful Videos**
