@@ -21,7 +21,7 @@ The theme of the Total Defence campaign and poster is "Together We Keep Singapor
 
 This year's poster features what Singaporeans can do to put Total Defence in action in their everyday lives, and how we can be more prepared during a crisis or disruption.
 
-The poster can be downloaded [here] (https://go.gov.sg/tdposter23).
+The poster can be downloaded [here](https://go.gov.sg/tdposter23).
 
 A black-and-white (b/w) version of the Total Defence poster will also be made available at the same link by end-January as a Total Defence activity sheet for printing and distribution as a colouring activity.
 
