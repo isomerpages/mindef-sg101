@@ -15,3 +15,5 @@ Poor queue management led to flaring tempers and spats among customers. Some wer
 What’s the longest queue you’ve been in, for something you really wanted?
 
 #ThrowbackThursday #HelloKitty #McDonald’s #Singapore #queue
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
