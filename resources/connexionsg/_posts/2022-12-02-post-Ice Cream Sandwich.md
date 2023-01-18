@@ -15,3 +15,5 @@ A unique feature of the ice cream sandwich is in how it is prepared and served. 
 Enjoy one of these sweet treats on a hot, humid day and feel the bliss of the cold, creamy ice cream melt down your throat! 😋 Let us know in the comments if you prefer your ice cream sandwich wrapped in a bread, wafer biscuit, or served in a cup! 🍦🍦🍦
 
 #FoodieFriday #SGHawker #hawkerculture #streetfood #icecreamsandwich
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
