@@ -18,3 +18,5 @@ A deciduous tree, the Kapok sheds its leaves before flowering and fruiting in re
 Only eight Kapok trees are listed as heritage trees in Singapore. One such heritage Kapok tree is located at Toa Payoh North Flyover. This Kapok tree was planted in the early 1970s, around the time the Toa Payoh satellite town and the flyover were built. It now stands as a living landmark for commuters.
 
 #WildlifeWednesday #WildlifeWednesdaySG #Kapok #CeibaPentandra #JavaCotton #JavaKapok #Nature #Singapore #Wildlife
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
