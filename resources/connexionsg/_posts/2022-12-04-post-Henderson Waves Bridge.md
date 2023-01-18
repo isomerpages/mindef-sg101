@@ -15,3 +15,5 @@ If you’re wondering where you can take a walk after a delicious Sunday dinner,
 Standing at 36 metres above ground, the Henderson Waves Bridge was unveiled in 2008 and sports a unique design mimicking undulating waves - hence the name. From the bridge, you will be able to take in the sights, scents, and sounds of our local wildlife, along with some stunning views of the island to boot!
 
 #SundayFunday #family #weekend #hike #health #hendersonwaves #bridge #healthierSG
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
