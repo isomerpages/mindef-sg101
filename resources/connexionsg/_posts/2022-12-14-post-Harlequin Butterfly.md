@@ -6,10 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
-
-
-
 ![](/images/connexionsg/2023/319350552_675302010982011_2010677209611291925_n.jpg)
 
 Beautiful but very rare in Singapore, the Harlequin butterfly lives primarily in the forest due to its preference for heavily shaded areas, and where its host plant is found. The adult butterfly typically flit from leaf to leaf at brushes near the forest floor, often with half-opened wings. Perhaps what makes the Harlequin butterfly stand out from the rest of its kind is that it is not a nectar feeder, preferring instead the microscopic substances on leaf surfaces.
@@ -20,4 +16,4 @@ Today, the biggest threat to the survival of the Harlequin butterfly is rapid de
 
 #WildlifeWednesday #WildlifeWednesdaySG #Singapore #butterfly #conservation
 
-
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
