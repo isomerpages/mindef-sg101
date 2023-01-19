@@ -19,5 +19,6 @@ Singapore’s red packet “rules” include: gifting money in even numbers, as 
 
 In the last two years, digital disruption to tradition became more apparent as electronic red packets rose in popularity in Singapore, especially when the COVID-19 pandemic restricted physical gatherings. An electronic red packet is convenient and eliminates the need to carry around physical cash but some may feel that paper red packets show more respect and sincerity. Now that physical gatherings are back, are physical ang pows #GoneOrOn?
 
-#Singapore #chinesenewyear #lunarnewyear 
+#Singapore #chinesenewyear #lunarnewyear
 
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
