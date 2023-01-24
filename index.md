@@ -36,8 +36,10 @@ sections:
   - infopic:
       title: Retaining the soul of Singapore through art and music
       subtitle: Case Studies
-      description: Infopic description
-      button: Button Text
+      description: "How do art and music serve as a reflective, forward-looking and
+        versatile form of expression for Singapore’s national identity? "
+      button: Read more
       url: /social-national-identity/case-studies/artmusicsceneinsg/
       alt: Image alt text
+      image: /images/getai.jpeg
 ---
