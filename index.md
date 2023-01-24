@@ -25,7 +25,7 @@ sections:
       subtitle: What's New
       button: More Resources
   - infopic:
-      title: "Agritech in Singapore: Achieving Food and Economic Security"
+      title: "Agritech in Singapore: achieving food and economic security"
       subtitle: Case Studies
       description: In the 1960s, farmland occupied 14,000 ha of land in Singapore. By
         1988, this fell 2,037 ha. Today, 90% of what we eat is imported…
