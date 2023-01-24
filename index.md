@@ -51,4 +51,13 @@ sections:
       url: /infrastructure/case-studies/placemaking
       image: /images/upcs-21.png
       alt: Image alt text
+  - infopic:
+      title: National Service through the years
+      subtitle: Case studies
+      description: Over the years, NS has become a national institution and part of
+        our way of life. It is the cornerstone of our national identity…
+      button: Read More
+      url: /defence-and-security/case-studies/national-service
+      image: /images/Defence/NS Registration.jpg
+      alt: Image alt text
 ---
