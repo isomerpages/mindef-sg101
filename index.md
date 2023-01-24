@@ -25,13 +25,12 @@ sections:
       subtitle: What's New
       button: More Resources
   - infopic:
-      title: COVID-19
-      subtitle: Case Studies update
-      description: In any time of crisis, we can either choose to band together, or
-        draw apart. The COVID-19 pandemic and its consequences, termed “the
-        crisis of a generation...
+      title: "Agritech in Singapore: Achieving Food and Economic Security"
+      subtitle: Case Studies
+      description: In the 1960s, farmland occupied 14,000 ha of land in Singapore. By
+        1988, this fell 2,037 ha. Today, 90% of what we eat is imported…
       button: Read more
-      url: /social-national-identity/case-studies/covid19
-      image: /images/s_n.png
+      url: /economy/digging-deeper-case-studies/agritechinsg
+      image: /images/singapore_the_next_great_place_for_urban_agriculture_01.jpeg
       alt: Image alt text
 ---
