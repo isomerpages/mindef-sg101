@@ -33,4 +33,11 @@ sections:
       url: /economy/digging-deeper-case-studies/agritechinsg
       image: /images/singapore_the_next_great_place_for_urban_agriculture_01.jpeg
       alt: Image alt text
+  - infopic:
+      title: Retaining the soul of Singapore through art and music
+      subtitle: Case Studies
+      description: Infopic description
+      button: Button Text
+      url: /social-national-identity/case-studies/artmusicsceneinsg/
+      alt: Image alt text
 ---
