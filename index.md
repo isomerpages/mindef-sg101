@@ -42,4 +42,13 @@ sections:
       url: /social-national-identity/case-studies/artmusicsceneinsg/
       alt: Image alt text
       image: /images/getai.jpeg
+  - infopic:
+      title: Placemaking
+      subtitle: Case Studies
+      description: '"More than just physical spaces, great spaces lift our spirits and
+        connect us with one another." URA Draft Master Plan 2019'
+      button: Read More
+      url: /infrastructure/case-studies/placemaking
+      image: /images/upcs-21.png
+      alt: Image alt text
 ---
