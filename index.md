@@ -25,13 +25,39 @@ sections:
       subtitle: What's New
       button: More Resources
   - infopic:
-      title: COVID-19
-      subtitle: Case Studies update
-      description: In any time of crisis, we can either choose to band together, or
-        draw apart. The COVID-19 pandemic and its consequences, termed “the
-        crisis of a generation...
+      title: "Agritech in Singapore: achieving food and economic security"
+      subtitle: Case Studies
+      description: In the 1960s, farmland occupied 14,000 ha of land in Singapore. By
+        1988, this fell 2,037 ha. Today, 90% of what we eat is imported…
       button: Read more
-      url: /social-national-identity/case-studies/covid19
-      image: /images/s_n.png
+      url: /economy/digging-deeper-case-studies/agritechinsg
+      image: /images/singapore_the_next_great_place_for_urban_agriculture_01.jpeg
+      alt: Image alt text
+  - infopic:
+      title: Retaining the soul of Singapore through art and music
+      subtitle: Case Studies
+      description: "How do art and music serve as a reflective, forward-looking and
+        versatile form of expression for Singapore’s national identity? "
+      button: Read more
+      url: /social-national-identity/case-studies/artmusicsceneinsg/
+      alt: Image alt text
+      image: /images/getai.jpeg
+  - infopic:
+      title: Placemaking
+      subtitle: Case Studies
+      description: '"More than just physical spaces, great spaces lift our spirits and
+        connect us with one another." URA Draft Master Plan 2019'
+      button: Read More
+      url: /infrastructure/case-studies/placemaking
+      image: /images/upcs-21.png
+      alt: Image alt text
+  - infopic:
+      title: National Service through the years
+      subtitle: Case studies
+      description: Over the years, NS has become a national institution and part of
+        our way of life. It is the cornerstone of our national identity…
+      button: Read More
+      url: /defence-and-security/case-studies/national-service
+      image: /images/Defence/NS Registration.jpg
       alt: Image alt text
 ---

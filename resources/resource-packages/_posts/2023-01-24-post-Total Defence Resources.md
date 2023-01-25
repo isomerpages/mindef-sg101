@@ -1,10 +1,12 @@
 ---
 title: Total Defence Resources
 permalink: /resources/resource-packages/TDResources/
-date: 2022-07-26
+date: 2023-01-24
 layout: post
 description: ""
+image: ""
 ---
+
 The theme for 2023's Total Defence campaign - "Together We Keep Singapore Strong" - focuses on the many ways we can put Total Defence into action in our everyday lives.
 
 Total Defence remains relevant to deal with the ever-evolving threats and challenges to Singapore. These include misinformation, supply chain disruptions and food security that affect communities and Singaporeans' way of life.
