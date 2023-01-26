@@ -21,3 +21,5 @@ The tale about why these treats were called “love letters” seemed to harken 
 Light, crispy, sweet, eggy with coconut aroma – Do you prefer your love letters folded or rolled?
 
 #FoodieFriday #FoodieFridaySG #TGIF #singaporeanfood #traditionalsnack #cnysnack #shiok
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
