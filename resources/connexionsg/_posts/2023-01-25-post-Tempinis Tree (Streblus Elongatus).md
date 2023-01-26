@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![](/images/connexionsg/2023/327049719_206613708603655_6674214293396584751_n.jpg)
 
 
@@ -20,3 +19,5 @@ Many may be familiar with the fact that the town of Tampines is named after the 
 
 
 #WildlifeWednesday #WildlifeWednesdaySG #Tempinis #StreblusElongatus #Nature #Singapore #Wildlife
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
