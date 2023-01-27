@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![](/images/connexionsg/2023/Bak%20Kwa.jpg)
  📷: Choo Yat Shing@Flickr (Creative Commons)
 
