@@ -1,11 +1,12 @@
 ---
-title: Bak Kwa
-permalink: /resources/connexionsg/Bakkwa/
+title: Bak Kwa (Rou Gan)
+permalink: /resources/connexionsg/BakKwaRouGan/
 date: 2023-01-13
 layout: post
 description: ""
 image: ""
 ---
+
 ![](/images/connexionsg/2023/324725444_908560813501011_7762399605014320703_n.jpg)
 
 What’s your favourite Lunar New Year sweet treat?

@@ -1,11 +1,12 @@
 ---
-title: Hong Bao
-permalink: /resources/connexionsg/HongBao/
+title: "#GoneOrOn Red Packets"
+permalink: /resources/connexionsg/RedPackets/
 date: 2023-01-18
 layout: post
 description: ""
 image: ""
 ---
+
 ![](/images/connexionsg/2023/Hong%20Bao.jpg)
 📷 : Children paying respect to their grandmother and receiving red packets from her in return. 1983, Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 
