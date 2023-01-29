@@ -56,12 +56,12 @@ Here is a timeline for your reference:
 
 Ideas shortlisted for **Phase 2 (11 May 2023 – Jul 2023)** would be nurtured and developed for implementation by the participants into actual campaigns / products. The type of support from partners and organisers will be determined after the pitching sessions.
 
-![](/images/TD%20Timeline.jpg)
+![](/images/TD%20Sandbox%20Competition%20Timeline%20(9%20Feb%2023).png)
 
 ### Evaluation Criteria
 
 Ideas submitted will be evaluated based on the following criteria: 
-![](/images/Eval%20Criteria.jpg)
+![](/images/TD%20Sandbox%20Eval%20Criteria.png)
 
 ### Frequently Asked Questions (FAQs)
 
@@ -78,7 +78,7 @@ Yes, you can.
 **5.	Can I submit more than 1 idea to the Total Defence Sandbox?** 
 Yes, you can. Multiple entries are permitted but each idea should be submitted separately.
 
-**6.	Who can I contact if I have questions or require help with my submission?** Please email Alexandria_Wong_Hui_Shi@mindef.gov.sg OR Kelly_Ng_Ming_Li@mindef.gov.sg
+**6.	Who can I contact if I have questions or require help with my submission?** Please email Cheong_En_Shuo@mindef.gov.sg OR Kelly_Ng_Ming_Li@mindef.gov.sg
 
 **7.	If I have other ideas related to Total Defence that do no target the issue stated, can I still submit a proposal?** 
 Yes, you can.
