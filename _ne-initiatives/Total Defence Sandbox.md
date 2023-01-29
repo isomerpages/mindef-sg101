@@ -5,10 +5,10 @@ description: ""
 ---
 ![](/images/TD%20Sandbox%20Logo.png)
 
-##### The Total Defence Sandbox is calling ideas from now until 30 Nov 2022, 2359HRS!I . Shortlisted participants may be invited to give a short presentation to the Expert Panel in Dec to Jan 2023!
+##### The Total Defence Sandbox is calling ideas from now until 11 May 2023, 2359HRS!I . Shortlisted participants may be invited to give a short presentation to the Expert Panel in Jun to Jul 2024!
 
 ### What is the Total Defence Sandbox?
-The Total Defence Sandbox seeks ground-up innovation from Singaporeans especially youths to start initiatives that puts Total Defence into action. **The Total Defence Sandbox invites everyone to share ideas on Total Defence, and aims to nurture these ideas and eventually match ideas with partners who could support the implementation or amplification of their efforts.** 
+The Total Defence Sandbox seeks ground-up innovation from Singaporeans especially youths to start initiatives that put Total Defence into action. **The Total Defence Sandbox invites everyone to share ideas on Total Defence, and aims to nurture these ideas and eventually match ideas with partners who could support the implementation or amplification of their efforts.** 
 
 ![](/images/What%20is%20the%20Total%20Defence%20Sandbox.png)
 
@@ -17,13 +17,13 @@ The Total Defence Sandbox seeks ground-up innovation from Singaporeans especiall
 
 ***Note*** : The idea need not solely target the issue stated and we are open to all ideas that will put Total Defence in action. If you have additional ideas, please do submit them. 
 
-An example as follows:
+An example is as follows:
 
 **Issue:  Hybrid Threats and Emerging Challenges in Singapore**
 
-The nature of threats is constantly evolving. Other than traditional security threats (e.g. territorial tensions, terrorism and piracy), there are emerging ones where Singapore’s vulnerabilities could be easily exploited without the need for military conflict (e.g. cyberattacks, misinformation and fake news – social media and digital platforms being major channels of influence where there are no boundaries). 
+The nature of threats is constantly evolving. Other than traditional security threats (e.g., territorial tensions, terrorism and piracy), there are emerging ones where Singapore’s vulnerabilities could be easily exploited without the need for military conflict (e.g., cyberattacks, misinformation and fake news – social media and digital platforms being major channels of influence where there are no boundaries). 
 
-**Start an initiative which could help educate youths and the community on the evolving threats and navigate the complex environment that Singapore operates in.** This could be done through the creation of content / an initiative / a campaign / a product that supports Total Defence.  Should you have other ideas that does not solely target the issue stated, please do submit them as we are open to all ideas that will put Total Defence in action. Some possible examples include:
+**Start an initiative which could help educate youths and the community on the evolving threats and navigate the complex environment that Singapore operates in.** This could be done through the creation of content / an initiative / a campaign / a product that supports Total Defence.  Should you have other ideas that do not solely target the issue stated, please do submit them as we are open to all ideas that will put Total Defence in action. Some possible examples include:
 -	Strengthening Economic Defence through Resource Sustainability (e.g. Food, Water and Energy)
 -	Climate Change and its effect on Singapore 
 
@@ -43,18 +43,18 @@ Register and submit your ideas via www.go.gov.sg/tdsandbox or by scanning the QR
 * Storyboard outline 
 * Expected outcomes & measurements 
 4. Your submission should come in the form of a Word document, PowerPoint presentation or PDF file. The attachment file size limit is up to 20MB. 
-* Word Document (10 Pages) 
-* PowerPoint Presentation (10 Pages) 
-* PDF File (10 Pages) 
+* Word Document (10 pages) 
+* PowerPoint Presentation (10 pages) 
+* PDF File (10 pages) 
 
 ### What to expect after submission of ideas? 
-After submissions have closed, shortlisted participants may be invited to give a short presentation to the Expert Panel in Dec - Jan 2023. We will inform participants in advance to prepare for the presentation. 
+After submissions have closed, shortlisted participants may be invited to give a short presentation to the Expert Panel in Jun - Jul 2024. We will inform participants in advance to prepare for the presentation. 
 
 Here is a timeline for your reference:
 
-**Phase 1 (1 Aug – 30 Nov 2022)** will consist of the evaluation and shortlisting of ideas by an Expert Panel. Shortlisted participants will then present and pitch their ideas to the Panel and respective partners. 
+**Phase 1 (9 Feb – 11 May 2023)** will consist of the evaluation and shortlisting of ideas by an Expert Panel. Shortlisted participants will then present and pitch their ideas to the Panel and respective partners. 
 
-Ideas shortlisted for **Phase 2 (30 Nov 2022 – Jan 2023)** would be nurtured and developed for implementation by the participants into actual campaigns / products. The type of support from partners and organisers will be determined after the pitching sessions.
+Ideas shortlisted for **Phase 2 (11 May 2023 – Jul 2023)** would be nurtured and developed for implementation by the participants into actual campaigns / products. The type of support from partners and organisers will be determined after the pitching sessions.
 
 ![](/images/TD%20Timeline.jpg)
 
