@@ -17,3 +17,5 @@ The East Coast Park is divided into eight areas, A to H. It is one of Singaporeâ
 With so many recreational activities to choose from, whatâ€™s your favourite #SundayFunday activity at the East Coast Park?
 
 #SundayFundaySG #SundayFunday #EastCoastPark #beach #park #nature #naturelovers #outdoors #family #weekend #healthierSG
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
