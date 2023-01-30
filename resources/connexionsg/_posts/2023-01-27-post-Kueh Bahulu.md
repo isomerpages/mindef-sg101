@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![](/images/connexionsg/2023/327225269_944520353585096_8346836755765783460_n.jpg)
 
 
@@ -21,3 +20,5 @@ In Singapore, Kueh Bahulu is a crowd-pleaser during the festive seasons. It is o
 Have you tried the Kueh Bahulu? Let us know in the comments!
 
 #FoodieFriday #FoodieFridaySG #TGIF #singaporeanfood #traditionalsnack #kuehbahulu #eggspongecake #cnysnack #harirayasnack #shiok
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
