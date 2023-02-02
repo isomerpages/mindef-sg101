@@ -87,10 +87,6 @@ sections:
       url: /economy/growing-our-economy/2010/
       image: /images/Empty Airport.png
       alt: Image alt text
-  - resources:
-      title: Latest Resources
-      subtitle: What's New
-      button: More Resources
   - infopic:
       title: Staying Stable
       subtitle: Economy
@@ -100,4 +96,8 @@ sections:
       url: /economy/staying-exceptional/stable/
       image: /images/DSC0964.jpg
       alt: Image alt text
+  - resources:
+      title: Latest Resources
+      subtitle: What's New
+      button: More Resources
 ---
