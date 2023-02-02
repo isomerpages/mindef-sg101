@@ -96,10 +96,6 @@ sections:
       url: /economy/staying-exceptional/stable/
       image: /images/DSC0964.jpg
       alt: Image alt text
-  - resources:
-      title: Latest Resources
-      subtitle: What's New
-      button: More Resources
   - infopic:
       title: Singapore's Food Challenge
       subtitle: Case Study/ Economy
@@ -109,9 +105,8 @@ sections:
       url: /economy/case-studies/sg-food-challenge/
       image: /images/farming.jpeg
       alt: Image alt text
-  - infopic:
-      title: Infopic Title
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+  - resources:
+      title: Latest Resources
+      subtitle: What's New
+      button: More Resources
 ---
