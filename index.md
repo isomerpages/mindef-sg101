@@ -36,7 +36,7 @@ sections:
         demographics and mindsets about values and aspirations?
       button: Read more
       url: /social-national-identity/sharedidentity/
-      image: /images/singapore_the_next_great_place_for_urban_agriculture_01.jpeg
+      image: /images/citizens.png
       alt: Image alt text
   - infopic:
       title: Hawker Culture in Singapore
