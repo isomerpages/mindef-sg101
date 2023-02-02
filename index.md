@@ -37,7 +37,7 @@ sections:
         security"
       button: Read More
       url: /files/news-in-focus/2023/News%20In%20Focus%2001-2023.pdf
-      image: /images/NIFsmall.jpg
+      image: /images/NiFthumbnail.png
       alt: Image alt text
   - infopic:
       title: Creating a Shared Identity as Singaporeans
