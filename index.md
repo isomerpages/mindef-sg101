@@ -50,13 +50,14 @@ sections:
       image: /images/Multiabled.png
       alt: Image alt text
   - infopic:
-      title: National Service through the years
-      subtitle: Case studies
-      description: Over the years, NS has become a national institution and part of
-        our way of life. It is the cornerstone of our national identity…
+      title: Volunteerism in Singapore
+      subtitle: Case study/ Social
+      description: "As Singapore approaches the second millennium, it faces a new
+        crisis: an ageing population. How can we get able-bodied seniors to help
+        their peers in need?"
       button: Read More
-      url: /defence-and-security/case-studies/national-service
-      image: /images/Defence/NS Registration.jpg
+      url: /social-national-identity/examples/volunteerism
+      image: /images/Volunteers.png
       alt: Image alt text
   - resources:
       title: Latest Resources
