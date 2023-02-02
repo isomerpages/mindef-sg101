@@ -109,4 +109,9 @@ sections:
       url: /economy/case-studies/sg-food-challenge/
       image: /images/farming.jpeg
       alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
