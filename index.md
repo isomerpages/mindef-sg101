@@ -20,7 +20,7 @@ sections:
             url: /infrastructure/ourfundamentals
           - title: Social / National Identity
             url: /social-national-identity/ourfundamentals
-      subtitle: SG101 tells the stories of Singapore's journey as a nation, and help
+      subtitle: SG101 tells the stories of Singapore's journey as a nation, and helps
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
   - infopic:
