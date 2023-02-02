@@ -72,4 +72,14 @@ sections:
       title: Latest Resources
       subtitle: What's New
       button: More Resources
+  - infopic:
+      title: News in Focus 01 2023
+      subtitle: News in Focus/ Resources
+      description: "In this issue: Ratification of Treaties by Indonesia; Terrorism as
+        a pertinent threat to Singapore; Importance of regionalism to peace and
+        security"
+      button: Read More
+      url: /files/news-in-focus/2023/News%20In%20Focus%2001-2023.pdf
+      image: /images/NiF 01 2023.png
+      alt: Image alt text
 ---
