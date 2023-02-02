@@ -30,14 +30,15 @@ sections:
       image: /images/singapore_the_next_great_place_for_urban_agriculture_01.jpeg
       alt: Image alt text
   - infopic:
-      title: Retaining the soul of Singapore through art and music
-      subtitle: Case Studies
-      description: "How do art and music serve as a reflective, forward-looking and
-        versatile form of expression for Singapore’s national identity? "
+      title: Hawker Culture in Singapore
+      subtitle: Case study/ Social
+      description: Singaporeans bond through their taste buds, embracing a
+        mind-blowing plethora of cuisines that have evolved and fused over many
+        decades...
       button: Read more
-      url: /social-national-identity/case-studies/artmusicsceneinsg/
+      url: /social-national-identity/case-studies/hawkercultureinsg/
       alt: Image alt text
-      image: /images/getai.jpeg
+      image: /images/hawker.png
   - infopic:
       title: Placemaking
       subtitle: Case Studies
