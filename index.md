@@ -100,4 +100,13 @@ sections:
       title: Latest Resources
       subtitle: What's New
       button: More Resources
+  - infopic:
+      title: Singapore's Food Challenge
+      subtitle: Case Study/ Economy
+      description: Our reliance on food imports leaves us exposed to external forces.
+        How do we build and strengthen our food resilience?
+      button: Read More
+      url: /economy/case-studies/sg-food-challenge/
+      image: /images/farming.jpeg
+      alt: Image alt text
 ---
