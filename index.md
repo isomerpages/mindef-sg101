@@ -82,4 +82,13 @@ sections:
       title: Latest Resources
       subtitle: What's New
       button: More Resources
+  - infopic:
+      title: "2010 to the Present: New Challenges"
+      subtitle: Economy
+      description: What are the structural challenges and short-term obstacles that
+        Singapore faces?
+      button: Read More
+      url: /economy/growing-our-economy/2010/
+      image: /images/Empty Airport.png
+      alt: Image alt text
 ---
