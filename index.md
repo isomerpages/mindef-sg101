@@ -40,13 +40,14 @@ sections:
       alt: Image alt text
       image: /images/hawker.png
   - infopic:
-      title: Placemaking
-      subtitle: Case Studies
-      description: '"More than just physical spaces, great spaces lift our spirits and
-        connect us with one another." URA Draft Master Plan 2019'
+      title: Building and Maintaining a Caring Society
+      subtitle: Social
+      description: As Singapore progresses, new fault lines on issues such as class,
+        immigration and identity have emerged. How do we build an inclusive
+        society?
       button: Read More
-      url: /infrastructure/case-studies/placemaking
-      image: /images/upcs-21.png
+      url: /social-national-identity/caringsociety/
+      image: /images/Multiabled.png
       alt: Image alt text
   - infopic:
       title: National Service through the years
