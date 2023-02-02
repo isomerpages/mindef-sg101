@@ -63,4 +63,13 @@ sections:
       title: Latest Resources
       subtitle: What's New
       button: More Resources
+  - infopic:
+      title: Together We Keep Singapore Strong
+      subtitle: Total Defence/ Resources
+      description: The theme for 2023’s Total Defence campaign focuses on the many
+        ways we can put Total Defence into action in our everyday lives.
+      button: Read More
+      url: /resources/resource-packages/tdresources/
+      image: /images/TD2023 Poster with Frame Final.jpg
+      alt: Image alt text
 ---
