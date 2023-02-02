@@ -21,12 +21,12 @@ sections:
           - title: Social / National Identity
             url: /social-national-identity/ourfundamentals
   - infopic:
-      title: "Agritech in Singapore: achieving food and economic security"
-      subtitle: Case Studies
-      description: In the 1960s, farmland occupied 14,000 ha of land in Singapore. By
-        1988, this fell 2,037 ha. Today, 90% of what we eat is imported…
+      title: Creating a Shared Identity as Singaporeans
+      subtitle: Economy
+      description: How is our national identity evolving with Singapore’s changing
+        demographics and mindsets about values and aspirations?
       button: Read more
-      url: /economy/digging-deeper-case-studies/agritechinsg
+      url: /social-national-identity/sharedidentity/
       image: /images/singapore_the_next_great_place_for_urban_agriculture_01.jpeg
       alt: Image alt text
   - infopic:
