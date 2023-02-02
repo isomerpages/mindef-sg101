@@ -20,10 +20,6 @@ sections:
             url: /infrastructure/ourfundamentals
           - title: Social / National Identity
             url: /social-national-identity/ourfundamentals
-  - resources:
-      title: Latest Resources
-      subtitle: What's New
-      button: More Resources
   - infopic:
       title: "Agritech in Singapore: achieving food and economic security"
       subtitle: Case Studies
@@ -60,4 +56,8 @@ sections:
       url: /defence-and-security/case-studies/national-service
       image: /images/Defence/NS Registration.jpg
       alt: Image alt text
+  - resources:
+      title: Latest Resources
+      subtitle: What's New
+      button: More Resources
 ---
