@@ -78,10 +78,6 @@ sections:
       url: /social-national-identity/examples/volunteerism
       image: /images/Volunteers.png
       alt: Image alt text
-  - resources:
-      title: Latest Resources
-      subtitle: What's New
-      button: More Resources
   - infopic:
       title: "2010 to the Present: New Challenges"
       subtitle: Economy
@@ -90,5 +86,18 @@ sections:
       button: Read More
       url: /economy/growing-our-economy/2010/
       image: /images/Empty Airport.png
+      alt: Image alt text
+  - resources:
+      title: Latest Resources
+      subtitle: What's New
+      button: More Resources
+  - infopic:
+      title: Staying Stable
+      subtitle: Economy
+      description: in an increasingly fragmented world, Singapore must remain stable,
+        safe and attractive to foreign investment, and relevant to the world.
+      button: Read More
+      url: /economy/staying-exceptional/stable/
+      image: /images/DSC0964.jpg
       alt: Image alt text
 ---
