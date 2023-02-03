@@ -112,4 +112,14 @@ sections:
       title: Latest Resources
       subtitle: What's New
       button: More Resources
+  - infopic:
+      title: Total Defence Day 2023 Package
+      subtitle: Total Defence/ Resources
+      description: Use the Total Defence Day 2023 package and notes to discuss how we
+        can play a part to keep Singapore strong, amidst the challenges and
+        threats we face.
+      button: Read more
+      url: /resources/resource-packages/td2023/
+      image: /images/TD Day 2023 Package.png
+      alt: Image alt text
 ---
