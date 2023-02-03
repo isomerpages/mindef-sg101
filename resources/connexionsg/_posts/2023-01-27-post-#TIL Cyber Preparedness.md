@@ -1,6 +1,6 @@
 ---
-title: "#TIL Total Defence 2023"
-permalink: /resources/connexionsg/TotalDefence2023/
+title: "#TIL Cyber Preparedness"
+permalink: /resources/connexionsg/CyberPreparedness/
 date: 2023-01-27
 layout: post
 description: ""
@@ -20,9 +20,9 @@ As residents of the world’s leading Smart City, we cannot afford to be sloppy 
 
 So, here’s a gentle reminder to turn good practices into good habits, and keep security threats away. Because together, we keep Singapore strong. 😃
 
-#WeAreTotalDefence #TogetherWeKeepSingaporeStrong #cybersafety #cybersecuritysingapore #singaporeonline #cybersg #cybersecurityawareness #cybersecuritytips We Are Total Defence
+#WeAreTotalDefence #TogetherWeKeepSingaporeStrong #cybersafety #cybersecuritysingapore #singaporeonline #cybersg #cybersecurityawareness #cybersecuritytips 
 
-🔗: Infocomm and Media Development Authority’s Household Access to Internet Findings (https://www.imda.gov.sg/.../Research-and.../Digital-Society)
+🔗: Infocomm and Media Development Authority’s Household Access to Internet Findings (https://www.imda.gov.sg/About-IMDA/Research-and-Statistics/Digital-Society)
 
 🔗: Factually (https://www.gov.sg/factually)
 
