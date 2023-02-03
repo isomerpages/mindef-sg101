@@ -20,7 +20,7 @@ As residents of the world’s leading Smart City, we cannot afford to be sloppy 
 
 So, here’s a gentle reminder to turn good practices into good habits, and keep security threats away. Because together, we keep Singapore strong. 😃
 
-#WeAreTotalDefence #TogetherWeKeepSingaporeStrong #cybersafety #cybersecuritysingapore #singaporeonline #cybersg #cybersecurityawareness #cybersecuritytips We Are Total Defence
+#WeAreTotalDefence #TogetherWeKeepSingaporeStrong #cybersafety #cybersecuritysingapore #singaporeonline #cybersg #cybersecurityawareness #cybersecuritytips 
 
 🔗: Infocomm and Media Development Authority’s Household Access to Internet Findings (https://www.imda.gov.sg/About-IMDA/Research-and-Statistics/Digital-Society)
 
