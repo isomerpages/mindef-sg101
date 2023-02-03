@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![](/images/connexionsg/2023/327261833_1309890766456794_7415293439611869002_n.png)
 
 #TIL 99% of all resident households in Singapore have access to the internet, according to the Infocomm Media Development Authority’s latest household survey, done in 2021. This connectivity renders us vulnerable to threats from the digital domain, as we have increasingly seen over the years.
@@ -23,7 +22,7 @@ So, here’s a gentle reminder to turn good practices into good habits, and keep
 
 #WeAreTotalDefence #TogetherWeKeepSingaporeStrong #cybersafety #cybersecuritysingapore #singaporeonline #cybersg #cybersecurityawareness #cybersecuritytips We Are Total Defence
 
-🔗: Infocomm and Media Development Authority’s Household Access to Internet Findings (https://www.imda.gov.sg/.../Research-and.../Digital-Society)
+🔗: Infocomm and Media Development Authority’s Household Access to Internet Findings (https://www.imda.gov.sg/About-IMDA/Research-and-Statistics/Digital-Society)
 
 🔗: Factually (https://www.gov.sg/factually)
 
