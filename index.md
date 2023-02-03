@@ -24,10 +24,20 @@ sections:
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
   - infopic:
+      title: Total Defence Day 2023 Package
+      subtitle: Total Defence/ Resources
+      description: Use the Total Defence Day 2023 package and notes to discuss how we
+        can play a part to keep Singapore strong, amidst the challenges and
+        threats we face.
+      button: Read more
+      url: /resources/resource-packages/td2023/
+      image: /images/TD Day 2023 Package.png
+      alt: Image alt text
+  - infopic:
       title: Together We Keep Singapore Strong
       subtitle: Total Defence/ Resources
-      description: The theme for 2023’s Total Defence campaign focuses on the many
-        ways we can put Total Defence into action in our everyday lives.
+      description: How can we put TD into action in our everyday lives? Click here to
+        find out more.
       button: Read More
       url: /resources/resource-packages/tdresources/
       image: /images/TD2023 Poster with Frame Final.jpg
