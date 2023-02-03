@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/TD%20Sandbox%20Logo.png)
 
-##### The Total Defence Sandbox is calling ideas from 9 Feb to 11 May 2023, 2359hrs! . Shortlisted participants may be invited to give a short presentation to the Expert Panel in Jun to Jul 2023!
+##### The Total Defence Sandbox is calling ideas from 9 Feb to 11 May 2023, 2359hrs! Shortlisted participants may be invited to give a short presentation to the Expert Panel in Jun to Jul 2023!
 
 ### What is the Total Defence Sandbox?
 The Total Defence Sandbox seeks ground-up innovation from Singaporeans especially youths to start initiatives that put Total Defence into action. **The Total Defence Sandbox invites everyone to share ideas on Total Defence, and aims to nurture these ideas and eventually match ideas with partners who could support the implementation or amplification of their efforts.** 
