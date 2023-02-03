@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 The theme for 2023's Total Defence campaign - "Together We Keep Singapore Strong" - focuses on the many ways we can put Total Defence into action in our everyday lives.
 
 Total Defence remains relevant to deal with the ever-evolving threats and challenges to Singapore. These include misinformation, supply chain disruptions and food security that affect communities and Singaporeans' way of life.
@@ -25,7 +24,7 @@ This year's poster features what Singaporeans can do to put Total Defence in act
 
 The poster can be downloaded [here](https://go.gov.sg/tdposter23).
 
-A black-and-white (b/w) version of the Total Defence poster will also be made available at the same link by end-January as a Total Defence activity sheet for printing and distribution as a colouring activity.
+A black-and-white (b/w) version of the Total Defence poster is also available at the same link above, as a Total Defence activity sheet for printing and distribution as a colouring activity.
 
 ****
 #### **Total Defence Interactive Video 2023**
@@ -43,7 +42,7 @@ Watch the Total Defence Interactive Video #1 (2022) [here](https://go.gov.sg/tdi
 
 ****
 #### **Total Defence Engagement Packages**
-You may use this engagement package to discuss or better understand the relevance of Total Defence and how each of us can play a part in keeping Singapore strong, amidst the challenges and threats we face. The Total Defence Day 2023 NE Engagement Package will be available by end-January.
+You may use this engagement package to discuss or better understand the relevance of Total Defence and how each of us can play a part in keeping Singapore strong, amidst the challenges and threats we face. The Total Defence Day 2023 NE Engagement Package can be downloaded [here](https://go.gov.sg/td23package).
 
 Meanwhile, you may check out past years' packages below: 
 * [Total Defence Day 2022 NE Engagement Package](https://www.sg101.gov.sg/resources/resource-packages/td2022) 
