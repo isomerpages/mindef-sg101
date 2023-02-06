@@ -23,7 +23,9 @@ Today, there are increasing threats of terrorist attacks by self-radicalised ind
 We can all play a part to safeguard our way of life against the threats of terrorism. The SGSecure movement highlights three core actions we can take:
 
 -- Staying alert to prevent a terror attack and keeping our family, friends, and ourselves safe in the event of a terror attack. 
+
 -- Staying united through building strong bonds with our friends and neighbours in the community, and cherishing the racial and religious harmony in Singapore.
+
 -- Staying strong and resilient as individuals and as a community, and be ready to help one another and bounce back quickly after a terror attack.
 
 Do contact the ISD Counter-Terrorism Centre hotline on 1800-2626-473 if you: (1) observe suspicious activities or signs of radicalisation; or (2) are aware of anyone becoming involved in terrorism-related activities, including planning or taking steps to travel to conflict zones to take part in armed conflict. 
