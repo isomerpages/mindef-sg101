@@ -6,6 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/connexionsg/2023/327308478_714133760169514_275650523641106362_n.png)
+![](/images/connexionsg/2023/326784168_2373545122814830_6648233622105448404_n.jpg)
+
+
 #OnThisDay (31 January) in 1974 four armed men from the Japanese Red Army and Popular Front for the Liberation of Palestine planted bombs at the petroleum tanks at Pulau Bukom. During their escape, the terrorists hijacked a ferry boat, Laju, and took its crew members hostage. They demanded the release of their jailed comrades in other countries.
 
 Fortunately, the damage from the blasts was contained, and the crisis was diffused after several public officers volunteered to act as guarantors for the safe passage of the terrorists in exchange for the release of the civilian hostages: they accompanied the terrorists on a special flight to Kuwait, where they disembarked before the terrorists took off for Aden.
