@@ -6,9 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/connexionsg/2023/328818679_1949184308767009_8713643997921333027_n.png)
 
-
-![](/images/connexionsg/2023/328818679_1949184308767009_8713643997921333027_n.png)The National Gallery Singapore is one that every Singaporean has to visit at least once — to admire the immaculate architecture, appreciate the wide range of art collections or simply take a ton of Instagram-worthy photos.
+The National Gallery Singapore is one that every Singaporean has to visit at least once — to admire the immaculate architecture, appreciate the wide range of art collections or simply take a ton of Instagram-worthy photos.
 
 Located in the heart of the civic district, National Gallery Singapore (@nationalgallerysingapore) marries two of our most iconic monuments – the former Supreme Court and City Hall buildings.
 
