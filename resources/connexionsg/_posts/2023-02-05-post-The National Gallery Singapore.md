@@ -25,3 +25,5 @@ Besides its permanent galleries and collections, National Gallery Singapore also
 The National Gallery Singapore unravels a side of our nation’s past and present in such detail that one can’t simply read or hear about. You would have to see it for yourself during [#SundayFunday](https://www.instagram.com/explore/tags/sundayfunday/)!
 
 #NationalGallery #NationalGallerySingapore #museum #gallery #artgallery #exhibition #arthistory #history #architecture #sculpture #artwork #painting #art #contemporaryart
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
