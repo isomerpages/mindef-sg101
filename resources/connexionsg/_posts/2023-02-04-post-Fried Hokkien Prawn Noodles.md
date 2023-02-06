@@ -17,3 +17,5 @@ Some stalls also serve the Hokkien mee on an opeh leaf (soft areca palm bark), w
 The dish is considered a classic of Singaporean cuisine and several hawker stalls selling it have been recognised by the Michelin Guide. Do you have a favourite Hokkien mee stall? Tell us! 😋
 
 #FoodieFriday #FoodieFridaySG #TGIF #singaporeanfood #sghawkerculture #hokkienmee #friedhokkienmee #friedhokkienprawnnoodles #noodles #shiok
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
