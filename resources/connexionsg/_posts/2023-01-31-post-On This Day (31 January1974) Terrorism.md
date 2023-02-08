@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![](/images/connexionsg/2023/327308478_714133760169514_275650523641106362_n.png)
 ![](/images/connexionsg/2023/326784168_2373545122814830_6648233622105448404_n.jpg)
 
