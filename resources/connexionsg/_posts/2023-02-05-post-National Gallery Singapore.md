@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![](/images/connexionsg/2023/328818679_1949184308767009_8713643997921333027_n.png)
 
 The National Gallery Singapore is one that every Singaporean has to visit at least once — to admire the immaculate architecture, appreciate the wide range of art collections or simply take a ton of Instagram-worthy photos.
