@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![](/images/connexionsg/2023/327143827_1252787395351295_1859100845911487968_n.png)
 
 Fried Hokkien prawn noodles, known locally as Hokkien mee, is a dish comprising thick yellow noodles and bee hoon fried in a rich prawn and pork stock, garnished with pork lard, and served with chilli and lime on the side.
