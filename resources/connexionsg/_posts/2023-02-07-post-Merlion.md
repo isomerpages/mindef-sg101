@@ -21,3 +21,5 @@ The view of the famous water-sprouting Merlion was obstructed when the Esplanade
 There are a total of six Merlions in Singapore. Two of the other four statues, at three metres tall, are at the peak of Mount Faber and the STB headquarters near Grange Road. The remaining two Merlions are a pair in the heartland, in Ang Mo Kio Avenue 1. Flanking the entrance of a carpark that leads to Blocks 216 to 222, the creatures were built in 1998 for $30,000 by the Ang Mo Kio Residential Committee.
 
 #TriviaTuesday #Merlion #MerlionPark #MerlionSingapore #Singapore #Singapura
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
