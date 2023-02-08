@@ -1,11 +1,12 @@
 ---
-title: "#OurNeighbourhoodQueenstown"
+title: "#OurNeighbourhood Queenstown"
 permalink: /resources/connexionsg/Queenstown/
 date: 2022-12-01
 layout: post
 description: ""
 image: ""
 ---
+
 ![](/images/connexionsg/2023/Queenstown.jpg)
 📷: A current bird's eye view of Queenstown estate. [HDB]
 
