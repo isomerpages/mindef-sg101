@@ -49,10 +49,14 @@ Meanwhile, you may check out past years' packages below:
 * [Total Defence Day 2021 NE Engagement Package](https://www.sg101.gov.sg/resources/resource-packages/td2021)
 
 ****
-#### **Total Defence Day Video Messages**
-Stay tuned to this space! The Total Defence Day 2023 Video Message will be available on [We Are Total Defence (WATD) Facebook page](https://www.facebook.com/WeAreTotalDefence) and [Total Defence YouTube page](https://www.youtube.com/@TotalDefenceSG).
+#### **Total Defence Day Videos**
 
-In the meantime, you may check out the previous years' Total Defence Video Message below:
+**Total Defence Day 2023 Video**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cl9ohELFTv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The Total Defence Day 2023 Video is also available on [We Are Total Defence (WATD) Facebook page](https://www.facebook.com/WeAreTotalDefence) and [Total Defence YouTube page](https://www.youtube.com/@TotalDefenceSG).
+
+You may also check out the previous years' Total Defence Video Messages below:
 
 **Minister for Defence's Total Defence Day 2022 Message**. Download the transcript [here](/files/Transcript%20-%20Minister%20for%20Defence%20Total%20Defence%20Day%202022%20Message.pdf).
 
