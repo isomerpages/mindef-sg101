@@ -51,10 +51,10 @@ Meanwhile, you may check out past years' packages below:
 ****
 #### **Total Defence Day Videos**
 
-**Total Defence Day 2023 Video**
+**Total Defence Day Video 2023**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cl9ohELFTv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The Total Defence Day 2023 Video is also available on [We Are Total Defence (WATD) Facebook page](https://www.facebook.com/WeAreTotalDefence) and [Total Defence YouTube page](https://www.youtube.com/@TotalDefenceSG).
+The Total Defence Day Video 2023 is also available on [We Are Total Defence (WATD) Facebook page](https://www.facebook.com/WeAreTotalDefence) and [Total Defence YouTube page](https://www.youtube.com/@TotalDefenceSG).
 
 You may also check out the previous years' Total Defence Video Messages below:
 
