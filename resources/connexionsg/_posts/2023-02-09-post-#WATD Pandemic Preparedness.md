@@ -26,6 +26,6 @@ In June 2022, Singapore’s Duke-NUS Centre for Outbreak Preparedness (COP) was 
 Today, restrictions are lifting across the world as the pandemic comes under control. While we may no longer feel the urge to say “stay safe” when signing off on our communications, some habits are worth keeping for always, such as regular hand-washing, wiping down personal belongings, and staying updated on our vaccinations. We can all play our part - together, we keep Singapore strong.
 
 #WeAreTotalDefence #TogetherWeKeepSingaporeStrong #TotalDefence #StrongerTogether #NeverAgainSG
-**
+
 
 Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
