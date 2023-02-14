@@ -102,7 +102,7 @@ You may find more TD resources and Activities such as Total Defence Song, Total 
 ****
 
 #### **Useful Reports**
-**RSIS Commentary - "Total Defence in Action - Singapore's Response to the COVID-19 Pandemic" National Security Studies Programme (NSSP) Research Report**. 
+**RSIS Commentary - "Total Defence in Action - Singapore's Response to the COVID-19 Pandemic", National Security Studies Programme (NSSP) Research Report**. 
 
 Singapore's Total Defence Framework has helped to rally the country and facilitated a whole-of-country response to the COVID-19 pandemic. The wide-ranging and multi-sectoral effects brought about by the pandemic underscores Singapore's need for a coordinated, cross-domain response to national security threats. Total Defence remains salient and critical to Singapore's national defence posture. Download [here](https://www.rsis.edu.sg/wp-content/uploads/2023/02/CO23022.pdf).
 
