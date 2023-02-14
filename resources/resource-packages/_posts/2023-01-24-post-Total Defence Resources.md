@@ -106,7 +106,6 @@ You may find more TD resources and Activities such as Total Defence Song, Total 
 
 Singapore's Total Defence Framework has helped to rally the country and facilitated a whole-of-country response to the COVID-19 pandemic. The wide-ranging and multi-sectoral effects brought about by the pandemic underscores Singapore's need for a coordinated, cross-domain response to national security threats. Total Defence remains salient and critical to Singapore's national defence posture. Download the full report [here](/files/packages/2023/TD%20in%20Action%20-%20SG's%20Response%20to%20COVID-19%20Pandemic_%20NSSP%20Research%20Report.pdf)
 
-
 ****
 
 #### **Podcasts**
