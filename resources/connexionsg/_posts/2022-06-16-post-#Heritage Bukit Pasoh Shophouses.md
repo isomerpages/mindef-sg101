@@ -1,10 +1,12 @@
 ---
-title: "#HEREitage Bukit Pasoh Shophouses"
-permalink: /resources/connexionsg/BukitPasohShophouses
+title: "#Heritage Bukit Pasoh Shophouses"
+permalink: /resources/connexionsg/BukitPasohShophouses/
 date: 2022-06-16
 layout: post
 description: ""
+image: ""
 ---
+
 ![](/images/connexionsg/2022/Bukit%20Pasoh%20Shophouses.jpg)
 Image: Roots.sg
 

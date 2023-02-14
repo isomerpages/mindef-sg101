@@ -1,10 +1,12 @@
 ---
-title: "#HEREitage Jurong Town Hall"
+title: "#Heritage Jurong Town Hall"
 permalink: /resources/connexionsg/jurongtownhall/
 date: 2022-09-01
 layout: post
 description: ""
+image: ""
 ---
+
 ![](/images/connexionsg/2022/J1.jpg)
 ![](/images/connexionsg/2022/J2.jpg)
 ![](/images/connexionsg/2022/J3.jpg)

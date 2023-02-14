@@ -99,6 +99,18 @@ You may find more TD resources and Activities such as Total Defence Song, Total 
 #### **Useful Videos**
 * **ciNE65 Short Film Competition** aims to capture our Singaporean identity through the lenses of local budding film-makers. Launched by Nexus in July 2011, it encourages aspiring film-makers to tell their Singapore story and what Singapore means to them. Through ciNE65, Nexus hopes to harness the potential of short films to touch the hearts and minds of Singaporeans. You may view the past ciNE65 films [here](https://www.youtube.com/user/cine65sg). Do remember to subscribe to this channel!
 * **N.E.mation!** is an annual national digital animation and storyboard competition for students and youths to express their thoughts about Total Defence. View all N.E.mation! videos from past seasons [here](https://www.youtube.com/user/NEmators). You may also use [this guide](/files/NEmation%20clips%20Facilitation%20Guide.pdf) to facilitate discussions based on the N.E.mation! clips.
+****
+
+#### **Useful Reports**
+**RSIS Commentary - "Total Defence in Action - Singapore's Response to the COVID-19 Pandemic", National Security Studies Programme (NSSP) Research Report**. 
+
+Singapore's Total Defence Framework has helped to rally the country and facilitated a whole-of-country response to the COVID-19 pandemic. The wide-ranging and multi-sectoral effects brought about by the pandemic underscores Singapore's need for a coordinated, cross-domain response to national security threats. Total Defence remains salient and critical to Singapore's national defence posture. Download the full report [here](https://www.rsis.edu.sg/wp-content/uploads/2023/02/CO23022.pdf).
+
+
+
+
+
+
 
 ****
 

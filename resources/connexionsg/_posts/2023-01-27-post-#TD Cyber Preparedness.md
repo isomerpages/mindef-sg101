@@ -1,11 +1,12 @@
 ---
-title: "#TIL Cyber Preparedness"
+title: "#TD Cyber Preparedness"
 permalink: /resources/connexionsg/CyberPreparedness/
 date: 2023-01-27
 layout: post
 description: ""
 image: ""
 ---
+
 ![](/images/connexionsg/2023/327261833_1309890766456794_7415293439611869002_n.png)
 
 #TIL 99% of all resident households in Singapore have access to the internet, according to the Infocomm Media Development Authority’s latest household survey, done in 2021. This connectivity renders us vulnerable to threats from the digital domain, as we have increasingly seen over the years.

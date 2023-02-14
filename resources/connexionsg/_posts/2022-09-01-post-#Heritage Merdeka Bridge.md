@@ -1,10 +1,12 @@
 ---
-title: "#HEREitage Merdeka Bridge"
+title: "#Heritage Merdeka Bridge"
 permalink: /resources/connexionsg/merdekabridge/
 date: 2022-09-01
 layout: post
 description: ""
+image: ""
 ---
+
 ![📷 1: An overhead view of the Kallang Basin and the Merdeka Bridge (Roots.sg)](/images/connexionsg/2022/M1.jpg)
 
 ![📷 2: Merdeka Bridge links two sections of the Nicoll Highway (Roots.sg)](/images/connexionsg/2022/M2.png)

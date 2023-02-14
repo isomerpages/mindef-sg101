@@ -1,11 +1,12 @@
 ---
-title: "#HEREitage Benjamin Sheares Bridge"
+title: "#Heritage Benjamin Sheares Bridge"
 permalink: /resources/connexionsg/BenjaminShearesBridge/
 date: 2022-09-29
 layout: post
 description: ""
 image: ""
 ---
+
 ![](/images/connexionsg/2022/Bridge%201.jpg)
 📷: "East Coast Parkway (ECP) (Benjamin Sheares Bridge), Flyer, Bayfront and Helix Bridges" by kfcatles is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/? 
 

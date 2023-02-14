@@ -1,11 +1,12 @@
 ---
-title: "#HEREitage Masjid Al Abrar Mosque"
+title: "#Heritage Masjid Al Abrar Mosque"
 permalink: /resources/connexionsg/MasjidAlAbrarMosque/
 date: 2022-11-16
 layout: post
 description: ""
 image: ""
 ---
+
 ![](/images/connexionsg/2022/Masjid%201.png)
 
 Tucked away in a corner of the Central Business District at Telok Ayer Street sits the Masjid Al-Abrar, one of the first mosques built in Singapore. The Masjid Al-Abrar did not always look like this – in 1827, it started out as a small thatched hut frequented by traders and money changers known as Chulias, Indian-Muslim worshippers from the Coromandal Coast of Southern India. Affectionately named Kuchu Palli (“Hut Mosque” in Tamil), the mosque became a place of spiritual refuge and communal gathering for these workers.

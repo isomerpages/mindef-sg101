@@ -1,10 +1,12 @@
 ---
-title: "#HEREitage Eng Aun Tong building"
-permalink: /resources/connexionsg/EngAunTongbuilding
+title: "#Heritage Eng Aun Tong building"
+permalink: /resources/connexionsg/EngAunTongbuilding/
 date: 2022-07-12
 layout: post
 description: ""
+image: ""
 ---
+
 ![](/images/connexionsg/2022/Eng%20Aun%20Tong%20(then).jpg)
 ![](/images/connexionsg/2022/Eng%20Aun%20Tong%20(now).jpg)
 Photos: NAS / Chinatown.sg

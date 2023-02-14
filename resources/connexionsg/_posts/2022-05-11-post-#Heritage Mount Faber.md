@@ -1,10 +1,12 @@
 ---
-title: "#HEREitage Mount Faber"
-permalink: /resources/connexionsg/MountFaber
+title: "#Heritage Mount Faber"
+permalink: /resources/connexionsg/MountFaber/
 date: 2022-05-11
 layout: post
 description: ""
+image: ""
 ---
+
 ![](/images/connexionsg/2022/Mt%20Faber%20(For%20FB).png)
 
 Standing at 106 metres above sea level, Mount Faber’s highest point, Faber Point, offers panoramic views of the Sentosa island, Telok Blangah, as well as western parts of the Central Area. 

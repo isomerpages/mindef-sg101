@@ -1,10 +1,12 @@
 ---
-title: "#HEREitage Shophouses in Singapore"
-permalink: /resources/connexionsg/SGShophouses
+title: "#Heritage Shophouses in Singapore"
+permalink: /resources/connexionsg/SGShophouses/
 date: 2022-04-15
 layout: post
 description: ""
+image: ""
 ---
+
 ![](/images/connexionsg/2022/Shophouses-IG_1.jpg)
 
 Shophouses are found in many parts of Singapore, especially at the four designated Historic Districts in Singapore – Boat Quay, Chinatown, Kampong Glam, and Little India. 

@@ -1,10 +1,12 @@
 ---
-title: "#HEREitage Sri Thendayuthapani Temple"
-permalink: /resources/connexionsg/SriThendayuthapaniTemple
+title: "#Heritage Sri Thendayuthapani Temple"
+permalink: /resources/connexionsg/SriThendayuthapaniTemple/
 date: 2022-04-19
 layout: post
 description: ""
+image: ""
 ---
+
 ![](/images/connexionsg/2022/Sri%20Thendayuthapani%20Temple%201.jpg)
 📷 1: Roots.sg
 

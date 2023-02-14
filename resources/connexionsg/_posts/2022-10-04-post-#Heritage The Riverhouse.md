@@ -1,11 +1,13 @@
 ---
-title: "#HEREitage: The Riverhouse"
+title: "#Heritage The Riverhouse"
 permalink: /resources/connexionsg/theriverhouse/
 date: 2022-10-04
 layout: post
 description: ""
 image: ""
 ---
+
+
 With its prominent tiled roof and a curved ridge embellished with ceramic shards, the two-storey Riverhouse stands out distinctively from other buildings in the heart of the rejuvenated Clarke Quay precinct. As its name suggests, the Riverhouse stands by a river – the Singapore River and is poetically known as “House of Ripples” or Lianyi Xuan (涟漪轩) in Chinese. 
 
 ![](/images/connexionsg/2022/1%20River%20House%20(URA).jpg)

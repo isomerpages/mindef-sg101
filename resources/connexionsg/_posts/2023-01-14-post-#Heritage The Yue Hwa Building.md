@@ -1,11 +1,12 @@
 ---
-title: "#HEREitage The Yue Hwa Building"
+title: "#Heritage The Yue Hwa Building"
 permalink: /resources/connexionsg/YueHwa/
 date: 2023-01-14
 layout: post
 description: ""
 image: ""
 ---
+
 ![](/images/connexionsg/2023/Yue%20Hwa%20Building.jpg)
 
 Located at the junction of Eu Tong Sen Street and Upper Cross Street, the Yue Hwa Building has weathered through the evolution of the Chinatown historical district.
