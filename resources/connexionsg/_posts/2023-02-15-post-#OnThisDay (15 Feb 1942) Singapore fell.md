@@ -6,8 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
-
 ![](/images/connexionsg/2023/15%20Feb%201942%20TD.jpg)
 📷: Victorious Japanese troops marching into Fullerton Square on 16 February 1942. The British had surrendered the previous day and Singapore would be renamed Syonan-to (“Light of the South”) by its new masters. (Biblioasia, NLB)
 
@@ -30,3 +28,5 @@ This is why we mark Total Defence Day on 15 Feb annually – as a reminder that 
 #WeAreTotalDefence #TogetherWeKeepSingaporeStrong #TotalDefence #StrongerTogether #NeverAgainSG #Singapore We Are Total Defence
 
 🔗: Read the oral history account from Mr Ismail bin Zain who went through the Japanese Occupation at https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/f6367b5a-115d-11e3-83d5-0050568939ad-OHC000601_002/web/html5/index.html?launchlogo=tablet%2FOralHistoryInterviews_brandingLogo_.png&pn=11&fbclid=IwAR0RlE8n1G2IKG6Il_KV7M9T6B4ZnxAoSdHPTGeVHWfajCOs5X8Z4Y00MEo
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
