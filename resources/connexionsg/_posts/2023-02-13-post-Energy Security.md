@@ -19,3 +19,5 @@ Our Singapore Green Plan adds Solar, Regional Power Grids and Low Carbon Alterna
 At the individual level, we can strengthen our nation’s defences against external shocks in two ways: One, by being prepared for possible emergency scenarios. Two, by making energy conservation a way of life through using energy-efficient appliances and adopting energy-saving habits such as: turning off appliances when not in use, switching to a fan after a short while on air-conditioning, replacing incandescent bulbs with LED lights as these use less energy and have a longer lifespan. Such actions may seem small but collectively they add to our nation’s resilience. We can all play a part. Together, we keep Singapore strong.
 
 #WeAreTotalDefence #TogetherWeKeepSingaporeStrong #Singapore #EnergySecurity
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
