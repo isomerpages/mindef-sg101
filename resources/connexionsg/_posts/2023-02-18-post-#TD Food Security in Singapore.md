@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![](/images/connexionsg/2023/Food%20Security.jpg)
 📷: Screenshot from Singapore Food Agency's video on Singapore's Food Future
 
