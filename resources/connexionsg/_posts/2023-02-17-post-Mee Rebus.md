@@ -8,7 +8,6 @@ image: ""
 ---
 ![](/images/connexionsg/2023/331210737_1204059483804800_5083040130543676362_n.jpg)
 
-
 TGIF! Fancy some Mee Rebus to end the work week or during the weekend?
 
 Mee Rebus is a popular noodle dish in Singapore comprising of blanched yellow egg noodles in a sweet, umami gravy, and served with toppings such as boiled egg, bean sprouts, fried tofu, crispy shallots and fresh green chili.
@@ -18,3 +17,9 @@ The most important ingredient of the Mee Rebus is, unsurprisingly, the gravy: a 
 Where are your favourite Mee Rebus haunts? Do tell us in the comments!
 
 #FoodieFriday #FoodieFridaySG #Singapore #hawkerculture
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
+
+
+
+
