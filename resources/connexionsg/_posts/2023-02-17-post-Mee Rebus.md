@@ -19,7 +19,3 @@ Where are your favourite Mee Rebus haunts? Do tell us in the comments!
 #FoodieFriday #FoodieFridaySG #Singapore #hawkerculture
 
 Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
-
-
-
-
