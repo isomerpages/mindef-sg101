@@ -17,7 +17,7 @@ Singapore pursues a “3 food baskets” strategy: diversify our food import sou
 
 We are also advancing innovative agriculture through vertical farming and alternative proteins. In 2021, Singapore became the world’s first regulatory authority to approve the sales of lab-grown meat. Today, there are about 20 companies in Singapore developing lab-grown meat and plant-based protein. In the future, the Agri-Food Innovation Park located within the Greater Sungei Kadut area, forming part of the larger Northern Agri-tech and Food Corridor, will house industries that develop high-tech urban farming solutions to meet Singapore’s food challenges.
 
-Every one of us can also play a part in reducing the burden of food imports: by adapting and adjusting our eating habits. For example, instead of eating fresh meat, we can be more open-minded to frozen meat, which is as nutritious as fresh meat but cheaper. And inhttps://www.facebook.com/SGFoodAgency/videos/1564207313933952/stead of adding to food waste — which accounts for about 12% of total waste generated in Singapore, the equivalent of 800 million kilogrammes of food being wasted! — we can plan for our meals, store food properly and create tasty dishes with leftovers.
+Every one of us can also play a part in reducing the burden of food imports: by adapting and adjusting our eating habits. For example, instead of eating fresh meat, we can be more open-minded to frozen meat, which is as nutritious as fresh meat but cheaper. And instead of adding to food waste — which accounts for about 12% of total waste generated in Singapore, the equivalent of 800 million kilogrammes of food being wasted! — we can plan for our meals, store food properly and create tasty dishes with leftovers.
 
 These ABC habits are good to have on our grocery runs:
 𝗔dapt to available options
@@ -29,3 +29,4 @@ We can all play a part. Together we keep Singapore strong.
 
 Learn more about Singapore’s food future here:https://www.facebook.com/SGFoodAgency/videos/1564207313933952/
 
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
