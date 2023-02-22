@@ -25,7 +25,7 @@ These ABC habits are good to have on our grocery runs:
 𝗖onsider expiry dates and storage of food we bring home
 
 We can all play a part. Together we keep Singapore strong.
-#𝗪𝗲𝗔𝗿𝗲𝗧𝗼𝘁𝗮𝗹𝗗𝗲𝗳𝗲𝗻𝗰𝗲 #𝗧𝗼𝗴𝗲𝘁𝗵𝗲𝗿𝗪𝗲𝗞𝗲𝗲𝗽𝗦𝗶𝗻𝗴𝗮𝗽𝗼𝗿𝗲𝗦𝘁𝗿𝗼𝗻𝗴 #𝗦𝗶𝗻𝗴𝗮𝗽𝗼𝗿𝗲 #𝗳𝗼𝗼𝗱𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆
+#WeAreTotalDefence #TogetherWeKeepSingaporeStrong #Singapore #food security
 
 Learn more about Singapore’s food future here:https://www.facebook.com/SGFoodAgency/videos/1564207313933952/
 
