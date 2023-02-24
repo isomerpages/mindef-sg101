@@ -1,6 +1,6 @@
 ---
 title: Lee Kuan Yew's experiences of fear
-permalink: /resources/connexionsg/leekuanyew/experiencesoffear
+permalink: /resources/connexionsg/leekuanyew/experiencesoffear/
 date: 2022-07-06
 layout: post
 description: ""
@@ -14,11 +14,10 @@ description: ""
 
 In response to the gloom felt by workers then, he made these points in his speech:
 
-1) Use fear productively: Crises cause fear but they also deepen our strength in overcoming difficulties.
+1. Use fear productively: Crises cause fear but they also deepen our strength in overcoming difficulties.
 
-2) Adapt to “new realities”: Singapore’s economy had to reform to face competition from countries with skilled lower-cost workers, changes to the airline industry with the rise in budget carriers, and relocation of labour-intensive factories to places like China, Mexico and Brazil.
-
-3) Meet challenges head-on: Even if this calls for painful measures such as wage restructuring, lifestyle changes, and training. Workers need to build the right skills for the right price to get jobs.
+2. Adapt to “new realities”: Singapore’s economy had to reform to face competition from countries with skilled lower-cost workers, changes to the airline industry with the rise in budget carriers, and relocation of labour-intensive factories to places like China, Mexico and Brazil.
+3. Meet challenges head-on: Even if this calls for painful measures such as wage restructuring, lifestyle changes, and training. Workers need to build the right skills for the right price to get jobs.
 
 He pointed out Singaporeans had grown accustomed to a higher level of comfort and prosperity, so belt-tightening was uncomfortable and unemployment frightening. But our nation has the cohesion and strength to overcome challenges, proven by how well Singapore recovered, again and again.
 
