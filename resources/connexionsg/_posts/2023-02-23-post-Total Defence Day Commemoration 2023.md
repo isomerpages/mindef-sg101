@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 ![](/images/connexionsg/2023/Serving%20Food-TD.jpeg)
-📷 1: Students from [ITE College West]serving chicken stew to participants of the Total Defence Community Table-top Exercise.
+📷 1: Students from [ITE College West] serving chicken stew to participants of the Total Defence Community Table-top Exercise.
 
 ![](/images/connexionsg/2023/332828951_738952694613373_2049585539034408156_n.jpeg)
 📷 2: Students from [ITE College West] posing for the camera!
