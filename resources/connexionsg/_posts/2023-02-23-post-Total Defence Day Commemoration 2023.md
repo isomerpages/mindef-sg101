@@ -10,7 +10,7 @@ image: ""
 📷 1: Students from [ITE College West]serving chicken stew to participants of the Total Defence Community Table-top Exercise.
 
 ![](/images/connexionsg/2023/332828951_738952694613373_2049585539034408156_n.jpeg)
-📷 2: Students from [ITE College West]( posing for the camera!
+📷 2: Students from [ITE College West] posing for the camera!
 
 ![](/images/connexionsg/2023/332553567_572945931563348_3108115166755834539_n.jpeg)
 📷 3: Chap chye served by the students on 15 Feb 2023.
