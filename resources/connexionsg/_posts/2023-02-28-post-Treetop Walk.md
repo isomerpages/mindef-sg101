@@ -6,10 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
-
-
-
 #DidYouKnow that the Treetop Walk is the first of its kind in Singapore, and also the region!
 
 Hope you don’t have a fear of heights!
@@ -21,3 +17,5 @@ Open to the public for recreation, the Treetop Walk is a popular destination amo
 Lesser known to us is that the Treetop Walk is well-suited for more than just recreational purposes. It is also utilised for forest canopy research, the research of plants and animals living in the forest canopy. In the past, researchers would be hard-pressed to gain any meaningful elevation to conduct forest canopy research; the bridge, however, with its height, allows researchers to do so, and further bolsters our understanding of our island’s precious forest ecosystem!
 
 #TriviaTuesday #TriviaTuesdaySG #Singapore #nature #conservation #macritchie #treetopwalk
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
