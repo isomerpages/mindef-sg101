@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![](/images/connexionsg/2023/Save%20Water%20.jpeg)
 
 Singapore is one of the most water-stressed countries in the world because we lack groundwater and natural freshwater bodies, and have limited land for water storage facilities of harvested rainwater.
