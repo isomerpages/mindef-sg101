@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 ![](/images/connexionsg/2023/Emergency%20Preparedness.png)
-![📷] Ready Bag (SCDF Emergency Handbook)
+[📷] Ready Bag (SCDF Emergency Handbook)
 
 
 How prepared are you for sudden emergencies? In Singapore, about 23,000 life-and-death cases were attended to by the [Singapore Civil Defence Force](https://www.facebook.com/SCDFpage?__cft__[0]=AZWPnZybVMjgVaONm1I2pSXrpGoPxdcAL2-eJhhEDKPjqDoQQHxlq3VWDBRWFHA2vGaiizizJj-m-7LN5A9y7orVqwX_BoA69X-r2LnUb61G3sd2OOQg4IOUIq7o79d2ndSS0__iSgOuqR-Y7UQ-fAvqLJf4SYOWpx1m4TrlPqLFhdqMwavB9Q7Tb8qYn2TeB1Q&__tn__=-]K-R) annually, translating to over 60 calls a day!
@@ -24,9 +24,6 @@ All of us have a part to play in emergency preparedness. Together, we keep Singa
 
 [#WeAreTotalDefence](https://www.facebook.com/hashtag/wearetotaldefence?__eep__=6&__cft__[0]=AZWPnZybVMjgVaONm1I2pSXrpGoPxdcAL2-eJhhEDKPjqDoQQHxlq3VWDBRWFHA2vGaiizizJj-m-7LN5A9y7orVqwX_BoA69X-r2LnUb61G3sd2OOQg4IOUIq7o79d2ndSS0__iSgOuqR-Y7UQ-fAvqLJf4SYOWpx1m4TrlPqLFhdqMwavB9Q7Tb8qYn2TeB1Q&__tn__=*NK-R) [#TogetherWeKeepSingaporeStrong](https://www.facebook.com/hashtag/togetherwekeepsingaporestrong?__eep__=6&__cft__[0]=AZWPnZybVMjgVaONm1I2pSXrpGoPxdcAL2-eJhhEDKPjqDoQQHxlq3VWDBRWFHA2vGaiizizJj-m-7LN5A9y7orVqwX_BoA69X-r2LnUb61G3sd2OOQg4IOUIq7o79d2ndSS0__iSgOuqR-Y7UQ-fAvqLJf4SYOWpx1m4TrlPqLFhdqMwavB9Q7Tb8qYn2TeB1Q&__tn__=*NK-R) [#TotalDefence](https://www.facebook.com/hashtag/totaldefence?__eep__=6&__cft__[0]=AZWPnZybVMjgVaONm1I2pSXrpGoPxdcAL2-eJhhEDKPjqDoQQHxlq3VWDBRWFHA2vGaiizizJj-m-7LN5A9y7orVqwX_BoA69X-r2LnUb61G3sd2OOQg4IOUIq7o79d2ndSS0__iSgOuqR-Y7UQ-fAvqLJf4SYOWpx1m4TrlPqLFhdqMwavB9Q7Tb8qYn2TeB1Q&__tn__=*NK-R) [#StrongerTogether](https://www.facebook.com/hashtag/strongertogether?__eep__=6&__cft__[0]=AZWPnZybVMjgVaONm1I2pSXrpGoPxdcAL2-eJhhEDKPjqDoQQHxlq3VWDBRWFHA2vGaiizizJj-m-7LN5A9y7orVqwX_BoA69X-r2LnUb61G3sd2OOQg4IOUIq7o79d2ndSS0__iSgOuqR-Y7UQ-fAvqLJf4SYOWpx1m4TrlPqLFhdqMwavB9Q7Tb8qYn2TeB1Q&__tn__=*NK-R) [#NeverAgainSG](https://www.facebook.com/hashtag/neveragainsg?__eep__=6&__cft__[0]=AZWPnZybVMjgVaONm1I2pSXrpGoPxdcAL2-eJhhEDKPjqDoQQHxlq3VWDBRWFHA2vGaiizizJj-m-7LN5A9y7orVqwX_BoA69X-r2LnUb61G3sd2OOQg4IOUIq7o79d2ndSS0__iSgOuqR-Y7UQ-fAvqLJf4SYOWpx1m4TrlPqLFhdqMwavB9Q7Tb8qYn2TeB1Q&__tn__=*NK-R) [#CivilDefence](https://www.facebook.com/hashtag/civildefence?__eep__=6&__cft__[0]=AZWPnZybVMjgVaONm1I2pSXrpGoPxdcAL2-eJhhEDKPjqDoQQHxlq3VWDBRWFHA2vGaiizizJj-m-7LN5A9y7orVqwX_BoA69X-r2LnUb61G3sd2OOQg4IOUIq7o79d2ndSS0__iSgOuqR-Y7UQ-fAvqLJf4SYOWpx1m4TrlPqLFhdqMwavB9Q7Tb8qYn2TeB1Q&__tn__=*NK-R) [#ChallengeAccepted](https://www.facebook.com/hashtag/challengeaccepted?__eep__=6&__cft__[0]=AZWPnZybVMjgVaONm1I2pSXrpGoPxdcAL2-eJhhEDKPjqDoQQHxlq3VWDBRWFHA2vGaiizizJj-m-7LN5A9y7orVqwX_BoA69X-r2LnUb61G3sd2OOQg4IOUIq7o79d2ndSS0__iSgOuqR-Y7UQ-fAvqLJf4SYOWpx1m4TrlPqLFhdqMwavB9Q7Tb8qYn2TeB1Q&__tn__=*NK-R)
 
-![🔗](https://static.xx.fbcdn.net/images/emoji.php/v9/t52/2/16/1f517.png) Read Sebastian Koo’s story: [https://www.redcross.sg/.../964-trained-in-emergency...](https://www.redcross.sg/news-stories/stories/964-trained-in-emergency-preparedness-adept-at-emergency-response.html?fbclid=IwAR0G9x50w6rloGgWzB7JtMr_9DbPgTBiT1t9xsbbrVWoChjgV5Fr8PvM-d4)
+🔗 Read Sebastian Koo’s story: https://www.redcross.sg/news-stories/stories/964-trained-in-emergency-preparedness-adept-at-emergency-response.html?fbclid=IwAR0g4YsWKjiXohRDuSoSWhcViBPk3luFM-K9XEb8uliMKWOhRcHzyNm1D6I
 
-![🔗](https://static.xx.fbcdn.net/images/emoji.php/v9/t52/2/16/1f517.png) Ninth edition of the SCDF’s Emergency Handbook: [https://www.scdf.gov.sg/.../publications/emergency-handbook](https://www.scdf.gov.sg/home/community-volunteers/publications/emergency-handbook?fbclid=IwAR1RR3AYI9gO3XaToFbPGU92u3W48mWXxdyzSy9ESZ65mNt6DCcV4B11rrc)
-
-![📷] Ready Bag (SCDF Emergency Handbook)
-
+🔗 Ninth edition of the SCDF’s Emergency Handbook: https://www.scdf.gov.sg/home/community-volunteers/publications/emergency-handbook
