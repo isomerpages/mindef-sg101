@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![](/images/connexionsg/2023/Emergency%20Preparedness.png)
 [📷] Ready Bag (SCDF Emergency Handbook)
 
