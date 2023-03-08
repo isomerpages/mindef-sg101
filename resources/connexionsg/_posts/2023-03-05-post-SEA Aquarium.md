@@ -6,9 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
-
-
 Wondering how to spend a rainy #SundayFunday? ☔
 
 Singapore has one of the world’s largest aquariums, the S.E.A Aquarium, home to about 100,000 marine animals from over 1,000 species, at Resorts World Sentosa (@rwsentosa ).
@@ -26,3 +23,5 @@ In end-2024, the current aquarium will be expanded to over three times its size,
 In the lead-up to the opening of the SGO, the S.E.A. Aquarium will remain open to visitors. Head over to look at majestic marine creatures and learn more about marine life conservation! 🐟🐠🐡🦈🐙🦀🦑🐚
 
 #SundayFundaySG #SundayFunday #SEAAquarium #rwsmoments #cuteanimals #marinewildlife #marineanimals #oceanlife #fishofinstagram
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
