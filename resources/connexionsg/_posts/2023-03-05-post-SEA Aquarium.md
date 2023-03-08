@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/connexionsg/2023/SEA%20Aquarium.png)
+
 Wondering how to spend a rainy #SundayFunday? ☔
 
 Singapore has one of the world’s largest aquariums, the S.E.A Aquarium, home to about 100,000 marine animals from over 1,000 species, at Resorts World Sentosa (@rwsentosa ).
