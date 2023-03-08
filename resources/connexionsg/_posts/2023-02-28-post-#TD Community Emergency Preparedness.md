@@ -28,4 +28,4 @@ All of us have a part to play in emergency preparedness. Together, we keep Singa
 
 🔗 Ninth edition of the SCDF’s Emergency Handbook: https://www.scdf.gov.sg/home/community-volunteers/publications/emergency-handbook
 
-Visit ConnexionSG Facebook & Instagram for more content.
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
