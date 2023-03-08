@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![](/images/connexionsg/2023/332764213_958501005568429_685991343749609938_n.png)
 
 The dragon playground was a popular design for playgrounds in our housing estate in the 1980s.
