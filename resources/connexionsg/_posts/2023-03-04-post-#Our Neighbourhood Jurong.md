@@ -25,3 +25,5 @@ Today, Jurong’s landmarks include the milestones of Singapore’s journey to n
 #OurNeighbourhood #Singapore #Jurong #Jurongeast #Jurongwest #placemaking #SGplacemaking 
 
 🔗 Read more about Jurong's heritage here: https://www.roots.gov.sg/places/places-landing/trails/jurong-heritage-trail
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
