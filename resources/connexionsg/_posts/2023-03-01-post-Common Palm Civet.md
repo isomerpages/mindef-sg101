@@ -6,9 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
-
-
 Ever caught a whiff of pandan despite not having any pandan plants in the area?
 
 You might just be in close proximity to a Common Palm Civet, one of the four species of civets that we can find in Singapore. The pandan scent, in fact, stems from the secretions of its anal scent glands! 😮
@@ -21,3 +18,4 @@ As we go about our lives, let’s look out for and protect the living creatures 
 
 #WildlifeWednesday #WildlifeWednesdaySG #nocturnal #mammal #commonpalmcivet #Singpaore #nature #conservation
 
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
