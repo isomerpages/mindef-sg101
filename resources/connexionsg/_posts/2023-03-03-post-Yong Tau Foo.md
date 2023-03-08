@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/connexionsg/2023/Yong%20Tau%20Foo.png)
+
 Undecided where to head for lunch during this Friday afternoon? Head over to your home’s / workplace’s nearest Yong Tau Foo joint!
 
 Relatively inexpensive and with multiple ingredients to choose from, no wonder Yong Tau Foo is a lunchtime favourite among Singaporeans. Customers can usually choose a variety of vegetables, mushrooms, and meats, many of which are stuffed with a mixture of fish paste, garlic, and soy sauce, which adds a delicious savoury flavour in the dish.
