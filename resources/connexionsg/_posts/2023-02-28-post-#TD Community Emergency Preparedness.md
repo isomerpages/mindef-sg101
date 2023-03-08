@@ -27,3 +27,5 @@ All of us have a part to play in emergency preparedness. Together, we keep Singa
 🔗 Read Sebastian Koo’s story: https://www.redcross.sg/news-stories/stories/964-trained-in-emergency-preparedness-adept-at-emergency-response.html?fbclid=IwAR0g4YsWKjiXohRDuSoSWhcViBPk3luFM-K9XEb8uliMKWOhRcHzyNm1D6I
 
 🔗 Ninth edition of the SCDF’s Emergency Handbook: https://www.scdf.gov.sg/home/community-volunteers/publications/emergency-handbook
+
+Visit ConnexionSG Facebook & Instagram for more content.
