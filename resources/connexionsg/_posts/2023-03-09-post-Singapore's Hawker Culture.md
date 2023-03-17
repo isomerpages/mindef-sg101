@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 📷 1: Photo of Senja Hawker Centre. [Kean Cham on Facebook]
 
 Families on weekends, office workers at lunch hour; retired seniors at all hours — regardless of race, religion or economic status, Singaporeans share a common love for eating at hawker centres.
@@ -22,3 +21,5 @@ Unlike older hawker centres which can be hot and stuffy, newer hawker centres, s
 Singapore’s hawker culture is so beloved that it was inscribed onto the UNESCO Representative List of the Intangible Cultural Heritage of Humanity in December 2020. Our hawker centres have made it possible for Singaporeans from all backgrounds to continue enjoying affordable cuisine as our nation moves forward to be #EvenBetter.
 
 #EvenBetter #hawkerculture #hawker #hawkercentre #singaporefood #singapore
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
