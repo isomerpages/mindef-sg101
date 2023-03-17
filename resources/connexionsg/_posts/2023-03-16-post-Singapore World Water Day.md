@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![](/images/connexionsg/2023/Singapore%20World%20Water%20Day.png)
 
 Every year, the PUB, Singapore's National Water Agency, runs the Singapore World Water Day campaign for the whole of March to remind Singaporeans to conserve water. Globally, the UN’s annual World Water Day is commemorated on 22 March.
@@ -23,3 +22,4 @@ It is easy to forget that clean water is not easily accessible to many people ar
 
 #MakeEveryDropCount #GoBlue4SG #SingaporeWorldWaterDay #watersavingtips #reusewater #singapore
 
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
