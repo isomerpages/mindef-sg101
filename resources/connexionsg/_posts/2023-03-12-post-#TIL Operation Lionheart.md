@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 ![](/images/connexionsg/2023/SCDF%20DART.jpg)
-📷: Operation Lionheart doing rescue work in the 2023 Turkey-Syria Earthquake (SCDF FB)!
+📷: Operation Lionheart doing rescue work in the 2023 Turkey-Syria Earthquake (SCDF FB)
 
 #TIL Even though Singapore is not prone to natural disasters such as earthquakes, tsunamis and hurricanes, our elite rescue unit — the @Singapore Civil Defence Force’s Disaster Assistance and Rescue Team (DART) — was the first in Asia-Pacific to achieve the highest level of classification as a Heavy Urban Search And Rescue Team by the United Nation’s International Search and Rescue Advisory Group in 2008. This seal of approval puts DART in the top class of rescuers in international disaster operations.
 
