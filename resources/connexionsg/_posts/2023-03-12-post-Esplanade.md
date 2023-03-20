@@ -18,3 +18,5 @@ The Esplanade’s has large theatres with world-class acoustics, outdoor perform
 This #SundayFunday, try checking out the range of free and paid programmes and performances at the Esplanade, wander around the area that attracts people from all over the world, and tell someone the Esplanade’s story of transforming “flaws” into attractive features, much like Singapore’s own story as a nation.
 
 #SundayFunday #SundayFundaySG #Singapore #Esplanade #arts #culture
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
