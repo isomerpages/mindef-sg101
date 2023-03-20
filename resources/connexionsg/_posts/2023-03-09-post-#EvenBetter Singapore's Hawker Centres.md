@@ -6,9 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
-
-
 ![](/images/connexionsg/2023/Senja%20Hawker%20Centre.jpg)
 📷 1: Photo of Senja Hawker Centre. [Kean Cham on Facebook]
 ![](/images/connexionsg/2023/Old%20Hawker%20Centresn.jpg)
