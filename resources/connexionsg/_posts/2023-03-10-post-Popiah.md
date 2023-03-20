@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/connexionsg/2023/Popiah.jpeg)
+
 Popiah is a well-loved dish sold in hawker centres or coffeeshops, but also increasingly popular as a DIY option. Ingredients such as shredded turnip, bean sprouts, egg, diced peanuts, sweet sauce, and shrimp are wrapped in a wheat flour skin that is delicate and thin, yet resilient enough to pack all the ingredients within. Many Singaporeans also love to add a dash of chilli garlic sauce to give the popiah an extra tinge of spicy flavour!
 
 Perhaps what makes popiah so appealing is the scrumptious combination of flavours and textures. There is sweet, savoury, and spicy flavours all at one go; with crunchy peanuts and vegetables combining with soft and chewy skin for a unique mix of textures. To top it all, popiahs are high in fibres and vitamins -- the perfect healthy snack or meal!
