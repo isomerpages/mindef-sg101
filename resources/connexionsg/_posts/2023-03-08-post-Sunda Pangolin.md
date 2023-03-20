@@ -6,6 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
+
+
+![](/images/connexionsg/2023/Sunda%20Pangolin.jpeg)
+
 The Sunda pangolin (scientific name: Manis Javanica) is a shy, nocturnal, solitary mammal covered in scales that are made of compressed hair. As pangolins feed on ants and termites, they are sometimes also known as the scaly anteater.
 
 While the Sunda pangolin has no teeth, it has a tongue as long as its entire body. Pangolins feed on ants and termites, using the claws on their forelimbs to break into nests and mounds found in the ground and trees. Once in, they will use their long tongue to gather the insects. One adult pangolin may consume about 70 million insects per year.
