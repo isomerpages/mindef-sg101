@@ -6,8 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
-
 ![](/images/connexionsg/2023/Sunda%20Pangolin.jpeg)
 
 The Sunda pangolin (scientific name: Manis Javanica) is a shy, nocturnal, solitary mammal covered in scales that are made of compressed hair. As pangolins feed on ants and termites, they are sometimes also known as the scaly anteater.
