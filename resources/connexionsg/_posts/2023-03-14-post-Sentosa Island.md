@@ -15,3 +15,5 @@ The peacocks roam freely around the island and congregate regularly at the well-
 Sentosa has signs around the island educating people on peacock etiquette, and mirrors have also been strategically placed around most carparks in Sentosa to divert the peacocks away from vehicles.
 
 #TriviaTuesday #Sentosa #SentosaIsland #Peacocks #Peafowls #ExploreSingapore #Singapore #Singapura
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
