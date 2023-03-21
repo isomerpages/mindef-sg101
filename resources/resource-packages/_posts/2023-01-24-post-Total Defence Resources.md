@@ -77,7 +77,7 @@ You may find past speeches and press releases on Total Defence [here](https://ww
 ![Total Defence Sandbox](/images/Total%20Defence%20Sandbox.jpg)
 The Total Defence Sandbox seeks ground-up innovation from Singaporeans especially youths to start initiatives that put Total Defence into action. The Total Defence Sandbox invites everyone to share ideas on Total Defence and aims to nurture these ideas and eventually match ideas with partners who could support the implementation or amplification of their efforts.
 
-More information regarding the Total Defence Sandbox can be found [here](https://www.sg101.gov.sg/neinitiatives/tdsandbox/).
+More information regarding the Total Defence Sandbox can be found [here](https://go.gov.sg/tdsandboxdetails).
 
 
 ****
