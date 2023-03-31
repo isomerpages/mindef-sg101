@@ -17,3 +17,5 @@ What about this sculpture makes it so cheerful? Is it the exaggerated round edge
 Feel the positive energy the next time you walk by it! ✨
 
 #SculptureSaturdaySG #FatBird #RafflesPlace #SingaporeRiver #Landmark #Sculpture
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
