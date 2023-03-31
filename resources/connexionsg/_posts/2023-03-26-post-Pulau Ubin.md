@@ -25,3 +25,5 @@ Whether it’s for an overnight camping trip or a short getaway, Pulau Ubin has 
 P/s: There are no ATMs on the island and only cash payments are accepted. Do make sure to withdraw sufficient money before heading off to the island.
 
 #SundayFundaySG #SundayFunday #PulauUbin #ChekJawa #beach #cycling #hiking #nature #naturelovers #outdoors #family #weekend #healthierSG
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
