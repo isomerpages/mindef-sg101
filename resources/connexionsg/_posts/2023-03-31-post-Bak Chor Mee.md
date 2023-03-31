@@ -21,3 +21,5 @@ Both versions of Bak Chor Mee are served with lard croutons called ‘bak pok’
 Between the dry and soupy Bak Chor Mee, which do you prefer? 🤤
 
 #FoodieFriday #FoodieFridaySG #TGIF #singaporeanfood #sghawkerculture #bakchormee #mincedporknoodles #mincedmeatnoodles #noodles #shiok
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
