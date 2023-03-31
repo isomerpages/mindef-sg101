@@ -26,3 +26,5 @@ This transformation was planned back in 2015 when the Urban Redevelopment Author
 Today, Atbara showcases Singapore’s forest ecosystems and forest restoration efforts, and a photo exhibition detailing the conservation efforts for the bungalows. Inverturret highlights the role of botany art in scientific documentation of plants, and houses Singapore’s first permanent botany art display featuring watercolour illustrations of both native and extinct species. The buildings are not only examples of Singapore’s conservation heritage, they elevate the Botanic Gardens’ mission in public education and outreach with grace.
 
 #heritage #Singaporearchitecture #Singaporebotanicgardens #bukittimah #Singaporeproperty #architecture
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
