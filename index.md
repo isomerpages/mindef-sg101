@@ -43,14 +43,14 @@ sections:
       image: /images/TD2023 Poster with Frame Final.jpg
       alt: Image alt text
   - infopic:
-      title: News in Focus 02 2023
+      title: News in Focus 03 2023
       subtitle: News in Focus/ Resources
-      description: "In this issue: (1) ASEAN Foreign Ministers’ Retreat; (2) Budget
-        Statement 2023; (3) Total Defence 2023; and (4) 59th Munich Security
-        Conference."
+      description: "In this issue: (1) Key Highlights from Committee of Supply Debate
+        2023; (2) Exercise Northstar; and (3) Singapore Defence Technology
+        Summit 2023."
       button: Read More
-      url: files/news-in-focus/2023/News%20In%20Focus%20-%200223.pdf
-      image: /images/NiF 2_23.png
+      url: files/news-in-focus/2023/news%20in%20focus%2003_23.pdf
+      image: /images/nif 3_23.png
       alt: Image alt text
   - infopic:
       title: Creating a Shared Identity as Singaporeans
