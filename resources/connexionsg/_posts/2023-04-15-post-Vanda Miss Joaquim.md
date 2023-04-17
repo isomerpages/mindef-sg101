@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/vanda%20ms%20joaquim%201.png)
+![](/images/connexionsg/2023/vanda%20ms%20joaquim%201.png)![](/images/connexionsg/2023/vanda%20ms%20joaquim%202.png)
 
 Vanda Miss Joaquim was presented as Singapore's National Flower 42 years ago today, on 15 April 1981. The Agnes variety of Vanda Miss Joaquim stood out from 40 shortlisted flowers, and was chosen for its vibrant colours, hardiness, and resilience – qualities that reflect the Singapore spirit. Singapore is the only country in the world to have a hybrid flower as a national symbol.
 
