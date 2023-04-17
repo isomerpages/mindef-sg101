@@ -25,3 +25,5 @@ Singaporeans can support the national effort by choosing and buying local produc
 Apart from supporting local produce, consumers can play their part by being open to alternatives. We are also advancing innovative agriculture through alternative proteins. In 2021, Singapore became the world’s first regulatory authority to approve the sales of lab-grown meat. Today, there are about 20 companies in Singapore developing lab-grown meat and plant-based protein. In the future, the Agri-Food Innovation Park located within the Greater Sungei Kadut area, forming part of the larger Northern Agri-tech and Food Corridor, will house industries that develop high-tech urban farming solutions to meet Singapore’s food challenges. 
 
 https://www.sfa.gov.sg/food-for-thought/article/detail/sg50-special-singapore's-food-farms---a-story-of-then-and-now?fbclid=IwAR3XdJl_FeLcXFUmcUobXbaNb7jh0nv3XEVFVOAjFbbOKEgCquKcsCghflk
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
