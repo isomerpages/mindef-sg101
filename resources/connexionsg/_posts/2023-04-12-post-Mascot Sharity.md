@@ -26,3 +26,5 @@ Sharity the mascot might have changed over the years, but the values represented
 P.S/ Fun fact: Sharity’s favourite food is peanut ice kachang and he would share it with his friends! 😄
 
 #OurMascots #Sharing #Caring #Neighbourliness #Singapore #SingaporeWay
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
