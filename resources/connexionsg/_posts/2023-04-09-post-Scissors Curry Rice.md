@@ -21,3 +21,5 @@ Scissors curry rice is believed to have originated from Hainanese chefs and cook
 Over the decades, these chefs branched out to form their own eateries, and many passed on their own recipes through the generations. The dish, perhaps, is a microcosm of our Singapore – a mix of different cultures and practices, rooted in tradition, and also marked by innovation and adaptability that ultimately creates a uniquely Singaporean experience.
 
 #FoodforThought #scissorscurryrice #Singapore #hawkerculture
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
