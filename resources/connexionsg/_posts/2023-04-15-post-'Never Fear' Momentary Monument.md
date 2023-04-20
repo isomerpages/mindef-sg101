@@ -18,3 +18,5 @@ He was right. And the Never Fear marker is there to remind Singaporeans to conti
 It is called a momentary monument, because at certain angles, the sculpture disappears. The two bodies face different directions - one towards the past, one towards the future. But which is which? And what does the disappearing mean? This thought-provoking sculpture inspires reflection on where you stand, and what you see.
 
 #SculptureSaturdaySG #NeverFear #MomentaryMonument #Sembawang #Monument #Landmark #Sculpture
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
