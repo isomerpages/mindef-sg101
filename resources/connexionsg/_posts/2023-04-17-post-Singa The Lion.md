@@ -17,3 +17,5 @@ In 2001, the Singapore Kindness Movement (SKM) took over the NCC and Singa repre
 Fortunately, he made a comeback in 2014 as Singa the Kindness Lion, bearing a yellow gerbera — the symbol of appreciation — on his shirt in place of the heart. To this day, Singa spends time in schools imparting values of graciousness and compassion to our primary school children and preschoolers.
 
 #MascotMonday #MascotMondaySG #Singa #SingaTheLion #SingaTheKindnessLion #Kindness #Courtesy #Singapore
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
