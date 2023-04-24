@@ -20,3 +20,5 @@ Fortunately, he made a return in 2015 with support from MOE, sporting an updated
 Often seen at charity events, community outreach programs, and fundraising events throughout Singapore, Sharity remains an icon for Singaporeans, reminding and inspiring us toward a more caring, and compassionate society. ❤️
 
 #MascotMonday #MascotMondaySG #Sharity #SharityElephant #ComChest #sharingiscaring #Singapore #bettersingapore
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
