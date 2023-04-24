@@ -19,3 +19,5 @@ Unfortunately, Inuka’s health began to decline in early 2018, and he was eutha
 Following discussions with the Animal Welfare and Ethics Committee, it had also been decided that Inuka would be our nation’s last polar bear, so those of us who have seen Inuka in the flesh had lived through a special time indeed.
 
 #ThrowbackThursday #ThrowbackThursdaySG #SingaporeZoo #Inuka #conservation #climatechange
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
