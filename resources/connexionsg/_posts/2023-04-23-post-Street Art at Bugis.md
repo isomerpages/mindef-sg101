@@ -18,3 +18,5 @@ One of the more popular streets in the area is Haji Lane. While browsing the mur
 Hoping to take a photo with the murals in the graffiti-tagged lane without too many people around? Then definitely come out (very) early in the day on a #SundayFunday! The colourful shops and murals in Haji Lane make for a very Instagram-able photo backdrop 📸
 
 #SundayFundaySG #SundayFunday #Bugis #KampongGelam #KampongGlam #HajiLane #murals #streetart #artwork #painting #art #contemporaryart
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
