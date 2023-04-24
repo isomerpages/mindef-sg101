@@ -21,3 +21,5 @@ This exposed the cooks to many Western culinary practices, even as they made mod
 Today, while this fusion cuisine is no longer sold by just the Hainanese, they remain as a testament to our colonial past and how we have adapted it into our local food culture -- something that is truly uniquely Singapore!
 
 #FoodieFriday #FoodieFridaySG #Singapore #hawkerculture #colonialera #westernfood #hainanesewesternfood
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
