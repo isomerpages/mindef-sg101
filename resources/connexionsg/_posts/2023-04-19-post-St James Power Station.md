@@ -23,4 +23,4 @@ Today, the building’s historical architectural elements combined with modern f
 
 #heritage #Singaporeheritage #Singaporearchitecture #architecture #StJamesPowerStation #Harbourfront #vivocity
 
-
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
