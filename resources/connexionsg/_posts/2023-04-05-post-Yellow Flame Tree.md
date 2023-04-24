@@ -22,3 +22,5 @@ It is also drought-tolerant and well adapted to Singapore’s weather. During th
 Today, there are two specimens of this tree in Singapore listed as “Heritage Trees” by the National Parks Board (@nparksbuzz) – one along the banks of the Singapore River, opposite The Fullerton Hotel; and another one found in Jalan Tan Tock Seng, within Renci Hospital’s car park.
 
 #WildlifeWednesdaySG #WildlifeWednesday #YellowFlame #YellowFlameTree #PeltophorumPterocarpem #Nature #Singapore #Wildlife
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
