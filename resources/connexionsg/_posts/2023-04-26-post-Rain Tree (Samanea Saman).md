@@ -19,3 +19,5 @@ When it blooms, the crown of the tree is covered in clusters of slightly-fragran
 Today, 22 Rain Trees along Connaught Drive have been listed as Heritage Trees by the National Parks Board (@nparksbuzz). This ‘Avenue of Heritage Trees’ holds the record for having the largest number of trees in a single area endorsed under the NParks’ Heritage Tree Scheme, and is part of the Civic District Tree Trail. Generally estimated to have been planted in the mid-1880s, these trees may be over 130 years old now.
 
 #WildlifeWednesdaySG #WildlifeWednesday #RainTree #SamaneaSaman #Nature #Singapore #Wildlife
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
