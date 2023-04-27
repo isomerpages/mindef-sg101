@@ -1,6 +1,6 @@
 ---
-title: "#Our Neighbourhood Jurong"
-permalink: /resources/connexionsg/OurNeighbourhoodJurong/
+title: "Jurong #OurNeighbourhood"
+permalink: /resources/connexionsg/jurongourneighbourhood/
 date: 2023-03-04
 layout: post
 description: ""
