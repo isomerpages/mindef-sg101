@@ -28,3 +28,5 @@ In a period of great geopolitical uncertainties, regionalism can help countries 
 
 📎The full transcript of the speech can be found on MINDEF’s website.
 
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
