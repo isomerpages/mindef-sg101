@@ -27,6 +27,7 @@ In a period of great geopolitical uncertainties, regionalism can help countries 
 #Singapore #ASEAN #regionalism #IISS #Sherpa
 
 📎The full transcript of the speech can be found on MINDEF’s website.
+https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2023/January/16jan23_speech 
 
 
 Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
