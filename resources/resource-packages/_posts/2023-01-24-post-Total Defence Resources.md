@@ -13,6 +13,15 @@ Total Defence remains relevant to deal with the ever-evolving threats and challe
 Every Singaporean has a part to play in our daily lives to ensure that Singapore is prepared for crises or disruptions, and that we remain resilient and united.
 
 Below are some resources on Total Defence which you may find useful for your engagement. 
+****
+
+#### **Total Defence Sandbox**
+![Total Defence Sandbox](/images/Total%20Defence%20Sandbox.jpg)
+The Total Defence Sandbox seeks ground-up innovation from Singaporeans especially youths to start initiatives that put Total Defence into action. The Total Defence Sandbox invites everyone to share ideas on Total Defence and aims to nurture these ideas and eventually match ideas with partners who could support the implementation or amplification of their efforts.
+
+More information regarding the Total Defence Sandbox can be found [here](https://go.gov.sg/tdsandboxdetails).
+
+Submit your ideas [here](https://go.gov.sg/tdsandboxdetails)!
 
 ****
 #### **Total Defence 2023 Campaign Poster**
@@ -32,13 +41,8 @@ What are the consequences of your choices? In the Total Defence Interactive Vide
 
 Experience the video and understand what you can do to play your part for Total Defence!
 
-**(New) Total Defence Interactive Video #2 (2023)**
+Watch the Total Defence Interactive Video (2023) [here](https://go.gov.sg/tdiv2).
 ![Total Defence Interactive Video 2](/images/tdiv2.png)
-Watch the new Total Defence Interactive Video #2 (2023) [here](https://go.gov.sg/tdiv2).
-
-**Total Defence Interactive Video #1 (2022)**
-![Total Defence Interactive Video 1](/images/tdiv1.png)
-Watch the Total Defence Interactive Video #1 (2022) [here](https://go.gov.sg/tdinteractivevid).
 
 ****
 #### **Total Defence Engagement Packages**
@@ -52,7 +56,7 @@ Meanwhile, you may check out past years' packages below:
 #### **Total Defence Day Videos**
 
 **Total Defence Day Video 2023**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cl9ohELFTv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cl9ohELFTv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 The Total Defence Day Video 2023 is also available on [We Are Total Defence (WATD) Facebook page](https://www.facebook.com/WeAreTotalDefence) and [Total Defence YouTube page](https://www.youtube.com/@TotalDefenceSG).
 
@@ -61,12 +65,12 @@ You may also check out the previous years' Total Defence Video Messages below:
 **Minister for Defence's Total Defence Day 2022 Message**. Download the transcript [here](/files/Transcript%20-%20Minister%20for%20Defence%20Total%20Defence%20Day%202022%20Message.pdf).
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7zzFPeTDa5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7zzFPeTDa5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ****
 
 **Minister for Defence's Total Defence Day 2021 Message**. Download the transcript [here](/files/Transcript%20-%20Minister%20for%20Defence%20Total%20Defence%20Day%202021%20Message.pdf).
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hG7KGkZzLAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hG7KGkZzLAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ****
 #### **Past Speeches and Press Releases**
@@ -86,7 +90,7 @@ More information regarding the Total Defence Sandbox can be found [here](https:/
 ![Total Defence Badge (Gold, Silver, Bronze)](/images/TD%20Badge%20(Gold,Silver,Bronze)%202023.png)
 The Total Defence Programme for Uniformed Groups (UGs) aims to promote awareness and involvement in Total Defence by UGs for the attainment of different levels (Bronze, Silver and Gold Badges) of the programme. The refreshed programme provides more opportunities for UG cadets to put Total Defence into action with a greater emphasis on practical emergency preparedness skills, self-directed learning and active citizenry through volunteering. 
 
-For more details and to download the Facilitation Guide, please click [here](https://drive.google.com/drive/folders/1fuABBH_EteJ_aimlelRBTp8n7IDzbEpd?usp=sharing_eil_m&ts=63155ae6). Schools may also write in directly to nexus@defence.gov.sg to request for the badges for the non-UG students.
+For more details and to download the Facilitation Guide, please click [here](https://drive.google.com/drive/folders/1fuABBH_EteJ_aimlelRBTp8n7IDzbEpd?usp=sharing_eil_m&amp;ts=63155ae6). Schools may also write in directly to nexus@defence.gov.sg to request for the badges for the non-UG students.
 
 ****
 
@@ -98,7 +102,7 @@ You may find more TD resources and Activities such as Total Defence Song, Total 
 
 #### **Useful Videos**
 * **ciNE65 Short Film Competition** aims to capture our Singaporean identity through the lenses of local budding film-makers. Launched by Nexus in July 2011, it encourages aspiring film-makers to tell their Singapore story and what Singapore means to them. Through ciNE65, Nexus hopes to harness the potential of short films to touch the hearts and minds of Singaporeans. You may view the past ciNE65 films [here](https://www.youtube.com/user/cine65sg). Do remember to subscribe to this channel!
-* **N.E.mation!** is an annual national digital animation and storyboard competition for students and youths to express their thoughts about Total Defence. View all N.E.mation! videos from past seasons [here](https://www.youtube.com/user/NEmators). You may also use [this guide](/files/NEmation%20clips%20Facilitation%20Guide.pdf) to facilitate discussions based on the N.E.mation! clips.
+* **N.E.mation!** is an annual national digital animation and storyboard competition for students and youths to express their thoughts about Total Defence. View all N.E.mation! videos from past seasons&nbsp;[here](https://www.youtube.com/user/NEmators). You may also use [this guide](/files/NEmation%20clips%20Facilitation%20Guide.pdf) to facilitate discussions based on the N.E.mation! clips.
 ****
 
 #### **Useful Reports**
