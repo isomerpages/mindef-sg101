@@ -77,15 +77,6 @@ You may also check out the previous years' Total Defence Video Messages below:
 You may find past speeches and press releases on Total Defence [here](https://www.mindef.gov.sg/oms/imindef/mindef_websites/topics/totaldefence/news-rooms.html).
 
 ****
-#### **Total Defence Sandbox**
-![Total Defence Sandbox](/images/Total%20Defence%20Sandbox.jpg)
-The Total Defence Sandbox seeks ground-up innovation from Singaporeans especially youths to start initiatives that put Total Defence into action. The Total Defence Sandbox invites everyone to share ideas on Total Defence and aims to nurture these ideas and eventually match ideas with partners who could support the implementation or amplification of their efforts.
-
-More information regarding the Total Defence Sandbox can be found [here](https://go.gov.sg/tdsandboxdetails).
-
-
-****
-
 #### **Total Defence Badge Programme**
 ![Total Defence Badge (Gold, Silver, Bronze)](/images/TD%20Badge%20(Gold,Silver,Bronze)%202023.png)
 The Total Defence Programme for Uniformed Groups (UGs) aims to promote awareness and involvement in Total Defence by UGs for the attainment of different levels (Bronze, Silver and Gold Badges) of the programme. The refreshed programme provides more opportunities for UG cadets to put Total Defence into action with a greater emphasis on practical emergency preparedness skills, self-directed learning and active citizenry through volunteering. 
