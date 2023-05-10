@@ -12,16 +12,16 @@ Total Defence remains relevant to deal with the ever-evolving threats and challe
 
 Every Singaporean has a part to play in our daily lives to ensure that Singapore is prepared for crises or disruptions, and that we remain resilient and united.
 
-Below are some resources on Total Defence which you may find useful for your engagement. 
-****
+Below are some resources on Total Defence which you may find useful for your engagement.
 
+****
 #### **Total Defence Sandbox**
 ![Total Defence Sandbox](/images/Total%20Defence%20Sandbox.jpg)
 The Total Defence Sandbox seeks ground-up innovation from Singaporeans especially youths to start initiatives that put Total Defence into action. The Total Defence Sandbox invites everyone to share ideas on Total Defence and aims to nurture these ideas and eventually match ideas with partners who could support the implementation or amplification of their efforts.
 
 More information regarding the Total Defence Sandbox can be found [here](https://go.gov.sg/tdsandboxdetails).
 
-Submit your ideas [here](https://go.gov.sg/tdsandboxdetails)!
+Submit your ideas [here](https://go.gov.sg/tdsandbox)!
 
 ****
 #### **Total Defence 2023 Campaign Poster**
