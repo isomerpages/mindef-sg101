@@ -21,7 +21,7 @@ The Total Defence Sandbox seeks ground-up innovation from Singaporeans especiall
 
 More information regarding the Total Defence Sandbox can be found [here](https://go.gov.sg/tdsandboxdetails).
 
-Submit your ideas [here](https://go.gov.sg/tdsandboxdetails)!
+Submit your ideas [here](https://go.gov.sg/tdsandbox)!
 
 ****
 #### **Total Defence 2023 Campaign Poster**
