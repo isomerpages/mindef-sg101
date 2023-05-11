@@ -1,6 +1,6 @@
 ---
 title: UNESCO Bids and Our Heritage
-permalink: /social-national-identity/case-studies/heritage
+permalink: /social-national-identity/case-studies/heritage/
 third_nav_title: Case Studies
 ---
 #### UNESCO Bids and Our Heritage
@@ -21,7 +21,7 @@ In March 2019, Singapore submitted its nomination for its hawker culture to be i
 
 On 16 December 2020, Hawker Culture in Singapore was successfully inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity. 
 
-<iframe width="660" height="415" src="https://www.youtube.com/embed/PcSEBDCRt-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="660" height="415" src="https://www.youtube.com/embed/PcSEBDCRt-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Although many have warned of the impending doom of Singapore’s hawker culture, support schemes and programmes from the government appears to have turned the trend around. Proof of the vibrancy and continuity of our hawker culture can be seen in the number of aspiring young hawkers we have, with examples like “Beng Who Cooks” rising to fame recently on the back of their charity work during the Circuit Breaker period. Programmes like the Staggered Rent Scheme and the Incubation Stall Programme, which reduce the initial rent paid by new hawkers, have encouraged more young people today to venture into the hawker industry. A mentorship programme with experienced hawkers has also been set up, to help young hawkers get their footing. Although some of these newcomers have since thrown in the towel, many more continue to keep going and to thrive, particularly in the new not-for-profit social enterprise hawker centres like Timbre+ and the new Pasir Ris Central Hawker Centre. Public support for young hawkers has also been strong. For instance, a “Next Gen Hawker Food Tour” has also been set up to encourage Singaporeans to explore the hawker stalls and eateries started by young hawkers.
 
@@ -29,6 +29,6 @@ Although many have warned of the impending doom of Singapore’s hawker culture,
 
 Although nine in 10 respondents agree or strongly agree that hawker centres are an important part of Singapore’s identity, according to a 2016 survey by the National Environment Agency (NEA), we cannot take the continued survival of our hawker culture for granted. Only with the continued support from the government, business owners and fellow Singaporeans, would we be able to keep this unique cultural heritage alive. Similarly, our Botanic Gardens need to continue to be maintained and developed in the years to come, to remain relevant and valuable to Singaporeans.
 
-The richness of Singapore’s heritage does not end with these two nominations. As part of the 2019 submission, the National Heritage Board is also collating an ICH inventory, comprising other traditions, rituals, crafts, expressions, knowledge and skills that we practice and pass on from generation to generation. As of July 2020, this extensive inventory already comprises 119 items. As we look around and marvel at the many things that make Singapore our home, we must not forget that these things only exist today as a result of the preservation and effort put in by those who came before. 
+The richness of Singapore’s heritage does not end with these two nominations. On 22 February 2018, Singapore ratified the UNESCO 2003 Convention for the Safeguarding of the Intangible Cultural Heritage (ICH) of Humanity, and subsequently launched the Inventory of ICH. As of October 2022, the Inventory consists of 102 elements, and more will be added progressively. As we look around and marvel at the many things that make Singapore our home, we must not forget that these things only exist today as a result of the preservation and effort put in by those who came before. 
 
 Let us work together as one Singapore, to preserve our unique cultural heritage for future generations, to make Singapore a home we can all be proud of.
