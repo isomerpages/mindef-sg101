@@ -24,3 +24,5 @@ It also convened the Advisory Committee on Platform Workers, which was aimed at 
 This #LabourDay is a good day to reflect on this symbiotic relationship, which has seen us through many crises since Singapore’s independence: the withdrawal of British troops that threatened jobs, the 1970s oil crisis, the major recession in 1985 when workers took deep CPF cuts, the Asian Financial Crisis in 1997, SARS, the Global Financial Crisis in 2008, and most recently, the COVID-19 pandemic. The tripartite partnership, forged over the decades, is how we have come through uncertain times and crises in the past, and it is what we will continue to need, to remain united and successful in the future.
 
 #EveryWorkerMatters #LabourDay #SingaporeWay
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
