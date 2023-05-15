@@ -23,5 +23,6 @@ The riots, which peaked on 12 May 1955, eventually died down in the early hours 
 
 The Hock Lee Bus Riots showed how workers’ unhappiness could be exploited to sow instability, and highlighted the importance of nurturing labour relations and fostering strong ties between all stakeholders. In the years after, the government worked to improve labour relations and set up National Trade Union Congress in 1961 to foster strong ties between all stakeholders, for the good of the nation.
 
-#EveryWorkerMatters #LabourDay #Labour #Union #HockLee #MotionOfThanks #WagesWelfareWorkProspects 
+#EveryWorkerMatters #LabourDay #Labour #Union #HockLee #MotionOfThanks #WagesWelfareWorkProspects
 
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
