@@ -20,3 +20,5 @@ Singapore's Chinese inhabitants started to call it 施排埔 – a "See Pai Poh"
 Today, SGH remains the largest hospital in Singapore with nearly 1,800 beds and over 10,000 healthcare workers providing care for more than 1 million patients annually. It is also a teaching hospital and a nodal point for clinical research. Going forward, its 43-hectare site will see an upgrade to support its continued endeavour to be Singapore’s largest healthcare hub to meet the nation’s future healthcare needs.
 
 #Heritage #Singapore #Hospital #Healthcare #HealthierSG
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
