@@ -19,3 +19,5 @@ The People of the River statue series continues to the Fullerton Hotel’s facad
 These statues keep you company as you walk down the river, linking you to the people of the past, who came with their dreams and hard work, striving for a better life and contributing to the nation, like we do today.
 
 #SculptureSaturdaySG #SculptureSaturday #Monument #Landmark #Sculpture #PeopleoftheRiver #Singapore #SingaporeRiver #Immigrants
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
