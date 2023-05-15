@@ -21,3 +21,5 @@ In the 1990s, Smiley got a new look in overalls, and was placed on the cover of 
 In 2008, Smiley again underwent a makeover, resulting in the modern, revitalised look we see today. He continues to feature in POSB’s savings campaigns for children -- because the old fashioned habit of saving for tomorrow never goes out of style.
 
 #MascotMonday #MascotMondaySG #Smiley #Smily #SmileytheSquirrel #POSB #Savings #Thrifty #Thriftiness #Singapore
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
