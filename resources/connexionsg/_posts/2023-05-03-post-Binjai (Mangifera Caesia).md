@@ -17,3 +17,5 @@ Several locations have been inspired by the tree, which includes Binjai Park, Bi
 Today, four specimens of this tree is listed as “Heritage Trees” by the National Parks Board (@nparksbuzz) – one in the Istana, one opposite Spottiswoode Apartments, another at Jalan Naung next to Hougang MRT, and the last one in the Singapore Botanic Gardens.
 
 #WildlifeWednesdaySG #WildlifeWednesday #Binjai #BinjaiTree #MangiferaCaesia #Nature #Singapore #Wildlife
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
