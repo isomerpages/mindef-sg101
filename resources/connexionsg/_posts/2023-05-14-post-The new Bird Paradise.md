@@ -21,3 +21,5 @@ Bird Paradise also features two new bird programmes – Predators On Wings and W
 Need more reasons to check out Bird Paradise on #SundayFunday? There is currently a $10 discount on tickets during the park’s soft launch period from 8 to 26 May 2023. During this time, tickets go for $38 (adults) and $23 (children aged three to 12). From 27 May 2023 onwards, prices are at $48 (adults) and $33 (kids).
 
 #SundayFundaySG #SundayFunday #BirdParadise #MandaiWildlifeReserve #BirdPark #BirdSanctuary #Aviary #wildlifephotography #birdphotography #naturelover #Birds #birdsofinstagram #birdlovers
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
