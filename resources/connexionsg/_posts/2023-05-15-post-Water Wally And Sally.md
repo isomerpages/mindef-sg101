@@ -17,3 +17,5 @@ The mascots appear in various educational materials, events, and campaigns, incl
 But with their cute, round shapes, Water Wally and Sally are also stealing the hearts of Singaporeans of all ages — they bring a cheerful optimism to the enormous challenge of managing water resources for our nation’s survival!
 
 #MascotMonday #MascotMondaySG #WaterWally #Sally #PUB #water #conservation #sustainability
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
