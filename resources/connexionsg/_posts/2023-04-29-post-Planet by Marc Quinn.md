@@ -19,3 +19,5 @@ The sculpture, located at The Meadow, is a prominent landmark connecting the Gar
 If you’re in the area this weekend, see if you would like to pay the sculpture a visit, and don’t forget to snap some photos to commemorate the dramatic sight of a giant floating baby peacefully asleep in our nation’s gardens! 👶
 
 #SculptureSaturday #SculptureSaturdaySG #planet #MarcQuinn #Singapore #Gardensbythebay
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
