@@ -19,4 +19,6 @@ Today, some of Ang Mo Kio’s landmarks include the Ang Mo Kio Public Library, A
 
 Going forward, there are plans to rejuvenate Ang Mo Kio. The town centre will be enhanced to provide improved accessibility by end of 2024. A new heritage square will have features recording the town’s developmental milestones. The new Cross Island Line Phase 1 is in the works and expected to be completed by 2030. Footpaths and cycling lanes will be widened to improve walking and cycling experience. A new 8-ha park will be developed at Lentor Hills Estate which will connect the Central Catchment Nature Reserve to Khatib Nature Corridor, and combine the existing hillock with a new garden and nature play-garden. A new 1km-long park connector at Lentor Canal will also be developed, that will link residents to a larger network of greenery including the Bishan-Ang Mo Kio Park. Ang Mo Kio has been and will continue to be a place of development, where ideas are tested out for prosperity and posterity.
 
-#OurNeighbourhood #AngMoKio #Singapore #Singaporelife #Singaporeplacemaking #SGplacemaking 
+#OurNeighbourhood #AngMoKio #Singapore #Singaporelife #Singaporeplacemaking #SGplacemaking
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
