@@ -22,3 +22,5 @@ These adrenaline-filled games would often be filled with yelling, whooping, and 
 Ah, good times.. What was your favourite memory in primary school?
 
 #ThrowbackThursday #ThrowbackThursdaySG #Singapore #primaryschool #countryeraser!
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
