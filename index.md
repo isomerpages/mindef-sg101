@@ -43,14 +43,13 @@ sections:
       image: /images/TD2023 Poster with Frame Final.jpg
       alt: Image alt text
   - infopic:
-      title: News in Focus 03 2023
+      title: News in Focus 04 2023
       subtitle: News in Focus/ Resources
-      description: "In this issue: (1) Key Highlights from Committee of Supply Debate
-        2023; (2) Exercise Northstar; and (3) Singapore Defence Technology
-        Summit 2023."
+      description: "In this issue: (1) Key Highlights from Debate on the Motion of
+        Thanks to the President and (2) 13th IMDEX Asia 2023"
       button: Read More
-      url: files/news-in-focus/2023/news%20in%20focus%2003_23.pdf
-      image: /images/nif 3_23.png
+      url: https://www.sg101.gov.sg/resources/news-in-focus/nif0423/
+      image: /images/4_23nif.png
       alt: Image alt text
   - infopic:
       title: Creating a Shared Identity as Singaporeans
