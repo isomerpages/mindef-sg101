@@ -83,6 +83,16 @@ The Total Defence Programme for Uniformed Groups (UGs) aims to promote awareness
 
 For more details and to download the Facilitation Guide, please click [here](https://drive.google.com/drive/folders/1fuABBH_EteJ_aimlelRBTp8n7IDzbEpd?usp=sharing_eil_m&amp;ts=63155ae6). Schools may also write in directly to nexus@defence.gov.sg to request for the badges for the non-UG students.
 
+
+****
+#### **Total Defence Community Table-top Exercise (TTX)**
+
+**Total Defence Table-top Exercise Scenario Video 2023**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HBXgEvPd1GA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+You may download the Total Defence Table-top Exercise (TTX) Scenario Video [here](https://go.gov.sg/ttxvideo) as well as the facilitation materials [here](https://drive.google.com/drive/folders/1Y7UxWzwM2FnQOJbq1EVOTxBUP3T2X-2O).
+
+
 ****
 
 #### **More TD Resources and Activities**
