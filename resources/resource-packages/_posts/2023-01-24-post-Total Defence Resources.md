@@ -87,11 +87,12 @@ For more details and to download the Facilitation Guide, please click [here](htt
 ****
 #### **Total Defence Community Table-top Exercise (TTX)**
 
+The Total Defence Community TTX aims to bring individuals across different ages and walks of life together to discuss potential impacts of pertinent issues affecting Singapore, and develop community drawer plans that can be implemented during times of crises and disruptions to our essential supplies and services.
+
 **Total Defence Table-top Exercise Scenario Video 2023**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HBXgEvPd1GA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-You may download the Total Defence Table-top Exercise (TTX) Scenario Video [here](https://go.gov.sg/ttxvideo) as well as the facilitation materials [here](https://drive.google.com/drive/folders/1Y7UxWzwM2FnQOJbq1EVOTxBUP3T2X-2O).
-
+Interested to carry out your own Total Defence Community TTX? You may download the Total Defence TTX Scenario Video as well as the facilitation materials [here](https://drive.google.com/drive/folders/1Y7UxWzwM2FnQOJbq1EVOTxBUP3T2X-2O).
 
 ****
 
