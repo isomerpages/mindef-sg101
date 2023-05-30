@@ -2,7 +2,7 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-#### 1.  Agreement - Terms
+#### 1. Agreement - Terms 
 All access of any area of [https://www.sg101.gov.sg/](https://www.sg101.gov.sg/)
  (“The Website”) is governed by the terms and conditions below (“Terms”). If you do not accept any of these Terms, exit immediately. Continue only if you accept these Terms.
 
