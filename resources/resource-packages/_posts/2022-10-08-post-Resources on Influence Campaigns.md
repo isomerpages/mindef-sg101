@@ -43,3 +43,13 @@ Download the package:
 [03/22 NE Insights on Disinformation and Influence Campaigns](/files/03_22%20NE%20Insights%20on%20Disinformation%20and%20Influence%20Campaigns.pdf)
 
 [Slides on Disinformation and Influence Campaigns](/files/Slides%20on%20Disinformation%20and%20Influence%20Campaigns_.pdf)
+
+****
+
+#### **Useful Resources on Digital Literacy**
+
+As part of the Singapore Alliance of University Libraries (SAUL) Digital Literacy Taskforce initiative, SMU Libraries has created a number of interactive learning objects, The topics include collaboration skills for group projects in blended-learning environments, bias and influence in search tools, evaluating information from from digital sources and cybersecurity threats and digital well-being, and understanding digital rights and responsibilities.
+
+Access these e-learning resources at [New interactive resource on Digital Literacy: What you need to know | Singapore Management University (SMU)](<a target="_blank" href="https://library.smu.edu.sg/news/new-interactive-resource-digital-literacy-what-you-need-know">VisitLink1</a>)
+
+Customisation of the learning objects from SMU can be done by downloading the zipped files from SIT Institutional Research Repository (at 
