@@ -19,3 +19,5 @@ Offering guided tours and educational programs for visitors of all ages, tours i
 So, consider planning a #SundayFunday trip to the ACM one of these weeks, and you can even cap the day off by enjoying dinner near the Singapore River, soaking in the sights and sounds of Singapore's civic district!
 
 #SundayFunday #SundayFundaySG #Singapore #ACM
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
