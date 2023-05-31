@@ -52,4 +52,4 @@ As part of the Singapore Alliance of University Libraries (SAUL) Digital Literac
 
 Access these e-learning resources at [New interactive resource on Digital Literacy: What you need to know | Singapore Management University (SMU)](<a target="_blank" href="https://library.smu.edu.sg/news/new-interactive-resource-digital-literacy-what-you-need-know">VisitLink1</a>)
 
-Customisation of the learning objects from SMU can be done by downloading the zipped files from SIT Institutional Research Repository (at 
+Customisation of the learning objects from SMU can be done by downloading the zipped files from SIT Institutional Research Repository (at [SAUL Information and Digital Literacy Learning Objects](<a target="_blank" href="https://irr.singaporetech.edu.sg/collections/information_and_Digital_Literacy_Learning_Objects/6069155">VisitLink2</a>) and editing in *Articulate Storyline*. 
