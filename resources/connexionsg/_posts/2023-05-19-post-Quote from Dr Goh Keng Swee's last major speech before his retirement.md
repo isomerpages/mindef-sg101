@@ -26,3 +26,5 @@ He said Singapore’s sovereignty rests on the existence of a strong SAF, which 
 Our pioneer leaders may have started out as rookies, but real-world problems forced them to figure out what was needed for our unique circumstances, achieving hard-won wisdom through experience.
 
 “In government, you have to live with the consequences of your decision. If you make a mistake, the results are painful. Dealing with real issues in this way can be a humbling experience.”
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
