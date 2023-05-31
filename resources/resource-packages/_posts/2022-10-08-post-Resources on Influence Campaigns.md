@@ -48,7 +48,7 @@ Download the package:
 
 #### **Useful Resources on Digital Literacy**
 
-As part of the Singapore Alliance of University Libraries (SAUL) Digital Literacy Taskforce initiative, SMU Libraries has created a number of interactive learning objects. The topics include collaboration skills for group projects in blended-learning environments, bias and influence in search tools, evaluating information from from digital sources and cybersecurity threats and digital well-being, and understanding digital rights and responsibilities.
+As part of the Singapore Alliance of University Libraries (SAUL) Digital Literacy Taskforce initiative, SMU Libraries has created a number of interactive learning objects. The topics include collaboration skills for group projects in blended-learning environments, bias and influence in search tools, evaluating information from digital sources and cybersecurity threats and digital well-being, and understanding digital rights and responsibilities.
 
 Access these e-learning resources at [New interactive resource on Digital Literacy: What you need to know | Singapore Management University (SMU)](<a target="_blank" href="https://library.smu.edu.sg/news/new-interactive-resource-digital-literacy-what-you-need-know">VisitLink1</a>)
 
