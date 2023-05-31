@@ -23,5 +23,6 @@ In 1996, Fullerton Building was acquired by Sino Land, who did extensive restora
 
 Today, the iconic The Fullerton Hotel Singapore is part of the Fullerton Heritage -- a cluster of legacy properties spanning One Fullerton, Customs House, The Clifford Pier, The Fullerton Pavilion, The Fullerton Waterboat House and The Fullerton Bay Hotel Singapore.
 
-
 #Heritage #OurHeritage #FullertonSG #FullertonHotelSingapore #FullertonHotels #FullertonStories #Singapore #hotel
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
