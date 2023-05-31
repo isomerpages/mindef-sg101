@@ -27,3 +27,5 @@ Regardless, it is important for Singaporeans to have emergency preparedness so t
 (https://www.scdf.gov.sg/.../civil.../cd-shelter-information)
 
 #publicshelters #totaldefence #civildefence #emergencypreparedness #Singapore
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
