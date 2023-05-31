@@ -92,7 +92,7 @@ The Total Defence Community TTX aims to bring individuals across different ages 
 **Total Defence Table-top Exercise Scenario Video 2023**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HBXgEvPd1GA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-Interested to carry out your own Total Defence Community TTX? You may download the Total Defence TTX Scenario Video as well as the facilitation materials [here](https://drive.google.com/drive/folders/1Y7UxWzwM2FnQOJbq1EVOTxBUP3T2X-2O).
+Interested to carry out your own Total Defence Community TTX? You may download the Total Defence TTX Scenario Video as well as the facilitation materials [here](https://drive.google.com/drive/folders/1Tnr3CySWlcrDPMIQuD2Bv36JEgUWeEur?usp=sharing).
 
 ****
 
