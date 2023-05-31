@@ -25,5 +25,3 @@ Some areas with clusters of flowering trees are Ulu Pandan canal, Bishan Park, P
 #WildlifeWednesdaySG #WildlifeWednesday #TrumpetTree #PinkPoui #TabebuiaRosea #Nature #Singapore #Wildlife #CityInNature
 
 Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
-
-
