@@ -19,3 +19,5 @@ In 2012, Prime Minister Lee Hsien Loong lamented the growing instances of “not
 The resignation was subsequently revealed by the SKM to be a stunt to provoke discussions. Singa returned in 2014 as Singa the Kindness Lion, taking on a more “human” body shape, and sporting a yellow gerbera which symbolised appreciation. To this day, Singa spends his time in schools imparting values of graciousness and compassion to our primary school children and preschoolers, calling on them to channel their inner Singa and spread kindness in a more intentional way.
 
 #OurMascots #Singa #SingaTheCourtesyLion #SingaTheKindnessLion #Kindness #Courtesy #Singapore #SingaporeWay
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
