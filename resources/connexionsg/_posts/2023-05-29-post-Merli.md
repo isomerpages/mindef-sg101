@@ -21,3 +21,5 @@ You might recall that when we received our SingapoRediscovers factsheets via mai
 Since then, Merli has been joined by four friends who reflect Singapore’s diversity of wildlife – Marina the Otter, Jewel the Hornbill, Chomp Chomp the Crocodile, and D65 the Durian UFO. The STB cartoon series “Merli and Friends” sees the characters exploring a parallel, mythical version of Singapore, including museums and parks, while showcasing their personalities.
 
 #MascotMonday #MascotMondaySG #Merli #MerliAndFriends #Tourism #VisitSingapore #SingaporeTravel #Singapore
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
