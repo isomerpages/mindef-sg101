@@ -19,3 +19,5 @@ It was in 1979 that the Victoria Memorial Hall was renamed the Victoria Concert 
 From 2010 to 2014, Victoria Theatre and Victoria Concert Hall underwent a major facelift. Besides upgrading the performance venues, some features that were lost in history were also restored. A crown – a reinterpretation of Queen Victoria’s crown – now sits atop the clock tower. The original crown that had once capped the copper dome was removed after Singapore gained full internal self-governance in 1959. The passageway and air well between the Theatre and the Concert Hall, blocked from public view for many years, has also been transformed into an atrium and serves as an event venue today.
 
 #VictoriaConcertHall #VictoriaTheatre #VictoriaMemorialHall #VCH #performance
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
