@@ -24,7 +24,7 @@ However, the household shelter’s main purpose is to shield occupants from blas
 
 Regardless, it is important for Singaporeans to have emergency preparedness so that lives can be saved in the event of emergency. And if you’re caught outside when emergencies happen, fret not, you may access any of the 580 public shelters in Singapore – just search for the nearest one on Singapore Civil Defence Force's website! 
 
-(https://www.scdf.gov.sg/.../civil.../cd-shelter-information)
+https://www.scdf.gov.sg/home/civil-defence-shelter/cd-shelter-information
 
 #publicshelters #totaldefence #civildefence #emergencypreparedness #Singapore
 
