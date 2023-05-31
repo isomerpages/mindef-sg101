@@ -19,3 +19,5 @@ Sadly, the playground (and majority of the old Dakota estate) were eventually de
 Interestingly, there used to be online debate raging over whether it was a seal or a dove (kind of like the blue vs gold dress debate, or the Laurel v Yental debate). What’s your opinion -- is it a seal or a dove? Let us know in the comments!
 
 #ThrowbackThursday #ThrowbackThursdaySG #Singapore #Dakota #Doveplayground #HDB #housing #heritage
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
