@@ -19,3 +19,5 @@ This larger than life sculpture is, as its name suggests, symbolic of the progre
 Indeed, onward Singapore -- or as we so often sing, Majulah Singapura!
 
 #SculptureSaturday #SculptureSaturdaySG #CBD Singapore #ProgressandAdvancement
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
