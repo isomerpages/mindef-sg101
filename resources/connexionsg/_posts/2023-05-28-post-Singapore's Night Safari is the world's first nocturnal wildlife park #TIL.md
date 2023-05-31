@@ -27,3 +27,4 @@ To date, the Night Safari has achieved global renown and attention, and also won
 
 #onthisday #Singapore #nightsafari #nightsafarisingapore #mandaiwildlifereserve #zoo #GCT
 
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
