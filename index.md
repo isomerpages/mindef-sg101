@@ -43,13 +43,14 @@ sections:
       image: /images/TD2023 Poster with Frame Final.jpg
       alt: Image alt text
   - infopic:
-      title: News in Focus 04 2023
+      title: News in Focus 05 2023
       subtitle: News in Focus/ Resources
-      description: "In this issue: (1) Key Highlights from Debate on the Motion of
-        Thanks to the President and (2) 13th IMDEX Asia 2023"
+      description: "In this issue: (1) Nikkei Forum 28th Future of Asia; (2) 42nd
+        ASEAN Summit; (3) Youths can Co-develop Policies with Government; and
+        (4) NDP2023 Theme and Logo."
       button: Read More
-      url: https://www.sg101.gov.sg/resources/news-in-focus/nif0423/
-      image: /images/4_23nif.png
+      url: https://www.sg101.gov.sg/resources/news-in-focus/nif0523/
+      image: /images/nif 05-2023.png
       alt: Image alt text
   - infopic:
       title: Creating a Shared Identity as Singaporeans
