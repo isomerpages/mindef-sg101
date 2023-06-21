@@ -26,12 +26,20 @@ Submit your ideas [here](https://go.gov.sg/tdsandbox)!
 ****
 #### **Total Defence Tower Defence Game**
 
-**Total Defence Tower Defence Game (TDTDG)**
+**Total Defence Tower Defence Game (TDTDG) - Trailer**
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=1YgF7KVQSn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-The Total Defence Day Video 2023 is also available on [We Are Total Defence (WATD) Facebook page](https://www.facebook.com/WeAreTotalDefence) and [Total Defence YouTube page](https://www.youtube.com/@TotalDefenceSG).
+The Total Defence Tower Defence Game (TDTDG), an online strategy game, was conceptualised and devised by a dynamic group of youths from NUS High School of Mathematics and Science. 
 
+The game adds a Total Defence-themed twist to the classic tower defence game where players need to allocate resources to build towers to defend their territories against enemy attacks. 
 
+In the TDTDG, players have to defend Singapore against various threats. The threats have been designed to showcase how the six pillars of Total Defence: Military, Civil, Economic, Social, Digital and Psychological Defence, come into play and highlight how everyone has a part to play in defending Singapore. 
+
+The TDTDG is the 4th ground-up initiative to be implemented under the Total Defence Sandbox (TD Sandbox).
+
+Check out the game [here](https://go.gov.sg/tdtdg)! 
+
+****
 #### **Total Defence 2023 Campaign Poster**
 
 ![Total Defence 2023 Campaign Poster](/images/TD2023%20Poster%20with%20Frame%20Final.jpg)
