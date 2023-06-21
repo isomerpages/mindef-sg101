@@ -24,6 +24,14 @@ More information regarding the Total Defence Sandbox can be found [here](https:/
 Submit your ideas [here](https://go.gov.sg/tdsandbox)!
 
 ****
+#### **Total Defence Tower Defence Game**
+
+**Total Defence Tower Defence Game (TDTDG)**
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=1YgF7KVQSn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+The Total Defence Day Video 2023 is also available on [We Are Total Defence (WATD) Facebook page](https://www.facebook.com/WeAreTotalDefence) and [Total Defence YouTube page](https://www.youtube.com/@TotalDefenceSG).
+
+
 #### **Total Defence 2023 Campaign Poster**
 
 ![Total Defence 2023 Campaign Poster](/images/TD2023%20Poster%20with%20Frame%20Final.jpg)
