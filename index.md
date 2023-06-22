@@ -25,9 +25,9 @@ sections:
         us Singaporean.
   - infopic:
       title: SAF Day 2023 NE Package
-      subtitle: Total Defence/ Resources
-      description: "Use the SAF Day 2023 NE Package and notes as you prepare to
-        commemorate SAF Day. "
+      subtitle: Resources
+      description: Use the SAF Day 2023 NE Package and notes as you prepare to
+        commemorate SAF Day.
       button: Read more
       url: /resources/resource-packages/safday2023
       image: /images/saf day 2023 landing page.png
