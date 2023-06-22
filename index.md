@@ -24,23 +24,13 @@ sections:
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
   - infopic:
-      title: Total Defence Day 2023 Package
+      title: SAF Day 2023 NE Package
       subtitle: Total Defence/ Resources
-      description: Use the Total Defence Day 2023 package and notes to discuss how we
-        can play a part to keep Singapore strong, amidst the challenges and
-        threats we face.
+      description: "Use the SAF Day 2023 NE Package and notes as you prepare to
+        commemorate SAF Day. "
       button: Read more
-      url: /resources/resource-packages/td2023/
-      image: /images/TD Day 2023 Package.png
-      alt: Image alt text
-  - infopic:
-      title: Together We Keep Singapore Strong
-      subtitle: Total Defence/ Resources
-      description: How can we put TD into action in our everyday lives? Click here to
-        find out more.
-      button: Read More
-      url: /resources/resource-packages/tdresources/
-      image: /images/TD2023 Poster with Frame Final.jpg
+      url: /resources/resource-packages/safday2023
+      image: /images/saf day 2023 landing page.png
       alt: Image alt text
   - infopic:
       title: News in Focus 05 2023
@@ -52,6 +42,10 @@ sections:
       url: https://www.sg101.gov.sg/resources/news-in-focus/nif0523/
       image: /images/nif 05-2023.png
       alt: Image alt text
+  - resources:
+      title: Latest Resources
+      subtitle: What's New
+      button: More Resources
   - infopic:
       title: Creating a Shared Identity as Singaporeans
       subtitle: Social
@@ -118,8 +112,4 @@ sections:
       url: /economy/case-studies/sg-food-challenge/
       image: /images/farming.jpeg
       alt: Image alt text
-  - resources:
-      title: Latest Resources
-      subtitle: What's New
-      button: More Resources
 ---
