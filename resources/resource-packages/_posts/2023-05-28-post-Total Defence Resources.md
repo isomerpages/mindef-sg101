@@ -28,7 +28,7 @@ Submit your ideas [here](https://go.gov.sg/tdsandbox)!
 
 **Total Defence Tower Defence Game (TDTDG) - Trailer**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1YgF7KVQSn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qzRvERnR0Kk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Are you game for something new? The Total Defence Tower Defence Game (TDTDG), an online strategy game, was conceptualised and devised by a dynamic group of youths from NUS High School of Mathematics and Science. 
 
