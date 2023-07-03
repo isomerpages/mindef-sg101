@@ -19,3 +19,5 @@ Over the years, as Singapore called on its workers to not just be productive but
 Teamy retired in 1999, and was replaced by an “i” icon in the continuing campaign for productivity. But for older Singaporeans, Teamy’s song stays fresh in memory: “Good, better, best! Never let it rest. Till the good is better, and the better best!”
 
 #MascotMonday #MascotMondaySG #Teamy #TeamyTheProductivityBee #Productivity #Efficiency #Industrialisation #Singapore
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
