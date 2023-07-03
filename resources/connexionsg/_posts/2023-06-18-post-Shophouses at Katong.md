@@ -21,3 +21,5 @@ Walking along these shophouses, you may find one common architectural feature: f
 With so many beautifully preserved examples around today, these pastel-hued shophouses that we see around us continue to define Singapore’s adaptation to change.
 
 #SundayFundaySG #SundayFunday #katong #tanjongkatong #shophouse #shophouses #architecture #singaporearchitecture
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
