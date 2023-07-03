@@ -17,3 +17,5 @@ Today, the main highlight of the park is the Cascading Pool, where the groundwat
 Today, the Sembawang Hot Spring Park is a prime location for Singaporeans who wish for a brief escape from the urban lifestyle and environment, even for just a moment -- perfect for your next #SundayFunday activity!
 
 #SundayFunday #SundayFundaySG #Singapore #Sembawang #Sembawanghotsprings #nature
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
