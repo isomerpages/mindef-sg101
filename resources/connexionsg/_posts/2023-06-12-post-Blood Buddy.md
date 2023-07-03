@@ -23,3 +23,5 @@ Indeed, as Mr Prakash Menon, Director of the Blood Donor Programme of SRC said, 
 To find out more, head over to (https://redcross.sg/give-blood/why-should-i-donate-blood.html). With 4 easily accessible blood banks, frequent community blood donation drives, and Blood Buddy cheering us on, we can all tap into our capacity to donate regularly -- and help fellow Singaporeans in need!
 
 #MascotMonday #MascotMondaySG #Singapore #BloodBuddy #SingaporeRedCross #SRC #blood #donation
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
