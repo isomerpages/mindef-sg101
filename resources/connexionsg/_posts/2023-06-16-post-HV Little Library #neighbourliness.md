@@ -22,3 +22,4 @@ We can all build a happy network of weak ties by interacting with the people in 
 https://www.littledayout.com/where-to-find-ground-up-community-libraries-in-singapore/?fbclid=IwAR2wfvWaE9PCSVWgmuaEWIWX1PlnVCsOkZhWq9CO5QZdw_Q4CZxqgCK17Wc
 
 https://www.bbc.com/worklife/article/20200701-why-your-weak-tie-friendships-may-mean-more-than-you-think
+
