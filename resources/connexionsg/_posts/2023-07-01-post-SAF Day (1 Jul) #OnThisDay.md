@@ -28,3 +28,5 @@ YouTube: https://www.youtube.com/mindefsg
 Happy SAF Day! 
 
 🔗: https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2012/may/2012May18-News-Releases-01199?fbclid=IwAR0nF1PkI3K5uRrjubAY7_I-LrMCFet1o2jq45539ca0mIeK9LK5aspDJqA
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
