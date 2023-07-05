@@ -26,3 +26,5 @@ The SPF's holistic policing includes working closely with different agencies, su
 Cooperating with community partners gives the SPF an extra set of ‘eyes’ and ‘ears’ on the ground. Grassroots movements such as Citizens on Patrol and Vehicles on Watch have successfully helped to solve crimes, and shows the power of cooperation between the Police and the public.
 
 Let’s continue to keep Singapore safe and secure, together!
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
