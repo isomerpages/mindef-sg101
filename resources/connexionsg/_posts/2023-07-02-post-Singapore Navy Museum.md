@@ -19,3 +19,4 @@ Beyond the history of the RSN, the museum also displays the armaments our RSN us
 As a maritime nation, the RSN is crucial in defending Singapore’s trade interests. For a #SundayFunday activity, consider heading down to the newly reopened Navy Museum to learn more about the RSN’s role in securing our nation’s livelihoods!
 
 #SundayFunday #SundayFundaySG #Singapore #Navy #RSN #Museum
+
