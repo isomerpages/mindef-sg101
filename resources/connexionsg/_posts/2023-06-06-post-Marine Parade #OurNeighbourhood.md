@@ -21,4 +21,6 @@ Today, Marine Parade’s town centre includes the famous Parkway Parade shopping
 
 Marine Parade will soon be served by two new MRT stations on the Thomson-East Coast Line – the Marine Parade Station and Marine Terrace Station, which will open by 2024, making it easier for greater tides of Singaporeans to access the beach and form memories of happy times by the sea.
 
-#OurNeighbourhood #Singapore #MarineParade #EastCoastPark #EastCoastParkSingapore 
+#OurNeighbourhood #Singapore #MarineParade #EastCoastPark #EastCoastParkSingapore
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
