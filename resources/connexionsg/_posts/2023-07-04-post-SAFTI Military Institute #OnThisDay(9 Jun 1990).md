@@ -17,3 +17,5 @@ Generations of soldiers have passed through its gates to experience some of the 
 Before the 9/11 terrorist attacks, civilians did not need passes or undergo security checks to enter the camp. The only restricted areas were the camp offices and living quarters. Since then, there are armed sentries at entrances, and security checks are mandatory for all.
 
 #TriviaTuesdaySG #TriviaTuesday #SAFTIMI #SAFTI #MilitaryInstitute #Library #SAFDay #HormatSAF
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
