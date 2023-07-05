@@ -27,3 +27,5 @@ With the Digital and Intelligence Service (DIS)’s inauguration into the SAF, t
 Indeed, as SAFTI MI’s motto goes: “To Lead, To Excel, To Overcome!”
 
 #OnThisDay #Singapore #SAF #HormatSAF #SAFTIMI #Army #RSN #RSAF #DIS
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
