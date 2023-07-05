@@ -21,7 +21,7 @@ Singapore’s style of policing encourages many eyes to watch over our neighbour
 
 #Safety #Singapore #SingaporePoliceForce #SafeguardingEveryday #SPFPoliceDay
 
-🔗: MHA’s Overview of Safety and Security Situation in 2022
+🔗: MHA’s Overview of Safety and Security Situation in 2022.
 
 https://www.mha.gov.sg/mediaroom/press-releases/overview-of-safety-and-security-situation-in-2022/
 
