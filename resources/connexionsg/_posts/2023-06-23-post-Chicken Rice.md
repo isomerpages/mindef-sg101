@@ -6,10 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
-
-
-
 Do you prefer your chicken rice roasted or steamed? 😋
 
 Original Hainanese iterations of the dish used wenchang chicken (a bony fowl with very little flesh), later versions of the dish used white cut chicken (young and tender-fleshed birds), giving us the Hainanese chicken rice that we so enjoy in hawker centres and coffeeshops today.
@@ -23,3 +19,5 @@ Today, Hainanese chicken rice is so popular that it is a specialty dish at some 
 So what are you waiting for? This #FoodieFriday, immerse yourself in Singapore’s wonderful hawker culture and dig in to a delicious plate of chicken rice to cap off the week! 🐓
 
 #FoodieFriday #FoodieFridaySG #chickenrice #hawkerculture
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
