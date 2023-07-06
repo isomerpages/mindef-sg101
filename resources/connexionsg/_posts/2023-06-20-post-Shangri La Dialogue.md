@@ -21,3 +21,5 @@ Since its inception, the summit has grown from strength to strength. Today, the 
 In a world beset by big power conflict and disagreement, the SLD provides a valuable, open and neutral platform for world leaders to exchange perspectives on key defence and security issues for the Asia-Pacific, supporting the development of a multilateral, rules-based international order that is important to Singapore.
 
 #TriviaTuesday #TriviaTuesdaySG #Singapore #MINDEF #IISS #SLD #ShangriLaDialogue #2023
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
