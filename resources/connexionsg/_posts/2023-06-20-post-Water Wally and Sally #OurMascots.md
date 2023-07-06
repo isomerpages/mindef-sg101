@@ -24,3 +24,5 @@ With their cute, round shapes, Water Wally and Sally bring a cheerful optimism t
 
 📷: Screenshot from video on PUB’s website 
 https://beta.pub.gov.sg/AboutUs/Water-Wally-and-Sally
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
