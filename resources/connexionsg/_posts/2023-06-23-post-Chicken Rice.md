@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/connexionsg/2023/thumbnail.jfif)
+
 Do you prefer your chicken rice roasted or steamed? 😋
 
 Original Hainanese iterations of the dish used wenchang chicken (a bony fowl with very little flesh), later versions of the dish used white cut chicken (young and tender-fleshed birds), giving us the Hainanese chicken rice that we so enjoy in hawker centres and coffeeshops today.
