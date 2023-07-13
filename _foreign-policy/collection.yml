@@ -1,0 +1,4 @@
+collections:
+  foreign-policy:
+    output: true
+    order: []
