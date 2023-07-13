@@ -12,6 +12,10 @@ The makeup and attitude of Singapore’s society is constantly changing. Singapo
 
 Singapore is among countries with the highest Internet penetration rate in the world. Singaporeans are also among the most active consumers of social media.[\[2\]](#_ftn2) We have easy access to news and information from all over the world and are able to conveniently create and share content.[\[3\]](#_ftn3)
 
+![](/images/household%20access%20to%20computer.png)
+
+
+
 _Source: iMDA_
 
 Such developments have shaped a more global outlook, and a keener awareness of global developments and Singapore’s place in the world.
@@ -64,7 +68,7 @@ The public is also encouraged to rely on reputable sources for information and c
 
 For a small country like Singapore, our success is dependent on Singaporeans’ continued confidence in and support for our foreign policy, as well as Singapore’s continued resilience, unity and economic progress.[\[13\]](#_ftn13) Singaporeans need to be aware of possible attempts by foreign actors to influence our views and decisions. As the Internet and social media are prevalent, we need to become more discerning and vigilant when we come across news or comments about Singapore’s policies. Our politics and policies should only be for Singaporeans to decide and we must stand up for our own country’s interest.
 
-
+![](/images/dr%20vivian%20balakrishnan%20interview%2022%20august%202021.png)
 
 * * *
 #### Bibliography
