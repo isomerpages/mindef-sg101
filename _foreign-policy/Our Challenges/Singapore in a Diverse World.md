@@ -4,6 +4,8 @@ permalink: /foreign-policy/our-challenges/singaporeinadiverseworld/
 description: ""
 third_nav_title: Our Challenges
 ---
+[This page is being updated.]
+
 ![](/images/s%20rajaratnam%20speech%2030%20july%201966a.png)
 
 When Singapore was separated from Malaysia and thrust into independence in 1965, our main preoccupation was survival. Our security and foreign policy concerns were compounded by regional and international developments, as well as domestic unrest.
@@ -16,5 +18,3 @@ In 1965, the Cold War was at its height, and in the region, the Vietnam War had 
 
 
 [^1] National Archives of Singapore. (1965). Statement of His Excellency Mr S Rajaratnam Foreign Minister of Singapore at the General Assembly on September 21, 1965, on the occasion of Singapore's admission to the United Nations. [https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf](https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf)
-
-
