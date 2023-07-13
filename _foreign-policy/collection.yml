@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Our Fundamentals.md
+      - Our Challenges/Singapore in a HyperConnected World.md
       - Our Challenges/Singapore in a Diverse World.md
       - Our Challenges/.keep
