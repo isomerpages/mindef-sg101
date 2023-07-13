@@ -16,6 +16,9 @@ The geopolitical landscape in Southeast Asia was fraught with uncertainty. Surro
 
 In 1965, the Cold War was at its height, and in the region, the Vietnam War had been raging on for several years. The Union of Soviet Socialist Republics (Soviet Union) and Maoist China sought to extend their communist influence over Southeast Asia, including in Singapore. Between 1963 and 1966, Indonesia, led by then-President Soekarno, initiated *Konfrontasi* (Confrontation) against Singapore, Malaya, Sarawak, Brunei and North Borneo as a protest against the formation of the Federation of Malaysia.
 
+Singapore in the 1950s and 1960s was a turbulent society. There were unrests initiated by trade unions and student groups influenced by political ideology such as the Malayan Communist Party (MCP). In 1964, there were a series of racial riots amidst _Konfrontasi_ and tensions between Singapore, then still a state within Malaysia, and the federal authorities in Kuala Lumpur.
+
+Learn more about Singapore's defence and security challenges in the 1950s [here](https://www.sg101.gov.sg/defence-and-security/challenges/the-early-tumultuous-years):
 
 
 
