@@ -1,4 +1,5 @@
 collections:
   foreign-policy:
     output: true
-    order: []
+    order:
+      - Our Fundamentals.md
