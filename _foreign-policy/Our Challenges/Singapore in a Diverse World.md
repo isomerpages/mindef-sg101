@@ -16,6 +16,9 @@ The geopolitical landscape in Southeast Asia was fraught with uncertainty. Surro
 
 In 1965, the Cold War was at its height, and in the region, the Vietnam War had been raging on for several years. The Union of Soviet Socialist Republics (Soviet Union) and Maoist China sought to extend their communist influence over Southeast Asia, including in Singapore. Between 1963 and 1966, Indonesia, led by then-President Soekarno, initiated *Konfrontasi* (Confrontation) against Singapore, Malaya, Sarawak, Brunei and North Borneo as a protest against the formation of the Federation of Malaysia.
 
-###Notes
+
+
+
+#### Bibliography
 
 [^1] National Archives of Singapore. (1965). Statement of His Excellency Mr S Rajaratnam Foreign Minister of Singapore at the General Assembly on September 21, 1965, on the occasion of Singapore's admission to the United Nations. [https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf](https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf)
