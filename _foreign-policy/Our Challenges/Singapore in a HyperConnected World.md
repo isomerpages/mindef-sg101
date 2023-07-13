@@ -18,7 +18,7 @@ Singapore is among countries with the highest Internet penetration rate in the w
 
 ![](/images/household%20access%20to%20internet.png)
 
-For more data and charts on Singapore being a digital society, visit iMDA [here](https://www.imda.gov.sg/about-imda/research-and-statistics/digital-society) 
+For more data and charts on Singapore being a digital society, visit iMDA [here](https://www.imda.gov.sg/about-imda/research-and-statistics/digital-society).
 
 Such developments have shaped a more global outlook, and a keener awareness of global developments and Singapore’s place in the world.
 
