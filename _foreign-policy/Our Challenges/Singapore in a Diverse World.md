@@ -33,19 +33,16 @@ Watch our video on *Konfrontasi* below:
 ![](/images/headlines%20for%20racial%20riots%201964.png)
 Appeal for calm: S’pore curfew after clashes. (1964, July 22). The Straits Times, p. 1. Retrieved from NewspaperSG.
 
-Against this backdrop, it was important for Singapore to gain recognition for its independence and sovereignty from as many countries as possible. [\[2\]](#_ftn2) Shortly after gaining our independence on 9 August 1965, Singapore applied to join the United Nations on 3 September 1965. On 20 September 1965, a resolution recommending that the General Assembly admit Singapore into the UN was put to a vote in the Security Council. There was unanimous support and Singapore became the 117th UN member state on 21 September 1965.
+Against this backdrop, it was important for Singapore to gain recognition for its independence and sovereignty from as many countries as possible.[\[2\]](#_ftn2) Shortly after gaining our independence on 9 August 1965, Singapore applied to join the United Nations on 3 September 1965. On 20 September 1965, a resolution recommending that the General Assembly admit Singapore into the UN was put to a vote in the Security Council. There was unanimous support and Singapore became the 117th UN member state on 21 September 1965.
 
+In his statement upon Singapore’s admission to the UN, then-Minister for Foreign Affairs Mr S Rajaratnam outlined guiding principles of Singapore’s foreign policy which are still relevant today.[\[3\]](#_ftn3)
 
-
-  
   
 
 * * *
 
 [\[1\]](#_ftnref1) National Archives of Singapore. (1965). Statement of His Excellency Mr S Rajaratnam Foreign Minister of Singapore at the General Assembly on September 21, 1965, on the occasion of Singapore's admission to the United Nations. [https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf](https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf)
 
-[\[1\]](#_ftnref1) Public Service Division. (2015). Heart of Public Service. [https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/)
+[\[2\]](#_ftnref2) Public Service Division. (2015). Heart of Public Service. [https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/)
 
-#### Bibliography
-
-1. National Archives of Singapore. (1965). Statement of His Excellency Mr S Rajaratnam Foreign Minister of Singapore at the General Assembly on September 21, 1965, on the occasion of Singapore's admission to the United Nations. [https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf](https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf)
+[\[3\]](#_ftnref3) National Archives of Singapore. (1965). _Statement of His Excellency Mr S Rajaratnam Foreign Minister of Singapore at the General Assembly on September 21, 1965, on the occasion of Singapore’s admission to the United Nations._ [https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf](https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf)
