@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/safety%20&%20security.jpg)
+![](/images/connexionsg/2023/safety%20&amp;%20security.jpg)
 📷 : Our safe and vibrant neighbourhood (Ong Yi Chao)
 
 A British TikTok user staying in Singapore went viral last year when she shared her screaming encounter with man after seeing his shadow come up behind her while walking home alone at 11pm. He turned out to be an innocent jogger – and he carried on jogging past her.
@@ -24,4 +24,4 @@ Singapore’s style of policing encourages many eyes to watch over our neighbour
 🔗: MHA’s Overview of Safety and Security Situation in 2022 - 
 https://www.mha.gov.sg/mediaroom/press-releases/overview-of-safety-and-security-situation-in-2022/
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
