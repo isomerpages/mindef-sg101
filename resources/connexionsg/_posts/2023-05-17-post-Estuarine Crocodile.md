@@ -1,6 +1,6 @@
 ---
-title: Estaurine Crocodile
-permalink: /resources/connexionsg/estaurinecrocodile/
+title: Estuarine Crocodile
+permalink: /resources/connexionsg/estuarinecrocodile/
 date: 2023-05-17
 layout: post
 description: ""
