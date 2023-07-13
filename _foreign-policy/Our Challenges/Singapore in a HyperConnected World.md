@@ -6,7 +6,7 @@ third_nav_title: Our Challenges
 ---
 [This page is being updated.]
 
-** 5 minutes read**
+**5 minutes read**
 
 *[Last updated on 13 July 2023]*
 
