@@ -60,7 +60,7 @@ Russia’s attack on Ukraine has violated international law, and the fundamental
 Going forward, Singapore will continue to be “buffeted by intense rivalry and tensions in the region around us”.[\[11\]](#_ftn11) We must stay united and be psychologically prepared that our region may not be as peaceful and stable over the next few decades. Our resilience as a nation and as a society will be tested. Singapore’s survival will depend on the continued success of Singapore as a country and economy, strong domestic support for our foreign policy, and resilience and unity as one people.[\[12\]](#_ftn12)
 
 
-  
+
 
 * * *
 
