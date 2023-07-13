@@ -2,4 +2,5 @@ collections:
   foreign-policy:
     output: true
     order:
+      - Our Challenges/.keep
       - Our Fundamentals.md
