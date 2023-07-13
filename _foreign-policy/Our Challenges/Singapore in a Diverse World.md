@@ -34,7 +34,6 @@ Watch our video on *Konfrontasi* below:
 ![](/images/headlines%20for%20racial%20riots%201964.png)
 Appeal for calm: S’pore curfew after clashes. (1964, July 22). The Straits Times, p. 1. Retrieved from NewspaperSG.
 
-+++++
 
 Against this backdrop, it was important for Singapore to gain recognition for its independence and sovereignty from as many countries as possible.[\[2\]](#_ftn2) Shortly after gaining our independence on 9 August 1965, Singapore applied to join the United Nations on 3 September 1965. On 20 September 1965, a resolution recommending that the General Assembly admit Singapore into the UN was put to a vote in the Security Council. There was unanimous support and Singapore became the 117th UN member state on 21 September 1965.
 
