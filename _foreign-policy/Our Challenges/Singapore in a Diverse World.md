@@ -14,7 +14,7 @@ When Singapore was separated from Malaysia and thrust into independence in 1965,
 
 The geopolitical landscape in Southeast Asia was fraught with uncertainty. Surrounded by bigger and more powerful neighbours, we were a small country located in a diverse region where big power conflicts took place. [^1]
 
-In 1965, the Cold War was at its height, and in the region, the Vietnam War had been raging on for several years. The Union of Soviet Socialist Republics (Soviet Union) and Maoist China sought to extend their communist influence over Southeast Asia, including in Singapore. 
+In 1965, the Cold War was at its height, and in the region, the Vietnam War had been raging on for several years. The Union of Soviet Socialist Republics (Soviet Union) and Maoist China sought to extend their communist influence over Southeast Asia, including in Singapore. Between 1963 and 1966, Indonesia, led by then-President Soekarno, initiated *Konfrontasi* (Confrontation) against Singapore, Malaya, Sarawak, Brunei and North Borneo as a protest against the formation of the Federation of Malaysia.
 
 
 [^1] National Archives of Singapore. (1965). Statement of His Excellency Mr S Rajaratnam Foreign Minister of Singapore at the General Assembly on September 21, 1965, on the occasion of Singapore's admission to the United Nations. [https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf](https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf)
