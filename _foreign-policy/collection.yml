@@ -1,6 +1,4 @@
 collections:
   foreign-policy:
     output: true
-    order:
-      - Fundamentals/Fundamentals.md
-      - Fundamentals/.keep
+    order: []
