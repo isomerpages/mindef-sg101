@@ -60,7 +60,7 @@ Russia’s attack on Ukraine has violated international law, and the fundamental
 
 Going forward, Singapore will continue to be “buffeted by intense rivalry and tensions in the region around us”.[\[11\]](#_ftn11) We must stay united and be psychologically prepared that our region may not be as peaceful and stable over the next few decades. Our resilience as a nation and as a society will be tested. Singapore’s survival will depend on the continued success of Singapore as a country and economy, strong domestic support for our foreign policy, and resilience and unity as one people.[\[12\]](#_ftn12)
 
-
+![](/images/tony%20tan%20speech%2028%20nov%202017.png)
 
 
 * * *
@@ -89,5 +89,3 @@ Going forward, Singapore will continue to be “buffeted by intense rivalry and 
 [\[11\]](#_ftnref11) Prime Minister’s Office. (2022). _Prime Minister Lee Hsien Loong’s 2022_ _National Day Message on 8 August 2022._ [https://www.pmo.gov.sg/Newsroom/National-Day-Message-2022](https://www.pmo.gov.sg/Newsroom/National-Day-Message-2022)
 
 [\[12\]](#_ftnref12) Ministry of Foreign Affairs. (2017). _Speech by Dr Tony Tan Keng Yam, Former President of Singapore, at the 10th S Rajaratnam Lecture on Tuesday, 28 November 2017._ [https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat)
-
-[\[13\]](#_ftnref13) _Ibid._
