@@ -67,7 +67,7 @@ For a small country like Singapore, our success is dependent on Singaporeans’ 
 
 
 * * *
-
+#### Bibliography
 
 [\[1\]](#_ftnref1) Prime Minister’s Office. (2021). _DPM Heng Swee Keat at the S Rajaratnam Lecture on_ _“Fostering Growth and Stability in an Age of Complexity” on 30 November 2021._ [https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/11/20211130-S-Raj](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/11/20211130-S-Raj)
 
