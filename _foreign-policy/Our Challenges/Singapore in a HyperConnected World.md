@@ -28,18 +28,6 @@ Foreign actors (individuals, entities or countries) are increasingly able to man
 
 Singapore is not immune to such threats. Our openness, small size, hyperconnectivity to the world, and diverse society make us vulnerable to efforts by foreign actors seeking to exploit our vulnerabilities and influence Singaporeans for their own interests.[\[6\]](#_ftn6) At the Second Reading of Foreign Interference (Countermeasures) Bill on 4 October 2021, Minister for Home Affairs and Minister for Law Mr K. Shanmugam said that while subversion, through foreign interference, remains one of the most serious threats that Singapore faces, our population is not really aware of this.[\[7\]](#_ftn7) Actors who wish to harm Singapore may try to influence segments of our population and exacerbate communal tensions, or undermine Singaporeans’ confidence in government policies and our cohesion.
 
-
-
-  
-
-* * *
-
-[\[1\]](#_ftnref1) _Ibid._
-
-[\[2\]](#_ftnref2) Lim, A. (2019, February 12). Parliament: ‘Curious’ spike in online comments critical of S’pore during dispute with Malaysia, says Edwin Tong. The Straits Times. [https://www.straitstimes.com/politics/parliament-curious-spike-in-online-comments-critical-of-spore-during-dispute-with-malaysia](https://www.straitstimes.com/politics/parliament-curious-spike-in-online-comments-critical-of-spore-during-dispute-with-malaysia)
-
-[\[3\]](#_ftnref3) Ministry of Home Affairs. (2021). _Second Reading of Foreign Interference (Countermeasures) Bill – Speech by Mr K Shanmugam, Minister for Home Affairs and Minister for Law, 4 October 2021._ [https://www.mha.gov.sg/mediaroom/parliamentary/second-reading-of-foreign-interference-countermeasures-bill-speech-by-mr-k-shanmugam/](https://www.mha.gov.sg/mediaroom/parliamentary/second-reading-of-foreign-interference-countermeasures-bill-speech-by-mr-k-shanmugam/)
-
 ***
 **Example: Singapore as a target for disinformation and influence campaigns**
 
