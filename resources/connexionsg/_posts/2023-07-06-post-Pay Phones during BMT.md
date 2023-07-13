@@ -22,4 +22,4 @@ It is rare to come across a pay phone these days, especially since pretty much a
 
 #ThrowbackThursdaySG #ThrowbackThursday #Payphone #Publicphone #Coinphone #phone #phonebooth #SAFDay #HormatSAF
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG"target="_blank"&gt;Facebook) &amp; [Instagram](https://www.instagram.com/connexionsg/"target="_blank"&gt;Instagram) for more content.
