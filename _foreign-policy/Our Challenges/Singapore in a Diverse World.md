@@ -6,6 +6,8 @@ third_nav_title: Our Challenges
 ---
 [This page is being updated.]
 
+**4 minutes read**
+
 ![](/images/s%20rajaratnam%20speech%2030%20july%201966a.png)
 
 When Singapore was separated from Malaysia and thrust into independence in 1965, our main preoccupation was survival. Our security and foreign policy concerns were compounded by regional and international developments, as well as domestic unrest.
