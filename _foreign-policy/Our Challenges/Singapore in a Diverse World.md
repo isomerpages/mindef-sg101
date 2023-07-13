@@ -18,15 +18,17 @@ In 1965, the Cold War was at its height, and in the region, the Vietnam War had 
 
 Singapore in the 1950s and 1960s was a turbulent society. There were unrests initiated by trade unions and student groups influenced by political ideology such as the Malayan Communist Party (MCP). In 1964, there were a series of racial riots amidst _Konfrontasi_ and tensions between Singapore, then still a state within Malaysia, and the federal authorities in Kuala Lumpur.
 
-**Learn more about Singapore's defence and security challenges in the 1950s **[here](https://www.sg101.gov.sg/defence-and-security/challenges/the-early-tumultuous-years):
+**Learn more about Singapore's defence and security challenges in the 1950s** [here](https://www.sg101.gov.sg/defence-and-security/challenges/the-early-tumultuous-years).
 
 Watch our video on *Konfrontasi* below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m5HNGgfz8i8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-**Learn more about the 1964 racial riots** [here]( https://www.sg101.gov.sg/social-national-identity/examples/racialriots)
+**Learn more about the 1964 racial riots** [here]( https://www.sg101.gov.sg/social-national-identity/examples/racialriots).
 
+**Watch ChannelNewsAsia's video on Days of Rage: 1964 Race Riots** below:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P9_l4Vp1wLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 #### Bibliography
 
