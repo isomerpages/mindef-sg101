@@ -21,5 +21,3 @@ While the rise of mobile phone technology in the late 1990s led to the gradual d
 It is rare to come across a pay phone these days, especially since pretty much all of us own mobile phones. When was the last time you used or saw a pay phone? Share it with us in the comments!
 
 #ThrowbackThursdaySG #ThrowbackThursday #Payphone #Publicphone #Coinphone #phone #phonebooth #SAFDay #HormatSAF
-
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionsSG"target="blank"&gt;Facebook)(https://www.facebook.com/ConnexionsSG"target="blank"&gt;Facebook)] [Instagram] (https://www.instagram.com/connexionsg/"target="blank"&gt;Instagram) for more content.
