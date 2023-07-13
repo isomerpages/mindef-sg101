@@ -30,6 +30,7 @@ Watch our video on *Konfrontasi* below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P9_l4Vp1wLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
+
 ![](/images/headlines%20for%20racial%20riots%201964.png)
 Appeal for calm: S’pore curfew after clashes. (1964, July 22). The Straits Times, p. 1. Retrieved from NewspaperSG.
 
@@ -63,9 +64,7 @@ Going forward, Singapore will continue to be “buffeted by intense rivalry and 
 
 
 * * *
-
-
-
+#### Bibliography
 
 [\[1\]](#_ftnref1) National Archives of Singapore. (1965). Statement of His Excellency Mr S Rajaratnam Foreign Minister of Singapore at the General Assembly on September 21, 1965, on the occasion of Singapore's admission to the United Nations. [https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf](https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf)
 
