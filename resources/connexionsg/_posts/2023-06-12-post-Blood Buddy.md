@@ -24,4 +24,4 @@ To find out more, head over to (https://redcross.sg/give-blood/why-should-i-dona
 
 #MascotMonday #MascotMondaySG #Singapore #BloodBuddy #SingaporeRedCross #SRC #blood #donation
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
