@@ -124,6 +124,7 @@ You may find more TD resources and Activities such as Total Defence Song, Total 
 
 #### **Useful Articles**
 **Sports and National Defence - an Opinion Piece written by Mr Nicholas Fang**
+
 George Orwell famously wrote that sports is "war minus the shooting". While the celebrated writer meant that sports at the highest levels was similar to war in that it was about winning, almost at all costs, it is worth exploring the value that sporting contests have in the context of national defence.
 
 Read the full article [here]([](/files/sea%20games%20commentary%20-%20sports%20and%20national%20defence%20(written%20by%20nicholas%20fang).pdf)
