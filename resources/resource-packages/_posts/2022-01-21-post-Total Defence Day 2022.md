@@ -1,9 +1,10 @@
 ---
-title: Total Defence Day 2022 Package
-permalink: /resources/resource-packages/td2022
+title: Total Defence Day 2022
+permalink: /resources/resource-packages/td2022/
 date: 2022-01-21
 layout: post
 description: ""
+image: ""
 ---
 #### Total Defence Day 2022 NE Engagement Package
 
@@ -38,4 +39,3 @@ Secondary Activity Sheets & Educators Guide
 * [Folio 1 - [Educator's Guide] Total Defence Activity Sheet (Secondary).pdf](/files/packages/2022/td-activity-sheets/folio5/Folio%201%20-%20Educators%20Guide%20Total%20Defence%20Activity%20Sheet%20Secondary%2008022022.pdf)
 
 * [Folio 2 - Activity Sheet.pdf](/files/packages/2022/td-activity-sheets/folio5/Folio%202%20-%20Activity%20Sheet%2008022022.pdf)
-
