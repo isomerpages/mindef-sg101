@@ -12,7 +12,7 @@ third_nav_title: Our Challenges
 
 
 
-![](/images/shanmugam%20speech%202014.png)
+
 
 ![](/images/shanmugam%20speech%20feb%202014.png)
 
@@ -66,15 +66,20 @@ Singapore embassy in Jakarta sacked. (1968, October 18). _The Straits Times_, p.
 
 During then-Prime Minister Mr Lee Kuan Yew’s first visit to Indonesia in May 1973, he scattered flower petals on the graves of the two marines. Mr Lee’s gesture of goodwill provided some closure to the matter and relations between the two countries improved thereafter.[\[7\]](#_ftn7)
 
-**Learn more about Konfrontasi [here](https://www.sg101.gov.sg/defence-and-security/challenges/the-early-tumultuous-years):**
+**Read more about *Konfrontasi* [here](https://www.sg101.gov.sg/defence-and-security/challenges/the-early-tumultuous-years).**
+
+Watch our video on *Konfrontasi* below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m5HNGgfz8i8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 In 2014, Indonesia named a new warship “Usman Harun” after the two marines who carried out the 1965 MacDonald House bombing in Singapore. The naming of the ship by Indonesia, and Singapore’s objections to it, led to much unhappiness on both sides, setting back our relations momentarily[\[8\]](#_ftn8).
 
+![](/images/shanmugam%20speech%202014.png)
+
 Singapore strongly registered our concerns on the naming of the ship with Indonesia. The commander-in-chief of the Indonesian National Military (or Tentara Nasional Indonesia (TNI)) apologised for the naming of the ship, but later retracted the apology after backlash from the Indonesian public.
 
-**_The Caning of Michael Fay_**
+***
+**The Caning of Michael Fay**
 
 In 1993, an American teenager Michael Fay was arrested in Singapore for multiple acts of vandalism and mischief, and the possession of stolen items.[\[9\]](#_ftn9) In 1994, Fay was sentenced to four months’ jail, a fine and six strokes of the cane.[\[10\]](#_ftn10)
 
@@ -84,9 +89,11 @@ Singapore preserved its sovereign right to uphold its rule of law, standing its 
 
 Nonetheless, Singapore’s principled stand on the matter was widely supported by Singaporeans and earned us broad respect internationally, even in the US.
 
+***
+
 **Examples and Case Studies Related to Upholding the International Rule of Law**
 
-**_Singapore’s Position on Vietnam’s Invasion of Cambodia_**
+**Singapore’s Position on Vietnam’s Invasion of Cambodia**
 
 In December 1978, Vietnam invaded Kampuchea (presently Cambodia) and toppled the brutal Khmer Rouge regime, which had ruled the country between 1975 and 1978, and reportedly killed one-third of the population. The Vietnamese installed a government led by Heng Samrin.[\[14\]](#_ftn14)[\[15\]](#_ftn15)
 
