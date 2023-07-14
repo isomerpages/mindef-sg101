@@ -66,7 +66,7 @@ MacDonald House blast: 2 charged. (1965, May 18). _The Straits Times_, p.6. Retr
 ![](/images/tinywow_retaliation%20headlines.jpeg)
 Singapore embassy in Jakarta sacked. (1968, October 18). _The Straits Times_, p.1. Retrieved from NewspaperSG.
 
-![](/images/shanmugam%20speech%20feb%202014.png)
+![](/images/shanmugam%20speech%202014.png)
 
 During then-Prime Minister Mr Lee Kuan Yew’s first visit to Indonesia in May 1973, he scattered flower petals on the graves of the two marines. Mr Lee’s gesture of goodwill provided some closure to the matter and relations between the two countries improved thereafter.[\[7\]](#_ftn7)
 
@@ -78,7 +78,7 @@ Watch our video on *Konfrontasi* below:
 
 In 2014, Indonesia named a new warship “Usman Harun” after the two marines who carried out the 1965 MacDonald House bombing in Singapore. The naming of the ship by Indonesia, and Singapore’s objections to it, led to much unhappiness on both sides, setting back our relations momentarily[\[8\]](#_ftn8).
 
-![](/images/shanmugam%20speech%202014.png)
+![](/images/shanmugam%20speech%20feb%202014.png)
 
 Singapore strongly registered our concerns on the naming of the ship with Indonesia. The commander-in-chief of the Indonesian National Military (or Tentara Nasional Indonesia (TNI)) apologised for the naming of the ship, but later retracted the apology after backlash from the Indonesian public.
 
