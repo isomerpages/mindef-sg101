@@ -14,7 +14,7 @@ third_nav_title: Our Challenges
 
 
 
-![](/images/shanmugam%20speech%20feb%202014.png)
+
 
 ![](/images/wong%20kan%20seng%20speech.png)
 
@@ -99,6 +99,8 @@ In December 1978, Vietnam invaded Kampuchea (presently Cambodia) and toppled the
 
 Singapore had no sympathy for the Khmer Rouge regime but the invasion violated an important principle that no country should violate the sovereignty of another.
 
+![](/images/shanmugam%20speech%20feb%202014.png)
+
 Vietnam’s action was a clear case of violation of international borders and an act of aggression. If a country could justify invading another based on the latter’s internal developments, Singapore’s own security and sovereignty could one day be at risk.[\[16\]](#_ftn16) Singapore had to respond, because this could set an undesirable precedent for small nations, and have serious implications for Singapore.[\[17\]](#_ftn17)
 
 Galvanising ASEAN, then comprising five members (Indonesia, Malaysia, the Philippines, Singapore and Thailand), Singapore led a concerted effort to table a resolution at the United Nations General Assembly (UNGA) calling for the withdrawal of foreign troops from Kampuchea and the recognition of Kampuchea’s self-determination.[\[18\]](#_ftn18)
@@ -109,11 +111,13 @@ ASEAN also spearheaded the 1980 International Meeting of Humanitarian Assistance
 
 Notwithstanding serious differences, Singapore and Vietnam set aside our differences and forged a strong relationship when Vietnam eventually withdrew from Kampuchea. The incident also shows that stability and peace in our region should never be taken for granted.
 
-**Learn more about the Cambodian conflict here: Speech by Former Deputy Prime Minister Mr Wong Kan Seng at the S Rajaratnam Lecture at Shangri-La Hotel on 23 November 2011:**
+**Read more about the Cambodian conflict here: Speech by Former Deputy Prime Minister Mr Wong Kan Seng at the S Rajaratnam Lecture at Shangri-La Hotel on 23 November 2011:**
 
 [https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2011/11/Speech-by-Former-Deputy-Prime-Minister-Wong-Kan-Seng-at-the-S-Rajaratnam-Lecture-at-Shangri-La-Hote](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2011/11/Speech-by-Former-Deputy-Prime-Minister-Wong-Kan-Seng-at-the-S-Rajaratnam-Lecture-at-Shangri-La-Hote)
 
-**_Case Study: Singapore’s Position on Russia’s Invasion of Ukraine_**
+
+
+**Case Study: Singapore’s Position on Russia’s Invasion of Ukraine**
 
 On 24 February 2022, Russian President Vladimir Putin ordered a “special military operation” to demilitarise and “denazify” Ukraine, a former constituent republic of the Soviet Union that Russia views as within its sphere of influence even after its independence in 1991. Since November 2021, increasing use of disinformation against Ukraine, presumably produced by Russia, and in support of Ukraine, presumably by the West was observed.
 
