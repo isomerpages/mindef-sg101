@@ -22,4 +22,4 @@ Today, a Saga tree with Heritage Tree status is found at the Singapore Botanic G
 
 #WildlifeWednesdaySG #WildlifeWednesday #Saga #SagaTree #SagaSeed #AdenantheraPavonina #Nature #Singapore #Wildlife
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.

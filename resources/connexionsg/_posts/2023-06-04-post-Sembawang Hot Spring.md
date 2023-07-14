@@ -18,4 +18,4 @@ Today, the Sembawang Hot Spring Park is a prime location for Singaporeans who wi
 
 #SundayFunday #SundayFundaySG #Singapore #Sembawang #Sembawanghotsprings #nature
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.

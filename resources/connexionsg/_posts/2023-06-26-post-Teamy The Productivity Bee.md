@@ -20,4 +20,4 @@ Teamy retired in 1999, and was replaced by an “i” icon in the continuing cam
 
 #MascotMonday #MascotMondaySG #Teamy #TeamyTheProductivityBee #Productivity #Efficiency #Industrialisation #Singapore
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.

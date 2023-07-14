@@ -28,4 +28,4 @@ The current rise in drug problems worldwide points to an increasing need for our
 📎 Apply to be an A3 Network volunteer here: 
 https://www.mha.gov.sg/volunteers/home-team-volunteer-scheme/detail/Details/anti-drug-abuse-advocacy-(A3)-network-volunteers
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.

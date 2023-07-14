@@ -24,4 +24,4 @@ Nudibranchs are hermaphrodites and practise internal fertilisation. Each Nudibra
 
 Changi beach is one of the best places to spot Nudibranchs. When looking for them during low tide, look for the pools of water left behind. You’re likely to see them on seaweed, hydroids, or under rock surfaces. While Nudibranchs are generally not dangerous to humans, avoid touching them as it can harm their sensitive skin and cause them stress.
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
