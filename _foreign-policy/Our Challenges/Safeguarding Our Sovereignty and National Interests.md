@@ -20,6 +20,8 @@ third_nav_title: Our Challenges
 
 ![](/images/pm%20lee%20fb%20.png)
 
+![](/images/lesson%203.jpeg)
+
 ***
 
 As a small island-nation surrounded by large neighbours in a culturally diverse region, Singapore aims to make as many friends as we can while insisting that we be treated as a sovereign equal, where our national interests are not subservient to others.
@@ -129,9 +131,16 @@ Watch Minister for Foreign Affairs Dr Vivian Balakrishnan's Ministerial Statemen
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k5SGAzefIew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-**Situation in Ukraine: Lessons for Singapore**
+#### **Situation in Ukraine: Lessons for Singapore**
 
-_Source: MFA_
+![](/images/lesson%201.jpeg)
+
+![](/images/lesson%202.jpeg)
+
+![](/images/lesson%203.jpeg)
+
+![](/images/lesson%204.jpeg)
+Source: Ministry of Foreign Affairs.
 
 In 2014, Singapore similarly opposed Russia’s annexation of the Crimean Peninsula from Ukraine.
 
