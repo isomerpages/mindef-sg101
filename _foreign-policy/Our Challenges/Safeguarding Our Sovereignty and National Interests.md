@@ -113,13 +113,13 @@ Notwithstanding serious differences, Singapore and Vietnam set aside our differe
 
 Read more about the Cambodian conflict here: <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2011/11/Speech-by-Former-Deputy-Prime-Minister-Wong-Kan-Seng-at-the-S-Rajaratnam-Lecture-at-Shangri-La-Hote">Speech by Former Deputy Prime Minister Mr Wong Kan Seng at the S Rajaratnam Lecture at Shangri-La Hotel on 23 November 2011</a>.
 
+***
+
 **Case Study: Singapore’s Position on Russia’s Invasion of Ukraine**
 
 On 24 February 2022, Russian President Vladimir Putin ordered a “special military operation” to demilitarise and “denazify” Ukraine, a former constituent republic of the Soviet Union that Russia views as within its sphere of influence even after its independence in 1991. Since November 2021, increasing use of disinformation against Ukraine, presumably produced by Russia, and in support of Ukraine, presumably by the West was observed.
 
-**Learn more about the Situation in Ukraine here:**
-
-[https://www.sg101.gov.sg/resources/resource-packages/neinsights03022022](https://www.sg101.gov.sg/resources/resource-packages/neinsights03022022) )
+**Read more about the Situation in Ukraine [here](https://www.sg101.gov.sg/resources/resource-packages/neinsights03022022).**
 
 Russia’s unjustified and illegal invasion of Ukraine matters to Singapore because it undermines the international rules and norms under the UN Charter, and Russia’s exercise of its veto in the UN Security Council to block any legally binding measures against it undermines the principle which allow countries, big or small, to interact on an equal footing with one another. Russia’s violation sets a dangerous and unacceptable precedent for countries, especially for small states like Singapore. Our security and our very existence depend on the international rule of law. This is why Singapore strongly condemned Russia’s unjustified and illegal invasion of Ukraine. As part of our strong message against the invasion, Singapore has imposed targeted sanctions and restrictions against Russia to limit its capacity to conduct war against Ukraine and undermine the latter’s sovereignty and territorial integrity.[\[21\]](#_ftn21)[\[22\]](#_ftn22)
 
