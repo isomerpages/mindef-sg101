@@ -19,3 +19,5 @@ Shielded by the flag at the back of the statue are four young children, represen
 The granite base on which the statue stands symbolises the firm foundation upon which our nation's sovereignty and prosperity rest, guaranteed by the indomitable will of the soldier.
 
 #SculptureSaturdaySG #SculptureSaturday #NSLandmark #BMTC #BMT #PulauTekong #Tekong #Landmark #Sculpture #SAFDay #HormatSAF
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
