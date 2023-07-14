@@ -68,9 +68,7 @@ During then-Prime Minister Mr Lee Kuan Yew’s first visit to Indonesia in May 1
 
 **Learn more about Konfrontasi [here](https://www.sg101.gov.sg/defence-and-security/challenges/the-early-tumultuous-years):**
 
-(embed Konfrontasi video here)
-
-[https://www.youtube.com/watch?v=m5HNGgfz8i8](https://www.youtube.com/watch?v=m5HNGgfz8i8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m5HNGgfz8i8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 In 2014, Indonesia named a new warship “Usman Harun” after the two marines who carried out the 1965 MacDonald House bombing in Singapore. The naming of the ship by Indonesia, and Singapore’s objections to it, led to much unhappiness on both sides, setting back our relations momentarily[\[8\]](#_ftn8).
 
