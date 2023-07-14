@@ -8,7 +8,16 @@ third_nav_title: Our Challenges
 
 *[Last updated on 14 July 2023]*
 
+![](/images/rajaratnam%20un%20speech%201965a.jpeg)
+
+
+![](/images/rajaratnam%20speech%20unga%201965.png)
+
+![](/images/vivian%20balakrishnan%20speech%20unga%202018.png)
+
+
 
 <a target="_blank" href="“https://www.imda.gov.sg/about-imda/research-and-statistics/digital-society”">here</a>
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
