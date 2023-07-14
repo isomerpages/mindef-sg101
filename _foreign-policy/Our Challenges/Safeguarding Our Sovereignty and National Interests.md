@@ -136,13 +136,10 @@ While our measures will come at some cost and may have implications on our busin
 
 Local media reported in March 2022 that there were TikTok posts that aimed to influence Singaporeans’ views of Singapore’s principled stand on Russia’s invasion of Ukraine. As our society becomes more globalised, we will receive information from a wide range of sources. Singaporeans need to understand our long-term national interests and make well-informed decisions.
 
-**Learn more about social media activity aimed to sway Singaporeans’ views on the Russia-Ukraine conflict here:**
-
-__
-
-  
+**Learn more about social media activity aimed to sway Singaporeans’ views on the Russia-Ukraine conflict [undefined](https://www.sg101.gov.sg/foreign-policy/our-challenges/singaporeinahyperconnectedworld/):**
 
 * * *
+
 
 [\[1\]](#_ftnref1) Ministry of Foreign Affairs. (2017). _Speech by Dr Tony Tan Keng Yam, Former President of Singapore, at the 10th S Rajaratnam Lecture on Tuesday, 28 November 2017._ [https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat)
 
