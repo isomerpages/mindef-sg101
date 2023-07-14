@@ -128,8 +128,7 @@ Russia’s unjustified and illegal invasion of Ukraine matters to Singapore beca
 [https://www.sg101.gov.sg/resources/resource-packages/sgprincipledstandonrussiasinvasionofukraine](https://www.sg101.gov.sg/resources/resource-packages/sgprincipledstandonrussiasinvasionofukraine)
 
 
-
-[https://www.youtube.com/watch?v=k5sGAzeflew](https://www.youtube.com/watch?v=k5sGAzeflew)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k5SGAzefIew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Situation in Ukraine: Lessons for Singapore**
 
