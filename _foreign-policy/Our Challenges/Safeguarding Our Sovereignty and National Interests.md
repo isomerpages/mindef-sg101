@@ -123,9 +123,8 @@ On 24 February 2022, Russian President Vladimir Putin ordered a “special milit
 
 Russia’s unjustified and illegal invasion of Ukraine matters to Singapore because it undermines the international rules and norms under the UN Charter, and Russia’s exercise of its veto in the UN Security Council to block any legally binding measures against it undermines the principle which allow countries, big or small, to interact on an equal footing with one another. Russia’s violation sets a dangerous and unacceptable precedent for countries, especially for small states like Singapore. Our security and our very existence depend on the international rule of law. This is why Singapore strongly condemned Russia’s unjustified and illegal invasion of Ukraine. As part of our strong message against the invasion, Singapore has imposed targeted sanctions and restrictions against Russia to limit its capacity to conduct war against Ukraine and undermine the latter’s sovereignty and territorial integrity.[\[21\]](#_ftn21)[\[22\]](#_ftn22)
 
-**Learn more about Singapore’s Principled Stand on Russia’s Invasion of Ukraine here:**
+**Learn more about Singapore’s Principled Stand on Russia’s Invasion of Ukraine [here](https://www.sg101.gov.sg/resources/resource-packages/sgprincipledstandonrussiasinvasionofukraine).**
 
-[https://www.sg101.gov.sg/resources/resource-packages/sgprincipledstandonrussiasinvasionofukraine](https://www.sg101.gov.sg/resources/resource-packages/sgprincipledstandonrussiasinvasionofukraine)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k5SGAzefIew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
