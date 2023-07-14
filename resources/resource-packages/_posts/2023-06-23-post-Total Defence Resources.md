@@ -51,6 +51,16 @@ The poster can be downloaded [here](https://go.gov.sg/tdposter23).
 A black-and-white (b/w) version of the Total Defence poster is also available at the same link above, as a Total Defence activity sheet for printing and distribution as a colouring activity.
 
 ****
+#### **Total Defence Community Table-top Exercise (TTX)**
+
+The Total Defence Community TTX aims to bring individuals across different ages and walks of life together to discuss potential impacts of pertinent issues affecting Singapore, and develop community drawer plans that can be implemented during times of crises and disruptions to our essential supplies and services.
+
+**Total Defence Table-top Exercise Scenario Video 2023**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HBXgEvPd1GA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+Interested to carry out your own Total Defence Community TTX? You may download the Total Defence TTX Scenario Video as well as the facilitation materials [here](https://drive.google.com/drive/folders/1Tnr3CySWlcrDPMIQuD2Bv36JEgUWeEur?usp=sharing).
+
+****
 #### **Total Defence Interactive Video 2023**
 What are the consequences of your choices? In the Total Defence Interactive Video, you will get to make decisions that will determine the outcome of the character's day.
 
@@ -100,17 +110,6 @@ For more details and to download the Facilitation Guide, please click [here](htt
 
 
 ****
-#### **Total Defence Community Table-top Exercise (TTX)**
-
-The Total Defence Community TTX aims to bring individuals across different ages and walks of life together to discuss potential impacts of pertinent issues affecting Singapore, and develop community drawer plans that can be implemented during times of crises and disruptions to our essential supplies and services.
-
-**Total Defence Table-top Exercise Scenario Video 2023**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HBXgEvPd1GA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-Interested to carry out your own Total Defence Community TTX? You may download the Total Defence TTX Scenario Video as well as the facilitation materials [here](https://drive.google.com/drive/folders/1Tnr3CySWlcrDPMIQuD2Bv36JEgUWeEur?usp=sharing).
-
-****
-
 #### **More TD Resources and Activities**
 You may find more TD resources and Activities such as Total Defence Song, Total Defence Sandbox, Total Defence Puzzle, Guardians of the City II Card Game [here](https://www.mindef.gov.sg/oms/imindef/mindef_websites/topics/totaldefence/resources.html).
 
