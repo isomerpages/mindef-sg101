@@ -8,22 +8,6 @@ third_nav_title: Our Challenges
 
 *[Last updated on 14 July 2023]*
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-***
-
 As a small island-nation surrounded by large neighbours in a culturally diverse region, Singapore aims to make as many friends as we can while insisting that we be treated as a sovereign equal, where our national interests are not subservient to others.
 
 ![](/images/rajaratnam%20un%20speech%201965a.jpeg)
