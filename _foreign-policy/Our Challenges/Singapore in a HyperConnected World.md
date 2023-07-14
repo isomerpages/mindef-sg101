@@ -35,32 +35,27 @@ Singapore is not immune to such threats. Our openness, small size, hyperconnecti
 In 2018, there was a spike in online comments critical of Singapore when Singapore was having bilateral disputes with a country.[\[8\]](#_ftn8) These anonymous accounts were also behind about 40 percent of the comments related to heavy traffic congestion at land checkpoints posted on the social media pages of alternative media outlets. While the identity of the account owners and whether foreign actors were coordinating them remain unclear, they sought to create an impression of opposition to Singapore’s position at a time of heightened bilateral difficulties.[\[9\]](#_ftn9) 
 
 ![](/images/stw%20incident.jpeg)
-RSS Independence (left) watching over a Malaysian government vessel in Singapore waters off Tuas. (Credit: <a target="_blank" href="https://www.mindef.gov.sg/web/portal/pioneer/article/cover-article-detail/ops-and-training/2019-Q2/may19_cs">MINDEF</a>
+RSS Independence (left) watching over a Malaysian government vessel in Singapore waters off Tuas. (Credit: <a target="_blank" href="https://www.mindef.gov.sg/web/portal/pioneer/article/cover-article-detail/ops-and-training/2019-Q2/may19_cs">MINDEF</a>)
 
 During a period of tension with another country between 2016 and 2017, Singapore experienced a coordinated Hostile Information Campaign (HIC) that attempted to undermine our foreign policy position. Online commentaries and videos were uploaded by social media accounts which had been dormant for many years. Many of these were in Mandarin and targeted our Chinese-speaking population. The content was widely circulated via chat apps and aimed to influence sentiments amongst Singaporeans.[\[10\]](#_ftn10) 
 ***
 
-**Learn more about disinformation and influence campaigns here:**
+**Learn more about disinformation and influence campaigns [here](https://www.sg101.gov.sg/resources/resource-packages/resourcesoninfluencecampaigns/).**
 
-[https://www.sg101.gov.sg/resources/resource-packages/disinformationadinfluencecampaigns](https://www.sg101.gov.sg/resources/resource-packages/disinformationadinfluencecampaigns)
-
+***
 **Example: Reports of social media activity aimed to sway Singaporeans’ views on the Russia-Ukraine conflict**
 
 Singapore media reported in March 2022 that anonymous TikTok accounts attempted to sway Singaporeans’ opinions over Russia’s invasion of Ukraine. The accounts sought to convey a misleading impression of local opposition to Singapore’s position on the Russia-Ukraine conflict.
 
-_Source: Mothership TikTok_
+![](/images/tiktok%20ru.png)
+Credit: Mothership TikTok.
 
-**Learn more about Russia’s Invasion of Ukraine here:**
+**Learn more about Russia’s Invasion of Ukraine [here](https://www.sg101.gov.sg/resources/resource-packages/neinsights03022022):**
 
 [https://www.sg101.gov.sg/resources/resource-packages/neinsights03022022](https://www.sg101.gov.sg/resources/resource-packages/neinsights03022022)
 
-__
 
 **Learn more about Singapore’s Principled Stand on Russia’s Invasion of Ukraine here:**
-
-[https://www.sg101.gov.sg/resources/resource-packages/sgprincipledstandonrussiasinvasionofukraine](https://www.sg101.gov.sg/resources/resource-packages/sgprincipledstandonrussiasinvasionofukraine)
-
-
 
 [https://www.youtube.com/watch?v=k5sGAzeflew](https://www.youtube.com/watch?v=k5sGAzeflew)
 
