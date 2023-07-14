@@ -16,9 +16,9 @@ third_nav_title: Our Challenges
 
 
 
-![](/images/wong%20kan%20seng%20speech.png)
 
-![](/images/pm%20lee%20fb%20.png)
+
+![](/images/shanmugam%20speech%20feb%202014.png)
 
 ![](/images/lesson%203.jpeg)
 
@@ -101,7 +101,7 @@ In December 1978, Vietnam invaded Kampuchea (presently Cambodia) and toppled the
 
 Singapore had no sympathy for the Khmer Rouge regime but the invasion violated an important principle that no country should violate the sovereignty of another.
 
-![](/images/shanmugam%20speech%20feb%202014.png)
+![](/images/wong%20kan%20seng%20speech.png)
 
 Vietnam’s action was a clear case of violation of international borders and an act of aggression. If a country could justify invading another based on the latter’s internal developments, Singapore’s own security and sovereignty could one day be at risk.[\[16\]](#_ftn16) Singapore had to respond, because this could set an undesirable precedent for small nations, and have serious implications for Singapore.[\[17\]](#_ftn17)
 
@@ -145,6 +145,8 @@ Source: Ministry of Foreign Affairs.
 In 2014, Singapore similarly opposed Russia’s annexation of the Crimean Peninsula from Ukraine.
 
 While our measures will come at some cost and may have implications on our businesses, our people and Singapore, we need to stand up for principles that safeguard our right to survive and prosper as an independent sovereign country.
+
+![](/images/pm%20lee%20fb%20.png)
 
 Local media reported in March 2022 that there were TikTok posts that aimed to influence Singaporeans’ views of Singapore’s principled stand on Russia’s invasion of Ukraine. As our society becomes more globalised, we will receive information from a wide range of sources. Singaporeans need to understand our long-term national interests and make well-informed decisions.
 
