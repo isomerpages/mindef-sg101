@@ -19,6 +19,8 @@ third_nav_title: Our Challenges
 
 ![](/images/shanmugam%20speech%20feb%202014.png)
 
+![](/images/wong%20kan%20seng%20speech.png)
+
 
 
 <a target="_blank" href="“https://www.imda.gov.sg/about-imda/research-and-statistics/digital-society”">here</a>
