@@ -28,10 +28,10 @@ sections:
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
   - infopic:
-      title: Racial Harmony Day 2023 NE Package
+      title: Strengthening Racial Harmony - NE Package 2023
       subtitle: Resources
-      description: Use the Racial Harmony Day 2023 NE Package as you prepare to
-        discuss the importance of racial harmony in Singapore.
+      description: Use the Racial Harmony 2023 NE Package as you prepare to discuss
+        the importance of racial harmony in Singapore.
       button: Read more
       url: /resources/resource-packages/racialharmony2023/
       image: /images/rhd 2023.png
