@@ -6,7 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
-https://www.facebook.com/ConnexionSG/videos/627005199526834
+![](/images/coleman%20bridge.jpg)
+
+![](/images/coleman%20bridge%202.jpg)
+
+View a video of the Coleman Bridge <a target="_blank" href="https://fb.watch/lMvmqs-adg/">here</a>.
 
 Featuring today a slice of Singapore’s #heritage – the Coleman Bridge, which links Hill Street and New Bridge Road and situated between Boat Quay and Clarke Quay. You’ve probably seen it or travelled on it multiple times while barely taking notice of it (unless at night when it is lit with glamorous lights).
 
