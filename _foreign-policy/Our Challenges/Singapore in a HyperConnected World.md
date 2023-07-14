@@ -52,14 +52,13 @@ Credit: Mothership TikTok.
 
 **Read more about Russia’s Invasion of Ukraine [here](https://www.sg101.gov.sg/resources/resource-packages/neinsights03022022):**
 
-
 **Read more about Singapore’s Principled Stand on Russia’s Invasion of Ukraine [here](https://www.sg101.gov.sg/resources/resource-packages/sgprincipledstandonrussiasinvasionofukraine):**
 
 Watch Minister for Foreign Affairs Dr Vivian Balakrishnan's Ministerial Statement on Ukraine and its implications below: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k5SGAzefIew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-For example, a TikTok video posted by Mothership showing Ukraine’s United Nations Ambassador Sergiy Kyslytsya praising Singapore’s diplomatic position as “brave as a tiger”, garnered mostly comments critical of Singapore’s decision to implement sanctions on Russia.[\[11\]](#_ftn11)
+The TikTok video posted by Mothership showing Ukraine’s United Nations Ambassador Sergiy Kyslytsya praising Singapore’s diplomatic position as “brave as a tiger”, garnered mostly comments critical of Singapore’s decision to implement sanctions on Russia.[\[11\]](#_ftn11)
 
 In written replies to two parliamentary questions, Minister for Home Affairs and Minister for Law, Mr K. Shanmugam said that while the government had not detected a coordinated hostile information campaign targeted specifically at Singapore, some social media accounts appeared to have been involved in local online discussions about the conflict and had characteristics that suggested that they might be inauthentic.[\[12\]](#_ftn12)
 
