@@ -111,13 +111,7 @@ ASEAN also spearheaded the 1980 International Meeting of Humanitarian Assistance
 
 Notwithstanding serious differences, Singapore and Vietnam set aside our differences and forged a strong relationship when Vietnam eventually withdrew from Kampuchea. The incident also shows that stability and peace in our region should never be taken for granted.
 
-**Read more about the Cambodian conflict here: Speech by Former Deputy Prime Minister Mr Wong Kan Seng at the S Rajaratnam Lecture at Shangri-La Hotel on 23 November 2011:**
-
-[https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2011/11/Speech-by-Former-Deputy-Prime-Minister-Wong-Kan-Seng-at-the-S-Rajaratnam-Lecture-at-Shangri-La-Hote](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2011/11/Speech-by-Former-Deputy-Prime-Minister-Wong-Kan-Seng-at-the-S-Rajaratnam-Lecture-at-Shangri-La-Hote)
-
-
-<a target="_blank" href="“https://www.imda.gov.sg/about-imda/research-and-statistics/digital-society”">here</a>
-
+Read more about the Cambodian conflict here: <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2011/11/Speech-by-Former-Deputy-Prime-Minister-Wong-Kan-Seng-at-the-S-Rajaratnam-Lecture-at-Shangri-La-Hote">Speech by Former Deputy Prime Minister Mr Wong Kan Seng at the S Rajaratnam Lecture at Shangri-La Hotel on 23 November 2011</a>.
 
 **Case Study: Singapore’s Position on Russia’s Invasion of Ukraine**
 
