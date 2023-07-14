@@ -24,13 +24,13 @@ sections:
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
   - infopic:
-      title: SAF Day 2023 NE Package
+      title: Racial Harmony Day 2023 NE Package
       subtitle: Resources
-      description: Use the SAF Day 2023 NE Package and notes as you prepare to
-        commemorate SAF Day.
+      description: Use the Racial Harmony Day 2023 NE Package as you prepare to
+        discuss the importance of racial harmony in Singapore.
       button: Read more
-      url: /resources/resource-packages/safday2023
-      image: /images/saf day 2023 landing page.png
+      url: /resources/resource-packages/racialharmony2023/
+      image: /images/rhd 2023.png
       alt: Image alt text
   - infopic:
       title: News in Focus 05 2023
