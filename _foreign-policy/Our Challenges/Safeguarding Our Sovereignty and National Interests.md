@@ -21,7 +21,7 @@ third_nav_title: Our Challenges
 
 ![](/images/wong%20kan%20seng%20speech.png)
 
-
+![](/images/pm%20lee%20fb%20.png)
 
 <a target="_blank" href="“https://www.imda.gov.sg/about-imda/research-and-statistics/digital-society”">here</a>
 
