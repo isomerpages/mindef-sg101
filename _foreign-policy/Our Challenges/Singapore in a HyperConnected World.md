@@ -40,7 +40,7 @@ RSS Independence (left) watching over a Malaysian government vessel in Singapore
 During a period of tension with another country between 2016 and 2017, Singapore experienced a coordinated Hostile Information Campaign (HIC) that attempted to undermine our foreign policy position. Online commentaries and videos were uploaded by social media accounts which had been dormant for many years. Many of these were in Mandarin and targeted our Chinese-speaking population. The content was widely circulated via chat apps and aimed to influence sentiments amongst Singaporeans.[\[10\]](#_ftn10) 
 ***
 
-**Learn more about disinformation and influence campaigns [here](https://www.sg101.gov.sg/resources/resource-packages/resourcesoninfluencecampaigns/).**
+**Read more about disinformation and influence campaigns [here](https://www.sg101.gov.sg/resources/resource-packages/resourcesoninfluencecampaigns/).**
 
 ***
 **Example: Reports of social media activity aimed to sway Singaporeans’ views on the Russia-Ukraine conflict**
@@ -50,14 +50,14 @@ Singapore media reported in March 2022 that anonymous TikTok accounts attempted 
 ![](/images/tiktok%20ru.png)
 Credit: Mothership TikTok.
 
-**Learn more about Russia’s Invasion of Ukraine [here](https://www.sg101.gov.sg/resources/resource-packages/neinsights03022022):**
-
-[https://www.sg101.gov.sg/resources/resource-packages/neinsights03022022](https://www.sg101.gov.sg/resources/resource-packages/neinsights03022022)
+**Read more about Russia’s Invasion of Ukraine [here](https://www.sg101.gov.sg/resources/resource-packages/neinsights03022022):**
 
 
-**Learn more about Singapore’s Principled Stand on Russia’s Invasion of Ukraine here:**
+**Read more about Singapore’s Principled Stand on Russia’s Invasion of Ukraine [here](https://www.sg101.gov.sg/resources/resource-packages/sgprincipledstandonrussiasinvasionofukraine):**
 
-[https://www.youtube.com/watch?v=k5sGAzeflew](https://www.youtube.com/watch?v=k5sGAzeflew)
+Watch Minister for Foreign Affairs Dr Vivian Balakrishnan's Ministerial Statement on Ukraine and its implications: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k5SGAzefIew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 For example, a TikTok video posted by Mothership showing Ukraine’s United Nations Ambassador Sergiy Kyslytsya praising Singapore’s diplomatic position as “brave as a tiger”, garnered mostly comments critical of Singapore’s decision to implement sanctions on Russia.[\[11\]](#_ftn11)
 
