@@ -6,3 +6,24 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/connexionsg/2023/krangi1.jpg)
+📷: Sungei Kadut Eco-District (Source: JTC Corp YouTube screenshot)
+![](/images/connexionsg/2023/kranji2.jpg)
+📷: Kranji Marshes (Source: URA)
+
+
+Singaporeans have always known Kranji to a place of woods, and wood-works: many timber suppliers are located there, attracting homeowners in search of customised decor for dream homes.
+
+The name “Kranji” was first known on a 1820 map by William Farquhar which showed Sungei Kranji (now Kranji Reservoir). Kranji was likely named after the pokok keranji, a local tree commonly found along the riverbanks. In the 1800s to 1900s, early Teochew migrants planted cash crops like gambier and pineapples, and developed riverside settlements known as “chu kang” (Teochew for “river port”), where the produce were processed and shipped in boats. Kampong Kranji, which was next to Kranji Road, served as a ferry station to Johor Bahru before the Causeway was built in 1923.
+
+Kranji was a military camp before the Japanese invasion in 1942 and the second frontline where the Japanese succeeded in crossing the Johor Strait to reach Singapore. It is now home to the Kranji War Memorial and the Kranji War Cemetery, which honour the servicemen and women who died serving the country.
+
+In the late 1960s, Kranji underwent reclamation and became an industrial estate producing wood products. Kranji Dam and Kranji Reservoir were built in 1975 to supply water to the factories.
+
+As a suburb in northwestern Singapore, Kranji is known for its sprawling nature reserves, farmlands and wildlife activities. Kranji Marshes is one of Singapore’s largest freshwater marshes and habitat to a rich variety of flora and fauna, including more than 170 species of birds, 54 species of butterflies and 33 species of dragonflies. Together with Sungei Buloh Wetland Reserve, Singapore’s first ASEAN Heritage Park (202 hectares worth of mangroves, mudflats and forests!), they help to conserve biodiversity in Singapore.
+
+Moving forward, the Agri-Food Innovation Park (AFIP) is being developed to combine high-tech urban indoor farming and associated research and development activities. The AFIP will be located within the Sungei Kadut Eco-District to form part of the larger Northern Agri-Tech and Food Corridor with food-related industries. Our manufacturing sector is also being renovated there, with high-tech clusters of closed-loop systems in which one company’s waste gets regenerated as another company's resources: transforming waste management and recycling, metal, timber and the furniture industry. Kranji Water Reclamation Plant and Kranji NEWater Factory will be redeveloped by around 2035 to increase their treatment capacity to cater to industrial developments in the north of Singapore.
+
+There are also plans for redevelopment in the area vacated by the Singapore Turf Club from 2027 onwards. The site is earmarked for housing and community facilities, and will support the development of Woodlands Regional Centre as Singapore’s largest northern economic hub. With more recreational activities and community spaces injected into the area, Kranji is the launch pad for a lifestyle in lush and sustainable surroundings -- where the future is made better, by design.
+
+#OurNeighbourhood #Singapore #Kranji
