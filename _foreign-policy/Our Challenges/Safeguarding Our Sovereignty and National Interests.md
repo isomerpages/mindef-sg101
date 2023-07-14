@@ -4,7 +4,7 @@ permalink: /foreign-policy/our-challenges/safeguardingoursovereigntyandnationali
 description: ""
 third_nav_title: Our Challenges
 ---
-**7 minutes read**
+**10 minutes read**
 
 *[Last updated on 14 July 2023]*
 
