@@ -122,6 +122,13 @@ You may find more TD resources and Activities such as Total Defence Song, Total 
 * **N.E.mation!** is an annual national digital animation and storyboard competition for students and youths to express their thoughts about Total Defence. View all N.E.mation! videos from past seasons&nbsp;[here](https://www.youtube.com/user/NEmators). You may also use [this guide](/files/NEmation%20clips%20Facilitation%20Guide.pdf) to facilitate discussions based on the N.E.mation! clips.
 ****
 
+#### **Useful Articles**
+**Sports and National Defence - an Opinion Piece written by Mr Nicholas Fang**
+George Orwell famously wrote that sports is "war minus the shooting". While the celebrated writer meant that sports at the highest levels was similar to war in that it was about winning, almost at all costs, it is worth exploring the value that sporting contests have in the context of national defence.
+
+Read the full article [here](
+
+
 #### **Useful Reports**
 **RSIS Commentary - "Total Defence in Action - Singapore's Response to the COVID-19 Pandemic", National Security Studies Programme (NSSP) Research Report**. 
 
