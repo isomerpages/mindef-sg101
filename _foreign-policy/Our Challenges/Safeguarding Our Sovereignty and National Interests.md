@@ -11,3 +11,4 @@ third_nav_title: Our Challenges
 
 <a target="_blank" href="“https://www.imda.gov.sg/about-imda/research-and-statistics/digital-society”">here</a>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k5SGAzefIew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
