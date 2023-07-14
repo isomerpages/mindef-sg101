@@ -24,3 +24,6 @@ And while these rations can be consumed on their own, many soldiers throughout t
 What’s your favourite combat ration? Share with us in the comments below!
 
 #FoodieFriday #FoodieFridaySG #Singapore #SAF #combatrations
+
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
