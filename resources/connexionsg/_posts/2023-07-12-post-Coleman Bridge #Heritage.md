@@ -25,6 +25,4 @@ Is Coleman a conservation status bridge? No. Is it artistically done like Cavana
 
 #heritage #singapore #colemanbridge #cbd #downtown
 
-#heritage #singapore #colemanbridge #cbd #downtown
-
 Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
