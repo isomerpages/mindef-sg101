@@ -20,6 +20,10 @@ sections:
             url: /infrastructure/ourfundamentals
           - title: Social / National Identity
             url: /social-national-identity/ourfundamentals
+          - title: Foreign Policy
+            url: ""
+          - title: Resources
+            url: ""
       subtitle: SG101 tells the stories of Singapore's journey as a nation, and helps
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
