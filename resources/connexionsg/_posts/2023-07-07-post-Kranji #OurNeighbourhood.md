@@ -27,3 +27,6 @@ Moving forward, the Agri-Food Innovation Park (AFIP) is being developed to combi
 There are also plans for redevelopment in the area vacated by the Singapore Turf Club from 2027 onwards. The site is earmarked for housing and community facilities, and will support the development of Woodlands Regional Centre as Singapore’s largest northern economic hub. With more recreational activities and community spaces injected into the area, Kranji is the launch pad for a lifestyle in lush and sustainable surroundings -- where the future is made better, by design.
 
 #OurNeighbourhood #Singapore #Kranji
+
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
