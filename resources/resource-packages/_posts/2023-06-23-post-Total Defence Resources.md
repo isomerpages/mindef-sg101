@@ -51,6 +51,16 @@ The poster can be downloaded [here](https://go.gov.sg/tdposter23).
 A black-and-white (b/w) version of the Total Defence poster is also available at the same link above, as a Total Defence activity sheet for printing and distribution as a colouring activity.
 
 ****
+#### **Total Defence Community Table-top Exercise (TTX)**
+
+The Total Defence Community TTX aims to bring individuals across different ages and walks of life together to discuss potential impacts of pertinent issues affecting Singapore, and develop community drawer plans that can be implemented during times of crises and disruptions to our essential supplies and services.
+
+**Total Defence Table-top Exercise Scenario Video 2023**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HBXgEvPd1GA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+Interested to carry out your own Total Defence Community TTX? You may download the Total Defence TTX Scenario Video as well as the facilitation materials [here](https://drive.google.com/drive/folders/1Tnr3CySWlcrDPMIQuD2Bv36JEgUWeEur?usp=sharing).
+
+****
 #### **Total Defence Interactive Video 2023**
 What are the consequences of your choices? In the Total Defence Interactive Video, you will get to make decisions that will determine the outcome of the character's day.
 
@@ -100,17 +110,6 @@ For more details and to download the Facilitation Guide, please click [here](htt
 
 
 ****
-#### **Total Defence Community Table-top Exercise (TTX)**
-
-The Total Defence Community TTX aims to bring individuals across different ages and walks of life together to discuss potential impacts of pertinent issues affecting Singapore, and develop community drawer plans that can be implemented during times of crises and disruptions to our essential supplies and services.
-
-**Total Defence Table-top Exercise Scenario Video 2023**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HBXgEvPd1GA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-Interested to carry out your own Total Defence Community TTX? You may download the Total Defence TTX Scenario Video as well as the facilitation materials [here](https://drive.google.com/drive/folders/1Tnr3CySWlcrDPMIQuD2Bv36JEgUWeEur?usp=sharing).
-
-****
-
 #### **More TD Resources and Activities**
 You may find more TD resources and Activities such as Total Defence Song, Total Defence Sandbox, Total Defence Puzzle, Guardians of the City II Card Game [here](https://www.mindef.gov.sg/oms/imindef/mindef_websites/topics/totaldefence/resources.html).
 
@@ -121,6 +120,14 @@ You may find more TD resources and Activities such as Total Defence Song, Total 
 * **ciNE65 Short Film Competition** aims to capture our Singaporean identity through the lenses of local budding film-makers. Launched by Nexus in July 2011, it encourages aspiring film-makers to tell their Singapore story and what Singapore means to them. Through ciNE65, Nexus hopes to harness the potential of short films to touch the hearts and minds of Singaporeans. You may view the past ciNE65 films [here](https://www.youtube.com/user/cine65sg). Do remember to subscribe to this channel!
 * **N.E.mation!** is an annual national digital animation and storyboard competition for students and youths to express their thoughts about Total Defence. View all N.E.mation! videos from past seasons&nbsp;[here](https://www.youtube.com/user/NEmators). You may also use [this guide](/files/NEmation%20clips%20Facilitation%20Guide.pdf) to facilitate discussions based on the N.E.mation! clips.
 ****
+
+#### **Useful Articles**
+**Sports and National Defence - a commentary written by Mr Nicholas Fang**
+
+George Orwell famously wrote that sports is "war minus the shooting". While the celebrated writer meant that sports at the highest levels was similar to war in that it was about winning, almost at all costs, it is worth exploring the value that sporting contests have in the context of national defence.
+
+Read the full article [here](/files/sea%20games%20commentary%20-%20sports%20and%20national%20defence%20(written%20by%20nicholas%20fang).pdf).
+
 
 #### **Useful Reports**
 **RSIS Commentary - "Total Defence in Action - Singapore's Response to the COVID-19 Pandemic", National Security Studies Programme (NSSP) Research Report**. 

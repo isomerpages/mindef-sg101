@@ -19,8 +19,7 @@ Singapore is among countries with the highest Internet penetration rate in the w
 ![](/images/household%20access%20to%20computing%20devices.png)
 
 ![](/images/household%20access%20to%20internet.png)
-For more data and charts on Singapore being a digital society, visit Infocomm Media Development Authority (iMDA) [here](https://www.imda.gov.sg/about-imda/research-and-statistics/digital-society).
-
+For more data and charts on Singapore being a digital society, visit Infocomm Media Development Authority (iMDA) <a target="_blank" href="“https://www.imda.gov.sg/about-imda/research-and-statistics/digital-society”">here</a>
 
 Such developments have shaped a more global outlook, and a keener awareness of global developments and Singapore’s place in the world.
 
@@ -36,36 +35,30 @@ Singapore is not immune to such threats. Our openness, small size, hyperconnecti
 In 2018, there was a spike in online comments critical of Singapore when Singapore was having bilateral disputes with a country.[\[8\]](#_ftn8) These anonymous accounts were also behind about 40 percent of the comments related to heavy traffic congestion at land checkpoints posted on the social media pages of alternative media outlets. While the identity of the account owners and whether foreign actors were coordinating them remain unclear, they sought to create an impression of opposition to Singapore’s position at a time of heightened bilateral difficulties.[\[9\]](#_ftn9) 
 
 ![](/images/stw%20incident.jpeg)
-RSS Independence (left) watching over a Malaysian government vessel in Singapore waters off Tuas. (Credit: [MINDEF](https://www.mindef.gov.sg/web/portal/pioneer/article/cover-article-detail/ops-and-training/2019-Q2/may19_cs))
+RSS Independence (left) watching over a Malaysian government vessel in Singapore waters off Tuas. (Credit: <a target="_blank" href="https://www.mindef.gov.sg/web/portal/pioneer/article/cover-article-detail/ops-and-training/2019-Q2/may19_cs">MINDEF</a>)
 
 During a period of tension with another country between 2016 and 2017, Singapore experienced a coordinated Hostile Information Campaign (HIC) that attempted to undermine our foreign policy position. Online commentaries and videos were uploaded by social media accounts which had been dormant for many years. Many of these were in Mandarin and targeted our Chinese-speaking population. The content was widely circulated via chat apps and aimed to influence sentiments amongst Singaporeans.[\[10\]](#_ftn10) 
 ***
 
-**Learn more about disinformation and influence campaigns here:**
+**Read more about disinformation and influence campaigns [here](https://www.sg101.gov.sg/resources/resource-packages/resourcesoninfluencecampaigns/).**
 
-[https://www.sg101.gov.sg/resources/resource-packages/disinformationadinfluencecampaigns](https://www.sg101.gov.sg/resources/resource-packages/disinformationadinfluencecampaigns)
-
+***
 **Example: Reports of social media activity aimed to sway Singaporeans’ views on the Russia-Ukraine conflict**
 
 Singapore media reported in March 2022 that anonymous TikTok accounts attempted to sway Singaporeans’ opinions over Russia’s invasion of Ukraine. The accounts sought to convey a misleading impression of local opposition to Singapore’s position on the Russia-Ukraine conflict.
 
-_Source: Mothership TikTok_
+![](/images/tiktok%20ru.png)
+Credit: Mothership TikTok.
 
-**Learn more about Russia’s Invasion of Ukraine here:**
+**Read more about Russia’s Invasion of Ukraine [here](https://www.sg101.gov.sg/resources/resource-packages/neinsights03022022):**
 
-[https://www.sg101.gov.sg/resources/resource-packages/neinsights03022022](https://www.sg101.gov.sg/resources/resource-packages/neinsights03022022)
+**Read more about Singapore’s Principled Stand on Russia’s Invasion of Ukraine [here](https://www.sg101.gov.sg/resources/resource-packages/sgprincipledstandonrussiasinvasionofukraine):**
 
-__
+Watch Minister for Foreign Affairs Dr Vivian Balakrishnan's Ministerial Statement on Ukraine and its implications below: 
 
-**Learn more about Singapore’s Principled Stand on Russia’s Invasion of Ukraine here:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k5SGAzefIew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-[https://www.sg101.gov.sg/resources/resource-packages/sgprincipledstandonrussiasinvasionofukraine](https://www.sg101.gov.sg/resources/resource-packages/sgprincipledstandonrussiasinvasionofukraine)
-
-
-
-[https://www.youtube.com/watch?v=k5sGAzeflew](https://www.youtube.com/watch?v=k5sGAzeflew)
-
-For example, a TikTok video posted by Mothership showing Ukraine’s United Nations Ambassador Sergiy Kyslytsya praising Singapore’s diplomatic position as “brave as a tiger”, garnered mostly comments critical of Singapore’s decision to implement sanctions on Russia.[\[11\]](#_ftn11)
+The TikTok video posted by Mothership showing Ukraine’s United Nations Ambassador Sergiy Kyslytsya praising Singapore’s diplomatic position as “brave as a tiger”, garnered mostly comments critical of Singapore’s decision to implement sanctions on Russia.[\[11\]](#_ftn11)
 
 In written replies to two parliamentary questions, Minister for Home Affairs and Minister for Law, Mr K. Shanmugam said that while the government had not detected a coordinated hostile information campaign targeted specifically at Singapore, some social media accounts appeared to have been involved in local online discussions about the conflict and had characteristics that suggested that they might be inauthentic.[\[12\]](#_ftn12)
 
