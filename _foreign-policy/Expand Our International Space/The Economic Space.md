@@ -10,18 +10,6 @@ third_nav_title: Expand Our International Space
 
 *[Last updated on 17 July 2023]*
 
-
-
-
-
-
-
-
-
-Watch a short video by Ministry of Foreign Affairs to learn more about <a target="blank" href="https://www.facebook.com/watch/?v=355860763186553">FOSS</a>.
-
-Watch MFA's video on Voices of FOSS below to find out what other countries have to say about FOSS. <iframe width="560" height="315" src="https://www.youtube.com/embed/RBwd_Q1HBeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
 ![](/images/lky%20speech%202009.png)
 
 **The Economic Space**
@@ -38,6 +26,7 @@ Watch the video below by Institute of Policy Studies (IPS) - Singapore Perspecti
 
 Over the years, we have built a secure, transparent and business-friendly environment, based on good governance and effective economic management, for international companies to operate in. We also strive to discern future trends and position ourselves such that we are able to grasp opportunities ahead of others. [\[3\]](#_ftn3) For a small country like Singapore, we must remain nimble and seize opportunities quickly, just like what we did when Singapore sealed the USSFTA over a game of golf.
 
+***
 **Example: United States – Singapore Free Trade Agreement (USSFTA) – Sealed Over a Game of Golf**
 
 As a small, open economy, Singapore relies on free trade and open markets. We support multilateral systems which promote a stable and predictable and predictable international trading environment such as the World Trade Organisation (WTO). We also continue to work with like-minded partners to build a broader and deeper scope of cooperation.
@@ -61,6 +50,7 @@ Goh Chok Tong’s midnight golf game with US President Bill Clinton in 2000: The
   
 
 * * *
+
 
 [\[1\]](#_ftnref1) _Ibid._
 
