@@ -4,11 +4,9 @@ permalink: /foreign-policy/expand-our-international-space/economicspace/
 description: ""
 third_nav_title: Expand Our International Space
 ---
-[This page is being updated.]
+*3 minutes read 
 
-**3 minutes read**
-
-*[Last updated on 17 July 2023]*
+[Last updated on 17 July 2023]*
 
 ![](/images/lky%20speech%202009.png)
 
@@ -38,7 +36,7 @@ In the late 1990s, our economy was struggling after the Asian Financial Crisis a
 ![](/images/bill%20clinton.jpg)
 Goh Chok Tong’s midnight golf game with US President Bill Clinton in 2000: The untold story. (2014, October 20). The Straits Times.
 
-**Click here to learn more about [[how Singapore seized the opportunity to seal the USSFTA deal](https://www.sg101.gov.sg/economy/digging-deeper-case-studies/sgusfta).**
+**Click here to learn more about [how Singapore seized the opportunity to seal the USSFTA deal](https://www.sg101.gov.sg/economy/digging-deeper-case-studies/sgusfta).**
 
 **Click here to learn more about [Singapore's economic strategies between 1986 and 1996](https://www.sg101.gov.sg/economy/growing-our-economy/1986/).**
 
