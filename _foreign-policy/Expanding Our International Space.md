@@ -24,6 +24,4 @@ Watch the video below by Institute of Policy Studies (IPS) - Singapore Perspecti
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RBwd_Q1HBeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
-Read more about the Cambodian conflict here: <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2011/11/Speech-by-Former-Deputy-Prime-Minister-Wong-Kan-Seng-at-the-S-Rajaratnam-Lecture-at-Shangri-La-Hote">Speech by Former Deputy Prime Minister Mr Wong Kan Seng at the S Rajaratnam Lecture at Shangri-La Hotel on 23 November 2011</a>.
-
-Visit Ministry of Foreign Affairs' Facebook page for a short video on what FOSS is about.
+Watch a short video by Ministry of Foreign Affairs to learn more about <a target="blank" href="https://www.facebook.com/watch/?v=355860763186553">FOSS</a>.
