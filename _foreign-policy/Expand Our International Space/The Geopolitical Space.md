@@ -58,16 +58,16 @@ By playing an active role on the regional and global stage, Singapore is able to
 
 [\[3\]](#_ftnref3) Ministry of Foreign Affairs. (n.d.) _Small States._ [https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/International-Issues/Small-States](https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/International-Issues/Small-States)
 
-[\[4\]](#_ftnref4) _Ibid._
+[\[4\]](#_ftnref4) Ibid.
 
-[\[5\]](#_ftnref5) _Ibid._
+[\[5\]](#_ftnref5) _bid.
 
-[\[6\]](#_ftnref6) _Ibid._
+[\[6\]](#_ftnref6) Ibid.
 
 [\[7\]](#_ftnref7) Ministry of Foreign Affairs. (n.d.) _ASEAN._ [https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/International-Organisations/ASEAN](https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/International-Organisations/ASEAN)
 
-[\[8\]](#_ftnref8) _Ibid._
+[\[8\]](#_ftnref8) Ibid.
 
-[\[9\]](#_ftnref9) _Ibid._
+[\[9\]](#_ftnref9) Ibid.
 
 [\[10\]](#_ftnref10) Public Service Division. (2015). Heart of Public Service. [https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/)
