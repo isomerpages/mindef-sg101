@@ -161,13 +161,13 @@ Local media reported in March 2022 that there were TikTok posts that aimed to in
 
 [\[7\]](#_ftnref7) Lee Kuan Yew. (2014). From Third World to First: The Singapore Story: 1965 – 2000.
 
-[\[8\]](#_ftnref8) Ministry of Defence. (2014). _Reply by Minister for Defence Dr Ng Eng Hen to Parliamentary Question on the response to the Indonesian Navy’s naming of new warship_ on 18 February 2014. [https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2014/february/2014feb18-Parliamentary-000087](https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2014/february/2014feb18-Parliamentary-000087)
+[\[8\]](#_ftnref8) Ministry of Defence. (2014). R*eply by Minister for Defence Dr Ng Eng Hen to Parliamentary Question on the response to the Indonesian Navy’s naming of new warship on 18 February 2014. *[https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2014/february/2014feb18-Parliamentary-000087](https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2014/february/2014feb18-Parliamentary-000087)
 
 [\[9\]](#_ftnref9) Chew, V. (2021, October). Michael Fay. Singapore Infopedia. [https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1554\_2009-08-06.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1554_2009-08-06.html)
 
 [\[10\]](#_ftnref10) Public Service Division. (2015). Heart of Public Service. [https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/)
 
-[\[11\]](#_ftnref11) Ministry of Foreign Affairs. (2014) _The Practice of Foreign Policy for Sustained Growth – The Singapore Experience._ Transcript of speech by Emeritus Senior Minister Goh Chok Tong at S Rajaratnam Lecture on 17 October 2014. [https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2014/10/MFA-Press-Release-Transcript-of-speech-by-Emeritus-Senior-Minister-Goh-Chok-Tong-at-S-Rajaratnam-Lec](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2014/10/MFA-Press-Release-Transcript-of-speech-by-Emeritus-Senior-Minister-Goh-Chok-Tong-at-S-Rajaratnam-Lec)
+[\[11\]](#_ftnref11) Ministry of Foreign Affairs. (2014) *The Practice of Foreign Policy for Sustained Growth – The Singapore Experience. *Transcript of speech by Emeritus Senior Minister Goh Chok Tong at S Rajaratnam Lecture on 17 October 2014. [https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2014/10/MFA-Press-Release-Transcript-of-speech-by-Emeritus-Senior-Minister-Goh-Chok-Tong-at-S-Rajaratnam-Lec](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2014/10/MFA-Press-Release-Transcript-of-speech-by-Emeritus-Senior-Minister-Goh-Chok-Tong-at-S-Rajaratnam-Lec)
 
 [\[12\]](#_ftnref12) Chew, V. (2021, October). Michael Fay. Singapore Infopedia. [https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1554\_2009-08-06.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1554_2009-08-06.html)
 
@@ -179,7 +179,7 @@ Local media reported in March 2022 that there were TikTok posts that aimed to in
 
 [\[16\]](#_ftnref16) Public Service Division. (2015). Heart of Public Service. [https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/)
 
-[\[17\]](#_ftnref17) Ministry of Foreign Affairs. (2011). _Speech_ _by former Deputy Prime Minister Mr Wong Kan Seng at the S Rajaratnam Lecture at Shangri-La Dialogue on 23 November 2011._
+[\[17\]](#_ftnref17) Ministry of Foreign Affairs. (2011).*Speech by former Deputy Prime Minister Mr Wong Kan Seng at the S Rajaratnam Lecture at Shangri-La Dialogue on 23 November 2011.*
 
 [https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2011/11/Speech-by-Former-Deputy-Prime-Minister-Wong-Kan-Seng-at-the-S-Rajaratnam-Lecture-at-Shangri-La-Hote](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2011/11/Speech-by-Former-Deputy-Prime-Minister-Wong-Kan-Seng-at-the-S-Rajaratnam-Lecture-at-Shangri-La-Hote)
 
@@ -187,8 +187,8 @@ Local media reported in March 2022 that there were TikTok posts that aimed to in
 
 [\[19\]](#_ftnref19) Ministry of Foreign Affairs. (2019) MFA Spokesperson’s comments in response to media queries on PM’s condolence letter on the passing of former Thailand Prime Minister and Privy Council President General Prem Tinsulanonda and 2019 Shangri-La Dialogue Speech, 7 June 2019.
 
-[\[20\]](#_ftnref20) Ibid.
+[\[20\]](#_ftnref20) *Ibid.*
 
-[\[21\]](#_ftnref21) Prime Minister’s Office. (2022). _PM Lee Hsien Loong at May Day Rally 2022_ on 1 May 2022. [https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-May-Day-Rally-2022](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-May-Day-Rally-2022)
+[\[21\]](#_ftnref21) Prime Minister’s Office. (2022). *PM Lee Hsien Loong at May Day Rally 2022 on 1 May 2022.* [https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-May-Day-Rally-2022](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-May-Day-Rally-2022)
 
-[\[22\]](#_ftnref22) Ministry of Foreign Affairs. (2022). _Minister for Foreign Affairs Dr Vivian Balakrishnan’s Ministerial Statement on the situation in Ukraine and its implications, 28 February 2022.[https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/02/20220228-Ministerial-Statement](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/02/20220228-Ministerial-Statement)
+[\[22\]](#_ftnref22) Ministry of Foreign Affairs. (2022). *Minister for Foreign Affairs Dr Vivian Balakrishnan’s Ministerial Statement on the situation in Ukraine and its implications, 28 February 2022.*[https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/02/20220228-Ministerial-Statement](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/02/20220228-Ministerial-Statement)
