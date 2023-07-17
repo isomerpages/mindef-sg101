@@ -21,7 +21,7 @@ sections:
           - title: Social / National Identity
             url: /social-national-identity/ourfundamentals
           - title: Foreign Policy
-            url: ""
+            url: /foreign-policy/ourfundamentals/
           - title: Resources
             url: ""
       subtitle: SG101 tells the stories of Singapore's journey as a nation, and helps
