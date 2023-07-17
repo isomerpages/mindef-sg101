@@ -9,20 +9,19 @@ description: ""
 
 *[Last updated on 17 July 2023]*
 
-![](/images/lky%20speech%202009.png)
 
-![](/images/rajaratnam%20global%20city%20speech%201972%20.png)
 
-![](/images/bill%20clinton.jpg)
 
-Watch the video below by Institute of Policy Studies (IPS) - Singapore Perspectives 2022 to learn more about Mr S Rajaratnam's vision of Singapore as a Global City:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WrXxGUdY5jk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+
 
 
 Watch a short video by Ministry of Foreign Affairs to learn more about <a target="blank" href="https://www.facebook.com/watch/?v=355860763186553">FOSS</a>.
 
 Watch MFA's video on Voices of FOSS below to find out what other countries have to say about FOSS. <iframe width="560" height="315" src="https://www.youtube.com/embed/RBwd_Q1HBeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+![](/images/lky%20speech%202009.png)
 
 **The Economic Space**
 
@@ -30,11 +29,15 @@ The fundamentals of Singapore’s existence have not changed. We are located in 
 
 Our founding fathers understood the importance for Singapore to be plugged into the global networks since the early days of our independence. Back in the 1960s, it was conventional wisdom for developing countries to protect their domestic industries and reject foreign investment and trade. Our founding fathers went against the tide, and invited international companies to invest and manufacture in Singapore, as well as to trade with Singapore.[\[2\]](#_ftn2) In February 1972, Former Minister for Foreign Affairs, Mr S Rajaratnam, articulated his vision of Singapore as a “Global City”, with the world as our hinterland, rather than just an entrepot serving the region.
 
-(embed video by Institute of Policy Studies (IPS) – **Singapore Perspectives 2022: S. Rajaratnam’s vision of Singapore as a Global City**)
+![](/images/rajaratnam%20global%20city%20speech%201972%20.png)
+
+Watch the video below by Institute of Policy Studies (IPS) - Singapore Perspectives 2022 to learn more about **Mr S Rajaratnam's vision of Singapore as a Global City**:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WrXxGUdY5jk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Over the years, we have built a secure, transparent and business-friendly environment, based on good governance and effective economic management, for international companies to operate in. We also strive to discern future trends and position ourselves such that we are able to grasp opportunities ahead of others. [\[3\]](#_ftn3) For a small country like Singapore, we must remain nimble and seize opportunities quickly, just like what we did when Singapore sealed the USSFTA over a game of golf.
 
-**_Example: United States – Singapore Free Trade Agreement (USSFTA) – Sealed Over a Game of Golf_**
+**Example: United States – Singapore Free Trade Agreement (USSFTA) – Sealed Over a Game of Golf**
 
 As a small, open economy, Singapore relies on free trade and open markets. We support multilateral systems which promote a stable and predictable and predictable international trading environment such as the World Trade Organisation (WTO). We also continue to work with like-minded partners to build a broader and deeper scope of cooperation.
 
@@ -42,7 +45,8 @@ As explained by Ambassador-at-large Dr Tommy Koh in 2019, our FTAs help us to �
 
 In the late 1990s, our economy was struggling after the Asian Financial Crisis and multilateral global deals at the WTO were stalled. Faced with dim prospects, we decided to chart our own economic future by pushing for FTAs with our main trading partners, such as the United States (US). Despite a downturn in our bilateral relations arising from the sentencing of American teenager Michael Fay, then-Prime Minister Mr Goh Chok Tong sealed the USSFTA deal with then-US President Mr Bill Clinton, over a game of golf.
 
-Goh Chok Tong’s midnight golf game with US President Bill Clinton in 2000: The untold story. (2014, October 20). _The Straits Times_.
+![](/images/bill%20clinton.jpg)
+Goh Chok Tong’s midnight golf game with US President Bill Clinton in 2000: The untold story. (2014, October 20). The Straits Times.
 
 **Learn more about how Singapore seized the opportunity to seal the USSFTA deal:**
 
