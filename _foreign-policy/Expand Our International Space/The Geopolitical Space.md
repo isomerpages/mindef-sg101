@@ -24,12 +24,9 @@ In 2015, Singapore launched the FOSS Fellowship Programme to foster better under
 
 To commemorate the 30th anniversary of FOSS in 2022, Minister for Foreign Affairs Dr Vivian Balakrishnan launched the “FOSS for Good” technical assistance package at the 76th UNGA in September 2022. Running from 2022 to 2023, the package will provide a peer-learning platform for FOSS states to share experiences, best practices and solutions to tackle the unique development needs and challenges of small countries, such as COVID-19 recovery and digital transformation.[\[5\]](#_ftn5)
 
-Visit MFA’s facebook page ( [https://www.facebook.com/watch/?v=355860763186553](https://www.facebook.com/watch/?v=355860763186553) ) for a short video on what FOSS is about.
+Watch a short video by Ministry of Foreign Affairs to learn more about <a target="blank" href="https://www.facebook.com/watch/?v=355860763186553">FOSS</a>.
 
-
-(embed MFA’s video on Voices of FOSS here)
-
-Visit [https://www.youtube.com/watch?v=RBwd\_Q1HBeM](https://www.youtube.com/watch?v=RBwd_Q1HBeM) to find out what other countries have to say about FOSS.
+Watch MFA's video on Voices of FOSS below to find out what other countries have to say about FOSS. <iframe width="560" height="315" src="https://www.youtube.com/embed/RBwd_Q1HBeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ***
 **The Global Governance Group (3G)**
