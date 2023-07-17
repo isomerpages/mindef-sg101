@@ -48,10 +48,10 @@ Goh Chok Tong’s midnight golf game with US President Bill Clinton in 2000: The
 
 #### Bibliography
 
-[\[1\]](#_ftnref1) Prime Minister’s Office. (2009). _The Fundamentals of Singapore’s Foreign Policy: Then and Now._ Speech by Mr Lee Kuan Yew, Minister Mentor, at the S Rajaratnam Lecture, 9 April 2009, at the Shangri-La Hotel. [https://www.pmo.gov.sg/Newsroom/speech-mr-lee-kuan-yew-minister-mentor-s-rajaratnam-lecture-09-april-2009-530-pm-shangri](https://www.pmo.gov.sg/Newsroom/speech-mr-lee-kuan-yew-minister-mentor-s-rajaratnam-lecture-09-april-2009-530-pm-shangri)
+[\[1\]](#_ftnref1) Prime Minister’s Office. (2009). *The Fundamentals of Singapore’s Foreign Policy: Then and Now.* Speech by Mr Lee Kuan Yew, Minister Mentor, at the S Rajaratnam Lecture, 9 April 2009, at the Shangri-La Hotel. [https://www.pmo.gov.sg/Newsroom/speech-mr-lee-kuan-yew-minister-mentor-s-rajaratnam-lecture-09-april-2009-530-pm-shangri](https://www.pmo.gov.sg/Newsroom/speech-mr-lee-kuan-yew-minister-mentor-s-rajaratnam-lecture-09-april-2009-530-pm-shangri)
 
-[\[2\]](#_ftnref2) Ibid.
+[\[2\]](#_ftnref2) *Ibid.*
 
-[\[3\]](#_ftnref3) Ibid.
+[\[3\]](#_ftnref3) *Ibid.*
 
-[\[4\]](#_ftnref4) Koh, T. (2019, November 2019). Free trade agreements and Singapore. The Straits Times. [https://www.straitstimes.com/opinion/free-trade-agreements-and-singapore](https://www.straitstimes.com/opinion/free-trade-agreements-and-singapore)
+[\[4\]](#_ftnref4) Koh, T. (2019, November 2019). Free trade agreements and Singapore. *The Straits Times.* [https://www.straitstimes.com/opinion/free-trade-agreements-and-singapore](https://www.straitstimes.com/opinion/free-trade-agreements-and-singapore)
