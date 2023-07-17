@@ -20,4 +20,3 @@ Watch the video below by Institute of Policy Studies (IPS) - Singapore Perspecti
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WrXxGUdY5jk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RBwd_Q1HBeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
