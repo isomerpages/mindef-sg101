@@ -10,6 +10,8 @@ links:
     collection: infrastructure
   - title: Social / National Identity
     collection: social-national-identity
+  - title: Foreign Policy
+    collection: foreign-policy
   - title: Resources
     resource_room: true
   - title: Contact Us

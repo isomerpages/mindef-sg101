@@ -10,7 +10,8 @@ In recent years, incidents relating to racial discrimination and insensitivity h
 
 Every year on 21 Jul, we commemorate Racial Harmony Day to remind ourselves to not let racial differences divide us, and instead turn diversity into our source of strength.
 
-[Strengthening Racial Harmony - NE Package 2023](/files/packages/2023/ne%20engagement%20package%202023%20-%20strengthening%20racial%20harmony%20in%20sg.pdf)
+Download:
+<a target="_blank" href="/files/packages/2023/ne%20engagement%20package%202023%20-%20strengthening%20racial%20harmony%20in%20sg.pdf">Strengthening Racial Harmony - NE Package 2023 </a> 
 
 You are encouraged to use this package to discuss the importance of racial harmony in Singapore, and how we can play a part to strengthen racial and religious harmony in our own circles.
 
