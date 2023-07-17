@@ -8,7 +8,7 @@ third_nav_title: Our Challenges
 
 **5 minutes read**
 
-*[Last updated on 13 July 2023]*
+[Last updated on 17 July 2023]
 
 The makeup and attitude of Singapore’s society is constantly changing. Singapore is an open, multi-racial and multi-religious society. We are open to the world, and welcome talent from abroad.[\[1\]](#_ftn1) With globalisation and enhanced connectivity, Singaporeans have ventured abroad for studies, work and leisure, contributing to changing perceptions and attitudes.
 
