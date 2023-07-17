@@ -47,13 +47,13 @@ Beyond the region, we will continue to build a strong network of like-minded int
 On 10 March 1965, as part of Indonesia’s _Konfrontasi_, two saboteurs, who were Indonesian marines, bombed MacDonald House in Singapore, killing three and injuring 33 people. _Konfrontasi_ ended in August 1966 when Indonesia signed a peace treaty with Malaysia. In September 1967, Singapore established formal diplomatic ties with Indonesia. However, bilateral relations were strained once again when Singapore sentenced the saboteurs to death. They were hanged in 1968, despite pleas for clemency from then-Indonesian President Soeharto. This caused a lot of public anger in Indonesia and protestors ransacked the Singapore Embassy in Jakarta.[\[6\]](#_ftn6)
 
 ![](/images/macdonald%20house%20bombing.jpeg)
-Source: Ministry of Culture Collection, courtesy of National Archives of Singapore.
+(Image: Ministry of Culture Collection, courtesy of National Archives of Singapore.)
 
 ![](/images/macdonald%20house%20bombing%20headlines.png)
-MacDonald House blast: 2 charged. (1965, May 18). _The Straits Times_, p.6. Retrieved from NewspaperSG.
+(Image:MacDonald House blast: 2 charged. (1965, May 18). _The Straits Times_, p.6. Retrieved from NewspaperSG.)
 
 ![](/images/tinywow_retaliation%20headlines.jpeg)
-Singapore embassy in Jakarta sacked. (1968, October 18). _The Straits Times_, p.1. Retrieved from NewspaperSG.
+(Image: Singapore embassy in Jakarta sacked. (1968, October 18). _The Straits Times_, p.1. Retrieved from NewspaperSG.)
 
 ![](/images/shanmugam%20speech%202014.png)
 
@@ -131,7 +131,7 @@ Watch Minister for Foreign Affairs Dr Vivian Balakrishnan's Ministerial Statemen
 ![](/images/lesson%203.jpeg)
 
 ![](/images/lesson%204.jpeg)
-Source: Ministry of Foreign Affairs.
+(Image: Ministry of Foreign Affairs.)
 
 In 2014, Singapore similarly opposed Russia’s annexation of the Crimean Peninsula from Ukraine.
 
