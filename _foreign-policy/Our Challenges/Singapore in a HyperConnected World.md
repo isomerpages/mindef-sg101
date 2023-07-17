@@ -19,7 +19,7 @@ Singapore is among countries with the highest Internet penetration rate in the w
 ![](/images/household%20access%20to%20computing%20devices.png)
 
 ![](/images/household%20access%20to%20internet.png)
-For more data and charts on Singapore being a digital society, visit <a target="blank" href="https://www.imda.gov.sg/about-imda/research-and-statistics/digital-society">Infocomm Media Development Authority (iMDA)</a>.
+(Charts: For more data and charts on Singapore being a digital society, visit <a target="blank" href="https://www.imda.gov.sg/about-imda/research-and-statistics/digital-society">Infocomm Media Development Authority (iMDA)</a>.)
 
 
 Such developments have shaped a more global outlook, and a keener awareness of global developments and Singapore’s place in the world.
@@ -36,7 +36,7 @@ Singapore is not immune to such threats. Our openness, small size, hyperconnecti
 In 2018, there was a spike in online comments critical of Singapore when Singapore was having bilateral disputes with a country.[\[8\]](#_ftn8) These anonymous accounts were also behind about 40 percent of the comments related to heavy traffic congestion at land checkpoints posted on the social media pages of alternative media outlets. While the identity of the account owners and whether foreign actors were coordinating them remain unclear, they sought to create an impression of opposition to Singapore’s position at a time of heightened bilateral difficulties.[\[9\]](#_ftn9) 
 
 ![](/images/stw%20incident.jpeg)
-RSS Independence (left) watching over a Malaysian government vessel in Singapore waters off Tuas. (Credit: <a target="_blank" href="https://www.mindef.gov.sg/web/portal/pioneer/article/cover-article-detail/ops-and-training/2019-Q2/may19_cs">MINDEF</a>)
+(Image: RSS Independence (left) watching over a Malaysian government vessel in Singapore waters off Tuas. (Credit: <a target="_blank" href="https://www.mindef.gov.sg/web/portal/pioneer/article/cover-article-detail/ops-and-training/2019-Q2/may19_cs">MINDEF</a>))
 
 During a period of tension with another country between 2016 and 2017, Singapore experienced a coordinated Hostile Information Campaign (HIC) that attempted to undermine our foreign policy position. Online commentaries and videos were uploaded by social media accounts which had been dormant for many years. Many of these were in Mandarin and targeted our Chinese-speaking population. The content was widely circulated via chat apps and aimed to influence sentiments amongst Singaporeans.[\[10\]](#_ftn10) 
 ***
@@ -44,6 +44,7 @@ During a period of tension with another country between 2016 and 2017, Singapore
 **Read more about disinformation and influence campaigns [here](https://www.sg101.gov.sg/resources/resource-packages/resourcesoninfluencecampaigns/).**
 
 ***
+
 **Example: Reports of social media activity aimed to sway Singaporeans’ views on the Russia-Ukraine conflict**
 
 Singapore media reported in March 2022 that anonymous TikTok accounts attempted to sway Singaporeans’ opinions over Russia’s invasion of Ukraine. The accounts sought to convey a misleading impression of local opposition to Singapore’s position on the Russia-Ukraine conflict.
@@ -68,6 +69,8 @@ The Ministry of Home Affairs advises Singaporeans to check the authenticity and 
 For example, the flagged TikTok accounts usually lack personal information. They use a TikTok assigned username with a string of numbers, and have no followers yet follow a high number of accounts.
 
 The public is also encouraged to rely on reputable sources for information and cross-check information we obtain against other credible sources.
+
+***
 
 For a small country like Singapore, our success is dependent on Singaporeans’ continued confidence in and support for our foreign policy, as well as Singapore’s continued resilience, unity and economic progress.[\[13\]](#_ftn13) Singaporeans need to be aware of possible attempts by foreign actors to influence our views and decisions. As the Internet and social media are prevalent, we need to become more discerning and vigilant when we come across news or comments about Singapore’s policies. Our politics and policies should only be for Singaporeans to decide and we must stand up for our own country’s interest.
 
