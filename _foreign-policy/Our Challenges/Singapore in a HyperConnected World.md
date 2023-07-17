@@ -51,9 +51,9 @@ Singapore media reported in March 2022 that anonymous TikTok accounts attempted 
 ![](/images/tiktok%20ru.png)
 Credit: Mothership TikTok.
 
-**Read more about Russia’s Invasion of Ukraine [here](https://www.sg101.gov.sg/resources/resource-packages/neinsights03022022):**
+**Read more about Russia’s Invasion of Ukraine [here](https://www.sg101.gov.sg/resources/resource-packages/neinsights03022022).**
 
-**Read more about Singapore’s Principled Stand on Russia’s Invasion of Ukraine [here](https://www.sg101.gov.sg/resources/resource-packages/sgprincipledstandonrussiasinvasionofukraine):**
+**Read more about Singapore’s Principled Stand on Russia’s Invasion of Ukraine [here](https://www.sg101.gov.sg/resources/resource-packages/sgprincipledstandonrussiasinvasionofukraine).**
 
 Watch Minister for Foreign Affairs Dr Vivian Balakrishnan's Ministerial Statement on Ukraine and its implications below: 
 
