@@ -56,20 +56,20 @@ By playing an active role on the regional and global stage, Singapore is able to
 
 [\[1\]](#_ftnref1) Ministry of Foreign Affairs. (2014) _The Practice of Foreign Policy for Sustained Growth – The Singapore Experience._ Transcript of speech by Emeritus Senior Minister Goh Chok Tong at S Rajaratnam Lecture on 17 October 2014. [https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2014/10/MFA-Press-Release-Transcript-of-speech-by-Emeritus-Senior-Minister-Goh-Chok-Tong-at-S-Rajaratnam-Lec](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2014/10/MFA-Press-Release-Transcript-of-speech-by-Emeritus-Senior-Minister-Goh-Chok-Tong-at-S-Rajaratnam-Lec)
 
-[\[2\]](#_ftnref2) Baharudin, H. (2022, September 23). Small states must participate actively to strengthen the multilateral system: PM Lee. _The Straits Times,_ [https://www.straitstimes.com/singapore/small-states-must-participate-actively-to-strengthen-the-multilateral-system-pm-lee](https://www.straitstimes.com/singapore/small-states-must-participate-actively-to-strengthen-the-multilateral-system-pm-lee)
+[\[2\]](#_ftnref2) Baharudin, H. (2022, September 23). Small states must participate actively to strengthen the multilateral system: PM Lee. *The Straits Times.* [https://www.straitstimes.com/singapore/small-states-must-participate-actively-to-strengthen-the-multilateral-system-pm-lee](https://www.straitstimes.com/singapore/small-states-must-participate-actively-to-strengthen-the-multilateral-system-pm-lee)
 
-[\[3\]](#_ftnref3) Ministry of Foreign Affairs. (n.d.) _Small States._ [https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/International-Issues/Small-States](https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/International-Issues/Small-States)
+[\[3\]](#_ftnref3) Ministry of Foreign Affairs. (n.d.) *Small States*. [https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/International-Issues/Small-States](https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/International-Issues/Small-States)
 
-[\[4\]](#_ftnref4) Ibid.
+[\[4\]](#_ftnref4) *Ibid.*
 
-[\[5\]](#_ftnref5) Ibid.
+[\[5\]](#_ftnref5) *Ibid.*
 
-[\[6\]](#_ftnref6) Ibid.
+[\[6\]](#_ftnref6) *Ibid.*
 
 [\[7\]](#_ftnref7) Ministry of Foreign Affairs. (n.d.) _ASEAN._ [https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/International-Organisations/ASEAN](https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/International-Organisations/ASEAN)
 
-[\[8\]](#_ftnref8) Ibid.
+[\[8\]](#_ftnref8) *Ibid.*
 
-[\[9\]](#_ftnref9) Ibid.
+[\[9\]](#_ftnref9) *Ibid.*
 
 [\[10\]](#_ftnref10) Public Service Division. (2015). Heart of Public Service. [https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/)
