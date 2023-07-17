@@ -7,7 +7,7 @@ description: ""
 
 **10 minutes read**
 
-*[Last updated on 14 July 2023]*
+*[Last updated on 17 July 2023]*
 
 ![](/images/rajaratnam%20un%20speech%201965a.jpeg)
 
