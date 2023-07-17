@@ -155,19 +155,20 @@ Local media reported in March 2022 that there were TikTok posts that aimed to in
 
 [\[4\]](#_ftnref4) United Nations. Charter, Article 2. [https://www.un.org/en/about-us/un-charter/chapter-1](https://www.un.org/en/about-us/un-charter/chapter-1)
 
-[\[5\]](#_ftnref5) Prime Minister’s Office. (2019). *Keynote address by Prime Minister Lee Hsien Loong at the International Institute for Strategic Studies (IISS) Shangri-La Dialogue Opening Dinner on 31 May 2019.*[https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-the-IISS-Shangri-La-Dialogue-2019](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-the-IISS-Shangri-La-Dialogue-2019)
+[\[5\]](#_ftnref5) Prime Minister’s Office. (2019). *Keynote address by Prime Minister Lee Hsien Loong at the International Institute for Strategic Studies (IISS) Shangri-La Dialogue Opening Dinner on 31 May 2019.* 
+[https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-the-IISS-Shangri-La-Dialogue-2019](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-the-IISS-Shangri-La-Dialogue-2019)
 
 [\[6\]](#_ftnref6) Hamid, M.E.A. &amp; Saparudin, K. (2014, August 7). MacDonald House bomb explosion. Singapore Infopedia. [https://eresources.nlb.gov.sg/infopedia/articles/SIP\_62\_2004-12-17.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_62_2004-12-17.html)
 
 [\[7\]](#_ftnref7) Lee Kuan Yew. (2014). From Third World to First: The Singapore Story: 1965 – 2000.
 
-[\[8\]](#_ftnref8) Ministry of Defence. (2014). R*eply by Minister for Defence Dr Ng Eng Hen to Parliamentary Question on the response to the Indonesian Navy’s naming of new warship on 18 February 2014. *[https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2014/february/2014feb18-Parliamentary-000087](https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2014/february/2014feb18-Parliamentary-000087)
+[\[8\]](#_ftnref8) Ministry of Defence. (2014). *Reply by Minister for Defence Dr Ng Eng Hen to Parliamentary Question on the response to the Indonesian Navy’s naming of new warship on 18 February 2014.*[https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2014/february/2014feb18-Parliamentary-000087](https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2014/february/2014feb18-Parliamentary-000087)
 
 [\[9\]](#_ftnref9) Chew, V. (2021, October). Michael Fay. Singapore Infopedia. [https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1554\_2009-08-06.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1554_2009-08-06.html)
 
 [\[10\]](#_ftnref10) Public Service Division. (2015). Heart of Public Service. [https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/)
 
-[\[11\]](#_ftnref11) Ministry of Foreign Affairs. (2014) *The Practice of Foreign Policy for Sustained Growth – The Singapore Experience. *Transcript of speech by Emeritus Senior Minister Goh Chok Tong at S Rajaratnam Lecture on 17 October 2014. [https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2014/10/MFA-Press-Release-Transcript-of-speech-by-Emeritus-Senior-Minister-Goh-Chok-Tong-at-S-Rajaratnam-Lec](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2014/10/MFA-Press-Release-Transcript-of-speech-by-Emeritus-Senior-Minister-Goh-Chok-Tong-at-S-Rajaratnam-Lec)
+[\[11\]](#_ftnref11) Ministry of Foreign Affairs. (2014) *The Practice of Foreign Policy for Sustained Growth – The Singapore Experience.* Transcript of speech by Emeritus Senior Minister Goh Chok Tong at S Rajaratnam Lecture on 17 October 2014. [https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2014/10/MFA-Press-Release-Transcript-of-speech-by-Emeritus-Senior-Minister-Goh-Chok-Tong-at-S-Rajaratnam-Lec](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2014/10/MFA-Press-Release-Transcript-of-speech-by-Emeritus-Senior-Minister-Goh-Chok-Tong-at-S-Rajaratnam-Lec)
 
 [\[12\]](#_ftnref12) Chew, V. (2021, October). Michael Fay. Singapore Infopedia. [https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1554\_2009-08-06.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1554_2009-08-06.html)
 
@@ -179,7 +180,7 @@ Local media reported in March 2022 that there were TikTok posts that aimed to in
 
 [\[16\]](#_ftnref16) Public Service Division. (2015). Heart of Public Service. [https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/)
 
-[\[17\]](#_ftnref17) Ministry of Foreign Affairs. (2011).*Speech by former Deputy Prime Minister Mr Wong Kan Seng at the S Rajaratnam Lecture at Shangri-La Dialogue on 23 November 2011.*
+[\[17\]](#_ftnref17) Ministry of Foreign Affairs. (2011).* Speech by former Deputy Prime Minister Mr Wong Kan Seng at the S Rajaratnam Lecture at Shangri-La Dialogue on 23 November 2011.*
 
 [https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2011/11/Speech-by-Former-Deputy-Prime-Minister-Wong-Kan-Seng-at-the-S-Rajaratnam-Lecture-at-Shangri-La-Hote](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2011/11/Speech-by-Former-Deputy-Prime-Minister-Wong-Kan-Seng-at-the-S-Rajaratnam-Lecture-at-Shangri-La-Hote)
 
