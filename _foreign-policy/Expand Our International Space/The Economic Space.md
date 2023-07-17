@@ -41,9 +41,7 @@ Goh Chok Tong’s midnight golf game with US President Bill Clinton in 2000: The
 
 **Click here to learn more about [[how Singapore seized the opportunity to seal the USSFTA deal](https://www.sg101.gov.sg/economy/digging-deeper-case-studies/sgusfta).**
 
-**Learn more about Singapore’s economic strategies between 1986 and 1996:**
-
-[_https://www.sg101.gov.sg/economy/growing-our-economy/1986/_](https://www.sg101.gov.sg/economy/growing-our-economy/1986/)
+**Click here to learn more about [Singapore's economic strategies between 1986 and 1996](https://www.sg101.gov.sg/economy/growing-our-economy/1986/).**
 
 **Learn more about the caning of Michael Fay:**
 
