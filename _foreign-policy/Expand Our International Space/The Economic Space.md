@@ -42,9 +42,7 @@ Goh Chok Tong’s midnight golf game with US President Bill Clinton in 2000: The
 
 **Click here to learn more about [Singapore's economic strategies between 1986 and 1996](https://www.sg101.gov.sg/economy/growing-our-economy/1986/).**
 
-**Learn more about the caning of Michael Fay:**
-
-(insert link here)
+**Click here to learn more about [the caning of Michael Fay](https://www.sg101.gov.sg/foreign-policy/safeguardingoursovereigntyandnationalinterests/).**
 
 * * *
 
