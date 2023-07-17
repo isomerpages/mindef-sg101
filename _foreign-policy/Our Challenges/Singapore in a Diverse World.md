@@ -44,7 +44,7 @@ Against this backdrop, it was important for Singapore to gain recognition for it
 
 In his statement upon Singapore’s admission to the UN, then-Minister for Foreign Affairs Mr S Rajaratnam outlined guiding principles of Singapore’s foreign policy which are still relevant today.[\[3\]](#_ftn3)
 
-**Learn more about Singapore’s admission into the UN and Mr Rajaratnam’s speech on 21 September 1965 below:**
+**Watch MFA's video below to learn more about Singapore’s admission into the UN and Mr Rajaratnam’s speech on 21 September 1965:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tXVyZrdT-T8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
