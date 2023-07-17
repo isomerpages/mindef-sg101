@@ -9,9 +9,9 @@ description: ""
 
 *[Last updated on 14 July 2023]*
 
-As a small island-nation surrounded by large neighbours in a culturally diverse region, Singapore aims to make as many friends as we can while insisting that we be treated as a sovereign equal, where our national interests are not subservient to others.
-
 ![](/images/rajaratnam%20un%20speech%201965a.jpeg)
+
+As a small island-nation surrounded by large neighbours in a culturally diverse region, Singapore aims to make as many friends as we can while insisting that we be treated as a sovereign equal, where our national interests are not subservient to others.
 
 In the pursuit of our national interests, we will also have to be mindful of the national interests of our partners and friends, and work together to find solutions to global challenges, because no country, large or small, can succeed on its own.[\[1\]](#_ftn1) However, there will also be times when our interests on issues diverge, including with bigger powers.
 
@@ -24,9 +24,12 @@ Ultimately, our foreign policy serves to safeguard Singapore’s national intere
 The multilateral system is governed by the international rule of law and norms, including those under the United Nations Charter. This allows states to interact and cooperate with one another on an equal footing, regardless of size.[\[3\]](#_ftn3) Under this system, all countries have sovereign equality and disputes can be settled peacefully in accordance with international law. Respect for international law will bring about global peace and stability.
 
 ***
+
 **The International Rule of Law**
 
 Singapore is a staunch supporter of international law and the principles enshrined in the United Nations Charter. Member countries must abide by the purposes and principles of the United Nations. This includes upholding the sovereign equality of states; respecting their territorial integrity and political independence; and upholding the resolution of disputes by peaceful means.[\[4\]](#_ftn4)
+
+
 ***
 
 ![](/images/vivian%20balakrishnan%20speech%20unga%202018.png)
@@ -36,7 +39,8 @@ Within the region, we need to continue to build strong relationships and deepen 
 Beyond the region, we will continue to build a strong network of like-minded international partners, and be a responsible and constructive global player by supporting and actively participating in international organisations such as the United Nations.
 
 ***
-**Examples and Case Studies Related to Upholding Our Sovereignty**
+
+#### Examples and Case Studies Related to Upholding Our Sovereignty
 
 **MacDonald House Bombing**
 
@@ -55,7 +59,7 @@ Singapore embassy in Jakarta sacked. (1968, October 18). _The Straits Times_, p.
 
 During then-Prime Minister Mr Lee Kuan Yew’s first visit to Indonesia in May 1973, he scattered flower petals on the graves of the two marines. Mr Lee’s gesture of goodwill provided some closure to the matter and relations between the two countries improved thereafter.[\[7\]](#_ftn7)
 
-**Read more about *Konfrontasi* [here](https://www.sg101.gov.sg/defence-and-security/challenges/the-early-tumultuous-years).**
+**Read more about *Konfrontasi*  [here](https://www.sg101.gov.sg/defence-and-security/challenges/the-early-tumultuous-years).**
 
 Watch our video on *Konfrontasi* below:
 
@@ -80,7 +84,7 @@ Nonetheless, Singapore’s principled stand on the matter was widely supported b
 
 ***
 
-**Examples and Case Studies Related to Upholding the International Rule of Law**
+#### Examples and Case Studies Related to Upholding the International Rule of Law
 
 **Singapore’s Position on Vietnam’s Invasion of Cambodia**
 
