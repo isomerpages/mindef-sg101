@@ -60,7 +60,7 @@ By playing an active role on the regional and global stage, Singapore is able to
 
 [\[4\]](#_ftnref4) Ibid.
 
-[\[5\]](#_ftnref5) _bid.
+[\[5\]](#_ftnref5) Ibid.
 
 [\[6\]](#_ftnref6) Ibid.
 
