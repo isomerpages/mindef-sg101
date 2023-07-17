@@ -74,7 +74,8 @@ Going forward, Singapore will continue to be “buffeted by intense rivalry and 
 
 [\[2\]](#_ftnref2) Public Service Division. (2015). Heart of Public Service. [https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/)
 
-[\[3\]](#_ftnref3) National Archives of Singapore. (1965). _Statement of His Excellency Mr S Rajaratnam Foreign Minister of Singapore at the General Assembly on September 21, 1965, on the occasion of Singapore’s admission to the United Nations._ [https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf](https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf)
+[\[3\]](#_ftnref3) National Archives of Singapore. (1965). *Statement of His Excellency Mr S Rajaratnam Foreign Minister of Singapore at the General Assembly on September 21, 1965, on the occasion of Singapore’s admission to the United Nations.*
+[https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf](https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf)
 
 [\[4\]](#_ftnref4) Public Service Division. (2015). Heart of Public Service. [https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/)
 
@@ -82,9 +83,10 @@ Going forward, Singapore will continue to be “buffeted by intense rivalry and 
 
 [\[6\]](#_ftnref6) Public Service Division. (2015). Heart of Public Service. [https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/)
 
-[\[7\]](#_ftnref7) Baharudin, H. (2022, August 21). NDR 2022: Singapore must be ready for sudden shifts in region: PM Lee. _The Straits Times._ [https://www.straitstimes.com/singapore/politics/ndr-2022-better-get-real-and-be-prepared-should-things-go-wrong-in-the-region-says-pm-lee](https://www.straitstimes.com/singapore/politics/ndr-2022-better-get-real-and-be-prepared-should-things-go-wrong-in-the-region-says-pm-lee)
+[\[7\]](#_ftnref7) Baharudin, H. (2022, August 21). NDR 2022: Singapore must be ready for sudden shifts in region: PM Lee. *The Straits Times.*
+[https://www.straitstimes.com/singapore/politics/ndr-2022-better-get-real-and-be-prepared-should-things-go-wrong-in-the-region-says-pm-lee](https://www.straitstimes.com/singapore/politics/ndr-2022-better-get-real-and-be-prepared-should-things-go-wrong-in-the-region-says-pm-lee)
 
-[\[8\]](#_ftnref8) Baharudin, H. (2022, August 26). Cohesion, trust key for S’pore to succeed amid more uncertain geopolitics: Vivian Balakrishnan. The Straits Times. [https://www.straitstimes.com/singapore/politics/cohesion-and-trust-are-key-for-singapore-to-succeed-amid-more-uncertain-geopolitics-says-vivian](https://www.straitstimes.com/singapore/politics/cohesion-and-trust-are-key-for-singapore-to-succeed-amid-more-uncertain-geopolitics-says-vivian)
+[\[8\]](#_ftnref8) Baharudin, H. (2022, August 26). Cohesion, trust key for S’pore to succeed amid more uncertain geopolitics: Vivian Balakrishnan. *The Straits Times.* [https://www.straitstimes.com/singapore/politics/cohesion-and-trust-are-key-for-singapore-to-succeed-amid-more-uncertain-geopolitics-says-vivian](https://www.straitstimes.com/singapore/politics/cohesion-and-trust-are-key-for-singapore-to-succeed-amid-more-uncertain-geopolitics-says-vivian)
 
 [\[9\]](#_ftnref9) Baharudin, H. (2022, August 21). NDR 2022: Singapore must be ready for sudden shifts in region: PM Lee. The Straits Times. [https://www.straitstimes.com/singapore/politics/ndr-2022-better-get-real-and-be-prepared-should-things-go-wrong-in-the-region-says-pm-lee](https://www.straitstimes.com/singapore/politics/ndr-2022-better-get-real-and-be-prepared-should-things-go-wrong-in-the-region-says-pm-lee)
 
