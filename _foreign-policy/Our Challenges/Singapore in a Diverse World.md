@@ -35,6 +35,7 @@ Watch our video on *Konfrontasi* below:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P9_l4Vp1wLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
+
 ![](/images/headlines%20for%20racial%20riots%201964.png)
 Appeal for calm: S’pore curfew after clashes. (1964, July 22). The Straits Times, p. 1. Retrieved from NewspaperSG.
 
@@ -77,18 +78,18 @@ Going forward, Singapore will continue to be “buffeted by intense rivalry and 
 
 [\[4\]](#_ftnref4) Public Service Division. (2015). Heart of Public Service. [https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/)
 
-[\[5\]](#_ftnref5) Prime Minister’s Office. (2015). _PM Lee Hsien Loong at the 8th S Rajaratnam Lecture_. [https://www.pmo.gov.sg/Newsroom/pm-lee-hsien-loong-8th-s-rajaratnam-lecture-27-november-2015](https://www.pmo.gov.sg/Newsroom/pm-lee-hsien-loong-8th-s-rajaratnam-lecture-27-november-2015)
+[\[5\]](#_ftnref5) Prime Minister’s Office. (2015). PM Lee Hsien Loong at the 8th S Rajaratnam Lecture. [https://www.pmo.gov.sg/Newsroom/pm-lee-hsien-loong-8th-s-rajaratnam-lecture-27-november-2015](https://www.pmo.gov.sg/Newsroom/pm-lee-hsien-loong-8th-s-rajaratnam-lecture-27-november-2015)
 
 [\[6\]](#_ftnref6) Public Service Division. (2015). Heart of Public Service. [https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/)
 
 [\[7\]](#_ftnref7) Baharudin, H. (2022, August 21). NDR 2022: Singapore must be ready for sudden shifts in region: PM Lee. _The Straits Times._ [https://www.straitstimes.com/singapore/politics/ndr-2022-better-get-real-and-be-prepared-should-things-go-wrong-in-the-region-says-pm-lee](https://www.straitstimes.com/singapore/politics/ndr-2022-better-get-real-and-be-prepared-should-things-go-wrong-in-the-region-says-pm-lee)
 
-[\[8\]](#_ftnref8) Baharudin, H. (2022, August 26). Cohesion, trust key for S’pore to succeed amid more uncertain geopolitics: Vivian Balakrishnan. _The Straits Times._ [https://www.straitstimes.com/singapore/politics/cohesion-and-trust-are-key-for-singapore-to-succeed-amid-more-uncertain-geopolitics-says-vivian](https://www.straitstimes.com/singapore/politics/cohesion-and-trust-are-key-for-singapore-to-succeed-amid-more-uncertain-geopolitics-says-vivian)
+[\[8\]](#_ftnref8) Baharudin, H. (2022, August 26). Cohesion, trust key for S’pore to succeed amid more uncertain geopolitics: Vivian Balakrishnan. The Straits Times. [https://www.straitstimes.com/singapore/politics/cohesion-and-trust-are-key-for-singapore-to-succeed-amid-more-uncertain-geopolitics-says-vivian](https://www.straitstimes.com/singapore/politics/cohesion-and-trust-are-key-for-singapore-to-succeed-amid-more-uncertain-geopolitics-says-vivian)
 
-[\[9\]](#_ftnref9) Baharudin, H. (2022, August 21). NDR 2022: Singapore must be ready for sudden shifts in region: PM Lee. _The Straits Times._ [https://www.straitstimes.com/singapore/politics/ndr-2022-better-get-real-and-be-prepared-should-things-go-wrong-in-the-region-says-pm-lee](https://www.straitstimes.com/singapore/politics/ndr-2022-better-get-real-and-be-prepared-should-things-go-wrong-in-the-region-says-pm-lee)
+[\[9\]](#_ftnref9) Baharudin, H. (2022, August 21). NDR 2022: Singapore must be ready for sudden shifts in region: PM Lee. The Straits Times. [https://www.straitstimes.com/singapore/politics/ndr-2022-better-get-real-and-be-prepared-should-things-go-wrong-in-the-region-says-pm-lee](https://www.straitstimes.com/singapore/politics/ndr-2022-better-get-real-and-be-prepared-should-things-go-wrong-in-the-region-says-pm-lee)
 
-[\[10\]](#_ftnref10) Ministry of Foreign Affairs. (2022). _Minister for Foreign Affairs Dr Vivian Balakrishnan’s Ministerial Statement on the situation in Ukraine and its implications, 28 February 2022._ [https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/02/20220228-Ministerial-Statement](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/02/20220228-Ministerial-Statement)
+[\[10\]](#_ftnref10) Ministry of Foreign Affairs. (2022). Minister for Foreign Affairs Dr Vivian Balakrishnan’s Ministerial Statement on the situation in Ukraine and its implications, 28 February 2022. [https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/02/20220228-Ministerial-Statement](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/02/20220228-Ministerial-Statement)
 
-[\[11\]](#_ftnref11) Prime Minister’s Office. (2022). _Prime Minister Lee Hsien Loong’s 2022_ _National Day Message on 8 August 2022._ [https://www.pmo.gov.sg/Newsroom/National-Day-Message-2022](https://www.pmo.gov.sg/Newsroom/National-Day-Message-2022)
+[\[11\]](#_ftnref11) Prime Minister’s Office. (2022). Prime Minister Lee Hsien Loong’s 2022_ _National Day Message on 8 August 2022 [https://www.pmo.gov.sg/Newsroom/National-Day-Message-2022](https://www.pmo.gov.sg/Newsroom/National-Day-Message-2022)
 
-[\[12\]](#_ftnref12) Ministry of Foreign Affairs. (2017). _Speech by Dr Tony Tan Keng Yam, Former President of Singapore, at the 10th S Rajaratnam Lecture on Tuesday, 28 November 2017._ [https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat)
+[\[12\]](#_ftnref12) Ministry of Foreign Affairs. (2017). Speech by Dr Tony Tan Keng Yam, Former President of Singapore, at the 10th S Rajaratnam Lecture on Tuesday, 28 November 2017. [https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat)
