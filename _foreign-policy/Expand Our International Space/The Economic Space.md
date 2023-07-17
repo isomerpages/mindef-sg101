@@ -28,6 +28,7 @@ Watch the video below by Institute of Policy Studies (IPS) - Singapore Perspecti
 
 Over the years, we have built a secure, transparent and business-friendly environment, based on good governance and effective economic management, for international companies to operate in. We also strive to discern future trends and position ourselves such that we are able to grasp opportunities ahead of others. [\[3\]](#_ftn3) For a small country like Singapore, we must remain nimble and seize opportunities quickly, just like what we did when Singapore sealed the USSFTA over a game of golf.
 
+***
 **Example: United States – Singapore Free Trade Agreement (USSFTA) – Sealed Over a Game of Golf**
 
 As a small, open economy, Singapore relies on free trade and open markets. We support multilateral systems which promote a stable and predictable and predictable international trading environment such as the World Trade Organisation (WTO). We also continue to work with like-minded partners to build a broader and deeper scope of cooperation.
@@ -36,11 +37,9 @@ As explained by Ambassador-at-large Dr Tommy Koh in 2019, our FTAs help us to �
 
 In the late 1990s, our economy was struggling after the Asian Financial Crisis and multilateral global deals at the WTO were stalled. Faced with dim prospects, we decided to chart our own economic future by pushing for FTAs with our main trading partners, such as the United States (US). Despite a downturn in our bilateral relations arising from the sentencing of American teenager Michael Fay, then-Prime Minister Mr Goh Chok Tong sealed the USSFTA deal with then-US President Mr Bill Clinton, over a game of golf.
 
-Goh Chok Tong’s midnight golf game with US President Bill Clinton in 2000: The untold story. (2014, October 20). _The Straits Times_.
+Goh Chok Tong’s midnight golf game with US President Bill Clinton in 2000: The untold story. (2014, October 20). The Straits Times.
 
-**Learn more about how Singapore seized the opportunity to seal the USSFTA deal:**
-
-[https://www.sg101.gov.sg/economy/digging-deeper-case-studies/sgusfta](https://www.sg101.gov.sg/economy/digging-deeper-case-studies/sgusfta)
+**Click here to learn more about [[how Singapore seized the opportunity to seal the USSFTA deal](https://www.sg101.gov.sg/economy/digging-deeper-case-studies/sgusfta).**
 
 **Learn more about Singapore’s economic strategies between 1986 and 1996:**
 
@@ -48,9 +47,7 @@ Goh Chok Tong’s midnight golf game with US President Bill Clinton in 2000: The
 
 **Learn more about the caning of Michael Fay:**
 
-__
-
-  
+(insert link here)
 
 * * *
 
