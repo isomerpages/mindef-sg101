@@ -48,17 +48,13 @@ In the late 1990s, our economy was struggling after the Asian Financial Crisis a
 ![](/images/bill%20clinton.jpg)
 Goh Chok Tong’s midnight golf game with US President Bill Clinton in 2000: The untold story. (2014, October 20). The Straits Times.
 
-**Learn more about how Singapore seized the opportunity to seal the USSFTA deal:**
+**Click here to read more about [how Singapore seized the opportunity to seal the USSFTA deal](https://www.sg101.gov.sg/economy/digging-deeper-case-studies/sgusfta).**
 
-[https://www.sg101.gov.sg/economy/digging-deeper-case-studies/sgusfta](https://www.sg101.gov.sg/economy/digging-deeper-case-studies/sgusfta)
-
-**Learn more about Singapore’s economic strategies between 1986 and 1996:**
-
-[_https://www.sg101.gov.sg/economy/growing-our-economy/1986/_](https://www.sg101.gov.sg/economy/growing-our-economy/1986/)
+**Click here to learn more about [Singapore's economic strategies between 1986 and 1996](https://www.sg101.gov.sg/economy/growing-our-economy/1986/).**
 
 **Learn more about the caning of Michael Fay:**
 
-__
+(insert link here)
 
 **The Geopolitical Space**
 
