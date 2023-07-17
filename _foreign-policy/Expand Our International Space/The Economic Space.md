@@ -35,6 +35,7 @@ As explained by Ambassador-at-large Dr Tommy Koh in 2019, our FTAs help us to â€
 
 In the late 1990s, our economy was struggling after the Asian Financial Crisis and multilateral global deals at the WTO were stalled. Faced with dim prospects, we decided to chart our own economic future by pushing for FTAs with our main trading partners, such as the United States (US). Despite a downturn in our bilateral relations arising from the sentencing of American teenager Michael Fay, then-Prime Minister Mr Goh Chok Tong sealed the USSFTA deal with then-US President Mr Bill Clinton, over a game of golf.
 
+![](/images/bill%20clinton.jpg)
 Goh Chok Tongâ€™s midnight golf game with US President Bill Clinton in 2000: The untold story. (2014, October 20). The Straits Times.
 
 **Click here to learn more about [[how Singapore seized the opportunity to seal the USSFTA deal](https://www.sg101.gov.sg/economy/digging-deeper-case-studies/sgusfta).**
