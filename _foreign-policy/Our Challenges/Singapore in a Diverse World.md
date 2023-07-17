@@ -6,9 +6,9 @@ third_nav_title: Our Challenges
 ---
 [This page is being updated.]
 
-**4 minutes read**
+4 minutes read
 
-*[Last updated on 13 July 2023]*
+[Last updated on 17 July 2023]
 
 ![](/images/s%20rajaratnam%20speech%2030%20july%201966a.png)
 
