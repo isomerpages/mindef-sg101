@@ -54,7 +54,7 @@ By playing an active role on the regional and global stage, Singapore is able to
 * * *
 #### Bibliography
 
-[\[1\]](#_ftnref1) Ministry of Foreign Affairs. (2014) _The Practice of Foreign Policy for Sustained Growth – The Singapore Experience._ Transcript of speech by Emeritus Senior Minister Goh Chok Tong at S Rajaratnam Lecture on 17 October 2014. [https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2014/10/MFA-Press-Release-Transcript-of-speech-by-Emeritus-Senior-Minister-Goh-Chok-Tong-at-S-Rajaratnam-Lec](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2014/10/MFA-Press-Release-Transcript-of-speech-by-Emeritus-Senior-Minister-Goh-Chok-Tong-at-S-Rajaratnam-Lec)
+[\[1\]](#_ftnref1) Ministry of Foreign Affairs. (2014) *The Practice of Foreign Policy for Sustained Growth – The Singapore Experience.* Transcript of speech by Emeritus Senior Minister Goh Chok Tong at S Rajaratnam Lecture on 17 October 2014. [https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2014/10/MFA-Press-Release-Transcript-of-speech-by-Emeritus-Senior-Minister-Goh-Chok-Tong-at-S-Rajaratnam-Lec](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2014/10/MFA-Press-Release-Transcript-of-speech-by-Emeritus-Senior-Minister-Goh-Chok-Tong-at-S-Rajaratnam-Lec)
 
 [\[2\]](#_ftnref2) Baharudin, H. (2022, September 23). Small states must participate actively to strengthen the multilateral system: PM Lee. *The Straits Times.* [https://www.straitstimes.com/singapore/small-states-must-participate-actively-to-strengthen-the-multilateral-system-pm-lee](https://www.straitstimes.com/singapore/small-states-must-participate-actively-to-strengthen-the-multilateral-system-pm-lee)
 
