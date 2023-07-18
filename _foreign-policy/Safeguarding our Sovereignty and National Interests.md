@@ -139,7 +139,7 @@ While our measures will come at some cost and may have implications on our busin
 
 Local media reported in March 2022 that there were TikTok posts that aimed to influence Singaporeans’ views of Singapore’s principled stand on Russia’s invasion of Ukraine. As our society becomes more globalised, we will receive information from a wide range of sources. Singaporeans need to understand our long-term national interests and make well-informed decisions.
 
-**Learn more about social media activity aimed to sway Singaporeans’ views on the Russia-Ukraine conflict  [here](https://www.sg101.gov.sg/foreign-policy/our-challenges/singaporeinahyperconnectedworld/).
+**Learn more about social media activity aimed to sway Singaporeans’ views on the Russia-Ukraine conflict [here](https://www.sg101.gov.sg/foreign-policy/our-challenges/singaporeinahyperconnectedworld/).**
 
 
 * * *
