@@ -4,11 +4,9 @@ permalink: /foreign-policy/expand-our-international-space/economicspace/
 description: ""
 third_nav_title: Expand Our International Space
 ---
-[This page is being updated.]
+3 minutes read 
 
-**3 minutes read**
-
-*[Last updated on 17 July 2023]*
+[Last updated on 17 July 2023]
 
 ![](/images/lky%20speech%202009.png)
 
@@ -38,7 +36,7 @@ In the late 1990s, our economy was struggling after the Asian Financial Crisis a
 ![](/images/bill%20clinton.jpg)
 Goh Chok Tong’s midnight golf game with US President Bill Clinton in 2000: The untold story. (2014, October 20). The Straits Times.
 
-**Click here to learn more about [[how Singapore seized the opportunity to seal the USSFTA deal](https://www.sg101.gov.sg/economy/digging-deeper-case-studies/sgusfta).**
+**Click here to learn more about [how Singapore seized the opportunity to seal the USSFTA deal](https://www.sg101.gov.sg/economy/digging-deeper-case-studies/sgusfta).**
 
 **Click here to learn more about [Singapore's economic strategies between 1986 and 1996](https://www.sg101.gov.sg/economy/growing-our-economy/1986/).**
 
@@ -48,10 +46,10 @@ Goh Chok Tong’s midnight golf game with US President Bill Clinton in 2000: The
 
 #### Bibliography
 
-[\[1\]](#_ftnref1) Prime Minister’s Office. (2009). _The Fundamentals of Singapore’s Foreign Policy: Then and Now._ Speech by Mr Lee Kuan Yew, Minister Mentor, at the S Rajaratnam Lecture, 9 April 2009, at the Shangri-La Hotel. [https://www.pmo.gov.sg/Newsroom/speech-mr-lee-kuan-yew-minister-mentor-s-rajaratnam-lecture-09-april-2009-530-pm-shangri](https://www.pmo.gov.sg/Newsroom/speech-mr-lee-kuan-yew-minister-mentor-s-rajaratnam-lecture-09-april-2009-530-pm-shangri)
+[\[1\]](#_ftnref1) Prime Minister’s Office. (2009). *The Fundamentals of Singapore’s Foreign Policy: Then and Now.* Speech by Mr Lee Kuan Yew, Minister Mentor, at the S Rajaratnam Lecture, 9 April 2009, at the Shangri-La Hotel. [https://www.pmo.gov.sg/Newsroom/speech-mr-lee-kuan-yew-minister-mentor-s-rajaratnam-lecture-09-april-2009-530-pm-shangri](https://www.pmo.gov.sg/Newsroom/speech-mr-lee-kuan-yew-minister-mentor-s-rajaratnam-lecture-09-april-2009-530-pm-shangri)
 
-[\[2\]](#_ftnref2) Ibid.
+[\[2\]](#_ftnref2) *Ibid.*
 
-[\[3\]](#_ftnref3) Ibid.
+[\[3\]](#_ftnref3) *Ibid.*
 
-[\[4\]](#_ftnref4) Koh, T. (2019, November 2019). Free trade agreements and Singapore. The Straits Times. [https://www.straitstimes.com/opinion/free-trade-agreements-and-singapore](https://www.straitstimes.com/opinion/free-trade-agreements-and-singapore)
+[\[4\]](#_ftnref4) Koh, T. (2019, November 2019). Free trade agreements and Singapore. *The Straits Times.* [https://www.straitstimes.com/opinion/free-trade-agreements-and-singapore](https://www.straitstimes.com/opinion/free-trade-agreements-and-singapore)
