@@ -56,7 +56,7 @@ As unresolved disputes and potential flashpoints remain, Singapore could face gr
 
 The Russia-Ukraine conflict, which has evolved into a proxy war between the US-led West and Russia, also has profound implications for the world and Singapore. The war has spillover effects on regional security in the Asia-Pacific, and has further strained China’s ties with the US and its partners in Asia.[\[9\]](#_ftn9)
 
-**Learn more about Russia's invasion of Ukraine here:**
+**Learn more about Russia's invasion of Ukraine [here](https://www.sg101.gov.sg/resources/resource-packages/neinsights03022022).**
 
 Russia’s attack on Ukraine has violated international law, and the fundamental principles of sovereignty and territorial integrity as well as the peaceful resolution of disputes under the United Nations Charter. Such principles are existential for us because they are the very foundation for Singapore’s independence and sovereignty. As a small country, we must stand up for these principles or our own right to exist and prosper as a nation may someday be called into question.[\[10\]](#_ftn10)
 
