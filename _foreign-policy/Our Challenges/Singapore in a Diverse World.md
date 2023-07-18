@@ -22,7 +22,7 @@ Singapore in the 1950s and 1960s was a turbulent society. There were unrests ini
 
 **Learn more about Singapore's defence and security challenges in the 1950s** [here](https://www.sg101.gov.sg/defence-and-security/challenges/the-early-tumultuous-years).
 
-Watch our video on *Konfrontasi* below:
+**Watch our video on *Konfrontasi* below:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m5HNGgfz8i8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
