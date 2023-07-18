@@ -4,11 +4,9 @@ permalink: /foreign-policy/expand-our-international-space/economicspace/
 description: ""
 third_nav_title: Expand Our International Space
 ---
-[This page is being updated.]
-
 3 minutes read 
 
-[Last updated on 17 July 2023]*
+[Last updated on 17 July 2023]
 
 ![](/images/lky%20speech%202009.png)
 
