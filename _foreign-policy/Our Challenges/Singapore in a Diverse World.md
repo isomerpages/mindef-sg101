@@ -4,8 +4,6 @@ permalink: /foreign-policy/our-challenges/singaporeinadiverseworld/
 description: ""
 third_nav_title: Our Challenges
 ---
-[This page is being updated.]
-
 4 minutes read
 
 [Last updated on 17 July 2023]
