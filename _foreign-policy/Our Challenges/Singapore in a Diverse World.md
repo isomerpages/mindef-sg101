@@ -22,7 +22,7 @@ Singapore in the 1950s and 1960s was a turbulent society. There were unrests ini
 
 **Learn more about Singapore's defence and security challenges in the 1950s** [here](https://www.sg101.gov.sg/defence-and-security/challenges/the-early-tumultuous-years).
 
-Watch our video on *Konfrontasi* below:
+**Watch our video on *Konfrontasi* below:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m5HNGgfz8i8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
@@ -56,7 +56,7 @@ As unresolved disputes and potential flashpoints remain, Singapore could face gr
 
 The Russia-Ukraine conflict, which has evolved into a proxy war between the US-led West and Russia, also has profound implications for the world and Singapore. The war has spillover effects on regional security in the Asia-Pacific, and has further strained China’s ties with the US and its partners in Asia.[\[9\]](#_ftn9)
 
-**Learn more about Russia's invasion of Ukraine here:**
+**Learn more about Russia's invasion of Ukraine [here](https://www.sg101.gov.sg/resources/resource-packages/neinsights03022022).**
 
 Russia’s attack on Ukraine has violated international law, and the fundamental principles of sovereignty and territorial integrity as well as the peaceful resolution of disputes under the United Nations Charter. Such principles are existential for us because they are the very foundation for Singapore’s independence and sovereignty. As a small country, we must stand up for these principles or our own right to exist and prosper as a nation may someday be called into question.[\[10\]](#_ftn10)
 
@@ -68,12 +68,12 @@ Going forward, Singapore will continue to be “buffeted by intense rivalry and 
 * * *
 #### Bibliography
 
-[\[1\]](#_ftnref1) National Archives of Singapore. (1965). Statement of His Excellency Mr S Rajaratnam Foreign Minister of Singapore at the General Assembly on September 21, 1965, on the occasion of Singapore's admission to the United Nations. [https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf](https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf)
 
-[\[2\]](#_ftnref2) Public Service Division. (2015). Heart of Public Service. [https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/)
+[\[1\]](#_ftnref1) National Archives of Singapore. (1965). <a target="blank" href="https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf">Statement of His Excellency Mr S Rajaratnam Foreign Minister of Singapore at the General Assembly on September 21, 1965, on the occasion of Singapore's admission to the United Nations</a>.
 
-[\[3\]](#_ftnref3) National Archives of Singapore. (1965). *Statement of His Excellency Mr S Rajaratnam Foreign Minister of Singapore at the General Assembly on September 21, 1965, on the occasion of Singapore’s admission to the United Nations.*
-[https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf](https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf)
+[\[2\]](#_ftnref2) Public Service Division. (2015). <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>.
+
+[\[3\]](#_ftnref3) National Archives of Singapore. (1965). *Statement of His Excellency Mr S Rajaratnam Foreign Minister of Singapore at the General Assembly on September 21, 1965, on the occasion of Singapore’s admission to the United Nations.* <a target="blank" href="https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf">NAS</a>.
 
 [\[4\]](#_ftnref4) Public Service Division. (2015). Heart of Public Service. [https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/)
 

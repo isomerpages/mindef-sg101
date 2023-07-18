@@ -30,6 +30,7 @@ Watch MFA's video on Voices of FOSS below to find out what other countries have 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RBwd_Q1HBeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
+
 ***
 **The Global Governance Group (3G)**
 
