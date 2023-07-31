@@ -6,8 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-Every year on 9 August, we celebrate National Day and how far we've come since independence. It is also a day where we come together in a spirit of joy, unity and confidence to pledge how we, as Singaporeans, will continue to build a stronger Singapore.
+🇸🇬 On 9 August, regardless of race, language, or religion, Singaporeans come together to celebrate our independence and pledge our unity as one people. As we reflect on the country we have built, we should also consider how we can work towards a better Singapore for ourselves, our loved ones, and fellow Singaporeans. 
 
-You are encouraged to use the package to commemorate National Day and to discuss how we can continue to play a part in Singapore's future. Please download the package using the link below.
+📌 You are encouraged to use the package to commemorate National Day, celebrate how far we have come as a nation, and discuss how we can continue to play a part in Singapore's future. Please download the package using the link below.
 
 Download: [National Day 2023 NE Engagement Package](/files/folio%201%20-%20national%20day%20package%202023_final%20(for%20external).pdf)
