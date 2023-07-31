@@ -28,6 +28,15 @@ sections:
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
   - infopic:
+      title: Onward as One - National Day 2023 NE Engagement Package
+      subtitle: Resources
+      description: Use the National Day 2023 NE Package to commemorate National Day
+        and discuss how we can continue to play a part in Singapore's future.
+      button: Read more
+      url: /resources/resource-packages/nationalday2023package/
+      image: /images/national day 2023 ne engagement package cover.png
+      alt: Image alt text
+  - infopic:
       title: Strengthening Racial Harmony - NE Package 2023
       subtitle: Resources
       description: Use the Racial Harmony 2023 NE Package as you prepare to discuss
