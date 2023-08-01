@@ -46,14 +46,14 @@ sections:
       image: /images/rhd 2023.png
       alt: Image alt text
   - infopic:
-      title: News in Focus 05 2023
+      title: News in Focus 06 2023
       subtitle: News in Focus/ Resources
-      description: "In this issue: (1) Nikkei Forum 28th Future of Asia; (2) 42nd
-        ASEAN Summit; (3) Youths can Co-develop Policies with Government; and
-        (4) NDP2023 Theme and Logo."
+      description: "In this issue: (1) Highlights from SLD; (2) Good Governance is
+        Important; (3) Everyone Has a Part in Our Defence; (4) Strengthening
+        Racial and Religious Harmony"
       button: Read More
       url: https://www.sg101.gov.sg/resources/news-in-focus/nif0523/
-      image: /images/nif 05-2023.png
+      image: /images/nif 06_2023.png
       alt: Image alt text
   - resources:
       title: Latest Resources
