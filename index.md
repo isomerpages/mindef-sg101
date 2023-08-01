@@ -34,7 +34,7 @@ sections:
         Important; (3) Everyone Has a Part in Our Defence; (4) Strengthening
         Racial and Religious Harmony"
       button: Read More
-      url: https://www.sg101.gov.sg/resources/news-in-focus/nif0523/
+      url: https://www.sg101.gov.sg//resources/news-in-focus/06-2023/
       image: /images/nif 06_20231.png
       alt: Image alt text
   - infopic:
