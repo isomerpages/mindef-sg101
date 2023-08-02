@@ -17,3 +17,5 @@ But good thosai does not just solely come from the preparation, but also in the 
 So, whether you choose to start your day with a hearty breakfast or savour it as a delightful brunch, thosai is a much-loved dish enjoyed across the communities of our multicultural city!
 
 #FoodieFriday #FoodieFridaySG #thosai #FoodieParadise #tasteofSingapore
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
