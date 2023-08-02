@@ -10,4 +10,4 @@ image: ""
 
 📌 You are encouraged to use the package to commemorate National Day, celebrate how far we have come as a nation, and discuss how we can continue to play a part in Singapore's future. Please download the package using the link below.
 
-Download: [National Day 2023 NE Engagement Package](/files/folio%201%20-%20national%20day%20package%202023_final%20(for%20external).pdf)
+Download: <a target="_blank" href="https://www.sg101.gov.sg/resources/resource-packages/nationalday2023package/">National Day 2023 Engagement Package</a>
