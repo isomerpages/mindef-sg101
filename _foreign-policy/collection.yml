@@ -2,8 +2,7 @@ collections:
   foreign-policy:
     output: true
     order:
-      - The Geopolitical Space.md
-      - The Economic Space.md
+
       - Safeguarding our Sovereignty and National Interests.md
       - Our Fundamentals.md
       - Our Challenges/.keep
@@ -11,3 +10,5 @@ collections:
       - Our Challenges/Singapore in a HyperConnected World.md
       - Expand Our International Space/.keep
       - Expanding Our International Space/.keep
+      - Expanding Our International Space/The Geopolitical Space.md
+      - Expanding Our International Space/The Economic Space.md
