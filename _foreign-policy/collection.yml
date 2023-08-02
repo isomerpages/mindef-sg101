@@ -2,7 +2,6 @@ collections:
   foreign-policy:
     output: true
     order:
-
       - Safeguarding our Sovereignty and National Interests.md
       - Our Fundamentals.md
       - Our Challenges/.keep
