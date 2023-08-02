@@ -24,3 +24,5 @@ Singaporeans today, having lived harmoniously for decades, may forget that racia
 Our enjoyment of diverse foods, music, design, art, and culture here is made possible by the peaceful interactions of diverse people, bringing a wealth of goods to the table. Today, on Racial Harmony Day (RHD), we can go the extra mile to strengthen our multiracial nation by stamping out racism, starting with our own actions. Happy RHD everyone!
 
 #RacialHarmonyDay #Singapore #racism #saynotoracism #betterSingapore #ForwardSG
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
