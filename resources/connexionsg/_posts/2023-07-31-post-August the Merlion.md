@@ -17,3 +17,5 @@ He has a strong love for Singapore, as evident by his red T-shirt with the sloga
 August's heart is always open to friendship, he has strong relationships with our other national mascots, such as Sharity Elephant, Merli and Nila.
 
 #MascotMonday #MascotMondaySG #August #NationalDay #NDP #Singapore #MajulahSingapura
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
