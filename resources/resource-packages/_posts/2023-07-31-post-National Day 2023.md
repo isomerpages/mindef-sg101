@@ -12,4 +12,4 @@ image: ""
 
 Download: [National Day 2023 Engagement Package](/files/folio%201%20-%20national%20day%20package%202023_final%20(for%20external).pdf)
 
-Download: <a target="\_blank" href="(/files/folio%201%20-%20national%20day%20package%202023_final%20(for%20external).pdf)">National Day 2023 Engagement Package</a>
+Download: <a target="_blank" href="(/files/folio%201%20-%20national%20day%20package%202023_final%20(for%20external).pdf)">National Day 2023 Engagement Package</a>
