@@ -28,3 +28,5 @@ The role of our elected president includes:
 (3) Community: As a symbol of unity, the President is actively involved in the community, supporting various causes that make our society stronger.
 
 Amid global uncertainty and domestic anxiety over the cost of living, we will soon elect a new President to unify our nation, guard our reserves, and represent our nation at home and to the world.
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
