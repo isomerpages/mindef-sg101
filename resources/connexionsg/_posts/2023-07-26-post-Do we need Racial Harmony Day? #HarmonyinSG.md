@@ -18,3 +18,5 @@ Last year during Racial Harmony Day, Kindness SG published an opinion piece titl
 Here are some thought-provoking insights from the piece. 
 
 #HarmonyinSG #racialharmony #Singapore #unity #unityindiversity
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
