@@ -27,3 +27,5 @@ As an open, highly digitally connected, and diverse society, Singapore is especi
 📚: Read more at https://www.sg101.gov.sg/defence-and-security/current-threats/hics-and-foreign-interference?fbclid=IwAR1nEovHsIBHMAbP_ZVfGQ4A_J4rA7sK4Df6Qsm88_1eHgGZ6H_IzpHNucs
 
 🎥: Here are some useful videos on Influence Campaigns https://www.sg101.gov.sg/resources/resource-packages/resourcesoninfluencecampaigns/?fbclid=IwAR2kfZWhrseBw0eQv4L0wRpLwiAu-AVWkBUl9hgTcp7kCaOa4m5maUDCOPs
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
