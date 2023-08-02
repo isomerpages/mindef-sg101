@@ -33,3 +33,4 @@ Racial Harmony Day is a reminder that strong economic growth would be meaningles
 
 🔗:https://www.mof.gov.sg/news-publications/speeches/speech-on-multiracialism-and-faultlines-by-mr-lawrence-wong-minister-for-finance-at-the-ips-rsis-forum-on-race-and-racism-in-singapore-on-25-june-2021?fbclid=IwAR2XAyHgHRnQ7UANtaEZW5mQS_5RDEazdzDWOpCeEWd4fKl8eKB5Rf_rXIU
 
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
