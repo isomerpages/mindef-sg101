@@ -29,4 +29,7 @@ Minister Lawrence Wong offered three suggestions on how Singaporeans today can c
 
 Racial Harmony Day is a reminder that strong economic growth would be meaningless if we face constant conflicts in society. Singaporeans risk clashing along fault lines with challenges from internal and external influences. But as citizens and fellow stakeholders, we all share a common responsibility “regardless of race, language or religion” to achieve "happiness, prosperity and progress for our nation".
 
-#SGinHarmony #Singapore #RacialHarmony #RacialHarmonyDay #RHD #Race #Religion #SingaporeWay 
+#SGinHarmony #Singapore #RacialHarmony #RacialHarmonyDay #RHD #Race #Religion #SingaporeWay
+
+🔗:https://www.mof.gov.sg/news-publications/speeches/speech-on-multiracialism-and-faultlines-by-mr-lawrence-wong-minister-for-finance-at-the-ips-rsis-forum-on-race-and-racism-in-singapore-on-25-june-2021?fbclid=IwAR2XAyHgHRnQ7UANtaEZW5mQS_5RDEazdzDWOpCeEWd4fKl8eKB5Rf_rXIU
+
