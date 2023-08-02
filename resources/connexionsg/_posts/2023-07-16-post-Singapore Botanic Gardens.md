@@ -20,3 +20,5 @@ The Jacob Ballas Children’s Garden, also housed within the Botanic Gardens, is
 There are also plenty of picturesque spots and sights to take in for a visit to the Botanic Gardens – more than enough for a #SundayFunday trip! So pack your bags, charge your phones, and prepare your sandwiches for a great day out at our very own Botanic Gardens!
 
 #SundayFunday #SundayFundaySG #Singapore #Botanic #Gardens #BotanicGardens #UNESCO
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
