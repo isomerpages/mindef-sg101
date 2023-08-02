@@ -2,6 +2,7 @@ collections:
   foreign-policy:
     output: true
     order:
+      - The Geopolitical Space.md
       - The Economic Space.md
       - Safeguarding our Sovereignty and National Interests.md
       - Our Fundamentals.md
