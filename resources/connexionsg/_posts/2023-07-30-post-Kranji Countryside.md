@@ -24,3 +24,5 @@ With so much to offer, Kranji is where you can explore the countryside and get t
 Do note that the attractions are quite far apart from one another. Hiring a private van charter or booking a tour package would bring convenience as you could cover many places in one day easily - a great option for those of us who don’t drive.
 
 #SundayFundaySG #SundayFunday #Kranji #KranjiCountryside #RuralSingapore #KranjiMarshes #KranjiReservoirPark #GoatFarm #FrogFarm #Singapore
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
