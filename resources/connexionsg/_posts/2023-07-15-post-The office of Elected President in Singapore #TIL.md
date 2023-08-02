@@ -34,4 +34,6 @@ https://www.istana.gov.sg/The-President/Presidents-Duties/Constitutional and htt
 For more information on the Presidential Elections, read 
 https://www.eld.gov.sg/elections_presidential.html?fbclid=IwAR1IjdW51CNwR9qntr2geIVaXmoNkxZnYVDwNQuQT0dtaGexXb6nm33k42w
 
-#SingaporeWay #President #PresidentialElections #ElectedPresidency #Singapore 
+#SingaporeWay #President #PresidentialElections #ElectedPresidency #Singapore
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
