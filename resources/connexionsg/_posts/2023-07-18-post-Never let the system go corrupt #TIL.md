@@ -20,3 +20,5 @@ The full answers and views are here;
 🔗https://www.pmo.gov.sg/Newsroom/Transcript-of-the-QA-segment-at-Press-Conference-on-resignation-of-Speaker-Tan-and-MP-Cheng-Li-Hui
 
 🔗https://www.pmo.gov.sg/Newsroom/Intervention-by-PM-Lee-Hsien-Loong-in-the-Ministerial-Statements-on-Ridout-Road-Rentals
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
