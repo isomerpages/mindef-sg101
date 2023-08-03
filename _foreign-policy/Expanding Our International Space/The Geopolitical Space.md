@@ -23,7 +23,8 @@ In 2015, Singapore launched the FOSS Fellowship Programme to foster better under
 
 To commemorate the 30th anniversary of FOSS in 2022, Minister for Foreign Affairs Dr Vivian Balakrishnan launched the “FOSS for Good” technical assistance package at the 76th UNGA in September 2022. Running from 2022 to 2023, the package will provide a peer-learning platform for FOSS states to share experiences, best practices and solutions to tackle the unique development needs and challenges of small countries, such as COVID-19 recovery and digital transformation.[\[5\]](#_ftn5)
 
-Watch a short video by Ministry of Foreign Affairs to learn more about <a target="blank" href="https://www.facebook.com/watch/?v=355860763186553">FOSS</a>.
+Watch a short video by Ministry of Foreign Affairs to learn more about 
+<a target="blank" href="https://www.facebook.com/watch/?v=355860763186553">FOSS</a>.
 
 Watch MFA's video on Voices of FOSS below to find out what other countries have to say about FOSS. 
 
@@ -58,7 +59,7 @@ By playing an active role on the regional and global stage, Singapore is able to
 
 [\[2\]](#_ftnref2) Baharudin, H. (2022, September 23). Small states must participate actively to strengthen the multilateral system: PM Lee. *The Straits Times.* [https://www.straitstimes.com/singapore/small-states-must-participate-actively-to-strengthen-the-multilateral-system-pm-lee](https://www.straitstimes.com/singapore/small-states-must-participate-actively-to-strengthen-the-multilateral-system-pm-lee)
 
-[\[3\]](#_ftnref3) Ministry of Foreign Affairs. (n.d.) *Small States*. [https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/International-Issues/Small-States](https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/International-Issues/Small-States)
+[\[3\]](#_ftnref3) Ministry of Foreign Affairs. (n.d.) <a target="blank" href="https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/International-Issues/Small-States">Small States</a>.
 
 [\[4\]](#_ftnref4) *Ibid.*
 
