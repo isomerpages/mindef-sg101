@@ -81,10 +81,7 @@ For a small country like Singapore, our success is dependent on Singaporeans’ 
 
 [\[2\]](#_ftnref2) World Economic Forum. (2016, January 20). <a target="blank" href="https://reports.weforum.org/human-implications-of-digital-media-2016/">Report on Digital Media and Society: Implications in a Hyperconnected Era</a>. 
 
-
-
-[\[3\]](#_ftnref3) Infocomm Media Development Authority. (2023). *Digital Society: Household Access to Internet by Household Composition.*
-[https://www.imda.gov.sg/About-IMDA/Research-and-Statistics/Digital-Society](https://www.imda.gov.sg/About-IMDA/Research-and-Statistics/Digital-Society)
+[\[3\]](#_ftnref3) Infocomm Media Development Authority. (2023). <a target="blank" href="https://www.imda.gov.sg/About-IMDA/Research-and-Statistics/Digital-Society">Digital Society: Household Access to Internet by Household Composition</a>. 
 
 [\[4\]](#_ftnref4)World Economic Forum. (2022, August 11). How to spot fake news on your social networks.
 [https://www.weforum.org/agenda/2022/08/how-to-spot-fake-news-on-your-social-networks/](https://www.weforum.org/agenda/2022/08/how-to-spot-fake-news-on-your-social-networks/)
