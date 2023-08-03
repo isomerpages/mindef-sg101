@@ -83,7 +83,7 @@ Going forward, Singapore will continue to be “buffeted by intense rivalry and 
 
 [\[7\]](#_ftnref7) Baharudin, H. (2022, August 21). <a target="blank" href="https://www.straitstimes.com/singapore/politics/ndr-2022-better-get-real-and-be-prepared-should-things-go-wrong-in-the-region-says-pm-lee">NDR 2022: Singapore must be ready for sudden shifts in region: PM Lee</a>. *The Straits Times.*
 
-[\[8\]](#_ftnref8) Baharudin, H. (2022, August 26). Cohesion, trust key for S’pore to succeed amid more uncertain geopolitics: Vivian Balakrishnan. *The Straits Times.* [https://www.straitstimes.com/singapore/politics/cohesion-and-trust-are-key-for-singapore-to-succeed-amid-more-uncertain-geopolitics-says-vivian](https://www.straitstimes.com/singapore/politics/cohesion-and-trust-are-key-for-singapore-to-succeed-amid-more-uncertain-geopolitics-says-vivian)
+[\[8\]](#_ftnref8) Baharudin, H. (2022, August 26). <a target="blank" href="https://www.straitstimes.com/singapore/politics/cohesion-and-trust-are-key-for-singapore-to-succeed-amid-more-uncertain-geopolitics-says-vivian">Cohesion, trust key for S’pore to succeed amid more uncertain geopolitics: Vivian Balakrishnan</a>. *The Straits Times.* 
 
 [\[9\]](#_ftnref9) Baharudin, H. (2022, August 21). NDR 2022: Singapore must be ready for sudden shifts in region: PM Lee. *The Straits Times.*
 [https://www.straitstimes.com/singapore/politics/ndr-2022-better-get-real-and-be-prepared-should-things-go-wrong-in-the-region-says-pm-lee](https://www.straitstimes.com/singapore/politics/ndr-2022-better-get-real-and-be-prepared-should-things-go-wrong-in-the-region-says-pm-lee)
@@ -92,5 +92,6 @@ Going forward, Singapore will continue to be “buffeted by intense rivalry and 
 
 [\[11\]](#_ftnref11) Prime Minister’s Office. (2022). *Prime Minister Lee Hsien Loong’s 2022 National Day Message on 8 August 2022.*
 [https://www.pmo.gov.sg/Newsroom/National-Day-Message-2022](https://www.pmo.gov.sg/Newsroom/National-Day-Message-2022)
+
 
 [\[12\]](#_ftnref12) Ministry of Foreign Affairs. (2017). *Speech by Dr Tony Tan Keng Yam, Former President of Singapore, at the 10th S Rajaratnam Lecture on Tuesday, 28 November 2017.* [https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat)
