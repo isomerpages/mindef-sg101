@@ -77,8 +77,8 @@ For a small country like Singapore, our success is dependent on Singaporeans’ 
 * * *
 #### Bibliography
 
-[\[1\]](#_ftnref1) Prime Minister’s Office. (2021). 
-<a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/11/20211130-S-Raj">DPM Heng Swee Keat at the S Rajaratnam Lecture on “Fostering Growth and Stability in an Age of Complexity”</a>, on 30 November 2021. 
+[\[1\]](#_ftnref1) Prime Minister’s Office. (2021, November 30)
+<a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/11/20211130-S-Raj">DPM Heng Swee Keat at the S Rajaratnam Lecture on “Fostering Growth and Stability in an Age of Complexity”</a>.
 
 [\[2\]](#_ftnref2) World Economic Forum. (2016, January 20). 
 <a target="blank" href="https://reports.weforum.org/human-implications-of-digital-media-2016/">Report on Digital Media and Society: Implications in a Hyperconnected Era</a>. 
