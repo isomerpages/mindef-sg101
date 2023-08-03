@@ -87,7 +87,9 @@ Going forward, Singapore will continue to be “buffeted by intense rivalry and 
 
 [\[9\]](#_ftnref9) Baharudin, H. (2022, August 21). <a target="blank" href="https://www.straitstimes.com/singapore/politics/ndr-2022-better-get-real-and-be-prepared-should-things-go-wrong-in-the-region-says-pm-lee">NDR 2022: Singapore must be ready for sudden shifts in region: PM Lee</a>. *The Straits Times.*
 
-[\[10\]](#_ftnref10) Ministry of Foreign Affairs. (2022). *Minister for Foreign Affairs Dr Vivian Balakrishnan’s Ministerial Statement on the situation in Ukraine and its implications, 28 February 2022.* [https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/02/20220228-Ministerial-Statement](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/02/20220228-Ministerial-Statement)
+[\[10\]](#_ftnref10) Ministry of Foreign Affairs. (2022). <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/02/20220228-Ministerial-Statement">Minister for Foreign Affairs Dr Vivian Balakrishnan’s Ministerial Statement on the situation in Ukraine and its implications</a>, 28 February 2022.
+
+
 
 [\[11\]](#_ftnref11) Prime Minister’s Office. (2022). *Prime Minister Lee Hsien Loong’s 2022 National Day Message on 8 August 2022.*
 [https://www.pmo.gov.sg/Newsroom/National-Day-Message-2022](https://www.pmo.gov.sg/Newsroom/National-Day-Message-2022)
