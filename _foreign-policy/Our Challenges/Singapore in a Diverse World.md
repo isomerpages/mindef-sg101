@@ -89,8 +89,6 @@ Going forward, Singapore will continue to be “buffeted by intense rivalry and 
 
 [\[10\]](#_ftnref10) Ministry of Foreign Affairs. (2022). <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/02/20220228-Ministerial-Statement">Minister for Foreign Affairs Dr Vivian Balakrishnan’s Ministerial Statement on the situation in Ukraine and its implications</a>, 28 February 2022.
 
-[\[11\]](#_ftnref11) Prime Minister’s Office. (2022). *Prime Minister Lee Hsien Loong’s 2022 National Day Message on 8 August 2022.*
-[https://www.pmo.gov.sg/Newsroom/National-Day-Message-2022](https://www.pmo.gov.sg/Newsroom/National-Day-Message-2022)
-
+[\[11\]](#_ftnref11) Prime Minister’s Office. (2022). <a target="blank" href="https://www.pmo.gov.sg/Newsroom/National-Day-Message-2022">Prime Minister Lee Hsien Loong’s 2022 National Day Message</a>, 8 August 2022.*
 
 [\[12\]](#_ftnref12) Ministry of Foreign Affairs. (2017). *Speech by Dr Tony Tan Keng Yam, Former President of Singapore, at the 10th S Rajaratnam Lecture on Tuesday, 28 November 2017.* [https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat)
