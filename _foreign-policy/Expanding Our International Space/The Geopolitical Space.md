@@ -59,8 +59,6 @@ By playing an active role on the regional and global stage, Singapore is able to
 
 [\[2\]](#_ftnref2) Baharudin, H. (2022, September 23). <a target="blank" href="https://www.straitstimes.com/singapore/small-states-must-participate-actively-to-strengthen-the-multilateral-system-pm-lee">Small states must participate actively to strengthen the multilateral system: PM Lee</a>. *The Straits Times.* 
 
-
-
 [\[3\]](#_ftnref3) Ministry of Foreign Affairs. (n.d.) <a target="blank" href="https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/International-Issues/Small-States">Small States</a>.
 
 [\[4\]](#_ftnref4) *Ibid.*
