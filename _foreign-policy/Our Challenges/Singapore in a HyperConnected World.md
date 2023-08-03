@@ -99,7 +99,8 @@ For a small country like Singapore, our success is dependent on Singaporeans’ 
 
 [\[8\]](#_ftnref8) *Ibid*.
 
-[\[9\]](#_ftnref9) Lim, A. (2019, February 12). Parliament: ‘Curious’ spike in online comments critical of S’pore during dispute with Malaysia, says Edwin Tong. *The Straits Times*. [https://www.straitstimes.com/politics/parliament-curious-spike-in-online-comments-critical-of-spore-during-dispute-with-malaysia](https://www.straitstimes.com/politics/parliament-curious-spike-in-online-comments-critical-of-spore-during-dispute-with-malaysia)
+[\[9\]](#_ftnref9) Lim, A. (2019, February 12). 
+<a target="blank" href="https://www.straitstimes.com/politics/parliament-curious-spike-in-online-comments-critical-of-spore-during-dispute-with-malaysia">Parliament: ‘Curious’ spike in online comments critical of S’pore during dispute with Malaysia, says Edwin Tong</a>. *The Straits Times*. 
 
 [\[10\]](#_ftnref10) Ministry of Home Affairs. (2021). *Second Reading of Foreign Interference (Countermeasures) Bill – Speech by Mr K Shanmugam, Minister for Home Affairs and Minister for Law, 4 October 2021*.
 [https://www.mha.gov.sg/mediaroom/parliamentary/second-reading-of-foreign-interference-countermeasures-bill-speech-by-mr-k-shanmugam/](https://www.mha.gov.sg/mediaroom/parliamentary/second-reading-of-foreign-interference-countermeasures-bill-speech-by-mr-k-shanmugam/)&nbsp;
