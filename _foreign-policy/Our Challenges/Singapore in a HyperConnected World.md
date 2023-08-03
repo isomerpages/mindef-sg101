@@ -110,4 +110,6 @@ For a small country like Singapore, our success is dependent on Singaporeans’ 
 
 [\[12\]](#_ftnref12) Yong, C. (2022, March 25). No hostile information campaign in S’pore, but TikTok accounts flagged: MHA. *The Straits Times*.[https://www.straitstimes.com/singapore/no-hostile-information-campaign-in-singapore-but-tiktok-accounts-flagged-says-mha](https://www.straitstimes.com/singapore/no-hostile-information-campaign-in-singapore-but-tiktok-accounts-flagged-says-mha)
 
+<a target="blank" href="https://www.imda.gov.sg/About-IMDA/Research-and-Statistics/Digital-Society">Digital Society: Household Access to Internet by Household Composition</a>. 
+
 [\[13\]](#_ftnref13) Ministry of Foreign Affairs. (2017). *Speech by Dr Tony Tan Keng Yam, Former President of Singapore, at the 10th S Rajaratnam Lecture on Tuesday, 28 November 2017.* [https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat)
