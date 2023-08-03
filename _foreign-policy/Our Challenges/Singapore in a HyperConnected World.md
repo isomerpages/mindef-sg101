@@ -86,7 +86,7 @@ For a small country like Singapore, our success is dependent on Singaporeans’ 
 [\[4\]](#_ftnref4)World Economic Forum. (2022, August 11). 
 <a target="blank" href="https://www.weforum.org/agenda/2022/08/how-to-spot-fake-news-on-your-social-networks/">How to spot fake news on your social networks</a>. 
 
-[\[5\]](#_ftnref5) Ministry of Foreign Affairs. (2017). *Speech by Dr Tony Tan Keng Yam, Former President of Singapore, at the 10th S Rajaratnam Lecture on Tuesday, 28 November 2017.* [https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat)
+[\[5\]](#_ftnref5) Ministry of Foreign Affairs. (2017). <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat">Speech by Dr Tony Tan Keng Yam, Former President of Singapore, at the 10th S Rajaratnam Lecture</a>, 28 November 2017.
 
 [\[6\]](#_ftnref6) *Ibid*.
 
