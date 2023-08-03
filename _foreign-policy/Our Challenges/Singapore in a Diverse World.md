@@ -73,9 +73,9 @@ Going forward, Singapore will continue to be “buffeted by intense rivalry and 
 
 [\[2\]](#_ftnref2) Public Service Division. (2015). <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>.
 
-[\[3\]](#_ftnref3) National Archives of Singapore. (1965). *Statement of His Excellency Mr S Rajaratnam Foreign Minister of Singapore at the General Assembly on September 21, 1965, on the occasion of Singapore’s admission to the United Nations.* <a target="blank" href="https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf">NAS</a>.
+[\[3\]](#_ftnref3) National Archives of Singapore. (1965). <a target="blank" href="https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf">Statement of His Excellency Mr S Rajaratnam Foreign Minister of Singapore at the General Assembly on September 21, 1965, on the occasion of Singapore's admission to the United Nations</a>.
 
-[\[4\]](#_ftnref4) Public Service Division. (2015). Heart of Public Service. [https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/)
+[\[4\]](#_ftnref4) Public Service Division. (2015). <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>.
 
 [\[5\]](#_ftnref5) Prime Minister’s Office. (2015). PM Lee Hsien Loong at the 8th S Rajaratnam Lecture. [https://www.pmo.gov.sg/Newsroom/pm-lee-hsien-loong-8th-s-rajaratnam-lecture-27-november-2015](https://www.pmo.gov.sg/Newsroom/pm-lee-hsien-loong-8th-s-rajaratnam-lecture-27-november-2015)
 
