@@ -81,10 +81,7 @@ Going forward, Singapore will continue to be “buffeted by intense rivalry and 
 
 [\[6\]](#_ftnref6) Public Service Division. (2015). <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>.
 
-<a target="blank" href="https://www.pmo.gov.sg/Newsroom/pm-lee-hsien-loong-8th-s-rajaratnam-lecture-27-november-2015">PM Lee Hsien Loong at the 8th S Rajaratnam Lecture</a>.
-
-[\[7\]](#_ftnref7) Baharudin, H. (2022, August 21). NDR 2022: Singapore must be ready for sudden shifts in region: PM Lee. *The Straits Times.*
-[https://www.straitstimes.com/singapore/politics/ndr-2022-better-get-real-and-be-prepared-should-things-go-wrong-in-the-region-says-pm-lee](https://www.straitstimes.com/singapore/politics/ndr-2022-better-get-real-and-be-prepared-should-things-go-wrong-in-the-region-says-pm-lee)
+[\[7\]](#_ftnref7) Baharudin, H. (2022, August 21). <a target="blank" href="https://www.straitstimes.com/singapore/politics/ndr-2022-better-get-real-and-be-prepared-should-things-go-wrong-in-the-region-says-pm-lee">NDR 2022: Singapore must be ready for sudden shifts in region: PM Lee</a>. *The Straits Times.*
 
 [\[8\]](#_ftnref8) Baharudin, H. (2022, August 26). Cohesion, trust key for S’pore to succeed amid more uncertain geopolitics: Vivian Balakrishnan. *The Straits Times.* [https://www.straitstimes.com/singapore/politics/cohesion-and-trust-are-key-for-singapore-to-succeed-amid-more-uncertain-geopolitics-says-vivian](https://www.straitstimes.com/singapore/politics/cohesion-and-trust-are-key-for-singapore-to-succeed-amid-more-uncertain-geopolitics-says-vivian)
 
