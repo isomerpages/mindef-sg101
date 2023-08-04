@@ -73,11 +73,6 @@ By playing an active role on the regional and global stage, Singapore is able to
 [\[7\]](#_ftnref7) Ministry of Foreign Affairs. (n.d.) 
 <a target="blank" href="https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/International-Organisations/ASEAN">ASEAN</a>.
 
-<a target="blank" href="https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/International-Organisations/ASEAN">ASEAN</a>.
-
-
-<a target="blank" href="https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/International-Issues/Small-States">Small States</a>.
-
 [\[8\]](#_ftnref8) *Ibid.*
 
 [\[9\]](#_ftnref9) *Ibid.*
