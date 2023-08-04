@@ -79,4 +79,3 @@ By playing an active role on the regional and global stage, Singapore is able to
 
 [\[10\]](#_ftnref10) Public Service Division. (2015). 
 <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>.
-
