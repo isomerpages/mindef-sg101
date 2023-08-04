@@ -152,7 +152,7 @@ Local media reported in March 2022 that there were TikTok posts that aimed to in
 
 [\[3\]](#_ftnref3) Public Service Division. (2015). Public Service Division. (2015). <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>.
 
-[\[4\]](#_ftnref4) United Nations. Charter, Article 2. [https://www.un.org/en/about-us/un-charter/chapter-1](https://www.un.org/en/about-us/un-charter/chapter-1)
+[\[4\]](#_ftnref4) United Nations. <a target="blank" href="https://www.un.org/en/about-us/un-charter/chapter-1">Charter, Article 2</a>.
 
 [\[5\]](#_ftnref5) Prime Minister’s Office. (2019). *Keynote address by Prime Minister Lee Hsien Loong at the International Institute for Strategic Studies (IISS) Shangri-La Dialogue Opening Dinner on 31 May 2019.
 [https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-the-IISS-Shangri-La-Dialogue-2019](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-the-IISS-Shangri-La-Dialogue-2019)
