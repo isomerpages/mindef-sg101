@@ -4,7 +4,9 @@ title: SG101
 description: www.sg101.gov.sg
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: "Note: To do a search, click on the magnifying glass icon on the
+  top right hand corner of the homepage. To find the icon, adjust the zoom
+  settings in your browser."
 sections:
   - hero:
       title: SG101
