@@ -179,7 +179,7 @@ Local media reported in March 2022 that there were TikTok posts that aimed to in
 
 [\[13\]](#_ftnref13) Public Service Division. (2015). Public Service Division. (2015). <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>.
 
-[\[14\]](#_ftnref14) Public Service Division. (2015). Heart of Public Service. [https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/)
+[\[14\]](#_ftnref14) *Ibid*.
 
 [\[15\]](#_ftnref15) The Straits Times. (2019, June 8). Sovereignty principle was at stake in Vietnam’s invasion of Cambodia in 1978. [https://www.straitstimes.com/singapore/sovereignty-principle-was-at-stake-in-vietnams-invasion-of-cambodia-in-1978](https://www.straitstimes.com/singapore/sovereignty-principle-was-at-stake-in-vietnams-invasion-of-cambodia-in-1978)
 
