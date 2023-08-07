@@ -166,9 +166,10 @@ Local media reported in March 2022 that there were TikTok posts that aimed to in
 <a target="blank" href="https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2014/february/2014feb18-Parliamentary-000087]">Reply by Minister for Defence Dr Ng Eng Hen to Parliamentary Question on the response to the Indonesian Navy’s naming of new warship</a>.
 
 [\[9\]](#_ftnref9) Chew, V. (2021, October).
-<a target="blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1554\_2009-08-06.html]">RMichael Fay</a>. Singapore Infopedia. 
+<a target="blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1554\_2009-08-06.html]">Michael Fay</a>. *Singapore Infopedia*. 
 
-[\[10\]](#_ftnref10) Public Service Division. (2015). Heart of Public Service. [https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/)
+[\[10\]](#_ftnref10) Public Service Division. (2015). 
+<a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/]">Heart of Public Service</a>. 
 
 [\[11\]](#_ftnref11) Ministry of Foreign Affairs. (2014) *The Practice of Foreign Policy for Sustained Growth – The Singapore Experience.* Transcript of speech by Emeritus Senior Minister Goh Chok Tong at S Rajaratnam Lecture on 17 October 2014. [https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2014/10/MFA-Press-Release-Transcript-of-speech-by-Emeritus-Senior-Minister-Goh-Chok-Tong-at-S-Rajaratnam-Lec](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2014/10/MFA-Press-Release-Transcript-of-speech-by-Emeritus-Senior-Minister-Goh-Chok-Tong-at-S-Rajaratnam-Lec)
 
