@@ -177,7 +177,7 @@ Local media reported in March 2022 that there were TikTok posts that aimed to in
 [\[12\]](#_ftnref12) Chew, V. (2021, October). 
 <a target="blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1554\_2009-08-06.html">Michael Fay</a>. *Singapore Infopedia*.
 
-[\[13\]](#_ftnref13) Public Service Division. (2015). Heart of Public Service. [https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/)
+[\[13\]](#_ftnref13) Public Service Division. (2015). Public Service Division. (2015). <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>.
 
 [\[14\]](#_ftnref14) Public Service Division. (2015). Heart of Public Service. [https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/)
 
