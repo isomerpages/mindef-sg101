@@ -54,4 +54,3 @@ Goh Chok Tong’s midnight golf game with US President Bill Clinton in 2000: The
 
 [\[4\]](#_ftnref4) Koh, T. (2019, November 2019). 
 <a target="blank" href="https://www.straitstimes.com/opinion/free-trade-agreements-and-singapore">Free trade agreements and Singapore</a>. *The Straits Times.*
-
