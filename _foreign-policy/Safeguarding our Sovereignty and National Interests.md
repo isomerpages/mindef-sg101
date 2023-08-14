@@ -193,7 +193,6 @@ Local media reported in March 2022 that there were TikTok posts that aimed to in
 [\[18\]](#_ftnref18) The Straits Times. (2019, June 8). 
 <a target="blank" href="https://www.straitstimes.com/singapore/sovereignty-principle-was-at-stake-in-vietnams-invasion-of-cambodia-in-1978">Sovereignty principle was at stake in Vietnam’s invasion of Cambodia in 1978</a>.
 
-
 [\[19\]](#_ftnref19) Ministry of Foreign Affairs. (2019). MFA Spokesperson’s comments in response to media queries on PM’s condolence letter on the passing of former Thailand Prime Minister and Privy Council President General Prem Tinsulanonda and 2019 Shangri-La Dialogue Speech, 7 June 2019.
 
 [\[20\]](#_ftnref20) *Ibid.*
@@ -203,4 +202,3 @@ Local media reported in March 2022 that there were TikTok posts that aimed to in
 
 [\[22\]](#_ftnref22) Ministry of Foreign Affairs. (2022, February 28). 
 <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/02/20220228-Ministerial-Statement">Minister for Foreign Affairs Dr Vivian Balakrishnan’s Ministerial Statement on the situation in Ukraine and its implications</a>.
-
