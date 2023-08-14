@@ -145,51 +145,61 @@ Local media reported in March 2022 that there were TikTok posts that aimed to in
 * * *
 #### Bibliography
 
-[\[1\]](#_ftnref1) Ministry of Foreign Affairs. (2017). *Speech by Dr Tony Tan Keng Yam, Former President of Singapore, at the 10th S Rajaratnam Lecture on Tuesday, 28 November 2017.* [https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat)
+[\[1\]](#_ftnref1) Ministry of Foreign Affairs. (2017, November 28). 
+<a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat">Speech by Dr Tony Tan Keng Yam, Former President of Singapore, at the 10th S Rajaratnam Lecture</a>.
 
 [\[2\]](#_ftnref2)*Ibid.*
 
-[\[3\]](#_ftnref3) Public Service Division. (2015). Heart of Public Service. [https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/)
+[\[3\]](#_ftnref3) Public Service Division. (2015). Public Service Division. (2015). <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>.
 
-[\[4\]](#_ftnref4) United Nations. Charter, Article 2. [https://www.un.org/en/about-us/un-charter/chapter-1](https://www.un.org/en/about-us/un-charter/chapter-1)
+[\[4\]](#_ftnref4) United Nations. <a target="blank" href="https://www.un.org/en/about-us/un-charter/chapter-1">Charter, Article 2</a>.
 
-[\[5\]](#_ftnref5) Prime Minister’s Office. (2019). *Keynote address by Prime Minister Lee Hsien Loong at the International Institute for Strategic Studies (IISS) Shangri-La Dialogue Opening Dinner on 31 May 2019.
-[https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-the-IISS-Shangri-La-Dialogue-2019](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-the-IISS-Shangri-La-Dialogue-2019)
+[\[5\]](#_ftnref5) Prime Minister’s Office. (2019, May 31). 
+<a target="blank" href="https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-the-IISS-Shangri-La-Dialogue-2019]">Keynote address by Prime Minister Lee Hsien Loong at the International Institute for Strategic Studies (IISS) Shangri-La Dialogue Opening Dinner</a>.
 
-[\[6\]](#_ftnref6) Hamid, M.E.A. &amp; Saparudin, K. (2014, August 7). MacDonald House bomb explosion. Singapore Infopedia. [https://eresources.nlb.gov.sg/infopedia/articles/SIP\_62\_2004-12-17.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_62_2004-12-17.html)
+[\[6\]](#_ftnref6) Hamid, M.E.A. and Saparudin, K. (2014, August 7). 
+<a target="blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP\_62\_2004-12-17.html]">MacDonald House bomb explosion</a>. *Singapore Infopedia*.
 
 [\[7\]](#_ftnref7) Lee Kuan Yew. (2014). From Third World to First: The Singapore Story: 1965 – 2000.
 
-[\[8\]](#_ftnref8) Ministry of Defence. (2014). *Reply by Minister for Defence Dr Ng Eng Hen to Parliamentary Question on the response to the Indonesian Navy’s naming of new warship on 18 February 2014.*
-[https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2014/february/2014feb18-Parliamentary-000087](https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2014/february/2014feb18-Parliamentary-000087)
+[\[8\]](#_ftnref8) Ministry of Defence. (2014, February 18). 
+<a target="blank" href="https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2014/february/2014feb18-Parliamentary-000087]">Reply by Minister for Defence Dr Ng Eng Hen to Parliamentary Question on the response to the Indonesian Navy’s naming of new warship</a>.
 
-[\[9\]](#_ftnref9) Chew, V. (2021, October). Michael Fay. Singapore Infopedia. [https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1554\_2009-08-06.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1554_2009-08-06.html)
+[\[9\]](#_ftnref9) Chew, V. (2021, October).
+<a target="blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1554\_2009-08-06.html]">Michael Fay</a>. *Singapore Infopedia*. 
 
-[\[10\]](#_ftnref10) Public Service Division. (2015). Heart of Public Service. [https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/)
+[\[10\]](#_ftnref10) Public Service Division. (2015). 
+<a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/]">Heart of Public Service</a>. 
 
-[\[11\]](#_ftnref11) Ministry of Foreign Affairs. (2014) *The Practice of Foreign Policy for Sustained Growth – The Singapore Experience.* Transcript of speech by Emeritus Senior Minister Goh Chok Tong at S Rajaratnam Lecture on 17 October 2014. [https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2014/10/MFA-Press-Release-Transcript-of-speech-by-Emeritus-Senior-Minister-Goh-Chok-Tong-at-S-Rajaratnam-Lec](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2014/10/MFA-Press-Release-Transcript-of-speech-by-Emeritus-Senior-Minister-Goh-Chok-Tong-at-S-Rajaratnam-Lec)
+[\[11\]](#_ftnref11) Ministry of Foreign Affairs. (2014, October 17). 
+<a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2014/10/MFA-Press-Release-Transcript-of-speech-by-Emeritus-Senior-Minister-Goh-Chok-Tong-at-S-Rajaratnam-Lec]">The Practice of Foreign Policy for Sustained Growth – The Singapore Experience.</a>.  Transcript of speech by Emeritus Senior Minister Goh Chok Tong at S Rajaratnam Lecture.
 
-[\[12\]](#_ftnref12) Chew, V. (2021, October). Michael Fay. Singapore Infopedia. [https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1554\_2009-08-06.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1554_2009-08-06.html)
+[\[12\]](#_ftnref12) Chew, V. (2021, October). 
+<a target="blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1554\_2009-08-06.html">Michael Fay</a>. *Singapore Infopedia*.
 
-[\[13\]](#_ftnref13) Public Service Division. (2015). Heart of Public Service. [https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/)
+[\[13\]](#_ftnref13) Public Service Division. (2015). <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>.
 
-[\[14\]](#_ftnref14) Public Service Division. (2015). Heart of Public Service. [https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/)
+[\[14\]](#_ftnref14) *Ibid*.
 
-[\[15\]](#_ftnref15) The Straits Times. (2019, June 8). Sovereignty principle was at stake in Vietnam’s invasion of Cambodia in 1978. [https://www.straitstimes.com/singapore/sovereignty-principle-was-at-stake-in-vietnams-invasion-of-cambodia-in-1978](https://www.straitstimes.com/singapore/sovereignty-principle-was-at-stake-in-vietnams-invasion-of-cambodia-in-1978)
+[\[15\]](#_ftnref15) The Straits Times. (2019, June 8). 
+<a target="blank" href="https://www.straitstimes.com/singapore/sovereignty-principle-was-at-stake-in-vietnams-invasion-of-cambodia-in-1978">Sovereignty principle was at stake in Vietnam’s invasion of Cambodia in 1978</a>. 
 
-[\[16\]](#_ftnref16) Public Service Division. (2015). Heart of Public Service. [https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/](https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/)
+[\[16\]](#_ftnref16) Public Service Division. (2015). 
+<a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>.
 
-[\[17\]](#_ftnref17) Ministry of Foreign Affairs. (2011).* Speech by former Deputy Prime Minister Mr Wong Kan Seng at the S Rajaratnam Lecture at Shangri-La Dialogue on 23 November 2011.*
+[\[17\]](#_ftnref17) Ministry of Foreign Affairs. (2011, November 23).
+<a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2011/11/Speech-by-Former-Deputy-Prime-Minister-Wong-Kan-Seng-at-the-S-Rajaratnam-Lecture-at-Shangri-La-Hote">Speech by former Deputy Prime Minister Mr Wong Kan Seng at the S Rajaratnam Lecture at Shangri-La Hotel</a>. 
 
-[https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2011/11/Speech-by-Former-Deputy-Prime-Minister-Wong-Kan-Seng-at-the-S-Rajaratnam-Lecture-at-Shangri-La-Hote](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2011/11/Speech-by-Former-Deputy-Prime-Minister-Wong-Kan-Seng-at-the-S-Rajaratnam-Lecture-at-Shangri-La-Hote)
+[\[18\]](#_ftnref18) The Straits Times. (2019, June 8). 
+<a target="blank" href="https://www.straitstimes.com/singapore/sovereignty-principle-was-at-stake-in-vietnams-invasion-of-cambodia-in-1978">Sovereignty principle was at stake in Vietnam’s invasion of Cambodia in 1978</a>.
 
-[\[18\]](#_ftnref18) The Straits Times. (2019, June 8). Sovereignty principle was at stake in Vietnam’s invasion of Cambodia in 1978. [https://www.straitstimes.com/singapore/sovereignty-principle-was-at-stake-in-vietnams-invasion-of-cambodia-in-1978](https://www.straitstimes.com/singapore/sovereignty-principle-was-at-stake-in-vietnams-invasion-of-cambodia-in-1978)
-
-[\[19\]](#_ftnref19) Ministry of Foreign Affairs. (2019) MFA Spokesperson’s comments in response to media queries on PM’s condolence letter on the passing of former Thailand Prime Minister and Privy Council President General Prem Tinsulanonda and 2019 Shangri-La Dialogue Speech, 7 June 2019.
+[\[19\]](#_ftnref19) Ministry of Foreign Affairs. (2019, June 7). 
+<a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2019/06/07062019-Spokesperson-Comments-on-PM-Letter-and-2019-SLD-Speech">MFA Spokesperson’s comments in response to media queries on PM’s condolence letter on the passing of former Thailand Prime Minister and Privy Council President General Prem Tinsulanonda and 2019 Shangri-La Dialogue Speech</a>.
 
 [\[20\]](#_ftnref20) *Ibid.*
 
-[\[21\]](#_ftnref21) Prime Minister’s Office. (2022). *PM Lee Hsien Loong at May Day Rally 2022 on 1 May 2022.* [https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-May-Day-Rally-2022](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-May-Day-Rally-2022)
+[\[21\]](#_ftnref21) Prime Minister’s Office. (2022, May 1). 
+<a target="blank" href="https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-May-Day-Rally-2022">PM Lee Hsien Loong at May Day Rally 2022</a>.
 
-[\[22\]](#_ftnref22) Ministry of Foreign Affairs. (2022). *Minister for Foreign Affairs Dr Vivian Balakrishnan’s Ministerial Statement on the situation in Ukraine and its implications, 28 February 2022.
-[https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/02/20220228-Ministerial-Statement](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/02/20220228-Ministerial-Statement)
+[\[22\]](#_ftnref22) Ministry of Foreign Affairs. (2022, February 28). 
+<a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/02/20220228-Ministerial-Statement">Minister for Foreign Affairs Dr Vivian Balakrishnan’s Ministerial Statement on the situation in Ukraine and its implications</a>.
