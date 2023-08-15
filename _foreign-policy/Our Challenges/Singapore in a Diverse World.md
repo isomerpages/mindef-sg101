@@ -69,8 +69,8 @@ Going forward, Singapore will continue to be “buffeted by intense rivalry and 
 #### Bibliography
 
 
-[^1]: National Archives of Singapore. (1965). 
-<a target="blank" href="https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf">Statement of His Excellency Mr S Rajaratnam Foreign Minister of Singapore at the General Assembly on September 21, 1965, on the occasion of Singapore's admission to the United Nations</a>.
+[^1]: National Archives of Singapore. (1965) <a target="blank" href="https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf">Statement of His Excellency Mr S Rajaratnam Foreign Minister of Singapore at the General Assembly on September 21, 1965, on the occasion of Singapore's admission to the United Nations.</a>.
+
 
 [^2]: Public Service Division. (2015). 
 <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>.
