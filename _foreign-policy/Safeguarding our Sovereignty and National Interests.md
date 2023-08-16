@@ -94,11 +94,11 @@ Singapore had no sympathy for the Khmer Rouge regime but the invasion violated a
 
 Vietnam’s action was a clear case of violation of international borders and an act of aggression. If a country could justify invading another based on the latter’s internal developments, Singapore’s own security and sovereignty could one day be at risk.[^16] Singapore had to respond, because this could set an undesirable precedent for small nations, and have serious implications for Singapore.[^17]
 
-Galvanising ASEAN, then comprising five members (Indonesia, Malaysia, the Philippines, Singapore and Thailand), Singapore led a concerted effort to table a resolution at the United Nations General Assembly (UNGA) calling for the withdrawal of foreign troops from Kampuchea and the recognition of Kampuchea’s self-determination.[\[18\]](#_ftn18)
+Galvanising ASEAN, then comprising five members (Indonesia, Malaysia, the Philippines, Singapore and Thailand), Singapore led a concerted effort to table a resolution at the United Nations General Assembly (UNGA) calling for the withdrawal of foreign troops from Kampuchea and the recognition of Kampuchea’s self-determination.[^18]
 
-ASEAN issued a joint statement that was circulated to the United Nations Security Council (UNSC) in 1979, that “affirmed the right of the Kampuchean people to determine their future by themselves, free from interference or influence from outside powers in the exercise of their right of self-determination.”[\[19\]](#_ftn19)
+ASEAN issued a joint statement that was circulated to the United Nations Security Council (UNSC) in 1979, that “affirmed the right of the Kampuchean people to determine their future by themselves, free from interference or influence from outside powers in the exercise of their right of self-determination.”[^19]
 
-ASEAN also spearheaded the 1980 International Meeting of Humanitarian Assistance and Relief to the Kampuchean People, which took place under the auspices of the UN Economic and Social Council.[\[20\]](#_ftn20)
+ASEAN also spearheaded the 1980 International Meeting of Humanitarian Assistance and Relief to the Kampuchean People, which took place under the auspices of the UN Economic and Social Council.[^20]
 
 Notwithstanding serious differences, Singapore and Vietnam set aside our differences and forged a strong relationship when Vietnam eventually withdrew from Kampuchea. The incident also shows that stability and peace in our region should never be taken for granted.
 
