@@ -1,8 +1,10 @@
 ---
 title: Bibliography
-permalink: /social-national-identity/bibliography
+permalink: /social-national-identity/bibliography/
 ---
 #### Bibliography
+
+*Last updated on 16 Aug 2023*
 
 Aaron Chong, (May 2, 2019), Singapore society still ‘fairly conservative’ but the young, educated more open towards homosexual issues: IPS, retrieved from: [https://www.channelnewsasia.com/news/singapore/ips-survey-gay-homosexual-issues-conservative-society-11496758](https://www.channelnewsasia.com/news/singapore/ips-survey-gay-homosexual-issues-conservative-society-11496758)
 
@@ -64,7 +66,7 @@ Coconuts Singapore, (Sep 23, 2019), Blogger Sheena Phua apologises to Sikh commu
 
 Community Service Society, (n.d.), [https://www.cssny.org/](https://www.cssny.org/)
 
-David Lim, (Aug 18, 2011), Shanmugan cautions against xenophobia, retrieved from [https://www.asiaone.com/News/AsiaOne%2BNews/Singapore/Story/A1Story20110817-294802.html](https://www.asiaone.com/News/AsiaOne%2BNews/Singapore/Story/A1Story20110817-294802.html)
+David Lim, (Aug 18, 2011), Shanmugam cautions against xenophobia, retrieved from [https://www.asiaone.com/News/AsiaOne%2BNews/Singapore/Story/A1Story20110817-294802.html](https://www.asiaone.com/News/AsiaOne%2BNews/Singapore/Story/A1Story20110817-294802.html)
 
 Department of Statistics Singapore, (2018), Births and Fertility, retrieved from [https://www.tablebuilder.singstat.gov.sg/publicfacing/createDataTable.action?refId=13273](https://www.tablebuilder.singstat.gov.sg/publicfacing/createDataTable.action?refId=13273)
 
@@ -79,8 +81,6 @@ Ee Ling Low & Anne Pakir, (2018), English in Singapore: striking a new balance f
 Elena Chong, (Mar 24, 2016), TRS editor sentenced to 10 months’ jail for sedition, retrieved from [https://www.straitstimes.com/singapore/courts-crime/trs-editor-sentenced-to-10-months-jail-for-sedition](https://www.straitstimes.com/singapore/courts-crime/trs-editor-sentenced-to-10-months-jail-for-sedition)
 
 Elena Chong, (Mar 31, 2015), Amos Yee charged over remarks against Christianity and offending viewers of his video on Lee Kuan Yew, retrieved from: [https://www.straitstimes.com/singapore/courts-crime/amos-yee-charged-over-remarks-against-christianity-and-offending-viewers-of](https://www.straitstimes.com/singapore/courts-crime/amos-yee-charged-over-remarks-against-christianity-and-offending-viewers-of)
-
-Ethel Pang, (undated), As Long As SAP Schools Exist, ‘Chinese Elitism’ in Singapore Will Exist, retrieved from: [https://www.ricemedia.co/current-affairs-opinion-sap-schools-chinese-elitism-singapore/](https://www.ricemedia.co/current-affairs-opinion-sap-schools-chinese-elitism-singapore/)
 
 Faris Mokhtar, Kimberly Lim, (July 30, 2019), ‘Brownface’ controversy: Society needs to do better, tit-for-tat is not the way, say govt and community leaders, retrieved from [https://www.todayonline.com/singapore/brownface-controversy-society-needs-do-better-tit-tat-not-way-say-govt-and-community](https://www.todayonline.com/singapore/brownface-controversy-society-needs-do-better-tit-tat-not-way-say-govt-and-community)
 
@@ -107,6 +107,8 @@ Grace Fu, (Aug 3, 2019), Deepening partnerships in the integration journey, retr
 Grace Ho, (July 31, 2019), Loud events at void decks, burning of religious items could lead to tensions among neighbours: IPS-OnePeople.sg survey, retrieved from [https://www.straitstimes.com/singapore/loud-events-at-void-decks-burning-of-religious-items-among-pet-peeves](https://www.straitstimes.com/singapore/loud-events-at-void-decks-burning-of-religious-items-among-pet-peeves)
 
 Grace Ho, Oct 8, 2019), Key amendments to Maintenance of Religious Harmony Act, retrieved from [https://www.straitstimes.com/politics/key-amendments-to-maintenance-of-religious-harmony-act](https://www.straitstimes.com/politics/key-amendments-to-maintenance-of-religious-harmony-act)
+
+Hariz Baharudin, (Feb 24, 2019), SAP schools still have important role, 40 years on: Ong Ye Kung. Retrieved from [https://www.straitstimes.com/singapore/avoiding-ideological-extremes-has-allowed-singaporean-identity-to-grow-ong-ye-kung](https://www.straitstimes.com/singapore/avoiding-ideological-extremes-has-allowed-singaporean-identity-to-grow-ong-ye-kung)
 
 History SG, (2014), Singapore separates from Malaysia and becomes independent, retrieved from [http://eresources.nlb.gov.sg/history/events/dc1efe7a-8159-40b2-9244-cdb078755013](http://eresources.nlb.gov.sg/history/events/dc1efe7a-8159-40b2-9244-cdb078755013)
 
@@ -166,7 +168,7 @@ Lianne Chia, (Sep 30, 2018), Little tweaks, with a big difference: The value pro
 
 Lim Min Zhang, (Jul 11, 2019), New book honours pioneer NS officer cadets, retrieved from [https://www.straitstimes.com/singapore/new-book-honours-pioneer-ns-officer-cadets](https://www.straitstimes.com/singapore/new-book-honours-pioneer-ns-officer-cadets)
 
-Lim Yan Liang, (Apr 18, 2020), Coronavirus: Letter on dorm cases xenophobic, says Shanmugan, retrieved from: [https://www.straitstimes.com/singapore/letter-on-dorm-cases-xenophobic-shanmugam](https://www.straitstimes.com/singapore/letter-on-dorm-cases-xenophobic-shanmugam)
+Lim Yan Liang, (Apr 18, 2020), Coronavirus: Letter on dorm cases xenophobic, says Shanmugam, retrieved from: [https://www.straitstimes.com/singapore/letter-on-dorm-cases-xenophobic-shanmugam](https://www.straitstimes.com/singapore/letter-on-dorm-cases-xenophobic-shanmugam)
 
 Low Ai Ling, (May 2003), Countering Extremism: Building Social Resilience Through Community Engagement, Community engagement: Singapore experience, Singapore, Imperial College Press
 
@@ -257,10 +259,6 @@ Sirene Lim, (Sep 15, 2019), Commentary: Long-neglected but now in the spotlight,
 Tan, Yee Lin, (Valid as at September 2016), Presidential Council for Minority Rights, retrieved from [https://eresources.nlb.gov.sg/infopedia/articles/SIP_1605_2009-10-31.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1605_2009-10-31.html)
 
 Tang See Kit, (Sep 21, 2019), Racism in Singapore, relevance of SAP schools among topics raised at dialogue on race, retrieved from: [https://www.channelnewsasia.com/news/singapore/racism-singapore-sap-schools-discussed-onepeople-dialogue-11930444](https://www.channelnewsasia.com/news/singapore/racism-singapore-sap-schools-discussed-onepeople-dialogue-11930444)
-
-Tee Zhuo, (Dec 7, 2017), The Special Assistance Plan: Singapore’s own bumiputera policy, retrieved from: [https://equalitydemocracy.commons.yale-nus.edu.sg/2017/12/07/the-special-assistance-plan-singapores-own-bumiputera-policy/](https://equalitydemocracy.commons.yale-nus.edu.sg/2017/12/07/the-special-assistance-plan-singapores-own-bumiputera-policy/)
-
-Tee Zhuo, (Nov 3, 2019), Keeping the mother tongues alive: Singapore’s bilingual challenge, retrieved from: [https://www.straitstimes.com/singapore/keeping-the-mother-tongues-alive-singapores-bilingual-challenge](https://www.straitstimes.com/singapore/keeping-the-mother-tongues-alive-singapores-bilingual-challenge)
 
 Temasek Foundation, (Sep 28, 2019), Having a Cuppa With Double Shot of Empathy, retrieved from [https://www.temasek.com.sg/en/our-community/temasek-gives/community/Foreword-Coffee-Do-Good](https://www.temasek.com.sg/en/our-community/temasek-gives/community/Foreword-Coffee-Do-Good)
 
