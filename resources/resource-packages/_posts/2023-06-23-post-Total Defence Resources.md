@@ -40,6 +40,21 @@ The TDTDG is the 4th ground-up initiative to be implemented under the Total Defe
 Check out the game [here](https://go.gov.sg/tdtdg)! 
 
 ****
+#### **Total Defence Tower Defence Game**
+
+**Total Defence Tower Defence Game (TDTDG) - Trailer**
+
+<iframe width="600" height="350" src="https://www.youtube.com/embed/qzRvERnR0Kk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+Are you game for something new? The Total Defence Tower Defence Game (TDTDG), an online strategy game, was conceptualised and devised by a dynamic group of youths from NUS High School of Mathematics and Science. 
+
+The game adds a Total Defence-themed twist to the classic tower defence game where players need to allocate resources to build towers to defend their territories against enemy attacks. In the TDTDG, players have to defend Singapore against various threats. The threats have been designed to showcase how the six pillars of Total Defence: Military, Civil, Economic, Social, Digital and Psychological Defence, come into play and highlight how everyone has a part to play in defending Singapore. 
+
+The TDTDG is the 4th ground-up initiative to be implemented under the Total Defence Sandbox (TD Sandbox).
+
+Check out the game [here](https://go.gov.sg/tdtdg)! 
+
+****
 #### **Total Defence 2023 Campaign Poster**
 
 ![Total Defence 2023 Campaign Poster](/images/TD2023%20Poster%20with%20Frame%20Final.jpg)
@@ -63,6 +78,7 @@ The Total Defence Community TTX aims to bring individuals across different ages 
 Interested to carry out your own Total Defence Community TTX? You may download the Total Defence TTX Scenario Video as well as the facilitation materials [here](https://drive.google.com/drive/folders/1Tnr3CySWlcrDPMIQuD2Bv36JEgUWeEur?usp=sharing).
 
 **Note**: There is also a second version of the facilitation materials. This version includes a role-playing element where participants may adopt different personas to think about how the different roles within our society can play a part to be ready and prepared for crises and disruptions.
+
 ****
 #### **Total Defence Interactive Video 2023**
 What are the consequences of your choices? In the Total Defence Interactive Video, you will get to make decisions that will determine the outcome of the character's day.
