@@ -11,28 +11,28 @@ description: ""
 
 As a small island-nation surrounded by large neighbours in a culturally diverse region, Singapore aims to make as many friends as we can while insisting that we be treated as a sovereign equal, where our national interests are not subservient to others.
 
-In the pursuit of our national interests, we will also have to be mindful of the national interests of our partners and friends, and work together to find solutions to global challenges, because no country, large or small, can succeed on its own.[\[1\]](#_ftn1) However, there will also be times when our interests on issues diverge, including with bigger powers.
+In the pursuit of our national interests, we will also have to be mindful of the national interests of our partners and friends, and work together to find solutions to global challenges, because no country, large or small, can succeed on its own.[^1] However, there will also be times when our interests on issues diverge, including with bigger powers.
 
-Where possible, we try to find a mutually beneficial approach to resolve issues. But when key national interests are at stake, we stand firm on our position even if we come under heavy pressure, or if it means a temporary downturn in bilateral relations.[\[2\]](#_ftn2) We do not shy away from standing up for the principles that are fundamental to our survival as an independent, sovereign nation. Otherwise, Singapore’s right to survive and prosper may be called into question one day.
+Where possible, we try to find a mutually beneficial approach to resolve issues. But when key national interests are at stake, we stand firm on our position even if we come under heavy pressure, or if it means a temporary downturn in bilateral relations.[^2] We do not shy away from standing up for the principles that are fundamental to our survival as an independent, sovereign nation. Otherwise, Singapore’s right to survive and prosper may be called into question one day.
 
 Since our independence, Singapore has encountered issues that challenged the principles fundamental to our sovereignty and national interests. Each time, we stood firm, and adopted a principled stand in accordance with our national interests. We act consistently according to our principles that are in the long-term interests of Singapore, and do not take sides or succumb to external pressures.
 
 Ultimately, our foreign policy serves to safeguard Singapore’s national interests and Singaporeans’ freedom to chart our own destiny. As a small country, some countries may try to pressure Singapore to take their side. Hence, we need to uphold an inclusive and rules-based multilateral system, which gives small states a collective stake and voice, and resists a “might is right” paradigm.
 
-The multilateral system is governed by the international rule of law and norms, including those under the United Nations Charter. This allows states to interact and cooperate with one another on an equal footing, regardless of size.[\[3\]](#_ftn3) Under this system, all countries have sovereign equality and disputes can be settled peacefully in accordance with international law. Respect for international law will bring about global peace and stability.
+The multilateral system is governed by the international rule of law and norms, including those under the United Nations Charter. This allows states to interact and cooperate with one another on an equal footing, regardless of size.[^3] Under this system, all countries have sovereign equality and disputes can be settled peacefully in accordance with international law. Respect for international law will bring about global peace and stability.
 
 ***
 
 **The International Rule of Law**
 
-Singapore is a staunch supporter of international law and the principles enshrined in the United Nations Charter. Member countries must abide by the purposes and principles of the United Nations. This includes upholding the sovereign equality of states; respecting their territorial integrity and political independence; and upholding the resolution of disputes by peaceful means.[\[4\]](#_ftn4)
+Singapore is a staunch supporter of international law and the principles enshrined in the United Nations Charter. Member countries must abide by the purposes and principles of the United Nations. This includes upholding the sovereign equality of states; respecting their territorial integrity and political independence; and upholding the resolution of disputes by peaceful means.[^4]
 
 
 ***
 
 ![](/images/vivian%20balakrishnan%20speech%20unga%202018.png)
 
-Within the region, we need to continue to build strong relationships and deepen our cooperation, both bilaterally and as a region. This can help to strengthen our influence as a group, enhance our regional security and our shared prosperity. When countries have more stake in one another’s success and greater inter-dependence, they have a greater incentive to uphold a collaborative and peaceful world order.[\[5\]](#_ftn5)
+Within the region, we need to continue to build strong relationships and deepen our cooperation, both bilaterally and as a region. This can help to strengthen our influence as a group, enhance our regional security and our shared prosperity. When countries have more stake in one another’s success and greater inter-dependence, they have a greater incentive to uphold a collaborative and peaceful world order.[^5]
 
 Beyond the region, we will continue to build a strong network of like-minded international partners, and be a responsible and constructive global player by supporting and actively participating in international organisations such as the United Nations.
 
@@ -42,7 +42,7 @@ Beyond the region, we will continue to build a strong network of like-minded int
 
 **MacDonald House Bombing**
 
-On 10 March 1965, as part of Indonesia’s _Konfrontasi_, two saboteurs, who were Indonesian marines, bombed MacDonald House in Singapore, killing three and injuring 33 people. _Konfrontasi_ ended in August 1966 when Indonesia signed a peace treaty with Malaysia. In September 1967, Singapore established formal diplomatic ties with Indonesia. However, bilateral relations were strained once again when Singapore sentenced the saboteurs to death. They were hanged in 1968, despite pleas for clemency from then-Indonesian President Soeharto. This caused a lot of public anger in Indonesia and protestors ransacked the Singapore Embassy in Jakarta.[\[6\]](#_ftn6)
+On 10 March 1965, as part of Indonesia’s _Konfrontasi_, two saboteurs, who were Indonesian marines, bombed MacDonald House in Singapore, killing three and injuring 33 people. _Konfrontasi_ ended in August 1966 when Indonesia signed a peace treaty with Malaysia. In September 1967, Singapore established formal diplomatic ties with Indonesia. However, bilateral relations were strained once again when Singapore sentenced the saboteurs to death. They were hanged in 1968, despite pleas for clemency from then-Indonesian President Soeharto. This caused a lot of public anger in Indonesia and protestors ransacked the Singapore Embassy in Jakarta.[^6]
 
 ![](/images/macdonald%20house%20bombing.jpeg)
 (Image: Ministry of Culture Collection, courtesy of National Archives of Singapore.)
@@ -55,7 +55,7 @@ On 10 March 1965, as part of Indonesia’s _Konfrontasi_, two saboteurs, who wer
 
 ![](/images/shanmugam%20speech%202014.png)
 
-During then-Prime Minister Mr Lee Kuan Yew’s first visit to Indonesia in May 1973, he scattered flower petals on the graves of the two marines. Mr Lee’s gesture of goodwill provided some closure to the matter and relations between the two countries improved thereafter.[\[7\]](#_ftn7)
+During then-Prime Minister Mr Lee Kuan Yew’s first visit to Indonesia in May 1973, he scattered flower petals on the graves of the two marines. Mr Lee’s gesture of goodwill provided some closure to the matter and relations between the two countries improved thereafter.[^7]
 
 **Read more about *Konfrontasi*  [here](https://www.sg101.gov.sg/defence-and-security/challenges/the-early-tumultuous-years).**
 
