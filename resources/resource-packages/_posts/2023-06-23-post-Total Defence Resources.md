@@ -25,19 +25,18 @@ More information regarding the Total Defence Sandbox can be found [here](https:/
 Submit your ideas [here](https://go.gov.sg/tdsandbox)!
 
 ****
-#### **Total Defence Tower Defence Game**
+#### **Total Defence Murder Mystery Role-playing Game Video Series**
 
-**Total Defence Tower Defence Game (TDTDG) - Trailer**
+**Total Defence Murder Mystery Role-playing Game (MMRPG) Video Series - Trailer**
 
-<iframe width="600" height="350" src="https://www.youtube.com/embed/qzRvERnR0Kk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="600" height="350" src="https://www.youtube.com/embed/0qOwWV3Heys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-Are you game for something new? The Total Defence Tower Defence Game (TDTDG), an online strategy game, was conceptualised and devised by a dynamic group of youths from NUS High School of Mathematics and Science. 
+6 players, 1 murder. Who can it be? The Total Defence MMRPG video series is an immersive social deduction game developed into a three-part video series. This is a ground-up initiative, implemented under the Total Defence Sandbox. The developers of the MMRPG video series are two university students who are game design enthusiasts.
 
-The game adds a Total Defence-themed twist to the classic tower defence game where players need to allocate resources to build towers to defend their territories against enemy attacks. In the TDTDG, players have to defend Singapore against various threats. The threats have been designed to showcase how the six pillars of Total Defence: Military, Civil, Economic, Social, Digital and Psychological Defence, come into play and highlight how everyone has a part to play in defending Singapore. 
+Featuring celebrities such as Tosh Zhang, along with Mister Young and Colin Tan from Power 98, Jimmy Koh from 88.3JIA and more, the video series aims to further engage youths on how they can play a part in the fight against terrorism and climate change.
 
-The TDTDG is the 4th ground-up initiative to be implemented under the Total Defence Sandbox (TD Sandbox).
 
-Check out the game [here](https://go.gov.sg/tdtdg)! 
+Watch the video series [here](https://go.gov.sg/mmrpgvideoseries)! 
 
 ****
 #### **Total Defence Tower Defence Game**
