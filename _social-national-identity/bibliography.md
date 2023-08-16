@@ -108,6 +108,8 @@ Grace Ho, (July 31, 2019), Loud events at void decks, burning of religious items
 
 Grace Ho, Oct 8, 2019), Key amendments to Maintenance of Religious Harmony Act, retrieved from [https://www.straitstimes.com/politics/key-amendments-to-maintenance-of-religious-harmony-act](https://www.straitstimes.com/politics/key-amendments-to-maintenance-of-religious-harmony-act)
 
+Hariz Baharudin, (Feb 24, 2019), SAP schools still have important role, 40 years on: Ong Ye Kung. Retrieved from [https://www.straitstimes.com/singapore/avoiding-ideological-extremes-has-allowed-singaporean-identity-to-grow-ong-ye-kung](https://www.straitstimes.com/singapore/avoiding-ideological-extremes-has-allowed-singaporean-identity-to-grow-ong-ye-kung)
+
 History SG, (2014), Singapore separates from Malaysia and becomes independent, retrieved from [http://eresources.nlb.gov.sg/history/events/dc1efe7a-8159-40b2-9244-cdb078755013](http://eresources.nlb.gov.sg/history/events/dc1efe7a-8159-40b2-9244-cdb078755013)
 
 Hon Jing Yi & Lin Yanqin, (Feb 28, 2016), Madonna sticks to the script at her concert, retrieved from: [https://www.todayonline.com/entertainment/music/over-600-lucky-madonna-fans-get-seats-upgraded-last-minute](https://www.todayonline.com/entertainment/music/over-600-lucky-madonna-fans-get-seats-upgraded-last-minute)
