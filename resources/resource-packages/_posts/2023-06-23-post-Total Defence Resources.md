@@ -25,7 +25,7 @@ More information regarding the Total Defence Sandbox can be found [here](https:/
 Submit your ideas [here](https://go.gov.sg/tdsandbox)!
 
 ****
-#### **Total Defence Murder Mystery Role-playing Game Video Series**
+#### **Total Defence Murder Mystery Role-playing Game (MMRPG) Video Series**
 
 **Total Defence Murder Mystery Role-playing Game (MMRPG) Video Series - Trailer**
 
@@ -34,7 +34,6 @@ Submit your ideas [here](https://go.gov.sg/tdsandbox)!
 6 players, 1 murder. Who can it be? The Total Defence MMRPG video series is an immersive social deduction game developed into a three-part video series. This is a ground-up initiative, implemented under the Total Defence Sandbox. The developers of the MMRPG video series are two university students who are game design enthusiasts.
 
 Featuring celebrities such as Tosh Zhang, along with Mister Young and Colin Tan from Power 98, Jimmy Koh from 88.3JIA and more, the video series aims to further engage youths on how they can play a part in the fight against terrorism and climate change.
-
 
 Watch the video series [here](https://go.gov.sg/mmrpgvideoseries)! 
 
