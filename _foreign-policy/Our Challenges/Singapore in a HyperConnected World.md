@@ -77,7 +77,7 @@ For a small country like Singapore, our success is dependent on Singaporeans’ 
 * * *
 #### Bibliography
 
-[^1]  Prime Minister’s Office. (2021, November 30).
+[^1] Prime Minister’s Office. (2021, November 30).
 <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/11/20211130-S-Raj">DPM Heng Swee Keat at the S Rajaratnam Lecture on “Fostering Growth and Stability in an Age of Complexity”</a>.
 
 [^2] World Economic Forum. (2016, January 20). 
