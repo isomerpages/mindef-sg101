@@ -1,6 +1,6 @@
 ---
 title: Bibliography
-permalink: /social-national-identity/bibliography
+permalink: /social-national-identity/bibliography/
 ---
 #### Bibliography
 
@@ -64,7 +64,7 @@ Coconuts Singapore, (Sep 23, 2019), Blogger Sheena Phua apologises to Sikh commu
 
 Community Service Society, (n.d.), [https://www.cssny.org/](https://www.cssny.org/)
 
-David Lim, (Aug 18, 2011), Shanmugan cautions against xenophobia, retrieved from [https://www.asiaone.com/News/AsiaOne%2BNews/Singapore/Story/A1Story20110817-294802.html](https://www.asiaone.com/News/AsiaOne%2BNews/Singapore/Story/A1Story20110817-294802.html)
+David Lim, (Aug 18, 2011), Shanmugam cautions against xenophobia, retrieved from [https://www.asiaone.com/News/AsiaOne%2BNews/Singapore/Story/A1Story20110817-294802.html](https://www.asiaone.com/News/AsiaOne%2BNews/Singapore/Story/A1Story20110817-294802.html)
 
 Department of Statistics Singapore, (2018), Births and Fertility, retrieved from [https://www.tablebuilder.singstat.gov.sg/publicfacing/createDataTable.action?refId=13273](https://www.tablebuilder.singstat.gov.sg/publicfacing/createDataTable.action?refId=13273)
 
@@ -166,7 +166,7 @@ Lianne Chia, (Sep 30, 2018), Little tweaks, with a big difference: The value pro
 
 Lim Min Zhang, (Jul 11, 2019), New book honours pioneer NS officer cadets, retrieved from [https://www.straitstimes.com/singapore/new-book-honours-pioneer-ns-officer-cadets](https://www.straitstimes.com/singapore/new-book-honours-pioneer-ns-officer-cadets)
 
-Lim Yan Liang, (Apr 18, 2020), Coronavirus: Letter on dorm cases xenophobic, says Shanmugan, retrieved from: [https://www.straitstimes.com/singapore/letter-on-dorm-cases-xenophobic-shanmugam](https://www.straitstimes.com/singapore/letter-on-dorm-cases-xenophobic-shanmugam)
+Lim Yan Liang, (Apr 18, 2020), Coronavirus: Letter on dorm cases xenophobic, says Shanmugam, retrieved from: [https://www.straitstimes.com/singapore/letter-on-dorm-cases-xenophobic-shanmugam](https://www.straitstimes.com/singapore/letter-on-dorm-cases-xenophobic-shanmugam)
 
 Low Ai Ling, (May 2003), Countering Extremism: Building Social Resilience Through Community Engagement, Community engagement: Singapore experience, Singapore, Imperial College Press
 
