@@ -63,7 +63,7 @@ Watch our video on *Konfrontasi* below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m5HNGgfz8i8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-In 2014, Indonesia named a new warship “Usman Harun” after the two marines who carried out the 1965 MacDonald House bombing in Singapore. The naming of the ship by Indonesia, and Singapore’s objections to it, led to much unhappiness on both sides, setting back our relations momentarily[\[8\]](#_ftn8).
+In 2014, Indonesia named a new warship “Usman Harun” after the two marines who carried out the 1965 MacDonald House bombing in Singapore. The naming of the ship by Indonesia, and Singapore’s objections to it, led to much unhappiness on both sides, setting back our relations momentarily[^8].
 
 ![](/images/shanmugam%20speech%20feb%202014.png)
 
@@ -72,9 +72,9 @@ Singapore strongly registered our concerns on the naming of the ship with Indone
 ***
 **The Caning of Michael Fay**
 
-In 1993, an American teenager Michael Fay was arrested in Singapore for multiple acts of vandalism and mischief, and the possession of stolen items.[\[9\]](#_ftn9) In 1994, Fay was sentenced to four months’ jail, a fine and six strokes of the cane.[\[10\]](#_ftn10)
+In 1993, an American teenager Michael Fay was arrested in Singapore for multiple acts of vandalism and mischief, and the possession of stolen items.[^9] In 1994, Fay was sentenced to four months’ jail, a fine and six strokes of the cane.[^10]
 
-As US public opinion intensified against the caning sentence, the Clinton administration pressured the Singapore Government to commute the caning sentence. Many US lawmakers criticised the decision and the White House refused to let then-Prime Minister Goh Chok Tong meet Mr Clinton.[\[11\]](#_ftn11) The US also voted against Singapore’s bid to host the inaugural World Trade Organisation Ministerial Conference in December 1996.[\[12\]](#_ftn12)
+As US public opinion intensified against the caning sentence, the Clinton administration pressured the Singapore Government to commute the caning sentence. Many US lawmakers criticised the decision and the White House refused to let then-Prime Minister Goh Chok Tong meet Mr Clinton.[^11] The US also voted against Singapore’s bid to host the inaugural World Trade Organisation Ministerial Conference in December 1996.[^12]
 
 Singapore preserved its sovereign right to uphold its rule of law, standing its ground against external pressures and meting out the caning sentence to Fay. (Then-President Mr Ong Teng Cheong reduced the number of strokes from six to four, in view of Mr Clinton’s Presidential plea). If we had allowed another country to dictate how Singapore should deal with a domestic law and order issue, we may face similar demands from other countries in future. Giving in to such demands would compromise the rule of law in Singapore, and our credibility at home and abroad.[\[13\]](#_ftn13)
 
