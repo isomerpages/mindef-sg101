@@ -37,6 +37,8 @@ Featuring celebrities such as Tosh Zhang, along with Mister Young and Colin Tan 
 
 Watch the video series [here](https://go.gov.sg/mmrpgvideoseries)! 
 
+Stay tuned. Episode 2 and 3 coming soon!
+
 ****
 #### **Total Defence Tower Defence Game**
 
