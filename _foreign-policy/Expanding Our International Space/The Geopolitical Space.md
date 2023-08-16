@@ -56,27 +56,27 @@ By playing an active role on the regional and global stage, Singapore is able to
 * * *
 #### Bibliography
 
-[^1] Ministry of Foreign Affairs. (2014, October 2017) 
+[^1]: Ministry of Foreign Affairs. (2014, October 2017) 
 <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2014/10/MFA-Press-Release-Transcript-of-speech-by-Emeritus-Senior-Minister-Goh-Chok-Tong-at-S-Rajaratnam-Lec">The Practice of Foreign Policy for Sustained Growth – The Singapore Experience.* Transcript of speech by Emeritus Senior Minister Goh Chok Tong at S Rajaratnam Lecture</a>.
 
-[^2] Baharudin, H. (2022, September 23). 
+[^2]: Baharudin, H. (2022, September 23). 
 <a target="blank" href="https://www.straitstimes.com/singapore/small-states-must-participate-actively-to-strengthen-the-multilateral-system-pm-lee">Small states must participate actively to strengthen the multilateral system: PM Lee</a>. *The Straits Times.* 
 
-[^3] Ministry of Foreign Affairs. (n.d.) 
+[^3]: Ministry of Foreign Affairs. (n.d.) 
 <a target="blank" href="https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/International-Issues/Small-States">Small States</a>.
 
-[^4] *Ibid.*
+[^4]: *Ibid.*
 
-[^5] *Ibid.*
+[^5]: *Ibid.*
 
-[^6] *Ibid.*
+[^6]: *Ibid.*
 
-[^7] Ministry of Foreign Affairs. (n.d.) 
+[^7]: Ministry of Foreign Affairs. (n.d.) 
 <a target="blank" href="https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/International-Organisations/ASEAN">ASEAN</a>.
 
-[^8] *Ibid.*
+[^8]: *Ibid.*
 
-[^9] *Ibid.*
+[^9]: *Ibid.*
 
-[^10] Public Service Division. (2015). 
+[^10]: Public Service Division. (2015). 
 <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>.

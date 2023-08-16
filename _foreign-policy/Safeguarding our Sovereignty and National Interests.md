@@ -11,28 +11,28 @@ description: ""
 
 As a small island-nation surrounded by large neighbours in a culturally diverse region, Singapore aims to make as many friends as we can while insisting that we be treated as a sovereign equal, where our national interests are not subservient to others.
 
-In the pursuit of our national interests, we will also have to be mindful of the national interests of our partners and friends, and work together to find solutions to global challenges, because no country, large or small, can succeed on its own.[\[1\]](#_ftn1) However, there will also be times when our interests on issues diverge, including with bigger powers.
+In the pursuit of our national interests, we will also have to be mindful of the national interests of our partners and friends, and work together to find solutions to global challenges, because no country, large or small, can succeed on its own.[^1] However, there will also be times when our interests on issues diverge, including with bigger powers.
 
-Where possible, we try to find a mutually beneficial approach to resolve issues. But when key national interests are at stake, we stand firm on our position even if we come under heavy pressure, or if it means a temporary downturn in bilateral relations.[\[2\]](#_ftn2) We do not shy away from standing up for the principles that are fundamental to our survival as an independent, sovereign nation. Otherwise, Singapore’s right to survive and prosper may be called into question one day.
+Where possible, we try to find a mutually beneficial approach to resolve issues. But when key national interests are at stake, we stand firm on our position even if we come under heavy pressure, or if it means a temporary downturn in bilateral relations.[^2] We do not shy away from standing up for the principles that are fundamental to our survival as an independent, sovereign nation. Otherwise, Singapore’s right to survive and prosper may be called into question one day.
 
 Since our independence, Singapore has encountered issues that challenged the principles fundamental to our sovereignty and national interests. Each time, we stood firm, and adopted a principled stand in accordance with our national interests. We act consistently according to our principles that are in the long-term interests of Singapore, and do not take sides or succumb to external pressures.
 
 Ultimately, our foreign policy serves to safeguard Singapore’s national interests and Singaporeans’ freedom to chart our own destiny. As a small country, some countries may try to pressure Singapore to take their side. Hence, we need to uphold an inclusive and rules-based multilateral system, which gives small states a collective stake and voice, and resists a “might is right” paradigm.
 
-The multilateral system is governed by the international rule of law and norms, including those under the United Nations Charter. This allows states to interact and cooperate with one another on an equal footing, regardless of size.[\[3\]](#_ftn3) Under this system, all countries have sovereign equality and disputes can be settled peacefully in accordance with international law. Respect for international law will bring about global peace and stability.
+The multilateral system is governed by the international rule of law and norms, including those under the United Nations Charter. This allows states to interact and cooperate with one another on an equal footing, regardless of size.[^3] Under this system, all countries have sovereign equality and disputes can be settled peacefully in accordance with international law. Respect for international law will bring about global peace and stability.
 
 ***
 
 **The International Rule of Law**
 
-Singapore is a staunch supporter of international law and the principles enshrined in the United Nations Charter. Member countries must abide by the purposes and principles of the United Nations. This includes upholding the sovereign equality of states; respecting their territorial integrity and political independence; and upholding the resolution of disputes by peaceful means.[\[4\]](#_ftn4)
+Singapore is a staunch supporter of international law and the principles enshrined in the United Nations Charter. Member countries must abide by the purposes and principles of the United Nations. This includes upholding the sovereign equality of states; respecting their territorial integrity and political independence; and upholding the resolution of disputes by peaceful means.[^4]
 
 
 ***
 
 ![](/images/vivian%20balakrishnan%20speech%20unga%202018.png)
 
-Within the region, we need to continue to build strong relationships and deepen our cooperation, both bilaterally and as a region. This can help to strengthen our influence as a group, enhance our regional security and our shared prosperity. When countries have more stake in one another’s success and greater inter-dependence, they have a greater incentive to uphold a collaborative and peaceful world order.[\[5\]](#_ftn5)
+Within the region, we need to continue to build strong relationships and deepen our cooperation, both bilaterally and as a region. This can help to strengthen our influence as a group, enhance our regional security and our shared prosperity. When countries have more stake in one another’s success and greater inter-dependence, they have a greater incentive to uphold a collaborative and peaceful world order.[^5]
 
 Beyond the region, we will continue to build a strong network of like-minded international partners, and be a responsible and constructive global player by supporting and actively participating in international organisations such as the United Nations.
 
@@ -42,7 +42,7 @@ Beyond the region, we will continue to build a strong network of like-minded int
 
 **MacDonald House Bombing**
 
-On 10 March 1965, as part of Indonesia’s _Konfrontasi_, two saboteurs, who were Indonesian marines, bombed MacDonald House in Singapore, killing three and injuring 33 people. _Konfrontasi_ ended in August 1966 when Indonesia signed a peace treaty with Malaysia. In September 1967, Singapore established formal diplomatic ties with Indonesia. However, bilateral relations were strained once again when Singapore sentenced the saboteurs to death. They were hanged in 1968, despite pleas for clemency from then-Indonesian President Soeharto. This caused a lot of public anger in Indonesia and protestors ransacked the Singapore Embassy in Jakarta.[\[6\]](#_ftn6)
+On 10 March 1965, as part of Indonesia’s _Konfrontasi_, two saboteurs, who were Indonesian marines, bombed MacDonald House in Singapore, killing three and injuring 33 people. _Konfrontasi_ ended in August 1966 when Indonesia signed a peace treaty with Malaysia. In September 1967, Singapore established formal diplomatic ties with Indonesia. However, bilateral relations were strained once again when Singapore sentenced the saboteurs to death. They were hanged in 1968, despite pleas for clemency from then-Indonesian President Soeharto. This caused a lot of public anger in Indonesia and protestors ransacked the Singapore Embassy in Jakarta.[^6]
 
 ![](/images/macdonald%20house%20bombing.jpeg)
 (Image: Ministry of Culture Collection, courtesy of National Archives of Singapore.)
@@ -55,7 +55,7 @@ On 10 March 1965, as part of Indonesia’s _Konfrontasi_, two saboteurs, who wer
 
 ![](/images/shanmugam%20speech%202014.png)
 
-During then-Prime Minister Mr Lee Kuan Yew’s first visit to Indonesia in May 1973, he scattered flower petals on the graves of the two marines. Mr Lee’s gesture of goodwill provided some closure to the matter and relations between the two countries improved thereafter.[\[7\]](#_ftn7)
+During then-Prime Minister Mr Lee Kuan Yew’s first visit to Indonesia in May 1973, he scattered flower petals on the graves of the two marines. Mr Lee’s gesture of goodwill provided some closure to the matter and relations between the two countries improved thereafter.[^7]
 
 **Read more about *Konfrontasi*  [here](https://www.sg101.gov.sg/defence-and-security/challenges/the-early-tumultuous-years).**
 
@@ -63,7 +63,7 @@ Watch our video on *Konfrontasi* below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m5HNGgfz8i8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-In 2014, Indonesia named a new warship “Usman Harun” after the two marines who carried out the 1965 MacDonald House bombing in Singapore. The naming of the ship by Indonesia, and Singapore’s objections to it, led to much unhappiness on both sides, setting back our relations momentarily[\[8\]](#_ftn8).
+In 2014, Indonesia named a new warship “Usman Harun” after the two marines who carried out the 1965 MacDonald House bombing in Singapore. The naming of the ship by Indonesia, and Singapore’s objections to it, led to much unhappiness on both sides, setting back our relations momentarily[^8].
 
 ![](/images/shanmugam%20speech%20feb%202014.png)
 
@@ -72,11 +72,11 @@ Singapore strongly registered our concerns on the naming of the ship with Indone
 ***
 **The Caning of Michael Fay**
 
-In 1993, an American teenager Michael Fay was arrested in Singapore for multiple acts of vandalism and mischief, and the possession of stolen items.[\[9\]](#_ftn9) In 1994, Fay was sentenced to four months’ jail, a fine and six strokes of the cane.[\[10\]](#_ftn10)
+In 1993, an American teenager Michael Fay was arrested in Singapore for multiple acts of vandalism and mischief, and the possession of stolen items.[^9] In 1994, Fay was sentenced to four months’ jail, a fine and six strokes of the cane.[^10]
 
-As US public opinion intensified against the caning sentence, the Clinton administration pressured the Singapore Government to commute the caning sentence. Many US lawmakers criticised the decision and the White House refused to let then-Prime Minister Goh Chok Tong meet Mr Clinton.[\[11\]](#_ftn11) The US also voted against Singapore’s bid to host the inaugural World Trade Organisation Ministerial Conference in December 1996.[\[12\]](#_ftn12)
+As US public opinion intensified against the caning sentence, the Clinton administration pressured the Singapore Government to commute the caning sentence. Many US lawmakers criticised the decision and the White House refused to let then-Prime Minister Goh Chok Tong meet Mr Clinton.[^11] The US also voted against Singapore’s bid to host the inaugural World Trade Organisation Ministerial Conference in December 1996.[^12]
 
-Singapore preserved its sovereign right to uphold its rule of law, standing its ground against external pressures and meting out the caning sentence to Fay. (Then-President Mr Ong Teng Cheong reduced the number of strokes from six to four, in view of Mr Clinton’s Presidential plea). If we had allowed another country to dictate how Singapore should deal with a domestic law and order issue, we may face similar demands from other countries in future. Giving in to such demands would compromise the rule of law in Singapore, and our credibility at home and abroad.[\[13\]](#_ftn13)
+Singapore preserved its sovereign right to uphold its rule of law, standing its ground against external pressures and meting out the caning sentence to Fay. (Then-President Mr Ong Teng Cheong reduced the number of strokes from six to four, in view of Mr Clinton’s Presidential plea). If we had allowed another country to dictate how Singapore should deal with a domestic law and order issue, we may face similar demands from other countries in future. Giving in to such demands would compromise the rule of law in Singapore, and our credibility at home and abroad.[^13]
 
 Nonetheless, Singapore’s principled stand on the matter was widely supported by Singaporeans and earned us broad respect internationally, even in the US.
 
@@ -86,19 +86,19 @@ Nonetheless, Singapore’s principled stand on the matter was widely supported b
 
 **Singapore’s Position on Vietnam’s Invasion of Cambodia**
 
-In December 1978, Vietnam invaded Kampuchea (presently Cambodia) and toppled the brutal Khmer Rouge regime, which had ruled the country between 1975 and 1978, and reportedly killed one-third of the population. The Vietnamese installed a government led by Heng Samrin.[\[14\]](#_ftn14)[\[15\]](#_ftn15)
+In December 1978, Vietnam invaded Kampuchea (presently Cambodia) and toppled the brutal Khmer Rouge regime, which had ruled the country between 1975 and 1978, and reportedly killed one-third of the population. The Vietnamese installed a government led by Heng Samrin.[^14] [^15]
 
 Singapore had no sympathy for the Khmer Rouge regime but the invasion violated an important principle that no country should violate the sovereignty of another.
 
 ![](/images/wong%20kan%20seng%20speech.png)
 
-Vietnam’s action was a clear case of violation of international borders and an act of aggression. If a country could justify invading another based on the latter’s internal developments, Singapore’s own security and sovereignty could one day be at risk.[\[16\]](#_ftn16) Singapore had to respond, because this could set an undesirable precedent for small nations, and have serious implications for Singapore.[\[17\]](#_ftn17)
+Vietnam’s action was a clear case of violation of international borders and an act of aggression. If a country could justify invading another based on the latter’s internal developments, Singapore’s own security and sovereignty could one day be at risk.[^16] Singapore had to respond, because this could set an undesirable precedent for small nations, and have serious implications for Singapore.[^17]
 
-Galvanising ASEAN, then comprising five members (Indonesia, Malaysia, the Philippines, Singapore and Thailand), Singapore led a concerted effort to table a resolution at the United Nations General Assembly (UNGA) calling for the withdrawal of foreign troops from Kampuchea and the recognition of Kampuchea’s self-determination.[\[18\]](#_ftn18)
+Galvanising ASEAN, then comprising five members (Indonesia, Malaysia, the Philippines, Singapore and Thailand), Singapore led a concerted effort to table a resolution at the United Nations General Assembly (UNGA) calling for the withdrawal of foreign troops from Kampuchea and the recognition of Kampuchea’s self-determination.[^18]
 
-ASEAN issued a joint statement that was circulated to the United Nations Security Council (UNSC) in 1979, that “affirmed the right of the Kampuchean people to determine their future by themselves, free from interference or influence from outside powers in the exercise of their right of self-determination.”[\[19\]](#_ftn19)
+ASEAN issued a joint statement that was circulated to the United Nations Security Council (UNSC) in 1979, that “affirmed the right of the Kampuchean people to determine their future by themselves, free from interference or influence from outside powers in the exercise of their right of self-determination.”[^19]
 
-ASEAN also spearheaded the 1980 International Meeting of Humanitarian Assistance and Relief to the Kampuchean People, which took place under the auspices of the UN Economic and Social Council.[\[20\]](#_ftn20)
+ASEAN also spearheaded the 1980 International Meeting of Humanitarian Assistance and Relief to the Kampuchean People, which took place under the auspices of the UN Economic and Social Council.[^20]
 
 Notwithstanding serious differences, Singapore and Vietnam set aside our differences and forged a strong relationship when Vietnam eventually withdrew from Kampuchea. The incident also shows that stability and peace in our region should never be taken for granted.
 
