@@ -8,7 +8,7 @@ third_nav_title: Our Challenges
 
 [Last updated on 17 July 2023]
 
-The makeup and attitude of Singapore’s society is constantly changing. Singapore is an open, multi-racial and multi-religious society. We are open to the world, and welcome talent from abroad.[\[1\]](#_ftn1) With globalisation and enhanced connectivity, Singaporeans have ventured abroad for studies, work and leisure, contributing to changing perceptions and attitudes.
+The makeup and attitude of Singapore’s society is constantly changing. Singapore is an open, multi-racial and multi-religious society. We are open to the world, and welcome talent from abroad.[^1] With globalisation and enhanced connectivity, Singaporeans have ventured abroad for studies, work and leisure, contributing to changing perceptions and attitudes.
 
 Singapore is among countries with the highest Internet penetration rate in the world. Singaporeans are also among the most active consumers of social media.[\[2\]](#_ftn2) We have easy access to news and information from all over the world and are able to conveniently create and share content.[\[3\]](#_ftn3)
 
