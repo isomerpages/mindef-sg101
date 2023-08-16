@@ -4,6 +4,8 @@ permalink: /social-national-identity/bibliography/
 ---
 #### Bibliography
 
+*Last updated on 16 Aug 2023*
+
 Aaron Chong, (May 2, 2019), Singapore society still ‘fairly conservative’ but the young, educated more open towards homosexual issues: IPS, retrieved from: [https://www.channelnewsasia.com/news/singapore/ips-survey-gay-homosexual-issues-conservative-society-11496758](https://www.channelnewsasia.com/news/singapore/ips-survey-gay-homosexual-issues-conservative-society-11496758)
 
 Alex Stambaugh, (July 30, 2019), Singapore advertisement sparks ‘brownface’ controversy, retrieved from [https://edition.cnn.com/2019/07/30/asia/singapore-brownface-ad-sparks-controversy-intl-hnk-trnd/index.html](https://edition.cnn.com/2019/07/30/asia/singapore-brownface-ad-sparks-controversy-intl-hnk-trnd/index.html)
@@ -79,8 +81,6 @@ Ee Ling Low & Anne Pakir, (2018), English in Singapore: striking a new balance f
 Elena Chong, (Mar 24, 2016), TRS editor sentenced to 10 months’ jail for sedition, retrieved from [https://www.straitstimes.com/singapore/courts-crime/trs-editor-sentenced-to-10-months-jail-for-sedition](https://www.straitstimes.com/singapore/courts-crime/trs-editor-sentenced-to-10-months-jail-for-sedition)
 
 Elena Chong, (Mar 31, 2015), Amos Yee charged over remarks against Christianity and offending viewers of his video on Lee Kuan Yew, retrieved from: [https://www.straitstimes.com/singapore/courts-crime/amos-yee-charged-over-remarks-against-christianity-and-offending-viewers-of](https://www.straitstimes.com/singapore/courts-crime/amos-yee-charged-over-remarks-against-christianity-and-offending-viewers-of)
-
-Ethel Pang, (undated), As Long As SAP Schools Exist, ‘Chinese Elitism’ in Singapore Will Exist, retrieved from: [https://www.ricemedia.co/current-affairs-opinion-sap-schools-chinese-elitism-singapore/](https://www.ricemedia.co/current-affairs-opinion-sap-schools-chinese-elitism-singapore/)
 
 Faris Mokhtar, Kimberly Lim, (July 30, 2019), ‘Brownface’ controversy: Society needs to do better, tit-for-tat is not the way, say govt and community leaders, retrieved from [https://www.todayonline.com/singapore/brownface-controversy-society-needs-do-better-tit-tat-not-way-say-govt-and-community](https://www.todayonline.com/singapore/brownface-controversy-society-needs-do-better-tit-tat-not-way-say-govt-and-community)
 
@@ -259,10 +259,6 @@ Sirene Lim, (Sep 15, 2019), Commentary: Long-neglected but now in the spotlight,
 Tan, Yee Lin, (Valid as at September 2016), Presidential Council for Minority Rights, retrieved from [https://eresources.nlb.gov.sg/infopedia/articles/SIP_1605_2009-10-31.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1605_2009-10-31.html)
 
 Tang See Kit, (Sep 21, 2019), Racism in Singapore, relevance of SAP schools among topics raised at dialogue on race, retrieved from: [https://www.channelnewsasia.com/news/singapore/racism-singapore-sap-schools-discussed-onepeople-dialogue-11930444](https://www.channelnewsasia.com/news/singapore/racism-singapore-sap-schools-discussed-onepeople-dialogue-11930444)
-
-Tee Zhuo, (Dec 7, 2017), The Special Assistance Plan: Singapore’s own bumiputera policy, retrieved from: [https://equalitydemocracy.commons.yale-nus.edu.sg/2017/12/07/the-special-assistance-plan-singapores-own-bumiputera-policy/](https://equalitydemocracy.commons.yale-nus.edu.sg/2017/12/07/the-special-assistance-plan-singapores-own-bumiputera-policy/)
-
-Tee Zhuo, (Nov 3, 2019), Keeping the mother tongues alive: Singapore’s bilingual challenge, retrieved from: [https://www.straitstimes.com/singapore/keeping-the-mother-tongues-alive-singapores-bilingual-challenge](https://www.straitstimes.com/singapore/keeping-the-mother-tongues-alive-singapores-bilingual-challenge)
 
 Temasek Foundation, (Sep 28, 2019), Having a Cuppa With Double Shot of Empathy, retrieved from [https://www.temasek.com.sg/en/our-community/temasek-gives/community/Foreword-Coffee-Do-Good](https://www.temasek.com.sg/en/our-community/temasek-gives/community/Foreword-Coffee-Do-Good)
 
