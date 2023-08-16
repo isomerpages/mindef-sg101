@@ -86,13 +86,13 @@ Nonetheless, Singapore’s principled stand on the matter was widely supported b
 
 **Singapore’s Position on Vietnam’s Invasion of Cambodia**
 
-In December 1978, Vietnam invaded Kampuchea (presently Cambodia) and toppled the brutal Khmer Rouge regime, which had ruled the country between 1975 and 1978, and reportedly killed one-third of the population. The Vietnamese installed a government led by Heng Samrin.[\[14\]](#_ftn14)[\[15\]](#_ftn15)
+In December 1978, Vietnam invaded Kampuchea (presently Cambodia) and toppled the brutal Khmer Rouge regime, which had ruled the country between 1975 and 1978, and reportedly killed one-third of the population. The Vietnamese installed a government led by Heng Samrin.[^14] [^15]
 
 Singapore had no sympathy for the Khmer Rouge regime but the invasion violated an important principle that no country should violate the sovereignty of another.
 
 ![](/images/wong%20kan%20seng%20speech.png)
 
-Vietnam’s action was a clear case of violation of international borders and an act of aggression. If a country could justify invading another based on the latter’s internal developments, Singapore’s own security and sovereignty could one day be at risk.[\[16\]](#_ftn16) Singapore had to respond, because this could set an undesirable precedent for small nations, and have serious implications for Singapore.[\[17\]](#_ftn17)
+Vietnam’s action was a clear case of violation of international borders and an act of aggression. If a country could justify invading another based on the latter’s internal developments, Singapore’s own security and sovereignty could one day be at risk.[^16] Singapore had to respond, because this could set an undesirable precedent for small nations, and have serious implications for Singapore.[^17]
 
 Galvanising ASEAN, then comprising five members (Indonesia, Malaysia, the Philippines, Singapore and Thailand), Singapore led a concerted effort to table a resolution at the United Nations General Assembly (UNGA) calling for the withdrawal of foreign troops from Kampuchea and the recognition of Kampuchea’s self-determination.[\[18\]](#_ftn18)
 
