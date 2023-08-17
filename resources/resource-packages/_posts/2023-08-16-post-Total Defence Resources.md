@@ -1,7 +1,7 @@
 ---
 title: Total Defence Resources
 permalink: /resources/resource-packages/tdresources/
-date: 2023-06-23
+date: 2023-08-16
 layout: post
 description: ""
 image: ""
@@ -17,6 +17,7 @@ Below are some resources on Total Defence which you may find useful for your eng
 ****
 #### **Total Defence Sandbox**
 ![Total Defence Sandbox](/images/Total%20Defence%20Sandbox.jpg)
+
 The Total Defence Sandbox seeks ground-up innovation from Singaporeans especially youths to start initiatives that put Total Defence into action. The Total Defence Sandbox invites everyone to share ideas on Total Defence and aims to nurture these ideas and eventually match ideas with partners who could support the implementation or amplification of their efforts.
 
 More information regarding the Total Defence Sandbox can be found [here](https://go.gov.sg/tdsandboxdetails).
@@ -24,11 +25,26 @@ More information regarding the Total Defence Sandbox can be found [here](https:/
 Submit your ideas [here](https://go.gov.sg/tdsandbox)!
 
 ****
+#### **Total Defence Murder Mystery Role-playing Game (MMRPG) Video Series**
+
+**Total Defence Murder Mystery Role-playing Game (MMRPG) Video Series - Trailer**
+
+<iframe width="600" height="350" src="https://www.youtube.com/embed/0qOwWV3Heys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+6 players, 1 murder. Who can it be? The Total Defence MMRPG video series is an immersive social deduction game developed into a three-part video series. This is a ground-up initiative, implemented under the Total Defence Sandbox. The developers of the MMRPG video series are two university students who are game design enthusiasts.
+
+Featuring celebrities such as Tosh Zhang, along with Mister Young and Colin Tan from Power 98, Jimmy Koh from 88.3JIA and more, the video series aims to further engage youths on how they can play a part in the fight against terrorism and climate change.
+
+Watch the video series [here](https://go.gov.sg/mmrpgvideoseries)! 
+
+Stay tuned. Episode 2 and 3 coming soon!
+
+****
 #### **Total Defence Tower Defence Game**
 
 **Total Defence Tower Defence Game (TDTDG) - Trailer**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qzRvERnR0Kk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="600" height="350" src="https://www.youtube.com/embed/qzRvERnR0Kk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Are you game for something new? The Total Defence Tower Defence Game (TDTDG), an online strategy game, was conceptualised and devised by a dynamic group of youths from NUS High School of Mathematics and Science. 
 
@@ -42,6 +58,7 @@ Check out the game [here](https://go.gov.sg/tdtdg)!
 #### **Total Defence 2023 Campaign Poster**
 
 ![Total Defence 2023 Campaign Poster](/images/TD2023%20Poster%20with%20Frame%20Final.jpg)
+
 The theme of the Total Defence campaign and poster is "Together We Keep Singapore Strong" to remind us that everyone has a part to play!
 
 This year's poster features what Singaporeans can do to put Total Defence in action in their everyday lives, and how we can be more prepared during a crisis or disruption.
@@ -59,6 +76,8 @@ The Total Defence Community TTX aims to bring individuals across different ages 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HBXgEvPd1GA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Interested to carry out your own Total Defence Community TTX? You may download the Total Defence TTX Scenario Video as well as the facilitation materials [here](https://drive.google.com/drive/folders/1Tnr3CySWlcrDPMIQuD2Bv36JEgUWeEur?usp=sharing).
+
+**Note**: There is also a second version of the facilitation materials. This version includes a role-playing element where participants may adopt different personas to think about how the different roles within our society can play a part to be ready and prepared for crises and disruptions.
 
 ****
 #### **Total Defence Interactive Video 2023**
