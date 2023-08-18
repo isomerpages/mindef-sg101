@@ -46,7 +46,7 @@ In his statement upon Singapore’s admission to the UN, then-Minister for Forei
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tXVyZrdT-T8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-Even as international developments have evolved, the fundamental challenges of size and geography have not changed for Singapore.[\[^4] We will always be a small country in an uncertain world, with no natural resources and only our wits and determination to see us through difficult times. However, Singapore is in a much better position today, compared to when we first gained independence in 1965.[^5]
+Even as international developments have evolved, the fundamental challenges of size and geography have not changed for Singapore.[^4] We will always be a small country in an uncertain world, with no natural resources and only our wits and determination to see us through difficult times. However, Singapore is in a much better position today, compared to when we first gained independence in 1965.[^5]
 
 Geopolitics in our region continues to be shaped by increasingly complex and adversarial relationships between major powers, whose divergent national interests intersect in Southeast Asia.[^6] This in turn impacts Singapore’s foreign policy.
 
@@ -101,4 +101,4 @@ Going forward, Singapore will continue to be “buffeted by intense rivalry and 
 [^11]:  Prime Minister’s Office. (2022, August 8)<a target="blank" href="https://www.pmo.gov.sg/Newsroom/National-Day-Message-2022">Prime Minister Lee Hsien Loong’s 2022 National Day Message.</a>.
 
 
-[^12]:  Ministry of Foreign Affairs. (2017, November 27) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat">Speech by Dr Tony Tan Keng Yam, Former President of Singapore, at the 10th S Rajaratnam Lecture.</a>. 
+[^12]:  Ministry of Foreign Affairs. (2017, November 27) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat">Speech by Dr Tony Tan Keng Yam, Former President of Singapore, at the 10th S Rajaratnam Lecture.</a>.
