@@ -58,11 +58,11 @@ Watch [ChannelNews Asia 2-part documentary on the management of our national res
 
 The biggest misconception amongst Singaporeans is that Singapore has “so much” reserves. However, Singapore is not over-saving. In fact, the national reserves are growing at a rate that is barely keeping pace with economic growth.[^8]
 
-The investment returns being channelled back into the national reserves is key to building up the country’s coffers in the long run. If we do not have anything going back to the reserves, the value of our reserves will diminish over time.[\[9\]](#_ftn9)
+The investment returns being channelled back into the national reserves is key to building up the country’s coffers in the long run. If we do not have anything going back to the reserves, the value of our reserves will diminish over time.[\[^9]
 
 When the global financial crisis happened in 2008, it turned out that we needed about four to five billion dollars. During the COVID-19 pandemic between 2020 and 2022, the government needed to draw over $40 billion from the reserves. We have no idea how much we may need in future as the COVID-19 crisis may not be the worst thing that can happen to us.[\[10\]](#_ftn10)
 
-We can think about our national reserves as “rainy day money” that we put aside for the future – if it is not raining, we do not touch it. If it is a sunny day and we can afford it, we put a little more into it. We are here today and benefiting because our forefathers did that. Similarly, we can build our reserves up a little bit more every day so that our next generation will be in a more secure position than we are today.[\[11\]](#_ftn11)
+We can think about our national reserves as “rainy day money” that we put aside for the future – if it is not raining, we do not touch it. If it is a sunny day and we can afford it, we put a little more into it. We are here today and benefiting because our forefathers did that. Similarly, we can build our reserves up a little bit more every day so that our next generation will be in a more secure position than we are today.[^11]
 
   
 * * *
@@ -85,8 +85,8 @@ We can think about our national reserves as “rainy day money” that we put as
 
 [^8]: Tang, S.K. (2023, August 17). <a target="blank" href="https://www.channelnewsasia.com/singapore/lawrence-wong-singapore-reserves-revealed-oversaving-3702421">Singapore not ‘oversaving’ with reserves ‘barely keeping pace’ with its economy: DPM Wong</a>.
 
-[\[9\]](#_ftnref9) _Ibid_.
+[^9]: *Ibid.* 
 
 [\[10\]](#_ftnref10) Prime Minister’s Office. (2023, August 16). PM Lee Hsien Loong’s Interview with CNA for two-part documentary “Singapore Reserves Revealed”. [https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-Interview-with-CNA-for-Singapore-Reserves-Revealed-Aug-2023](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-Interview-with-CNA-for-Singapore-Reserves-Revealed-Aug-2023)
 
-[\[11\]](#_ftnref11) _Ibid_.
+[^11]: *Ibid.* 
