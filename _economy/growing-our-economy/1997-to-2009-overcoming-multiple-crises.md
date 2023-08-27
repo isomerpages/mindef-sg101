@@ -72,9 +72,9 @@ Singapore also drew on our reserves to support the economy and Singaporeans duri
 
 The reserves were built by a country that had no natural resources, but through discipline and the hard work of its people, noted Prime Minister Lee Hsien Loong:
 
-Suggested quote: “The reserves are something which is precious, which we have inherited, because our forefathers who were not wealthier than us, but who in good years, felt that they should put some money aside, save for the future, provide for their children and grandchildren. And make sure that Singapore – who would not have oil, tin, gold or diamonds – but we will have a little nest egg, something extra to see us through a very tough spot one day and that is what it is. It gives us confidence. But at the same time, it is a reminder to us that we are the beneficiaries of what our forefathers did, and we have a responsibility to generations to come.” – Prime Minister Lee Hsien Loong’s interview with ChannelNewsAsia for a two-part documentary “Singapore Reserves Revealed” on 16 August 2023.
+![](/images/national%20reserves%20quote.png)
 
-Watch ChannelNewsAsia 2-part documentary on the management of our national reserves below.
+Watch [ChannelNews Asia 2-part documentary on the management of our national reserves](https://www.youtube.com/playlist?list=PLbnMTcZEga8SQpk1tO3NQjP79rIqkj2Iv) below.
 
 **Singapore Reserves: The Untold Story (Ep 1/2)**
 
