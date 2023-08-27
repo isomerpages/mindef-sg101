@@ -60,7 +60,7 @@ The biggest misconception amongst Singaporeans is that Singapore has “so much�
 
 The investment returns being channelled back into the national reserves is key to building up the country’s coffers in the long run. If we do not have anything going back to the reserves, the value of our reserves will diminish over time.[\[^9]
 
-When the global financial crisis happened in 2008, it turned out that we needed about four to five billion dollars. During the COVID-19 pandemic between 2020 and 2022, the government needed to draw over $40 billion from the reserves. We have no idea how much we may need in future as the COVID-19 crisis may not be the worst thing that can happen to us.[\[10\]](#_ftn10)
+When the global financial crisis happened in 2008, it turned out that we needed about four to five billion dollars. During the COVID-19 pandemic between 2020 and 2022, the government needed to draw over $40 billion from the reserves. We have no idea how much we may need in future as the COVID-19 crisis may not be the worst thing that can happen to us.[^10]
 
 We can think about our national reserves as “rainy day money” that we put aside for the future – if it is not raining, we do not touch it. If it is a sunny day and we can afford it, we put a little more into it. We are here today and benefiting because our forefathers did that. Similarly, we can build our reserves up a little bit more every day so that our next generation will be in a more secure position than we are today.[^11]
 
@@ -87,6 +87,6 @@ We can think about our national reserves as “rainy day money” that we put as
 
 [^9]: *Ibid.* 
 
-[\[10\]](#_ftnref10) Prime Minister’s Office. (2023, August 16). PM Lee Hsien Loong’s Interview with CNA for two-part documentary “Singapore Reserves Revealed”. [https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-Interview-with-CNA-for-Singapore-Reserves-Revealed-Aug-2023](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-Interview-with-CNA-for-Singapore-Reserves-Revealed-Aug-2023)
+[^10]: Prime Minister's Office. (2023, August 16). <a target="blank" href="https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-Interview-with-CNA-for-Singapore-Reserves-Revealed-Aug-2023">PM Lee Hsien Loong’s Interview with CNA for two-part documentary “Singapore Reserves Revealed”</a>. 
 
 [^11]: *Ibid.* 
