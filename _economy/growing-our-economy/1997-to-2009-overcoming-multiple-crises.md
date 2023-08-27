@@ -68,7 +68,7 @@ We can think about our national reserves as “rainy day money” that we put as
 * * *
 #### Bibliography
 
-[^1]: Gov.sg (2014, February 17) <a target="blank" href="https://www.gov.sg/article/what-is-the-budget-process">What is the budget process? </a>.
+[^1]: Gov.sg (2014, February 17) <a target="blank" href="https://www.gov.sg/article/what-is-the-budget-process">What is the budget process?</a>.
 
 [^2]: Ministry of Finance. (n.d.) 
 <a target="blank" href="https://www.mof.gov.sg/singaporebudget/media-centre/features/overview-of-the-singapore-budget">Overview of the Singapore Budget</a>. 
