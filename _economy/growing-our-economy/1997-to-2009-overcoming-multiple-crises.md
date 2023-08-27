@@ -15,7 +15,7 @@ Fortunately, we were able to weather these crises well, largely due to our stron
 <iframe width="660" height="415" src="https://www.youtube.com/embed/e9acnYy8mRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <p></p>
 
-Singapore’s Constitution states that the government’s budget must be balanced over its term of office. In other words, the government cannot spend beyond its means.[\[1\]](#_ftn1)
+Singapore’s Constitution states that the government’s budget must be balanced over its term of office. In other words, the government cannot spend beyond its means.[^1]
 
 Over the years, the government has been regularly recording surpluses as reserves. These past reserves cannot be spent without the approval of the Elected President. This ensures fiscal sustainability and prevents irresponsible spending. These reserves have, in turn, been invested to generate returns.[\[2\]](#_ftn2)
 
@@ -68,9 +68,7 @@ We can think about our national reserves as “rainy day money” that we put as
 * * *
 #### Bibliography
 
-[\[1\]](#_ftnref1) Gov.sg (2014, February 17). What is the budget process? https://www.gov.sg/article/what-is-the-budget-process
-
-[^1]: National Archives of Singapore. (1965) <a target="blank" href="https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf">Statement of His Excellency Mr S Rajaratnam Foreign Minister of Singapore at the General Assembly on September 21, 1965, on the occasion of Singapore's admission to the United Nations.</a>.
+[^1]: Gov.sg (2014, February 17) <a target="blank" href="https://www.gov.sg/article/what-is-the-budget-process">What is the budget process? </a>.
 
 [\[2\]](#_ftnref2) Ministry of Finance. (n.d.) Overview of the Singapore Budget. https://www.mof.gov.sg/singaporebudget/media-centre/features/overview-of-the-singapore-budget
 
