@@ -75,6 +75,8 @@ We can think about our national reserves as “rainy day money” that we put as
 
 [^3]: Tang, S.K. (2023, August 17). <a target="blank" href="https://www.channelnewsasia.com/singapore/lawrence-wong-singapore-reserves-revealed-oversaving-3702421">Singapore not ‘oversaving’ with reserves ‘barely keeping pace’ with its economy: DPM Wong</a>.
 
+
+
 [\[4\]](#_ftnref4) _Ibid_.
 
 [\[5\]](#_ftnref5) Ministry of Finance. (n.d.) How do Singaporeans benefit from our Reserves? [https://www.mof.gov.sg/policies/reserves/how-do-singaporeans-benefit-from-our-reserves](https://www.mof.gov.sg/policies/reserves/how-do-singaporeans-benefit-from-our-reserves)
