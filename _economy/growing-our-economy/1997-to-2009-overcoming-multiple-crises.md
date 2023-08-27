@@ -65,8 +65,8 @@ When the global financial crisis happened in 2008, it turned out that we needed 
 We can think about our national reserves as “rainy day money” that we put aside for the future – if it is not raining, we do not touch it. If it is a sunny day and we can afford it, we put a little more into it. We are here today and benefiting because our forefathers did that. Similarly, we can build our reserves up a little bit more every day so that our next generation will be in a more secure position than we are today.[\[11\]](#_ftn11)
 
   
-
 * * *
+#### Bibliography
 
 [\[1\]](#_ftnref1) Gov.sg (2014, February 17). What is the budget process? https://www.gov.sg/article/what-is-the-budget-process
 
