@@ -56,7 +56,7 @@ Watch [ChannelNews Asia 2-part documentary on the management of our national res
 
 
 
-The biggest misconception amongst Singaporeans is that Singapore has “so much” reserves. However, Singapore is not over-saving. In fact, the national reserves are growing at a rate that is barely keeping pace with economic growth.[\[8\]](#_ftn8)
+The biggest misconception amongst Singaporeans is that Singapore has “so much” reserves. However, Singapore is not over-saving. In fact, the national reserves are growing at a rate that is barely keeping pace with economic growth.[^8]
 
 The investment returns being channelled back into the national reserves is key to building up the country’s coffers in the long run. If we do not have anything going back to the reserves, the value of our reserves will diminish over time.[\[9\]](#_ftn9)
 
@@ -83,7 +83,7 @@ We can think about our national reserves as “rainy day money” that we put as
 
 [\[7\]](#_ftnref7) ChannelNewsAsia. (2023). Singapore Reserves \[Television series\]. [https://www.youtube.com/playlist?list=PLbnMTcZEga8SQpk1tO3NQjP79rIqkj2Iv](https://www.youtube.com/playlist?list=PLbnMTcZEga8SQpk1tO3NQjP79rIqkj2Iv)
 
-[\[8\]](#_ftnref8) Tang, S.K. (2023, August 17). Singapore not ‘oversaving’ with reserves ‘barely keeping pace’ with its economy: DPM Wong. _ChannelNewsAsia_. [https://www.channelnewsasia.com/singapore/lawrence-wong-singapore-reserves-revealed-oversaving-3702421](https://www.channelnewsasia.com/singapore/lawrence-wong-singapore-reserves-revealed-oversaving-3702421)
+[^8]: Tang, S.K. (2023, August 17). <a target="blank" href="https://www.channelnewsasia.com/singapore/lawrence-wong-singapore-reserves-revealed-oversaving-3702421">Singapore not ‘oversaving’ with reserves ‘barely keeping pace’ with its economy: DPM Wong</a>.
 
 [\[9\]](#_ftnref9) _Ibid_.
 
