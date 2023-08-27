@@ -33,7 +33,7 @@ The returns generated over the years have been used by the government for its sp
 
 The government has also regularly distributed the surpluses to Singaporeans so the wider population can share in the country’s growing wealth.
 
-Singapore also drew on our reserves to support the economy and Singaporeans during the COVID-19 pandemic. This explained why Singapore was the first in Asia to secure the Pfizer-BioNTech’s COVID-19 vaccine quickly.[\[6\]](#_ftn6)
+Singapore also drew on our reserves to support the economy and Singaporeans during the COVID-19 pandemic. This explained why Singapore was the first in Asia to secure the Pfizer-BioNTech’s COVID-19 vaccine quickly.[^6]
 
 The reserves were built by a country that had no natural resources, but through discipline and the hard work of its people, noted Prime Minister Lee Hsien Loong:
 
@@ -79,9 +79,9 @@ We can think about our national reserves as “rainy day money” that we put as
 
 [^5]: Ministry of Finance (2015) (n.d.) <a target="blank" href="https://www.mof.gov.sg/policies/reserves/how-do-singaporeans-benefit-from-our-reserves">How do Singaporeans benefit from our Reserves?</a>. 
 
-[\[6\]](#_ftnref6) Prime Minister’s Office. (2023, August 16). PM Lee Hsien Loong’s Interview with CNA for two-part documentary “Singapore Reserves Revealed”. [https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-Interview-with-CNA-for-Singapore-Reserves-Revealed-Aug-2023](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-Interview-with-CNA-for-Singapore-Reserves-Revealed-Aug-2023)
+[^6]: Prime Minister's Office. (2023, August 16). <a target="blank" href="https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-Interview-with-CNA-for-Singapore-Reserves-Revealed-Aug-2023">PM Lee Hsien Loong’s Interview with CNA for two-part documentary “Singapore Reserves Revealed”</a>. 
 
-[\[7\]](#_ftnref7) ChannelNewsAsia. (2023). Singapore Reserves \[Television series\]. [https://www.youtube.com/playlist?list=PLbnMTcZEga8SQpk1tO3NQjP79rIqkj2Iv](https://www.youtube.com/playlist?list=PLbnMTcZEga8SQpk1tO3NQjP79rIqkj2Iv)
+[\[7\]](#_ftnref7) ChannelNewsAsia. (2023). Singapore Reserves [Television series]. [https://www.youtube.com/playlist?list=PLbnMTcZEga8SQpk1tO3NQjP79rIqkj2Iv](https://www.youtube.com/playlist?list=PLbnMTcZEga8SQpk1tO3NQjP79rIqkj2Iv)
 
 [^8]: Tang, S.K. (2023, August 17). <a target="blank" href="https://www.channelnewsasia.com/singapore/lawrence-wong-singapore-reserves-revealed-oversaving-3702421">Singapore not ‘oversaving’ with reserves ‘barely keeping pace’ with its economy: DPM Wong</a>.
 
