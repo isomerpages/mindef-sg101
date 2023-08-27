@@ -70,6 +70,8 @@ We can think about our national reserves as “rainy day money” that we put as
 
 [\[1\]](#_ftnref1) Gov.sg (2014, February 17). What is the budget process? https://www.gov.sg/article/what-is-the-budget-process
 
+[^1]: National Archives of Singapore. (1965) <a target="blank" href="https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf">Statement of His Excellency Mr S Rajaratnam Foreign Minister of Singapore at the General Assembly on September 21, 1965, on the occasion of Singapore's admission to the United Nations.</a>.
+
 [\[2\]](#_ftnref2) Ministry of Finance. (n.d.) Overview of the Singapore Budget. https://www.mof.gov.sg/singaporebudget/media-centre/features/overview-of-the-singapore-budget
 
 [\[3\]](#_ftnref3) Tang, S.K. (2023, August 17). Singapore not ‘oversaving’ with reserves ‘barely keeping pace’ with its economy: DPM Wong. _ChannelNewsAsia_. [https://www.channelnewsasia.com/singapore/lawrence-wong-singapore-reserves-revealed-oversaving-3702421](https://www.channelnewsasia.com/singapore/lawrence-wong-singapore-reserves-revealed-oversaving-3702421)
