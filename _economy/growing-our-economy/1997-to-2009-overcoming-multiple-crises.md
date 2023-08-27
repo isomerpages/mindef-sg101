@@ -74,13 +74,13 @@ The reserves were built by a country that had no natural resources, but through 
 
 Suggested quote: “The reserves are something which is precious, which we have inherited, because our forefathers who were not wealthier than us, but who in good years, felt that they should put some money aside, save for the future, provide for their children and grandchildren. And make sure that Singapore – who would not have oil, tin, gold or diamonds – but we will have a little nest egg, something extra to see us through a very tough spot one day and that is what it is. It gives us confidence. But at the same time, it is a reminder to us that we are the beneficiaries of what our forefathers did, and we have a responsibility to generations to come.” – Prime Minister Lee Hsien Loong’s interview with ChannelNewsAsia for a two-part documentary “Singapore Reserves Revealed” on 16 August 2023.
 
-Watch 
+Watch ChannelNewsAsia 2-part documentary on the management of our national reserves below.
+
 <iframe width="660" height="415" src="https://www.youtube.com/embed/Et1JYZ0RrC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <p></p>
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/VNR2Jle6NWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <p></p>
-
 
 CNA’s _Singapore Reserves Revealed_ series telecast on 16 and 17 August 2023 provides insights on Singapore’s national reserves, featuring interviews with insiders and Singapore leaders. The videos cover (a) where Singapore’s reserves are invested and how much is in our reserves; (b) how this “inheritance” almost did not exist; (c) the inner workings of the Government of Singapore Investment Corporation (GIC) and Temasek; (d) the two rare occasions when the government made huge drawdowns of the reserve; and (e) how the reserves ensured that Singapore keeps functioning.[\[7\]](#_ftn7)
 
