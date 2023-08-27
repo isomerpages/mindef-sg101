@@ -52,7 +52,7 @@ Watch [ChannelNews Asia 2-part documentary on the management of our national res
 <iframe width="660" height="415" src="https://www.youtube.com/embed/VNR2Jle6NWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <p></p>
 
-*CNA’s Singapore Reserves Revealed series telecast on 16 and 17 August 2023 provides insights on Singapore’s national reserves, featuring interviews with insiders and Singapore leaders. The videos cover (a) where Singapore’s reserves are invested and how much is in our reserves; (b) how this “inheritance” almost did not exist; (c) the inner workings of the Government of Singapore Investment Corporation (GIC) and Temasek; (d) the two rare occasions when the government made huge drawdowns of the reserve; and (e) how the reserves ensured that Singapore keeps functioning.[\[7\]](#ftn7)*
+*CNA’s Singapore Reserves Revealed series telecast on 16 and 17 August 2023 provides insights on Singapore’s national reserves, featuring interviews with insiders and Singapore leaders. The videos cover (a) where Singapore’s reserves are invested and how much is in our reserves; (b) how this “inheritance” almost did not exist; (c) the inner workings of the Government of Singapore Investment Corporation (GIC) and Temasek; (d) the two rare occasions when the government made huge drawdowns of the reserve; and (e) how the reserves ensured that Singapore keeps functioning.[^7]*
 
 
 
