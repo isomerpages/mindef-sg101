@@ -81,12 +81,12 @@ We can think about our national reserves as “rainy day money” that we put as
 
 [^6]: Prime Minister's Office. (2023, August 16). <a target="blank" href="https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-Interview-with-CNA-for-Singapore-Reserves-Revealed-Aug-2023">PM Lee Hsien Loong’s Interview with CNA for two-part documentary “Singapore Reserves Revealed”</a>. 
 
-[\[7\]](#_ftnref7) ChannelNewsAsia. (2023). Singapore Reserves [Television series]. [https://www.youtube.com/playlist?list=PLbnMTcZEga8SQpk1tO3NQjP79rIqkj2Iv](https://www.youtube.com/playlist?list=PLbnMTcZEga8SQpk1tO3NQjP79rIqkj2Iv)
+[^7]: ChannelNewsAsia. (2023, August 17). <a target="blank" href="https://www.youtube.com/playlist?list=PLbnMTcZEga8SQpk1tO3NQjP79rIqkj2Iv">Singapore Reserves Revealed [Television Series]</a>. 
 
 [^8]: Tang, S.K. (2023, August 17). <a target="blank" href="https://www.channelnewsasia.com/singapore/lawrence-wong-singapore-reserves-revealed-oversaving-3702421">Singapore not ‘oversaving’ with reserves ‘barely keeping pace’ with its economy: DPM Wong</a>.
 
-[^9]: *Ibid.* 
+[^9]: *Ibid.*
 
 [^10]: Prime Minister's Office. (2023, August 16). <a target="blank" href="https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-Interview-with-CNA-for-Singapore-Reserves-Revealed-Aug-2023">PM Lee Hsien Loong’s Interview with CNA for two-part documentary “Singapore Reserves Revealed”</a>. 
 
-[^11]: *Ibid.* 
+[^11]: *Ibid.*
