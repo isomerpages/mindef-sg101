@@ -17,7 +17,7 @@ Fortunately, we were able to weather these crises well, largely due to our stron
 
 Singapore’s Constitution states that the government’s budget must be balanced over its term of office. In other words, the government cannot spend beyond its means.[^1]
 
-Over the years, the government has been regularly recording surpluses as reserves. These past reserves cannot be spent without the approval of the Elected President. This ensures fiscal sustainability and prevents irresponsible spending. These reserves have, in turn, been invested to generate returns.[\[2\]](#_ftn2)
+Over the years, the government has been regularly recording surpluses as reserves. These past reserves cannot be spent without the approval of the Elected President. This ensures fiscal sustainability and prevents irresponsible spending. These reserves have, in turn, been invested to generate returns.[^2]
 
 The reserves acts as a buffer against external shocks. In 1997, during the Asian Financial Crisis, though Singapore was not spared from the financial contagion, we were much less affected than our neighbouring countries.
 
@@ -71,6 +71,9 @@ We can think about our national reserves as “rainy day money” that we put as
 [^1]: Gov.sg (2014, February 17) <a target="blank" href="https://www.gov.sg/article/what-is-the-budget-process">What is the budget process? </a>.
 
 [\[2\]](#_ftnref2) Ministry of Finance. (n.d.) Overview of the Singapore Budget. https://www.mof.gov.sg/singaporebudget/media-centre/features/overview-of-the-singapore-budget
+
+[^2]: Ministry of Finance. (n.d.) 
+<a target="blank" href="https://www.mof.gov.sg/singaporebudget/media-centre/features/overview-of-the-singapore-budget">Overview of the Singapore Budget</a>. 
 
 [\[3\]](#_ftnref3) Tang, S.K. (2023, August 17). Singapore not ‘oversaving’ with reserves ‘barely keeping pace’ with its economy: DPM Wong. _ChannelNewsAsia_. [https://www.channelnewsasia.com/singapore/lawrence-wong-singapore-reserves-revealed-oversaving-3702421](https://www.channelnewsasia.com/singapore/lawrence-wong-singapore-reserves-revealed-oversaving-3702421)
 
