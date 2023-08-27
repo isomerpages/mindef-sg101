@@ -76,8 +76,13 @@ Suggested quote: “The reserves are something which is precious, which we have 
 
 Watch ChannelNewsAsia 2-part documentary on the management of our national reserves below.
 
+Singapore Reserves: The Untold Story (Ep 1/2)
+
 <iframe width="660" height="415" src="https://www.youtube.com/embed/Et1JYZ0RrC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <p></p>
+
+
+Singapore Reserves: The Untold Story (Ep 2/2)
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/VNR2Jle6NWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <p></p>
