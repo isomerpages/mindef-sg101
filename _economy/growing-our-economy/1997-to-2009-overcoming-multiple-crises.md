@@ -23,9 +23,9 @@ The reserves acts as a buffer against external shocks. In 1997, during the Asian
 
 Similarly, Singapore was able to draw on its reserves during the global financial crisis in 2008. In this period, banks collapsed and this threatened to tip the world into another depression. Governments rallied to prevent the catastrophe and spent trillions in the process. In 2009, Singapore tapped its reserves for the first time, taking out $4.9 billion to support the economy.[^3]
 
-The measures worked. In 2010, Singapore’s economy grew 10%, among the fastest in the world. The strong economic recovery allowed the government to later return the S$4.9 billion to the reserves.[\[4\]](#_ftn4)
+The measures worked. In 2010, Singapore’s economy grew 10%, among the fastest in the world. The strong economic recovery allowed the government to later return the S$4.9 billion to the reserves.[^4]
 
-The strong reserves also give the government additional spending power to plan for Singapore’s future. In FY2009, the laws were tweaked to allow the government to draw on the returns from the reserves to fund its budget under the Net Investment Returns Contribution (NIRC) framework.[\[5\]](#_ftn5)
+The strong reserves also give the government additional spending power to plan for Singapore’s future. In FY2009, the laws were tweaked to allow the government to draw on the returns from the reserves to fund its budget under the Net Investment Returns Contribution (NIRC) framework.[^5]
 
 This sustainable approach to budgeting has had multiple benefits.
 
@@ -75,11 +75,11 @@ We can think about our national reserves as “rainy day money” that we put as
 
 [^3]: Tang, S.K. (2023, August 17). <a target="blank" href="https://www.channelnewsasia.com/singapore/lawrence-wong-singapore-reserves-revealed-oversaving-3702421">Singapore not ‘oversaving’ with reserves ‘barely keeping pace’ with its economy: DPM Wong</a>.
 
-
-
-[\[4\]](#_ftnref4) _Ibid_.
+[^4]: *Ibid.* 
 
 [\[5\]](#_ftnref5) Ministry of Finance. (n.d.) How do Singaporeans benefit from our Reserves? [https://www.mof.gov.sg/policies/reserves/how-do-singaporeans-benefit-from-our-reserves](https://www.mof.gov.sg/policies/reserves/how-do-singaporeans-benefit-from-our-reserves)
+
+[^5]: Ministry of Finance (2015) (n.d.) <a target="blank" href="https://www.mof.gov.sg/policies/reserves/how-do-singaporeans-benefit-from-our-reserves">How do Singaporeans benefit from our Reserves?</a>. 
 
 [\[6\]](#_ftnref6) Prime Minister’s Office. (2023, August 16). PM Lee Hsien Loong’s Interview with CNA for two-part documentary “Singapore Reserves Revealed”. [https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-Interview-with-CNA-for-Singapore-Reserves-Revealed-Aug-2023](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-Interview-with-CNA-for-Singapore-Reserves-Revealed-Aug-2023)
 
