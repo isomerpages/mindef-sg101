@@ -77,8 +77,6 @@ We can think about our national reserves as “rainy day money” that we put as
 
 [^4]: *Ibid.* 
 
-[\[5\]](#_ftnref5) Ministry of Finance. (n.d.) How do Singaporeans benefit from our Reserves? [https://www.mof.gov.sg/policies/reserves/how-do-singaporeans-benefit-from-our-reserves](https://www.mof.gov.sg/policies/reserves/how-do-singaporeans-benefit-from-our-reserves)
-
 [^5]: Ministry of Finance (2015) (n.d.) <a target="blank" href="https://www.mof.gov.sg/policies/reserves/how-do-singaporeans-benefit-from-our-reserves">How do Singaporeans benefit from our Reserves?</a>. 
 
 [\[6\]](#_ftnref6) Prime Minister’s Office. (2023, August 16). PM Lee Hsien Loong’s Interview with CNA for two-part documentary “Singapore Reserves Revealed”. [https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-Interview-with-CNA-for-Singapore-Reserves-Revealed-Aug-2023](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-Interview-with-CNA-for-Singapore-Reserves-Revealed-Aug-2023)
