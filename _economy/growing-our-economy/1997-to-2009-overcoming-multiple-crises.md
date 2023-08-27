@@ -21,7 +21,7 @@ Over the years, the government has been regularly recording surpluses as reserve
 
 The reserves acts as a buffer against external shocks. In 1997, during the Asian Financial Crisis, though Singapore was not spared from the financial contagion, we were much less affected than our neighbouring countries.
 
-Similarly, Singapore was able to draw on its reserves during the global financial crisis in 2008. In this period, banks collapsed and this threatened to tip the world into another depression. Governments rallied to prevent the catastrophe and spent trillions in the process. In 2009, Singapore tapped its reserves for the first time, taking out $4.9 billion to support the economy.[\[3\]](#_ftn3)
+Similarly, Singapore was able to draw on its reserves during the global financial crisis in 2008. In this period, banks collapsed and this threatened to tip the world into another depression. Governments rallied to prevent the catastrophe and spent trillions in the process. In 2009, Singapore tapped its reserves for the first time, taking out $4.9 billion to support the economy.[^3]
 
 The measures worked. In 2010, Singapore’s economy grew 10%, among the fastest in the world. The strong economic recovery allowed the government to later return the S$4.9 billion to the reserves.[\[4\]](#_ftn4)
 
@@ -73,7 +73,7 @@ We can think about our national reserves as “rainy day money” that we put as
 [^2]: Ministry of Finance. (n.d.) 
 <a target="blank" href="https://www.mof.gov.sg/singaporebudget/media-centre/features/overview-of-the-singapore-budget">Overview of the Singapore Budget</a>. 
 
-[\[3\]](#_ftnref3) Tang, S.K. (2023, August 17). Singapore not ‘oversaving’ with reserves ‘barely keeping pace’ with its economy: DPM Wong. _ChannelNewsAsia_. [https://www.channelnewsasia.com/singapore/lawrence-wong-singapore-reserves-revealed-oversaving-3702421](https://www.channelnewsasia.com/singapore/lawrence-wong-singapore-reserves-revealed-oversaving-3702421)
+[^3]: Tang, S.K. (2023, August 17). <a target="blank" href="https://www.channelnewsasia.com/singapore/lawrence-wong-singapore-reserves-revealed-oversaving-3702421">Singapore not ‘oversaving’ with reserves ‘barely keeping pace’ with its economy: DPM Wong</a>.
 
 [\[4\]](#_ftnref4) _Ibid_.
 
