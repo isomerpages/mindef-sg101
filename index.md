@@ -30,15 +30,6 @@ sections:
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
   - infopic:
-      title: News in Focus 07 2023
-      subtitle: News in Focus/ Resources
-      description: In this latest issue of NiF, we cover key highlights from the
-        National Day Rally (NDR) 2023.
-      button: Read More
-      url: https://www.sg101.gov.sg/resources/news-in-focus/07-2023/
-      image: /images/nif 0723.jpg
-      alt: Image alt text
-  - infopic:
       title: Singapore's National Reserves
       subtitle: Economy
       description: CNA's Singapore Reserves Revealed series gave an exclusive peek
@@ -47,6 +38,15 @@ sections:
       button: read more
       url: /economy/growing-our-economy/1997/
       image: /images/sg101 homepage pic.jpeg
+      alt: Image alt text
+  - infopic:
+      title: News in Focus 07 2023
+      subtitle: News in Focus/ Resources
+      description: In this latest issue of NiF, we cover key highlights from the
+        National Day Rally (NDR) 2023.
+      button: Read More
+      url: https://www.sg101.gov.sg/resources/news-in-focus/07-2023/
+      image: /images/nif 0723.jpg
       alt: Image alt text
   - infopic:
       title: Onward as One - National Day 2023 NE Engagement Package
