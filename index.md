@@ -39,6 +39,16 @@ sections:
       image: /images/nif 0723.jpg
       alt: Image alt text
   - infopic:
+      title: Singapore's National Reserves
+      subtitle: Economy
+      description: CNA's Singapore Reserves Revealed series gave an exclusive peek
+        into Singapore’s treasure chests, featuring interviews with insiders and
+        leaders.
+      button: read more
+      url: /economy/growing-our-economy/1997/
+      image: /images/sg101 homepage pic.jpeg
+      alt: Image alt text
+  - infopic:
       title: Onward as One - National Day 2023 NE Engagement Package
       subtitle: Resources
       description: Use the National Day 2023 NE Package to commemorate National Day
@@ -125,15 +135,5 @@ sections:
       button: Read More
       url: /economy/case-studies/sg-food-challenge/
       image: /images/farming.jpeg
-      alt: Image alt text
-  - infopic:
-      title: Singapore's National Reserves
-      subtitle: Economy
-      description: CNA's Singapore Reserves Revealed series gave an exclusive peek
-        into Singapore’s treasure chests, featuring interviews with insiders and
-        leaders.
-      button: read more
-      url: /economy/growing-our-economy/1997/
-      image: /images/sg101 homepage pic.jpeg
       alt: Image alt text
 ---
