@@ -3,7 +3,7 @@ title: Safeguarding our Sovereignty and National Interests
 permalink: /foreign-policy/safeguardingoursovereigntyandnationalinterests/
 description: ""
 ---
-10 minutes read
+15 minutes read
 
 [Last updated on 17 July 2023]
 
