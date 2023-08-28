@@ -84,12 +84,12 @@ For a small country like Singapore, our success is dependent on Singaporeans’ 
 
 [^3]: Infocomm Media Development Authority. (2023). <a target="blank" href="https://www.imda.gov.sg/About-IMDA/Research-and-Statistics/Digital-Society">Digital Society: Household Access to Internet by Household Composition</a>.
 
-[^3]: National Archives of Singapore. (2016, January 20). <a target="blank" href="https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf">Statement of His Excellency Mr S Rajaratnam Foreign Minister of Singapore at the General Assembly on September 21, 1965, on the occasion of Singapore's admission to the United Nations</a>.
+[^4]: World Economic Forum. (2022, August 11). <a target="blank" href="https://www.weforum.org/agenda/2022/08/how-to-spot-fake-news-on-your-social-networks/">How to spot fake news on your social networks</a>.
 
 [^3]: National Archives of Singapore. (2016, January 20). <a target="blank" href="https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf">Statement of His Excellency Mr S Rajaratnam Foreign Minister of Singapore at the General Assembly on September 21, 1965, on the occasion of Singapore's admission to the United Nations</a>.
 
-[^4]: World Economic Forum. (2022, August 11). 
-<a target="blank" href="https://www.weforum.org/agenda/2022/08/how-to-spot-fake-news-on-your-social-networks/">How to spot fake news on your social networks</a>. 
+[^3]: National Archives of Singapore. (2016, January 20). <a target="blank" href="https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf">Statement of His Excellency Mr S Rajaratnam Foreign Minister of Singapore at the General Assembly on September 21, 1965, on the occasion of Singapore's admission to the United Nations</a>.
+
 
 [^5]: Ministry of Foreign Affairs. (2017, November 28). 
 <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat">Speech by Dr Tony Tan Keng Yam, Former President of Singapore, at the 10th S Rajaratnam Lecture</a>.
