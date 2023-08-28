@@ -10,7 +10,7 @@ third_nav_title: Our Challenges
 
 The makeup and attitude of Singapore’s society is constantly changing. Singapore is an open, multi-racial and multi-religious society. We are open to the world, and welcome talent from abroad.[^1] With globalisation and enhanced connectivity, Singaporeans have ventured abroad for studies, work and leisure, contributing to changing perceptions and attitudes.
 
-Singapore is among countries with the highest Internet penetration rate in the world. Singaporeans are also among the most active consumers of social media.[^2] We have easy access to news and information from all over the world and are able to conveniently create and share content.[^3] 
+Singapore is among countries with the highest Internet penetration rate in the world. Singaporeans are also among the most active consumers of social media.[^2]  We have easy access to news and information from all over the world and are able to conveniently create and share content.[^3] 
 
 ![](/images/household%20access%20to%20computer.png)
 
@@ -22,11 +22,11 @@ Singapore is among countries with the highest Internet penetration rate in the w
 
 Such developments have shaped a more global outlook, and a keener awareness of global developments and Singapore’s place in the world.
 
-At the same time, technological advancements have changed the way we communicate and consume information. The anonymity afforded by the Internet and social media allows users to be vocal in expressing incendiary and divisive views without facing consequences. Content with higher emotional connection tend to be more viral on social media [^4] and heighten the visibility of and amplify such views. [^5] 
+At the same time, technological advancements have changed the way we communicate and consume information. The anonymity afforded by the Internet and social media allows users to be vocal in expressing incendiary and divisive views without facing consequences. Content with higher emotional connection tend to be more viral on social media[^4] and heighten the visibility of and amplify such views. [^5] 
 
 Foreign actors (individuals, entities or countries) are increasingly able to manipulate social media to undermine the will and resolve of citizens at very little expense. There have been cases of foreign interference in other countries, where disinformation and influence campaigns have been used to exploit sensitive issues and fault-lines to fracture social cohesion and undermine their sovereignty. Many countries have learnt hard lessons and are taking actions to deal with disinformation and influence campaigns.
 
-Singapore is not immune to such threats. Our openness, small size, hyperconnectivity to the world, and diverse society make us vulnerable to efforts by foreign actors seeking to exploit our vulnerabilities and influence Singaporeans for their own interests. [^6] At the Second Reading of Foreign Interference (Countermeasures) Bill on 4 October 2021, Minister for Home Affairs and Minister for Law Mr K. Shanmugam said that while subversion, through foreign interference, remains one of the most serious threats that Singapore faces, our population is not really aware of this. [^7] Actors who wish to harm Singapore may try to influence segments of our population and exacerbate communal tensions, or undermine Singaporeans’ confidence in government policies and our cohesion.
+Singapore is not immune to such threats. Our openness, small size, hyperconnectivity to the world, and diverse society make us vulnerable to efforts by foreign actors seeking to exploit our vulnerabilities and influence Singaporeans for their own interests.[^6] At the Second Reading of Foreign Interference (Countermeasures) Bill on 4 October 2021, Minister for Home Affairs and Minister for Law Mr K. Shanmugam said that while subversion, through foreign interference, remains one of the most serious threats that Singapore faces, our population is not really aware of this.[^7] Actors who wish to harm Singapore may try to influence segments of our population and exacerbate communal tensions, or undermine Singaporeans’ confidence in government policies and our cohesion.
 
 ***
 **Example: Singapore as a target for disinformation and influence campaigns**
@@ -71,7 +71,7 @@ The public is also encouraged to rely on reputable sources for information and c
 
 ***
 
-For a small country like Singapore, our success is dependent on Singaporeans’ continued confidence in and support for our foreign policy, as well as Singapore’s continued resilience, unity and economic progress.[^13]  Singaporeans need to be aware of possible attempts by foreign actors to influence our views and decisions. As the Internet and social media are prevalent, we need to become more discerning and vigilant when we come across news or comments about Singapore’s policies. Our politics and policies should only be for Singaporeans to decide and we must stand up for our own country’s interest.
+For a small country like Singapore, our success is dependent on Singaporeans’ continued confidence in and support for our foreign policy, as well as Singapore’s continued resilience, unity and economic progress.[^13] Singaporeans need to be aware of possible attempts by foreign actors to influence our views and decisions. As the Internet and social media are prevalent, we need to become more discerning and vigilant when we come across news or comments about Singapore’s policies. Our politics and policies should only be for Singaporeans to decide and we must stand up for our own country’s interest.
 
 ![](/images/dr%20vivian%20balakrishnan%20interview%2022%20august%202021.png)
 
