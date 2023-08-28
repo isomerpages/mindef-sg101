@@ -94,12 +94,11 @@ For a small country like Singapore, our success is dependent on Singaporeans’ 
 
 [^8]: *Ibid.* 
 
-[^3]: National Archives of Singapore. (2016, January 20). <a target="blank" href="https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf">Statement of His Excellency Mr S Rajaratnam Foreign Minister of Singapore at the General Assembly on September 21, 1965, on the occasion of Singapore's admission to the United Nations</a>.
+[^9]: Lim, A. (2019, February 12). <a target="blank" href="https://www.straitstimes.com/politics/parliament-curious-spike-in-online-comments-critical-of-spore-during-dispute-with-malaysia">Parliament: ‘Curious’ spike in online comments critical of S’pore during dispute with Malaysia, says Edwin Tong</a>. *The Straits Times*. 
 
 [^3]: National Archives of Singapore. (2016, January 20). <a target="blank" href="https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf">Statement of His Excellency Mr S Rajaratnam Foreign Minister of Singapore at the General Assembly on September 21, 1965, on the occasion of Singapore's admission to the United Nations</a>.
 
-[^9]: Lim, A. (2019, February 12). 
-<a target="blank" href="https://www.straitstimes.com/politics/parliament-curious-spike-in-online-comments-critical-of-spore-during-dispute-with-malaysia">Parliament: ‘Curious’ spike in online comments critical of S’pore during dispute with Malaysia, says Edwin Tong</a>. *The Straits Times*. 
+
 
 [^10]: Ministry of Home Affairs. (2021, October 4). 
 <a target="blank" href="https://www.mha.gov.sg/mediaroom/parliamentary/second-reading-of-foreign-interference-countermeasures-bill-speech-by-mr-k-shanmugam/">Second Reading of Foreign Interference (Countermeasures) Bill – Speech by Mr K Shanmugam, Minister for Home Affairs and Minister for Law</a>.
