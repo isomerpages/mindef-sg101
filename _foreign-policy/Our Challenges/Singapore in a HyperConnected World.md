@@ -96,18 +96,10 @@ For a small country like Singapore, our success is dependent on Singaporeans’ 
 
 [^9]: Lim, A. (2019, February 12). <a target="blank" href="https://www.straitstimes.com/politics/parliament-curious-spike-in-online-comments-critical-of-spore-during-dispute-with-malaysia">Parliament: ‘Curious’ spike in online comments critical of S’pore during dispute with Malaysia, says Edwin Tong</a>. *The Straits Times*. 
 
-[^3]: National Archives of Singapore. (2016, January 20). <a target="blank" href="https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf">Statement of His Excellency Mr S Rajaratnam Foreign Minister of Singapore at the General Assembly on September 21, 1965, on the occasion of Singapore's admission to the United Nations</a>.
+[^10]: Ministry f Home Affairs. (2021, October 4). <a target="blank" href="https://www.mha.gov.sg/mediaroom/parliamentary/second-reading-of-foreign-interference-countermeasures-bill-speech-by-mr-k-shanmugam/">Second Reading of Foreign Interference (Countermeasures) Bill – Speech by Mr K Shanmugam, Minister for Home Affairs and Minister for Law</a>.
 
-[^3]: National Archives of Singapore. (2016, January 20). <a target="blank" href="https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf">Statement of His Excellency Mr S Rajaratnam Foreign Minister of Singapore at the General Assembly on September 21, 1965, on the occasion of Singapore's admission to the United Nations</a>.
+[^11]: Yong, C., and Ng W.K. (2022, March 17). <a target="blank" href="https://www.straitstimes.com/singapore/on-tiktok-anonymous-accounts-seek-to-sway-views-in-singapore-over-russian-invasion-of-ukraine">On TikTok, anonymous accounts seek to sway views in Singapore over Russian invasion of Ukraine</a>. *The Straits Times*. 
 
-[^10]: Ministry of Home Affairs. (2021, October 4). 
-<a target="blank" href="https://www.mha.gov.sg/mediaroom/parliamentary/second-reading-of-foreign-interference-countermeasures-bill-speech-by-mr-k-shanmugam/">Second Reading of Foreign Interference (Countermeasures) Bill – Speech by Mr K Shanmugam, Minister for Home Affairs and Minister for Law</a>.
+[^12]: Yong, C. (2022, March 25). <a target="blank" href="https://www.straitstimes.com/singapore/no-hostile-information-campaign-in-singapore-but-tiktok-accounts-flagged-says-mha">No hostile information campaign in S’pore, but TikTok accounts flagged: MHA</a>. *The Straits Times*.
 
-[^11]: Yong, C., and Ng W.K. (2022, March 17). 
-<a target="blank" href="https://www.straitstimes.com/singapore/on-tiktok-anonymous-accounts-seek-to-sway-views-in-singapore-over-russian-invasion-of-ukraine">On TikTok, anonymous accounts seek to sway views in Singapore over Russian invasion of Ukraine</a>. *The Straits Times*. 
-
-[^12]: Yong, C. (2022, March 25). 
-<a target="blank" href="https://www.straitstimes.com/singapore/no-hostile-information-campaign-in-singapore-but-tiktok-accounts-flagged-says-mha">No hostile information campaign in S’pore, but TikTok accounts flagged: MHA</a>. *The Straits Times*.
-
-[^13]: Ministry of Foreign Affairs. (2017, November 28). 
-<a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat">Speech by Dr Tony Tan Keng Yam, Former President of Singapore, at the 10th S Rajaratnam Lecture</a>.
+[^13]: Ministry of Foreign Affairs. (2017, November 28). <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat">Speech by Dr Tony Tan Keng Yam, Former President of Singapore, at the 10th S Rajaratnam Lecture</a>.
