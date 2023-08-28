@@ -10,7 +10,7 @@ third_nav_title: Our Challenges
 
 The makeup and attitude of Singapore’s society is constantly changing. Singapore is an open, multi-racial and multi-religious society. We are open to the world, and welcome talent from abroad.[^1] With globalisation and enhanced connectivity, Singaporeans have ventured abroad for studies, work and leisure, contributing to changing perceptions and attitudes.
 
-Singapore is among countries with the highest Internet penetration rate in the world. Singaporeans are also among the most active consumers of social media.[^2] We have easy access to news and information from all over the world and are able to conveniently create and share content.[^3] 
+Singapore is among countries with the highest Internet penetration rate in the world. Singaporeans are also among the most active consumers of social media.[^2]  We have easy access to news and information from all over the world and are able to conveniently create and share content.[^3] 
 
 ![](/images/household%20access%20to%20computer.png)
 
@@ -22,11 +22,11 @@ Singapore is among countries with the highest Internet penetration rate in the w
 
 Such developments have shaped a more global outlook, and a keener awareness of global developments and Singapore’s place in the world.
 
-At the same time, technological advancements have changed the way we communicate and consume information. The anonymity afforded by the Internet and social media allows users to be vocal in expressing incendiary and divisive views without facing consequences. Content with higher emotional connection tend to be more viral on social media [^4] and heighten the visibility of and amplify such views. [^5] 
+At the same time, technological advancements have changed the way we communicate and consume information. The anonymity afforded by the Internet and social media allows users to be vocal in expressing incendiary and divisive views without facing consequences. Content with higher emotional connection tend to be more viral on social media[^4] and heighten the visibility of and amplify such views. [^5] 
 
 Foreign actors (individuals, entities or countries) are increasingly able to manipulate social media to undermine the will and resolve of citizens at very little expense. There have been cases of foreign interference in other countries, where disinformation and influence campaigns have been used to exploit sensitive issues and fault-lines to fracture social cohesion and undermine their sovereignty. Many countries have learnt hard lessons and are taking actions to deal with disinformation and influence campaigns.
 
-Singapore is not immune to such threats. Our openness, small size, hyperconnectivity to the world, and diverse society make us vulnerable to efforts by foreign actors seeking to exploit our vulnerabilities and influence Singaporeans for their own interests. [^6] At the Second Reading of Foreign Interference (Countermeasures) Bill on 4 October 2021, Minister for Home Affairs and Minister for Law Mr K. Shanmugam said that while subversion, through foreign interference, remains one of the most serious threats that Singapore faces, our population is not really aware of this. [^7] Actors who wish to harm Singapore may try to influence segments of our population and exacerbate communal tensions, or undermine Singaporeans’ confidence in government policies and our cohesion.
+Singapore is not immune to such threats. Our openness, small size, hyperconnectivity to the world, and diverse society make us vulnerable to efforts by foreign actors seeking to exploit our vulnerabilities and influence Singaporeans for their own interests.[^6] At the Second Reading of Foreign Interference (Countermeasures) Bill on 4 October 2021, Minister for Home Affairs and Minister for Law Mr K. Shanmugam said that while subversion, through foreign interference, remains one of the most serious threats that Singapore faces, our population is not really aware of this.[^7] Actors who wish to harm Singapore may try to influence segments of our population and exacerbate communal tensions, or undermine Singaporeans’ confidence in government policies and our cohesion.
 
 ***
 **Example: Singapore as a target for disinformation and influence campaigns**
@@ -71,7 +71,7 @@ The public is also encouraged to rely on reputable sources for information and c
 
 ***
 
-For a small country like Singapore, our success is dependent on Singaporeans’ continued confidence in and support for our foreign policy, as well as Singapore’s continued resilience, unity and economic progress.[^13]  Singaporeans need to be aware of possible attempts by foreign actors to influence our views and decisions. As the Internet and social media are prevalent, we need to become more discerning and vigilant when we come across news or comments about Singapore’s policies. Our politics and policies should only be for Singaporeans to decide and we must stand up for our own country’s interest.
+For a small country like Singapore, our success is dependent on Singaporeans’ continued confidence in and support for our foreign policy, as well as Singapore’s continued resilience, unity and economic progress.[^13] Singaporeans need to be aware of possible attempts by foreign actors to influence our views and decisions. As the Internet and social media are prevalent, we need to become more discerning and vigilant when we come across news or comments about Singapore’s policies. Our politics and policies should only be for Singaporeans to decide and we must stand up for our own country’s interest.
 
 ![](/images/dr%20vivian%20balakrishnan%20interview%2022%20august%202021.png)
 
@@ -80,36 +80,26 @@ For a small country like Singapore, our success is dependent on Singaporeans’ 
 
 [^1]: Prime Minister's Office. (2021, November 30). <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/11/20211130-S-Raj">DPM Heng Swee Keat at the S Rajaratnam Lecture on “Fostering Growth and Stability in an Age of Complexity</a>.
 
-[^2]: World Economic Forum. (2016, January 20). 
-<a target="blank" href="https://reports.weforum.org/human-implications-of-digital-media-2016/">Report on Digital Media and Society: Implications in a Hyperconnected Era</a>. 
+[^2]: World Economic Forum. (2016, January 20). <a target="blank" href="https://reports.weforum.org/human-implications-of-digital-media-2016/">Report on Digital Media and Society: Implications in a Hyperconnected Era</a>.
 
-[^3]:  Infocomm Media Development Authority. (2023). 
-<a target="blank" href="https://www.imda.gov.sg/About-IMDA/Research-and-Statistics/Digital-Society">Digital Society: Household Access to Internet by Household Composition</a>. 
+[^3]: Infocomm Media Development Authority. (2023). <a target="blank" href="https://www.imda.gov.sg/About-IMDA/Research-and-Statistics/Digital-Society">Digital Society: Household Access to Internet by Household Composition</a>.
 
-[^4]: World Economic Forum. (2022, August 11). 
-<a target="blank" href="https://www.weforum.org/agenda/2022/08/how-to-spot-fake-news-on-your-social-networks/">How to spot fake news on your social networks</a>. 
+[^4]: World Economic Forum. (2022, August 11). <a target="blank" href="https://www.weforum.org/agenda/2022/08/how-to-spot-fake-news-on-your-social-networks/">How to spot fake news on your social networks</a>.
 
-[^5]: Ministry of Foreign Affairs. (2017, November 28). 
-<a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat">Speech by Dr Tony Tan Keng Yam, Former President of Singapore, at the 10th S Rajaratnam Lecture</a>.
+[^5]: Ministry of Foreign Affairs. (2017, November 28). <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat">Speech by Dr Tony Tan Keng Yam, Former President of Singapore, at the 10th S Rajaratnam Lecture</a>.
 
-[^6]: *Ibid*.
+[^6]: *Ibid.* 
 
-[^7]: Ministry of Home Affairs. (2021, October 4). 
-<a target="blank" href="https://www.mha.gov.sg/mediaroom/parliamentary/second-reading-of-foreign-interference-countermeasures-bill-speech-by-mr-k-shanmugam/">Second Reading of Foreign Interference (Countermeasures) Bill – Speech by Mr K Shanmugam, Minister for Home Affairs and Minister for Law</a>.
+[^7]: Ministry of Home Affairs. (2021, October 4). <a target="blank" href="https://www.mha.gov.sg/mediaroom/parliamentary/second-reading-of-foreign-interference-countermeasures-bill-speech-by-mr-k-shanmugam/">Second Reading of Foreign Interference (Countermeasures) Bill – Speech by Mr K Shanmugam, Minister for Home Affairs and Minister for Law</a>.
 
-[^8]: *Ibid*.
+[^8]: *Ibid.* 
 
-[^9]: Lim, A. (2019, February 12). 
-<a target="blank" href="https://www.straitstimes.com/politics/parliament-curious-spike-in-online-comments-critical-of-spore-during-dispute-with-malaysia">Parliament: ‘Curious’ spike in online comments critical of S’pore during dispute with Malaysia, says Edwin Tong</a>. *The Straits Times*. 
+[^9]: Lim, A. (2019, February 12). <a target="blank" href="https://www.straitstimes.com/politics/parliament-curious-spike-in-online-comments-critical-of-spore-during-dispute-with-malaysia">Parliament: ‘Curious’ spike in online comments critical of S’pore during dispute with Malaysia, says Edwin Tong</a>. *The Straits Times*. 
 
-[^10]: Ministry of Home Affairs. (2021, October 4). 
-<a target="blank" href="https://www.mha.gov.sg/mediaroom/parliamentary/second-reading-of-foreign-interference-countermeasures-bill-speech-by-mr-k-shanmugam/">Second Reading of Foreign Interference (Countermeasures) Bill – Speech by Mr K Shanmugam, Minister for Home Affairs and Minister for Law</a>.
+[^10]: Ministry f Home Affairs. (2021, October 4). <a target="blank" href="https://www.mha.gov.sg/mediaroom/parliamentary/second-reading-of-foreign-interference-countermeasures-bill-speech-by-mr-k-shanmugam/">Second Reading of Foreign Interference (Countermeasures) Bill – Speech by Mr K Shanmugam, Minister for Home Affairs and Minister for Law</a>.
 
-[^11]: Yong, C., and Ng W.K. (2022, March 17). 
-<a target="blank" href="https://www.straitstimes.com/singapore/on-tiktok-anonymous-accounts-seek-to-sway-views-in-singapore-over-russian-invasion-of-ukraine">On TikTok, anonymous accounts seek to sway views in Singapore over Russian invasion of Ukraine</a>. *The Straits Times*. 
+[^11]: Yong, C., and Ng W.K. (2022, March 17). <a target="blank" href="https://www.straitstimes.com/singapore/on-tiktok-anonymous-accounts-seek-to-sway-views-in-singapore-over-russian-invasion-of-ukraine">On TikTok, anonymous accounts seek to sway views in Singapore over Russian invasion of Ukraine</a>. *The Straits Times*. 
 
-[^12]: Yong, C. (2022, March 25). 
-<a target="blank" href="https://www.straitstimes.com/singapore/no-hostile-information-campaign-in-singapore-but-tiktok-accounts-flagged-says-mha">No hostile information campaign in S’pore, but TikTok accounts flagged: MHA</a>. *The Straits Times*.
+[^12]: Yong, C. (2022, March 25). <a target="blank" href="https://www.straitstimes.com/singapore/no-hostile-information-campaign-in-singapore-but-tiktok-accounts-flagged-says-mha">No hostile information campaign in S’pore, but TikTok accounts flagged: MHA</a>. *The Straits Times*.
 
-[^13]: Ministry of Foreign Affairs. (2017, November 28). 
-<a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat">Speech by Dr Tony Tan Keng Yam, Former President of Singapore, at the 10th S Rajaratnam Lecture</a>.
+[^13]: Ministry of Foreign Affairs. (2017, November 28). <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat">Speech by Dr Tony Tan Keng Yam, Former President of Singapore, at the 10th S Rajaratnam Lecture</a>.

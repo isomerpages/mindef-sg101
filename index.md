@@ -30,6 +30,16 @@ sections:
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
   - infopic:
+      title: Singapore's National Reserves
+      subtitle: Economy
+      description: CNA's Singapore Reserves Revealed series gave an exclusive peek
+        into Singapore’s treasure chests, featuring interviews with insiders and
+        leaders.
+      button: read more
+      url: /economy/growing-our-economy/1997/
+      image: /images/sg101 homepage pic.jpeg
+      alt: Image alt text
+  - infopic:
       title: News in Focus 07 2023
       subtitle: News in Focus/ Resources
       description: In this latest issue of NiF, we cover key highlights from the

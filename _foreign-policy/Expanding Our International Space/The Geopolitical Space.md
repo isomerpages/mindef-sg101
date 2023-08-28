@@ -42,9 +42,9 @@ As the Convenor of 3G, Singapore has been hosting the 3G Ministerial Meeting ann
 ***
 **The Association of Southeast Asian Nations (ASEAN)**
 
-ASEAN is a cornerstone of Singapore’s foreign policy where we collaborate actively with ASEAN Member States and partners, provide a forum for all stakeholders to enhance cooperation and maintain cordial relations amongst the Member States.[^7]
+ASEAN is a cornerstone of Singapore’s foreign policy where we collaborate actively with ASEAN Member States and partners, provide a forum for all stakeholders to enhance cooperation and maintain cordial relations amongst the Member States. [^7]
 
-Singapore was one of the founding members of ASEAN on 8 August 1967, along with Indonesia, Malaysia, the Philippines and Thailand. As a small nation-state, Singapore strongly supports ASEAN’s goal of building a strong, prosperous and rules-based ASEAN.[^8]
+Singapore was one of the founding members of ASEAN on 8 August 1967, along with Indonesia, Malaysia, the Philippines and Thailand. As a small nation-state, Singapore strongly supports ASEAN’s goal of building a strong, prosperous and rules-based ASEAN. [^8]
 
 Today, ASEAN has 10 members, including Brunei Darussalam, Cambodia, Lao PDR, Myanmar, and Vietnam (in alphabetical order). In November 2022, ASEAN agreed in-principle to admit Timor-Leste to be the 11th ASEAN Member State, in accordance with an objective, criteria-based roadmap, and granted Timor-Leste observer status to attend all ASEAN meetings in the interim. ASEAN’s international standing and voice have grown over time. ASEAN has established Dialogue Partnerships with eleven parties: Australia, Canada, China, the European Union, India, Japan, New Zealand, the Republic of Korea (ROK), Russia,the US and the UK. There are also ASEAN-led platforms such as ASEAN+3, East Asia Summit, ASEAN Regional Forum, and the ASEAN Defence Ministers’ Meeting-Plus.[^9]
 
@@ -56,14 +56,12 @@ By playing an active role on the regional and global stage, Singapore is able to
 * * *
 #### Bibliography
 
-[^1]: Ministry of Foreign Affairs. (2014, October 2017) 
-<a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2014/10/MFA-Press-Release-Transcript-of-speech-by-Emeritus-Senior-Minister-Goh-Chok-Tong-at-S-Rajaratnam-Lec">The Practice of Foreign Policy for Sustained Growth – The Singapore Experience.* Transcript of speech by Emeritus Senior Minister Goh Chok Tong at S Rajaratnam Lecture</a>.
 
-[^2]: Baharudin, H. (2022, September 23). 
-<a target="blank" href="https://www.straitstimes.com/singapore/small-states-must-participate-actively-to-strengthen-the-multilateral-system-pm-lee">Small states must participate actively to strengthen the multilateral system: PM Lee</a>. *The Straits Times.* 
+[^1]: Ministry of Foreign Affairs. (2014, October 2017) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2014/10/MFA-Press-Release-Transcript-of-speech-by-Emeritus-Senior-Minister-Goh-Chok-Tong-at-S-Rajaratnam-Lec">The Practice of Foreign Policy for Sustained Growth – The Singapore Experience.* Transcript of speech by Emeritus Senior Minister Goh Chok Tong at S Rajaratnam Lecture</a>. 
 
-[^3]: Ministry of Foreign Affairs. (n.d.) 
-<a target="blank" href="https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/International-Issues/Small-States">Small States</a>.
+[^2]: Baharudin, H. (2022, September 23). <a target="blank" href="https://www.straitstimes.com/singapore/small-states-must-participate-actively-to-strengthen-the-multilateral-system-pm-lee">Small states must participate actively to strengthen the multilateral system: PM Lee</a>. *The Straits Times.* 
+
+[^3]: Ministry of Foreign Affairs. (n.d.) <a target="blank" href="https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/International-Issues/Small-States">Small States</a>. 
 
 [^4]: *Ibid.*
 
@@ -71,12 +69,10 @@ By playing an active role on the regional and global stage, Singapore is able to
 
 [^6]: *Ibid.*
 
-[^7]: Ministry of Foreign Affairs. (n.d.) 
-<a target="blank" href="https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/International-Organisations/ASEAN">ASEAN</a>.
+[^7]: Ministry of Foreign Affairs. (n.d.) <a target="blank" href="https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/International-Organisations/ASEAN">ASEAN</a>. 
 
 [^8]: *Ibid.*
 
 [^9]: *Ibid.*
 
-[^10]: Public Service Division. (2015). 
-<a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>.
+[^10]: Public Service Division. (2015) <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>. 
