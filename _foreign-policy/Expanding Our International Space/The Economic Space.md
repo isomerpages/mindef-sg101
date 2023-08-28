@@ -46,6 +46,9 @@ Goh Chok Tong’s midnight golf game with US President Bill Clinton in 2000: The
 
 #### Bibliography
 
+
+[^2]: Public Service Division. (2015) <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>. 
+
 [^1]: Prime Minister’s Office. (2009, April 9). 
 <a target="blank" href="https://www.pmo.gov.sg/Newsroom/speech-mr-lee-kuan-yew-minister-mentor-s-rajaratnam-lecture-09-april-2009-530-pm-shangri">The Fundamentals of Singapore’s Foreign Policy: Then and Now</a>. Speech by Mr Lee Kuan Yew, Minister Mentor, at the S Rajaratnam Lecture at the Shangri-La Hotel. 
 
