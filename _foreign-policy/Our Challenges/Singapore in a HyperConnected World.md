@@ -80,8 +80,16 @@ For a small country like Singapore, our success is dependent on Singaporeans’ 
 
 [^1]: Prime Minister's Office. (2021, November 30). <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/11/20211130-S-Raj">DPM Heng Swee Keat at the S Rajaratnam Lecture on “Fostering Growth and Stability in an Age of Complexity</a>.
 
+[^2]: World Economic Forum. (2016, January 20). <a target="blank" href="https://reports.weforum.org/human-implications-of-digital-media-2016/">Report on Digital Media and Society: Implications in a Hyperconnected Era</a>.
+
+
+[^3]: National Archives of Singapore. (2016, January 20). <a target="blank" href="https://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19650921.pdf">Statement of His Excellency Mr S Rajaratnam Foreign Minister of Singapore at the General Assembly on September 21, 1965, on the occasion of Singapore's admission to the United Nations</a>.
+
 [^2]: World Economic Forum. (2016, January 20). 
 <a target="blank" href="https://reports.weforum.org/human-implications-of-digital-media-2016/">Report on Digital Media and Society: Implications in a Hyperconnected Era</a>. 
+
+
+
 
 [^3]:  Infocomm Media Development Authority. (2023). 
 <a target="blank" href="https://www.imda.gov.sg/About-IMDA/Research-and-Statistics/Digital-Society">Digital Society: Household Access to Internet by Household Composition</a>. 
