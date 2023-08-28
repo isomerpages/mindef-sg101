@@ -37,6 +37,7 @@ In 2018, there was a spike in online comments critical of Singapore when Singapo
 (Image: RSS Independence (left) watching over a Malaysian government vessel in Singapore waters off Tuas. (Credit: <a target="_blank" href="https://www.mindef.gov.sg/web/portal/pioneer/article/cover-article-detail/ops-and-training/2019-Q2/may19_cs">MINDEF</a>))
 
 During a period of tension with another country between 2016 and 2017, Singapore experienced a coordinated Hostile Information Campaign (HIC) that attempted to undermine our foreign policy position. Online commentaries and videos were uploaded by social media accounts which had been dormant for many years. Many of these were in Mandarin and targeted our Chinese-speaking population. The content was widely circulated via chat apps and aimed to influence sentiments amongst Singaporeans.[^10] 
+
 ***
 
 **Read more about disinformation and influence campaigns [here](https://www.sg101.gov.sg/resources/resource-packages/resourcesoninfluencecampaigns/).**
