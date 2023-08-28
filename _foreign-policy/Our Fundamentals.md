@@ -3,7 +3,7 @@ title: Our Fundamentals
 permalink: /foreign-policy/ourfundamentals/
 description: ""
 ---
-5 minutes read
+3 minutes read
 
 [Last updated on 17 July 2023]
 
