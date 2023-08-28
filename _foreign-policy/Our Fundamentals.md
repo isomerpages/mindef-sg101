@@ -3,6 +3,10 @@ title: Our Fundamentals
 permalink: /foreign-policy/ourfundamentals/
 description: ""
 ---
+3 minutes read
+
+[Last updated on 17 July 2023]
+
 #### Respect for National Sovereignty
 
 Singapore seeks to develop a wide network of friends based on the principles of mutual respect, sovereignty and the equality of states, regardless of size. We aim to be a friend to all and an enemy to none, but will uphold our principles and defend our national interests as an independent and sovereign nation.

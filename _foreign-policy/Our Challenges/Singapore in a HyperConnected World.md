@@ -37,6 +37,7 @@ In 2018, there was a spike in online comments critical of Singapore when Singapo
 (Image: RSS Independence (left) watching over a Malaysian government vessel in Singapore waters off Tuas. (Credit: <a target="_blank" href="https://www.mindef.gov.sg/web/portal/pioneer/article/cover-article-detail/ops-and-training/2019-Q2/may19_cs">MINDEF</a>))
 
 During a period of tension with another country between 2016 and 2017, Singapore experienced a coordinated Hostile Information Campaign (HIC) that attempted to undermine our foreign policy position. Online commentaries and videos were uploaded by social media accounts which had been dormant for many years. Many of these were in Mandarin and targeted our Chinese-speaking population. The content was widely circulated via chat apps and aimed to influence sentiments amongst Singaporeans.[^10] 
+
 ***
 
 **Read more about disinformation and influence campaigns [here](https://www.sg101.gov.sg/resources/resource-packages/resourcesoninfluencecampaigns/).**
@@ -77,8 +78,7 @@ For a small country like Singapore, our success is dependent on Singaporeans’ 
 * * *
 #### Bibliography
 
-[^1]: Prime Minister's Office. (2021, November 30).
-<a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/11/20211130-S-Raj">DPM Heng Swee Keat at the S Rajaratnam Lecture on “Fostering Growth and Stability in an Age of Complexity”</a>.
+[^1]: Prime Minister's Office. (2021, November 30). <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/11/20211130-S-Raj">DPM Heng Swee Keat at the S Rajaratnam Lecture on “Fostering Growth and Stability in an Age of Complexity</a>.
 
 [^2]: World Economic Forum. (2016, January 20). 
 <a target="blank" href="https://reports.weforum.org/human-implications-of-digital-media-2016/">Report on Digital Media and Society: Implications in a Hyperconnected Era</a>. 

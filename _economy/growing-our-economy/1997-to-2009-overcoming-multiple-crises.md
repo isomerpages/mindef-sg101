@@ -58,7 +58,7 @@ Watch [ChannelNews Asia 2-part documentary on the management of our national res
 
 The biggest misconception amongst Singaporeans is that Singapore has “so much” reserves. However, Singapore is not over-saving. In fact, the national reserves are growing at a rate that is barely keeping pace with economic growth.[^8]
 
-The investment returns being channelled back into the national reserves is key to building up the country’s coffers in the long run. If we do not have anything going back to the reserves, the value of our reserves will diminish over time.[\[^9]
+The investment returns being channelled back into the national reserves is key to building up the country’s coffers in the long run. If we do not have anything going back to the reserves, the value of our reserves will diminish over time.[^9]
 
 When the global financial crisis happened in 2008, it turned out that we needed about four to five billion dollars. During the COVID-19 pandemic between 2020 and 2022, the government needed to draw over $40 billion from the reserves. We have no idea how much we may need in future as the COVID-19 crisis may not be the worst thing that can happen to us.[^10]
 
@@ -70,8 +70,8 @@ We can think about our national reserves as “rainy day money” that we put as
 
 [^1]: Gov.sg (2014, February 17) <a target="blank" href="https://www.gov.sg/article/what-is-the-budget-process">What is the budget process?</a>.
 
-[^2]: Ministry of Finance. (n.d.) 
-<a target="blank" href="https://www.mof.gov.sg/singaporebudget/media-centre/features/overview-of-the-singapore-budget">Overview of the Singapore Budget</a>. 
+[^2]: Ministry of Finance. (n.d.). 
+<a target="blank" href="https://www.mof.gov.sg/singaporebudget/media-centre/features/overview-of-the-singapore-budget">Overview of the Singapore Budget</a>.
 
 [^3]: Tang, S.K. (2023, August 17). <a target="blank" href="https://www.channelnewsasia.com/singapore/lawrence-wong-singapore-reserves-revealed-oversaving-3702421">Singapore not ‘oversaving’ with reserves ‘barely keeping pace’ with its economy: DPM Wong</a>.
 
