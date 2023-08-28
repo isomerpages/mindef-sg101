@@ -30,14 +30,13 @@ sections:
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
   - infopic:
-      title: News in Focus 06 2023
+      title: News in Focus 07 2023
       subtitle: News in Focus/ Resources
-      description: "In this issue: (1) Highlights from SLD; (2) Good Governance is
-        Important; (3) Everyone Has a Part in Our Defence; (4) Strengthening
-        Racial and Religious Harmony"
+      description: In this latest issue of NiF, we cover key highlights from the
+        National Day Rally (NDR) 2023.
       button: Read More
-      url: https://www.sg101.gov.sg/resources/news-in-focus/06-2023/
-      image: /images/nif 06_20231.png
+      url: https://www.sg101.gov.sg/resources/news-in-focus/07-2023/
+      image: /images/nif 0723.jpg
       alt: Image alt text
   - infopic:
       title: Onward as One - National Day 2023 NE Engagement Package
