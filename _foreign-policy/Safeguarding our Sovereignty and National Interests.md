@@ -147,15 +147,15 @@ Local media reported in March 2022 that there were TikTok posts that aimed to in
 
 [^2]: Public Service Division. (2015) <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>. 
 
-[^2]: Public Service Division. (2015) <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>. 
+[^5]: United Nations. <a target="blank" href="https://www.un.org/en/about-us/un-charter/chapter-1">Charter, Article 2</a>. 
 
 [^1]: Ministry of Foreign Affairs. (2017, November 28). <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat">Speech by Dr Tony Tan Keng Yam, Former President of Singapore, at the 10th S Rajaratnam Lecture</a>. 
 
-[\[2\]](#_ftnref2)*Ibid.*
+[^2]: *Ibid.*
 
-[\[3\]](#_ftnref3) Public Service Division. (2015). Public Service Division. (2015). <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>.
+[^3]: Public Service Division. (2015) <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>. 
 
-[\[4\]](#_ftnref4) United Nations. <a target="blank" href="https://www.un.org/en/about-us/un-charter/chapter-1">Charter, Article 2</a>.
+[^4]: United Nations. <a target="blank" href="https://www.un.org/en/about-us/un-charter/chapter-1">Charter, Article 2</a>. 
 
 [\[5\]](#_ftnref5) Prime Minister’s Office. (2019, May 31). 
 <a target="blank" href="https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-the-IISS-Shangri-La-Dialogue-2019">Keynote address by Prime Minister Lee Hsien Loong at the International Institute for Strategic Studies (IISS) Shangri-La Dialogue Opening Dinner</a>.
