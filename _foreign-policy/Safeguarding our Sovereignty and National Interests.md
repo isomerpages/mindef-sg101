@@ -181,7 +181,7 @@ Local media reported in March 2022 that there were TikTok posts that aimed to in
 
 [\[13\]](#_ftnref13) Public Service Division. (2015). <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>.
 
-[\[14\]](#_ftnref14) *Ibid*.
+[^14]: *Ibid.*
 
 [\[15\]](#_ftnref15) The Straits Times. (2019, June 8). 
 <a target="blank" href="https://www.straitstimes.com/singapore/sovereignty-principle-was-at-stake-in-vietnams-invasion-of-cambodia-in-1978">Sovereignty principle was at stake in Vietnam’s invasion of Cambodia in 1978</a>. 
@@ -198,7 +198,7 @@ Local media reported in March 2022 that there were TikTok posts that aimed to in
 [\[19\]](#_ftnref19) Ministry of Foreign Affairs. (2019, June 7). 
 <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2019/06/07062019-Spokesperson-Comments-on-PM-Letter-and-2019-SLD-Speech">MFA Spokesperson’s comments in response to media queries on PM’s condolence letter on the passing of former Thailand Prime Minister and Privy Council President General Prem Tinsulanonda and 2019 Shangri-La Dialogue Speech</a>.
 
-[\[20\]](#_ftnref20) *Ibid.*
+[^20]: *Ibid.*
 
 [\[21\]](#_ftnref21) Prime Minister’s Office. (2022, May 1). 
 <a target="blank" href="https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-May-Day-Rally-2022">PM Lee Hsien Loong at May Day Rally 2022</a>.
