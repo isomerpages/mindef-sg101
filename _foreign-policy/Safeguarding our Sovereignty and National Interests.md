@@ -187,4 +187,4 @@ Local media reported in March 2022 that there were TikTok posts that aimed to in
 
 [^21]: Prime Minister’s Office. (2022, May 1). <a target="blank" href="https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-May-Day-Rally-2022">PM Lee Hsien Loong at May Day Rally 2022</a>. 
 
-[^21]: Ministry of Foreign Affairs. (2022, February 28).  <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/02/20220228-Ministerial-Statement">Minister for Foreign Affairs Dr Vivian Balakrishnan’s Ministerial Statement on the situation in Ukraine and its implications</a>.
+[^22]: Ministry of Foreign Affairs. (2022, February 28).  <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/02/20220228-Ministerial-Statement">Minister for Foreign Affairs Dr Vivian Balakrishnan’s Ministerial Statement on the situation in Ukraine and its implications</a>.
