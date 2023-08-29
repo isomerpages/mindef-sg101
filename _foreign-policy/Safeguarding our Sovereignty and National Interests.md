@@ -150,6 +150,7 @@ Local media reported in March 2022 that there were TikTok posts that aimed to in
 
 
 
+
 [^1]: Ministry of Foreign Affairs. (2017, November 28). <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat">Speech by Dr Tony Tan Keng Yam, Former President of Singapore, at the 10th S Rajaratnam Lecture</a>. 
 
 [^2]: *Ibid.*
