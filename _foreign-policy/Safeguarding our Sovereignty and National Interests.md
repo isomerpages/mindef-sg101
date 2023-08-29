@@ -145,12 +145,6 @@ Local media reported in March 2022 that there were TikTok posts that aimed to in
 * * *
 #### Bibliography
 
-[^2]: Public Service Division. (2015) <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>. 
-
-
-[^21]: Ministry of Foreign Affairs. (2022, February 28).  <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/02/20220228-Ministerial-Statement">Minister for Foreign Affairs Dr Vivian Balakrishnan’s Ministerial Statement on the situation in Ukraine and its implications</a>. 
-
-
 [^1]: Ministry of Foreign Affairs. (2017, November 28). <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat">Speech by Dr Tony Tan Keng Yam, Former President of Singapore, at the 10th S Rajaratnam Lecture</a>. 
 
 [^2]: *Ibid.*
@@ -163,7 +157,7 @@ Local media reported in March 2022 that there were TikTok posts that aimed to in
 
 [^6]: Hamid, M.E.A. and Saparudin, K. (2014, August 7). <a target="blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP\_62\_2004-12-17.html">MacDonald House bomb explosion</a>. *Singapore Infopedia*.
 
-[\[7\]](#_ftnref7) Lee Kuan Yew. (2014). From Third World to First: The Singapore Story: 1965 – 2000.
+[^7]: Lee Kuan Yew. (2014). From Third World to First: The Singapore Story: 1965 – 2000.
 
 [^8]: Ministry of Defence. (2014, February 18). <a target="blank" href="https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2014/february/2014feb18-Parliamentary-000087">Reply by Minister for Defence Dr Ng Eng Hen to Parliamentary Question on the response to the Indonesian Navy’s naming of new warship</a>. 
 
