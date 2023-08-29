@@ -173,18 +173,16 @@ Local media reported in March 2022 that there were TikTok posts that aimed to in
 [\[11\]](#_ftnref11) Ministry of Foreign Affairs. (2014, October 17). 
 <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2014/10/MFA-Press-Release-Transcript-of-speech-by-Emeritus-Senior-Minister-Goh-Chok-Tong-at-S-Rajaratnam-Lec">The Practice of Foreign Policy for Sustained Growth – The Singapore Experience.</a>.  Transcript of speech by Emeritus Senior Minister Goh Chok Tong at S Rajaratnam Lecture.
 
-[\[12\]](#_ftnref12) Chew, V. (2021, October). 
-<a target="blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1554\_2009-08-06.html">Michael Fay</a>. *Singapore Infopedia*.
+[^12]: Chew V. (2021, October). <a target="blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1554\_2009-08-06.html">Michael Fay</a>. *Singapore Infopedia*. 
 
-[\[13\]](#_ftnref13) Public Service Division. (2015). <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>.
+[^13]: Public Service Division. (2015) <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>. 
 
 [^14]: *Ibid.*
 
 [\[15\]](#_ftnref15) The Straits Times. (2019, June 8). 
 <a target="blank" href="https://www.straitstimes.com/singapore/sovereignty-principle-was-at-stake-in-vietnams-invasion-of-cambodia-in-1978">Sovereignty principle was at stake in Vietnam’s invasion of Cambodia in 1978</a>. 
 
-[\[16\]](#_ftnref16) Public Service Division. (2015). 
-<a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>.
+[^16]: Public Service Division. (2015) <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>. 
 
 [\[17\]](#_ftnref17) Ministry of Foreign Affairs. (2011, November 23).
 <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2011/11/Speech-by-Former-Deputy-Prime-Minister-Wong-Kan-Seng-at-the-S-Rajaratnam-Lecture-at-Shangri-La-Hote">Speech by former Deputy Prime Minister Mr Wong Kan Seng at the S Rajaratnam Lecture at Shangri-La Hotel</a>. 
