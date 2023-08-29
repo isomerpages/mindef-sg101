@@ -148,7 +148,7 @@ Local media reported in March 2022 that there were TikTok posts that aimed to in
 [^2]: Public Service Division. (2015) <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>. 
 
 
-
+[^15]: The Straits Times. (2019, June 8). <a target="blank" href="https://www.straitstimes.com/singapore/sovereignty-principle-was-at-stake-in-vietnams-invasion-of-cambodia-in-1978">Sovereignty principle was at stake in Vietnam’s invasion of Cambodia in 1978</a>. 
 
 
 [^1]: Ministry of Foreign Affairs. (2017, November 28). <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/11/MFA-Press-Release-Speech-by-Dr-Tony-Tan-Keng-Yam-Former-President-of-Singapore-at-the-10th-S-Rajarat">Speech by Dr Tony Tan Keng Yam, Former President of Singapore, at the 10th S Rajaratnam Lecture</a>. 
@@ -180,8 +180,7 @@ Local media reported in March 2022 that there were TikTok posts that aimed to in
 
 [^14]: *Ibid.*
 
-[\[15\]](#_ftnref15) The Straits Times. (2019, June 8). 
-<a target="blank" href="https://www.straitstimes.com/singapore/sovereignty-principle-was-at-stake-in-vietnams-invasion-of-cambodia-in-1978">Sovereignty principle was at stake in Vietnam’s invasion of Cambodia in 1978</a>. 
+[^15]: The Straits Times. (2019, June 8). <a target="blank" href="https://www.straitstimes.com/singapore/sovereignty-principle-was-at-stake-in-vietnams-invasion-of-cambodia-in-1978">Sovereignty principle was at stake in Vietnam’s invasion of Cambodia in 1978</a>. 
 
 [^16]: Public Service Division. (2015) <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>. 
 
