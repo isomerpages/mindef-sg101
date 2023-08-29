@@ -165,8 +165,7 @@ Local media reported in March 2022 that there were TikTok posts that aimed to in
 
 [^10]: Public Service Division. (2015) <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>. 
 
-[\[11\]](#_ftnref11) Ministry of Foreign Affairs. (2014, October 17). 
-<a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2014/10/MFA-Press-Release-Transcript-of-speech-by-Emeritus-Senior-Minister-Goh-Chok-Tong-at-S-Rajaratnam-Lec">The Practice of Foreign Policy for Sustained Growth – The Singapore Experience.</a>.  Transcript of speech by Emeritus Senior Minister Goh Chok Tong at S Rajaratnam Lecture.
+[^11]: Ministry of Foreign Affairs. (2014, October 17). <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2014/10/MFA-Press-Release-Transcript-of-speech-by-Emeritus-Senior-Minister-Goh-Chok-Tong-at-S-Rajaratnam-Lec">The Practice of Foreign Policy for Sustained Growth – The Singapore Experience.</a>. Transcript of speech by Emeritus Senior Minister Goh Chok Tong at S Rajaratnam Lecture.
 
 [^12]: Chew V. (2021, October). <a target="blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1554\_2009-08-06.html">Michael Fay</a>. *Singapore Infopedia*. 
 
@@ -188,4 +187,4 @@ Local media reported in March 2022 that there were TikTok posts that aimed to in
 
 [^21]: Prime Minister’s Office. (2022, May 1). <a target="blank" href="https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-May-Day-Rally-2022">PM Lee Hsien Loong at May Day Rally 2022</a>. 
 
-[^21]: Ministry of Foreign Affairs. (2022, February 28).  <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/02/20220228-Ministerial-Statement">Minister for Foreign Affairs Dr Vivian Balakrishnan’s Ministerial Statement on the situation in Ukraine and its implications</a>. 
+[^21]: Ministry of Foreign Affairs. (2022, February 28).  <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/02/20220228-Ministerial-Statement">Minister for Foreign Affairs Dr Vivian Balakrishnan’s Ministerial Statement on the situation in Ukraine and its implications</a>.
