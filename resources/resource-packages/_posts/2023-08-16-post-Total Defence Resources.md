@@ -35,9 +35,9 @@ Submit your ideas [here](https://go.gov.sg/tdsandbox)!
 
 Featuring celebrities such as Tosh Zhang, along with Mister Young and Colin Tan from Power 98, Jimmy Koh from 88.3JIA and more, the video series aims to further engage youths on how they can play a part in the fight against terrorism and climate change.
 
-Watch the video series [here](https://go.gov.sg/mmrpgvideoseries)! 
+Watch the video series [here](https://go.gov.sg/mmrpgvideoseries)! (Episode 1 and 2 are out!)
 
-Stay tuned. Episode 2 and 3 coming soon!
+Stay tuned. Episode 3 (finale) coming soon!
 
 ****
 #### **Total Defence Tower Defence Game**
