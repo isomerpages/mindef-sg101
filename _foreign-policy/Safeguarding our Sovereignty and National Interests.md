@@ -86,7 +86,7 @@ Nonetheless, Singapore’s principled stand on the matter was widely supported b
 
 **Singapore’s Position on Vietnam’s Invasion of Cambodia**
 
-In December 1978, Vietnam invaded Kampuchea (presently Cambodia) and toppled the brutal Khmer Rouge regime, which had ruled the country between 1975 and 1978, and reportedly killed one-third of the population. The Vietnamese installed a government led by Heng Samrin.[^14] [^15]
+In December 1978, Vietnam invaded Kampuchea (presently Cambodia) and toppled the brutal Khmer Rouge regime, which had ruled the country between 1975 and 1978, and reportedly killed one-third of the population. The Vietnamese installed a government led by Heng Samrin. [^14] [^15]
 
 Singapore had no sympathy for the Khmer Rouge regime but the invasion violated an important principle that no country should violate the sovereignty of another.
 
