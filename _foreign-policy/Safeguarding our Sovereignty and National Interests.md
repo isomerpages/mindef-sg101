@@ -159,8 +159,7 @@ Local media reported in March 2022 that there were TikTok posts that aimed to in
 
 [^5]: Prime Minister's Office. (2019, May 31). <a target="blank" href="https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-the-IISS-Shangri-La-Dialogue-2019">Keynote address by Prime Minister Lee Hsien Loong at the International Institute for Strategic Studies (IISS) Shangri-La Dialogue Opening Dinner</a>. 
 
-[\[6\]](#_ftnref6) Hamid, M.E.A. and Saparudin, K. (2014, August 7). 
-<a target="blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP\_62\_2004-12-17.html">MacDonald House bomb explosion</a>. *Singapore Infopedia*.
+[^6]: Hamid, M.E.A. and Saparudin, K. (2014, August 7). <a target="blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP\_62\_2004-12-17.html">MacDonald House bomb explosion</a>. *Singapore Infopedia*.
 
 [\[7\]](#_ftnref7) Lee Kuan Yew. (2014). From Third World to First: The Singapore Story: 1965 – 2000.
 
