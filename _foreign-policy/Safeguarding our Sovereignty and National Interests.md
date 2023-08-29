@@ -187,8 +187,7 @@ Local media reported in March 2022 that there were TikTok posts that aimed to in
 [\[17\]](#_ftnref17) Ministry of Foreign Affairs. (2011, November 23).
 <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2011/11/Speech-by-Former-Deputy-Prime-Minister-Wong-Kan-Seng-at-the-S-Rajaratnam-Lecture-at-Shangri-La-Hote">Speech by former Deputy Prime Minister Mr Wong Kan Seng at the S Rajaratnam Lecture at Shangri-La Hotel</a>. 
 
-[\[18\]](#_ftnref18) The Straits Times. (2019, June 8). 
-<a target="blank" href="https://www.straitstimes.com/singapore/sovereignty-principle-was-at-stake-in-vietnams-invasion-of-cambodia-in-1978">Sovereignty principle was at stake in Vietnam’s invasion of Cambodia in 1978</a>.
+[^18]: The Straits Times. (2019, June 8). <a target="blank" href="https://www.straitstimes.com/singapore/sovereignty-principle-was-at-stake-in-vietnams-invasion-of-cambodia-in-1978">Sovereignty principle was at stake in Vietnam’s invasion of Cambodia in 1978</a>. 
 
 [\[19\]](#_ftnref19) Ministry of Foreign Affairs. (2019, June 7). 
 <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2019/06/07062019-Spokesperson-Comments-on-PM-Letter-and-2019-SLD-Speech">MFA Spokesperson’s comments in response to media queries on PM’s condolence letter on the passing of former Thailand Prime Minister and Privy Council President General Prem Tinsulanonda and 2019 Shangri-La Dialogue Speech</a>.
