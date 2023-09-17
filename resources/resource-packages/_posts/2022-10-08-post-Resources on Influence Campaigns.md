@@ -31,6 +31,9 @@ Download the discusssion package
 
 You may find more resources on influence campaigns and how Singapore counters foreign interference at <a target="_blank" href="https://www.mha.gov.sg/fica">Introduction to Foreign Interference (Countermeasures) Act (FICA)</a>
 
+Past ConnexionSG posts on influence campaigns can be found at:
+* <a target="_blank" href="https://www.sg101.gov.sg/resources/connexionsg/foreigninterferencewfticasaynotofakenews/">It’s on the internet, so it must be true? </a>
+
 
 ****
 
