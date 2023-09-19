@@ -1,6 +1,6 @@
 ---
 title: Our Grandmother's Road
-permalink: /places/streets-of-singapore/our-grandmothers-road
+permalink: /places/streets-of-singapore/our-grandmothers-road/
 third_nav_title: Streets Of Singapore
 ---
 ### Streets Named After Women

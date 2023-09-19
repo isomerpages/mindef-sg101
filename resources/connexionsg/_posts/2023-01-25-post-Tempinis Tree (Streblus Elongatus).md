@@ -1,6 +1,6 @@
 ---
 title: Tempinis Tree (Streblus Elongatus)
-permalink: /resources/connexionsg/TempinisTree/
+permalink: /resources/connexionsg/tempinistree/
 date: 2023-01-25
 layout: post
 description: ""

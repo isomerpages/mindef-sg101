@@ -1,6 +1,6 @@
 ---
 title: NE Insights on Singapore’s Principled Stand on Russia’s Invasion of Ukraine
-permalink: /resources/resource-packages/SGPrincipledStandonRussiasInvasionofUkraine
+permalink: /resources/resource-packages/sgprincipledstandonrussiasinvasionofukraine/
 date: 2022-03-24
 layout: post
 description: ""

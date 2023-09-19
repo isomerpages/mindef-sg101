@@ -1,6 +1,6 @@
 ---
 title: Local Water Catchment
-permalink: /nature-and-environment/local-water-catchment
+permalink: /nature-and-environment/local-water-catchment/
 ---
 ### Singapore has no natural water resources but receives abundant rainfall. How to catch all that free water from the sky?
 

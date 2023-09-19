@@ -1,6 +1,6 @@
 ---
 title: "#ChallengeAccepted: Gaining a foothold in the global market"
-permalink: /resources/connexionsg/Industralising/
+permalink: /resources/connexionsg/industralising/
 date: 2022-09-14
 layout: post
 description: ""

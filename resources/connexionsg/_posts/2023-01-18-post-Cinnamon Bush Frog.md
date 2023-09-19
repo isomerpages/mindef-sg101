@@ -1,6 +1,6 @@
 ---
 title: Cinnamon Bush Frog
-permalink: /resources/connexionsg/CinnamonBushFrog/
+permalink: /resources/connexionsg/cinnamonbushfrog/
 date: 2023-01-18
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Withdrawal of British Forces and the Need to Build Our Own Defence Force
-permalink: /defence-and-security/Challenges/withdrawal-of-british-forces-and-need-for-own-defence
+permalink: /defence-and-security/challenges/withdrawal-of-british-forces-and-need-for-own-defence/
 description: ""
 third_nav_title: Challenges
 ---

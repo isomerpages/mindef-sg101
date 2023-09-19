@@ -1,6 +1,6 @@
 ---
 title: "#OnThisDay (8 Dec 1941) World War II came to Singapore from the air"
-permalink: /resources/connexionsg/WWII/
+permalink: /resources/connexionsg/wwii/
 date: 2022-12-08
 layout: post
 description: ""

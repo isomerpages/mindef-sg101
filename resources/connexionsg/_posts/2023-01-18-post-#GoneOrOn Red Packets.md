@@ -1,6 +1,6 @@
 ---
 title: "#GoneOrOn Red Packets"
-permalink: /resources/connexionsg/RedPackets/
+permalink: /resources/connexionsg/redpackets/
 date: 2023-01-18
 layout: post
 description: ""

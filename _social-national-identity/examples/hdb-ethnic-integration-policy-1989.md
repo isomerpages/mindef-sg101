@@ -1,6 +1,6 @@
 ---
 title: HDB Ethnic Integration Policy (1989)
-permalink: /social-national-identity/examples/hdb
+permalink: /social-national-identity/examples/hdb/
 third_nav_title: Examples
 ---
 #### HDB Ethnic Integration Policy (1989)

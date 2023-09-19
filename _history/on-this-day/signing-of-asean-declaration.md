@@ -1,6 +1,6 @@
 ---
 title: Signing of ASEAN declaration
-permalink: /history/on-this-day/asean-declaration
+permalink: /history/on-this-day/asean-declaration/
 third_nav_title: On This Day
 ---
 ### 8 August 1967, the Heads of State from Singapore, Indonesia, Malaysia, the Philippines and Thailand gathered #onthisday in Bangkok to sign the ASEAN declaration for regional cooperation.

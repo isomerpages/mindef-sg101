@@ -1,6 +1,6 @@
 ---
 title: Bak Kwa (Rou Gan)
-permalink: /resources/connexionsg/BakKwaRouGan/
+permalink: /resources/connexionsg/bakkwarougan/
 date: 2023-01-13
 layout: post
 description: ""

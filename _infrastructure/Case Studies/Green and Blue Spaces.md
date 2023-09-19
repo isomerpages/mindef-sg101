@@ -1,6 +1,6 @@
 ---
 title: Green and Blue Spaces
-permalink: /infrastructure/case-studies/GreenandBlueSpaces
+permalink: /infrastructure/case-studies/greenandbluespaces/
 third_nav_title: Case Studies
 description: ""
 ---

@@ -1,6 +1,6 @@
 ---
 title: "#TIL World Toilet Day"
-permalink: /resources/connexionsg/WorldToiletDay/
+permalink: /resources/connexionsg/worldtoiletday/
 date: 2022-11-19
 layout: post
 description: ""

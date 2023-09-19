@@ -1,6 +1,6 @@
 ---
 title: "#OurNeighbourhood Woodlands"
-permalink: /resources/connexionsg/Woodlands/
+permalink: /resources/connexionsg/woodlands/
 date: 2023-02-03
 layout: post
 description: ""

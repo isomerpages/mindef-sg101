@@ -1,6 +1,6 @@
 ---
 title: Tutu Kueh
-permalink: /resources/connexionsg/TutuKueh/
+permalink: /resources/connexionsg/tutukueh/
 date: 2022-10-07
 layout: post
 description: ""

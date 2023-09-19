@@ -1,6 +1,6 @@
 ---
 title: Lontong
-permalink: /resources/connexionsg/Lontong/
+permalink: /resources/connexionsg/lontong/
 date: 2022-12-23
 layout: post
 description: ""

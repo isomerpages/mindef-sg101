@@ -1,6 +1,6 @@
 ---
 title: Dugongs
-permalink: /resources/connexionsg/Dugongs/
+permalink: /resources/connexionsg/dugongs/
 date: 2022-11-30
 layout: post
 description: ""

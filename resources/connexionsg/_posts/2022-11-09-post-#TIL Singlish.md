@@ -1,6 +1,6 @@
 ---
 title: "#TIL Singlish"
-permalink: /resources/connexionsg/Singlish/
+permalink: /resources/connexionsg/singlish/
 date: 2022-11-09
 layout: post
 description: ""

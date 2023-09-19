@@ -1,6 +1,6 @@
 ---
 title: A Whole of Nation Approach
-permalink: /defence-and-security/Our-Defence-and-Security/whole-of-nation-approach
+permalink: /defence-and-security/our-defence-and-security/whole-of-nation-approach/
 description: ""
 third_nav_title: Our Defence and Security
 ---

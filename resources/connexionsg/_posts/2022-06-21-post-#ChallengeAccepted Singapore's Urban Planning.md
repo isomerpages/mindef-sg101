@@ -1,6 +1,6 @@
 ---
 title: "#ChallengeAccepted Singapore's Urban Planning"
-permalink: /resources/connexionsg/SGurbanplanning
+permalink: /resources/connexionsg/sgurbanplanning/
 date: 2022-06-21
 layout: post
 description: ""

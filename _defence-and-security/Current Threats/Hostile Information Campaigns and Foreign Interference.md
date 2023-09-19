@@ -1,6 +1,6 @@
 ---
 title: Hostile Information Campaigns and Foreign Interference
-permalink: /defence-and-security/Current-Threats/HICs-and-foreign-interference
+permalink: /defence-and-security/current-threats/hics-and-foreign-interference/
 description: ""
 third_nav_title: Current Threats
 ---

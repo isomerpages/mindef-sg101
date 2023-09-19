@@ -1,6 +1,6 @@
 ---
 title: "#Heritage Masjid Al Abrar Mosque"
-permalink: /resources/connexionsg/MasjidAlAbrarMosque/
+permalink: /resources/connexionsg/masjidalabrarmosque/
 date: 2022-11-16
 layout: post
 description: ""

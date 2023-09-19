@@ -1,6 +1,6 @@
 ---
 title: Thinking Long-Term
-permalink: /infrastructure/constraints-and-challenges/longter
+permalink: /infrastructure/constraints-and-challenges/longter/
 third_nav_title: Constraints And Challenges
 ---
 #### Thinking Long Term

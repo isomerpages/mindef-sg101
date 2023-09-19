@@ -1,6 +1,6 @@
 ---
 title: Hari Raya Haji
-permalink: /resources/connexionsg/HariRayaHaji
+permalink: /resources/connexionsg/harirayahaji/
 date: 2022-07-10
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: "#SingaporeWorldWaterDay Reservoirs in Singapore"
-permalink: /resources/connexionsg/ReservoirsinSG
+permalink: /resources/connexionsg/reservoirsinsg/
 date: 2022-03-18
 layout: post
 description: ""

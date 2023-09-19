@@ -1,6 +1,6 @@
 ---
 title: "#Heritage Mount Faber"
-permalink: /resources/connexionsg/MountFaber/
+permalink: /resources/connexionsg/mountfaber/
 date: 2022-05-11
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: The Threat of Self Radicalisation
-permalink: /defence-and-security/Case-Studies/the-threat-of-self-radicalisation
+permalink: /defence-and-security/case-studies/the-threat-of-self-radicalisation/
 description: ""
 third_nav_title: Case Studies
 ---

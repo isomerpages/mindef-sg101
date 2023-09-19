@@ -1,6 +1,6 @@
 ---
 title: Creating a Sustainable Economy
-permalink: /infra/urban-planning/sustainable
+permalink: /infra/urban-planning/sustainable/
 third_nav_title: Urban Planning
 ---
 #### Creating a Sustainable Economy

@@ -1,7 +1,7 @@
 ---
 title: Our Grandmothers Road
 date: 2021-05-27
-permalink: /resources/connexionsg/grandmothersroad
+permalink: /resources/connexionsg/grandmothersroad/
 layout: post
 ---
 There are more than 3,200 streets in Singapore. Their names not only help us locate places efficiently but also reflect Singapore’s heritage.

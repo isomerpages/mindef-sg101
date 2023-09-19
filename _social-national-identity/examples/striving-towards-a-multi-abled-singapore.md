@@ -1,6 +1,6 @@
 ---
 title: Striving towards a Multi-Abled Singapore
-permalink: /social-national-identity/examples/striving
+permalink: /social-national-identity/examples/striving/
 third_nav_title: Examples
 ---
 #### Striving towards a Multi-Abled Singapore

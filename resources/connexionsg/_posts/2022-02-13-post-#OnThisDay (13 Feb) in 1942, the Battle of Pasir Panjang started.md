@@ -1,6 +1,6 @@
 ---
 title: "#OnThisDay (13 Feb) in 1942, the Battle of Pasir Panjang started"
-permalink: /resources/connexionsg/OnThisDay-13Feb-Battle-of-Pasir-Panjang-started
+permalink: /resources/connexionsg/onthisday-13feb-battle-of-pasir-panjang-started/
 date: 2022-02-13
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Common Palm Civet
-permalink: /resources/connexionsg/CommonPalmCivet/
+permalink: /resources/connexionsg/commonpalmcivet/
 date: 2023-03-01
 layout: post
 description: ""

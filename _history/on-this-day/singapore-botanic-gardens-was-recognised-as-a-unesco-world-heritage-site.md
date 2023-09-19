@@ -1,6 +1,6 @@
 ---
 title: Singapore Botanic Gardens was recognised as a UNESCO World Heritage Site
-permalink: /history/on-this-day/singapore-botanic-gardens
+permalink: /history/on-this-day/singapore-botanic-gardens/
 third_nav_title: On This Day
 ---
 ### #onthisday six years ago, Singapore Botanic Gardens was recognised as a UNESCO World Heritage Site, joining more than a thousand others Unesco World Heritage Sites around the world. 

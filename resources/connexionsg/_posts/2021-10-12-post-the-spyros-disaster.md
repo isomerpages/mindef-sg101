@@ -1,7 +1,7 @@
 ---
 title: The Spyros Disaster
 date: 2021-10-12
-permalink: /resources/connexionsg/spyros
+permalink: /resources/connexionsg/spyros/
 layout: post
 ---
 ###  #onthisday (12 Oct) in 1978, Singapore’s worst industrial accident happened — The Spyros Disaster.

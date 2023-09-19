@@ -1,6 +1,6 @@
 ---
 title: Art and Music Scene in Singapore
-permalink: /social-national-identity/case-studies/ArtMusicSceneinSG/
+permalink: /social-national-identity/case-studies/artmusicsceneinsg/
 description: ""
 third_nav_title: Case Studies
 ---

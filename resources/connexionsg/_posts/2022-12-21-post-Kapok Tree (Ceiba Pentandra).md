@@ -1,6 +1,6 @@
 ---
 title: Kapok Tree (Ceiba Pentandra)
-permalink: /resources/connexionsg/KapokTree/
+permalink: /resources/connexionsg/kapoktree/
 date: 2022-12-21
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Resource Innovation
-permalink: /infra/constraints-and-challenges/resource
+permalink: /infra/constraints-and-challenges/resource/
 third_nav_title: Constraints And Challenges
 ---
 ## Resource Constraints and Challenges

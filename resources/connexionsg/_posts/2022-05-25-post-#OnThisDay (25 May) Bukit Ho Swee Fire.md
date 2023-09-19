@@ -1,6 +1,6 @@
 ---
 title: "#OnThisDay (25 May) Bukit Ho Swee Fire"
-permalink: /resources/connexionsg/BukitHoSwee-Fire
+permalink: /resources/connexionsg/bukithoswee-fire/
 date: 2022-05-25
 layout: post
 description: ""

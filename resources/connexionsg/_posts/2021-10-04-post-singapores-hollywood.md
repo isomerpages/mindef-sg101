@@ -1,7 +1,7 @@
 ---
 title: Singapore's Hollywood
 date: 2021-10-04
-permalink: /resources/connexionsg/sghollywood
+permalink: /resources/connexionsg/sghollywood/
 layout: post
 ---
 🎬🎥  ***Imagine living next to Singapore's Hollywood!***  🎬🎥

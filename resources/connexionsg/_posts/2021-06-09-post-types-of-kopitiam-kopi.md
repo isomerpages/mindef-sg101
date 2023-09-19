@@ -1,7 +1,7 @@
 ---
 title: Types Of Kopitiam Kopi
 date: 2021-06-09
-permalink: /resources/connexionsg/typesofkopi
+permalink: /resources/connexionsg/typesofkopi/
 layout: post
 ---
 Dropping by the kopitiam to dabao food? 

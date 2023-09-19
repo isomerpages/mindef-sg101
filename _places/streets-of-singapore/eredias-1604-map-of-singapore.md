@@ -1,6 +1,6 @@
 ---
 title: "Eredia's 1604 Map of Singapore "
-permalink: /places/streets-of-singapore/eredia-1604-map
+permalink: /places/streets-of-singapore/eredia-1604-map/
 third_nav_title: Streets Of Singapore
 ---
 ### Many may think Singapore was a sleepy fishing village before Sir Stamford Raffles set foot in 1819, but the island was already a vital trading outpost 200 years before.

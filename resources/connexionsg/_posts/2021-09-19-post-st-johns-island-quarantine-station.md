@@ -1,7 +1,7 @@
 ---
 title: St Johns Island Quarantine Station
 date: 2021-09-19
-permalink: /resources/connexionsg/stjohnsquarantine
+permalink: /resources/connexionsg/stjohnsquarantine/
 layout: post
 ---
 Quarantine orders, stay home notices, and social distancing — these seem so distinctly COVID-19. But #TIL that Singapore has been through something like this, nearly two centuries ago. 😷

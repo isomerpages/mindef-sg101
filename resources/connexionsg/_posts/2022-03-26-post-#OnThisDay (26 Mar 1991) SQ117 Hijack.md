@@ -1,6 +1,6 @@
 ---
 title: "#OnThisDay (26 Mar 1991) SQ117 Hijack"
-permalink: /resources/connexionsg/SQ117Hijack/
+permalink: /resources/connexionsg/sq117hijack/
 date: 2022-03-26
 layout: post
 description: ""

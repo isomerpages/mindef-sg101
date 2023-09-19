@@ -1,6 +1,6 @@
 ---
 title: National Day 2021
-permalink: /history/on-this-day/national-day-2021
+permalink: /history/on-this-day/national-day-2021/
 third_nav_title: On This Day
 ---
 ### Our first National Day Parade (NDP) was held at the Padang in 1966, a year after Singapore’s separation from Malaysia. 

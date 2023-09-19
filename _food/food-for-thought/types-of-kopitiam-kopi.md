@@ -1,6 +1,6 @@
 ---
 title: Types of Kopitiam Kopi
-permalink: /food/food-for-thought/kopitiam-kopi
+permalink: /food/food-for-thought/kopitiam-kopi/
 third_nav_title: Food For Thought
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Terrorism and Self Radicalisation
-permalink: /defence-and-security/Current-Threats/terrorism-and-self-radicalisation
+permalink: /defence-and-security/current-threats/terrorism-and-self-radicalisation/
 description: ""
 third_nav_title: Current Threats
 ---

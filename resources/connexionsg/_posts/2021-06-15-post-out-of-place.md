@@ -1,7 +1,7 @@
 ---
 title: Out Of Place
 date: 2021-06-15
-permalink: /resources/connexionsg/outofplace
+permalink: /resources/connexionsg/outofplace/
 layout: post
 ---
 #### Where's the beach on Beach Road?

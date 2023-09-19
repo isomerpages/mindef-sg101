@@ -1,6 +1,6 @@
 ---
 title: "#TD Emergency Preparedness"
-permalink: /resources/connexionsg/EmergencyPreparedness/
+permalink: /resources/connexionsg/emergencypreparedness/
 date: 2023-02-28
 layout: post
 description: ""

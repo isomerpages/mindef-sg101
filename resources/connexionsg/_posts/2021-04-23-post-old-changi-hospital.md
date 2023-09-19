@@ -1,7 +1,7 @@
 ---
 title: Old Changi Hospital
 date: 2021-04-23
-permalink: /resources/connexionsg/oldchangihospital
+permalink: /resources/connexionsg/oldchangihospital/
 layout: post
 ---
 #### Changi's (Not So Hidden) Hospital

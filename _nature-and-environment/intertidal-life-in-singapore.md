@@ -1,6 +1,6 @@
 ---
 title: Intertidal Life in Singapore
-permalink: /nature-and-environment/intertidal-life-singapore
+permalink: /nature-and-environment/intertidal-life-singapore/
 ---
 ### Every day between the high and low tides, a coastal zone emerges from the water along Singapore’s shores. 
 

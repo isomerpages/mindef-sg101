@@ -1,7 +1,7 @@
 ---
 title: National Campaigns
 date: 2021-04-03
-permalink: /resources/connexionsg/nationalcampaign
+permalink: /resources/connexionsg/nationalcampaign/
 layout: post
 ---
 Over the years, Singapore has had many national campaigns, each with specific goals: from the Clean and Green campaign to cultivate a mindset of care for the environment, to the National Courtesy Campaign to inspire care for one another.

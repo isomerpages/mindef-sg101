@@ -1,6 +1,6 @@
 ---
 title: Singapore's Food Challenge
-permalink: /economy/Case-Studies/SG-food-challenge/
+permalink: /economy/case-studies/sg-food-challenge/
 description: ""
 third_nav_title: Case Studies
 ---

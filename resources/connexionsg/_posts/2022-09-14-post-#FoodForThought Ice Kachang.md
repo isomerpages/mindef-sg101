@@ -1,6 +1,6 @@
 ---
 title: "#FoodForThought Ice Kachang"
-permalink: /resources/connexionsg/IceKachang/
+permalink: /resources/connexionsg/icekachang/
 date: 2022-09-14
 layout: post
 description: ""

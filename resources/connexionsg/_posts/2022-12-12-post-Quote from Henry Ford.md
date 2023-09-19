@@ -1,6 +1,6 @@
 ---
 title: Quote from Henry Ford
-permalink: /resources/connexionsg/QuotefromHenryFord/
+permalink: /resources/connexionsg/quotefromhenryford/
 date: 2022-12-12
 layout: post
 description: ""

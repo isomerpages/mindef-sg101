@@ -1,6 +1,6 @@
 ---
 title: "#SingaporesFirst National Campaign"
-permalink: /resources/connexionsg/SGFirst-National-Campaign
+permalink: /resources/connexionsg/sgfirst-national-campaign/
 date: 2022-04-07
 layout: post
 description: ""

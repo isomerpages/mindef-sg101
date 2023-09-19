@@ -1,6 +1,6 @@
 ---
 title: Key Points on Ensuring Food Security in Singapore
-permalink: /resources/current-topics/EnsuringFoodSecurityinSingapore
+permalink: /resources/current-topics/ensuringfoodsecurityinsingapore/
 date: 2022-06-14
 layout: post
 description: ""

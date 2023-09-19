@@ -1,7 +1,7 @@
 ---
 title: Traditional Singapore Breakfast
 date: 2021-08-14
-permalink: /resources/connexionsg/traditionalsgbf
+permalink: /resources/connexionsg/traditionalsgbf/
 layout: post
 ---
 ![Alt text for image on Isomer site](/images/Breakfast.jpeg)

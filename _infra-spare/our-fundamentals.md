@@ -1,6 +1,6 @@
 ---
 title: Our Fundamentals
-permalink: /infra/ourfundamentals
+permalink: /infra/ourfundamentals/
 ---
 #### Optimise resources
 

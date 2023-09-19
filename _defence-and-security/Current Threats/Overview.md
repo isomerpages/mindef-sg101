@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /defence-and-security/Current-Threats/overview
+permalink: /defence-and-security/current-threats/overview/
 description: ""
 third_nav_title: Current Threats
 ---

@@ -1,6 +1,6 @@
 ---
 title: Treetop Walk
-permalink: /resources/connexionsg/TreetopWalk/
+permalink: /resources/connexionsg/treetopwalk/
 date: 2023-02-28
 layout: post
 description: ""

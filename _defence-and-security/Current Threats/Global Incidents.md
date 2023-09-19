@@ -1,6 +1,6 @@
 ---
 title: Global Incidents
-permalink: /defence-and-security/Current-Threats/global-incidents
+permalink: /defence-and-security/current-threats/global-incidents/
 description: ""
 third_nav_title: Current Threats
 ---

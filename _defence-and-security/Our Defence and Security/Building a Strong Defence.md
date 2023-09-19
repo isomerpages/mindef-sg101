@@ -1,6 +1,6 @@
 ---
 title: Building a Strong Defence
-permalink: /defence-and-security/Our-Defence-and-Security/building-a-strong-defence
+permalink: /defence-and-security/our-defence-and-security/building-a-strong-defence/
 description: ""
 third_nav_title: Our Defence and Security
 ---

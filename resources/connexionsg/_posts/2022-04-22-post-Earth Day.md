@@ -1,6 +1,6 @@
 ---
 title: Earth Day
-permalink: /resources/connexionsg/EarthDay
+permalink: /resources/connexionsg/earthday/
 date: 2022-04-22
 layout: post
 description: ""

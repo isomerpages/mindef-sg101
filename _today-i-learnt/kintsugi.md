@@ -1,6 +1,6 @@
 ---
 title: Kintsugi
-permalink: /today-i-learnt/kintsugi
+permalink: /today-i-learnt/kintsugi/
 ---
 
 

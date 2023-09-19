@@ -1,7 +1,7 @@
 ---
 title: Silat Road Sikh Temple
 date: 2021-07-02
-permalink: /resources/connexionsg/silatroadsikhtemple
+permalink: /resources/connexionsg/silatroadsikhtemple/
 layout: post
 ---
 On Jalan Bukit Merah lies a place of historic value. It is the Silat Road Sikh Temple and it holds the tombstone of Bhai Maharaj Singh, described as the first Sikh to have arrived in Singapore.

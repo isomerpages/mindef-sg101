@@ -1,6 +1,6 @@
 ---
 title: Newspaper
-permalink: /history/singapores-first/newspaper
+permalink: /history/singapores-first/newspaper/
 third_nav_title: Singapores First
 ---
 ### On 1 January 1824, SingaporesFirst newspaper, the Singapore Chronicles, was published. 

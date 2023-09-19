@@ -1,6 +1,6 @@
 ---
 title: "#OnThisDay (1 Apr 1999) Pulau Semakau Landfill"
-permalink: /resources/connexionsg/PulauSemakauLandfill/
+permalink: /resources/connexionsg/pulausemakaulandfill/
 date: 2022-04-01
 layout: post
 description: ""

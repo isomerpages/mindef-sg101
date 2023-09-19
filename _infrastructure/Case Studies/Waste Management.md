@@ -1,6 +1,6 @@
 ---
 title: Waste Management
-permalink: /infrastructure/case-studies/wm
+permalink: /infrastructure/case-studies/wm/
 third_nav_title: Case Studies
 description: ""
 ---

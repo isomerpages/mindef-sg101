@@ -1,6 +1,6 @@
 ---
 title: "#TIL Ash Scattering Garden"
-permalink: /resources/connexionsg/AshScatteringGarden/
+permalink: /resources/connexionsg/ashscatteringgarden/
 date: 2022-11-04
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: "#OnThisDay (1 May 1960) Labour Day"
-permalink: /resources/connexionsg/LabourDay/
+permalink: /resources/connexionsg/labourday/
 date: 2022-05-01
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: "#ChallengeAccepted Special Education"
-permalink: /resources/connexionsg/SpecialEducation/
+permalink: /resources/connexionsg/specialeducation/
 date: 2022-10-10
 layout: post
 description: ""

@@ -1,7 +1,7 @@
 ---
 title: Golden Mile Complex Gazetted As A Conserved Building
 date: 2021-10-26
-permalink: /resources/connexionsg/goldenmilegazetted
+permalink: /resources/connexionsg/goldenmilegazetted/
 layout: post
 ---
 ### The iconic Golden Mile Complex is here to stay — after being gazetted as a conserved building last Friday (22 Oct).

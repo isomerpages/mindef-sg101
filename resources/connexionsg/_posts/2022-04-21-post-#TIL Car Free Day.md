@@ -1,6 +1,6 @@
 ---
 title: "#TIL Car Free Day"
-permalink: /resources/connexionsg/CarFreeDaySG
+permalink: /resources/connexionsg/carfreedaysg/
 date: 2022-04-21
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: "#TIL Volunteerism in Singapore"
-permalink: /resources/connexionsg/VolunteerismSG/
+permalink: /resources/connexionsg/volunteerismsg/
 date: 2022-12-21
 layout: post
 description: ""

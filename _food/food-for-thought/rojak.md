@@ -1,6 +1,6 @@
 ---
 title: Rojak
-permalink: /food/food-for-thought/rojak
+permalink: /food/food-for-thought/rojak/
 third_nav_title: Food For Thought
 ---
 

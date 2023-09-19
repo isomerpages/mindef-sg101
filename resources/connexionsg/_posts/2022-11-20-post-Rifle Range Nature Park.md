@@ -1,6 +1,6 @@
 ---
 title: Rifle Range Nature Park
-permalink: /resources/connexionsg/RifleRangeNaturePark/
+permalink: /resources/connexionsg/riflerangenaturepark/
 date: 2022-11-20
 layout: post
 description: ""

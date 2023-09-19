@@ -1,6 +1,6 @@
 ---
 title: Harlequin Butterfly
-permalink: /resources/connexionsg/HarlequinButterfly/
+permalink: /resources/connexionsg/harlequinbutterfly/
 date: 2022-12-14
 layout: post
 description: ""

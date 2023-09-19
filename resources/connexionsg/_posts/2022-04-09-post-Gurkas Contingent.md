@@ -1,6 +1,6 @@
 ---
 title: Gurkas Contingent
-permalink: /resources/connexionsg/GurkasContingent
+permalink: /resources/connexionsg/gurkascontingent/
 date: 2022-04-09
 layout: post
 description: ""

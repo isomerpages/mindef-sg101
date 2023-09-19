@@ -1,6 +1,6 @@
 ---
 title: "#Heritage Bukit Pasoh Shophouses"
-permalink: /resources/connexionsg/BukitPasohShophouses/
+permalink: /resources/connexionsg/bukitpasohshophouses/
 date: 2022-06-16
 layout: post
 description: ""

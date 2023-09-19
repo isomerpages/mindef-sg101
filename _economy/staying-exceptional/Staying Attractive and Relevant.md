@@ -1,6 +1,6 @@
 ---
 title: Staying Attractive and Relevant
-permalink: /economy/staying-exceptional/relevant
+permalink: /economy/staying-exceptional/relevant/
 third_nav_title: Staying Exceptional
 ---
 ## Staying Attractive and Relevant

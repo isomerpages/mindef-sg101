@@ -1,6 +1,6 @@
 ---
 title: "#TD Cyber Preparedness"
-permalink: /resources/connexionsg/CyberPreparedness/
+permalink: /resources/connexionsg/cyberpreparedness/
 date: 2023-01-27
 layout: post
 description: ""

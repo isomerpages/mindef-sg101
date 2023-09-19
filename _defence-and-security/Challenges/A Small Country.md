@@ -1,6 +1,6 @@
 ---
 title: A Small Country
-permalink: /defence-and-security/Challenges/a-small-country
+permalink: /defence-and-security/challenges/a-small-country/
 description: ""
 third_nav_title: Challenges
 ---

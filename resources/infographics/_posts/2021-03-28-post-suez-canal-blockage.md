@@ -1,7 +1,7 @@
 ---
 title: Suez Canal Blockage
 date: 2021-03-28
-permalink: /resources/infographics/suez-canal-blockage
+permalink: /resources/infographics/suez-canal-blockage/
 layout: post
 ---
 

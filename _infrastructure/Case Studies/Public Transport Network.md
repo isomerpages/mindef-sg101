@@ -1,6 +1,6 @@
 ---
 title: Public Transport Network
-permalink: /infrastructure/case-studies/publictptnetwork
+permalink: /infrastructure/case-studies/publictptnetwork/
 third_nav_title: Case Studies
 description: ""
 ---

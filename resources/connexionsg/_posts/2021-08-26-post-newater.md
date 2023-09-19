@@ -1,7 +1,7 @@
 ---
 title: NEWater
 date: 2021-08-26
-permalink: /resources/connexionsg/newater
+permalink: /resources/connexionsg/newater/
 layout: post
 ---
 ## Reduce, reuse, recycle — can the same be done for water? 

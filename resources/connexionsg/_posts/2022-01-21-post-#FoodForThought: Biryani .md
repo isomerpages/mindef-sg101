@@ -1,6 +1,6 @@
 ---
 title: "#FoodForThought: Biryani "
-permalink: /resources/connexionsg/biryani
+permalink: /resources/connexionsg/biryani/
 date: 2022-01-21
 layout: post
 description: ""

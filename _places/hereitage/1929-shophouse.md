@@ -1,6 +1,6 @@
 ---
 title: 1929 Shophouse
-permalink: /places/hereitage/1929-shophouse
+permalink: /places/hereitage/1929-shophouse/
 third_nav_title: Hereitage
 ---
 ### At the intersection of Lorong 19 Geylang and Lorong Bachok stands this shophouse from 1929. #HEREitage

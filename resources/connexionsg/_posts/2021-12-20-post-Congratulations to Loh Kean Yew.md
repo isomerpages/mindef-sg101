@@ -1,6 +1,6 @@
 ---
 title: Congratulations to Loh Kean Yew
-permalink: /resources/connexionsg/LohKeanYew
+permalink: /resources/connexionsg/lohkeanyew/
 date: 2021-12-20
 layout: post
 description: ""

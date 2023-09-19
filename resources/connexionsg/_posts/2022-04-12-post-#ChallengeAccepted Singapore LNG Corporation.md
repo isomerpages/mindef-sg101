@@ -1,6 +1,6 @@
 ---
 title: "#ChallengeAccepted Singapore LNG Corporation"
-permalink: /resources/connexionsg/SingaporeLNGCorporation
+permalink: /resources/connexionsg/singaporelngcorporation/
 date: 2022-04-12
 layout: post
 description: ""

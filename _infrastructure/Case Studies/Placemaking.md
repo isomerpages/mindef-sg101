@@ -1,6 +1,6 @@
 ---
 title: Placemaking
-permalink: /infrastructure/case-studies/placemaking
+permalink: /infrastructure/case-studies/placemaking/
 third_nav_title: Case Studies
 description: ""
 ---

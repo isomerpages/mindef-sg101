@@ -1,6 +1,6 @@
 ---
 title: "#OnThisDay (15 Feb 1942) Singapore fell"
-permalink: /resources/connexionsg/Singaporefell/
+permalink: /resources/connexionsg/singaporefell/
 date: 2023-02-15
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: "#FoodForThought Pineapple Tarts"
-permalink: /resources/connexionsg/PineappleTarts
+permalink: /resources/connexionsg/pineappletarts/
 date: 2022-05-20
 layout: post
 description: ""

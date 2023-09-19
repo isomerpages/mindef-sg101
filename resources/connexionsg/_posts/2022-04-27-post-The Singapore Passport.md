@@ -1,6 +1,6 @@
 ---
 title: The Singapore Passport
-permalink: /resources/connexionsg/SingaporePassport
+permalink: /resources/connexionsg/singaporepassport/
 date: 2022-04-27
 layout: post
 description: ""

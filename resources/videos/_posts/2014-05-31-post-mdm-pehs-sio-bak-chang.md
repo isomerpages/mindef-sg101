@@ -1,7 +1,7 @@
 ---
 title: Mdm Peh's Sio Bak Chang
 date: 2014-05-31
-permalink: /resources/videos/mdm-peh-sio-bak-chang
+permalink: /resources/videos/mdm-peh-sio-bak-chang/
 layout: post
 ---
 

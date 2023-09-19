@@ -1,6 +1,6 @@
 ---
 title: "#ShapingOurCity: Climate Change"
-permalink: /resources/connexionsg/ClimateChange/
+permalink: /resources/connexionsg/climatechange/
 date: 2022-09-29
 layout: post
 description: ""

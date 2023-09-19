@@ -1,6 +1,6 @@
 ---
 title: Tudung Issue
-permalink: /social-national-identity/case-studies/TudungIssue/
+permalink: /social-national-identity/case-studies/tudungissue/
 description: ""
 third_nav_title: Case Studies
 ---

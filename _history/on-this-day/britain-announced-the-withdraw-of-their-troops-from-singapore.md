@@ -1,6 +1,6 @@
 ---
 title: Britain Announced the Withdraw of Their Troops from Singapore
-permalink: /history/on-this-day/britain-announced-withdrawal
+permalink: /history/on-this-day/britain-announced-withdrawal/
 third_nav_title: On This Day
 ---
 ### On the 18th of July in 1967, Britain announced the withdrawal of their troops from Singapore by the mid-1970s. 

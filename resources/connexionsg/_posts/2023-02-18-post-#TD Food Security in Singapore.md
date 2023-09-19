@@ -1,6 +1,6 @@
 ---
 title: "#TD Food Security in Singapore"
-permalink: /resources/connexionsg/FoodSecurityinSingapore/
+permalink: /resources/connexionsg/foodsecurityinsingapore/
 date: 2023-02-18
 layout: post
 description: ""

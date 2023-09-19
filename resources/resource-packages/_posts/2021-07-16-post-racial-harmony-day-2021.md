@@ -1,7 +1,7 @@
 ---
 title: Racial Harmony Day 2021
 date: 2021-07-16
-permalink: /resources/resource-packages/RacialHarmonyDay2021
+permalink: /resources/resource-packages/racialharmonyday2021/
 layout: post
 ---
 21 July 1964 was the day that the first of a series of race riots between Chinese and Malay groups took place in Singapore. The riots started during a Malay procession marking the birthday of Prophet Muhammad, and spread over July and September. It resulted in 36 deaths and 560 injured.

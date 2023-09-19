@@ -1,6 +1,6 @@
 ---
 title: "#TD Energy Security"
-permalink: /resources/connexionsg/TDEnergySecurity/
+permalink: /resources/connexionsg/tdenergysecurity/
 date: 2023-02-13
 layout: post
 description: ""

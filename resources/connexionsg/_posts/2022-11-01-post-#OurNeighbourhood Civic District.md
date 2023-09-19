@@ -1,6 +1,6 @@
 ---
 title: "#OurNeighbourhood Civic District"
-permalink: /resources/connexionsg/CivicDistrict/
+permalink: /resources/connexionsg/civicdistrict/
 date: 2022-11-01
 layout: post
 description: ""

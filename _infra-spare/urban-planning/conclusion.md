@@ -1,6 +1,6 @@
 ---
 title: Conclusion
-permalink: /infra/urban-planning/conclusion
+permalink: /infra/urban-planning/conclusion/
 third_nav_title: Urban Planning
 ---
 #### Conclusion

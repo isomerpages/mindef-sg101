@@ -1,6 +1,6 @@
 ---
 title: Our National Anthem
-permalink: /resources/connexionsg/SGNationalAnthem
+permalink: /resources/connexionsg/sgnationalanthem/
 date: 2022-08-07
 layout: post
 description: ""

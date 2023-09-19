@@ -1,6 +1,6 @@
 ---
 title: "ASEAN Economic Community: Forging Closer Ties"
-permalink: /economy/digging-deeper-case-studies/asean
+permalink: /economy/digging-deeper-case-studies/asean/
 third_nav_title: Case Studies
 ---
 

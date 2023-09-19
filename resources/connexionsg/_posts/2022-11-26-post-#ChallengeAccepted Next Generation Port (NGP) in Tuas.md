@@ -1,6 +1,6 @@
 ---
 title: "#ChallengeAccepted Next Generation Port (NGP) in Tuas"
-permalink: /resources/connexionsg/NextGenerationPortTuas/
+permalink: /resources/connexionsg/nextgenerationporttuas/
 date: 2022-11-26
 layout: post
 description: ""

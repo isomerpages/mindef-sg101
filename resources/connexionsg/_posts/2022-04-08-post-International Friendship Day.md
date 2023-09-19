@@ -1,6 +1,6 @@
 ---
 title: International Friendship Day
-permalink: /resources/connexionsg/InternationalFriendshipDay
+permalink: /resources/connexionsg/internationalfriendshipday/
 date: 2022-04-08
 layout: post
 description: ""

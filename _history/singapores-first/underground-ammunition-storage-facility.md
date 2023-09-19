@@ -1,6 +1,6 @@
 ---
 title: Underground Ammunition Storage Facility
-permalink: /history/singapores-first/underground-ammunition
+permalink: /history/singapores-first/underground-ammunition/
 third_nav_title: Singapores First
 ---
 ### Breaking new ground with #SingaporesFirst underground ammunition storage facility

@@ -1,6 +1,6 @@
 ---
 title: Resources on Influence Campaigns
-permalink: /resources/resource-packages/ResourcesonInfluenceCampaigns/
+permalink: /resources/resource-packages/resourcesoninfluencecampaigns/
 date: 2022-10-08
 layout: post
 description: ""

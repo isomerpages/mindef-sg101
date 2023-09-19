@@ -1,6 +1,6 @@
 ---
 title: "#ChallengeAccepted Food Wastage"
-permalink: /resources/connexionsg/Foodwaste/
+permalink: /resources/connexionsg/foodwaste/
 date: 2022-12-28
 layout: post
 description: ""

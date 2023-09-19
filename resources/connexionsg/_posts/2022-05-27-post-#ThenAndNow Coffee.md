@@ -1,6 +1,6 @@
 ---
 title: "#ThenAndNow Coffee"
-permalink: /resources/connexionsg/Coffee-ThenAndNow
+permalink: /resources/connexionsg/coffee-thenandnow/
 date: 2022-05-27
 layout: post
 description: ""

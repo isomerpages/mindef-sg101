@@ -1,6 +1,6 @@
 ---
 title: "#OnThisDay (29 Oct) Withdrawl of British Far East Command"
-permalink: /resources/connexionsg/WithdrawlofBritishFarEastCommand/
+permalink: /resources/connexionsg/withdrawlofbritishfareastcommand/
 date: 2022-10-28
 layout: post
 description: ""

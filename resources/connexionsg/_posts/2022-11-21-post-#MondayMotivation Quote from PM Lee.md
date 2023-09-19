@@ -1,6 +1,6 @@
 ---
 title: "#MondayMotivation Quote from PM Lee"
-permalink: /resources/connexionsg/PMLeeQuote/
+permalink: /resources/connexionsg/pmleequote/
 date: 2022-11-21
 layout: post
 description: ""

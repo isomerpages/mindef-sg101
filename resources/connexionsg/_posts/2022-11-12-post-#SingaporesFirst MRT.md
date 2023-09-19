@@ -1,6 +1,6 @@
 ---
 title: "#SingaporesFirst MRT"
-permalink: /resources/connexionsg/SingaporesFirstMRT/
+permalink: /resources/connexionsg/singaporesfirstmrt/
 date: 2022-11-12
 layout: post
 description: ""

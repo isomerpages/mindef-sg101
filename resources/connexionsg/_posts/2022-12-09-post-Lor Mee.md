@@ -1,6 +1,6 @@
 ---
 title: Lor Mee
-permalink: /resources/connexionsg/LorMee/
+permalink: /resources/connexionsg/lormee/
 date: 2022-12-09
 layout: post
 description: ""

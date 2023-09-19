@@ -1,6 +1,6 @@
 ---
 title: "#OnThisDay (9 May 1966) Registration of IC"
-permalink: /resources/connexionsg/RegistrationofIC/
+permalink: /resources/connexionsg/registrationofic/
 date: 2022-05-09
 layout: post
 description: ""

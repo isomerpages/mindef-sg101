@@ -1,7 +1,7 @@
 ---
 title: National Day 2021
 date: 2021-08-04
-permalink: /resources/resource-packages/nationalday2021
+permalink: /resources/resource-packages/nationalday2021/
 layout: post
 ---
 The National Day Parade (NDP) is a cherished tradition, which has been held annually since 1966 to mark Singapore’s independence. It is a testament to our determination to shine, and how we have forged our own way against the odds. 

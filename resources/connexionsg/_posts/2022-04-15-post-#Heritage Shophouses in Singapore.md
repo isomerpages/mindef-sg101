@@ -1,6 +1,6 @@
 ---
 title: "#Heritage Shophouses in Singapore"
-permalink: /resources/connexionsg/SGShophouses/
+permalink: /resources/connexionsg/sgshophouses/
 date: 2022-04-15
 layout: post
 description: ""

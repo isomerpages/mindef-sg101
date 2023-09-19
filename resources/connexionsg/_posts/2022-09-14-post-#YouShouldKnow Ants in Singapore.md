@@ -1,6 +1,6 @@
 ---
 title: "#YouShouldKnow Ants in Singapore"
-permalink: /resources/connexionsg/AntsinSingapore/
+permalink: /resources/connexionsg/antsinsingapore/
 date: 2022-09-14
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: "#OurNeighbourhood Changi"
-permalink: /resources/connexionsg/Changi/
+permalink: /resources/connexionsg/changi/
 date: 2023-01-11
 layout: post
 description: ""
