@@ -5,7 +5,7 @@ date: 2022-06-03
 layout: post
 description: ""
 ---
-![](/images/connexionsg/2022/Rice%20dumpling.png)
+![](/images/connexionsg/2022/rice%20dumpling.png)
 
 On the fifth day of the fifth month of the lunar calendar comes the Dragon Boat Festival, to mark the tragic death of Qu Yuan – a poet and courtier in ancient China who had drowned himself in a river. Local villagers rowed out to him, throwing rice dumplings into the water so the fish would not eat his corpse.
 

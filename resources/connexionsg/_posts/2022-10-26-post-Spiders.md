@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2022/Spiders.png)
+![](/images/connexionsg/2022/spiders.png)
 
 
 Spiders are not insects, as they have eight legs instead of six. While most spiders have eight eyes, some have fewer than eight. Spiders do not have ears; they feel the sound vibrations with tiny hairs on their legs. Unlike insects, whose adult bodies are divided into three parts, the spiders have only 2 namely the head and the abdomen. Spiders have a unique feature known as spinnerets which are located at the tip of the abdomen for silk production.

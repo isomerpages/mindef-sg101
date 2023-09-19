@@ -22,7 +22,7 @@ Though Jurong industrial estate was ready to be launched in 1963, foreign invest
 
 In just three years, Jurong grew into a bustling hub of factories and workers, and was the centerpiece of Singapore's industrialisation efforts. By late-1967, Jurong Industrial Estate had attracted investments worth a total of about S$178 million in fixed assets and generated jobs for around 6,500 workers.
 
-![Alt text for image on Isomer site](/images/economy/case-studies/Screenshot%202020-10-19%20at%201.png)
+![Alt text for image on Isomer site](/images/economy/case-studies/screenshot%202020-10-19%20at%201.png)
 (Image: National Museum of Singapore via Roots.sg)
 
 However, Dr Goh saw Jurong as an entire town, and more than just a collction of factories. He said that “life in Jurong cannot be other than spartan”.

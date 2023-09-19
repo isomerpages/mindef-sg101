@@ -5,7 +5,7 @@ date: 2022-08-09
 layout: post
 description: ""
 ---
-![](/images/connexionsg/2022/The%20Padang%20national%20monument.png)
+![](/images/connexionsg/2022/the%20padang%20national%20monument.png)
 
 
 #OnThisDay (9 Aug) in 2022, the Padang was gazetted as Singapore’s 75th national monument, making it #SingaporesFirst green open space to be preserved.

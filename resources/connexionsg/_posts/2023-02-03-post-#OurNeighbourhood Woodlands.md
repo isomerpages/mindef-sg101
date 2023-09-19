@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 
-![](/images/connexionsg/2023/Woodlands.jpg)
+![](/images/connexionsg/2023/woodlands.jpg)
 📷: Aerial view of Woodlands undergoing re-development in 1976 (courtesy of Housing & Development Board)
 Source: Woodlands Heritage Trail (Roots.sg)
 

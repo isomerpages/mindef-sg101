@@ -47,11 +47,11 @@ Moreover, to ensure that we did not become over-reliant on electronics, we also 
 
 For one, the government embarked on an ambitious plan to develop a petrochemicals facility that would entrench Singapore as a global petrochemicals hub. Jurong Island is a man-made island that combined the best of Singapore – forward thinking, a dare-to-do-and-dream attitude, and an ability to deliver on our word.
 
-[![Alt text for image on Isomer site](/images/economy/growing-our-economy/Case%20Study_Jurong%20Island.gif)](/economy/digging-deeper-case-studies/jurong2)
+[![Alt text for image on Isomer site](/images/economy/growing-our-economy/case%20study_jurong%20island.gif)](/economy/digging-deeper-case-studies/jurong2)
 
 **Developing an External Wing**
 
-![Alt text for image on Isomer site](/images/economy/growing-our-economy/Screenshot%202020-10-22%20at.png)
+![Alt text for image on Isomer site](/images/economy/growing-our-economy/screenshot%202020-10-22%20at.png)
 (Image: Suzhou Industrial Park; [Surbana Jurong](https://surbanajurong.com/sector/china-singapore-suzhou-industrial-park/))
 
 Up till the 1990s, Singapore's focus had been on bringing in foreign investment, and not on outward investments from Singapore. 
@@ -86,12 +86,12 @@ He also said that “the strategy was to link our small economy to the economies
 <p>These FTAs enable Singapore’s exporters, which include foreign manufacturers based here, to enjoy preferential rates in key export markets such as China, Japan and the US. This gives Singapore an edge over other lower-cost locations and is another reason foreign MNCs are keen to invest in Singapore.</p>
 	
 	
-[![Alt text for image on Isomer site](/images/economy/growing-our-economy/Case%20Study_SG-US%20FTA.gif)](/economy/digging-deeper-case-studies/sgusfta)
+[![Alt text for image on Isomer site](/images/economy/growing-our-economy/case%20study_sg-us%20fta.gif)](/economy/digging-deeper-case-studies/sgusfta)
 
-[![Alt text for image on Isomer site](/images/economy/growing-our-economy/More_FTA.gif)](https://www.mti.gov.sg/-/media/MTI/improving-trade/FTAs/All-you-need-to-know-about-SG-FTAs-and-DEAs.pdf)
+[![Alt text for image on Isomer site](/images/economy/growing-our-economy/more_fta.gif)](https://www.mti.gov.sg/-/media/mti/improving-trade/ftas/all-you-need-to-know-about-sg-ftas-and-deas.pdf)
 
 Between 1986 and 1996, Singapore grew at an average of 12.8% a year, launching Singapore into a group of fast-growing nations that analysts termed Asian Tigers. Singapore alongside Taiwan, Korea and Hong Kong, were hailed for their remarkable growth over the decade.
 
 One key success factor was the ability to constantly make Singapore relevant to the global economy. Without a large domestic market or natural resources, there is no real impetus for large companies to invest in us. Neither would large countries want to trade with a tiny island that had little to offer in return. However, we continued to reinvent ourselves, refining and reshaping our value proposition.
 
-![Alt text for image on Isomer site](/images/economy/growing-our-economy/Screenshot%202020-10-19%20at.png)
+![Alt text for image on Isomer site](/images/economy/growing-our-economy/screenshot%202020-10-19%20at.png)

@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/navy%20museum.PNG)
+![](/images/connexionsg/2023/navy%20museum.png)
 
 #Didyouknow that Singapore’s navy comprised just two wooden ships when it was first formed as the Straits Settlement Royal Navy Volunteer Reserve (SSRNVR)?
 

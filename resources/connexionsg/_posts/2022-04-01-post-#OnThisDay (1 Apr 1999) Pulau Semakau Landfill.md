@@ -6,7 +6,7 @@ layout: post
 description: ""
 ---
 
-![](/images/Pulau%20Semakau.jpg)
+![](/images/pulau%20semakau.jpg)
 
 #OnThisDay (1 Apr) in 1999, Singapore opened its first and only offshore landfill, Semakau, 8km to the south of Singapore.
 

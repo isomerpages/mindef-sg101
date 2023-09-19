@@ -22,7 +22,7 @@ Strengthening Singapore's tripartite bond is crucial to ensuring we remain resil
 
 In his May Day 2019 speech, DPM Heng Swee Keat noted that many workers in advanced economies are frustrated with stagnant wages, falling standards of living and a malfunctioning political system. Avoiding this requires companies, the government and workers to pursue inclusive growth:
 
-![Alt text for image on Isomer site](/images/economy/staying-exceptional/Screenshot%202020-1-2.png)
+![Alt text for image on Isomer site](/images/economy/staying-exceptional/screenshot%202020-1-2.png)
 
 #### Maintaining Supply Chain Resilience 
 
@@ -52,11 +52,11 @@ Changi Airport – one of Asia’s largest cargo airports, even during COVID-19,
 
 These efforts have entrenched Singapore’s position as a resilient and reliable node in the global supply chain, even in times of crisis. This is a critical element in upholding our reputation as a trusted hub and responsible stakeholder in the international community.
 
-![](/images/PM%20Lee%20at%20NDR%202022_Global%20City.png)
+![](/images/pm%20lee%20at%20ndr%202022_global%20city.png)
 
-[![](/images/SS%20Chain.gif)](/economy/case-studies/strategies-for-ss-chain-resilience/)
+[![](/images/ss%20chain.gif)](/economy/case-studies/strategies-for-ss-chain-resilience/)
 
-[![](/images/Food.gif)](/economy/Case-Studies/SG-food-challenge/)
+[![](/images/food.gif)](/economy/Case-Studies/SG-food-challenge/)
 
 #### Developing Sustainably
 
@@ -88,6 +88,6 @@ Such a stance continues to be necessary because:
   
 * Our ageing population will have implications on the workforce and the economy. [By 2030](https://www.todayonline.com/singapore/elderly-make-almost-half-spore-population-2050-united-nations), one in four Singaporeans will be 65 years old and older, compared to one in eight in 2018.
 
-[![](/images/Labour%20Policies.gif)](/economy/Case-Studies/Sustainable-Inclusive-Labour-Policies/)
+[![](/images/labour%20policies.gif)](/economy/Case-Studies/Sustainable-Inclusive-Labour-Policies/)
 
-[![](/images/Green.gif)](/economy/case-studies/growing-sg-green-economy/)
+[![](/images/green.gif)](/economy/case-studies/growing-sg-green-economy/)

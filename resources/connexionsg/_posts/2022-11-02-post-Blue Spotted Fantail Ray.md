@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2022/Blue%20spotted%20fantail%20ray.jpg)
+![](/images/connexionsg/2022/blue%20spotted%20fantail%20ray.jpg)
 
 This might surprise you, but Singapore’s waters contain plenty of unique marine life! The blue-spotted fantail ray (Taeniura Lymma) is one of them. If you’re an avid diver, you may have spotted one of these beautiful creatures near the Southern Islands such as Pulau Hantu and St. John’s Island!  
   

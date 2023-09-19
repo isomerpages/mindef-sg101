@@ -17,7 +17,7 @@ These campaigns have helped reduce Singaporeans’ water usage in recent years.
 
 ![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/image026.png)
 
-![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/Screenshot%202021-07-464646.png)
+![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/screenshot%202021-07-464646.png)
 <hr>
 
 To be more resource-efficient, Singapore has also targeted a Zero Waste goal. This includes being resource-resilient, a move that would always ensure a secure supply of critical resources. The effort will involve everyone, from industrial companies to individual households.

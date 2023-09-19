@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Current Threats
 ---
 ### Global Incidents
-![Qatar air shipping routes dr ng eng hen quote 2019](/images/Defence/Defence%205.jpg)
+![Qatar air shipping routes dr ng eng hen quote 2019](/images/defence/defence%205.jpg)
 
 Singapore only has to take a look at recent events to see how other countries, especially small states, can have their interests subjugated. 
 

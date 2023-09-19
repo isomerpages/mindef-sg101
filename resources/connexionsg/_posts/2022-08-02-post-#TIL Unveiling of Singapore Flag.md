@@ -5,7 +5,7 @@ date: 2022-08-02
 layout: post
 description: ""
 ---
-![](/images/connexionsg/2022/Our%20SG%20flag.jpg)
+![](/images/connexionsg/2022/our%20sg%20flag.jpg)
 📸: Yusof Ishak Collection, courtesy of National Archives of Singapore
 
 #TIL Our flag was publicly unveiled for the first time in 1959, six years before our independence.

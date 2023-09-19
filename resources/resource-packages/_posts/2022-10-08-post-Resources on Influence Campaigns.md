@@ -14,7 +14,7 @@ This page provides resources on Influence Campaigns which you may find useful fo
 "If they are bigger, we have to do what they say, right?" "What chance do we have when we are small?" In a world that is increasingly chaotic, how do small countries survive or even thrive? How should we see ourselves as we face the interests of larger countries? Bilahari Kausikan shares his thoughts on how Singapore can find her place in the world. He is Singapore's former Ambassador to Russia and Finland. He also served as Singapore's Permanent Representative to the United Nations.
 
 Download the discusssion package 
-<a target="_blank" href="/files/Discussion%20Package%20on%20The%20Sovereignty%20of%20Small%20States(1).pdf/">here</a>
+<a target="_blank" href="/files/discussion%20package%20on%20the%20sovereignty%20of%20small%20states(1).pdf">here</a>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dVdaHPbGpLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
@@ -43,9 +43,9 @@ Past ConnexionSG posts on influence campaigns can be found at:
 
 Download the package:
 
-[03/22 NE Insights on Disinformation and Influence Campaigns](/files/03_22%20NE%20Insights%20on%20Disinformation%20and%20Influence%20Campaigns.pdf)
+[03/22 NE Insights on Disinformation and Influence Campaigns](/files/03_22%20ne%20insights%20on%20disinformation%20and%20influence%20campaigns.pdf)
 
-[Slides on Disinformation and Influence Campaigns](/files/Slides%20on%20Disinformation%20and%20Influence%20Campaigns_.pdf)
+[Slides on Disinformation and Influence Campaigns](/files/slides%20on%20disinformation%20and%20influence%20campaigns_.pdf)
 
 ****
 

@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/WW2.jpg)
+![](/images/connexionsg/2023/ww2.jpg)
 📷: Raffles Place just after the Japanese bombing raid on Singapore on 8 December 1941; Lim Kheng Chye Collection, courtesy of National Archives of Singapore
 
 #OnThisDay (8 December) in 1941 at around 4.30am, World War II came to Singapore from the air.

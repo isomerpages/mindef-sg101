@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/thosai.PNG)
+![](/images/connexionsg/2023/thosai.png)
 
 It’s flavourful and oh-so-delicious! One of the best things about living in Singapore is that food from various cultures and cuisines are always available and accessible, all day, everyday!
 

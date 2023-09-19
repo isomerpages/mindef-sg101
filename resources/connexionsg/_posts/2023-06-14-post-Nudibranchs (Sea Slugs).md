@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/nudibranchs.PNG)
+![](/images/connexionsg/2023/nudibranchs.png)
 
 Nudibranchs (pronunciation: ‘NEW-dih-bronk’), or sea slugs, are a group of shell-less marine gastropod molluscs. Their name means 'naked gill', referring to the breathing apparatus outside their soft bodies.
 

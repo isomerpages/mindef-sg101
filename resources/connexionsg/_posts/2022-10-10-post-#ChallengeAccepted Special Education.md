@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2022/Special%20Education.jpg)
+![](/images/connexionsg/2022/special%20education.jpg)
 📸:Children at the opening of Chin Pu Centre (Geylang), the third training centre of SARC at Sims Avenue, 1966 (Source: National Archives Singapore)
 
 Compulsory education was implemented in Singapore in 2003 to ensure that every child gets the foundation of a primary school education. But what about children with special needs? How to include children with different abilities when their needs are so diverse?

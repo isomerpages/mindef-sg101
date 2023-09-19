@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 
-![](/images/connexionsg/2022/Bukit%20Pasoh%20Shophouses.jpg)
+![](/images/connexionsg/2022/bukit%20pasoh%20shophouses.jpg)
 Image: Roots.sg
 
 Towards the end of Bukit Pasoh Road closer to New Bridge Road, stand 4 blocks of Art Deco shophouses that span number 31-37. #HEREitage

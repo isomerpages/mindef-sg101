@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/ns%20landmark.PNG)
+![](/images/connexionsg/2023/ns%20landmark.png)
 
 He’s a familiar sight to recruits, greeting thousands of soldiers and their families at Pulau Tekong.
 

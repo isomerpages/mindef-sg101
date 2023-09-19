@@ -5,7 +5,7 @@ date: 2022-03-22
 layout: post
 description: ""
 ---
-![](/images/Ong%20Teng%20Cheong.jpg)
+![](/images/ong%20teng%20cheong.jpg)
 
 #TIL that more than fifty years ago, concerned about a serious water shortage in the world, we have already started highlighting the importance of water and advocating for the sustainable management of our water.
 

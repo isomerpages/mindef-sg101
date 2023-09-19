@@ -5,10 +5,10 @@ date: 2022-09-01
 layout: post
 description: ""
 ---
-![](/images/connexionsg/2022/Hornbill%201.jpg)
-![](/images/connexionsg/2022/Hornbill%202.jpg)
-![](/images/connexionsg/2022/Hornbill%203.jpg)
-![](/images/connexionsg/2022/Hornbill%204.jpg)
+![](/images/connexionsg/2022/hornbill%201.jpg)
+![](/images/connexionsg/2022/hornbill%202.jpg)
+![](/images/connexionsg/2022/hornbill%203.jpg)
+![](/images/connexionsg/2022/hornbill%204.jpg)
 
 📷 1: A picture taken of a hornbill taken by Rudolf Jagerspacher, an Austrian photographer who came to Singapore in 1886. \[NLB\]
 

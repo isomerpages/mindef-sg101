@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/flying%20lemur.JPG)
+![](/images/connexionsg/2023/flying%20lemur.jpg)
 
 Ever spotted one of these squirrel-like creatures clinging onto trees or suspended from horizontal branches?
 

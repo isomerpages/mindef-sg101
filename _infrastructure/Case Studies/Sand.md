@@ -6,13 +6,13 @@ description: ""
 ---
 #### Sand
 
-![Alt text for image on Isomer site](/images/infrastructure/case-studies/Screenshot%202021-07325.png)
+![Alt text for image on Isomer site](/images/infrastructure/case-studies/screenshot%202021-07325.png)
 
 Every year, Singapore grows larger by a fraction thanks to land reclamation efforts. It has expanded by a fifth over the decades, from 581.5 km² in 1960 to 725.7km² in 2019. The country aims to reach 766km² of landmass by 2030.
 
 Reclaimed land has been a key driver of our economic growth. Infrastructure such as Changi Airport, Tuas Port and Jurong Island have all been built on land reclaimed from the sea.
 
-![Alt text for image on Isomer site](/images/infrastructure/case-studies/Screenshot%2020215325.png)
+![Alt text for image on Isomer site](/images/infrastructure/case-studies/screenshot%2020215325.png)
 Images: CAAS and MICA/NAS
 
 Sand has been crucial to enlarging this limited land space. In its early reclamation projects, Singapore could acquire sand locally. The East Coast Reclamation Scheme, for example, used soil from flattened hills in the Siglap and Tampines area to expand the land in Bedok.
@@ -21,7 +21,7 @@ Once local sources ran out, Singapore turned to importing sand from overseas. Ac
 
 However, there have been difficulties in getting sand from abroad. Countries like Malaysia and Indonesia have banned sand exports to Singapore over the years, citing environmental concerns. When Indonesia announced the ban in 2007, it created a supply crunch in Singapore, as 90 per cent of the country’s sand came from Indonesia. Malaysia followed suit in 2018.
 
-![Alt text for image on Isomer site](/images/infrastructure/case-studies/Screenshot%20202165463.png)
+![Alt text for image on Isomer site](/images/infrastructure/case-studies/screenshot%20202165463.png)
 Images: Headlines from Reuters and the BBC
 
 #### Indonesia Bans Sand to Singapore
@@ -41,7 +41,7 @@ Singapore has stated that we sets strict criteria on sand imports. In 2019, the 
 
 While achieving self-sufficiency in sand will be challenging, we are looking for ways to reduce our reliance on it.
 
-![Alt text for image on Isomer site](/images/infrastructure/case-studies/Screenshot%202463653.png)
+![Alt text for image on Isomer site](/images/infrastructure/case-studies/screenshot%202463653.png)
 
 One alternative suggested is empoldering, a method that will reduce the need for imported sand. Pioneered by the Netherlands, it involves building a sea wall around an area to be reclaimed from the sea, then draining the water using pumps.
 

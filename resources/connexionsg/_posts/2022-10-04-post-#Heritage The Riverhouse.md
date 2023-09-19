@@ -10,7 +10,7 @@ image: ""
 
 With its prominent tiled roof and a curved ridge embellished with ceramic shards, the two-storey Riverhouse stands out distinctively from other buildings in the heart of the rejuvenated Clarke Quay precinct. As its name suggests, the Riverhouse stands by a river – the Singapore River and is poetically known as “House of Ripples” or Lianyi Xuan (涟漪轩) in Chinese. 
 
-![](/images/connexionsg/2022/1%20River%20House%20(URA).jpg)
+![](/images/connexionsg/2022/1%20river%20house%20(ura).jpg)
 📷: The Riverhouse (URA)
 
 Surrounded by trend bars and restaurants, it is difficult to imagine that the Riverhouse has existed since the late 1800s. Built in the 1870s, this southern Chinese-style mansion is one of Singapore’s two remaining traditional Chinese-style mansions, and the oldest building in Clarke Quay today at approximately 150 years old.
@@ -25,5 +25,5 @@ The Riverhouse subsequently went through the hands of many owners. In 1993, it w
 
 For nearly 150 years, the Riverhouse has witnessed the changes along the Singapore River and its communities. Today, it continues to play a similar role as successive generations continue to repurpose the precinct for new functions and meanings. #HEREitage #heritage 
 
-![](/images/connexionsg/2022/2%20(Yeo%20Kang%20Shua).jpg)
+![](/images/connexionsg/2022/2%20(yeo%20kang%20shua).jpg)
 📷: Other Teochew features of the Riverhouse include its roof truss system in the tailiang style (抬梁式), which is made up of “successive tiers of beams and struts in a transverse direction”. This photo shows three cantilever beams on the front elevation of the building: one beam on the first storey and two on the second storey. These beams are known as jitou (屐头), and their ends are carved in a highly abstract chihu (螭虎) motif. The manner in which the beams are cantilevered is unique to Teochew architecture. (Yeo Kang Shua)

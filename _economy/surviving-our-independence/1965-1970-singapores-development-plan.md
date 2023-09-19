@@ -11,7 +11,7 @@ Without Malaysia’s large market, Singapore’s leaders had to think out of the
 
 However, Singapore’s plans were disrupted by a shock announcement. In 1967, the British announced that it would withdraw its forces from Singapore, which would compromise Singapore's defence and impact our economy. 
 
-[![Alt text for image on Isomer site](/images/economy/Case%20Study_British%20Withdrawal.gif)](/economy/digging-deeper-case-studies/withdrawal)
+[![Alt text for image on Isomer site](/images/economy/case%20study_british%20withdrawal.gif)](/economy/digging-deeper-case-studies/withdrawal)
 
 The British withdrawal meant that Singapore had to accelerate its plans for an export-led industralisation strategy. So while some newly independent nations with large domestic markets were adopting protectionist policies -- ejecting foreign companies, slashing imports and manufacturing their own products for the domestic market -- Singapore had to go against the grain and open our borders to foreign investors. 
 
@@ -19,7 +19,7 @@ The British withdrawal meant that Singapore had to accelerate its plans for an e
 
 To survive, Singapore had to tap on the global market. As then-Finance Minister Goh Keng Swee explained: 
 
-![Alt text for image on Isomer site](/images/economy/Screenshot%202020-1.png)
+![Alt text for image on Isomer site](/images/economy/screenshot%202020-1.png)
 
 The economic rationale behind the courting of foreign investors was twofold:
 
@@ -63,17 +63,17 @@ Communication services such as postal, telegraph, telephone, and telex services 
 As Singapore began vocational training in the early 1960s, by 1965 we had a pool of semi-skilled workers who could support the nation’s growing industrialisation. We continued putting emphasis on training and developing human capital to stay relevant.
 
 As then-Finance Minister Goh explained: 
-![Alt text for image on Isomer site](/images/economy/Screenshot%202020-10-22.png)
+![Alt text for image on Isomer site](/images/economy/screenshot%202020-10-22.png)
 
 #### Quelling Labour Unrest and Communism
 
 Another key priority for the government was to stamp out the communist elements that were fomenting unrest and dissent. Dr Winsemius described this as a top objective for the government: 
 
-![Alt text for image on Isomer site](/images/economy/Screenshot%202020-10-22aaadad.png)
+![Alt text for image on Isomer site](/images/economy/screenshot%202020-10-22aaadad.png)
 
 The National Trades Union Congress was founded in 1961, after the communist elements broke away from the PAP. Over the course of three years, NTUC battled with the Singapore Association of Trade Unions for influence over workers. In 1968, the government amended the Industrial Relations Act, which was aimed at reducing the number of strikes in the economy.
 
-![Alt text for image on Isomer site](/images/economy/full_Finance_Minister_Goh_Keng_Swee.jpg)
+![Alt text for image on Isomer site](/images/economy/full_finance_minister_goh_keng_swee.jpg)
 (Image: [NTUC](http://ms50.ntuc.org.sg/1960s/))
 
 In 1969, NTUC held the “Modernisation of the Labour Movement” seminar, a forum that looked to build on the new norm in industrial relations. At this seminar, then-PM Lee urged the unions to shed its image as purely as “a combat organisation… for class war,” and move towards acting in the interests of the nation. This formed the foundation of what would later be known as tripartism.
@@ -84,7 +84,7 @@ In 1969, NTUC held the “Modernisation of the Labour Movement” seminar, a for
 <p>The National Wages Council, set up in 1972, is one key manifestation of tripartism. It aims to bring employers, unions and the government to a consensus on wages, an issue that was traditionally damaging to labour relations. Since then, the NWC issues yearly wage guidelines that take into account the interests of all three parties, ensuring compromise instead of confrontation. </p>
 </div>
 
-![Alt text for image on Isomer site](/images/economy/Screenshot%202020-10-28%20at.png)
+![Alt text for image on Isomer site](/images/economy/screenshot%202020-10-28%20at.png)
 (Image: The introduction of tripartism in Singapore resulted in a marked decrease in the number of work stoppages and man-days lost by 1968; Singapore Year Book 1968; [National Archives of Singapore](https://www.nas.gov.sg/1stCab/PanelPDF/Section%203%20-%20Economy%20Miracle%2017.pdf))
 
 After the introduction of tripartism, the number of labour strikes decreased from 10 in 1972 to one in 1977. There were none from 1997 to 2012. In this same period, unemployment fell in Singapore and foreign direct investment rose.
@@ -93,4 +93,4 @@ Today, tripartism is seen as a key competitive advantage for Singapore. It has b
 
 By 1970, about a decade after the industrialisation plan was first conceived, Singapore had achieved near full employment. Industrial action had dropped significantly. And a spirit of cooperation superseded the disruptions of the preceding years. 
 
-[![Alt text for image on Isomer site](/images/economy/More_Labour%20Movement.gif)](http://ms50.ntuc.org.sg/1960s/)
+[![Alt text for image on Isomer site](/images/economy/more_labour%20movement.gif)](http://ms50.ntuc.org.sg/1960s/)

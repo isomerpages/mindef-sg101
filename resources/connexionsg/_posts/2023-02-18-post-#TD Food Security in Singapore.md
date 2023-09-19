@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/Food%20Security.jpg)
+![](/images/connexionsg/2023/food%20security.jpg)
 📷: Screenshot from Singapore Food Agency's video on Singapore's Food Future
 
 In Singapore, where hawker centres, coffee shops, food courts, restaurants and supermarkets are within easy reach, it is hard to remember that we have one of the highest food import dependency rates in the world.

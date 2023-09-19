@@ -5,7 +5,7 @@ date: 2022-04-12
 layout: post
 description: ""
 ---
-![](/images/Asia's%20first%20LNG%20(liquified%20natural%20gas)%20terminal.jpg)
+![](/images/asia's%20first%20lng%20(liquified%20natural%20gas)%20terminal.jpg)
 
 📷: STE What's Next 
 

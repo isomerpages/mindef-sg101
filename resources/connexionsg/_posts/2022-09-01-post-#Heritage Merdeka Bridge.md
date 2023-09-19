@@ -7,13 +7,13 @@ description: ""
 image: ""
 ---
 
-![📷 1: An overhead view of the Kallang Basin and the Merdeka Bridge (Roots.sg)](/images/connexionsg/2022/M1.jpg)
+![📷 1: An overhead view of the Kallang Basin and the Merdeka Bridge (Roots.sg)](/images/connexionsg/2022/m1.jpg)
 
-![📷 2: Merdeka Bridge links two sections of the Nicoll Highway (Roots.sg)](/images/connexionsg/2022/M2.png)
+![📷 2: Merdeka Bridge links two sections of the Nicoll Highway (Roots.sg)](/images/connexionsg/2022/m2.png)
 
-![📷 3: The Merdeka Lions stand at both ends of the Merdeka Bridge (Roots.sg)](/images/connexionsg/2022/M3.jpg)
+![📷 3: The Merdeka Lions stand at both ends of the Merdeka Bridge (Roots.sg)](/images/connexionsg/2022/m3.jpg)
 
-![📷 4: The Merdeka Lions are currently placed on both sides of SAFTI MI’s landmark tower (Roots.sg)](/images/connexionsg/2022/M4.jpg)
+![📷 4: The Merdeka Lions are currently placed on both sides of SAFTI MI’s landmark tower (Roots.sg)](/images/connexionsg/2022/m4.jpg)
 
 📷 1: An overhead view of the Kallang Basin and the Merdeka Bridge (Roots.sg)
 

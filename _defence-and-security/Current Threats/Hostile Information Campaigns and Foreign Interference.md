@@ -34,7 +34,7 @@ These episodes illustrate how Singapore, as a highly connected, multi-religious 
 <p>In the United Kingdom, domestic unhappiness was exploited during the referendum on Brexit in 2016. Anti-immigration falsehoods were propagated by foreign-linked social media accounts to build a narrative that the government had failed to protect its citizens.</p> 
 </div>
 
-![foreign interference examples countries](/images/Defence/examples-of-foreign-interference.jpg)
+![foreign interference examples countries](/images/defence/examples-of-foreign-interference.jpg)
 *Examples of foreign interference in Singapore and other countries. Image: MHA.*
 
 #### Safeguarding Singapore Against Hostile Information Campaigns (HICs) and Foreign Interference (FI)
@@ -55,7 +55,7 @@ Under FICA, individuals and organisations who are directly involved in Singapore
 
 Defined and designated PSPs will be subjected to countermeasures covering the following vectors of foreign interference – (a) donations, (b) volunteers, (c) leadership and membership, and (d) affiliations. If there are increased risks of foreign interference, the competent authority can step up countermeasures on the defined and designated PSPs.
 
-![POFMA ](/images/Defence/POFMA_info.jpg)
+![POFMA ](/images/defence/pofma_info.jpg)
 *Countermeasures recommended by the Select Committee on Deliberate Online Falsehoods. Image: iMDA/ POFMA Office.*
 
 ![Foreign Interference countermeasures act FICA](/images/Defence/FICA%20Highlights.jpeg)
@@ -69,12 +69,12 @@ The government has also been actively addressing and debunking fake news through
 
 To help the community better discern fake news and falsehoods, the National Library Board (NLB) rolled out the [S.U.R.E information literacy campaign](https://sure.nlb.gov.sg/about-us/sure-campaign/ ) targeted at all Singaporeans in 2013. S.U.R.E stands for Source, Understand, Research, and Evaluate – the four concepts that an individual should keep in mind when assessing the reliability of news. NLB has since upgraded its S.U.R.E programme so that it is more targeted to the needs of the different segments of the population. 
 
-![SURE information literacy campaign national library board nlb](/images/Defence/SURENLB.jpg)
+![SURE information literacy campaign national library board nlb](/images/defence/surenlb.jpg)
 *National Library Board (NLB)’s S.U.R.E. Campaign. Image: NLB.*
 
 Singapore has extremely high rates of internet penetration and social media use. We are an open and highly connected society and this connectivity that we rely on in our daily lives also makes us vulnerable to threats from the digital domain. Besides introducing new legislation and public education to protect ourselves against digital threats, individuals also have a critical role to play. 
 
 On 15 February 2019, Digital Defence was launched as the sixth pillar of Total Defence, bringing across the message that every individual is at the forefront of Digital Defence. As then-Senior Minister of State for Defence, Dr Mohamad Maliki bin Osman said during the Committee of Supply (COS) debate in 2019, “Only if everyone plays a part – the Government, businesses, communities and individuals - can we make Digital Defence a part of Singapore’s DNA, and keep our defence total.” 
 
-![digital defence individual protect secure alert responsible](/images/Defence/Digital%20Defence.jpg)
+![digital defence individual protect secure alert responsible](/images/defence/digital%20defence.jpg)
 *Digital Defence actions that every individual can take to protect themselves online. Image: MINDEF.*

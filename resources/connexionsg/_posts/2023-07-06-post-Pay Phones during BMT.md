@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/pay%20phones%20during%20bmt.PNG)
+![](/images/connexionsg/2023/pay%20phones%20during%20bmt.png)
 
 Pay phones once played an important part in everyday life in Singapore, even more so for recruits during Basic Military Training (BMT).
 

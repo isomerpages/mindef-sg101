@@ -5,7 +5,7 @@ date: 2022-06-03
 layout: post
 description: ""
 ---
-![](/images/connexionsg/2022/Internal%20self%20governance.png)
+![](/images/connexionsg/2022/internal%20self%20governance.png)
 
 Singaporeans celebrate our country’s birthday on 9 Aug every year. But between 1960 and 1963, our National Day was celebrated #onthisday, 3 Jun, to commemorate the day Singapore became a self-governing state in 1959. The UK ceded power in all areas (except security and defence), leaving our first elected government in charge.
 

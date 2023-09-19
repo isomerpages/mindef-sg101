@@ -5,7 +5,7 @@ date: 2022-04-21
 layout: post
 description: ""
 ---
-![](/images/connexionsg/2022/Car%20free%20day-IG.png)
+![](/images/connexionsg/2022/car%20free%20day-ig.png)
 
 📸: Car-Free Sunday SG
 

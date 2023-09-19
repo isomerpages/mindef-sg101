@@ -5,19 +5,19 @@ date: 2022-04-27
 layout: post
 description: ""
 ---
-![](/images/connexionsg/2022/Panel%201-%20v1.png)
+![](/images/connexionsg/2022/panel%201-%20v1.png)
 
-![](/images/connexionsg/2022/Panel%202-%20v1.png)
+![](/images/connexionsg/2022/panel%202-%20v1.png)
 
-![](/images/connexionsg/2022/Panel%203-%20v1.png)
+![](/images/connexionsg/2022/panel%203-%20v1.png)
 
-![](/images/connexionsg/2022/Panel%204-%20v1.png)
+![](/images/connexionsg/2022/panel%204-%20v1.png)
 
-![](/images/connexionsg/2022/Panel%205%20-%20v1.png)
+![](/images/connexionsg/2022/panel%205%20-%20v1.png)
 
-![](/images/connexionsg/2022/Panel%206-%20v1.png)
+![](/images/connexionsg/2022/panel%206-%20v1.png)
 
-![](/images/connexionsg/2022/Panel%207-%20v1.png)
+![](/images/connexionsg/2022/panel%207-%20v1.png)
 
 The Singapore passport is currently one of the most powerful in the world, and many of us have come to appreciate the privileges tied to our red passport.
 

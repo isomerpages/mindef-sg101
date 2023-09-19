@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 
-![](/images/connexionsg/2023/COVID-19.jpg)
+![](/images/connexionsg/2023/covid-19.jpg)
 📷: A photo of a COVID-19 vaccination centre in Singapore. [Creative Commons]
 
 

@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/Jurong%20Bird%20Park.jpg)
+![](/images/connexionsg/2023/jurong%20bird%20park.jpg)
 
 
 #TIL Jurong Bird Park was built for our own people's delight. Then-Minister for Finance Goh Keng Swee said at its opening (3 Jan 1971 ) that it “will not make our society more rugged”, it will not increase “the productivity of work”, nor will it contribute much towards “tightening national cohesions” or “raising cultural or education standards of the population”.

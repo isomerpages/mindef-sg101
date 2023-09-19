@@ -10,7 +10,7 @@ notification: "Note: To do a search, click on the magnifying glass icon on the
 sections:
   - hero:
       title: SG101
-      background: /images/Hero-image2.png
+      background: /images/hero-image2.png
       dropdown:
         title: I'm looking for info on...
         options:
@@ -97,7 +97,7 @@ sections:
         society?
       button: Read More
       url: /social-national-identity/caringsociety/
-      image: /images/Multiabled.png
+      image: /images/multiabled.png
       alt: Image alt text
   - infopic:
       title: Volunteerism in Singapore
@@ -107,7 +107,7 @@ sections:
         their peers in need?"
       button: Read More
       url: /social-national-identity/examples/volunteerism
-      image: /images/Volunteers.png
+      image: /images/volunteers.png
       alt: Image alt text
   - infopic:
       title: "2010 to the Present: New Challenges"
@@ -116,7 +116,7 @@ sections:
         Singapore faces?
       button: Read More
       url: /economy/growing-our-economy/2010/
-      image: /images/Empty Airport.png
+      image: /images/empty airport.png
       alt: Image alt text
   - infopic:
       title: Staying Stable
@@ -125,7 +125,7 @@ sections:
         safe and attractive to foreign investment, and relevant to the world.
       button: Read More
       url: /economy/staying-exceptional/stable/
-      image: /images/DSC0964.jpg
+      image: /images/dsc0964.jpg
       alt: Image alt text
   - infopic:
       title: Singapore's Food Challenge

@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/casual%20racism.PNG)
+![](/images/connexionsg/2023/casual%20racism.png)
 
 Have you ever done any of the following, even unintentionally?
 - Talked to people in your group using a language that some do not understand, causing them to feel excluded?

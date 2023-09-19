@@ -66,7 +66,7 @@ The idea of a pledge was also mooted as a way to inculcate national consciousnes
 
 The fundamentals of Singapore’s multicultural society were not to forget or paper over differences, but to acknowledge them, set them aside, and go beyond them -- regardless of race, language or religion. 
 
-![Alt text for image on Isomer site](/images/society/sharedid/Earlier%20version%20of%20the%20pledge_-2.png)
+![Alt text for image on Isomer site](/images/society/sharedid/earlier%20version%20of%20the%20pledge_-2.png)
 
 After three drafts and multiple revisions, the Singapore pledge was eventually finalised. On 24 August 1966, about 500,000 students at all 529 government and government-aided schools took part in the first daily recitation of the pledge before the national flag.
 
@@ -100,7 +100,7 @@ Over the years, we have developed a distinctly Singaporean cultural experience, 
 
 [![Alt text for image on Isomer site](/images/society/multicultural/banner%205.gif)](/social-national-identity/case-studies/HawkerCultureinSG/)
 
-[![Alt text for image on Isomer site](/images/society/sharedid/OpenDoc%20Banners-8.gif)](/social-national-identity/case-studies/heritage)
+[![Alt text for image on Isomer site](/images/society/sharedid/opendoc%20banners-8.gif)](/social-national-identity/case-studies/heritage)
 
 ![Alt text for image on Isomer site](/images/society/sharedid/singapore-icons-e2_v2-2-2.png)
 
@@ -108,7 +108,7 @@ Another example of what is uniquely Singaporean is the evolution and use of Sing
 
 Singlish grammar mirrors that of Malay, by doing away with most prepositions, verb conjugations, and plural words, while its vocabulary reflects the broad range of the country’s immigrant roots. It borrows from Malay, Hokkien, Cantonese, Mandarin and other Chinese languages, as well as Tamil from southern India.
 
-[![Alt text for image on Isomer site](/images/society/sharedid/OpenDoc%20Banners-9.gif)](/social-national-identity/case-studies/singlish)
+[![Alt text for image on Isomer site](/images/society/sharedid/opendoc%20banners-9.gif)](/social-national-identity/case-studies/singlish)
 
 ![Alt text for image on Isomer site](/images/society/sharedid/singlish-2.png)
 
@@ -186,7 +186,7 @@ While Singapore's social mix is increasingly varied, many Singaporeans, includin
 
 Many Singaporeans share a strong sense of satisfaction with the country's multiracial harmony, food, excellent healthcare system and cleanliness. These were named as the top five sources of national pride among 24 components identified by an IPS study released in 2021 . The IPS list also included the Singapore Armed Forces, the education system and the Government's management of the COVID-19 pandemic. 
 
-[![Alt text for image on Isomer site](/images/society/sharedid/OpenDoc%20Banners-10.gif)](/social-national-identity/examples/integrating)
+[![Alt text for image on Isomer site](/images/society/sharedid/opendoc%20banners-10.gif)](/social-national-identity/examples/integrating)
 
 As Singapore continues to grow its economy and improve the workforce with an appropriate influx of foreign talent, Singaporeans will need to embrace greater diversity in our society.
 

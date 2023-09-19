@@ -16,7 +16,7 @@ The community also sprang into action. Businesses complied with restrictions and
 	
 The pandemic “reaffirmed that Total Defence is a living concept, vital and necessary to ensure our collective well-being and central to Singapore's ability to overcome grave challenges”, said Minister for Defence Dr Ng Eng Hen on 14 February 2021 in his Total Defence message.
 
-![](/images/Defence/TD%20Logo.png)
+![](/images/defence/td%20logo.png)
 *Image: MINDEF.*
 
 Singapore faced a similar challenge when coping with the Severe Acute Respiratory Syndrome (SARS) in 2003. The nation’s swift and excellent handling of the crisis received plaudits from international organisations such as the World Health Organization. A national response, undergirded by the Total Defence concept, helped us overcome the crisis. 
@@ -29,7 +29,7 @@ Besides government action, Singaporeans also demonstrated resilience and cohesio
 	
 Singapore’s limited resources and size, in addition to the nature of today’s threats, require that our country has a Total Defence capability. This means that our defence involves not only the SAF but also the civilian population – every sector of society is mobilised and has a part to play in keeping Singapore secure. Citizens are organised to defend the country against all forms of attacks, whether military or non-military.
 
-![](/images/Defence/TD1984%20Poster.jpg)
+![](/images/defence/td1984%20poster.jpg)
 *Poster from 1984. Image: MINDEF.*
 
 The Total Defence concept was introduced in 1984 as a national defence concept to rally all Singaporeans around the SAF, should we face a conventional military threat. Over the years, Total Defence has become an all-round response to the changing threats and challenges facing Singapore on all fronts. It includes the following pillars:
@@ -46,12 +46,12 @@ The Total Defence concept was introduced in 1984 as a national defence concept t
 	
 In 2019, a sixth pillar was added – Digital Defence, which is the ability to protect ourselves online so that we remain resilient and cohesive as a nation as we progress towards the digital future together. Every individual is at the frontline of Digital Defence and has a role to play.
 
-![Total Defence pillars](/images/Defence/TD%20Pillars.png)
+![Total Defence pillars](/images/defence/td%20pillars.png)
 *Image: MINDEF.*
 
 Total Defence also revolves around the concept of staying resilient and united when the nation faces vulnerabilities and crisis. For instance, how do we respond when we are faced with devastation; how do we rally around our neighbours and friends to offer help when the chips are down? Resilience is a trait that will define us as a nation when we are confronted with the sternest of tests, especially as the environment that we live in and the nature of threats become more complex.
 
-![](/images/Defence/Defence%207.jpg)
+![](/images/defence/defence%207.jpg)
 
 Alongside the Total Defence concept is the SGSecure, a national movement to rally the community in the fight against terrorism. 
 	
@@ -61,7 +61,7 @@ The government continues to enhance our counter-terrorism capabilities. At the s
 	
 The CEP was later revamped and expanded to become the SGSecure movement, which was launched in 2016 to sensitise, train and mobilise the community in the fight against terror. The SGSecure movement puts Civil Defence, Social Defence and Psychological Defence into action.
 
-![](/images/Defence/SGSecure%20Logo.png)
+![](/images/defence/sgsecure%20logo.png)
 *Image: MHA.*
 
 It focuses on three core actions: Staying Alert, Staying United and Staying Strong. SGSecure programmes have been introduced in our neighbourhoods, schools, workplaces and religious organisations to raise awareness of the terrorism threat and increase community vigilance. Emergency preparedness skills training were also made more easily accessible to improve community preparedness. Other programmes include activities that strengthen social cohesion, such as inter-faith activities. 

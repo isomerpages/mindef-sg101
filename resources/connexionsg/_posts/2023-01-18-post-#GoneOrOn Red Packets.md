@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 
-![](/images/connexionsg/2023/Hong%20Bao.jpg)
+![](/images/connexionsg/2023/hong%20bao.jpg)
 📷 : Children paying respect to their grandmother and receiving red packets from her in return. 1983, Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 
 There is a mythical element in the red packet (also known as hong bao in Mandarin, or ang pow in Hokkien): the significance lies in the red paper, which symbolises good luck and health, prosperity and happiness. 

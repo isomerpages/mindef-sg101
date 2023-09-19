@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/navy%20lst.PNG)
+![](/images/connexionsg/2023/navy%20lst.png)
 
 #Didyouknow that in 1971, our Republic of Singapore Navy (RSN) “purchased” its first Littoral-Mission Vessel (LMV) from the US Navy for just US $1!
 

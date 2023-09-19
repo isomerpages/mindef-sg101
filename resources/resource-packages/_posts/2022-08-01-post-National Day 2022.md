@@ -10,4 +10,4 @@ Every year on 9 August, we celebrate National Day and how far we've come since i
 For this year's National Day Package, please download the package using the link below.
 
 Download: 
-[National Day NE Package 2022](/files/packages/2022/National%20Day%20NE%20Package%202022.pdf)
+[National Day NE Package 2022](/files/packages/2022/national%20day%20ne%20package%202022.pdf)

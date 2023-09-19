@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2022/Curry%20Fish%20Head.jpg)
+![](/images/connexionsg/2022/curry%20fish%20head.jpg)
 
 If you’re feeling for fish 🐟 this weekend, then you might want to have some good old fish head curry!  
   

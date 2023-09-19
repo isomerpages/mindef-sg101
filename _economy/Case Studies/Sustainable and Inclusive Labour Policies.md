@@ -23,7 +23,7 @@ For instance, Hotel Parkroyal on Kitchener Road has redesigned jobs and trained 
 	
 In September 2021, networking site LinkedIn also launched a tie-up with the government to drive skills-based hiring, rather than just educational qualifications, with a new initiative known as Skills Path.</p></div>
 
-![](/images/DPM%20Heng%20at%20Budget%202021_Enabling.png)
+![](/images/dpm%20heng%20at%20budget%202021_enabling.png)
 
 ##### Reducing Inequality and Sustaining Progressive Workplace Practices
 

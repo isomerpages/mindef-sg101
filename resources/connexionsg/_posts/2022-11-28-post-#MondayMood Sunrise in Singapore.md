@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2022/MondayMood%20Sunrise%20in%20SG.png)
+![](/images/connexionsg/2022/mondaymood%20sunrise%20in%20sg.png)
 
 “There is a moment in every dawn when light floats, there is the possibility of magic. Creation holds its breath.” ― Douglas Adams
 

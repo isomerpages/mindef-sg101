@@ -25,7 +25,7 @@ One early example is the Lim Chu Kang Agrotechnology Park, which situated in an 
 
 Another example is the Marine Aquaculture Centre (MAC), opened in 2003. The centre led to the development of a new breed of sea bass with a shorter incubation time and greater resistance to diseases. In one of its pilot tests, half a million of these fishes were hatched at St. John’s Island, nurtured in Indonesia, and then sent back to Singapore.
 
-![Alt text for image on Isomer site](/images/economy/case-studies/Screenshot%202020-10-19%20a.png)
+![Alt text for image on Isomer site](/images/economy/case-studies/screenshot%202020-10-19%20a.png)
 (Image: [Sungei Kadut Eco-District](https://estates.jtc.gov.sg/sked/about), JTC Corporation)
 
 The latest agri-food push came in the form of a new 18-hectare site in Sungei Kadut in 2019. The Agri-Food Innovation Park at Sungei Kadut will bring together high-tech farming and R&D activities, including indoor plant factories, insect farms and animal feed production facilities. Enterprise Singapore has also announced that it is co-investing up to S$90 million in agri-tech start-ups.

@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2022/Eucalyptus%20Deglupta.png)
+![](/images/connexionsg/2022/eucalyptus%20deglupta.png)
 
 📷 Image credit: National Parks Board
 

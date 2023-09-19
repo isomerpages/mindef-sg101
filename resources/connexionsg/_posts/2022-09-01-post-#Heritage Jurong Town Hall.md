@@ -7,10 +7,10 @@ description: ""
 image: ""
 ---
 
-![](/images/connexionsg/2022/J1.jpg)
-![](/images/connexionsg/2022/J2.jpg)
-![](/images/connexionsg/2022/J3.jpg)
-![](/images/connexionsg/2022/J4.jpg)
+![](/images/connexionsg/2022/j1.jpg)
+![](/images/connexionsg/2022/j2.jpg)
+![](/images/connexionsg/2022/j3.jpg)
+![](/images/connexionsg/2022/j4.jpg)
 
 📷 1: An aerial view of the surrounding area of Jurong Town Hall in the 1970s (Periscope: A JTC Magazine)
 

@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/pulau%20ubin.JPG)
+![](/images/connexionsg/2023/pulau%20ubin.jpg)
 
 Located just off the north-east coast of Singapore, Pulau Ubin is one of Singapore’s last remaining villages or kampongs.
 

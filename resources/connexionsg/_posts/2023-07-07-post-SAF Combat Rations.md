@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/saf%20combat%20rations.PNG)
+![](/images/connexionsg/2023/saf%20combat%20rations.png)
 
 
 “You will not find it difficult to prove that battles, campaigns, and even wars have been won or lost primarily because of logistics.” – General Dwight D. Eisenhower, USA

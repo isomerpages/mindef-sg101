@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/shangri%20la%20dialogue.PNG)
+![](/images/connexionsg/2023/shangri%20la%20dialogue.png)
 
 #DidYouKnow that Singapore is host to the premier defence and security conference in the Asia-Pacific region?
 

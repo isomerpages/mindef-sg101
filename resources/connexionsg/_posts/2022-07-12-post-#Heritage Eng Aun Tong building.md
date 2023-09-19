@@ -7,8 +7,8 @@ description: ""
 image: ""
 ---
 
-![](/images/connexionsg/2022/Eng%20Aun%20Tong%20(then).jpg)
-![](/images/connexionsg/2022/Eng%20Aun%20Tong%20(now).jpg)
+![](/images/connexionsg/2022/eng%20aun%20tong%20(then).jpg)
+![](/images/connexionsg/2022/eng%20aun%20tong%20(now).jpg)
 Photos: NAS / Chinatown.sg
 
 📍 On the corner of Neil Road and Craig Road stands a majestic building, which has been around since the 1920s. The Eng Aun Tong (English: Hall of Everlasting Peace), located on 89 Neil Road, was build by the Haw Par Brothers in the 1920s. It was where the famous Tiger Balm ointment was produced for some 50-odd years.

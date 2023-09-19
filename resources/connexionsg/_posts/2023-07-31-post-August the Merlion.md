@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/august%20the%20merlion.PNG)
+![](/images/connexionsg/2023/august%20the%20merlion.png)
 
 With his rounded face and rounded body, National Day Parade (NDP) mascot, August, has an all-rounded charm, appealing to Singaporeans young and old since his re-introduction in 2021.
 

@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/Volunteerism.jpg)
+![](/images/connexionsg/2023/volunteerism.jpg)
 📸: Sharing of a hand sanitiser and masks in a lift. (Credits to: Minister Ong Ye Kung’s Instagram page)
 
 #TIL the volunteerism rate of people in Singapore last year stands at 22% according to the latest edition of the biennial Individual Giving Study (IGS) conducted in 2021. Which means only one-fifth of us are involved in formal volunteering which is done with registered organisations.

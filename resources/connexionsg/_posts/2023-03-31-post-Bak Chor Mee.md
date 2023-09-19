@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/bak%20chor%20mee.JPG)
+![](/images/connexionsg/2023/bak%20chor%20mee.jpg)
 
 Bak Chor Mee (literally translated to ‘minced meat noodles’ in Hokkien) features a delectable combination of springy egg noodles and tender minced pork.
 

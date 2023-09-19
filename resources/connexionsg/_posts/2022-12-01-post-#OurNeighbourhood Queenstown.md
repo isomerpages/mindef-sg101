@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 
-![](/images/connexionsg/2023/Queenstown.jpg)
+![](/images/connexionsg/2023/queenstown.jpg)
 📷: A current bird's eye view of Queenstown estate. [HDB]
 
 When public spaces are designed with care, people develop strong connections to the area. The space then gets transformed into a place: more than just a physical location, it becomes a site where memories and meaning are built into it over time. 

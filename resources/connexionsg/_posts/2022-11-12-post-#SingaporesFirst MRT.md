@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 
-![](/images/connexionsg/2022/MRT%201.jpg)
+![](/images/connexionsg/2022/mrt%201.jpg)
 📸 1: Commuters taking the train during official opening of the Yio Chu Kang-Toa Payoh line of the Mass Rapid Transit system on 7 November 1987
 
 During Singapore’s early days of independence, public transport was limited to buses, taxis, and trishaws — all traveling on polluted, congested roads making journeys inconvenient and uncomfortable. In 1967, our city planners recommended building an MRT system but that required massive spending when we had other pressing needs, such as housing, defence, and education. The MRT proposition was approved only in 1981 after careful consideration of alternatives and pro and cons. It was the largest infrastructure project undertaken by Singapore at that time.
@@ -23,7 +23,7 @@ The expansion of our MRT networks ensures that we would have a more resilient MR
 
 As the most space-efficient way for large numbers of people to travel, Singapore’s public transport network has been crucial in helping us be #EvenBetter at managing our limited land space.
 
-![](/images/connexionsg/2022/MRT%202.jpg)
+![](/images/connexionsg/2022/mrt%202.jpg)
 📸 2: Outram Park MRT station is one of the three-line interchanges of Thomson-East Coast Line (TEL). It joins the existing interchange station, linking up TEL to the East-West Line (EWL) and North-East Line (NEL).
 
 Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.

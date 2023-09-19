@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/SEA%20Aquarium.png)
+![](/images/connexionsg/2023/sea%20aquarium.png)
 
 Wondering how to spend a rainy #SundayFunday? ☔
 

@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/shophouses%20at%20katong.PNG)
+![](/images/connexionsg/2023/shophouses%20at%20katong.png)
 
 Fancy a walk along the quaint shophouses of Katong this #SundayFunday?
 

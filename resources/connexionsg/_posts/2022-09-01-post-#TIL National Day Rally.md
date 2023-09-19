@@ -5,8 +5,8 @@ date: 2022-09-01
 layout: post
 description: ""
 ---
-![](/images/connexionsg/2022/NDR1.jpg)
-![](/images/connexionsg/2022/NDR2.jpg)
+![](/images/connexionsg/2022/ndr1.jpg)
+![](/images/connexionsg/2022/ndr2.jpg)
 
 📷 1 : PM Lee encouraged us to stay united as one people amidst uncertainties (PMO)
 

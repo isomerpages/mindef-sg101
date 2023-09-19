@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/hot%20spring.PNG)Who wouldn’t want a trip to Japan to enjoy its famed hot springs? Sadly, the realities of life get in the way -- school, internships, work commitments, finances, and so on…
+![](/images/connexionsg/2023/hot%20spring.png)Who wouldn’t want a trip to Japan to enjoy its famed hot springs? Sadly, the realities of life get in the way -- school, internships, work commitments, finances, and so on…
 
 Well, #didyouknow that Singapore has its very own hot spring? Its water probably originates somewhere from Bukit Timah hill (nobody is completely sure), travelling underground and heated to hot temperatures by hot rock masses, and emerges in Sembawang, cooled to a comfortable 70 degrees celsius.
 

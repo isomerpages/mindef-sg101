@@ -5,7 +5,7 @@ date: 2022-07-30
 layout: post
 description: ""
 ---
-![](/images/connexionsg/2022/EvenBetter%20Last%20NDP%20at%20Floating%20Platform.jpg)
+![](/images/connexionsg/2022/evenbetter%20last%20ndp%20at%20floating%20platform.jpg)
 
 This year's National Day Parade (NDP) will be the final one to be held at The Float @ Marina Bay — home of more than ten NDPs in years past. Originally built to host the NDP only from 2007 to 2011 as the National Stadium was being reconstructed, the floating platform is a place of many firsts — the first floating platform in the world that uses a pontoon-type “very large floating structure” (VLFS) technology, the first time we held the NDP on water, and where we held the opening ceremony of the first Youth Olympic Games in 2010.
 

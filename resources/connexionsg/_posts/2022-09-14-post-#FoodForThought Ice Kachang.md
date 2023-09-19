@@ -5,7 +5,7 @@ date: 2022-09-14
 layout: post
 description: ""
 ---
-![](/images/connexionsg/2022/Ice%20Kachang.jpg)
+![](/images/connexionsg/2022/ice%20kachang.jpg)
 Image credit: A bowl of Ice Kachang (SG50)
 
 Ice Kachang, which means “iced beans” in Malay, is not just a thirst-quencher but also a bounty of goodies such as corn, red bean and jelly — some hidden like treasures under a mountain of shaved ice and syrup.

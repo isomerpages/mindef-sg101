@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2022/Otters.png)
+![](/images/connexionsg/2022/otters.png)
 
 Once thought to be extinct in Singapore, wild otters are making a comeback to our city state. Today, there are an estimated 150 otters here. Their return from local extinction was due to Singapore’s deliberate effort to clean-up the Singapore River in 1977, and in 1998, otters began to return to the tropical island on their own.
 

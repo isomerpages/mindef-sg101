@@ -6,9 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/Changi_1.jpg)
+![](/images/connexionsg/2023/changi_1.jpg)
 📷 1: Changi Village, c.1945. David Turner Collection, courtesy of National Archives of Singapore [NAS]
-![](/images/connexionsg/2023/Changi%20Beach.jpg)
+![](/images/connexionsg/2023/changi%20beach.jpg)
 📷 2: Current view of Changi Beach Park, with Changi Village in the background. [NParks]
 
 A space becomes a place when we can recognise its distinct identity: to Singaporeans, Changi is more than just the easternmost side of our island, it is a place of history and heritage, cherished for the many landmarks that link us to our past and our future.

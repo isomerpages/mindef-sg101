@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/Spider.jpg)
+![](/images/connexionsg/2023/spider.jpg)
 📷: The Cosmophasis umbratica is part of the jumping spiders family (Salticidae). It can be found in parks, gardens, and forests but rarely in the home. Jumping spiders can jump up to 50 times their length! (Mohamad Azlin, NParks Facebook)
 
 #TIL There are about 900 species of spiders found in Singapore! Most prefer to live outdoors in the jungles and forested areas of Singapore, and not in homes, though one would most certainly have come across a spider which found its way indoors.

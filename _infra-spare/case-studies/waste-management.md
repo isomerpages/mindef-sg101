@@ -25,7 +25,7 @@ Much consideration has been put into managing Singapore’s waste due to its lim
 
 #### Timeline: A Look at Waste Management Over the Years
 
-![Alt text for image on Isomer site](/images/infrastructure/case-studies/waste%20Infographics.png)
+![Alt text for image on Isomer site](/images/infrastructure/case-studies/waste%20infographics.png)
 
 #### WTE Incineration: A Bold First Step
 

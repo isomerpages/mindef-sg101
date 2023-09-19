@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2022/Singlish%201.png)
+![](/images/connexionsg/2022/singlish%201.png)
 
 #TIL #Singlish was banned on radio in the past, and Dick Lee’s song Fried Rice Paradise was put on the blacklist in 1974 for “improper use of English”. Singlish-speaking character Phua Chu Kang who popularised the catchphrases “use your blain” and “donch pray pray” was also reprimanded by then-Prime Minister Goh Chok Tong in 1999 for being a bad linguistic example, and had to learn proper English in the show’s third season.
 
@@ -20,6 +20,6 @@ Over time, as our proficiency in English grew, there came a greater acceptance o
 
 📷: Screengrabs from “PCK - Singapore Be Steady!” song during the coronavirus outbreak in 2020 (gov.sg)
 
-![](/images/connexionsg/2022/Singlish%202.png)
+![](/images/connexionsg/2022/singlish%202.png)
 
 Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
