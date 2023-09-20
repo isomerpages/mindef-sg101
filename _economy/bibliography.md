@@ -82,7 +82,7 @@ Goh Chok Tong, (1981), Budget Statement 1981, retrieved from [https://www.nas.go
 
 Goh Chok Tong, (6 October 2003), Keynote Address at Inauguration Ceremony of the ASEAN Business and Investment Summit, retrieved from [https://asean.org/keynote-address-by-his-excellency-goh-chok-tong-prime-minister-of-singapore-at-the-inauguration-ceremony-of-the-asean-business-and-investment-summit-asean-bis-nusa-dua-bali/](https://asean.org/keynote-address-by-his-excellency-goh-chok-tong-prime-minister-of-singapore-at-the-inauguration-ceremony-of-the-asean-business-and-investment-summit-asean-bis-nusa-dua-bali/) 
 
-Goh Keng Swee, (1964), Annual Budget Statement (1964), retrieved from [https://sprs.parl.gov.sg/search/topic?reportid=028\_19641102\_S0005\_T0013](https://sprs.parl.gov.sg/search/topic?reportid=028_19641102_S0005_T0013) 
+Goh Keng Swee, (1964), Annual Budget Statement (1964), retrieved from [HANSARD](https://sprs.parl.gov.sg/search/#/home)
 
 Goh, Keng Swee, (1977), “A socialist economy that works,” in Nair, C.V.D. (Ed.), Socialism that Works, Federal Publications, Singapore 
 
