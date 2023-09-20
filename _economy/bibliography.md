@@ -42,8 +42,6 @@ CNBC, (12 November 2019), The world’s largest trade deal could be signed in 20
 
 CNA, The World on Your Plate, retrieved from [http://www.channelnewsasia.com/brandstudio/sgfoodsources](http://www.channelnewsasia.com/brandstudio/sgfoodsources)
 
-CNA, (26 March 2020), Singapore’s economy contracts by 2.2% in Q1 as COVID-19 outbreak hits construction, services sectors, retrieved from [https://www.channelnewsasia.com/news/business/singapore-gdp-growth-slows-advance-estimate-covid-19-12577146](https://www.channelnewsasia.com/news/business/singapore-gdp-growth-slows-advance-estimate-covid-19-12577146) 
-
 CNA, (14 August 2021), LinkedIn to Pilot Initiative for Job Seekers That Links Skills to Job Roles in Singapore, retrieved from [https://www.channelnewsasia.com/singapore/linkedin-pilot-job-seekers-skills-career-initiative-2112306](https://www.channelnewsasia.com/singapore/linkedin-pilot-job-seekers-skills-career-initiative-2112306) 
 
 CNA, (29 August 2021), From Workplace Discrimination to Racial Harmony: 7 Things You Need to Know About NDR 2021, retrieved from [https://www.channelnewsasia.com/singapore/national-day-rally-ndr-2021-workplace-discrimination-racial-harmony-2143201](https://www.channelnewsasia.com/singapore/national-day-rally-ndr-2021-workplace-discrimination-racial-harmony-2143201)
@@ -141,6 +139,8 @@ Ministry of Trade and Industry, (n.d.), Free Trade Agreements, retrieved from [h
 Ministry of Trade and Industry, (n.d.), Overview of Industry Transformation Maps, retrieved from [https://www.mti.gov.sg/ITMs/Overview](https://www.mti.gov.sg/ITMs/Overview) 
 
 Ministry of Trade and Industry, (n.d.) Economic Survey of Singapore 2020: Performance of the Singapore Economy in 2020, retrieved from [https://www.mti.gov.sg/-/media/MTI/Resources/Economic-Survey-of-Singapore/2020/Economic-Survey-of-Singapore-2020/FA\_AES2020.pdf](https://www.mti.gov.sg/-/media/MTI/Resources/Economic-Survey-of-Singapore/2020/Economic-Survey-of-Singapore-2020/FA_AES2020.pdf) 
+
+Ministry of Trade and Industry, (26 Mar 2020), Singapore's GDP contracted by 2.2 per cent in the first quarter of 2020, retrieved from https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2020/03/AdvEst_1Q20.pdf
 
 Minstry of Foreign Affairs Singapore, (16 April 2020), Singapore-New Zealand Declaration on Trade in Essential Goods, retrieved from [https://www.mfa.gov.sg/Overseas-Mission/Geneva/Mission-Updates/2020/04/Singapore-New-Zealand-Declaration-on-Trade-in-Essential-Good](https://www.mfa.gov.sg/Overseas-Mission/Geneva/Mission-Updates/2020/04/Singapore-New-Zealand-Declaration-on-Trade-in-Essential-Good) 
 
