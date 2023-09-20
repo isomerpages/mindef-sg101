@@ -54,7 +54,7 @@ Deloitte, (2019), The Deloitte Global Millennial Survey 2019, retrieved from [ht
 
 Department of Statistics Singapore, (2019), Death and Life Expectancy, retrieved from [https://www.singstat.gov.sg/find-data/search-by-theme/population/death-and-life-expectancy/latest-data](https://www.singstat.gov.sg/find-data/search-by-theme/population/death-and-life-expectancy/latest-data) 
 
-Department of Statistics Singapore, (n.d.) Understanding Age-Specific Fertility Rate & Total Fertility Rate, retrieved from [https://www.singstat.gov.sg/modules/infographics/total-fertility-rate](https://www.singstat.gov.sg/modules/infographics/total-fertility-rate) 
+Department of Statistics Singapore, (n.d.) Understanding Age-Specific Fertility Rate & Total Fertility Rate, retrieved from https://www.singstat.gov.sg/-/media/files/visualising_data/infographics/population/total-fertility-rate.ashx
 
 Department of Statistics Singapore, (n.d.), Population and Population Structure, retrieved from [https://www.singstat.gov.sg/find-data/search-by-theme/population/population-and-population-structure/latest-data](https://www.singstat.gov.sg/find-data/search-by-theme/population/population-and-population-structure/latest-data) 
 
