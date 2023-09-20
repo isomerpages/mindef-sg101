@@ -42,8 +42,6 @@ CNBC, (12 November 2019), The world’s largest trade deal could be signed in 20
 
 CNA, The World on Your Plate, retrieved from [http://www.channelnewsasia.com/brandstudio/sgfoodsources](http://www.channelnewsasia.com/brandstudio/sgfoodsources)
 
-CNA, (7 March 2019), Singapore aims to produce 30% of its nutritional needs by 2030, up from less than 10%, retrieved from [https://www.channelnewsasia.com/news/singapore/singapore-produce-30-own-food-up-from-10-nutritional-needs-11320426](https://www.channelnewsasia.com/news/singapore/singapore-produce-30-own-food-up-from-10-nutritional-needs-11320426) 
-
 CNA, (26 March 2020), Singapore’s economy contracts by 2.2% in Q1 as COVID-19 outbreak hits construction, services sectors, retrieved from [https://www.channelnewsasia.com/news/business/singapore-gdp-growth-slows-advance-estimate-covid-19-12577146](https://www.channelnewsasia.com/news/business/singapore-gdp-growth-slows-advance-estimate-covid-19-12577146) 
 
 CNA, (14 August 2021), LinkedIn to Pilot Initiative for Job Seekers That Links Skills to Job Roles in Singapore, retrieved from [https://www.channelnewsasia.com/singapore/linkedin-pilot-job-seekers-skills-career-initiative-2112306](https://www.channelnewsasia.com/singapore/linkedin-pilot-job-seekers-skills-career-initiative-2112306) 
@@ -181,6 +179,8 @@ Singapore Food Agency, (n.d.), Celebrating AVA’s Excellence Through the Years,
 Singapore Food Agency, (n.d.), Singapore Food Story, retrieved from [http://www.sfa.gov.sg/sgfoodstory](http://www.sfa.gov.sg/sgfoodstory) 
 
 Singapore Food Agency, (2019), AVA: A LEGACY OF EXCELLENCE; a commemorative issue, retrieved from [https://www.sfa.gov.sg/docs/default-source/publication/ava-vision/ava-vision-issue-1-2019.pdf](https://www.sfa.gov.sg/docs/default-source/publication/ava-vision/ava-vision-issue-1-2019.pdf) 
+
+Singapore Food Agency, (2022), A Sustainable Food System for Singapore and Beyond, retrieved from https://www.sfa.gov.sg/food-for-thought/article/detail/a-sustainable-food-system-for-singapore-and-beyond
 
 Singapore Infopedia, (2014), Jurong Town Corporation, retrieved from [https://eresources.nlb.gov.sg/infopedia/articles/SIP\_553\_2004-12-31.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_553_2004-12-31.html) 
 
