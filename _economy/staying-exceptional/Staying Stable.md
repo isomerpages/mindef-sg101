@@ -84,7 +84,7 @@ Such a stance continues to be necessary because:
 
 *   The need to balance land use needs may lead to difficult trade-offs between redevelopment and heritage preservation, as well as efforts to protect our biodiversity.&nbsp;
     
-*   Singapore will need to align our economic development plans with our international obligations, including the targets outlined in our [pledge](https://www.nccs.gov.sg/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore.pdf) to cut emissions intensity by 36% from 2005 levels by 2030. For a country with limited renewable energy options, meeting them will require collective and serious action by the government, businesses, households, and individuals.&nbsp;
+*   Singapore will need to align our economic development plans with our international obligations, including the targets outlined in our [pledge](https://www.nccs.gov.sg/singapores-climate-action/singapore-and-international-efforts/) to cut emissions intensity by 36% from 2005 levels by 2030. For a country with limited renewable energy options, meeting them will require collective and serious action by the government, businesses, households, and individuals.&nbsp;
   
 * Our ageing population will have implications on the workforce and the economy. [By 2030](https://www.todayonline.com/singapore/elderly-make-almost-half-spore-population-2050-united-nations), one in four Singaporeans will be 65 years old and older, compared to one in eight in 2018.
 
