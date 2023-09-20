@@ -94,7 +94,7 @@ Heng Swee Keat, (26 March 2020), Supplementary Budget Statement 2020, retrieved 
 
 HistorySG, Konfrontasi (Confrontation Ends) (2014), National Library, retrieved from [http://eresources.nlb.gov.sg/history/events/f950e04d-44d7-47ad-a10c-16dfb0cc9ce3](http://eresources.nlb.gov.sg/history/events/f950e04d-44d7-47ad-a10c-16dfb0cc9ce3) 
 
-Hon Sui Sen, (1973), Budget Statement 1973, retrieved from [https://sprs.parl.gov.sg/search/topic?reportid=017\_19740304\_S0003\_T0009](https://sprs.parl.gov.sg/search/topic?reportid=017_19740304_S0003_T0009) 
+Hon Sui Sen, (1973), Budget Statement 1973, retrieved from [HANSARD](https://sprs.parl.gov.sg/search/#/home)
 
 I.F Tang, (2011), Heart Work, A Lemon Or a Rolls-Royce, Economic Development Board, Straits Times Press, p19.
 
