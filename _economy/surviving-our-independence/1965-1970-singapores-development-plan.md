@@ -85,7 +85,7 @@ In 1969, NTUC held the “Modernisation of the Labour Movement” seminar, a for
 </div>
 
 ![Alt text for image on Isomer site](/images/economy/screenshot%202020-10-28%20at.png)
-(Image: The introduction of tripartism in Singapore resulted in a marked decrease in the number of work stoppages and man-days lost by 1968; Singapore Year Book 1968; [National Archives of Singapore](https://www.nas.gov.sg/1stCab/PanelPDF/Section%203%20-%20Economy%20Miracle%2017.pdf))
+(Image: The introduction of tripartism in Singapore resulted in a marked decrease in the number of work stoppages and man-days lost by 1968; Singapore Year Book 1968; National Archives of Singapore)
 
 After the introduction of tripartism, the number of labour strikes decreased from 10 in 1972 to one in 1977. There were none from 1997 to 2012. In this same period, unemployment fell in Singapore and foreign direct investment rose.
 
