@@ -21,4 +21,5 @@ Besides Oscar, there is also Ottie the Otter, introduced by the People’s Assoc
 Will there be even more mascots to emerge from our otter families in Singapore? With their boundless energy and resilient spirit, that’s otter-ly possible!
 
 #MascotMonday #MascotMondaySG #otters #Singapore #Ottie #Oscar #foodsafety
+
 Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
