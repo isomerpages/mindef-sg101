@@ -20,3 +20,5 @@ Other security features include lithographic print, anti-copying line structures
 If you try to feel your banknotes, you’ll find dots at the top right corner. Each note has a Braille code that is printed in heavy intaglio ink, and different note denominations have a different Braille code to help visually impaired people to differentiate the notes.
 
 Money might be something that we handle often, but these are the things that we normally otherwise wouldn’t notice unless we pay close attention.
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
