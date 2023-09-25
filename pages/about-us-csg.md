@@ -1,6 +1,6 @@
 ---
 title: About Us CSG
-permalink: /about-us-csg
+permalink: /about-us-csg/
 ---
 
 

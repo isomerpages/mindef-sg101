@@ -1,19 +1,19 @@
 ---
 title: "#Heritage Sri Thendayuthapani Temple"
-permalink: /resources/connexionsg/SriThendayuthapaniTemple/
+permalink: /resources/connexionsg/srithendayuthapanitemple/
 date: 2022-04-19
 layout: post
 description: ""
 image: ""
 ---
 
-![](/images/connexionsg/2022/Sri%20Thendayuthapani%20Temple%201.jpg)
+![](/images/connexionsg/2022/sri%20thendayuthapani%20temple%201.jpg)
 📷 1: Roots.sg
 
-![](/images/connexionsg/2022/Sri%20Thendayuthapani%20Temple%202.jpg)
+![](/images/connexionsg/2022/sri%20thendayuthapani%20temple%202.jpg)
 📷 2: Sri Thendayuthapani Temple's gopuram by Shiny Things (CC)
 
-![](/images/connexionsg/2022/Sri%20Thendayuthapani%20Temple%203.jpg)
+![](/images/connexionsg/2022/sri%20thendayuthapani%20temple%203.jpg)
 📷 3: Sri Thendayuthapani Temple's prayer hall via Roots.sg
 
 

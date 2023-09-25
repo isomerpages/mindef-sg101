@@ -1,11 +1,11 @@
 ---
 title: Hari Raya Haji
-permalink: /resources/connexionsg/HariRayaHaji
+permalink: /resources/connexionsg/harirayahaji/
 date: 2022-07-10
 layout: post
 description: ""
 ---
-![](/images/connexionsg/Hari%20Raya%20Haji.jpg)
+![](/images/connexionsg/hari%20raya%20haji.jpg)
 
 Hari Raya Haji is also known as the festival of sacrifice. It marks the end of the Haj where millions of Muslims around the world retrace Prophet Muhammad’s pilgrimage to the holy city of Mecca in Saudi Arabia.
 

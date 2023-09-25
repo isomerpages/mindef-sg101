@@ -1,6 +1,6 @@
 ---
 title: Our Fundamentals
-permalink: /defence-and-security/our-fundamentals
+permalink: /defence-and-security/our-fundamentals/
 description: ""
 ---
 

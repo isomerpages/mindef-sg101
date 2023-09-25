@@ -1,14 +1,14 @@
 ---
 title: "#ShapingOurCity: Climate Change"
-permalink: /resources/connexionsg/ClimateChange/
+permalink: /resources/connexionsg/climatechange/
 date: 2022-09-29
 layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2022/Climate%201.jpg)
+![](/images/connexionsg/2022/climate%201.jpg)
 
-![](/images/connexionsg/2022/Climate%202.jpg)
+![](/images/connexionsg/2022/climate%202.jpg)
 📸: An artist’s impression of potential future reclamation along East Coast that Prime Minister Lee Hsien Loong presented in August 2019 as a possible coastal protection solution.
 
 Climate change is an existential threat to many countries, including Singapore. At just 728.6 km² and lying close to the equator, we are vulnerable to rising sea levels, drought, floods, and prolonged heat stress due to higher daily temperatures.

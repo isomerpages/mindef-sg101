@@ -1,11 +1,11 @@
 ---
 title: Our National Anthem
-permalink: /resources/connexionsg/SGNationalAnthem
+permalink: /resources/connexionsg/sgnationalanthem/
 date: 2022-08-07
 layout: post
 description: ""
 ---
-![](/images/connexionsg/2022/Original%20Majulah%20Singaoura%20Annotated%20for%20changes%20(cropped).png)
+![](/images/connexionsg/2022/original%20majulah%20singaoura%20annotated%20for%20changes%20(cropped).png)
 📷: Ministry of Culture, Community and Youth (MCCY)
 
 For most of us, “Majulah Singapura” (meaning "Onward Singapore") is a familiar tune as we have been singing the National Anthem during morning assembly since Primary 1.

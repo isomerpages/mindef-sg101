@@ -1,6 +1,6 @@
 ---
 title: Mee Rebus
-permalink: /resources/connexionsg/MeeRebus/
+permalink: /resources/connexionsg/meerebus/
 date: 2023-02-17
 layout: post
 description: ""

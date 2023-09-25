@@ -1,6 +1,6 @@
 ---
 title: SG Covid Warriors
-permalink: /resources/connexionsg/SGCovidWarriors
+permalink: /resources/connexionsg/sgcovidwarriors/
 date: 2021-12-20
 layout: post
 description: ""

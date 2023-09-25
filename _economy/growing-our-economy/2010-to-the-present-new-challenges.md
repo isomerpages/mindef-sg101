@@ -10,7 +10,7 @@ Singapore continues to face structural challenges as well as short-term obstacle
 
 **A Mature Phase of Growth**
 
-![Alt text for image on Isomer site](/images/economy/growing-our-economy/Screenshot%202020-10-19%20at%201.png)
+![Alt text for image on Isomer site](/images/economy/growing-our-economy/screenshot%202020-10-19%20at%201.png)
 
 By 2011, it was clear that as Singapore's economy had matured, growth would slow to 3-5 % per year. Even though our innovations (e.g. Jurong Rock Cavens) have stretched our limits, the fact is that resource and land constraints remain.
 
@@ -53,7 +53,7 @@ This puts Singapore in a difficult spot, as small countries require such organis
 
 As PM Lee said, multilateral organisations such as the UN and WTO are critical to Singapore’s survival: 
 
-![Alt text for image on Isomer site](/images/economy/growing-our-economy/Screenshot%202020-10-22%20.png)
+![Alt text for image on Isomer site](/images/economy/growing-our-economy/screenshot%202020-10-22%20.png)
 
 **Digital Disruption: A Source of Challenges and Opportunities**
 
@@ -96,23 +96,23 @@ Trading volume on the Singapore Exchange has also fallen over the years, compare
 
 In December 2019, the first cases of a mysterious, lethal pneumonia appeared in Wuhan, China. By the turn of the new year, the World Health Organisation (WHO) declared this virus outbreak a public health emergency of international concern. The virus was given a name – COVID-19 (Coronavirus Disease 2019) – and in March 2020, the contagion was characterised as a worldwide pandemic.
 
-![Computer generated representation of COVID-19 virions (SARS-CoV-2) under electron microscope.](/images/Coronavirus_SARS-CoV-2.jpg)
+![Computer generated representation of COVID-19 virions (SARS-CoV-2) under electron microscope.](/images/coronavirus_sars-cov-2.jpg)
 (Image: Computer-generated representation of COVID-19 virions (SARS-CoV-2) under electron microscope by Felipe Esquivel Reed via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coronavirus_SARS-CoV-2.jpg))
 
-A multitude of responses to COVID-19 was activated as it spread. Many countries, such as China, Australia, and New Zealand, closed their borders and went under lockdown. The impact of the lockdowns prompted governments to take strong fiscal action, spending millions to shore up their economies, businesses, and livelihoods. 
+A multitude of responses to COVID-19 was activated as it spread. Many countries, such as China, Australia, and New Zealand, closed their borders and went under lockdown. The impact of the lockdowns prompted governments to take strong fiscal action, spending millions to shore up their economies, businesses, and livelihoods.&nbsp;
 
-Between 7 April and 1 June 2020, Singapore entered into a “circuit breaker” period, where travel and social restrictions kicked in, and most workplaces were shut. This came as community clusters formed, including in migrant worker dormitories. A decisive move to curb the spread of the infection was necessary.  
+Between 7 April and 1 June 2020, Singapore entered into a “circuit breaker” period, where travel and social restrictions kicked in, and most workplaces were shut. This came as community clusters formed, including in migrant worker dormitories. A&nbsp;decisive move to curb the spread of the infection was necessary.&nbsp;&nbsp;
 
 ![Alt text for image on Isomer site](/images/economy/growing-our-economy/airportdeparturehall.jpg)
-(Image: [Gov.sg](https://www.gov.sg/article/further-support-for-aerospace-aviation-tourism-sectors))
+(Image: Gov.sg)
 
 As a small country deeply plugged into global trade, Singapore’s economy was hit. Amid the global economic slowdown and travel restrictions, external demand fell. Supply chain disruptions and the circuit breaker measures also stymied overall growth.
 
-![Alt text for image on Isomer site](/images/economy/growing-our-economy/Screenshot%202020-10-2.png)
+![Alt text for image on Isomer site](/images/economy/growing-our-economy/screenshot%202020-10-2.png)
 
 In February 2020, Prime Minister Lee Hsien Loong said the economic impact of COVID-19 was already more significant than that of SARS (Severe Acute Respiratory Syndrome) in 2003. Singapore experienced its [worst full-year recession](https://www.mti.gov.sg/-/media/MTI/Resources/Economic-Survey-of-Singapore/2020/Economic-Survey-of-Singapore-2020/FA_AES2020.pdf) since independence, with the economy shrinking 5.4% in 2020 – worse than the 1.3% contraction during the Global Financial Crisis in 2009.
 
-The pandemic had an uneven impact on different sectors of Singapore’s economy. Industries such as accommodation, air transport, arts, entertainment, and recreation were among the most severely affected, given the restrictions in travel and large social gatherings. For instance, in 2020, visitor arrivals plummeted 85.7% to reach the lowest in about four decades, while tourism receipts dropped 82.6%. 
+The pandemic had an uneven impact on different sectors of Singapore’s economy. Industries such as accommodation, air transport, arts, entertainment, and recreation were among the most severely affected, given the restrictions in travel and large social gatherings. For instance, in 2020, visitor arrivals plummeted 85.7% to reach the lowest in about four decades, while tourism receipts dropped 82.6%.&nbsp;
 
 Jobs and employment were hit. In the third quarter of 2020, Singapore’s unemployment rate reached a 16-year high.
 

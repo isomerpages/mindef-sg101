@@ -1,6 +1,6 @@
 ---
 title: Post-independence Currency Notes
-permalink: /history/singapores-first/post-independence-curren
+permalink: /history/singapores-first/post-independence-curren/
 third_nav_title: Singapores First
 ---
 ### There is history to be found in our wallets. 

@@ -1,13 +1,13 @@
 ---
 title: "#TD Pandemic Preparedness"
-permalink: /resources/connexionsg/PandemicPreparedness/
+permalink: /resources/connexionsg/pandemicpreparedness/
 date: 2023-02-09
 layout: post
 description: ""
 image: ""
 ---
 
-![](/images/connexionsg/2023/COVID-19.jpg)
+![](/images/connexionsg/2023/covid-19.jpg)
 📷: A photo of a COVID-19 vaccination centre in Singapore. [Creative Commons]
 
 

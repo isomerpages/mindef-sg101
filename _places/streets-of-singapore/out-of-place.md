@@ -1,6 +1,6 @@
 ---
 title: Out of Place
-permalink: /places/streets-of-singapore/out-of-place
+permalink: /places/streets-of-singapore/out-of-place/
 third_nav_title: Streets Of Singapore
 ---
 ### Where's the beach on Beach Road?

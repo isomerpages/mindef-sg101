@@ -1,6 +1,6 @@
 ---
 title: NE Insights on Situation in Ukraine
-permalink: /resources/resource-packages/NEInsights03022022
+permalink: /resources/resource-packages/neinsights03022022/
 date: 2022-03-02
 layout: post
 description: ""
@@ -9,7 +9,7 @@ description: ""
 On 24 Feb 22, Russian President Vladimir Putin authorised a “special military operation” against Ukraine.Singapore has since strongly condemned Russia’s unprovoked attack on Ukraine. To better understand the situation in Ukraine, Singapore’s position and key lessons for Singapore, please see attached the latest issue of NE Insights produced by Nexus on The Situation in Ukraine. 
 
 Download:
-<br>[Folio 1 - Insights 1-22_Situation in Ukraine](/files/packages/2022/Folio%201%20-%20Insights%201-22_Situation%20in%20Ukraine.pdf)
+<br>[Folio 1 - Insights 1-22_Situation in Ukraine](/files/packages/2022/folio%201%20-%20insights%201-22_situation%20in%20ukraine.pdf)
 
 
 <br>Here are some useful resources:

@@ -5,14 +5,14 @@ third_nav_title: Staying Exceptional
 ---
 #### Staying Nimble and Adaptable to Change
 
-![Alt text for image on Isomer site](/images/economy/staying-exceptional/FEC_web_banner-04.jpg)
+![Alt text for image on Isomer site](/images/economy/staying-exceptional/fec_web_banner-04.jpg)
 (Image: [Ministry of Trade and Industry Singapore](https://www.mti.gov.sg/FutureEconomy/TheFutureEconomyCouncil))
 
 The government has played a central role in building and growing the economy.
 
 In its 2017 report, the Committee on the Future Economy stressed that it cannot tell the future, but it knows what Singapore will need to succeed:
 
-![Alt text for image on Isomer site](/images/economy/staying-exceptional/Screenshot%202020-10-2.png)
+![Alt text for image on Isomer site](/images/economy/staying-exceptional/screenshot%202020-10-2.png)
 
 This approach is making a difference.
 
@@ -23,7 +23,7 @@ For instance, the government has been testing autonomous vehicles in parts of Si
 
 Additionally, we have introduced new practices in agri-technology, such as tower farming and the use of AI-controlled environmental lighting, which have helped push new frontiers in the sector.
 
-![Alt text for image on Isomer site](/images/economy/staying-exceptional/Case%20Study_Agritech%20in%20SG.gif)
+![Alt text for image on Isomer site](/images/economy/staying-exceptional/case%20study_agritech%20in%20sg.gif)
 
 #### Transforming our Industries
 
@@ -70,7 +70,7 @@ In the 2011 book *Hard Truths*, former Prime Minister Lee Kuan Yew was asked wha
 
 His advice was simple, clear and straightforward:
 
-![Alt text for image on Isomer site](/images/economy/staying-exceptional/Screenshot%202020-10-.png)
+![Alt text for image on Isomer site](/images/economy/staying-exceptional/screenshot%202020-10-.png)
 
 Indeed, the story of Singapore’s journey from third world to first is one marked by sacrifice, determination and willpower. It is a story about how a people built something from nothing, how a nation’s fate that was determined by guts and gumption, and how the will of a people determined to survive managed to succeed against the odds.
 

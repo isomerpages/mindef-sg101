@@ -1,6 +1,6 @@
 ---
 title: "#TIL Singapore's Core Foreign Policy Principles"
-permalink: /resources/connexionsg/SGCoreForeignPolicyPrinciples
+permalink: /resources/connexionsg/sgcoreforeignpolicyprinciples/
 date: 2022-03-29
 layout: post
 description: ""
@@ -15,19 +15,19 @@ Dr Balakrishnan clarified what Singapore’s core foreign policy principles are,
 
 Scroll down to see what the core policies are.
 
-![](/images/VBalakrishnan-1.png)
+![](/images/vbalakrishnan-1.png)
 
-![](/images/VBalakrishnan-2.png)
+![](/images/vbalakrishnan-2.png)
 
-![](/images/VBalakrishnan-3.png)
+![](/images/vbalakrishnan-3.png)
 
-![](/images/VBalakrishnan-4.png)
+![](/images/vbalakrishnan-4.png)
 
-![](/images/VBalakrishnan-5.png)
+![](/images/vbalakrishnan-5.png)
 
-![](/images/VBalakrishnan-6.png)
+![](/images/vbalakrishnan-6.png)
 
-![](/images/VBalakrishnan-7.png)
+![](/images/vbalakrishnan-7.png)
 
 His speech can also be read [here](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2017/07/Transcript-of-Remarks-by-Minister-for-Foreign-Affairs-Dr-Vivian-Balakrishnan-at-the-MFA-Townhall-on).
 

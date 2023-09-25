@@ -1,14 +1,14 @@
 ---
 title: "#ChallengeAccepted Food Wastage"
-permalink: /resources/connexionsg/Foodwaste/
+permalink: /resources/connexionsg/foodwaste/
 date: 2022-12-28
 layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/Zero%20to%20food%20waste.jpg)
+![](/images/connexionsg/2023/zero%20to%20food%20waste.jpg)
 
-![](/images/connexionsg/2023/Food%20Waste.png)
+![](/images/connexionsg/2023/food%20waste.png)
 
 Every day in Singapore, we throw away more than 2,000 tonnes — that’s 2 million kilograms — of food. In 2021, we wasted 817 million kilograms of food from F&B premises, hawker centres, schools, households, hotels, malls, markets, and food manufacturers. This was 23% more than the 665 million kilograms generated in 2020, as economic activities picked up in 2021, as compared to COVID-impacted 2020.
 

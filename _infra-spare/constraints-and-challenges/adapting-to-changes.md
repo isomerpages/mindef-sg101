@@ -1,16 +1,16 @@
 ---
 title: Adapting To Changes
-permalink: /infra/constraints-and-challenges/adapt
+permalink: /infra/constraints-and-challenges/adapt/
 third_nav_title: Constraints And Challenges
 ---
 #### Adapting To Changes
 Although much has been achieved since independence, certain things will remain the same: Singapore will always be a small country in an uncertain world with no natural resources. This will always continue to present challenges for us.
 
-![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/Screenshot%202021-07-0135346.png)
+![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/screenshot%202021-07-0135346.png)
 
 While we have made significant strides in tackling our water scarcity problem, we now have to confront climate change as well. As a low-lying island nation, Singapore is particularly vulnerable to the threat of rising sea levels – one that will threaten the country’s very existence.
 
-![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/Screenshot%202021-07-013525.png)
+![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/screenshot%202021-07-013525.png)
 
 We are already feeling the impact. In 2019, a report found that Southeast Asia would be hardest hit by rising sea levels due to melting ice sheets, as over 450 million people in the region live in low coastal zones.
 

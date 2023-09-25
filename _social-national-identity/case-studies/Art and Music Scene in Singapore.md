@@ -1,6 +1,6 @@
 ---
 title: Art and Music Scene in Singapore
-permalink: /social-national-identity/case-studies/ArtMusicSceneinSG/
+permalink: /social-national-identity/case-studies/artmusicsceneinsg/
 description: ""
 third_nav_title: Case Studies
 ---
@@ -9,7 +9,7 @@ third_nav_title: Case Studies
 
 How does a structure with a four-legged stand, a wooden middle and a large ceramic head shaped like a saga seed represent the relationship between art and national identity? 
 
-![Ahmad Abu Bakar's artwork](/images/society/case-studies/Ahmad%20Abu%20Bakar's%20artwork.jpg)
+![Ahmad Abu Bakar's artwork](/images/society/case-studies/ahmad%20abu%20bakar's%20artwork.jpg)
 (Image: Ceramic Artist Ahmad Abu Bakar's artwork, as featured at Singapore Utopia)
 
 For artist and Singapore permanent resident Ahmad Abu Bakar, 56, his artwork depicts pathways between his birthplace Malacca and his current home Sengkang, multiculturalism in Singapore and Malaysia, and "the complexities of the relationship between two countries, two societies, two politics".
@@ -18,7 +18,7 @@ His thought-provoking piece was one of 15 creations presented at the 2019 Singap
 
 Art can serve as a reflective, forward-looking and versatile form of expression for Singapore's national identity. They help draw Singaporeans of all backgrounds into the national conversation about our shared values and heritage. This equips the nation with the will and creative resources to thrive.
 
-![](/images/society/case-studies/MM%20Lee%20Kuan%20Yew%20quote%201.png)
+![](/images/society/case-studies/mm%20lee%20kuan%20yew%20quote%201.png)
  
 As Singapore develops into a vibrant cosmopolitan hub and global city, more citizens engage and participate in different forms of artistic expression to articulate what being Singaporean means to them. One example was the communal artwork created by 40,000 members of the public to commemorate Singapore's 51st birthday during the National Day Parade. Artist Sun Yu-Li gathered these 40,000 different personal interpretations of Singapore in a mosaic displayed with sculptures outside Suntec City and the Singapore Art Museum.
 
@@ -28,7 +28,7 @@ Many Singaporeans still enjoy listening to xinyao, a genre of Chinese songs uniq
 
 Getai (which translates to song stage) is another musical form that resonates with Singaporeans. It is performed in a mix of Mandarin and predominantly the Hokkien dialect during festive occasions, the most well-known of which takes place during the Hungry Ghost Festival. Getai has been popular for decades and remains relevant and entertaining even for younger generations today, with the introduction of new songs and styles. During the COVID-19 pandemic, Getai performances took place in studios and were broadcasted over livestreaming on the internet, with some attracting audiences of hundreds of thousands. In 2022, in-person Getai performances were resumed with the relaxation of COVID-19 safe-distancing measures. However, the number of Getai bookings received by artistes has recovered to only 40 per cent to 50 per cent of pre-pandemic levels, according to Shin Min Daily News. 
 
-![Getai](/images/society/case-studies/Getai.jpg)
+![Getai](/images/society/case-studies/getai.jpg)
 
 Singaporeans' pride in the quality of its artists and artistic productions has risen over the years, as seen in the popularity of renowned singers like Stefanie Sun and JJ Lin. Many also applaud the accomplishments of the Singapore Symphony Orchestra, which was the only Asian orchestra to win third place at the prestigious Gramophone Orchestra of the Year 2021. Through Our Cultural Medallion Story at The Arts House, we celebrate the artistic achievements and contributions of 130 individuals whose artistic excellence and contributions have enriched Singapore’s arts and cultural landscape.   
 

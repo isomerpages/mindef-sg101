@@ -1,6 +1,6 @@
 ---
 title: Tokyo Olympics 2020 Closing Ceremony
-permalink: /history/on-this-day/tokyo-olympics-2020
+permalink: /history/on-this-day/tokyo-olympics-2020/
 third_nav_title: On This Day
 ---
 ### The Olympics has captivated the world over the past three weeks with humans performing superhuman sporting feats. 

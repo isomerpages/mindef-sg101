@@ -48,7 +48,7 @@ Those with disabilities are also given opportunities to improve their lives and 
 
 Total funding for special education schools have also risen by about 40 per cent over the last five years, ensuring that children and teenagers with intellectual difficulties are able to get an education. The number of special needs schools now stands at 19, with three more in the works. More mainstream schools are also opening their doors to students with mild special needs, with the help of allied educators. Currently, 20 per cent of students with special needs are in special education schools, with the rest, or 26,000 students, in mainstream schools. This figure has doubled from 13,000 in 2013.
 
-[![Alt text for image on Isomer site](/images/society/caring/OpenDoc%20Banners-11.gif)](/social-national-identity/examples/striving)
+[![Alt text for image on Isomer site](/images/society/caring/opendoc%20banners-11.gif)](/social-national-identity/examples/striving)
 
 While the government’s social provisions have broadened, they remain anchored in the basic principles of self-reliance, individual effort and personal responsibility. As former DPM Tharman famously told a BBC presenter on 7 May 2015, when pressed about the concept of a safety net, “I believe in the notion of a trampoline.” Social assistance in Singapore is not supposed to provide a comfortable life but to spur citizens on to get back on their feet.
 
@@ -78,7 +78,7 @@ People with physical disabilities still face challenges in finding employment in
 
 But there is change on this front, with growing awareness of the need to provide equal opportunities for all Singaporeans. A growing number of local companies have launched initiatives to provide more jobs for people with disabilities. For example, United Overseas Bank hires people with autism and hearing impairments for roles such as document archival; Uniqlo Singapore created a mentor-buddy system that pairs store managers with its workers with intellectual disabilities; the National Library Board has trained dozens of people on the autism spectrum to do scanning and digitalising tasks. Meanwhile, ride-hailing and food-delivery service provider Grab hires staff with disabilities, allocating shorter trips to wheelchair-bound riders and hiring a blind software engineer.
 
-![](/images/society/caring/UOB%20scan%20hub%20employee.jpg)
+![](/images/society/caring/uob%20scan%20hub%20employee.jpg)
 (Image: United Overseas Bank (UOB). People with autism account for about one-third of the 53 employees at UOB's Scan Hub, where customer documents such as credit card application forms are scanned, classified and archived.)
 
 To raise more public awareness and support, the inaugural Shaping Hearts Festival 2021 invited about 150 community artists with special needs to present artworks and performances over a two-week event in November 2021. 
@@ -122,7 +122,7 @@ The SG Cares Office is also working with national intermediaries to grow skills-
 
 ![](/images/society/caring/edwin%20tong%20quote%202.png)
 
-[![Alt text for image on Isomer site](/images/society/caring/OpenDoc%20Banners-14.gif)](/social-national-identity/examples/volunteerism)
+[![Alt text for image on Isomer site](/images/society/caring/opendoc%20banners-14.gif)](/social-national-identity/examples/volunteerism)
 
 #### Acts of Care
 
@@ -148,7 +148,7 @@ There are other examples where Singaporeans gladly helped others. In 2015, when 
 
 Similarly in 2020, as the world fought to control and contain the COVID-19 pandemic, Singaporeans once again stepped up to help others. One Singaporean couple gave out 6,600 surgical masks for free when they saw how Singaporeans were scrambling to find masks. While another couple made their own alcohol-based hand sanitiser and shared it with their neighbours by placing a bottle at the lift. 
 
-[![Alt text for image on Isomer site](/images/society/caring/OpenDoc%20Banners-13.gif)](/social-national-identity/case-studies/covid19)
+[![Alt text for image on Isomer site](/images/society/caring/opendoc%20banners-13.gif)](/social-national-identity/case-studies/covid19)
 
 Even our daily lives, Singaporeans have shown love and compassion to others. One couple opened their home to young people in need, quitting their jobs in the process. Mr Kenneth Thong and his wife, Adeline, started The Last Resort — a home for young adults operating out of a rented four-storey terraced house in Seletar. The young adults who stay with them could be unwed mothers, homeless teenagers or those with mental problems. Most are from dysfunctional families and have nowhere else to go, and many are too old for institutional care or fostering. “We want them to experience what a normal, safe, functional family looks like. And that means they are free to have whatever we have here,” said Mr Thong in an interview with The Straits Times in 2018.
 

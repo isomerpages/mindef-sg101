@@ -1,12 +1,12 @@
 ---
 title: "#OnThisDay (15 Feb 1942) Singapore fell"
-permalink: /resources/connexionsg/Singaporefell/
+permalink: /resources/connexionsg/singaporefell/
 date: 2023-02-15
 layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/15%20Feb%201942%20TD.jpg)
+![](/images/connexionsg/2023/15%20feb%201942%20td.jpg)
 📷: Victorious Japanese troops marching into Fullerton Square on 16 February 1942. The British had surrendered the previous day and Singapore would be renamed Syonan-to (“Light of the South”) by its new masters. (Biblioasia, NLB)
 
 #OnThisDay (15 Feb 1942), Singapore fell to the Japanese during World War II and became known as Syonan-to ("Light of the South").

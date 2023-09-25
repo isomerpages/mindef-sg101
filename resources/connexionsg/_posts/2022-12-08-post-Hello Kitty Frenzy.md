@@ -1,6 +1,6 @@
 ---
 title: Hello Kitty Frenzy
-permalink: /resources/connexionsg/HelloKittyFrenzy/
+permalink: /resources/connexionsg/hellokittyfrenzy/
 date: 2022-12-08
 layout: post
 description: ""

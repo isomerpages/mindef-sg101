@@ -1,12 +1,12 @@
 ---
 title: "#FoodforThought Bak Kwa"
-permalink: /resources/connexionsg/BakKwa/
+permalink: /resources/connexionsg/bakkwa/
 date: 2023-01-21
 layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/Bak%20Kwa.jpg)
+![](/images/connexionsg/2023/bak%20kwa.jpg)
  📷: Choo Yat Shing@Flickr (Creative Commons)
 
 What're you looking forward to this Lunar New Year?

@@ -4,12 +4,12 @@ permalink: /economy/surviving-our-independence/1959-1965/
 third_nav_title: Surviving Our Independence
 ---
 ## Surviving Our Independence
-![Alt text for image on Isomer site](/images/economy/Screenshot%202020-10-19.png)
+![Alt text for image on Isomer site](/images/economy/screenshot%202020-10-19.png)
 
 In 1959, Singapore achieved self-governance after years of struggle. The People’s Action Party (PAP) was voted into power in the Legislative Assembly general election, becoming the first full elected government of the self-governing state of Singapore on 5 June 1959. Mr Lee Kuan Yew was appointed the first Prime Minister.
 
 #### 1959-1965: Early Economic Strategies
-![Alt text for image on Isomer site](/images/economy/Screenshot%202020-10-28.png)
+![Alt text for image on Isomer site](/images/economy/screenshot%202020-10-28.png)
 (Image: A scene of a typical squalid side street in the Central Area; HDB Annual Report 1965; [BookSG](https://eresources.nlb.gov.sg/printheritage/detail/daa435c7-799e-4a0c-9ee4-376a31ab9f4a.aspx))
 
 The new government faced huge problems almost immediately. While Singapore had recovered from the devastation of World War II, the country was derelict: the city centre was overcrowded, buildings were deteriorating, and nearly 70% of the population lived in slums. Moreover, the economy was largely trade-based. As there was hardly any local industry to create meaningful jobs for a growing population, unemployment rate was in the double digits.
@@ -29,7 +29,7 @@ The lead agency tasked to undertake the critical role of implementing the indust
 
 One of its first tasks was to develop Jurong into an industrial estate, as part of a push to create labour-intensive industries that would generate jobs for the people. Some of the early factories produced items such as garments, toys and wigs. This was only the beginning of the story of Jurong.
 
-[![Alt text for image on Isomer site](/images/economy/Case%20Study_Jurong.gif)](/economy/digging-deeper-case-studies/jurong1)
+[![Alt text for image on Isomer site](/images/economy/case%20study_jurong.gif)](/economy/digging-deeper-case-studies/jurong1)
 
 
 #### 1963: Formation of Malaysia
@@ -66,4 +66,4 @@ In addition, Singapore's union with Malaysia was also troubled from the start.
 
 The political, social and economic difficulties of the merger led to a momentous decision. Expelled from Malaysia on 9th August 1965, Singapore was on our own. We no longer had a common market of 12 million consumers to support our growth. With no natural resources, a tiny population and rising unemployment, Singapore’s leaders were faced with a dire situation.
 
-![Alt text for image on Isomer site](/images/More_Separation%20Agreement.gif)
+![Alt text for image on Isomer site](/images/more_separation%20agreement.gif)

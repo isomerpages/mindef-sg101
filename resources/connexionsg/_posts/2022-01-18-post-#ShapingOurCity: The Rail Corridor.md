@@ -1,6 +1,6 @@
 ---
 title: "#ShapingOurCity: The Rail Corridor"
-permalink: /resources/connexionsg/therailcorridor
+permalink: /resources/connexionsg/therailcorridor/
 date: 2022-01-18
 layout: post
 description: ""

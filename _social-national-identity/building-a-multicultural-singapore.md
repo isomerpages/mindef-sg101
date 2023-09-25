@@ -19,13 +19,13 @@ This segregation hindered the development of mutual understanding and trust betw
 
 In 1964, Singapore encountered one of its worst riots. On 21 July, 23 people lost their lives and another 454 were injured following a scuffle between the Chinese and the Malays during a procession to celebrate the Prophet Muhammad’s birthday. The riots reignited in September, killing 13 people and injuring 106. Five years later, another racial riot broke out, leaving four dead and 80 injured.
 
-[![Alt text for image on Isomer site](/images/society/multicultural/OpenDoc%20Banners.gif)](/social-national-identity/examples/racialriots)
+[![Alt text for image on Isomer site](/images/society/multicultural/opendoc%20banners.gif)](/social-national-identity/examples/racialriots)
 
 ![Alt text for image on Isomer site](/images/society/multicultural/social-02-a1.png)
 
 The racially-charged riots of 1964 and 1969 showed how easily ethnic tensions could be exploited to thrust the nation into turmoil. Singapore’s early leaders recognised that race and religion were potential fault lines that had to be addressed, if Singapore were to progress.
 
-![](/images/Junior_OSD_YishunPriSchool_Ng_Xi_Rou_2%20-%20Liang%20Tien%20Ang.jpg)
+![](/images/junior_osd_yishunprischool_ng_xi_rou_2%20-%20liang%20tien%20ang.jpg)
 (Image: Ministry of Education, Singapore)
 
 ![](/images/img0113.jpg)
@@ -58,7 +58,7 @@ Besides safeguards against discrimination, measures were also taken to help peop
 
 Hence, the government introduced English as the language of administration and instruction. This unified Singaporeans without privileging any particular cultural group while also promoting international trade and diplomacy. Singaporeans continued to retain their mother tongues as second languages, to access their cultural heritage and strengthen their values and sense of cultural belonging. Moreover, it retained Malay as our national language, as Malays are constitutionally recognised as the indigenous people of Singapore. 
 
-[![Alt text for image on Isomer site](/images/society/multicultural/OpenDoc%20Banners-4.gif)](/social-national-identity/case-studies/special)
+[![Alt text for image on Isomer site](/images/society/multicultural/opendoc%20banners-4.gif)](/social-national-identity/case-studies/special)
 
 ![Alt text for image on Isomer site](/images/multic6.jpg)
 (Image: Ministry of Education)
@@ -69,7 +69,7 @@ Another way the government sought to bridge gaps along racial lines was to incre
 
 The Housing Development Board’s (HDB) Ethnic Integration Policy (EIP) was introduced to do just that. Aimed at preventing the formation of ethnic enclaves and to promote the integration of minority groups, it specified the proportion of flats that could be owned by the various ethnic groups. This created a more balanced ethnic mix in the various housing estates.
 
-[![Alt text for image on Isomer site](/images/society/multicultural/OpenDoc%20Banners-2.gif)](/social-national-identity/examples/hdb)
+[![Alt text for image on Isomer site](/images/society/multicultural/opendoc%20banners-2.gif)](/social-national-identity/examples/hdb)
 
 ![](/images/housing.jpg)
 (Image: National Archives of Singapore)
@@ -96,8 +96,8 @@ More Singaporeans said they have close friends of another race in 2018 compared 
 
 This racial and religious harmony is not a natural state for Singapore, nor was it easily cultivated. 
 
-![](/images/society/Goh%20Chok%20Tong%20quote.png)
-![](/images/society/Strengthen%20religious%20harmony%20v2.png)
+![](/images/society/goh%20chok%20tong%20quote.png)
+![](/images/society/strengthen%20religious%20harmony%20v2.png)
 
 Efforts to forge mutual understanding and awareness about different beliefs and practices were already underway long before Singapore gained independence. 
 
@@ -155,7 +155,7 @@ In 2019, the Act was amended to safeguard against foreign actors exploiting reli
 
 "In the nearly 30 years since MRHA was enacted, we look around us. Al Qaeda, ISIS, communal violence in Myanmar, Sri Lanka and more. There are disputes between all major religions across the world, and abuse of religion by politicians and religious leaders,” Law and Home Affairs Minister K Shanmugam told Parliament when the changes to Act were passed on 7 October 2019 . 
 
-![](/images/society/Quote%201%20-%20Shanmugam.png)
+![](/images/society/quote%201%20-%20shanmugam.png)
 
 Mr Shanmugam added that Singapore had previous incidents of religious disharmony, which were handled with “wisdom and common sense”. 
 
@@ -254,7 +254,7 @@ Understanding that this was the act of radicalised individuals and not reflectiv
 
 With the community's trust and support, the government was therefore able to act quickly and ensure other Singaporeans did not turn against  Muslims in the community. This could have disrupted social cohesion and strained community relations.
 
-[![Alt text for image on Isomer site](/images/society/multicultural/OpenDoc%20Banners-5.gif)](/social-national-identity/examples/inter)
+[![Alt text for image on Isomer site](/images/society/multicultural/opendoc%20banners-5.gif)](/social-national-identity/examples/inter)
 
 #### The Continued Need for Racial Harmony
 
@@ -262,7 +262,7 @@ Social resilience is Singapore's key strategy against terrorism and domestic con
 
 But a lapse could tear open old wounds. Singapore the remains ever vigilant in monitoring tensions from racial differences, and we take proactive steps to safeguard our ability to stay united.
 
-[![Alt text for image on Isomer site](/images/society/multicultural/OpenDoc%20Banners-6.gif)](/social-national-identity/case-studies/learning)
+[![Alt text for image on Isomer site](/images/society/multicultural/opendoc%20banners-6.gif)](/social-national-identity/case-studies/learning)
 
 In recent years, some events have led to conversations in society on whether racism is built into our system. In particular, the 2020 George Floyd protests in the United States revived discussion around issues of race and privilege, with the term “Chinese Privilege” coming into common usage. Many locals have also come forward to share their experiences of casual and systemic racism in the recent ‘Regardless of Race’ dialogues in 2019, with some questioning the continued relevance of Special Assistance Plan (SAP) and Singapore’s Chinese-Malay-Indian-Others (CMIO) racial framework.
 
@@ -276,7 +276,7 @@ Moreover, there is a tendency for social media platform algorithms to create “
 
 To prevent our social media feeds and those of our friends from becoming echo chambers, we need to consciously look out for people with opinions different from our own to converse with them, and share articles or commentaries from a range of perspectives. We need to also be aware of accounts that spread fake news or cause hate, by those who seek to destabilise our society. Calling out the inaccuracies in these posts and having conversations with those who share them, helps protect the unity we enjoy as a society.
 
-![](/images/Junior_PM_TeckWhyePrimarySchool.jpg)
+![](/images/junior_pm_teckwhyeprimaryschool.jpg)
 (Image: Ministry of Education, Singapore)
 
 “We are not completely colour-blind, and this makes a difference. It will influence our thinking and choices, either consciously or unconsciously,” said PM Lee Hsien Loong, in a speech on multiculturalism at a PA Kopi Talk on 23 September 2017, shortly after Madam Halimah Yacob was sworn in as Singapore’s first Malay president in 47 years. Singapore, he said, “continues to require guide-ropes and guard-rails to prevent us from falling off along the way.”

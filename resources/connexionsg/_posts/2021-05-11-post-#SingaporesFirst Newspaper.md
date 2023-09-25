@@ -1,7 +1,7 @@
 ---
 title: "#SingaporesFirst Newspaper"
 date: 2021-05-11
-permalink: /resources/connexionsg/singaporesfirst-newspaper
+permalink: /resources/connexionsg/singaporesfirst-newspaper/
 layout: post
 description: ""
 ---

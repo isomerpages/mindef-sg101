@@ -1,6 +1,6 @@
 ---
 title: "British Military Withdrawal: From Crisis to Catalyst for Growth"
-permalink: /economy/digging-deeper-case-studies/withdrawal
+permalink: /economy/digging-deeper-case-studies/withdrawal/
 third_nav_title: Case Studies
 ---
 
@@ -10,7 +10,7 @@ third_nav_title: Case Studies
 
 <i>2 minute read</i>
 
-![Alt text for image on Isomer site](/images/economy/case-studies/Screenshot%20202.png)
+![Alt text for image on Isomer site](/images/economy/case-studies/screenshot%20202.png)
 
 In 1967, the British government released a White Paper announcing the withdrawal of its military forces in the Far East, including Singapore and Malaysia. The weakened British economy could no longer support the estimated £70 million a year in maintaining a military presence overseas.
 
@@ -30,7 +30,7 @@ Led by Hon Sui Sen, the first chairman of the Economic Development Board, the BE
 
 For example, the naval dockyard at Sembawang was converted into a commercial shipyard, while Changi airbase became a recreational resort and later an international airport. Blakang Mati (today's Sentosa) was also turned into a tourist destination. These key infrastructural changes were important in the development of the various sectors later on, such as ship building, tourism, and manufacturing.
 
-![Alt text for image on Isomer site](/images/economy/case-studies/Screenshot%202020-10-2.png)
+![Alt text for image on Isomer site](/images/economy/case-studies/screenshot%202020-10-2.png)
 (Image: Map of Blakang Mati dated 1895. Up to the 1960s, it was part of a British military base, sparsely populated by barracks and a few kampongs; NAS)
 
 **Retraining Workers**

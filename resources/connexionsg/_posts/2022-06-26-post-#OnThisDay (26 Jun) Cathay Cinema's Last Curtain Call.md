@@ -1,11 +1,11 @@
 ---
 title: "#OnThisDay (26 Jun) Cathay Cinema's Last Curtain Call"
-permalink: /resources/connexionsg/CathayCinemas-last-curtain-call
+permalink: /resources/connexionsg/cathaycinemas-last-curtain-call/
 date: 2022-06-26
 layout: post
 description: ""
 ---
-![](/images/connexionsg/2022/Cathay%20last%20curtain%20call.jpg)
+![](/images/connexionsg/2022/cathay%20last%20curtain%20call.jpg)
 
 #OnThisDay 26 Jun, the Cathay Cinema at Handy Road will have its final curtain call.
 

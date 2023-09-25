@@ -1,6 +1,6 @@
 ---
 title: "#TIL Ash Scattering Garden"
-permalink: /resources/connexionsg/AshScatteringGarden/
+permalink: /resources/connexionsg/ashscatteringgarden/
 date: 2022-11-04
 layout: post
 description: ""
@@ -27,8 +27,8 @@ Source of quote: The Straits Times. Singapore to open first inland ash scatterin
 📷: NEA’s Facebook post on Garden of Peace @ CCK, at Choa Chu Kang Cemetery Complex. 
 https://www.facebook.com/NEASingapore/posts/nea-has-developed-the-garden-of-peace-cck-at-choa-chu-kang-cemetery-complex-intr/2891804791040849/
 
-![](/images/connexionsg/2022/Ash%201.jpg)
+![](/images/connexionsg/2022/ash%201.jpg)
 
-![](/images/connexionsg/2022/Ash%202.jpg)
+![](/images/connexionsg/2022/ash%202.jpg)
 
 Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.

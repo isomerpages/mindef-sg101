@@ -1,6 +1,6 @@
 ---
 title: Kueh Bangkit
-permalink: /resources/connexionsg/KuehBankit/
+permalink: /resources/connexionsg/kuehbankit/
 date: 2023-01-06
 layout: post
 description: ""

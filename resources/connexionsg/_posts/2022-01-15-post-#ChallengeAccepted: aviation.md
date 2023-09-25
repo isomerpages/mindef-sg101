@@ -1,6 +1,6 @@
 ---
 title: "#ChallengeAccepted: aviation"
-permalink: /resources/connexionsg/aviation
+permalink: /resources/connexionsg/aviation/
 date: 2022-01-15
 layout: post
 description: ""

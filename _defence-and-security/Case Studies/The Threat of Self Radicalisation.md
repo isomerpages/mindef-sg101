@@ -1,6 +1,6 @@
 ---
 title: The Threat of Self Radicalisation
-permalink: /defence-and-security/Case-Studies/the-threat-of-self-radicalisation
+permalink: /defence-and-security/case-studies/the-threat-of-self-radicalisation/
 description: ""
 third_nav_title: Case Studies
 ---
@@ -18,14 +18,14 @@ Self-radicalisation presents an increasing challenge to the authorities, especia
 
 In December 2020, a 16-year-old Singaporean youth was detained under the Internal Security Act (ISA) after making plans to attack Muslims at two mosques in Singapore. This was the youngest person then to be detained for terrorism-related activities and the first detainee who had been influenced by far-right extremist ideologies. The Secondary 4 student was influenced by the 2019 terror attacks at two mosques in Christchurch, New Zealand, having watched the livestreamed video of the attack and read the manifesto of the perpetrator. 
 
-![Assyafaah Mosque Yusof Ishak Mosque self-radicalisation planned attack](/images/Defence/Assyafaah%20Mosque%20and%20Yusof%20Ishak%20Mosque.png)
+![Assyafaah Mosque Yusof Ishak Mosque self-radicalisation planned attack](/images/defence/assyafaah%20mosque%20and%20yusof%20ishak%20mosque.png)
 *Image: Singapore Terrorism Threat Assessment Report 2021, MHA.*
 
 A 22-year-old Singaporean became the first woman to be detained under the ISA for radicalisation in 2017. She was a contract infant care assistant with a PCF Sparkletots Preschool, and began to be radicalised in 2013 by online ISIS propaganda. She had been planning to travel to Syria with her young child and was looking for an ISIS supporter to marry.
 
 A 20-year-old Singaporean was detained in March 2021. Driven by his radicalised views of the Israel-Palestine conflict, he had made plans and preparations to conduct a knife attack on Jews at a synagogue in Singapore. He had been enraged by the Israel-Palestine conflict and made plans to travel to Gaza to join the fight against Israel.
 
-![planned attack replica weapons terrorism self-radicalisation](/images/Defence/Replica%20weapons.png)
+![planned attack replica weapons terrorism self-radicalisation](/images/defence/replica%20weapons.png)
 *Image: Singapore Terrorism Threat Assessment Report 2021, MHA.*
 
 In August 2020, a 34-year-old Singaporean housewife and former religious teacher was issued with a Restriction Order (RO) under the ISA after she was found to have been radicalised by her husband, and had supported his intentions to join and fight for ISIS in Syria. In April 2021, she was detained after an escalation in her radical behaviour and involvement in activities prejudicial to Singapore’s security.
@@ -35,12 +35,12 @@ These multiple instances of self-radicalisation show that it is not limited to a
 
 To this end, the role of a vigilant citizenry is vital. The Home Team conducts roadshows to reach out and engage the community to learn about the terrorism threat and watch for signs of radicalisation within members of their own communities, such as the consumption of radical materials, posting of such content on their social media and withdrawal from social life.
 
-![](/images/Defence/SGSecure%20roadshow.png)
+![](/images/defence/sgsecure%20roadshow.png)
 *Image: Singapore Terrorism Threat Assessment Report 2021, MHA.*
 
 As radicalisation is not limited to any religion or ethnic group, Singapore has also moved to deepen inter-religious and cross-cultural understanding as well as re-integrate those who have been radicalised back into society with the support of community and religious leaders. Additionally, the government has taken swift action to counter hate speech and moved to ban religious speakers espousing views that incite hatred for another race or religion. For instance, the Government banned a Christian preacher from preaching in Singapore following inappropriate remarks about Muslims he made in a sermon in Singapore. 
 
-![](/images/Defence/Interfaith%20discussion%20sessions.png)
+![](/images/defence/interfaith%20discussion%20sessions.png)
 
 #### The Community’s Response to Terrorism and Self-radicalisation: SGSecure
 

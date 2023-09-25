@@ -1,6 +1,6 @@
 ---
 title: Toa Payoh's Dragon Playground
-permalink: /resources/connexionsg/ToaPayohDragonPlayground/
+permalink: /resources/connexionsg/toapayohdragonplayground/
 date: 2023-02-23
 layout: post
 description: ""

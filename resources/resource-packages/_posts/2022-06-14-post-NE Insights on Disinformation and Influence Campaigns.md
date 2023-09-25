@@ -1,6 +1,6 @@
 ---
 title: NE Insights on Disinformation and Influence Campaigns
-permalink: /resources/resource-packages/DisinformationAndInfluenceCampaigns
+permalink: /resources/resource-packages/disinformationandinfluencecampaigns/
 date: 2022-06-14
 layout: post
 description: ""
@@ -11,6 +11,6 @@ For more information on countering foreign interference, go to: [https://www.mha
 
 Download the package:
 
-[03/22 NE Insights on Disinformation and Influence Campaigns](/files/03_22%20NE%20Insights%20on%20Disinformation%20and%20Influence%20Campaigns.pdf)
+[03/22 NE Insights on Disinformation and Influence Campaigns](/files/03_22%20ne%20insights%20on%20disinformation%20and%20influence%20campaigns.pdf)
 
-[Slides on Disinformation and Influence Campaigns](/files/Slides%20on%20Disinformation%20and%20Influence%20Campaigns_.pdf)
+[Slides on Disinformation and Influence Campaigns](/files/slides%20on%20disinformation%20and%20influence%20campaigns_.pdf)

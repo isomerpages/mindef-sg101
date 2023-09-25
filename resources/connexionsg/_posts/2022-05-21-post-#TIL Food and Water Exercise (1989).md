@@ -1,11 +1,11 @@
 ---
 title: "#TIL Food and Water Exercise (1989)"
-permalink: /resources/connexionsg/Foodandwaterexercise
+permalink: /resources/connexionsg/foodandwaterexercise/
 date: 2022-05-21
 layout: post
 description: ""
 ---
-![](/images/connexionsg/Food%20and%20water%20exercise.jpg)
+![](/images/connexionsg/food%20and%20water%20exercise.jpg)
 📷: Food and water exercise, Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
 
 #TIL that in June 1989, Singapore held a week-long emergency food and water exercise, which was then the largest held so far, covering nearly a million people in 18 constituencies. It was also the first time two emergency plans were held together, making it more realistic.

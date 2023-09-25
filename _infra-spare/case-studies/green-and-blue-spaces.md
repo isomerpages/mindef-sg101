@@ -1,6 +1,6 @@
 ---
 title: Green and Blue Spaces
-permalink: /infra/case-studies/green
+permalink: /infra/case-studies/green/
 third_nav_title: Case Studies
 ---
 #### Green and Blue Spaces
@@ -45,7 +45,7 @@ Yet, Singapore always has to negotiate the balance between greenery and preservi
 
 This balancing act can also be seen in our management of nature reserves as well. Singapore has safeguarded 7,800ha of land as nature reserves, areas, and parks, as well as green spaces such as parks and park connectors. However, our limited land and physical constraints mean that we have had to develop some green areas into urban spaces.
 
-![Alt text for image on Isomer site](/images/infrastructure/case-studies-urban-planning/Screenshot%202021-07787.png)
+![Alt text for image on Isomer site](/images/infrastructure/case-studies-urban-planning/screenshot%202021-07787.png)
 
 For instance, the 30-hectare Lentor Forest was cleared for private housing in 2016. The construction of Tengah – Singapore’s newest town – also required about 90 per cent of the original forest in the area to be removed. In light of these developments, the public increasingly called for the need to preserve the country’s natural greenery.
 

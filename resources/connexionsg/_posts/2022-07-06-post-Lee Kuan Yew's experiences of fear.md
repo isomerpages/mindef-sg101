@@ -5,7 +5,7 @@ date: 2022-07-06
 layout: post
 description: ""
 ---
-![](/images/connexionsg/LKY%20Speech.jpg)
+![](/images/connexionsg/lky%20speech.jpg)
 📷: Ministry of Information, Communications and the Arts Collection, courtesy of National Archives of Singapore
 
 “I have experienced fear. People in Singapore were terrified in February 1942 when Japanese troops captured Singapore, and in 1964 when race riots caused panic and fear. In 1968 when Britain announced their troop withdrawal from Singapore… In each crisis, people and leaders shared this worry for their future. This deep sense of crisis helped us rise to the challenge.”

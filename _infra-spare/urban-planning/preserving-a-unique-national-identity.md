@@ -1,6 +1,6 @@
 ---
 title: Preserving A Unique National Identity
-permalink: /infra/urban-planning/identity
+permalink: /infra/urban-planning/identity/
 third_nav_title: Urban Planning
 ---
 #### Preserving A Unique National Identity

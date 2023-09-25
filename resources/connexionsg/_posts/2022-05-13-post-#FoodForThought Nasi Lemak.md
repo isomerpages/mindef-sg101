@@ -1,6 +1,6 @@
 ---
 title: "#FoodForThought Nasi Lemak"
-permalink: /resources/connexionsg/NasiLemak
+permalink: /resources/connexionsg/nasilemak/
 date: 2022-05-13
 layout: post
 description: ""

@@ -1,11 +1,11 @@
 ---
 title: Earth Day
-permalink: /resources/connexionsg/EarthDay
+permalink: /resources/connexionsg/earthday/
 date: 2022-04-22
 layout: post
 description: ""
 ---
-![](/images/FB%20-%20world%20earth%20day.jpg)
+![](/images/fb%20-%20world%20earth%20day.jpg)
 
 In Singapore, we take for granted that electricity comes through at the flick of a switch. Blackouts are now such a rarity that some of us voluntarily have them at Earth Hour or reduce our use of electricity for #EarthDay
 

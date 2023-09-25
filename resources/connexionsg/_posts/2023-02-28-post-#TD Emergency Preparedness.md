@@ -1,12 +1,12 @@
 ---
 title: "#TD Emergency Preparedness"
-permalink: /resources/connexionsg/EmergencyPreparedness/
+permalink: /resources/connexionsg/emergencypreparedness/
 date: 2023-02-28
 layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/Emergency%20Preparedness.png)
+![](/images/connexionsg/2023/emergency%20preparedness.png)
 [📷] Ready Bag (SCDF Emergency Handbook)
 
 

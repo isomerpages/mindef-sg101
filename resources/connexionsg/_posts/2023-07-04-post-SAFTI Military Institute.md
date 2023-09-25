@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/saftimi.PNG)
+![](/images/connexionsg/2023/saftimi.png)
 
 #TriviaTuesday: SAFTI MI used to be an open camp, and visitors could go to the two-storey SAFTI MI library to return National Library Board books.
 

@@ -1,11 +1,11 @@
 ---
 title: "#ChallengeAccepted Singapore's Urban Planning"
-permalink: /resources/connexionsg/SGurbanplanning
+permalink: /resources/connexionsg/sgurbanplanning/
 date: 2022-06-21
 layout: post
 description: ""
 ---
-![](/images/connexionsg/2022/SG%20Urban%20Planning.jpg)
+![](/images/connexionsg/2022/sg%20urban%20planning.jpg)
 📷: URA / 2022 Long Term Plan Review
 
 As a small city-state with limited land, Singapore doesn’t have the luxury of space for all our different needs. How might we cram in more homes, schools, hospitals, offices, industries, transport for more people? How do we balance building facilities with preserving nature? And how do we account for changes the future can bring?

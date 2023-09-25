@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2022/Raja.jpg)📷: Then Minister for Foreign Affairs Mr S. Rajaratnam (1965); Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
+![](/images/connexionsg/2022/raja.jpg)📷: Then Minister for Foreign Affairs Mr S. Rajaratnam (1965); Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
 
 TIL Even in 1965, it was necessary for a newly independent Singapore to stick to a foreign policy of non-alignment.
 

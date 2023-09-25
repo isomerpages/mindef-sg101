@@ -1,6 +1,6 @@
 ---
 title: International Friendship Day
-permalink: /resources/connexionsg/InternationalFriendshipDay
+permalink: /resources/connexionsg/internationalfriendshipday/
 date: 2022-04-08
 layout: post
 description: ""
@@ -15,7 +15,7 @@ Southeast Asia is a region of great cultural, religious, linguistic and ethnic d
 
 Today, 55 years after its founding, ASEAN continues to carefully work through challenges in security, humanitarian aid and disaster relief, counter-terrorism and free trade. The grouping has grown to 10 nations today, cooperating through ASEAN meetings and ASEAN Defence Ministers Meeting (ADMM)/ADMM-Plus dialogues, to strengthen our region’s collective quest for security, prosperity and peace, in an increasingly uncertain world.
 
-![](/images/International%20Friendship%20Day.jpg)
+![](/images/international%20friendship%20day.jpg)
 
 📷: Foreign Ministers of the founding ASEAN nations, [ASEAN.org](https://asean.org/?fbclid=IwAR1B-YA1i8guFE0PyrLPCCGGLJecWxqmpKKFlLWlozKwHY2x9QjWawWT9hQ)
 

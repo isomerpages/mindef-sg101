@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/teamy%20the%20productivity%20bee.PNG)
+![](/images/connexionsg/2023/teamy%20the%20productivity%20bee.png)
 
 Singapore went on an industrialisation programme In the 1960s to create many jobs for our people: at that time, unemployment rates were high but global trade was expanding. The seeds of productivity that were sown early here bloomed into economic growth for our country over the coming decades.
 

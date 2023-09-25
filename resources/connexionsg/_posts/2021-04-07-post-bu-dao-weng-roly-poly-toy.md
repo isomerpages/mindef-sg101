@@ -1,7 +1,7 @@
 ---
 title: Bu Dao Weng Roly Poly Toy
 date: 2021-04-07
-permalink: /resources/connexionsg/budaoweng
+permalink: /resources/connexionsg/budaoweng/
 layout: post
 ---
 #TIL Today I Learnt that the 不倒翁 (bù dǎo wēng), also known as a roly-poly toy, is one of the oldest toys in the world. In Russia, it is known as a nevаlyashka ("untopply") or van'ka-vstan'ka ("Ivan-get-up"). In Japan, it is a okiagari-koboshi (“oki” = get up, “agari” = rise again).

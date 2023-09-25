@@ -1,6 +1,6 @@
 ---
 title: Kueh Bahulu
-permalink: /resources/connexionsg/kuehBahulu/
+permalink: /resources/connexionsg/kuehbahulu/
 date: 2023-01-27
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Eco Link at Bukit Timah Expressway
-permalink: /nature-and-environment/eco-link-at-bukit-timah
+permalink: /nature-and-environment/eco-link-at-bukit-timah/
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: Hawker Culture in Singapore
-permalink: /social-national-identity/case-studies/HawkerCultureinSG/
+permalink: /social-national-identity/case-studies/hawkercultureinsg/
 description: ""
 third_nav_title: Case Studies
 ---

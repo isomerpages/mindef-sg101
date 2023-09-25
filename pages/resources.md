@@ -1,6 +1,6 @@
 ---
 title: Resources
-permalink: /resourcesold
+permalink: /resourcesold/
 ---
 
 ## National Education Resources

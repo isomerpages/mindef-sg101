@@ -1,11 +1,11 @@
 ---
 title: "#SingaporesFirst Community Centre"
-permalink: /resources/connexionsg/TiongBahruCommunityCentre
+permalink: /resources/connexionsg/tiongbahrucommunitycentre/
 date: 2022-04-23
 layout: post
 description: ""
 ---
-![](/images/connexionsg/2022/Tiong%20Bahru%20Community%20Centre%20-%20NAS.jpg)
+![](/images/connexionsg/2022/tiong%20bahru%20community%20centre%20-%20nas.jpg)
 📸: National Archives of Singapore
 
 #SingaporesFirst community centre was Tiong Bahru Community Centre. In 1948, a few years after World War II, Tiong Bahru residents led by Lau Yew Hock, a prominent member of the community, proposed creating a space where they could make friends, learn skills, and share knowledge with one another.

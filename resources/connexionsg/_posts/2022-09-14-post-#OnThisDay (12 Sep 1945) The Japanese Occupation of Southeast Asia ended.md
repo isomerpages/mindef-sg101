@@ -1,12 +1,12 @@
 ---
 title: "#OnThisDay (12 Sep 1945) The Japanese Occupation of Southeast Asia ended"
-permalink: /resources/connexionsg/EndofJapaneseOccupation/
+permalink: /resources/connexionsg/endofjapaneseoccupation/
 date: 2022-09-14
 layout: post
 description: ""
 ---
 
-![](/images/connexionsg/2022/12%20Sep.jpg)
+![](/images/connexionsg/2022/12%20sep.jpg)
 Image credit: Ministry of Information, Communications and the Arts
 
 #OnThisDay (12 Sep 1945) the often brutal Japanese Occupation of Southeast Asia ended. The official surrender ceremony was held at the Municipal Building (later, Singapore’s City Hall and today’s National Gallery). There was widespread joy amongst the people who felt that they were free once again.

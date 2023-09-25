@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2022/Muruku%20IG.png)
+![](/images/connexionsg/2022/muruku%20ig.png)
 
 Murukku is a deep-fried snack that has its origins from the Indian subcontinent. Savoury and crunchy, the murukku is not only a favourite of the Indians, but also favoured by the Malays and Chinese alike.
 

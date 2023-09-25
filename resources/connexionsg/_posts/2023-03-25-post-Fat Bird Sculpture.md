@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/fat%20bird%20sculpture.JPG)
+![](/images/connexionsg/2023/fat%20bird%20sculpture.jpg)
 
 If you've been to Raffles Place, you'd probably recognise this big bronze bird sculpture outside UOB Plaza near Raffles Place, along the Singapore River.
 

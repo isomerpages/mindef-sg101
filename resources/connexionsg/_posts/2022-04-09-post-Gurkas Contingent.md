@@ -1,11 +1,11 @@
 ---
 title: Gurkas Contingent
-permalink: /resources/connexionsg/GurkasContingent
+permalink: /resources/connexionsg/gurkascontingent/
 date: 2022-04-09
 layout: post
 description: ""
 ---
-![](/images/Gurkas%20Contingent.jpg)
+![](/images/gurkas%20contingent.jpg)
 
 #OnThisDay (9 Apr) in 1949, the Gurkha Contingent was formed. Known for their toughness, alertness, discipline, resilience, fearlessness, and professionalism, the Gurkhas have played a part in our security for many decades.
 

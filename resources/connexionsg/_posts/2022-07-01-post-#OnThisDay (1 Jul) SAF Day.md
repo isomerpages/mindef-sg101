@@ -1,11 +1,11 @@
 ---
 title: "#OnThisDay (1 Jul) SAF Day"
-permalink: /resources/connexionsg/SAF-Day
+permalink: /resources/connexionsg/saf-day/
 date: 2022-07-01
 layout: post
 description: ""
 ---
-![](/images/connexionsg/2022/SAF%20Day.jpg)
+![](/images/connexionsg/2022/saf%20day.jpg)
 📷: Guard of Honour contingents at the SAF Day Parade 2021 at SAFTI Military Institute / MINDEF
 
 

@@ -1,6 +1,6 @@
 ---
 title: Growing Singapore's Green Economy
-permalink: /economy/Case-Studies/Growing-SG-Green-Economy/
+permalink: /economy/case-studies/growing-sg-green-economy/
 description: ""
 third_nav_title: Case Studies
 ---

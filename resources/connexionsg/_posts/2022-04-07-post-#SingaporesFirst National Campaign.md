@@ -1,11 +1,11 @@
 ---
 title: "#SingaporesFirst National Campaign"
-permalink: /resources/connexionsg/SGFirst-National-Campaign
+permalink: /resources/connexionsg/sgfirst-national-campaign/
 date: 2022-04-07
 layout: post
 description: ""
 ---
-![](/images/FB%20image%20(old).jpg)
+![](/images/fb%20image%20(old).jpg)
 
 Not so long ago, in trying to shape our nation, campaigns were a big thing in Singapore. One study counted sixty-six national campaigns in just 24 years (1958 to 1982)!
 

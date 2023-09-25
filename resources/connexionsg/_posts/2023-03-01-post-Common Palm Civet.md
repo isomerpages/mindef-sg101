@@ -1,12 +1,12 @@
 ---
 title: Common Palm Civet
-permalink: /resources/connexionsg/CommonPalmCivet/
+permalink: /resources/connexionsg/commonpalmcivet/
 date: 2023-03-01
 layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/Common%20Palm%20Civet.png)
+![](/images/connexionsg/2023/common%20palm%20civet.png)
 
 Ever caught a whiff of pandan despite not having any pandan plants in the area?
 

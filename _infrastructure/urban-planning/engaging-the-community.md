@@ -1,6 +1,6 @@
 ---
 title: Engaging the Community
-permalink: /infrastructure/urban-planning/engaging
+permalink: /infrastructure/urban-planning/engaging/
 third_nav_title: Urban Planning
 ---
 #### Engaging The Community

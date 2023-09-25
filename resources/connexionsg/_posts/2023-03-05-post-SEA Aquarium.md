@@ -1,12 +1,12 @@
 ---
 title: SEA Aquarium
-permalink: /resources/connexionsg/SEAAquarium/
+permalink: /resources/connexionsg/seaaquarium/
 date: 2023-03-05
 layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/SEA%20Aquarium.png)
+![](/images/connexionsg/2023/sea%20aquarium.png)
 
 Wondering how to spend a rainy #SundayFunday? ☔
 

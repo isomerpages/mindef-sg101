@@ -16,7 +16,7 @@ Below are some resources on Total Defence which you may find useful for your eng
 
 ****
 #### **Total Defence Sandbox**
-![Total Defence Sandbox](/images/Total%20Defence%20Sandbox.jpg)
+![Total Defence Sandbox](/images/total%20defence%20sandbox.jpg)
 
 The Total Defence Sandbox seeks ground-up innovation from Singaporeans especially youths to start initiatives that put Total Defence into action. The Total Defence Sandbox invites everyone to share ideas on Total Defence and aims to nurture these ideas and eventually match ideas with partners who could support the implementation or amplification of their efforts.
 
@@ -35,9 +35,9 @@ Submit your ideas [here](https://go.gov.sg/tdsandbox)!
 
 Featuring celebrities such as Tosh Zhang, along with Mister Young and Colin Tan from Power 98, Jimmy Koh from 88.3JIA and more, the video series aims to further engage youths on how they can play a part in the fight against terrorism and climate change.
 
-Watch the video series [here](https://go.gov.sg/mmrpgvideoseries)! 
+Watch the video series [here](https://go.gov.sg/mmrpgvideoseries)! (Episode 1 and 2 are out!)
 
-Stay tuned. Episode 2 and 3 coming soon!
+Stay tuned. Episode 3 (finale) coming soon!
 
 ****
 #### **Total Defence Tower Defence Game**
@@ -57,7 +57,7 @@ Check out the game [here](https://go.gov.sg/tdtdg)!
 ****
 #### **Total Defence 2023 Campaign Poster**
 
-![Total Defence 2023 Campaign Poster](/images/TD2023%20Poster%20with%20Frame%20Final.jpg)
+![Total Defence 2023 Campaign Poster](/images/td2023%20poster%20with%20frame%20final.jpg)
 
 The theme of the Total Defence campaign and poster is "Together We Keep Singapore Strong" to remind us that everyone has a part to play!
 
@@ -106,14 +106,14 @@ The Total Defence Day Video 2023 is also available on [We Are Total Defence (WAT
 
 You may also check out the previous years' Total Defence Video Messages below:
 
-**Minister for Defence's Total Defence Day 2022 Message**. Download the transcript [here](/files/Transcript%20-%20Minister%20for%20Defence%20Total%20Defence%20Day%202022%20Message.pdf).
+**Minister for Defence's Total Defence Day 2022 Message**. Download the transcript [here](/files/transcript%20-%20minister%20for%20defence%20total%20defence%20day%202022%20message.pdf).
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7zzFPeTDa5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ****
 
-**Minister for Defence's Total Defence Day 2021 Message**. Download the transcript [here](/files/Transcript%20-%20Minister%20for%20Defence%20Total%20Defence%20Day%202021%20Message.pdf).
+**Minister for Defence's Total Defence Day 2021 Message**. Download the transcript [here](/files/transcript%20-%20minister%20for%20defence%20total%20defence%20day%202021%20message.pdf).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hG7KGkZzLAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ****
@@ -122,7 +122,7 @@ You may find past speeches and press releases on Total Defence [here](https://ww
 
 ****
 #### **Total Defence Badge Programme**
-![Total Defence Badge (Gold, Silver, Bronze)](/images/TD%20Badge%20(Gold,Silver,Bronze)%202023.png)
+![Total Defence Badge (Gold, Silver, Bronze)](/images/td%20badge%20(gold,silver,bronze)%202023.png)
 The Total Defence Programme for Uniformed Groups (UGs) aims to promote awareness and involvement in Total Defence by UGs for the attainment of different levels (Bronze, Silver and Gold Badges) of the programme. The refreshed programme provides more opportunities for UG cadets to put Total Defence into action with a greater emphasis on practical emergency preparedness skills, self-directed learning and active citizenry through volunteering. 
 
 For more details and to download the Facilitation Guide, please click [here](https://drive.google.com/drive/folders/1fuABBH_EteJ_aimlelRBTp8n7IDzbEpd?usp=sharing_eil_m&amp;ts=63155ae6). Schools may also write in directly to nexus@defence.gov.sg to request for the badges for the non-UG students.
@@ -137,7 +137,7 @@ You may find more TD resources and Activities such as Total Defence Song, Total 
 
 #### **Useful Videos**
 * **ciNE65 Short Film Competition** aims to capture our Singaporean identity through the lenses of local budding film-makers. Launched by Nexus in July 2011, it encourages aspiring film-makers to tell their Singapore story and what Singapore means to them. Through ciNE65, Nexus hopes to harness the potential of short films to touch the hearts and minds of Singaporeans. You may view the past ciNE65 films [here](https://www.youtube.com/user/cine65sg). Do remember to subscribe to this channel!
-* **N.E.mation!** is an annual national digital animation and storyboard competition for students and youths to express their thoughts about Total Defence. View all N.E.mation! videos from past seasons&nbsp;[here](https://www.youtube.com/user/NEmators). You may also use [this guide](/files/NEmation%20clips%20Facilitation%20Guide.pdf) to facilitate discussions based on the N.E.mation! clips.
+* **N.E.mation!** is an annual national digital animation and storyboard competition for students and youths to express their thoughts about Total Defence. View all N.E.mation! videos from past seasons&nbsp;[here](https://www.youtube.com/user/NEmators). You may also use [this guide](/files/nemation%20clips%20facilitation%20guide.pdf) to facilitate discussions based on the N.E.mation! clips.
 ****
 
 #### **Useful Articles**
@@ -151,7 +151,7 @@ Read the full article [here](/files/sea%20games%20commentary%20-%20sports%20and%
 #### **Useful Reports**
 **RSIS Commentary - "Total Defence in Action - Singapore's Response to the COVID-19 Pandemic", National Security Studies Programme (NSSP) Research Report**. 
 
-Singapore's Total Defence Framework has helped to rally the country and facilitated a whole-of-country response to the COVID-19 pandemic. The wide-ranging and multi-sectoral effects brought about by the pandemic underscores Singapore's need for a coordinated, cross-domain response to national security threats. Total Defence remains salient and critical to Singapore's national defence posture. Download the full report [here](/files/packages/2023/TD%20in%20Action%20-%20SG's%20Response%20to%20COVID-19%20Pandemic_%20NSSP%20Research%20Report.pdf)
+Singapore's Total Defence Framework has helped to rally the country and facilitated a whole-of-country response to the COVID-19 pandemic. The wide-ranging and multi-sectoral effects brought about by the pandemic underscores Singapore's need for a coordinated, cross-domain response to national security threats. Total Defence remains salient and critical to Singapore's national defence posture. Download the full report [here](/files/packages/2023/td%20in%20action%20-%20sg's%20response%20to%20covid-19%20pandemic_%20nssp%20research%20report.pdf)
 
 ****
 

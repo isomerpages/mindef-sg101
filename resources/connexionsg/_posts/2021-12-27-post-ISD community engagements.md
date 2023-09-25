@@ -1,6 +1,6 @@
 ---
 title: ISD community engagements
-permalink: /resources/connexionsg/ISDcommunityengagements
+permalink: /resources/connexionsg/isdcommunityengagements/
 date: 2021-12-27
 layout: post
 description: ""

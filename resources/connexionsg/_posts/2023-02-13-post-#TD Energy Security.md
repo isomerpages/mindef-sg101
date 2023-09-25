@@ -1,12 +1,12 @@
 ---
 title: "#TD Energy Security"
-permalink: /resources/connexionsg/TDEnergySecurity/
+permalink: /resources/connexionsg/tdenergysecurity/
 date: 2023-02-13
 layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/Energy%20Security.png)
+![](/images/connexionsg/2023/energy%20security.png)
 
 As Singapore is a small country with no natural resources, we import almost all our fuel and have limited energy options. At present, Singapore relies on imported natural gas for almost all our electricity production. These comprise Piped Natural Gas from Indonesia and Malaysia, and Liquified Natural Gas from around the world.
 

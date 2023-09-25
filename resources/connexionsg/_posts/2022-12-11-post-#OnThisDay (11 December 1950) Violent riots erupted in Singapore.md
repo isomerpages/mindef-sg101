@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/Riots.jpg)
+![](/images/connexionsg/2023/riots.jpg)
 📷: A member of the riot squad trying to stop a rioter during the Maria Hertogh riot. (NAS)
 
 #OnThisDay (11 December 1950) violent riots erupted in Singapore following tensions over the custody battle of Maria Hertogh, a 13-year old girl born to a Dutch-Eurasian Roman Catholic family (the Hertoghs) and placed in the care of a family friend, Che Aminah, during World War II. Aminah raised Maria as a Muslim and renamed her Nadra binte Ma’arof. When the Hertoghs returned to the Netherlands after the war, they decided to search for Maria and located her in Aminah’s hometown in Terengganu, Malaya. The Hertoghs commenced legal proceedings to reclaim Maria through the Dutch authorities. There was intense public scrutiny and interest in Maria’s case. The court awarded the custody of Maria to her birth parents but Aminah applied to appeal against the decision. During this period, Maria was housed temporarily at a Catholic convent.

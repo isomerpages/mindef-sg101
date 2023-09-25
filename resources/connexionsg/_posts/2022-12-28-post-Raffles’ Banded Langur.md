@@ -1,6 +1,6 @@
 ---
 title: Raffles’ Banded Langur
-permalink: /resources/connexionsg/RafflesBandedLangur/
+permalink: /resources/connexionsg/rafflesbandedlangur/
 date: 2022-12-28
 layout: post
 description: ""

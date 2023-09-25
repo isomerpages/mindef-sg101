@@ -15,8 +15,8 @@ Total Defence remains relevant to deal with the ever-evolving threats and challe
 
 Every Singaporean has a part to play in our daily lives to ensure that Singapore is prepared for crises or disruptions, and that we remain resilient and united. 
 
-[Total Defence Day 2023 NE Engagement Package.PDF](/files/Total%20Defence%20Day%202023%20NE%20Engagement%20Package.pdf)
+[Total Defence Day 2023 NE Engagement Package.PDF](/files/total%20defence%20day%202023%20ne%20engagement%20package.pdf)
 
-[Notes for Total Defence Day 2023 NE Engagement Package.pdf](/files/Notes%20for%20Total%20Defence%20Day%202023%20NE%20Engagement%20Package.pdf)
+[Notes for Total Defence Day 2023 NE Engagement Package.pdf](/files/notes%20for%20total%20defence%20day%202023%20ne%20engagement%20package.pdf)
 
 You may use this **engagement package** and its **accompanying notes** to discuss or better understand the relevance of Total Defence and how each of us can play a part in keeping Singapore strong, amidst the challenges and threats we face.

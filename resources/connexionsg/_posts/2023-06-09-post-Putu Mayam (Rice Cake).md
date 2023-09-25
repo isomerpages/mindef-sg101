@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/putumayam.PNG)
+![](/images/connexionsg/2023/putumayam.png)
 
 When was the last time you ate Putu Mayam?
 

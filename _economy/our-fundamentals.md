@@ -2,7 +2,7 @@
 title: Our Fundamentals
 permalink: /economy/our-fundamentals/
 ---
-![Alt text for image on Isomer site](/images/Screenshot%202020-10-19.png)
+![Alt text for image on Isomer site](/images/screenshot%202020-10-19.png)
 
 #### Relevant to the world
 
@@ -24,5 +24,5 @@ A strong economy is key to sustaining social stability and mobility in Singapore
 
 To maximise our economic opportunities, Singapore cultivates diverse engines of growth so that we can transform our economy quickly, and cope with sudden disruptions and uncertainties. At the same time, Singapore strengthens trust and collaboration between our government, employers and unions, so that solutions can be found for workers and companies to always stay fit for purpose and progress. By being psychologically prepared, sharpening our skills and raising our productivity, we can create a vibrant and innovative economy in which Singaporeans can thrive and prosper in all circumstances.
 
-![Alt text for image on Isomer site](/images/DSC0964.jpg)
-(Image: [Maritime Port Authority of Singapore](https://www.mpa.gov.sg/web/portal/home/port-of-singapore))
+![Alt text for image on Isomer site](/images/dsc0964.jpg)
+(Image: Maritime & Port Authority of Singapore)

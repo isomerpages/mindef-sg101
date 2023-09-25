@@ -1,12 +1,12 @@
 ---
 title: Brushing Teeth After Recess in Primary School
-permalink: /resources/connexionsg/BrushingTeethAfterRecess/
+permalink: /resources/connexionsg/brushingteethafterrecess/
 date: 2022-11-17
 layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2022/Brushing%20Teeth%20After%20Recess%20in%20Primary%20School.png)
+![](/images/connexionsg/2022/brushing%20teeth%20after%20recess%20in%20primary%20school.png)
 
 #ThrowbackThursday: Here's something that is no longer given out in schools today, but was vital to students’ oral hygiene practices of the 1980s and early 1990s.
 

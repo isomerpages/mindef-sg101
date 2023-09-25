@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/botanic%20gardens%20ig.PNG)
+![](/images/connexionsg/2023/botanic%20gardens%20ig.png)
 
 
 Just about five minutes away from Orchard Road is a place that money cannot buy – the Singapore Botanic Gardens – a lush sanctuary for over 10,000 different species of rare and exotic orchids, vibrant tropical flowers, majestic heritage trees and aromatic herbs.

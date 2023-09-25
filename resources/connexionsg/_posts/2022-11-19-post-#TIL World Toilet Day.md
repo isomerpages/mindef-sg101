@@ -1,12 +1,12 @@
 ---
 title: "#TIL World Toilet Day"
-permalink: /resources/connexionsg/WorldToiletDay/
+permalink: /resources/connexionsg/worldtoiletday/
 date: 2022-11-19
 layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2022/World%20Toilet.jpg)
+![](/images/connexionsg/2022/world%20toilet.jpg)
 📷: View of sanitation in rural villages in 1952. Holes are dug in the ground to deposit human waste and lime powder (in the buckets) are sprinkled over the waste before being covered back with earth; via Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 
 #TIL that Singapore initiated a resolution at the United Nations in 2013, which led to the designation of 19 November as #WorldToiletDay: reflecting the international community’s recognition of the importance of improved sanitation for all.

@@ -1,7 +1,7 @@
 ---
 title: Singapore Botanic Gardens Was Recognised As A Unesco World Heritage Site
 date: 2021-07-04
-permalink: /resources/connexionsg/botanicgardens
+permalink: /resources/connexionsg/botanicgardens/
 layout: post
 ---
 #onthisday six years ago, Singapore Botanic Gardens was recognised as a UNESCO World Heritage Site, joining more than a thousand others Unesco World Heritage Sites around the world. It’s the only tropical botanic garden, and the third botanic gardens in the world, after Orto botanico di Padova in Italy and the Royal Botanic Gardens, Kew in England.

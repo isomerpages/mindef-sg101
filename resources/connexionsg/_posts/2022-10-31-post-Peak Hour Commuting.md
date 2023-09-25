@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2022/Peak%20hour%20Commuting.png)
+![](/images/connexionsg/2022/peak%20hour%20commuting.png)
 
 As Singapore becomes more COVID-resilient, most people have returned to their workplace. Heading back to the office in the morning and you sometimes find the trains and/or buses too crowded?
 

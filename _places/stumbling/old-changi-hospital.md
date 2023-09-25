@@ -1,6 +1,6 @@
 ---
 title: Old Changi Hospital
-permalink: /places/stumbling/old-changi-hospital
+permalink: /places/stumbling/old-changi-hospital/
 third_nav_title: Stumbling
 ---
 ### Changi's (Not So Hidden) Hospital

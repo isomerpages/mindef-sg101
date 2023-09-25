@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/Our%20Neighbourhood%20Jurong.jpg)
+![](/images/connexionsg/2023/our%20neighbourhood%20jurong.jpg)
 📷: Inche Yusof Ishak (then Yang di-Pertuan Negara), Mr Lee Kuan Yew, Mr Hon Sui Sen, and Dr Phay Seng Whatt surveying the landscape which would become the Jurong Industrial Estate in 1964. Source: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 
 

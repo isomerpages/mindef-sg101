@@ -1,12 +1,12 @@
 ---
 title: Marina Bay Sands
-permalink: /resources/connexionsg/MarinaBaySands/
+permalink: /resources/connexionsg/marinabaysands/
 date: 2022-10-18
 layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2022/Marina%20Bay%20Sands.jpg)
+![](/images/connexionsg/2022/marina%20bay%20sands.jpg)
 
 Did you know that if you drank the recommended amount of six to eight glasses of water a day from the MBS infinity pool, you would take more than twenty lifetimes to finish the entire pool?  
   

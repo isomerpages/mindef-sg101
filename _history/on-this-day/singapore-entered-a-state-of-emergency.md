@@ -1,6 +1,6 @@
 ---
 title: Singapore Entered A State of Emergency
-permalink: /history/on-this-day/singapore-entered-a
+permalink: /history/on-this-day/singapore-entered-a/
 third_nav_title: On This Day
 ---
 ### #onthisday in 1948, Singapore entered a state of emergency. This came in response to the ongoing armed struggle by the Communist Party of Malaya (CPM) in Malaya and Singapore. ###

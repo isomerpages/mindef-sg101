@@ -1,6 +1,6 @@
 ---
 title: Sports Scene in Singapore
-permalink: /social-national-identity/case-studies/SportsSceneinSG/
+permalink: /social-national-identity/case-studies/sportssceneinsg/
 description: ""
 third_nav_title: Case Studies
 ---

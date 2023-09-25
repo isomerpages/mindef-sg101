@@ -1,7 +1,7 @@
 ---
 title: Types of Kopitiam Kopi
 date: 2021-06-10
-permalink: /resources/infographics/kopitiam-kopi
+permalink: /resources/infographics/kopitiam-kopi/
 layout: post
 ---
 

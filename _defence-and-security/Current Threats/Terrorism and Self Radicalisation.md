@@ -1,6 +1,6 @@
 ---
 title: Terrorism and Self Radicalisation
-permalink: /defence-and-security/Current-Threats/terrorism-and-self-radicalisation
+permalink: /defence-and-security/current-threats/terrorism-and-self-radicalisation/
 description: ""
 third_nav_title: Current Threats
 ---
@@ -11,7 +11,7 @@ The events of September 11, 2001 (9/11) in the United States (US) underscored th
 
 Closer to home, Al-Qaeda had forged links to its affiliate, the Jemaah Islamiyah (JI) group, in Southeast Asia in the 1980s and 1990s. JI intended to set up a pan-Islamic state in Southeast Asia and had a branch in Singapore. It even planned to construct truck bombs to mount suicide attacks on Singapore targets, but the perpetrators were arrested by Singapore authorities before the attacks were carried out. On 9 December 2001, the Internal Security Department (ISD) arrested six Singaporean JI members, thwarting plans to attack Yishun MRT station and several foreign embassies. In total, 36 persons were arrested during ISD’s operations against the JI group in 2001 and 2002.
 
-![Yishun mrt station Jemaah Islamiyah JI](/images/Defence/Yishun%20MRT.jpg)
+![Yishun mrt station Jemaah Islamiyah JI](/images/defence/yishun%20mrt.jpg)
 *Top to bottom left: JI members had taken videos of Yishun MRT Station and its surroundings in preparation for their attacks. Bottom right: Video recorder used by JI members during their reconnaissance. Screenshots: Internal Security Department (ISD).*
 
 The threat has not abated through the years. The Islamic State in Iraq and Syria (ISIS), which aims to establish a caliphate as an overarching global state over Muslims worldwide, remains a menace even though it has lost its territory in Iraq and Syria. 
@@ -27,7 +27,7 @@ With its sizeable Muslim population, Southeast Asia has been a target for ISIS, 
 
 In 2016, pro-ISIS terrorists in Indonesia (who received instructions from a Syrian-based Indonesian ISIS militant) planned a rocket attack on Marina Bay Sands from Batam, just 18km away from downtown Singapore. The attack was foiled with the arrest of six terror cell members by Indonesian police in August 2016.
 
-![MHA Terrorism Threat Assessment Report Islamist ISIS ](/images/Defence/STTAR2.jpg)
+![MHA Terrorism Threat Assessment Report Islamist ISIS ](/images/defence/sttar2.jpg)
 *Image: Singapore Terrorism Threat Assessment Report 2021, ISD*
 
 In recent years, far-right extremism has also emerged as a major terrorism concern overseas, and is the fastest-growing threat in some Western countries. This movement is inspired by ideologies such as neo-Nazism, neo-fascism and white nationalism. Many such groups believe that their race is inherently superior to others and that their country should only belong to a certain group of people. This has, in turn, led to problems such as anti-immigration and racial supremacist sentiments, resulting in serious cases of racism and racist violence. 
@@ -36,13 +36,13 @@ In 2020, a 16-year-old Singaporean youth made plans to attack Muslims at two mos
 
 In Singapore, the main domestic terrorism threat comes from self-radicalised actors influenced by violent extremist materials online. The use of online and digital communications networks to recruit terrorists makes it difficult for authorities to detect the radicalised individuals. The trend of self-radicalisation in Singapore saw a sharp spike after 2015, following the emergence of ISIS. ISIS’ leadership and territorial losses in Syria and Iraq have not yet diminished the appeal of the group.  It is important that we remain vigilant against such threats. 
 
-[![](/images/Defence/OpenDoc%20Banners3.gif)](/defence-and-security/Case-Studies/the-threat-of-self-radicalisation)
+[![](/images/defence/opendoc%20banners3.gif)](/defence-and-security/Case-Studies/the-threat-of-self-radicalisation)
 
 #### Safeguarding Singapore Against Terrorism
 
 The Government has taken significant steps to enhance our counter-terrorism capabilities. Part of the Singapore Police Force (SPF)’s enhanced response capabilities include the Emergency Response Teams (ERTs) and Rapid Deployment Troops (RDTs). The ERTs patrol various locations, including iconic locations, locations with high footfall, and transport nodes. They are also trained to respond swiftly to neutralise threats. RDTs are equipped with tactical response motorcycles to navigate through traffic gridlock. The In-Situ Reaction Teams (IRTs) complement ERTs and RDTs, and are deployed at iconic areas with high footfall, such as Orchard Road and Marina Bay, to project deterrence and provide quick response.
 
-![](/images/Defence/ERT.jpg)
+![](/images/defence/ert.jpg)
 *An Emergency Response Team (ERT) from the Singapore Police Force (SPF) patrolling Raffles Place. Image: MHA.*
 
 Regular counter-terrorism exercises are also conducted to enhance operational preparedness. Some of these exercises are conducted with community stakeholders such as shopping malls, educational institutions, places of worship, and public transport facilities. Some of these exercises are also conducted jointly across agencies from the Home Team, such as the SPF and Singapore Civil Defence Force (SCDF), as well as with the SAF.
@@ -61,5 +61,5 @@ A ground-up volunteer group of Islamic scholars and teachers, known as the Relig
 
 Over the years, the RRG’s and ACG’s work have expanded to also include community outreach against the threat of self-radicalisation. The Home Team also teaches and encourages members of the community to be more aware of and look out for signs of individuals around us who might be at risk or have become radicalised.
 
-![Special Operations Task Force SOTF counter-terrorism exercise](/images/Defence/SOTF.jpg)
+![Special Operations Task Force SOTF counter-terrorism exercise](/images/defence/sotf.jpg)
 *Troopers from the Singapore Armed Forces’ (SAF) Special Operations Task Force (SOTF) preparing to storm the room during a counter-terrorism exercise conducted by the SAF at the F1 Pit Building on 2 August 2021. Image: MINDEF.*

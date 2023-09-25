@@ -1,11 +1,11 @@
 ---
 title: "#YouShouldKnow Ants in Singapore"
-permalink: /resources/connexionsg/AntsinSingapore/
+permalink: /resources/connexionsg/antsinsingapore/
 date: 2022-09-14
 layout: post
 description: ""
 ---
-![](/images/connexionsg/2022/Ant.jpg)
+![](/images/connexionsg/2022/ant.jpg)
 Image credit: Lee Kong Chian Natural History Museum (LKCNHM)
 
 Singapore was recently found to have more ant species than any other city in the world.

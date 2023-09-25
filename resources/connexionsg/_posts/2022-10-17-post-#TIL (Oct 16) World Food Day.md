@@ -1,12 +1,12 @@
 ---
 title: "#TIL (Oct 16) World Food Day"
-permalink: /resources/connexionsg/WorldFoodDay/
+permalink: /resources/connexionsg/worldfoodday/
 date: 2022-10-17
 layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2022/Food.jpg)
+![](/images/connexionsg/2022/food.jpg)
 📷: Screenshot of Singapore Food Agency's video on PM Lee’s LinkedIn page: https://go.gov.sg/pmleelinkedinpostonsgfoodfuture
 
 #TIL that the United Nation's annual World Food Day (Oct 16) commemorates the formation of the UN’s Food and Agriculture Organisation in 1945. It reminds us that even today, millions of people around the world are still suffering from hunger and malnutrition, and calls for sustainable food production. The theme for World Food Day 2022 is “leave no one behind”.

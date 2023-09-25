@@ -1,11 +1,11 @@
 ---
 title: "#TIL Mangroves"
-permalink: /resources/connexionsg/Mangroves
+permalink: /resources/connexionsg/mangroves/
 date: 2022-06-28
 layout: post
 description: ""
 ---
-![](/images/connexionsg/2022/Mangroves1.png)
+![](/images/connexionsg/2022/mangroves1.png)
 
 ![](/images/connexionsg/2022/mangroves2.png)
 

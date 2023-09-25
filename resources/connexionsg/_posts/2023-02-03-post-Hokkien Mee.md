@@ -1,6 +1,6 @@
 ---
 title: Hokkien Mee
-permalink: /resources/connexionsg/FriedHokkienPrawnNoodles/
+permalink: /resources/connexionsg/friedhokkienprawnnoodles/
 date: 2023-02-03
 layout: post
 description: ""

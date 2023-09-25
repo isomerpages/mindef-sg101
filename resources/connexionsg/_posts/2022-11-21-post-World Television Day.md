@@ -1,12 +1,12 @@
 ---
 title: World Television Day
-permalink: /resources/connexionsg/WorldTelevisionDay/
+permalink: /resources/connexionsg/worldtelevisionday/
 date: 2022-11-21
 layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2022/TV%20Day%201.jpg)
+![](/images/connexionsg/2022/tv%20day%201.jpg)
 📷 1:  Crowds watching the first telecast by Television Singapura outside the Victoria Memorial Hall in 1963. (Source: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore)
 
 It’s World Televison Day today (21 November), a day designated by the United Nations in 1996 to recognise television as a symbol of communication and globalisation, a “major tool in informing, channelling and affecting public opinion”. 
@@ -21,7 +21,7 @@ These days, the Internet and social media take centre stage in global communicat
 
 Source of statistics: We are Social Singapore 2022 Report.
 
-![](/images/connexionsg/2022/TV%20Day%202.jpg)
+![](/images/connexionsg/2022/tv%20day%202.jpg)
 📷 2: Then-Minister for Culture Mr S. Rajaratnam on television during the inauguration of Television Singapura Pilot Service in 1963. (Source: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore)
 
 Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.

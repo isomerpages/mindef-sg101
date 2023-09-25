@@ -1,6 +1,6 @@
 ---
 title: Learning from Recent Racial Incidents
-permalink: /social-national-identity/case-studies/learning
+permalink: /social-national-identity/case-studies/learning/
 third_nav_title: Case Studies
 ---
 #### Learning from Recent Racial Incidents
@@ -17,7 +17,7 @@ With the help of the Community Mediation Centre (CMC), both families voluntarily
 
 In 2012, Singaporean Amy Cheong made the headlines after she launched a racist tirade against Malays and their wedding practices. She disparaged Malays for holding weddings at void decks and mocked the divorce rates in the community. She was promptly fired from work and left Singapore after being shamed and threatened by netizens. A police report was made against her, but she was let off with a stern warning after issuing a public apology.
 
-![Alt text for image on Isomer site](/images/society/case-studies/Screenshot%202020-0.png)
+![Alt text for image on Isomer site](/images/society/case-studies/screenshot%202020-0.png)
 
 As Singapore welcomes a greater diversity of cultures, these two incidents have shown us how communication and consideration for other cultures can go a long way in building a harmonious society.
 
@@ -29,7 +29,7 @@ In 2016, a couple running the socio-political website, The Real Singapore, was c
 
 Then, in 2019, a post was uploaded to Facebook group “Complaint Singapore” claiming that police officers from the Public Transport Security Command (Transcom) unit practiced racial discrimination and targeted people by race. In the video, a Malay man was seen speaking aggressively to police officers, accusing them of checking mostly only Malays, but not other races.
 
-![Alt text for image on Isomer site](/images/society/case-studies/Screenshot%20202.png)Image: Screengrab / Full video can be seen [here](https://www.reddit.com/r/singapore/comments/cb956x/man_refuses_to_be_screened_by_transcom/)
+![Alt text for image on Isomer site](/images/society/case-studies/screenshot%20202.png)Image: Screengrab / Full video can be seen [here](https://www.reddit.com/r/singapore/comments/cb956x/man_refuses_to_be_screened_by_transcom/)
 
 The post led to many different responses from the public, with some agreeing that the police are biased, screening more people from a particular race in supposedly random checks, while others disagreed and thanked the police officers for their work.
 

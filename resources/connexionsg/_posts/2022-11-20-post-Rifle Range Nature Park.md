@@ -1,12 +1,12 @@
 ---
 title: Rifle Range Nature Park
-permalink: /resources/connexionsg/RifleRangeNaturePark/
+permalink: /resources/connexionsg/riflerangenaturepark/
 date: 2022-11-20
 layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2022/Rifle%20Range%20Nature%20Park%20IG%20post.png)
+![](/images/connexionsg/2022/rifle%20range%20nature%20park%20ig%20post.png)
 
  📷 Images credit: National Parks Board (@nparksbuzz)
 

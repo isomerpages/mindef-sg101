@@ -1,6 +1,6 @@
 ---
 title: Fishball Noodles
-permalink: /resources/connexionsg/FishballNoodles/
+permalink: /resources/connexionsg/fishballnoodles/
 date: 2023-02-10
 layout: post
 description: ""

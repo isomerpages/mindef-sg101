@@ -1,11 +1,11 @@
 ---
 title: Thinking Long-Term
-permalink: /infrastructure/constraints-and-challenges/longter
+permalink: /infrastructure/constraints-and-challenges/longter/
 third_nav_title: Constraints And Challenges
 ---
 #### Thinking Long Term
 
-![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/Screenshot%202021-07-5355.png)
+![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/screenshot%202021-07-5355.png)
 
 Thinking long-term has always been a crucial part of Singapore’s planning. This helps identify problems that could arise in the future, which allows policymakers take mitigating steps beforehand. As a result of our constant and consistent effort to think ahead, Singapore has maintained sustained economic growth and infrastructure development despite our lack of natural resources.
 
@@ -13,7 +13,7 @@ When we underwent a rapid industrialisation process from the 1960s to the 1980s,
 
 For instance, PUB worked closely with the Ministry of Trade and Industry (MTI), the Economic Development Board (EDB) and the Urban Redevelopment Authority (URA) of Singapore to estimate the power demand based on development plans and economic growth projections. Together, they formulated Long-term Power Station Development Plans that oversaw the construction of new power construction over a 10-20 year horizon.
 
-![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/Screenshot%202021-07-01%20at%201355.png)
+![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/screenshot%202021-07-01%20at%201355.png)
 
 <hr>
 
@@ -28,6 +28,6 @@ Singapore’s approach to building water resilience for the long haul started in
 
 ![Alt text for image on Isomer site](/images/4taps_sg.png)
 
-![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/Screenshot%202021-07-014646.png)
+![Alt text for image on Isomer site](/images/infrastructure/constraints-and-challenges/screenshot%202021-07-014646.png)
 
 <hr>

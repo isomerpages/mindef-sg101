@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/blood%20buddy.PNG)
+![](/images/connexionsg/2023/blood%20buddy.png)
 
 #Didyouknow that every hour of the day, 15 units of blood are used in Singapore to sustain the lives of those in emergencies, major surgeries, and those with medical conditions? 🩸
 

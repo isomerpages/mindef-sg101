@@ -1,11 +1,11 @@
 ---
 title: "#ChallengeAccepted: Gaining a foothold in the global market"
-permalink: /resources/connexionsg/Industralising/
+permalink: /resources/connexionsg/industralising/
 date: 2022-09-14
 layout: post
 description: ""
 ---
-![](/images/connexionsg/2022/9%20Sep.jpg)
+![](/images/connexionsg/2022/9%20sep.jpg)
 📸: Members of a Polish trade mission visiting the Jurong Industrial Estate, May 1966; Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
 
 When Singapore separated from Malaysia in 1965, we suddenly lost over 10 million consumers in a common market. Unemployment at that time was close to 9% — even before the British announced a withdrawal of troops from Singapore, which would leave thousands more without a job. How to grow our economy when we have no hinterland or natural resources?

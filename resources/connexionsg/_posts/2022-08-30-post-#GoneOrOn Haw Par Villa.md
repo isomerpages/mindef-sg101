@@ -6,25 +6,25 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2022/Panel%201%20-%20v2.png)
+![](/images/connexionsg/2022/panel%201%20-%20v2.png)
 
-![](/images/connexionsg/2022/Panel%202%20-%20v4.png)
+![](/images/connexionsg/2022/panel%202%20-%20v4.png)
 
-![](/images/connexionsg/2022/Panel%203%20-%20v4.png)
+![](/images/connexionsg/2022/panel%203%20-%20v4.png)
 
-![](/images/connexionsg/2022/Panel%204%20-%20v4.png)
+![](/images/connexionsg/2022/panel%204%20-%20v4.png)
 
-![](/images/connexionsg/2022/Panel%205%20-%20v4.png)
+![](/images/connexionsg/2022/panel%205%20-%20v4.png)
 
-![](/images/connexionsg/2022/Panel%206%20-%20v4.png)
+![](/images/connexionsg/2022/panel%206%20-%20v4.png)
 
-![](/images/connexionsg/2022/Panel%207%20-%20v4.png)
+![](/images/connexionsg/2022/panel%207%20-%20v4.png)
 
-![](/images/connexionsg/2022/Panel%208%20-%20v4.png)
+![](/images/connexionsg/2022/panel%208%20-%20v4.png)
 
-![](/images/connexionsg/2022/Panel%209%20-%20v4.png)
+![](/images/connexionsg/2022/panel%209%20-%20v4.png)
 
-![](/images/connexionsg/2022/Panel%2010%20-%20v3.png)
+![](/images/connexionsg/2022/panel%2010%20-%20v3.png)
 
 
 In the 1980s, Haw Par Villa was an early form of “edu-tainment” for Singaporean parents. A must-visit family outing where its most iconic attraction – The Ten Courts of Hell – had a vivid way of telling cautionary tales. Set inside a dark space, the statues in the Ten Courts of Hell preached messages of morals and Confucian ethics as well as Chinese mythology. And their gory stories left many Singaporean kids scared - and scarred - into behaving better.

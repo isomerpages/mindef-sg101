@@ -1,12 +1,12 @@
 ---
 title: "#EvenBetter Changi Terminal 5"
-permalink: /resources/connexionsg/ChangiTerminal5/
+permalink: /resources/connexionsg/changiterminal5/
 date: 2022-10-10
 layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2022/T5.jpg)
+![](/images/connexionsg/2022/t5.jpg)
 📸: An artist’s impression of the Changi East development, by Changi Airport Group
 
 When the COVID-19 pandemic drastically disrupted travel across the globe, plans for Changi Airport’s mega expansion at Terminal 5 (T5) were also affected.

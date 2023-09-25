@@ -1,7 +1,7 @@
 ---
 title: Names of Traditional Dress in Singapore
 date: 2021-08-21
-permalink: /resources/infographics/dress
+permalink: /resources/infographics/dress/
 layout: post
 ---
 

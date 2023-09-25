@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/kranji%20countryside.PNG)
+![](/images/connexionsg/2023/kranji%20countryside.png)
 
 Located in the northwestern part of Singapore, the Kranji precinct is where you can experience the great outdoors on a #SundayFunday. With farms, lush nature reserves and wildlife, you can expect to see a different and more peaceful side of Singapore in this sprawling rural area.
 

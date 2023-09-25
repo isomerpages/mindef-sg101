@@ -1,6 +1,6 @@
 ---
 title: Key Points on Ensuring Food Security in Singapore
-permalink: /resources/current-topics/EnsuringFoodSecurityinSingapore
+permalink: /resources/current-topics/ensuringfoodsecurityinsingapore/
 date: 2022-06-14
 layout: post
 description: ""
@@ -35,7 +35,7 @@ Produce | Annual Production | Local Production as % of Consumption |
 Data obtained from: Singapore Food Agency (SFA)
 
 
-![](/images/Common%20myths%20about%20frozen%20meat.jpg)
+![](/images/common%20myths%20about%20frozen%20meat.jpg)
 Source: Singapore Food Agency (SFA)
 
 
@@ -50,12 +50,12 @@ How will Singapore ensure we have enough food?
 Podcast on Keeping our Food Supply Secure (on the Camokakis app):
 [https://app.camokakis.sg/GTxG](https://app.camokakis.sg/GTxG)
 
-![](/images/Picture2.png)
+![](/images/picture2.png)
  
 Diversification of our food sources by importing from different countries.
 [https://www.facebook.com/ConnexionSG/posts/pfbid0A7Y7zSJcMincxHXzNGruxVYPaVCDPCPXLAkTZ12i1Q8o7V9dWyzZ2RbJKL1WYmsXl](https://www.facebook.com/ConnexionSG/posts/pfbid0A7Y7zSJcMincxHXzNGruxVYPaVCDPCPXLAkTZ12i1Q8o7V9dWyzZ2RbJKL1WYmsXl)
 
-![](/images/Picture3.png)
+![](/images/picture3.png)
 
 The world on your plate: So where does your food come from?
 [https://www.channelnewsasia.com/brandstudio/sgfoodsources](https://www.channelnewsasia.com/brandstudio/sgfoodsources)

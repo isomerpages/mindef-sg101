@@ -1,6 +1,6 @@
 ---
 title: How Singaporeans grew closer together following the passing of Mr Lee Kuan Yew
-permalink: /social-national-identity/case-studies/PassingofLKY/
+permalink: /social-national-identity/case-studies/passingoflky/
 description: ""
 third_nav_title: Case Studies
 ---

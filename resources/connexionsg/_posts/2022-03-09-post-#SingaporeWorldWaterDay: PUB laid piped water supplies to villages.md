@@ -1,6 +1,6 @@
 ---
 title: "#SingaporeWorldWaterDay: PUB laid piped water supplies to villages"
-permalink: /resources/connexionsg/SingaporeWorldWaterDay-PUB-laid-piped-water-supplies
+permalink: /resources/connexionsg/singaporeworldwaterday-pub-laid-piped-water-supplies/
 date: 2022-03-09
 layout: post
 description: ""

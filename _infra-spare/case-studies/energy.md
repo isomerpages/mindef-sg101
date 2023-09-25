@@ -1,11 +1,11 @@
 ---
 title: Energy
-permalink: /infra/case-studies/energy
+permalink: /infra/case-studies/energy/
 third_nav_title: Case Studies
 ---
 #### Energy
 
-![Alt text for image on Isomer site](/images/infrastructure/case-studies/Screenshot%202021-07-024242.png)
+![Alt text for image on Isomer site](/images/infrastructure/case-studies/screenshot%202021-07-024242.png)
 
 Energy is a vital resource that is indispensable to a country’s development. But Singapore does not possess any significant energy resources of our own, and we depend heavily on energy imports to meet our domestic needs.
 Singapore’s energy mix
@@ -18,7 +18,7 @@ But while we can procure what we need to keep our economy going and our hour hom
 
 #### Energy security
 
-![Alt text for image on Isomer site](/images/infrastructure/case-studies/Screenshot%202021-045435.png)Image: Singapore LNG
+![Alt text for image on Isomer site](/images/infrastructure/case-studies/screenshot%202021-045435.png)Image: Singapore LNG
 
 Currently, more than 95 per cent of Singapore’s electrical supply comes from natural gas. Most of our LNG supply is piped from Malaysia and Indonesia. This poses a key problem: a lack of diverse energy sources. Six of the existing gas contracts with Indonesia and Malaysia are due to expire between 2018 and 2029. And there is no guarantee if or when they will be renewed.
 
@@ -26,11 +26,11 @@ To reduce our over-reliance on just two main sources of LNG, we have been workin
 
 In 2013, Singapore opened the first LNG Terminal, a significant milestone in our quest to fortify our energy security. LNG supplies can now come from anywhere around the world and be stored at the terminal. The LNG terminal has enough capacity to meet our domestic needs even if the LNG agreements are new renewed. It was so successful that plans are now in place to build a second LNG terminal in the east.
 
-![Alt text for image on Isomer site](/images/infrastructure/case-studies/Screenshot%202021-0752525.png)
+![Alt text for image on Isomer site](/images/infrastructure/case-studies/screenshot%202021-0752525.png)
 
 #### Economic competitiveness
 
-![Alt text for image on Isomer site](/images/infrastructure/case-studies/Screenshot%202024655.png)
+![Alt text for image on Isomer site](/images/infrastructure/case-studies/screenshot%202024655.png)
 Image: Senoko Energy
 
 With a high dependence on energy imports, especially LNG, Singapore has little control over energy prices. LNG prices closely track oil prices, the result of commercial contracts that link LNG to oil. And because oil prices are set by the market and oil producers, Singapore is highly exposed to any volatility that could affect oil prices.
@@ -51,7 +51,7 @@ We cannot expect solar to fully replace LNG – even if all of Singapore was cov
 
 In 2019, then-Minister for Trade and Industry Chan Chun Sing announced that Singapore would ramp up our solar energy output even though it will be challenging.
 
-![Alt text for image on Isomer site](/images/infrastructure/case-studies/Screenshot%202021-07-045466.png)
+![Alt text for image on Isomer site](/images/infrastructure/case-studies/screenshot%202021-07-045466.png)
 
 Innovation lies at the heart of our clean energy push. Solar technology now may not be efficient, but with research and development and a drive to experiment and think out of the box, we hope we will be able to fully harness the sun’s power for our energy needs.
 
@@ -63,9 +63,9 @@ But the reality is that any choice we make will involve trade-offs. Reducing car
 
 For instance, Singapore became the first country in Southeast Asia to introduce a carbon tax in 2018 – a move that will look to reduce carbon emissions across all sectors. Raising taxes will hopefully nudge companies to move towards cleaner energy and operations. But any new tax will hurt companies and potential affect Singapore’s economic growth prospects in the long run.
 
-![Alt text for image on Isomer site](/images/infrastructure/case-studies/Screenshot%202021454524.png)
+![Alt text for image on Isomer site](/images/infrastructure/case-studies/screenshot%202021454524.png)
 Image: NCCS
 
 Despite the sacrifices, switching to sustainable energy sources is necessary to secure the country’s long-term future.
 
-![Alt text for image on Isomer site](/images/infrastructure/case-studies/Screenshot%2020352525.png)
+![Alt text for image on Isomer site](/images/infrastructure/case-studies/screenshot%2020352525.png)

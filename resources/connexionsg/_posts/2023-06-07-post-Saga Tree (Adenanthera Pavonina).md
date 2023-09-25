@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/saga%20tree.PNG)
+![](/images/connexionsg/2023/saga%20tree.png)
 
 The Saga Tree (scientific name: Adenanthera Pavonina) is a deciduous tree that grows up to 20 metres in height.
 

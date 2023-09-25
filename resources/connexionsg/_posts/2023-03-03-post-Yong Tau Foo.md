@@ -1,12 +1,12 @@
 ---
 title: Yong Tau Foo
-permalink: /resources/connexionsg/YongTauFoo/
+permalink: /resources/connexionsg/yongtaufoo/
 date: 2023-03-03
 layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/Yong%20Tau%20Foo.png)
+![](/images/connexionsg/2023/yong%20tau%20foo.png)
 
 Undecided where to head for lunch during this Friday afternoon? Head over to your home’s / workplace’s nearest Yong Tau Foo joint!
 

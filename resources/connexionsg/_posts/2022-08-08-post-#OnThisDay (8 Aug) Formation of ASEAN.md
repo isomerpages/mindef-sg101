@@ -1,6 +1,6 @@
 ---
 title: "#OnThisDay (8 Aug) Formation of ASEAN"
-permalink: /resources/connexionsg/FormationofASEAN
+permalink: /resources/connexionsg/formationofasean/
 date: 2022-08-08
 layout: post
 description: ""

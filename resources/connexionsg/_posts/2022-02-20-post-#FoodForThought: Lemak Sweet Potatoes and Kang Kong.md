@@ -1,6 +1,6 @@
 ---
 title: "#FoodForThought: Lemak Sweet Potatoes and Kang Kong"
-permalink: /resources/connexionsg/LemakSweetPotatoesandKangKong
+permalink: /resources/connexionsg/lemaksweetpotatoesandkangkong/
 date: 2022-02-20
 layout: post
 description: ""

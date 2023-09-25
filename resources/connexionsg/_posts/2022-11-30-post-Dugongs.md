@@ -1,13 +1,13 @@
 ---
 title: Dugongs
-permalink: /resources/connexionsg/Dugongs/
+permalink: /resources/connexionsg/dugongs/
 date: 2022-11-30
 layout: post
 description: ""
 image: ""
 ---
 
-![](/images/connexionsg/2023/Dugong.png)
+![](/images/connexionsg/2023/dugong.png)
 
 The name ‘dugong’ originates from ‘Lady of the Sea’ and dugongs are believed to be the inspiration for the mermaids that early sailors spoke of.  
   

@@ -1,6 +1,6 @@
 ---
 title: "The Singapore-US FTA: Sealed Over a Game of Golf"
-permalink: /economy/digging-deeper-case-studies/sgusfta
+permalink: /economy/digging-deeper-case-studies/sgusfta/
 third_nav_title: Case Studies
 ---
 
@@ -9,7 +9,7 @@ third_nav_title: Case Studies
 
 <i>3 minute read</i>
 
-![Alt text for image on Isomer site](/images/economy/case-studies/Screenshot%202020-10-22%20at%201.png)
+![Alt text for image on Isomer site](/images/economy/case-studies/screenshot%202020-10-22%20at%201.png)
 
 The late-1990s was a difficult time for Singapore. Our economy was still struggling after the Asian Financial Crisis, and global outlook was grim. Moreover, the Doha Talks by the World Trade Organisation (WTO) had stalled. 
 
@@ -31,7 +31,7 @@ That set the stage for further discussions, which took place again on the green 
 
 After their game, PM Goh made his pitch: 
 
-![Alt text for image on Isomer site](/images/economy/case-studies/Screenshot%202020-10-.png)
+![Alt text for image on Isomer site](/images/economy/case-studies/screenshot%202020-10-.png)
 
 The US-Singapore FTA was officially signed in 2003 and implemented a year later. It was the first FTA signed between the US and an East Asian nation. The FTA removes tariffs and allows for better movement of goods between the two nations.
 

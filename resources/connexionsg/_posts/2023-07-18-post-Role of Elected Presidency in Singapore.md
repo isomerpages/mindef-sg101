@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2023/presidency.PNG)
+![](/images/connexionsg/2023/presidency.png)
 
 
 #TriviaTuesday: Singaporeans will soon cast our votes for our new elected President. The role of a publicly elected Head of State was legislated in 1991 to strengthen checks and balances within the government, safeguard our national reserves, and ensure the integrity of the public service.

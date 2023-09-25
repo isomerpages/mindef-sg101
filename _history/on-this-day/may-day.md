@@ -1,6 +1,6 @@
 ---
 title: May Day
-permalink: /history/on-this-day/may-day
+permalink: /history/on-this-day/may-day/
 third_nav_title: On This Day
 ---
 ### Did you know Labour Day (AKA May Day) is older than National Day?

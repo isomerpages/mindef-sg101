@@ -1,12 +1,12 @@
 ---
 title: Staying Attractive and Relevant
-permalink: /economy/staying-exceptional/relevant
+permalink: /economy/staying-exceptional/relevant/
 third_nav_title: Staying Exceptional
 ---
 ## Staying Attractive and Relevant
 
 #### Staying Open
-![Alt text for image on Isomer site](/images/economy/staying-exceptional/DSC0964aa.jpg)
+![Alt text for image on Isomer site](/images/economy/staying-exceptional/dsc0964aa.jpg)
 (Image: [Maritime and Port Authority of Singapore](https://www.mpa.gov.sg/web/portal/home/port-of-singapore))
 
 As Singapore is a small and open economy, we must keep championing and pushing for free trade and access to open markets.
@@ -17,7 +17,7 @@ We are pushing for regional cooperation across multiple platforms, from the Regi
 
 Apart from building international linkages, we have been forging closer ties within the region. ASEAN remains an important market for us, given our strong ties with our neighbours and the rest of the ASEAN countries.
 
-[![Alt text for image on Isomer site](/images/economy/staying-exceptional/Case%20Study_ASEAN%20Econ%20Community.gif)](/economy/digging-deeper-case-studies/asean)
+[![Alt text for image on Isomer site](/images/economy/staying-exceptional/case%20study_asean%20econ%20community.gif)](/economy/digging-deeper-case-studies/asean)
 
 #### Upgrading our Workers’ Skills
 

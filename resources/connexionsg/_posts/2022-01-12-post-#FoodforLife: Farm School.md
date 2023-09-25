@@ -1,6 +1,6 @@
 ---
 title: "#FoodforLife: Farm School"
-permalink: /resources/connexionsg/farmschool
+permalink: /resources/connexionsg/farmschool/
 date: 2022-01-12
 layout: post
 description: ""

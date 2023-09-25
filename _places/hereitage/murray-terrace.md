@@ -1,6 +1,6 @@
 ---
 title: Murray Terrace
-permalink: /places/hereitage/murray-terrace
+permalink: /places/hereitage/murray-terrace/
 third_nav_title: Hereitage
 ---
 ### Along Murray Street by Maxwell Road stands Murray Terrace, a cluster of 14 pre-war shophouses. 

@@ -1,7 +1,7 @@
 ---
 title: "#SomewhereInSingapore - Big Town, Small Town"
 date: 2021-03-02
-permalink: /resources/videos/somewhere-big-town
+permalink: /resources/videos/somewhere-big-town/
 layout: post
 ---
 

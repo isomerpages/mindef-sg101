@@ -1,6 +1,6 @@
 ---
 title: Thinking Long Term
-permalink: /infra/urban-planning/longterm
+permalink: /infra/urban-planning/longterm/
 third_nav_title: Urban Planning
 ---
 ## Urban Planning

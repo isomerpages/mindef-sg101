@@ -42,10 +42,6 @@ CNBC, (12 November 2019), The world’s largest trade deal could be signed in 20
 
 CNA, The World on Your Plate, retrieved from [http://www.channelnewsasia.com/brandstudio/sgfoodsources](http://www.channelnewsasia.com/brandstudio/sgfoodsources)
 
-CNA, (7 March 2019), Singapore aims to produce 30% of its nutritional needs by 2030, up from less than 10%, retrieved from [https://www.channelnewsasia.com/news/singapore/singapore-produce-30-own-food-up-from-10-nutritional-needs-11320426](https://www.channelnewsasia.com/news/singapore/singapore-produce-30-own-food-up-from-10-nutritional-needs-11320426) 
-
-CNA, (26 March 2020), Singapore’s economy contracts by 2.2% in Q1 as COVID-19 outbreak hits construction, services sectors, retrieved from [https://www.channelnewsasia.com/news/business/singapore-gdp-growth-slows-advance-estimate-covid-19-12577146](https://www.channelnewsasia.com/news/business/singapore-gdp-growth-slows-advance-estimate-covid-19-12577146) 
-
 CNA, (14 August 2021), LinkedIn to Pilot Initiative for Job Seekers That Links Skills to Job Roles in Singapore, retrieved from [https://www.channelnewsasia.com/singapore/linkedin-pilot-job-seekers-skills-career-initiative-2112306](https://www.channelnewsasia.com/singapore/linkedin-pilot-job-seekers-skills-career-initiative-2112306) 
 
 CNA, (29 August 2021), From Workplace Discrimination to Racial Harmony: 7 Things You Need to Know About NDR 2021, retrieved from [https://www.channelnewsasia.com/singapore/national-day-rally-ndr-2021-workplace-discrimination-racial-harmony-2143201](https://www.channelnewsasia.com/singapore/national-day-rally-ndr-2021-workplace-discrimination-racial-harmony-2143201)
@@ -58,7 +54,7 @@ Deloitte, (2019), The Deloitte Global Millennial Survey 2019, retrieved from [ht
 
 Department of Statistics Singapore, (2019), Death and Life Expectancy, retrieved from [https://www.singstat.gov.sg/find-data/search-by-theme/population/death-and-life-expectancy/latest-data](https://www.singstat.gov.sg/find-data/search-by-theme/population/death-and-life-expectancy/latest-data) 
 
-Department of Statistics Singapore, (n.d.) Understanding Age-Specific Fertility Rate & Total Fertility Rate, retrieved from [https://www.singstat.gov.sg/modules/infographics/total-fertility-rate](https://www.singstat.gov.sg/modules/infographics/total-fertility-rate) 
+Department of Statistics Singapore, (n.d.) Understanding Age-Specific Fertility Rate & Total Fertility Rate, retrieved from https://www.singstat.gov.sg/-/media/files/visualising_data/infographics/population/total-fertility-rate.ashx
 
 Department of Statistics Singapore, (n.d.), Population and Population Structure, retrieved from [https://www.singstat.gov.sg/find-data/search-by-theme/population/population-and-population-structure/latest-data](https://www.singstat.gov.sg/find-data/search-by-theme/population/population-and-population-structure/latest-data) 
 
@@ -82,7 +78,7 @@ Goh Chok Tong, (1981), Budget Statement 1981, retrieved from [https://www.nas.go
 
 Goh Chok Tong, (6 October 2003), Keynote Address at Inauguration Ceremony of the ASEAN Business and Investment Summit, retrieved from [https://asean.org/keynote-address-by-his-excellency-goh-chok-tong-prime-minister-of-singapore-at-the-inauguration-ceremony-of-the-asean-business-and-investment-summit-asean-bis-nusa-dua-bali/](https://asean.org/keynote-address-by-his-excellency-goh-chok-tong-prime-minister-of-singapore-at-the-inauguration-ceremony-of-the-asean-business-and-investment-summit-asean-bis-nusa-dua-bali/) 
 
-Goh Keng Swee, (1964), Annual Budget Statement (1964), retrieved from [https://sprs.parl.gov.sg/search/topic?reportid=028\_19641102\_S0005\_T0013](https://sprs.parl.gov.sg/search/topic?reportid=028_19641102_S0005_T0013) 
+Goh Keng Swee, (1964), Annual Budget Statement (1964), retrieved from [HANSARD](https://sprs.parl.gov.sg/search/#/home)
 
 Goh, Keng Swee, (1977), “A socialist economy that works,” in Nair, C.V.D. (Ed.), Socialism that Works, Federal Publications, Singapore 
 
@@ -96,7 +92,7 @@ Heng Swee Keat, (26 March 2020), Supplementary Budget Statement 2020, retrieved 
 
 HistorySG, Konfrontasi (Confrontation Ends) (2014), National Library, retrieved from [http://eresources.nlb.gov.sg/history/events/f950e04d-44d7-47ad-a10c-16dfb0cc9ce3](http://eresources.nlb.gov.sg/history/events/f950e04d-44d7-47ad-a10c-16dfb0cc9ce3) 
 
-Hon Sui Sen, (1973), Budget Statement 1973, retrieved from [https://sprs.parl.gov.sg/search/topic?reportid=017\_19740304\_S0003\_T0009](https://sprs.parl.gov.sg/search/topic?reportid=017_19740304_S0003_T0009) 
+Hon Sui Sen, (1973), Budget Statement 1973, retrieved from [HANSARD](https://sprs.parl.gov.sg/search/#/home)
 
 I.F Tang, (2011), Heart Work, A Lemon Or a Rolls-Royce, Economic Development Board, Straits Times Press, p19.
 
@@ -144,6 +140,8 @@ Ministry of Trade and Industry, (n.d.), Overview of Industry Transformation Maps
 
 Ministry of Trade and Industry, (n.d.) Economic Survey of Singapore 2020: Performance of the Singapore Economy in 2020, retrieved from [https://www.mti.gov.sg/-/media/MTI/Resources/Economic-Survey-of-Singapore/2020/Economic-Survey-of-Singapore-2020/FA\_AES2020.pdf](https://www.mti.gov.sg/-/media/MTI/Resources/Economic-Survey-of-Singapore/2020/Economic-Survey-of-Singapore-2020/FA_AES2020.pdf) 
 
+Ministry of Trade and Industry, (26 Mar 2020), Singapore's GDP contracted by 2.2 per cent in the first quarter of 2020, retrieved from https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2020/03/AdvEst_1Q20.pdf
+
 Minstry of Foreign Affairs Singapore, (16 April 2020), Singapore-New Zealand Declaration on Trade in Essential Goods, retrieved from [https://www.mfa.gov.sg/Overseas-Mission/Geneva/Mission-Updates/2020/04/Singapore-New-Zealand-Declaration-on-Trade-in-Essential-Good](https://www.mfa.gov.sg/Overseas-Mission/Geneva/Mission-Updates/2020/04/Singapore-New-Zealand-Declaration-on-Trade-in-Essential-Good) 
 
 Monetary Authority of Singapore, (11 November 2019), Greening the Financial System: Greening Finance Action Plan, retrieved from [https://www.mas.gov.sg/who-we-are/annual-reports/annual-report-2019-2020/greening-the-financial-system](https://www.mas.gov.sg/who-we-are/annual-reports/annual-report-2019-2020/greening-the-financial-system) 
@@ -181,6 +179,8 @@ Singapore Food Agency, (n.d.), Celebrating AVA’s Excellence Through the Years,
 Singapore Food Agency, (n.d.), Singapore Food Story, retrieved from [http://www.sfa.gov.sg/sgfoodstory](http://www.sfa.gov.sg/sgfoodstory) 
 
 Singapore Food Agency, (2019), AVA: A LEGACY OF EXCELLENCE; a commemorative issue, retrieved from [https://www.sfa.gov.sg/docs/default-source/publication/ava-vision/ava-vision-issue-1-2019.pdf](https://www.sfa.gov.sg/docs/default-source/publication/ava-vision/ava-vision-issue-1-2019.pdf) 
+
+Singapore Food Agency, (2022), A Sustainable Food System for Singapore and Beyond, retrieved from https://www.sfa.gov.sg/food-for-thought/article/detail/a-sustainable-food-system-for-singapore-and-beyond
 
 Singapore Infopedia, (2014), Jurong Town Corporation, retrieved from [https://eresources.nlb.gov.sg/infopedia/articles/SIP\_553\_2004-12-31.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_553_2004-12-31.html) 
 

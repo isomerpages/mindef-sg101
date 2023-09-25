@@ -1,6 +1,6 @@
 ---
 title: "#TD Make Every Drop Count"
-permalink: /resources/connexionsg/MakeEveryDropCount/
+permalink: /resources/connexionsg/makeeverydropcount/
 date: 2023-02-26
 layout: post
 description: ""

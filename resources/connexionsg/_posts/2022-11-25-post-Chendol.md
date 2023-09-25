@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2022/Chendol%20v2.png)
+![](/images/connexionsg/2022/chendol%20v2.png)
 
 Enjoyed across Southeast Asia, the Chendol is commonly made of shaved ice, pea noodles, palm sugar (“gula melaka”), and coconut milk, with some variations.
 

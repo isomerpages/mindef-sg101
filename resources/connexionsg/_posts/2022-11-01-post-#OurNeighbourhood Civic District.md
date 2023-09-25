@@ -1,12 +1,12 @@
 ---
 title: "#OurNeighbourhood Civic District"
-permalink: /resources/connexionsg/CivicDistrict/
+permalink: /resources/connexionsg/civicdistrict/
 date: 2022-11-01
 layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2022/Civic%201.jpg)
+![](/images/connexionsg/2022/civic%201.jpg)
 📷: The area around the Singapore River (1920s to 1930s) via Roots.gov.sg
 
 As early as the 13th century, the north bank of Singapore River was a special place. This was where a vibrant port-settlement known as Singapura (in indigenous Malay texts) or Danmaxi (in Chinese historical texts) emerged. The settlement engaged in regional and international trade and continued into the 16th century.
@@ -21,7 +21,7 @@ In this post, we looked at what gives the area around the Singapore River meanin
 
 #SGPlacemaking #Singapore
 
-![](/images/connexionsg/2022/Civic%202.jpg) 
+![](/images/connexionsg/2022/civic%202.jpg) 
 📷: Aerial view of the Civic District (2011) via William Cho@Wikimedia Commons
 
 Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.

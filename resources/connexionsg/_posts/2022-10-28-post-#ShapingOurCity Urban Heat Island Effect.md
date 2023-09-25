@@ -1,6 +1,6 @@
 ---
 title: "#ShapingOurCity Urban Heat Island Effect"
-permalink: /resources/connexionsg/UrbanHeatIslandEffect/
+permalink: /resources/connexionsg/urbanheatislandeffect/
 date: 2022-10-28
 layout: post
 description: ""
@@ -25,7 +25,7 @@ Tackling UHI requires strong commitment from multiple stakeholders, not just pol
 
 🔗https://www.channelnewsasia.com/commentary/singapore-warmer-weather-climate-change-cooling-project-heat-1339936?fbclid=IwAR152zLlesPE8p5A1SY7YVYhmwkPF-_W3Mm6MxjHZI9Ck2vvBBCbhN2wWeQ
 
-![](/images/connexionsg/2022/Green%20Roofs%20(NParks).jpg)
+![](/images/connexionsg/2022/green%20roofs%20(nparks).jpg)
 📷: Incorporating greenery onto infrastructure is a key pillar in the Singapore Green Plan 2030. (NParks)
 
 Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.

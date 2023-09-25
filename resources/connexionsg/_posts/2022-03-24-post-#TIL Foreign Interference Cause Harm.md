@@ -1,11 +1,11 @@
 ---
 title: "#TIL Foreign Interference Cause Harm"
-permalink: /resources/connexionsg/ForeignInterferenceHarmful
+permalink: /resources/connexionsg/foreigninterferenceharmful/
 date: 2022-03-24
 layout: post
 description: ""
 ---
-![](/images/Shanmugam.png)
+![](/images/shanmugam.png)
 
 The Russia-Ukraine conflict has brought out info-wars between vested parties seeking to influence public opinion. Social media is filled with first-hand accounts of what is happening on the ground. And just as many are also disputed. Some are deliberately misleading and intend to discredit or even cause harm. And while some may have been spread inadvertently, others could be part of larger covert influence operations.
 

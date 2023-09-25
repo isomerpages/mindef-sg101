@@ -1,7 +1,7 @@
 ---
 title: Bukit Ho Swee Fire
 date: 2021-05-25
-permalink: /resources/connexionsg/bukithosweefire
+permalink: /resources/connexionsg/bukithosweefire/
 layout: post
 ---
 #onthisday in 1961, at around 3.30pm, a small fire that began at a makeshift squatter hut on Kampong Tiong Bahru Road spread to neighbouring Bukit Ho Swee, where almost 20,000 people were in attap huts at the time. With the strong winds that afternoon, the fire quickly intensified, engulfing the settlement and forcing residents to flee. 

@@ -1,6 +1,6 @@
 ---
 title: "The 1985 Recession: Growth Interrupted"
-permalink: /economy/digging-deeper-case-studies/1985
+permalink: /economy/digging-deeper-case-studies/1985/
 third_nav_title: Case Studies
 ---
 
@@ -12,14 +12,14 @@ After enjoying uninterrupted growth for nearly 20 years, Singapore faced its fir
 
 The recession was caused by several factors, including weak economic growth globally which slowed demand for Singapore’s exports, as well as structural problems within our economy. 
 
-![Alt text for image on Isomer site](/images/Capture432424.PNG)
+![Alt text for image on Isomer site](/images/capture432424.png)
 (Source: Economic Survey of Singapore 1985 via NAS)
 
 One key factor was the slump in construction. In the late-1970s to the early-1980s, Singapore went through a major construction boom, contributing to almost a third of economic growth during the period. However, with booms come busts, and economic growth declined when this happened. 
 
 This problem was caused by deeper issues in the our economic structure. While the wage correction policy hastened Singapore’s move up the value chain, the acceleration of rising costs also decreased our competitiveness. 
 
-![Alt text for image on Isomer site](/images/economy/case-studies/Screenshot%202020-10-28%20at%202.png)
+![Alt text for image on Isomer site](/images/economy/case-studies/screenshot%202020-10-28%20at%202.png)
 
 In March 1985, then-Minister for Trade and Industry Tony Tan formed the Economic Committee. Helmed by then-Minister of State for Defence and Trade and Industry Lee Hsien Loong, the committee was tasked to study the recession and Singapore's recovery. It published a refort, “The Singapore Economy: New Directions”, in 1986, and recommended several policy reforms.
 
@@ -31,6 +31,6 @@ The committee also recommended that Singapore continue moving up the value chain
 
 The ability to recover from recession came of a decisive government and a people willing to take a bitter pill for long-term gain, said then-Prime Minister Lee Kuan Yew in 1986:
 
-![Alt text for image on Isomer site](/images/economy/case-studies/Screenshot%202020.png)
+![Alt text for image on Isomer site](/images/economy/case-studies/screenshot%202020.png)
 
-![Alt text for image on Isomer site](/images/economy/case-studies/Video_1985%20Recession.gif)
+![Alt text for image on Isomer site](/images/economy/case-studies/video_1985%20recession.gif)

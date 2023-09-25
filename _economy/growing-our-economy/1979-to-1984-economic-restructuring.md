@@ -11,7 +11,7 @@ By the late 1970s, more capital-intensive industries had been set up in Singapor
 
 In order to accelerate the economic restructuring programme, the National Wages Council (NWC) adopted a three-year corrective wage policy in 1979. This comprised strong wage increases and hikes in the CPF contribution rates to account for the full-employment state of Singapore’s economy.
 
-![Alt text for image on Isomer site](/images/economy/growing-our-economy/Screenshot%202020-10-19.png)
+![Alt text for image on Isomer site](/images/economy/growing-our-economy/screenshot%202020-10-19.png)
 
 With that, companies quickly began adopting higher-value work. At the same time, companies that were producing lower-value products moved out of Singapore to cheaper off-shore locations.
 
@@ -39,4 +39,4 @@ By the end of the restructuring period, Singapore had succeeded in attracting hi
 
 However, the restructuring came with a cost: the corrective wage policy coupled with the slump in global demand caused Singapore to enter into its first recession in 1985.
 	
-[![Alt text for image on Isomer site](/images/economy/growing-our-economy/Case%20Study_The%201985%20Recession.gif)](/economy/digging-deeper-case-studies/1985)
+[![Alt text for image on Isomer site](/images/economy/growing-our-economy/case%20study_the%201985%20recession.gif)](/economy/digging-deeper-case-studies/1985)

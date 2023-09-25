@@ -1,12 +1,12 @@
 ---
 title: "#OnThisDay (29 Oct) Withdrawl of British Far East Command"
-permalink: /resources/connexionsg/WithdrawlofBritishFarEastCommand/
+permalink: /resources/connexionsg/withdrawlofbritishfareastcommand/
 date: 2022-10-28
 layout: post
 description: ""
 image: ""
 ---
-![](/images/connexionsg/2022/Withdrawal%20of%20the%20British.jpg)
+![](/images/connexionsg/2022/withdrawal%20of%20the%20british.jpg)
 
 #OnThisDay (29 October) in 1971, Britain withdrew the British Far East Command from Singapore and Malaysia. Although the decision was already made known since January 1968, the withdrawal came two months ahead of the original scheduled date of 31 December 1971.
 
@@ -14,7 +14,7 @@ The potential impact on our own security and economy was enormous: we lost the p
 
 We were, at the time, relying heavily on British security guarantees, and on British military bases for jobs. We were only beginning to build up our military capabilities, with the first batch of 900 national servicemen just starting training on 17 Aug 1967.
 
-![](/images/connexionsg/2022/Naval%20Base.jpg)
+![](/images/connexionsg/2022/naval%20base.jpg)
 
 The same day the withdrawal was announced, then-Prime Minister Lee Kuan Yew addressed the first batch of Officer Cadets commissioned from the SAF Training Institute (SAFTI) at the Istana. He reminded the cadets of the need to build a strong security force to allow Singapore to be self-reliant and effective. This will also allow us to become desirable and reliable partners in defence arrangements.
 

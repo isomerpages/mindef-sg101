@@ -1,6 +1,6 @@
 title: SG101
 url: "https://www.sg101.gov.sg/"
-favicon: /images/SG101sq.png
+favicon: /images/sg101sq.png
 colors:
   primary-color: "#323594"
   secondary-color: "#4a90e2"
@@ -50,7 +50,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://mindef-connexion-staging.netlify.app
-prod: https://mindef-connexion-prod.netlify.app
+staging: https://staging.d34jzqwbh9by83.amplifyapp.com/
+prod: https://master.d34jzqwbh9by83.amplifyapp.com/
 is_government: true
-shareicon: /images/SG101sq.png
+shareicon: /images/sg101sq.png

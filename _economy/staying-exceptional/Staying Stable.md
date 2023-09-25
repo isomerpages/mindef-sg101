@@ -22,13 +22,13 @@ Strengthening Singapore's tripartite bond is crucial to ensuring we remain resil
 
 In his May Day 2019 speech, DPM Heng Swee Keat noted that many workers in advanced economies are frustrated with stagnant wages, falling standards of living and a malfunctioning political system. Avoiding this requires companies, the government and workers to pursue inclusive growth:
 
-![Alt text for image on Isomer site](/images/economy/staying-exceptional/Screenshot%202020-1-2.png)
+![Alt text for image on Isomer site](/images/economy/staying-exceptional/screenshot%202020-1-2.png)
 
 #### Maintaining Supply Chain Resilience 
 
 Singapore’s small size and lack of natural resources make us dependent on the world for supplies. We are, in turn, highly exposed and vulnerable to external shocks. Having supply chain resilience helps us carry on with our work and lives in the event of unexpected disruptions.
 
-Many variables reinforce the need for supply chain resilience. 
+Many variables reinforce the need for supply chain resilience.&nbsp;
 
 Deglobalisation, or the slowing down of trade and investment across economies, is a growing trend that greatly affects small and open economies such as Singapore. Where globalisation has fostered cross-border trade flows, investments, and the movement of people, bringing countries closer together, deglobalisation does the opposite. The acceleration of deglobalisation in recent years has hurt economies. The COVID-19 pandemic, during which unprecedented supply and demand fluctuations arose, has only fuelled this trend.
 
@@ -38,25 +38,25 @@ Therefore, Singapore must keep open and maintain connectivity while ensuring tha
 
 **How COVID-19 exposed the fragility of global supply chains** 
 
-When China – known as “the world’s factory” for manufacturing a third of global output – first went into lockdown during the early phase of the COVID-19 outbreak in 2020, manufacturers around the world struggled to adapt and find new suppliers. The production of certain goods, such as [electronic components](https://www.npr.org/2020/02/14/806155636/coronavirus-is-shuttering-chinese-factories-and-affecting-global-manufacturing) and [personal protective equipment](https://www.who.int/news/item/03-03-2020-shortage-of-personal-protective-equipment-endangering-health-workers-worldwide), stalled. 
+When China – known as “the world’s factory” for manufacturing a third of global output – first went into lockdown during the early phase of the COVID-19 outbreak in 2020, manufacturers around the world struggled to adapt and find new suppliers. The production of certain goods, such as [electronic components](https://www.npr.org/2020/02/14/806155636/coronavirus-is-shuttering-chinese-factories-and-affecting-global-manufacturing) and [personal protective equipment](https://www.who.int/news/item/03-03-2020-shortage-of-personal-protective-equipment-endangering-health-workers-worldwide), stalled.&nbsp;
 
 At the same time, demand for medical products, including protective goods, equipment, and pharmaceuticals, surged. This led some countries to impose [export restrictions and tariffs](https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19). [Over 80 countries](https://unctad.org/news/export-restrictions-do-not-help-fight-covid-19) banned the export of medical and personal protective goods in the early phases of the pandemic, and nearly 60% of those curbs were still in place as of June 2021.
 
-The ports were also caught in a logjam -- due to a surge in cargo from unprecedented levels of demand, COVID-19 measures, crew change issues, and in May 2021, a [blockage at Suez Canal](https://asia.nikkei.com/Business/Markets/Ever-Given-s-Suez-Canal-blockage-still-disrupting-global-shipping), one of the key waterways for maritime trade – which put more pressure on global supply chains. 
+The ports were also caught in a logjam -- due to a surge in cargo from unprecedented levels of demand, COVID-19 measures, crew change issues, and in May 2021, a [blockage at Suez Canal](https://asia.nikkei.com/Business/Markets/Ever-Given-s-Suez-Canal-blockage-still-disrupting-global-shipping), one of the key waterways for maritime trade – which put more pressure on global supply chains.&nbsp;
 
-Singapore played a key role in keeping global supply chains moving, facilitating the flows of essential goods and cargo for ourselves and the world. 
+Singapore played a key role in keeping global supply chains moving, facilitating the flows of essential goods and cargo for ourselves and the world.&nbsp;
 
-Our port is connected to 600 ports in over 120 countries and handles one-seventh of the world’s container transhipment throughput -- the most for any hub port in the world. As a critical port of call at the heart of global trading routes, our port continued to run around the clock, even during our “circuit breaker” period in 2020. The Maritime and Port Authority (MPA) of Singapore led a [landmark declaration among 20 port authorities](https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/detail/8ef344f7-89ab-4d4c-99ba-a2c73532d2b4) that pledged to keep trade flows open in the fight against COVID-19. Our port’s capacity was increased to alleviate supply chain bottlenecks around the world. 
+Our port is connected to 600 ports in over 120 countries and handles one-seventh of the world’s container transhipment throughput -- the most for any hub port in the world. As a critical port of call at the heart of global trading routes, our port continued to run around the clock, even during our “circuit breaker” period in 2020. The Maritime and Port Authority (MPA) of Singapore led a landmark declaration among 20 port authorities that pledged to keep trade flows open in the fight against COVID-19. Our port’s capacity was increased to alleviate supply chain bottlenecks around the world.&nbsp;
 
 Changi Airport – one of Asia’s largest cargo airports, even during COVID-19, with an annual handling capacity of 3 million tonnes of cargo – has also been supporting the movement of goods over the air. To help ease the disruptions to the global supply chain, airlines repurposed some of their passenger aircraft to carry cargo. Between April and December 2020, [more than 50 passenger airlines](https://www.changiairport.com/corporate/media-centre/changijourneys/faces-of-changi/CargoInterview.html) operated flights into Singapore, transporting cargo to about 90 cities globally.
 
 These efforts have entrenched Singapore’s position as a resilient and reliable node in the global supply chain, even in times of crisis. This is a critical element in upholding our reputation as a trusted hub and responsible stakeholder in the international community.
 
-![](/images/PM%20Lee%20at%20NDR%202022_Global%20City.png)
+![](/images/pm%20lee%20at%20ndr%202022_global%20city.png)
 
-[![](/images/SS%20Chain.gif)](/economy/case-studies/strategies-for-ss-chain-resilience/)
+[![](/images/ss%20chain.gif)](/economy/case-studies/strategies-for-ss-chain-resilience/)
 
-[![](/images/Food.gif)](/economy/Case-Studies/SG-food-challenge/)
+[![](/images/food.gif)](/economy/Case-Studies/SG-food-challenge/)
 
 #### Developing Sustainably
 
@@ -65,29 +65,29 @@ Sustainable development refers to a kind of development that “meets the needs 
   
 In September 2015, Singapore, together with other world leaders, adopted a framework based on UN’s 2030 Agenda for Sustainable Development, a blueprint that lays out [17 Sustainable Development Goals](https://sdgs.un.org/goals) (SDGs) and 169 targets for a more sustainable future. This includes mobilising efforts to end poverty, fight inequalities, and tackle climate change.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0XTBYMfZyrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0XTBYMfZyrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-For a small country with limited land and no natural resources, sustainable development matters. Singapore has designed policies with an eye on long-term sustainability, built on the belief that economic development and environmental considerations are not contradictory, but complementary. 
+For a small country with limited land and no natural resources, sustainable development matters. Singapore has designed policies with an eye on long-term sustainability, built on the belief that economic development and environmental considerations are not contradictory, but complementary.&nbsp;
 
 <div style="border:0px solid #0505f8;background-color:#f8f8f8;padding:1.2em;">
-<p>For example, despite competing demands for funding, Singapore made early investments in environmental infrastructure in the post-independence years. We moved very pollutive industries away from residential areas in the 1970s, and in the early-2000s, switched from oil to natural gas, the cleanest form of fossil fuel, for power generation. Today, natural gas generates 95% of our electricity.  </p></div>
+<p>For example, despite competing demands for funding, Singapore made early investments in environmental infrastructure in the post-independence years. We moved very pollutive industries&nbsp;away from residential areas in the 1970s, and in the early-2000s, switched from oil to natural gas, the cleanest form of fossil fuel, for power generation. Today, natural gas generates 95% of our electricity.  </p></div>
  
-To ensure sustainable growth, Singapore operates with careful long-term planning. We optimise the use of resources to add value to the production of goods and services, always looking for ways to stay relevant to the rest of the world. 
+To ensure sustainable growth, Singapore operates with careful long-term planning. We optimise the use of resources to add value to the production of goods and services, always looking for ways to stay relevant to the rest of the world.&nbsp;
 
 Such a stance continues to be necessary because:
 
-* The growing world population is likely to lead to higher demand and competition for resources such as energy, water, and food. This could spell upward pressure on the prices of these limited resources. 
+* The growing world population is likely to lead to higher demand and competition for resources such as energy, water, and food. This could spell upward pressure on the prices of these limited resources.&nbsp;
 
-*   Singapore’s demand for resources could become unsustainable if no action is taken to change current trajectories. For example, Semakau Landfill is projected to run out of space by 2035. With demand for water expected to double by 2060, we could also face water constraints. 
+*   Singapore’s demand for resources could become unsustainable if no action is taken to change current trajectories. For example, Semakau Landfill is projected to run out of space by 2035. With demand for water expected to double by 2060, we could also face water constraints.&nbsp;
 
 *   Climate change is an existential threat. Singapore remains particularly vulnerable to extreme weather patterns and rising sea levels as a low-lying island city-state.
 
-*   The need to balance land use needs may lead to difficult trade-offs between redevelopment and heritage preservation, as well as efforts to protect our biodiversity. 
+*   The need to balance land use needs may lead to difficult trade-offs between redevelopment and heritage preservation, as well as efforts to protect our biodiversity.&nbsp;
     
-*   Singapore will need to align our economic development plans with our international obligations, including the targets outlined in our [pledge](https://www.nccs.gov.sg/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore.pdf) to cut emissions intensity by 36% from 2005 levels by 2030. For a country with limited renewable energy options, meeting them will require collective and serious action by the government, businesses, households, and individuals. 
+*   Singapore will need to align our economic development plans with our international obligations, including the targets outlined in our [pledge](https://www.nccs.gov.sg/singapores-climate-action/singapore-and-international-efforts/) to cut emissions intensity by 36% from 2005 levels by 2030. For a country with limited renewable energy options, meeting them will require collective and serious action by the government, businesses, households, and individuals.&nbsp;
   
 * Our ageing population will have implications on the workforce and the economy. [By 2030](https://www.todayonline.com/singapore/elderly-make-almost-half-spore-population-2050-united-nations), one in four Singaporeans will be 65 years old and older, compared to one in eight in 2018.
 
-[![](/images/Labour%20Policies.gif)](/economy/Case-Studies/Sustainable-Inclusive-Labour-Policies/)
+[![](/images/labour%20policies.gif)](/economy/Case-Studies/Sustainable-Inclusive-Labour-Policies/)
 
-[![](/images/Green.gif)](/economy/case-studies/growing-sg-green-economy/)
+[![](/images/green.gif)](/economy/case-studies/growing-sg-green-economy/)

@@ -1,11 +1,11 @@
 ---
 title: "#ChallengeAccepted Wolbachia Aedes Mosquito"
-permalink: /resources/connexionsg/wolbachiaaedesmosquito
+permalink: /resources/connexionsg/wolbachiaaedesmosquito/
 date: 2022-08-05
 layout: post
 description: ""
 ---
-![](/images/connexionsg/2022/Aedes%20mosquito.jpg)
+![](/images/connexionsg/2022/aedes%20mosquito.jpg)
 📸: National Environment Agency
 
 Every year, over 100 million people fall sick with dengue, endemic in over 100 countries worldwide. Singapore has 22,448 cases so far this year. Our worst record of 35,315 cases and 28 deaths was in 2020. There is no universal dengue vaccine, and no specific treatment for dengue. Singapore has implemented wide measures to reduce mosquito breeding grounds, but how to combat the dengue-carrying Aedes mosquito when it can multiply in stagnant water as small as the size of a coin?

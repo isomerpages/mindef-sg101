@@ -1,6 +1,6 @@
 ---
 title: National Gallery Singapore
-permalink: /resources/connexionsg/NationalGallerySingapore/
+permalink: /resources/connexionsg/nationalgallerysingapore/
 date: 2023-02-05
 layout: post
 description: ""

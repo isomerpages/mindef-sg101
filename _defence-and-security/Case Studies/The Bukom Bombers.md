@@ -1,11 +1,11 @@
 ---
 title: The Bukom Bombers
-permalink: /defence-and-security/Case-Studies/the-bukom-bombers
+permalink: /defence-and-security/case-studies/the-bukom-bombers/
 description: ""
 third_nav_title: Case Studies
 ---
 ### The Bukom Bombers
-![Laju incident ](/images/Defence/Defence%209a.jpg)
+![Laju incident ](/images/defence/defence%209a.jpg)
 
 In the 1950s and 1960s, Singapore weathered storms from regional hostility and domestic unrest. But a new threat emerged in the 1970s, one that our newly independent country had not encountered, posing a severe test for our security forces. The Laju incident, the first international terrorist attack on our country, was also an example of how events played out in the region could spill over into Singapore. 
 
@@ -15,7 +15,7 @@ The men planted explosives at four oil tanks at the Shell Oil Refinery on Pulau 
 
 After eight days of stand-off, the hijackers released the hostages in exchange for safe passage out of Singapore to Kuwait, accompanied by a 13-man team of government representatives led by the late President S.R. Nathan, who was then Director of the Security and Intelligence Division at the Ministry of Defence (MINDEF). “What awaited us at the other end was something uncertain,” he recalled. Eventually, the Singaporean team was allowed to return home safely, capping a feat of courage and sacrifice.
 
-![Laju navy ship terrorists](/images/Defence/Laju.png)
+![Laju navy ship terrorists](/images/defence/laju.png)
 *A Navy ship (centre) attempts to stall the terrorists onboard the hijacked Laju (foreground). Image: Onwards and Upwards – Celebrating 40 Years of the Navy.*
 
 If the attack had gone as the attackers planned and destroyed the refinery, the supply of oil to the region would have been severely affected, as Singapore was the world’s third-largest refining centre. Singapore’s reputation as a safe location for foreign investment would have also taken a beating. 
