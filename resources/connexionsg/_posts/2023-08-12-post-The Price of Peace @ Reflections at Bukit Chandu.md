@@ -8,8 +8,6 @@ image: ""
 ---
 ![](/images/connexionsg/2023/price%20of%20peace%20ig.PNG)
 
-
-
 One of the most famous battles during the Japanese invasion of Singapore was the Battle of Pasir Panjang, during which Lieutenant Adnan Saidi and men of the “C” company of the 1st Malay Brigade made a heroic last stand against the Japanese army despite being heavily outnumbered, and fought to their deaths.
 
 In the aftermath of the battle, many of the regiment’s troopers were killed for refusing to remove their uniforms, embodying their regimental motto ‘Ta’at Setia’ (brave and true). Lt Adnan himself was said to have been hung under a cherry tree and bayoneted to death.
@@ -23,3 +21,5 @@ The sculpture is but one of the many attractions you may find at Reflections at 
 As Singapore continues to progress and thrive, may we also never forget the hardship and sacrifices that Singaporeans before us went through for the benefit of the country and its people -- for this is, indeed, the price of peace.
 
 #Majulah #SculptureSaturday #SculptureSaturdaySG #Singapore #BukitChandu
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
