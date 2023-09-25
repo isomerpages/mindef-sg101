@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![](/images/connexionsg/2023/tahu%20goreng%20ig.PNG)
 
 A delicious, sweet-and-tangy peanut-based tofu dish, Tahu Goreng is often eaten during breakfast or as a light snack. ‘Goreng’ simply means ‘fried’, and ‘Tahu’ refers to ‘tofu’. It is entirely vegetarian but still packed with protein, making it a great option to enjoy as a snack or appetiser.
@@ -20,3 +19,5 @@ The contrast between the crispy exterior of the Tahu and its soft insides is ess
 Hmm, so delicious! 😋
 
 #FoodieFriday #FoodieFridaySG #TahuGoreng
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
