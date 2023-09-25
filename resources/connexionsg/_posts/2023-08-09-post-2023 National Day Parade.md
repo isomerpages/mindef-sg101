@@ -20,3 +20,5 @@ A new and special segment – the Total Defence Parade – made up of 650 partic
 Majulah Singapura! Happy 58th Birthday, Singapore!
 
 #OnwardAsOne #Singapore #Padang #Majulah #NDP2023 #NDP #NationalDay
+
+Visit ConnexionSG Facebook & Instagram for more content.
