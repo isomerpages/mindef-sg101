@@ -18,3 +18,6 @@ While random fare checks are now conducted with an EZ-Link Card scanning machine
 Some of us may even recall clinging onto these slips of paper, not to show the bus inspector, but to fold them into little origami hearts to give to our crushes! 😍
 
 #ThrowbackThursdaySG #ThrowbackThursday #SBSbuses #TransitLink #EZlinkcard #publictransport #singapore
+
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
