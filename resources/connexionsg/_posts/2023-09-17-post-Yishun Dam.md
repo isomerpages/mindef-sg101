@@ -23,3 +23,5 @@ Plus, seize the opportunity to capture stunning OOTD shots at various picturesqu
 Slow down and savour the #SundayFunday at Yishun Dam - a place where nature's beauty unfolds!
 
 #SundayFundaySG #SundayFunday #YishunDam #Yishun #nature #Singapore
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
