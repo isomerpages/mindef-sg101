@@ -21,4 +21,4 @@ Majulah Singapura! Happy 58th Birthday, Singapore!
 
 #OnwardAsOne #Singapore #Padang #Majulah #NDP2023 #NDP #NationalDay
 
-Visit ConnexionSG Facebook & Instagram for more content.
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
