@@ -20,3 +20,6 @@ Jewel is part of the continuous evolution of our Changi Airport. It started with
 Changi Airport has come a long way since our humble beginnings in 1981, from a small aviation hub to the world-class airport complex gaining international recognition over the years. This is Jewel loved by both Singaporeans and the world 💎
 
 #TriviaTuesdaySG #TriviaTuesday #jewelchangiairport #jewel #changi #changiairport #waterfall #aviation #Singapore
+
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
