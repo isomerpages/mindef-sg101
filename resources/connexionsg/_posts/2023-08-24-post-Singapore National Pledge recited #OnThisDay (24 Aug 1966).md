@@ -25,3 +25,4 @@ Today, pledge-taking has since become an integral part of Singaporean life. The 
 
 #Singapore #SingaporeNationalDay #SingaporeNationalPledge
 
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
