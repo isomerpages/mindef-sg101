@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![](/images/connexionsg/2023/national%20day%20rally.jpg)
 During this year’s National Day Rally, PM Lee Hsien Loong mentioned a range of incoming changes that would affect Singapore. There was a lot to take in, because the NDR provides an annual forecast on major developments, making it one of the most important messages for Singaporeans.
 If you didn’t have the time to catch PM Lee Hsien Loong’s NDR on 20 Aug 2023, here’s a TLDR of the key points he had made about our challenges and future plans, with links to articles that then followed up with the details -- all gathered in one place for you.
@@ -58,5 +57,3 @@ More on new housing framework
 …Let us hold fast to: our values, which anchor us and guide our way; our mutual trust, which is the bedrock of our success; and our dreams, which drive us ever forward. Let us come together with a renewed spirit and vigour, a semangat yang baru, to build a better, brighter Singapore for generations to come. Majulah Singapura!
 
 More on our compass:
-
-
