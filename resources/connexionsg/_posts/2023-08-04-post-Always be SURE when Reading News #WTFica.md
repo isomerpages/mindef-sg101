@@ -42,7 +42,7 @@ For Graphika’s report on deepfakes and spamouflage, read:
 https://public-assets.graphika.com/reports/graphika-report-deepfake-it-till-you-make-it.pdf
 
 For Meta’s report in 2022 on Coordinated Inauthentic Behaviour (CIB), read:
-https://about.fb.com/wpcontent/uploads/2022/09/CIB-Report_-China-Russia_Sept-2022-1-1.pdf
+https://about.fb.com/wp-content/uploads/2022/09/CIB-Report_-China-Russia_Sept-2022-1-1.pdf
 
 For National Library Board, Singapore's tips on safeguarding yourself from falsehoods, read:
 https://sure.nlb.gov.sg/about-us/sure-campaign/
