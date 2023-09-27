@@ -39,7 +39,6 @@ More on active aging:
 
 ![](/images/connexionsg/2023/ndrally5.jpg)
 
-
 “…the framework of Mature and Non-Mature Estates will no longer work and we need a new framework. This framework has to achieve three important objectives: One, it has to keep home ownership affordable to all income groups. Two, it has to maintain a good social mix in every town and every region. And three, it has to keep the system fair for everyone.
 …Our solution is to introduce a new “Plus” model for selling HDB flats at choicer locations, with stricter sale conditions so that we can moderate the prices.
 
@@ -51,7 +50,6 @@ More on new housing framework
 
 
 ![](/images/connexionsg/2023/ndrally6.jpg)
-
 “…our forefathers built more than a nation of bricks and mortar, skyscrapers and a thriving economy. They created a nation founded on ideals: justice and equality; religious freedom and racial harmony; a commitment to excellence; a fair system of meritocracy; and an uncompromising insistence on honest, clean government.
 
 …Let us hold fast to: our values, which anchor us and guide our way; our mutual trust, which is the bedrock of our success; and our dreams, which drive us ever forward. Let us come together with a renewed spirit and vigour, a semangat yang baru, to build a better, brighter Singapore for generations to come. Majulah Singapura!
