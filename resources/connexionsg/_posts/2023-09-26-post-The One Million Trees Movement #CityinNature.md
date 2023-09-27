@@ -23,3 +23,5 @@ The importance of trees to our living environment cannot be understated. Trees h
 Our trees provide intangible benefits for our livelihood and well-being, even if we don’t realise it consciously. It would be difficult to imagine a Singapore without greenery. So even as Singapore continues to urbanise, we have a responsibility to be careful stewards of our living environment — for our city, our island's wildlife and our future generations to come.
 
 #Singapore #NParks #OneMillionTrees #Nature #Conservation #CityInNature
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
