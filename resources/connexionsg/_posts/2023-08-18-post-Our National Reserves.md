@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![](/images/connexionsg/2023/our%20national%20reserves.jpg)
 
 Watched this yet? They filmed our nation’s secret vault that had never been broadcasted before, they used blindfolds, and left behind all tracking devices so the location remains hidden -- on a mission to discover how much is in our nation’s reserves.
@@ -37,3 +36,7 @@ Catch the series here to dig deep into a treasure trove of information on our na
 
 📸: Exclusive footage of the vault (Credit to: CNA YouTube)!
 
+🔗Watch the Singapore Reserves Revealed series here https://www.youtube.com/playlist?list=PLbnMTcZEga8SQpk1tO3NQjP79rIqkj2Iv
+
+
+#WatchThisYet #Singapore #Reserves #SingaporeReservesRevealed #GIC #MAS #Temasek
