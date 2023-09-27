@@ -40,3 +40,5 @@ Catch the series here to dig deep into a treasure trove of information on our na
 
 
 #WatchThisYet #Singapore #Reserves #SingaporeReservesRevealed #GIC #MAS #Temasek
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
