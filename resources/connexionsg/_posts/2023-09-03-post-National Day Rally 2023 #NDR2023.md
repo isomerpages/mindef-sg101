@@ -57,3 +57,5 @@ More on new housing framework
 …Let us hold fast to: our values, which anchor us and guide our way; our mutual trust, which is the bedrock of our success; and our dreams, which drive us ever forward. Let us come together with a renewed spirit and vigour, a semangat yang baru, to build a better, brighter Singapore for generations to come. Majulah Singapura!
 
 More on our compass:
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
