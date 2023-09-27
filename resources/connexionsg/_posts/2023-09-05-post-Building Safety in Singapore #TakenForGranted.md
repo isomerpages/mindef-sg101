@@ -22,3 +22,5 @@ Before 1989, Singapore’s economic boom had exacerbated a poorly-regulated cons
 In 2020, the Building Control Act was further updated to include compulsory inspection for all buildings older than 20 years, and above 13 metres tall, every seven years by a professional engineer or registered architect. Any required repairs must also be carried out within a specific period. This compulsory inspection helps reduce the likelihood of rundown facades as buildings in Singapore age.
 
 The Construction Quality Assessment System (CONQUAS), introduced in Singapore since 1989, is today an internationally-accepted benchmarking tool for quality — including in China, Hong Kong SAR, United Kingdom, Australia, South Africa, and India. The safety of Singapore’s buildings is something blissfully #TakenForGranted by the crowds at Marina Bay Sands, or anywhere else in our city.
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
