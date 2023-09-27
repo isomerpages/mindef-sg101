@@ -22,3 +22,4 @@ Cultural events enliven the space and ticketed guided tours, such as ‘Tiger Ti
 
 Haw Par Villa remains an important #heritage park for Singaporeans to learn about Chinese culture, where visitors can wander in free, to wonder at the visions of a legendary Singapore family.
 
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
