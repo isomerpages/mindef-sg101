@@ -25,3 +25,6 @@ Enhanced legal frameworks such as FICA provides levers for Singapore to deal wit
  #WTFica #FakeNews #DeepFake #SayNoToFakeNews
  
 Sources: ST, MHA FICA Webpage
+
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
