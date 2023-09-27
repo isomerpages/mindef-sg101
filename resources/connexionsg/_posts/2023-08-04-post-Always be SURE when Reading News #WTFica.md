@@ -41,6 +41,8 @@ https://www.mha.gov.sg/fica
 For Graphika’s report on deepfakes and spamouflage, read:
 https://l.facebook.com/l.php?u=https%3A%2F%2Fpublic-assets.graphika.com%2Freports%2Fgraphika-report-deepfake-it-till-you-make-it.pdf%3Ffbclid%3DIwAR2Q6Nw4bppsWoF4V54sIzP7SbYWe8Ixa7LrZit2Tub_w1prAZQwgtuOjh0&amp;h=AT1NpSbfxPR25IltNxJxihhwFt1-W7aEwbMptv9id3e2DC0MC91t8i4c7D5WvAH4wVdJNq2zHmzc8aK7QKS0va01mu_bDrABFthBkSTHVcRJ-frnrCD8sy4z9cE6CT-LrFvP&amp;__tn__=-UK-R&amp;c[0]=AT0L7XHo5jUCErr8dUp1Xsbf1w4p94189JenCnlfMwKuOy6nty-EgoblwkVX1_CwzMWolUQH7l2sq8jS8YLqWWqWs5IodGxZrCCsdBLyLitcmdqwJmdhmKOjE3Hk70U8TaYYp0Tw_4lIubWJqDr0giIkqZoTO1M-Vy9jLdS4Hv1nJj7SMezprEOa6PS4NHZUD-bBo3egjmRw
 
+https://public-assets.graphika.com/reports/graphika-report-deepfake-it-till-you-make-it.pdf
+
 For Meta’s report in 2022 on Coordinated Inauthentic Behaviour (CIB), read:
 https://about.fb.com/wpcontent/uploads/2022/09/CIB-Report_-China-Russia_Sept-2022-1-1.pdf
 
