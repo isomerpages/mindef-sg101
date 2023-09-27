@@ -22,3 +22,6 @@ Other than healthcare facilities, Novena is known for its iconic landmark, the N
 With its excellent medical facilities and welcoming spiritual services, Novena town continues to be known throughout the country as a place that offers redemption and relief, for the care of body and soul.
 
 #OurNeighbourhood #Singapore #Novena #Healthcare #HealthCityNovena #HealthCity #HealthcareHub #Placemaking #SGPlacemaking
+
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
