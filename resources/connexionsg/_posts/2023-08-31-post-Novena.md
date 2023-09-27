@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![](/images/connexionsg/2023/novena.jpg)
 📷: Health City Novena in 2030 (HealthCity Novena)
 
@@ -23,4 +22,3 @@ Other than healthcare facilities, Novena is known for its iconic landmark, the N
 With its excellent medical facilities and welcoming spiritual services, Novena town continues to be known throughout the country as a place that offers redemption and relief, for the care of body and soul.
 
 #OurNeighbourhood #Singapore #Novena #Healthcare #HealthCityNovena #HealthCity #HealthcareHub #Placemaking #SGPlacemaking
-
