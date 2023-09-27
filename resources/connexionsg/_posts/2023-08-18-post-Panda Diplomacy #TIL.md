@@ -20,3 +20,5 @@ After a few years of trying, the panda pair welcomed their first-born, Le Le, on
 The rare birth of this giant panda cub – the first in Singapore — is an important milestone in China-Singapore diplomatic relations. Singaporeans can feel proud that this precious addition to the dwindling population of giant pandas was born on our shores.
 
 #PandasInSG #Pandas #GiantPanda #LeLe #KaiKai #JiaJia #Singapore #WildLifeSG #MandaiWildlifeReserve
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
