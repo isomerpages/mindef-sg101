@@ -46,3 +46,5 @@ https://about.fb.com/wpcontent/uploads/2022/09/CIB-Report_-China-Russia_Sept-202
 
 For National Library Board, Singapore's tips on safeguarding yourself from falsehoods, read:
 https://sure.nlb.gov.sg/about-us/sure-campaign/
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
