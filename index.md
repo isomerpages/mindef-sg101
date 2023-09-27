@@ -40,13 +40,14 @@ sections:
       image: /images/sg101 homepage pic.jpeg
       alt: Image alt text
   - infopic:
-      title: News in Focus 07 2023
+      title: News in Focus 08 2023
       subtitle: News in Focus/ Resources
-      description: In this latest issue of NiF, we cover key highlights from the
-        National Day Rally (NDR) 2023.
+      description: "In this latest issue of NiF, we cover: Presidential Elections
+        2023; Finding Common Ground in Troubled Times; RSAF55 Open House; and
+        World Mental Health Day."
       button: Read More
-      url: https://www.sg101.gov.sg/resources/news-in-focus/07-2023/
-      image: /images/nif 0723.jpg
+      url: https://www.sg101.gov.sg/resources/news-in-focus/08-2023/
+      image: /images/nif 08-23 cover page.png
       alt: Image alt text
   - infopic:
       title: Onward as One - National Day 2023 NE Engagement Package
