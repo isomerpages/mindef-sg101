@@ -21,3 +21,5 @@ The significance of acquainting ourselves with the PWS signals extends far beyon
 While we might not be able to control our external circumstances, we can equip and give ourselves the power to respond adequately and smartly, should emergencies arise.
 
 #DidYouKnow #ANationofLifesavers #DontBeAlarmed #CivilDefence #ImportantMessage #EmergencyPreparedness We Are Total Defence
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
