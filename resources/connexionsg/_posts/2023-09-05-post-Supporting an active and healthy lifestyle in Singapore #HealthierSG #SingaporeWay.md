@@ -24,7 +24,7 @@ In July 2023, the government launched #HealthierSG, a national initiative by the
 
 #SingaporeWay #Singapore #HealthierSG
 
-Watch the Great Singapore Workout here 
+Watch the Great Singapore Workout here:
 https://www.instagram.com/reel/Cvehp7TIERd/?igshid=MzRlODBiNWFlZA%3D%3D
 
 Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
