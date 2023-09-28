@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/connexionsg/2023/scdf%20impt%20msg.jpg)
+
 Do you recall a minute-long siren being played during NDP? That was the sound of the “Important Message” signal. 
 
 This same siren will be aired this evening at 6.20pm. 
