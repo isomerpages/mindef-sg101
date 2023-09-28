@@ -1,6 +1,6 @@
 ---
-title: Jewel Changi Airport
-permalink: /resources/connexionsg/jewelchangiairport/
+title: Jewel Changi Airport and its Rain Vortex
+permalink: /resources/connexionsg/jewelchangiairportanditsrainvortex/
 date: 2023-09-26
 layout: post
 description: ""
