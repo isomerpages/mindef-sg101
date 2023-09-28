@@ -24,4 +24,7 @@ While we might not be able to control our external circumstances, we can equip a
 
 #DidYouKnow #ANationofLifesavers #DontBeAlarmed #CivilDefence #ImportantMessage #EmergencyPreparedness We Are Total Defence
 
+🎥: The Making of the SCDF Public Warning System (SCDF YouTube)
+https://www.youtube.com/watch?v=xaXBTMYLBuA
+
 Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
