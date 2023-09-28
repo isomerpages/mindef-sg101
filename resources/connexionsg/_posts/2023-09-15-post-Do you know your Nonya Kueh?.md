@@ -24,3 +24,5 @@ Kueh Dadar (“dadar” means omelette in Indonesian) is a coconut crepe filled 
 And Kueh Salat (also known as “kueh seri muka” or pretty face in Malay) is a two-tiered kueh with steamed glutinous rice on the bottom and a thick layer of coconut milk custard on top.
 
 #FoodieFriday #FoodieFridaySG #nonyakueh #kuehlapis #angkukueh #ondehondeh #kuehdadar #kuehsalat
+
+Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
