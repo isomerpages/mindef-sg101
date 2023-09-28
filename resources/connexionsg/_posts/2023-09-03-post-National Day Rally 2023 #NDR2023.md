@@ -20,12 +20,17 @@ If you didn’t have the time to catch PM Lee Hsien Loong’s NDR on 20 Aug 2023
 …besides Young Seniors, we also want to encourage older seniors to continue working for as long as you can. Hence the Majulah Package also covers the Pioneer and Merdeka Generations.”
 
 More on retirement packages:
+https://www.straitstimes.com/singapore/politics/ndr-2023-14-million-singaporeans-aged-50-and-up-to-get-more-help-meeting-retirement-needs
+
 
 ![](/images/connexionsg/2023/ndrally3.jpg)
 
 “…It will be a temporary safety net to help you meet immediate needs, to free you to upskill and train, as you prepare yourself for a good long-term job. So long as you are willing to make the effort, the Government will go the extra mile to help you.”
 
 More on help for retrenched workers:
+https://www.straitstimes.com/singapore/politics/ndr-2023-retrenched-workers-to-get-interim-financial-support-while-reskilling-for-better-jobs
+
+
 
 ![](/images/connexionsg/2023/ndrally4.jpg)
 
@@ -36,6 +41,8 @@ More on help for retrenched workers:
 …a new national programme called “Age Well SG”, will complement Healthier SG in improving the health of our seniors. The Ministries will share more about this in the coming months.”
 
 More on active aging:
+https://www.straitstimes.com/singapore/politics/ndr-2023-active-ageing-centres-to-be-expanded-to-help-seniors-stay-active-and-healthy
+
 
 ![](/images/connexionsg/2023/ndrally5.jpg)
 
@@ -46,8 +53,8 @@ More on active aging:
 
 …When we roll out the new framework, singles will be allowed to buy 2-room Flexi flats across all types of BTO projects – Standard, Plus, and Prime. HDB will tell you the details soon.
 
-More on new housing framework
-
+More on new housing framework:
+https://www.straitstimes.com/singapore/politics/ndr-2023-new-public-housing-framework-needed-to-ensure-affordability-fairness-and-good-social-mix
 
 ![](/images/connexionsg/2023/ndrally6.jpg)
 “…our forefathers built more than a nation of bricks and mortar, skyscrapers and a thriving economy. They created a nation founded on ideals: justice and equality; religious freedom and racial harmony; a commitment to excellence; a fair system of meritocracy; and an uncompromising insistence on honest, clean government.
@@ -55,5 +62,6 @@ More on new housing framework
 …Let us hold fast to: our values, which anchor us and guide our way; our mutual trust, which is the bedrock of our success; and our dreams, which drive us ever forward. Let us come together with a renewed spirit and vigour, a semangat yang baru, to build a better, brighter Singapore for generations to come. Majulah Singapura!
 
 More on our compass:
+https://www.channelnewsasia.com/singapore/pm-lee-succession-lawrence-wong-leadership-controversies-no-delay-national-day-rally-3711331
 
 Visit ConnexionSG <a target="_blank" href="https://www.facebook.com/ConnexionSG">Facebook</a> &amp; <a target="_blank" href="https://www.instagram.com/connexionsg/">Instagram</a> for more content.
