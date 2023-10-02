@@ -33,7 +33,8 @@ You may find more resources on influence campaigns and how Singapore counters fo
 
 Past ConnexionSG posts on influence campaigns can be found at:
 * <a target="_blank" href="https://www.sg101.gov.sg/resources/connexionsg/foreigninterferencewfticasaynotofakenews/">It’s on the internet, so it must be true? </a>
-
+* <a target="_blank" href="https://www.sg101.gov.sg/resources/connexionsg/alwaysbesurewhenreadingnews/">Always be S.U.R.E when reading news </a>
+* <a target="_blank" href="https://www.sg101.gov.sg/resources/connexionsg/foreigninterference/">Foreign Interference (Countermeasures) Act Bill </a>
 
 ****
 
