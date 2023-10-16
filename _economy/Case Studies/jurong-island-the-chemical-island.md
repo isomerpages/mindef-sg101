@@ -3,7 +3,6 @@ title: "Jurong Island: The Chemical Island"
 permalink: /economy/digging-deeper-case-studies/jurong2/
 third_nav_title: Case Studies
 ---
-
 ## Digging Deeper: Case Studies
 #### Jurong Island: The Chemical Island
 <i>2 minute read</i>
@@ -15,7 +14,7 @@ Formed from seven smaller islands, Jurong Island came from the idea that Singapo
 
 At the time, pressing need to diversify away from electronics manufacturing, one of Singapore's key exports. Petrochemicals was a good fit for Singapore as Singapore had already established itself as a major oil refining hub in the region.
 
-Then-EDB chairman Philip Yeo. His plan was to build an integrated facility that would anchor the various types of petrochemical companies in Singapore.
+Then-EDB chairman Philip Yeo's plan was to build an integrated facility that would anchor the various types of petrochemical companies in Singapore.
 
 JTC and EDB worked together with other government agencies to develop the island. In 1991, JTC was appointed the agent of the Jurong Island project, and it worked with other agencies to plan and provide infrastructure and services to the island. Meanwhile, EDB officers went on an aggressive investment promotion drive to sell the idea to foreign petrochemical companies.
 
