@@ -6,13 +6,14 @@ layout: post
 description: Israel hamas palestine middle-east
 image: ""
 ---
-
-
-
 (Transcript) <a target="blank" href="https://www.mha.gov.sg/mediaroom/speeches/transcript-of-media-doorstop-on-the-situation-in-the-middle-east-with-mr-k-shanmugam-minister-for-home-affairs-and-minister-for-law/">Media Doorstop on the Situation in the Middle East with Mr K Shanmugam, Minister for Home Affairs and Minister for Law</a>, *Ministry of Home Affairs, Oct 12*
+
+(News Article) <a target="blank" href="https://www.straitstimes.com/singapore/singapore-must-never-let-external-events-affect-precious-peace-shanmugam-on-israel-hamas-war">Singapore must never let external events affect 'precious peace': Shanmugam on Israel-Hamas war</a>, ST Oct 13
 
 <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>. 
 
+
+
 video[Singapore must never let external events affect ‘precious peace’: Shanmugam on Israel-Hamas war](https://www.youtube.com/watch?v=U8pY-qjpE78), ST 13 Oct
 
-_(News article)_ [Singapore must never let external events affect ‘precious peace’; Shanmugam on Israel-Hamas war](https://www.straitstimes.com/singapore/singapore-must-never-let-external-events-affect-precious-peace-shanmugam-on-israel-hamas-war), ST _13 Oct_
+
