@@ -10,10 +10,6 @@ image: ""
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kXXH7WdNGKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-(News Article) <a target="blank" href="https://www.straitstimes.com/singapore/singapore-must-never-let-external-events-affect-precious-peace-shanmugam-on-israel-hamas-war">Singapore must never let external events affect 'precious peace': Shanmugam on Israel-Hamas war</a>, ST Oct 13
+(News Article) <a target="blank" href="https://www.straitstimes.com/singapore/singapore-must-never-let-external-events-affect-precious-peace-shanmugam-on-israel-hamas-war">Singapore must never let external events affect 'precious peace': Shanmugam on Israel-Hamas war</a>, ChannelNewsAsia Oct 13
 
 <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>. 
-
-
-
-video[Singapore must never let external events affect ‘precious peace’: Shanmugam on Israel-Hamas war](https://www.youtube.com/watch?v=U8pY-qjpE78), ST 13 Oct
