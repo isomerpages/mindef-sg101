@@ -59,13 +59,15 @@ This issue is still developing. A full discussion is expected to take place in P
 
 (News Article) <a target="blank" href="https://www.channelnewsasia.com/singapore/chief-rabbi-mufti-singapore-solidarity-jewish-muslim-communities-israel-hamas-war-3847391">Singapore's Chief Rabbi, Mufti reaffirm solidarity between communities amid 'senseless' Israel-Hamas war</a>, ChannelNewsAsia, Oct 15
 
-(News article) href="https://www.straitstimes.com/singapore/singapore-red-cross-pledges-205k-for-relief-efforts-amid-israel-hamas-war" target="blank"&gt;Singapore Red Cross and Government pledge $505,000 for relief efforts amid Israel-Hamas war, ST, Oct 16
+(News article) <a target="blank" href="https://www.straitstimes.com/singapore/singapore-red-cross-pledges-205k-for-relief-efforts-amid-israel-hamas-war">Singapore Red Cross and Government pledge $505,000 for relief efforts amid Israel-Hamas war</a>, ST Oct 16
 
-[_)_ Singapore Red Cross and Government pledge $505,000 for relief efforts amid Israel-Hamas war](https://www.straitstimes.com/singapore/singapore-red-cross-pledges-205k-for-relief-efforts-amid-israel-hamas-war), ST 16 Oct
+(Transcript) 
+<a target="blank" href="https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-Media-Wrap-up-Interview-in-Riyadh-Kingdom-of-Saudi-Arabia-Oct-2023">Excerpt of PM Lee Hsien Loong’s Media Wrap-up in Riyadh, Kingdom of Saudi Arabia</a>, PMO, 20 Oct
 
-_(Transcript)_ [Excerpt of PM Lee Hsien Loong’s Media Wrap-up in Riyadh, Kingdom of Saudi Arabia](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-Media-Wrap-up-Interview-in-Riyadh-Kingdom-of-Saudi-Arabia-Oct-2023), PMO 20 Oct
+<iframe width="560" height="315" src="https://www.youtube.com/embed/peV19hr4K4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+(Video) PM Lee on ASEAN's response to the situation in Gaza, Gov.sg Oct 23
 
-_(__Video_[_) ASEAN’s response to the situation in Gaza_](https://www.youtube.com/watch?v=peV19hr4K4s)_,_ Gov.sg, 23 Oct
+<iframe width="560" height="315" src="https://www.youtube.com/embed/peV19hr4K4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 _(__Video__)_ [_PM Lee’s comments on Hamas’ attack on Israel_](https://www.youtube.com/watch?v=9_d8xINrLqk)_,_ Gov.sg 23 Oct
 
