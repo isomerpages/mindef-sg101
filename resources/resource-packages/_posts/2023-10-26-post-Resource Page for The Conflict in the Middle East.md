@@ -26,7 +26,6 @@ _(Video)_ [_PM Lee’s comments on Israel’s response to the Hamas attacks_](ht
 
 #### **Useful Resources**
 
-
 On 7 Oct 2023, Hamas launched a coordinated surprise offensive on Israel via land, air and sea, to which Israel retaliated. The conflict has since resulted in deaths and injuries of many innocent civilians.
 
 Singapore condemns all acts of terror and wanton violence.
@@ -40,6 +39,8 @@ This issue is still developing. A full discussion is expected to take place in P
 **Information about the Situation in the Middle East (order by date of publication)**
 
 (News article) [Netanyahu declares Israel at war as Hamas attacks kill over 100](https://www.straitstimes.com/world/middle-east/sirens-warning-of-incoming-rockets-sound-around-gaza-near-tel-aviv), _Straits Times_ 9 Oct
+
+(News Article) <a target="blank" href="https://www.straitstimes.com/world/middle-east/sirens-warning-of-incoming-rockets-sound-around-gaza-near-tel-aviv">Netanyahu declares Israel at war as Hamas attacks kill over 100</a>, Straits Times, Oct 9
 
 (News article) [Israel vows ‘mighty vengeance’ after surprise attack by Hamas kills hundreds](https://www.channelnewsasia.com/world/israel-hamas-surprise-attack-gaza-strikes-3828731), ChannelNewsAsia 9 Oct&nbsp;
 
