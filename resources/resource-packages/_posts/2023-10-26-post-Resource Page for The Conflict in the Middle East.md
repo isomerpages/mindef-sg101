@@ -67,11 +67,11 @@ This issue is still developing. A full discussion is expected to take place in P
 <iframe width="560" height="315" src="https://www.youtube.com/embed/peV19hr4K4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 (Video) PM Lee on ASEAN's response to the situation in Gaza, Gov.sg Oct 23
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/peV19hr4K4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9_d8xINrLqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+(Video) PM Lee on Hamas' attacks on Israel, Gov.sg, Oct 23
 
-_(__Video__)_ [_PM Lee’s comments on Hamas’ attack on Israel_](https://www.youtube.com/watch?v=9_d8xINrLqk)_,_ Gov.sg 23 Oct
-
-_(__Video__)_ [_PM Lee’s comments on Israel’s response to the Hamas attacks_](https://www.youtube.com/watch?v=4XX-PLA2KuA)_,_ Gov.sg, 23 Oct
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4XX-PLA2KuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+(Video) PM Lee on Israel's response to the Hamas attacks, Gov.sg, Oct 23
 
 _(News article)_ [Singaporeans shouldn’t let tensions elsewhere affect religious harmony: PM Lee](https://www.straitstimes.com/singapore/singaporeans-shouldn-t-let-tensions-elsewhere-affect-religious-harmony-pm-lee), ST 24 Oct
 
