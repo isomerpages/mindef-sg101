@@ -66,6 +66,7 @@ President Tharman’s <a target="blank" href="https://www.facebook.com/TharmanSh
 
 (News article) <a target="blank" href="https://www.straitstimes.com/singapore/community/protection-of-civilians-more-aid-needed-to-prevent-catastrophe-in-gaza-president-tharman">Protection of civilians, more aid needed to prevent catastrophe in Gaza: President Tharman</a>, ST, Oct 22
 
+****
 **Ministry of Foreign Affairs Spokesperson’s Comments**
 
 (News article) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/20231016israelgaza">MFA Spokesperson’s Comments on the Situation in Israel and the Gaza Strip</a>, ST, Oct 16
