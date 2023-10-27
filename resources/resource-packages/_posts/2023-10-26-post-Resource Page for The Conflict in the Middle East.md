@@ -28,7 +28,10 @@ This issue is still developing. A full discussion is expected to take place in P
 
 ****
 **People in countries worldwide have been divided due to the conflict**
+
+
 (Video) <a target="blank" href="https://www.youtube.com/watch?v=pyo1ff69LaY">Israel-Hamas war: Worldwide protests as nations ramp up security</a>, ST, Oct 13
+
 
 ****
 **Singapore’s Position on the Situation in the Middle East (order by date of publication)**
