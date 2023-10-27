@@ -38,13 +38,11 @@ This issue is still developing. A full discussion is expected to take place in P
 
 **Information about the Situation in the Middle East (order by date of publication)**
 
-(News article) [Netanyahu declares Israel at war as Hamas attacks kill over 100](https://www.straitstimes.com/world/middle-east/sirens-warning-of-incoming-rockets-sound-around-gaza-near-tel-aviv), _Straits Times_ 9 Oct
-
 (News Article) <a target="blank" href="https://www.straitstimes.com/world/middle-east/sirens-warning-of-incoming-rockets-sound-around-gaza-near-tel-aviv">Netanyahu declares Israel at war as Hamas attacks kill over 100</a>, Straits Times, Oct 9
 
-(News article) [Israel vows ‘mighty vengeance’ after surprise attack by Hamas kills hundreds](https://www.channelnewsasia.com/world/israel-hamas-surprise-attack-gaza-strikes-3828731), ChannelNewsAsia 9 Oct&nbsp;
+(News Article) <a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-surprise-attack-gaza-strikes-3828731">Israel vows ‘mighty vengeance’ after surprise attack by Hamas kills hundreds</a>, ChannelNewsAsia, Oct 9
 
-(News article) [What is the Palestinian group Hamas?](https://www.channelnewsasia.com/world/what-palestinian-group-hamas-3828851), ST 9 Oct&nbsp;
+(News Article) <a target="blank" href="https://www.channelnewsasia.com/world/what-palestinian-group-hamas-3828851">What is the Palestinian group Hamas?</a>, ST, Oct 9
 
 People in countries worldwide have been divided due to the conflict
 
