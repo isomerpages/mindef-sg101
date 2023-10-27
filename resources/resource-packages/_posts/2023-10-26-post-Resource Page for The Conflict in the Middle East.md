@@ -24,6 +24,9 @@ _(Video)_ [_PM Lee’s comments on Hamas’ attack on Israel_](https://www.faceb
 
 _(Video)_ [_PM Lee’s comments on Israel’s response to the Hamas attacks_](https://www.facebook.com/watch/?v=3553596864927649)_, Gov.sg Facebook page, 23 Oct_
 
+#### **Useful Videos**
+
+**Introduction to understanding why sovereignty matters to small states**. 
 +++++
 On 7 Oct 2023, Hamas launched a coordinated surprise offensive on Israel via land, air and sea, to which Israel retaliated. The conflict has since resulted in deaths and injuries of many innocent civilians.
 
