@@ -24,23 +24,22 @@ _(Video)_ [_PM Lee’s comments on Hamas’ attack on Israel_](https://www.faceb
 
 _(Video)_ [_PM Lee’s comments on Israel’s response to the Hamas attacks_](https://www.facebook.com/watch/?v=3553596864927649)_, Gov.sg Facebook page, 23 Oct_
 
-#### **Useful Videos**
+#### **Useful Resources**
 
-**Introduction to understanding why sovereignty matters to small states**. 
-+++++
+
 On 7 Oct 2023, Hamas launched a coordinated surprise offensive on Israel via land, air and sea, to which Israel retaliated. The conflict has since resulted in deaths and injuries of many innocent civilians.
 
-Singapore condemns all acts of terror and wanton violence.&nbsp;
+Singapore condemns all acts of terror and wanton violence.
 
-To better understand the situation in the Middle East and Singapore’s position, below are some useful resources.&nbsp;
+To better understand the situation in the Middle East and Singapore’s position, below are some useful resources.
 
-This issue is still developing. A full discussion is expected to take place in Parliament when it sits in early November 2023.&nbsp; &nbsp;Further updates will be made to this resource page.
+This issue is still developing. A full discussion is expected to take place in Parliament when it sits in early November 2023. Further updates will be made to this resource page.
 
-+++++
+****
 
 **Information about the Situation in the Middle East (order by date of publication)**
 
-(News article) [Netanyahu declares Israel at war as Hamas attacks kill over 100](https://www.straitstimes.com/world/middle-east/sirens-warning-of-incoming-rockets-sound-around-gaza-near-tel-aviv), _Straits Times_ 9 Oct&nbsp;
+(News article) [Netanyahu declares Israel at war as Hamas attacks kill over 100](https://www.straitstimes.com/world/middle-east/sirens-warning-of-incoming-rockets-sound-around-gaza-near-tel-aviv), _Straits Times_ 9 Oct
 
 (News article) [Israel vows ‘mighty vengeance’ after surprise attack by Hamas kills hundreds](https://www.channelnewsasia.com/world/israel-hamas-surprise-attack-gaza-strikes-3828731), ChannelNewsAsia 9 Oct&nbsp;
 
@@ -52,13 +51,13 @@ People in countries worldwide have been divided due to the conflict
 
 **Singapore’s Position on the Situation in the Middle East (order by date of publication)**
 
-_(Transcript)_ [Media Doorstop on the Situation in the Middle East with Mr K Shanmugam, Minister for Home Affairs and Minister for Law, Ministry of Home Affairs](https://www.mha.gov.sg/mediaroom/speeches/transcript-of-media-doorstop-on-the-situation-in-the-middle-east-with-mr-k-shanmugam-minister-for-home-affairs-and-minister-for-law/), 12 Oct
+(Transcript) <a target="blank" href="https://www.mha.gov.sg/mediaroom/speeches/transcript-of-media-doorstop-on-the-situation-in-the-middle-east-with-mr-k-shanmugam-minister-for-home-affairs-and-minister-for-law/">Media Doorstop on the Situation in the Middle East with Mr K Shanmugam, Minister for Home Affairs and Minister for Law</a>, Ministry of Home Affairs, Oct 12
 
-_(__Video__)_ [Singapore must never let external events affect ‘precious peace’: Shanmugam on Israel-Hamas war](https://www.youtube.com/watch?v=U8pY-qjpE78), CNA 13 Oct
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kXXH7WdNGKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-_(News article)_ [Singapore must never let external events affect ‘precious peace’; Shanmugam on Israel-Hamas war](https://www.straitstimes.com/singapore/singapore-must-never-let-external-events-affect-precious-peace-shanmugam-on-israel-hamas-war), ST _13 Oct_&nbsp;
+(News article) [Singapore must never let external events affect ‘precious peace’; Shanmugam on Israel-Hamas war](https://www.straitstimes.com/singapore/singapore-must-never-let-external-events-affect-precious-peace-shanmugam-on-israel-hamas-war), Straits Times Oct 13
 
-_(News article)_ [Singapore's Chief Rabbi, Mufti reaffirm solidarity between communities amid 'senseless' Israel-Hamas war](https://www.channelnewsasia.com/singapore/chief-rabbi-mufti-singapore-solidarity-jewish-muslim-communities-israel-hamas-war-3847391), ChannelNewsAsia 15 Oct&nbsp;
+(Transcript) <a target="blank" href="https://www.channelnewsasia.com/singapore/chief-rabbi-mufti-singapore-solidarity-jewish-muslim-communities-israel-hamas-war-3847391">Singapore's Chief Rabbi, Mufti reaffirm solidarity between communities amid 'senseless' Israel-Hamas war</a>, ChannelNewsAsia, Oct 15
 
 _(News article_[_)_ Singapore Red Cross and Government pledge $505,000 for relief efforts amid Israel-Hamas war](https://www.straitstimes.com/singapore/singapore-red-cross-pledges-205k-for-relief-efforts-amid-israel-hamas-war), ST 16 Oct
 
