@@ -10,7 +10,7 @@ image: ""
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kXXH7WdNGKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-(News Article) <a target="blank" href="https://www.straitstimes.com/singapore/singapore-must-never-let-external-events-affect-precious-peace-shanmugam-on-israel-hamas-war">Singapore must never let external events affect 'precious peace': Shanmugam on Israel-Hamas war</a>, *ChannelNewsAsia, Oct 13*
+
 
 <a target="blank" href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/establishing-our-place-in-the-world/">Heart of Public Service</a>.
 
@@ -55,11 +55,13 @@ This issue is still developing. A full discussion is expected to take place in P
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kXXH7WdNGKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-(News article) [Singapore must never let external events affect ‘precious peace’; Shanmugam on Israel-Hamas war](https://www.straitstimes.com/singapore/singapore-must-never-let-external-events-affect-precious-peace-shanmugam-on-israel-hamas-war), Straits Times Oct 13
+(News Article) <a target="blank" href="https://www.straitstimes.com/singapore/singapore-must-never-let-external-events-affect-precious-peace-shanmugam-on-israel-hamas-war">Singapore must never let external events affect 'precious peace': Shanmugam on Israel-Hamas war</a>, ChannelNewsAsia, Oct 13
 
-(Transcript) <a target="blank" href="https://www.channelnewsasia.com/singapore/chief-rabbi-mufti-singapore-solidarity-jewish-muslim-communities-israel-hamas-war-3847391">Singapore's Chief Rabbi, Mufti reaffirm solidarity between communities amid 'senseless' Israel-Hamas war</a>, ChannelNewsAsia, Oct 15
+(News Article) <a target="blank" href="https://www.channelnewsasia.com/singapore/chief-rabbi-mufti-singapore-solidarity-jewish-muslim-communities-israel-hamas-war-3847391">Singapore's Chief Rabbi, Mufti reaffirm solidarity between communities amid 'senseless' Israel-Hamas war</a>, ChannelNewsAsia, Oct 15
 
-_(News article_[_)_ Singapore Red Cross and Government pledge $505,000 for relief efforts amid Israel-Hamas war](https://www.straitstimes.com/singapore/singapore-red-cross-pledges-205k-for-relief-efforts-amid-israel-hamas-war), ST 16 Oct
+(News article) href="https://www.straitstimes.com/singapore/singapore-red-cross-pledges-205k-for-relief-efforts-amid-israel-hamas-war" target="blank"&gt;Singapore Red Cross and Government pledge $505,000 for relief efforts amid Israel-Hamas war, ST, Oct 16
+
+[_)_ Singapore Red Cross and Government pledge $505,000 for relief efforts amid Israel-Hamas war](https://www.straitstimes.com/singapore/singapore-red-cross-pledges-205k-for-relief-efforts-amid-israel-hamas-war), ST 16 Oct
 
 _(Transcript)_ [Excerpt of PM Lee Hsien Loong’s Media Wrap-up in Riyadh, Kingdom of Saudi Arabia](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-Media-Wrap-up-Interview-in-Riyadh-Kingdom-of-Saudi-Arabia-Oct-2023), PMO 20 Oct
 
