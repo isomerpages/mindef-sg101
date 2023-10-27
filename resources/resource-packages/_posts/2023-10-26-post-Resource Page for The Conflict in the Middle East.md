@@ -73,9 +73,11 @@ This issue is still developing. A full discussion is expected to take place in P
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4XX-PLA2KuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 (Video) PM Lee on Israel's response to the Hamas attacks, Gov.sg, Oct 23
 
-_(News article)_ [Singaporeans shouldn’t let tensions elsewhere affect religious harmony: PM Lee](https://www.straitstimes.com/singapore/singaporeans-shouldn-t-let-tensions-elsewhere-affect-religious-harmony-pm-lee), ST 24 Oct
+(News article) <a target="blank" href="https://www.straitstimes.com/singapore/singaporeans-shouldn-t-let-tensions-elsewhere-affect-religious-harmony-pm-lee">Singaporeans shouldn’t let tensions elsewhere affect religious harmony: PM Lee</a>, ST, Oct 24
 
-_(__Video__)_ [Recent international events have reminded us that our peace and stability is precious and should not be taken for granted](https://www.youtube.com/watch?v=7hkM6oIFQ9A), Gov.sg, 20 Oct
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7hkM6oIFQ9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+(Video) Recent international events have reminded us that our peace and stability is precious and should not be taken for granted, Gov.sg, Oct 20
 
 President Tharman’s [Facebook post](https://www.facebook.com/TharmanShanmugaratnam/posts/pfbid022DuFLZ7aMGiFjADsgxdYoCs2PBRasDWpfm5vWeC2xvz1rPbZaBzeELS4WVzgzNV4l?__cft__%5b0%5d=AZVcCXVMuSDZAL4M_kn9Etv5uNhb5tWtveLD_sohEdGtQ8PVIu-Io-5UEt4kIUmwsZCV2T0AQBeBotCFhcdVhoY9ggCDwmFWU84WNbhw_408jykY7Y4QxHi3vukzZB55bqPzSOJdiwgXHwzAlFaVVRTncSS88PUdTdYRLJsYPk7vRiaLotRb6eikYBer-mjzFpI&amp;__tn__=%2CO%2CP-R), Facebook 22 Oct&nbsp;
 
