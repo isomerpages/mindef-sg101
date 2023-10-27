@@ -44,10 +44,11 @@ This issue is still developing. A full discussion is expected to take place in P
 
 (News Article) <a target="blank" href="https://www.channelnewsasia.com/world/what-palestinian-group-hamas-3828851">What is the Palestinian group Hamas?</a>, ST, Oct 9
 
-People in countries worldwide have been divided due to the conflict
+****
+**People in countries worldwide have been divided due to the conflict**
+(Video) <a target="blank" href="https://www.youtube.com/watch?v=pyo1ff69LaY">Israel-Hamas war: Worldwide protests as nations ramp up security</a>, ST, Oct 13
 
-(Video) [Worldwide protests as nations ramp up security](https://www.youtube.com/watch?v=pyo1ff69LaY), ST 13 Oct
-
+****
 **Singapore’s Position on the Situation in the Middle East (order by date of publication)**
 
 (Transcript) <a target="blank" href="https://www.mha.gov.sg/mediaroom/speeches/transcript-of-media-doorstop-on-the-situation-in-the-middle-east-with-mr-k-shanmugam-minister-for-home-affairs-and-minister-for-law/">Media Doorstop on the Situation in the Middle East with Mr K Shanmugam, Minister for Home Affairs and Minister for Law</a>, Ministry of Home Affairs, Oct 12
