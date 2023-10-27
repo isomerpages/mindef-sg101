@@ -24,7 +24,7 @@ This issue is still developing. A full discussion is expected to take place in P
 
 (News Article) <a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-surprise-attack-gaza-strikes-3828731">Israel vows ‘mighty vengeance’ after surprise attack by Hamas kills hundreds</a>, ChannelNewsAsia, Oct 9
 
-(News Article) <a target="blank" href="https://www.channelnewsasia.com/world/what-palestinian-group-hamas-3828851">What is the Palestinian group Hamas?</a>, ST, Oct 9
+(News Article) <a target="blank" href="https://www.channelnewsasia.com/world/what-palestinian-group-hamas-3828851">What is the Palestinian group Hamas?</a>, CNA, Oct 8
 
 ****
 **People in countries worldwide have been divided due to the conflict**
@@ -36,6 +36,7 @@ This issue is still developing. A full discussion is expected to take place in P
 (Transcript) <a target="blank" href="https://www.mha.gov.sg/mediaroom/speeches/transcript-of-media-doorstop-on-the-situation-in-the-middle-east-with-mr-k-shanmugam-minister-for-home-affairs-and-minister-for-law/">Media Doorstop on the Situation in the Middle East with Mr K Shanmugam, Minister for Home Affairs and Minister for Law</a>, Ministry of Home Affairs, Oct 12
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kXXH7WdNGKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+(Video) Minister Shanmugam on the Situation in the Middle East, CNA Oct 13
 
 (News Article) <a target="blank" href="https://www.straitstimes.com/singapore/singapore-must-never-let-external-events-affect-precious-peace-shanmugam-on-israel-hamas-war">Singapore must never let external events affect 'precious peace': Shanmugam on Israel-Hamas war</a>, ChannelNewsAsia, Oct 13
 
