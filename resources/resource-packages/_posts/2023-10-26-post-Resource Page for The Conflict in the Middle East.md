@@ -81,14 +81,8 @@ This issue is still developing. A full discussion is expected to take place in P
 
 President Tharman’s <a target="blank" href="https://www.facebook.com/TharmanShanmugaratnam/posts/pfbid022DuFLZ7aMGiFjADsgxdYoCs2PBRasDWpfm5vWeC2xvz1rPbZaBzeELS4WVzgzNV4l?__cft__%5b0%5d=AZVcCXVMuSDZAL4M_kn9Etv5uNhb5tWtveLD_sohEdGtQ8PVIu-Io-5UEt4kIUmwsZCV2T0AQBeBotCFhcdVhoY9ggCDwmFWU84WNbhw_408jykY7Y4QxHi3vukzZB55bqPzSOJdiwgXHwzAlFaVVRTncSS88PUdTdYRLJsYPk7vRiaLotRb6eikYBer-mjzFpI&amp;__tn__=%2CO%2CP-R">Facebook post</a>, Oct 22
 
-(News article) [Protection of civilians, more aid needed to prevent catastrophe in Gaza: President Tharman](https://www.straitstimes.com/singapore/community/protection-of-civilians-more-aid-needed-to-prevent-catastrophe-in-gaza-president-tharman), ST 22 Oct
+(News article) <a target="blank" href="https://www.straitstimes.com/singapore/community/protection-of-civilians-more-aid-needed-to-prevent-catastrophe-in-gaza-president-tharman">Protection of civilians, more aid needed to prevent catastrophe in Gaza: President Tharman</a>, ST, Oct 22
 
 **Ministry of Foreign Affairs Spokesperson’s Comments**
 
-[MFA Spokesperson’s Comments on the Situation in Israel and the Gaza Strip](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/20231016israelgaza), MFA 16 Oct
-
-**. . . . .**
-
-  
-
-&nbsp;\[IN1\]For Dir: SG101 allows for embedding of YouTube videos only. I have highlighted which are the videos that will be embedded on SG101 in the list below (in yellow).
+(News article) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/20231016israelgaza">MFA Spokesperson’s Comments on the Situation in Israel and the Gaza Strip</a>, ST, Oct 16
