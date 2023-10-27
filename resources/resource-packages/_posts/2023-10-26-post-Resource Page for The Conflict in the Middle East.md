@@ -58,7 +58,6 @@ This issue is still developing. A full discussion is expected to take place in P
 
 (News article) <a target="blank" href="https://www.straitstimes.com/singapore/singaporeans-shouldn-t-let-tensions-elsewhere-affect-religious-harmony-pm-lee">Singaporeans shouldn’t let tensions elsewhere affect religious harmony: PM Lee</a>, ST, Oct 24
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7hkM6oIFQ9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 (Video) Recent international events have reminded us that our peace and stability is precious and should not be taken for granted, Gov.sg, Oct 20
 
