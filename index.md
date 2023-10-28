@@ -4,9 +4,11 @@ title: SG101
 description: www.sg101.gov.sg
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Note: To do a search, click on the magnifying glass icon on the
-  top right hand corner of the homepage. To find the icon, adjust the zoom
-  settings in your browser."
+notification: "Note: To do a search, if accessing SG101 via a desktop, click on
+  the magnifying glass icon on the top right hand corner of the homepage. To
+  find the icon, adjust the zoom settings in your browser. If accessing via a
+  mobile device, simply click on the three lines that appear on the top right
+  hand corner."
 sections:
   - hero:
       title: SG101
@@ -29,6 +31,16 @@ sections:
       subtitle: SG101 tells the stories of Singapore's journey as a nation, and helps
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
+  - infopic:
+      title: Resources on the conflict in the Middle East
+      subtitle: Resources
+      id: infopic
+      description: To better understand the Israel-Hamas conflict and Singapore’s
+        position on the issue, click here to find out more.
+      button: Read more
+      url: https://www.sg101.gov.sg/resources/resource-packages/conflictmiddleeast/
+      image: /images/i-h pic.png
+      alt: Image alt text
   - infopic:
       title: Singapore's National Reserves
       subtitle: Economy
@@ -67,10 +79,6 @@ sections:
       url: /resources/resource-packages/racialharmony2023/
       image: /images/rhd 2023.png
       alt: Image alt text
-  - resources:
-      title: Latest Resources
-      subtitle: What's New
-      button: More Resources
   - infopic:
       title: Creating a Shared Identity as Singaporeans
       subtitle: Social
@@ -80,16 +88,6 @@ sections:
       url: /social-national-identity/sharedidentity/
       image: /images/citizens.png
       alt: Image alt text
-  - infopic:
-      title: Hawker Culture in Singapore
-      subtitle: Case study/ Social
-      description: Singaporeans bond through their taste buds, embracing a
-        mind-blowing plethora of cuisines that have evolved and fused over many
-        decades...
-      button: Read more
-      url: /social-national-identity/case-studies/hawkercultureinsg/
-      alt: Image alt text
-      image: /images/hawker.png
   - infopic:
       title: Building and Maintaining a Caring Society
       subtitle: Social
@@ -101,14 +99,13 @@ sections:
       image: /images/multiabled.png
       alt: Image alt text
   - infopic:
-      title: Volunteerism in Singapore
-      subtitle: Case study/ Social
-      description: "As Singapore approaches the second millennium, it faces a new
-        crisis: an ageing population. How can we get able-bodied seniors to help
-        their peers in need?"
+      title: Singapore's Food Challenge
+      subtitle: Case Study/ Economy
+      description: Our reliance on food imports leaves us exposed to external forces.
+        How do we build and strengthen our food resilience?
       button: Read More
-      url: /social-national-identity/examples/volunteerism
-      image: /images/volunteers.png
+      url: /economy/case-studies/sg-food-challenge/
+      image: /images/farming.jpeg
       alt: Image alt text
   - infopic:
       title: "2010 to the Present: New Challenges"
@@ -119,22 +116,8 @@ sections:
       url: /economy/growing-our-economy/2010/
       image: /images/empty airport.png
       alt: Image alt text
-  - infopic:
-      title: Staying Stable
-      subtitle: Economy
-      description: in an increasingly fragmented world, Singapore must remain stable,
-        safe and attractive to foreign investment, and relevant to the world.
-      button: Read More
-      url: /economy/staying-exceptional/stable/
-      image: /images/dsc0964.jpg
-      alt: Image alt text
-  - infopic:
-      title: Singapore's Food Challenge
-      subtitle: Case Study/ Economy
-      description: Our reliance on food imports leaves us exposed to external forces.
-        How do we build and strengthen our food resilience?
-      button: Read More
-      url: /economy/case-studies/sg-food-challenge/
-      image: /images/farming.jpeg
-      alt: Image alt text
+  - resources:
+      title: Latest Resources
+      subtitle: What's New
+      button: More Resources
 ---
