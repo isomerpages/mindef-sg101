@@ -32,7 +32,7 @@ sections:
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
   - infopic:
-      title: Resources on the conflict in the Middle East
+      title: Resources on the Conflict in the Middle East
       subtitle: Resources
       id: infopic
       description: To better understand the Israel-Hamas conflict and Singapore’s
