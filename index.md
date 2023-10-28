@@ -32,6 +32,16 @@ sections:
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
   - infopic:
+      title: Resources on the conflict in the Middle East
+      subtitle: Resources
+      id: infopic
+      description: To better understand the Israel-Hamas conflict and Singapore’s
+        position on the issue, click here to find out more.
+      button: Read more
+      url: https://www.sg101.gov.sg/resources/resource-packages/conflictmiddleeast/
+      image: /images/i-h pic.png
+      alt: Image alt text
+  - infopic:
       title: Singapore's National Reserves
       subtitle: Economy
       description: CNA's Singapore Reserves Revealed series gave an exclusive peek
@@ -109,15 +119,5 @@ sections:
       button: Read More
       url: /economy/case-studies/sg-food-challenge/
       image: /images/farming.jpeg
-      alt: Image alt text
-  - infopic:
-      title: Resources on the conflict in the Middle East
-      subtitle: Resources
-      id: infopic
-      description: To better understand the Israel-Hamas conflict and Singapore’s
-        position on the issue, click here to find out more.
-      button: Read more
-      url: https://www.sg101.gov.sg/resources/resource-packages/conflictmiddleeast/
-      image: /images/i-h pic.png
       alt: Image alt text
 ---
