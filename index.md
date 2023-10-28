@@ -79,10 +79,6 @@ sections:
       url: /resources/resource-packages/racialharmony2023/
       image: /images/rhd 2023.png
       alt: Image alt text
-  - resources:
-      title: Latest Resources
-      subtitle: What's New
-      button: More Resources
   - infopic:
       title: Creating a Shared Identity as Singaporeans
       subtitle: Social
@@ -103,15 +99,6 @@ sections:
       image: /images/multiabled.png
       alt: Image alt text
   - infopic:
-      title: "2010 to the Present: New Challenges"
-      subtitle: Economy
-      description: What are the structural challenges and short-term obstacles that
-        Singapore faces?
-      button: Read More
-      url: /economy/growing-our-economy/2010/
-      image: /images/empty airport.png
-      alt: Image alt text
-  - infopic:
       title: Singapore's Food Challenge
       subtitle: Case Study/ Economy
       description: Our reliance on food imports leaves us exposed to external forces.
@@ -120,4 +107,17 @@ sections:
       url: /economy/case-studies/sg-food-challenge/
       image: /images/farming.jpeg
       alt: Image alt text
+  - infopic:
+      title: "2010 to the Present: New Challenges"
+      subtitle: Economy
+      description: What are the structural challenges and short-term obstacles that
+        Singapore faces?
+      button: Read More
+      url: /economy/growing-our-economy/2010/
+      image: /images/empty airport.png
+      alt: Image alt text
+  - resources:
+      title: Latest Resources
+      subtitle: What's New
+      button: More Resources
 ---
