@@ -71,7 +71,7 @@ President Tharman’s <a target="blank" href="https://www.facebook.com/TharmanSh
 ****
 **Official Statements by the Ministry of Foreign Affairs**
 
-(Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/MFA-Spokesperson-Comment\_Situation-in-Israel\_231007">MFA Spokesperson’s Comments on the Situation in Israel, 7 October 2023</a>, Ministry of Foreign Affairs, Oct 7
+(Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/MFA-Spokesperson-Comment_Situation-in-Israel_231007)">MFA Spokesperson’s Comments on the Situation in Israel, 7 October 2023</a>, Ministry of Foreign Affairs, Oct 7
 
 (Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/20231016israelgaza">MFA Spokesperson’s Comments on the Situation in Israel and the Gaza Strip</a>, Ministry of Foreign Affairs, Oct 16
 
