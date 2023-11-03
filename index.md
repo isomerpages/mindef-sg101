@@ -42,6 +42,16 @@ sections:
       image: /images/i-h pic.png
       alt: Image alt text
   - infopic:
+      title: News in Focus 09 2023
+      subtitle: News in Focus/ Resources
+      description: "In this latest issue of NiF, we cover: Key Highlights from the
+        Forward SG Report; and Three Security Issues that continue to Preoccupy
+        Singapore."
+      button: Read More
+      url: https://www.sg101.gov.sg/resources/news-in-focus/09-2023/
+      image: /images/nif 9_23 cover.png
+      alt: Image alt text
+  - infopic:
       title: Singapore's National Reserves
       subtitle: Economy
       description: CNA's Singapore Reserves Revealed series gave an exclusive peek
@@ -50,16 +60,6 @@ sections:
       button: read more
       url: /economy/growing-our-economy/1997/
       image: /images/sg101 homepage pic.jpeg
-      alt: Image alt text
-  - infopic:
-      title: News in Focus 08 2023
-      subtitle: News in Focus/ Resources
-      description: "In this latest issue of NiF, we cover: Presidential Elections
-        2023; Finding Common Ground in Troubled Times; RSAF55 Open House; and
-        World Mental Health Day."
-      button: Read More
-      url: https://www.sg101.gov.sg/resources/news-in-focus/08-2023/
-      image: /images/nif 08-23 cover page.png
       alt: Image alt text
   - infopic:
       title: Onward as One - National Day 2023 NE Engagement Package
