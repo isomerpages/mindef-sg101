@@ -5,6 +5,7 @@ date: 2023-10-26
 layout: post
 description: Israel hamas palestine middle-east
 image: ""
+variant: markdown
 ---
 #### **Useful Resources**
 
@@ -14,7 +15,7 @@ Singapore condemns all acts of terror and wanton violence.
 
 To better understand the situation in the Middle East and Singapore’s position, below are some useful resources.
 
-This issue is still developing. A full discussion is expected to take place in Parliament when it sits in early November 2023. Further updates will be made to this resource page.
+This issue is still developing. A full discussion is expected to take place in Parliament when it sits in early November 2023. Further updates will be made to this resource page as the situation continues to develop.
 
 ****
 
@@ -71,7 +72,7 @@ President Tharman’s <a target="blank" href="https://www.facebook.com/TharmanSh
 ****
 **Official Statements by the Ministry of Foreign Affairs**
 
-(Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/MFA-Spokesperson-Comment\_Situation-in-Israel\_231007">MFA Spokesperson’s Comments on the Situation in Israel, 7 October 2023</a>, Ministry of Foreign Affairs, Oct 7
+(Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/MFA-Spokesperson-Comment_Situation-in-Israel_231007">MFA Spokesperson’s Comments on the Situation in Israel, 7 October 2023</a>, Ministry of Foreign Affairs, Oct 7
 
 (Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/20231016israelgaza">MFA Spokesperson’s Comments on the Situation in Israel and the Gaza Strip</a>, Ministry of Foreign Affairs, Oct 16
 
