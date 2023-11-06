@@ -35,7 +35,7 @@ This issue is still developing. A full discussion is expected to take place in P
 
 
 ****
-**Reports on The Situation in the Middle East (Order by Date of Publication)**
+**Reports on the Situation in the Middle East (Order by Date of Publication)**
 
 (Transcript) <a target="blank" href="https://www.mha.gov.sg/mediaroom/speeches/transcript-of-media-doorstop-on-the-situation-in-the-middle-east-with-mr-k-shanmugam-minister-for-home-affairs-and-minister-for-law/">Media Doorstop on the Situation in the Middle East with Mr K Shanmugam, Minister for Home Affairs and Minister for Law</a>, Ministry of Home Affairs, Oct 12
 
