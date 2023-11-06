@@ -35,7 +35,7 @@ This issue is still developing. A full discussion is expected to take place in P
 
 
 ****
-**Singapore’s Position on the Situation in the Middle East (Order by Date of Publication)**
+**Reports on the Situation in the Middle East (Order by Date of Publication)**
 
 (Transcript) <a target="blank" href="https://www.mha.gov.sg/mediaroom/speeches/transcript-of-media-doorstop-on-the-situation-in-the-middle-east-with-mr-k-shanmugam-minister-for-home-affairs-and-minister-for-law/">Media Doorstop on the Situation in the Middle East with Mr K Shanmugam, Minister for Home Affairs and Minister for Law</a>, Ministry of Home Affairs, Oct 12
 
@@ -68,6 +68,8 @@ This issue is still developing. A full discussion is expected to take place in P
 President Tharman’s <a target="blank" href="https://www.facebook.com/TharmanShanmugaratnam/posts/pfbid022DuFLZ7aMGiFjADsgxdYoCs2PBRasDWpfm5vWeC2xvz1rPbZaBzeELS4WVzgzNV4l?__cft__%5b0%5d=AZVcCXVMuSDZAL4M_kn9Etv5uNhb5tWtveLD_sohEdGtQ8PVIu-Io-5UEt4kIUmwsZCV2T0AQBeBotCFhcdVhoY9ggCDwmFWU84WNbhw_408jykY7Y4QxHi3vukzZB55bqPzSOJdiwgXHwzAlFaVVRTncSS88PUdTdYRLJsYPk7vRiaLotRb6eikYBer-mjzFpI&amp;__tn__=%2CO%2CP-R">Facebook Post</a>, Oct 22
 
 (News Article) <a target="blank" href="https://www.straitstimes.com/singapore/community/protection-of-civilians-more-aid-needed-to-prevent-catastrophe-in-gaza-president-tharman">Protection of Civilians, More Aid Needed to Prevent Catastrophe in Gaza</a>, Straits Times, Oct 22
+
+(News Article) <a target="blank" href="https://www.channelnewsasia.com/singapore/israel-hamas-conflict-stark-reminder-singapore-national-interests-stake-vivian-balakrishnan-3899991?cid=telegram_cna_social_28112017_cna">Israel-Hamas Conflict a 'Reminder' for Singapore That It Has National Interests at Stake: Vivian Balakrishnan</a>, Channel News Asia, Nov 6
 
 ****
 **Official Statements by the Ministry of Foreign Affairs**
