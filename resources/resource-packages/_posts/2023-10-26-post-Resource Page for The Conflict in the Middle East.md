@@ -82,4 +82,6 @@ President Tharman’s <a target="blank" href="https://www.facebook.com/TharmanSh
 
 (Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/20231028---10th-ESS-UNGA-EOV"> Explanation of Vote by Ambassador Burhan Gafoor, Permanent Representative of Singapore to the United Nations, After the Adoption of the Resolution Entitled “Protection of Civilians and Upholding Legal and Humanitarian Obligations” at the Emergency Special Session of the United Nations General Assembly, 27 October</a>, Ministry of Foreign Affairs, Oct 27
 
+(Transcript) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/11/20231106ministerspeech"> Speech by Minister for Foreign Affairs Dr Vivian Balakrishnan During the Parliamentary Motion on the Israel-Hamas Conflict, 6 November 2023</a>, Ministry of Foreign Affairs, Nov 6
+
 (Transcript) <a target="blank" href="https://www.pmo.gov.sg/Newsroom/DPM-Lawrence-Wong-on-the-Israel-Hamas-Conflict-November-2023"> DPM Lawrence Wong on the Israel-Hamas Conflict (November 2023)</a> Prime Minister's Office Singapore, Nov 6
