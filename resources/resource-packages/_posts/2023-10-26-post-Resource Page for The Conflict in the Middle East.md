@@ -71,8 +71,10 @@ President Tharman’s <a target="blank" href="https://www.facebook.com/TharmanSh
 
 (News Article) <a target="blank" href="https://www.channelnewsasia.com/singapore/israel-hamas-conflict-stark-reminder-singapore-national-interests-stake-vivian-balakrishnan-3899991?cid=telegram_cna_social_28112017_cna">Israel-Hamas Conflict a 'Reminder' for Singapore That It Has National Interests at Stake: Vivian Balakrishnan</a>, Channel News Asia, Nov 6
 
+(News Article) <a target="blank" href="https://www.straitstimes.com/singapore/politics/pap-wp-and-psp-condemn-violence-against-civilians-in-israel-hamas-war-urge-cohesion-and-harmony">PAP, WP and PSP Condemn Violence Against Civilians in Israel-Hamas War, Urge Cohesion and Harmony</a>, Straits Times, Nov 7
+
 ****
-**Official Statements by the Ministry of Foreign Affairs**
+**Official Statements by Prime Minister's Office Singapore and the Ministry of Foreign Affairs**
 
 (Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/MFA-Spokesperson-Comment_Situation-in-Israel_231007">MFA Spokesperson’s Comments on the Situation in Israel, 7 October 2023</a>, Ministry of Foreign Affairs, Oct 7
 
@@ -81,3 +83,7 @@ President Tharman’s <a target="blank" href="https://www.facebook.com/TharmanSh
 (Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/20231028---10thESSUNGAIsrael-Gaza">Statement by the Permanent Representative of Singapore, at the Emergency Special Session of the United Nations General Assembly, 27 October 2023, New York</a>, Ministry of Foreign Affairs, Oct 27
 
 (Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/20231028---10th-ESS-UNGA-EOV"> Explanation of Vote by Ambassador Burhan Gafoor, Permanent Representative of Singapore to the United Nations, After the Adoption of the Resolution Entitled “Protection of Civilians and Upholding Legal and Humanitarian Obligations” at the Emergency Special Session of the United Nations General Assembly, 27 October</a>, Ministry of Foreign Affairs, Oct 27
+
+(Transcript) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/11/20231106ministerspeech"> Speech by Minister for Foreign Affairs Dr Vivian Balakrishnan During the Parliamentary Motion on the Israel-Hamas Conflict, 6 November 2023</a>, Ministry of Foreign Affairs, Nov 6
+
+(Transcript) <a target="blank" href="https://www.pmo.gov.sg/Newsroom/DPM-Lawrence-Wong-on-the-Israel-Hamas-Conflict-November-2023"> DPM Lawrence Wong on the Israel-Hamas Conflict (November 2023)</a> Prime Minister's Office Singapore, Nov 6
