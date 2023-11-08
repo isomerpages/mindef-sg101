@@ -71,6 +71,8 @@ President Tharman’s <a target="blank" href="https://www.facebook.com/TharmanSh
 
 (News Article) <a target="blank" href="https://www.channelnewsasia.com/singapore/israel-hamas-conflict-stark-reminder-singapore-national-interests-stake-vivian-balakrishnan-3899991?cid=telegram_cna_social_28112017_cna">Israel-Hamas Conflict a 'Reminder' for Singapore That It Has National Interests at Stake: Vivian Balakrishnan</a>, Channel News Asia, Nov 6
 
+(News Article) <a target="blank" href="https://www.straitstimes.com/singapore/politics/pap-wp-and-psp-condemn-violence-against-civilians-in-israel-hamas-war-urge-cohesion-and-harmony">PAP, WP and PSP Condemn Violence Against Civilians in Israel-Hamas War, Urge Cohesion and Harmony</a>, Straits Times, Nov 7
+
 ****
 **Official Statements by Prime Minister's Office Singapore and the Ministry of Foreign Affairs**
 
