@@ -32,6 +32,16 @@ sections:
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
   - infopic:
+      title: NE Insights on the Conflict in the Middle East
+      subtitle: NE Insights / Resources
+      id: infopic
+      description: "In this issue of NE Insights, we cover: Singapore’s position on
+        the Israel-Hamas conflict; and key reflections for Singapore."
+      button: Read More
+      url: https://www.sg101.gov.sg/files/NE_Insights_on_the_Conflict_in_the_Middle_East.pdf
+      image: /images/NE_Insights_on_the.png
+      alt: Image alt text
+  - infopic:
       title: Resources on the Conflict in the Middle East
       subtitle: Resources
       id: infopic
@@ -116,8 +126,4 @@ sections:
       url: /economy/growing-our-economy/2010/
       image: /images/empty airport.png
       alt: Image alt text
-  - resources:
-      title: Latest Resources
-      subtitle: What's New
-      button: More Resources
 ---
