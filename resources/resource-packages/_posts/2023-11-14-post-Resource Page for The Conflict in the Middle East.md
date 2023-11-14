@@ -11,8 +11,6 @@ variant: markdown
 
 On 7 Oct 2023, Hamas launched a coordinated surprise offensive on Israel via land, air and sea, to which Israel retaliated. The conflict has since resulted in deaths and injuries of many innocent civilians.
 
-Singapore condemns all acts of terror and wanton violence.
-
 To better understand the situation in the Middle East and Singapore’s position, below are some useful resources.
 
 Further updates will be made to this resource page as the situation continues to develop.
