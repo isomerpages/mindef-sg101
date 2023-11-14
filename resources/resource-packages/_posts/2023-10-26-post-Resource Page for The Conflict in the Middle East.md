@@ -15,7 +15,12 @@ Singapore condemns all acts of terror and wanton violence.
 
 To better understand the situation in the Middle East and Singapore’s position, below are some useful resources.
 
-This issue is still developing. A full discussion is expected to take place in Parliament when it sits in early November 2023. Further updates will be made to this resource page as the situation continues to develop.
+Further updates will be made to this resource page as the situation continues to develop.
+
+****
+**Download:**
+<br> 📎  [NE Insights - The Conflict in the Middle East](/files/NE_Insights_on_the_Conflict_in_the_Middle_East.pdf)
+
 
 ****
 
