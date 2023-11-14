@@ -18,6 +18,11 @@ To better understand the situation in the Middle East and Singapore’s position
 Further updates will be made to this resource page as the situation continues to develop.
 
 ****
+**Download:**
+<br> 📎 [NE Insights - The Conflict in the Middle East](/files/NE_Insights_on_the_Conflict_in_the_Middle_East.pdf)
+
+
+****
 
 **Information about the Situation in the Middle East (Order by Date of Publication)**
 
