@@ -38,7 +38,7 @@ sections:
       description: "In this issue of NE Insights, we cover: Singapore’s position on
         the Israel-Hamas conflict; and key reflections for Singapore."
       button: Read More
-      url: https://www.sg101.gov.sg/files/NE_Insights_on_the_Conflict_in_the_Middle_East.pdf
+      url: https://www.sg101.gov.sg/resources/resource-packages/conflictmiddleeast/
       image: /images/NE_Insights_on_the.png
       alt: Image alt text
   - infopic:
