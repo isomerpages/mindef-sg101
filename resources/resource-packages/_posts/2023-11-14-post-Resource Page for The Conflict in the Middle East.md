@@ -75,6 +75,8 @@ President Tharman’s <a target="blank" href="https://www.facebook.com/TharmanSh
 
 (News Article) <a target="blank" href="https://www.straitstimes.com/singapore/politics/pap-wp-and-psp-condemn-violence-against-civilians-in-israel-hamas-war-urge-cohesion-and-harmony">PAP, WP and PSP Condemn Violence Against Civilians in Israel-Hamas War, Urge Cohesion and Harmony</a>, Straits Times, Nov 7
 
+(News Article) <a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-war-gaza-hostage-release-deal-negotiations-qatar-3942191">Israel and Hamas to Start Four-day Truce on Friday: Qatar Mediators</a>, Channel News Asia, Nov 24
+
 ****
 **Official Statements by Prime Minister's Office Singapore and the Ministry of Foreign Affairs**
 
