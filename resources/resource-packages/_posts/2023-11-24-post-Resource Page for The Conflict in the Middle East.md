@@ -92,4 +92,4 @@ President Tharman’s <a target="blank" href="https://www.facebook.com/TharmanSh
 
 (Transcript) <a target="blank" href="https://www.pmo.gov.sg/Newsroom/DPM-Lawrence-Wong-on-the-Israel-Hamas-Conflict-November-2023"> DPM Lawrence Wong on the Israel-Hamas Conflict (November 2023)</a>, Prime Minister's Office Singapore, Nov 6
 
-(Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/11/Situation-in-Gaza_231117"> MFA Press Statement on the Situation in Gaza</a>, Ministry of Foreign Affairs, 17 Nov
+(Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/11/Situation-in-Gaza_231117"> MFA Press Statement on the Situation in Gaza</a>, Ministry of Foreign Affairs, Nov 17
