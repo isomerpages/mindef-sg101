@@ -5,6 +5,7 @@ date: 2023-08-16
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 The theme for 2023's Total Defence campaign - "Together We Keep Singapore Strong" - focuses on the many ways we can put Total Defence into action in our everyday lives.
 
@@ -125,7 +126,9 @@ You may find past speeches and press releases on Total Defence [here](https://ww
 ![Total Defence Badge (Gold, Silver, Bronze)](/images/td%20badge%20(gold,silver,bronze)%202023.png)
 The Total Defence Programme for Uniformed Groups (UGs) aims to promote awareness and involvement in Total Defence by UGs for the attainment of different levels (Bronze, Silver and Gold Badges) of the programme. The refreshed programme provides more opportunities for UG cadets to put Total Defence into action with a greater emphasis on practical emergency preparedness skills, self-directed learning and active citizenry through volunteering. 
 
-For more details and to download the Facilitation Guide, please click [here](https://drive.google.com/drive/folders/1fuABBH_EteJ_aimlelRBTp8n7IDzbEpd?usp=sharing_eil_m&amp;ts=63155ae6). Schools may also write in directly to nexus@defence.gov.sg to request for the badges for the non-UG students.
+For more details and to download the Facilitation Guide, please click [here](https://drive.google.com/drive/folders/1fuABBH_EteJ_aimlelRBTp8n7IDzbEpd). The [policy document](/files/Folio_1___TD_Badge_Programme_Policy.pdf) encompasses the guidelines applicable to the TD Badge Programme. 
+
+Schools may also write in directly to nexus@defence.gov.sg to request for the badges for the non-UG students.
 
 
 ****
