@@ -77,6 +77,7 @@ President Tharman’s <a target="blank" href="https://www.facebook.com/TharmanSh
 
 (News Article) <a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-war-gaza-hostage-release-deal-negotiations-qatar-3942191">Israel and Hamas to Start Four-day Truce on Friday: Qatar Mediators</a>, Channel News Asia, Nov 24
 
+(News Article) <a target="blank" href="https://www.channelnewsasia.com/world/un-general-assembly-gaza-humanitarian-ceasefire-israel-hamas-war-3984446">UN General Assembly Overwhelmingly Demands Immediate Humanitarian Ceasefire in Gaza</a>, Channel News Asia, Dec 13
 ****
 **Official Statements by Prime Minister's Office Singapore and the Ministry of Foreign Affairs**
 
