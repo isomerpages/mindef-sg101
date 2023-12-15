@@ -79,23 +79,3 @@ Further updates will be made to this resource page as the situation continues to
 (Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/20231016israelgaza">MFA Spokesperson’s Comments on the Situation in Israel and the Gaza Strip</a>, Ministry of Foreign Affairs, 16 Oct 2023
 
 (Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/MFA-Spokesperson-Comment_Situation-in-Israel_231007">MFA Spokesperson’s Comments on the Situation in Israel, 7 October 2023</a>, Ministry of Foreign Affairs, 7 Oct 2023
-
-****
-
-**Statements by Singapore's Leaders**
-
-President Tharman’s <a target="blank" href="https://www.facebook.com/TharmanShanmugaratnam/posts/pfbid022DuFLZ7aMGiFjADsgxdYoCs2PBRasDWpfm5vWeC2xvz1rPbZaBzeELS4WVzgzNV4l?__cft__%5b0%5d=AZVcCXVMuSDZAL4M_kn9Etv5uNhb5tWtveLD_sohEdGtQ8PVIu-Io-5UEt4kIUmwsZCV2T0AQBeBotCFhcdVhoY9ggCDwmFWU84WNbhw_408jykY7Y4QxHi3vukzZB55bqPzSOJdiwgXHwzAlFaVVRTncSS88PUdTdYRLJsYPk7vRiaLotRb6eikYBer-mjzFpI&amp;__tn__=%2CO%2CP-R">Facebook Post</a>, Oct 22
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/peV19hr4K4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-(Video) PM Lee on ASEAN's Response to the Situation in Gaza, Gov.sg Oct 23
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9_d8xINrLqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-(Video) PM Lee on Hamas' Attacks on Israel, Gov.sg, Oct 23
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4XX-PLA2KuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-(Video) PM Lee on Israel's Response to the Hamas Attacks, Gov.sg, Oct 23
-
-(Transcript) <a target="blank" href="https://www.mha.gov.sg/mediaroom/speeches/transcript-of-media-doorstop-on-the-situation-in-the-middle-east-with-mr-k-shanmugam-minister-for-home-affairs-and-minister-for-law/">Media Doorstop on the Situation in the Middle East with Mr K Shanmugam, Minister for Home Affairs and Minister for Law</a>, Ministry of Home Affairs, Oct 12
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kXXH7WdNGKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-(Video) Minister Shanmugam on the Situation in the Middle East, Channel News Asia, Oct 13
