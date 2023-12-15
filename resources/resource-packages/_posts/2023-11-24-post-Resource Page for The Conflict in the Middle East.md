@@ -21,37 +21,70 @@ Further updates will be made to this resource page as the situation continues to
 
 ****
 
-**Information about the Situation in the Middle East (Order by Date of Publication)**
+**Key Event Updates Related to the Israel-Hamas Conflict**
 
-(News Article) <a target="blank" href="https://www.straitstimes.com/world/middle-east/sirens-warning-of-incoming-rockets-sound-around-gaza-near-tel-aviv">Netanyahu Declares Israel at war as Hamas attacks Kill Over 100</a>, Straits Times, Oct 9
+<a target="blank" href="https://www.channelnewsasia.com/world/us-official-palestinian-authority-control-gaza-west-bank-3990471">Revamped Palestinian Authority Should Govern Gaza and West Bank, Says Senior US official</a>, Channel News Asia, 15 Dec 2023
 
-(News Article) <a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-surprise-attack-gaza-strikes-3828731">Israel Vows ‘Mighty Vengeance’ after Surprise Attack by Hamas Kills Hundreds</a>, Channel News Asia, Oct 9
+<a target="blank" href="https://www.channelnewsasia.com/world/biden-warns-netanyahu-risks-losing-support-israel-hamas-gaza-palestinian-war-3984606">Biden Warns Netanyahu Risks Losing Support for Hamas War</a>, Channel News Asia, 13 Dec 2023
+																																																																									
+<a target="blank" href="https://www.channelnewsasia.com/world/un-general-assembly-gaza-humanitarian-ceasefire-israel-hamas-war-3984446">UN General Assembly Overwhelmingly Demands Immediate Humanitarian Ceasefire in Gaza</a>, Channel News Asia, 13 Dec 2023
 
-(News Article) <a target="blank" href="https://www.channelnewsasia.com/world/what-palestinian-group-hamas-3828851">What is the Palestinian group Hamas?</a>, Channel News Asia, Oct 8
+<a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-gaza-deaths-battles-rage-3980721">Gaza Deaths Pass 18,200 As Battles Rage</a>, Channel News Asia, 12 Dec 2023
+
+<a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-war-gaza-hostage-release-deal-negotiations-qatar-3942191">Israel and Hamas to Start Four-day Truce on Friday: Qatar Mediators</a>, Channel News Asia, 24 Nov 2023
+
+<a target="blank" href="https://www.youtube.com/watch?v=pyo1ff69LaY">Israel-Hamas war: Worldwide Protests as Nations Ramp up security</a>, Straits Times, 13 Oct 2023
+
+<a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-surprise-attack-gaza-strikes-3828731">Israel Vows ‘Mighty Vengeance’ after Surprise Attack by Hamas Kills Hundreds</a>, Channel News Asia, 9 Oct 2023
+
+<a target="blank" href="https://www.straitstimes.com/world/middle-east/sirens-warning-of-incoming-rockets-sound-around-gaza-near-tel-aviv">Netanyahu Declares Israel at war as Hamas attacks Kill Over 100</a>, Straits Times, 9 Oct 2023
+
+<a target="blank" href="https://www.channelnewsasia.com/world/what-palestinian-group-hamas-3828851">What is the Palestinian group Hamas?</a>, Channel News Asia, 8 Oct 2023
 
 ****
-**People in Countries Worldwide Have Been Divided Due to the Conflict**
+**Singapore's Responses to the Conflict**
 
+<a target="blank" href="https://www.channelnewsasia.com/singapore/shanmugam-anti-singapore-sentiments-online-after-oct-7-hamas-israel-3948091">Rise in Anti-Singapore Sentiment Online Since Israel-Hamas Hostilities: Shanmugam</a>, Channel News Asia, 27 Nov 2023
 
-(Video) <a target="blank" href="https://www.youtube.com/watch?v=pyo1ff69LaY">Israel-Hamas war: Worldwide Protests as Nations Ramp up security</a>, Straits Times, Oct 13
+<a target="blank" href="https://www.straitstimes.com/singapore/politics/pap-wp-and-psp-condemn-violence-against-civilians-in-israel-hamas-war-urge-cohesion-and-harmony">PAP, WP and PSP Condemn Violence Against Civilians in Israel-Hamas War, Urge Cohesion and Harmony</a>, Straits Times, 7 Nov 2023
 
+<a target="blank" href="https://www.channelnewsasia.com/singapore/israel-hamas-conflict-stark-reminder-singapore-national-interests-stake-vivian-balakrishnan-3899991?cid=telegram_cna_social_28112017_cna">Israel-Hamas Conflict a 'Reminder' for Singapore That It Has National Interests at Stake: Vivian Balakrishnan</a>, Channel News Asia, 6 Nov 2023
+
+<a target="blank" href="https://www.channelnewsasia.com/singapore/singapore-vote-resolution-gaza-israel-hamas-conflict-humanitarian-civilians-united-nations-3879266">Singapore Votes In Favour of UN Resolution to Protect Civilans, Uphold Humanitarian Obligations in Gaza Strip</a>, Channel News Asia, 28 Oct 2023
+
+<a target="blank" href="https://www.straitstimes.com/singapore/community/protection-of-civilians-more-aid-needed-to-prevent-catastrophe-in-gaza-president-tharman">Protection of Civilians, More Aid Needed to Prevent Catastrophe in Gaza</a>, Straits Times, 22 Oct 2023
+
+<a target="blank" href="https://www.channelnewsasia.com/singapore/sensible-singapore-maintain-relations-israel-palestinians-provide-aid-civilians-conflict-pm-lee-hsien-loong-3861481">PM Lee Explains Importance for Singapore to Maintain Relations With Israelis and Palestinians, Provide Aid to Civilians</a>, Channel News Asia, 20 Oct 2023
+
+<a target="blank" href="https://www.straitstimes.com/singapore/singapore-red-cross-pledges-205k-for-relief-efforts-amid-israel-hamas-war">Singapore Red Cross and Government Pledge $505,000 for Relief Efforts Amid Israel-Hamas War</a>, Straits Times, 16 Oct 2023
+
+<a target="blank" href="https://www.channelnewsasia.com/singapore/chief-rabbi-mufti-singapore-solidarity-jewish-muslim-communities-israel-hamas-war-3847391">Singapore's Chief Rabbi, Mufti Reaffirm Solidarity Between Communities Amid 'Senseless' Israel-Hamas War</a>, Channel News Asia, 15 Oct 2023
+
+<a target="blank" href="https://www.straitstimes.com/singapore/singapore-must-never-let-external-events-affect-precious-peace-shanmugam-on-israel-hamas-war">Singapore Must Never Let External Events Affect 'Precious Peace': Shanmugam on Israel-Hamas War</a>, Channel News Asia, 13 Oct 2023
 
 ****
-**Reports on the Situation in the Middle East (Order by Date of Publication)**
 
-(Transcript) <a target="blank" href="https://www.mha.gov.sg/mediaroom/speeches/transcript-of-media-doorstop-on-the-situation-in-the-middle-east-with-mr-k-shanmugam-minister-for-home-affairs-and-minister-for-law/">Media Doorstop on the Situation in the Middle East with Mr K Shanmugam, Minister for Home Affairs and Minister for Law</a>, Ministry of Home Affairs, Oct 12
+**Official Statements by Government Agencies**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kXXH7WdNGKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-(Video) Minister Shanmugam on the Situation in the Middle East, Channel News Asia, Oct 13
+(Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/11/Situation-in-Gaza_231117"> MFA Press Statement on the Situation in Gaza</a>, Ministry of Foreign Affairs, 17 Nov 2023
 
-(News Article) <a target="blank" href="https://www.straitstimes.com/singapore/singapore-must-never-let-external-events-affect-precious-peace-shanmugam-on-israel-hamas-war">Singapore Must Never Let External Events Affect 'Precious Peace': Shanmugam on Israel-Hamas War</a>, Channel News Asia, Oct 13
+(Transcript) <a target="blank" href="https://www.pmo.gov.sg/Newsroom/DPM-Lawrence-Wong-on-the-Israel-Hamas-Conflict-November-2023"> DPM Lawrence Wong on the Israel-Hamas Conflict (November 2023)</a>, Prime Minister's Office Singapore, 6 Nov 2023
 
-(News Article) <a target="blank" href="https://www.channelnewsasia.com/singapore/chief-rabbi-mufti-singapore-solidarity-jewish-muslim-communities-israel-hamas-war-3847391">Singapore's Chief Rabbi, Mufti Reaffirm Solidarity Between Communities Amid 'Senseless' Israel-Hamas War</a>, Channel News Asia, Oct 15
+(Transcript) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/11/20231106ministerspeech"> Speech by Minister for Foreign Affairs Dr Vivian Balakrishnan During the Parliamentary Motion on the Israel-Hamas Conflict, 6 November 2023</a>, Ministry of Foreign Affairs, 6 Nov 2023
 
-(News Article) <a target="blank" href="https://www.straitstimes.com/singapore/singapore-red-cross-pledges-205k-for-relief-efforts-amid-israel-hamas-war">Singapore Red Cross and Government Pledge $505,000 for Relief Efforts Amid Israel-Hamas War</a>, Straits Times, Oct 16
+(Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/20231028---10th-ESS-UNGA-EOV"> Explanation of Vote by Ambassador Burhan Gafoor, Permanent Representative of Singapore to the United Nations, After the Adoption of the Resolution Entitled “Protection of Civilians and Upholding Legal and Humanitarian Obligations” at the Emergency Special Session of the United Nations General Assembly, 27 October</a>, Ministry of Foreign Affairs, 27 Oct 2023
 
-(Transcript) 
-<a target="blank" href="https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-Media-Wrap-up-Interview-in-Riyadh-Kingdom-of-Saudi-Arabia-Oct-2023">Excerpt of PM Lee Hsien Loong’s Media Wrap-up in Riyadh, Kingdom of Saudi Arabia</a>, Prime Minister's Office Singapore, 20 Oct
+(Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/20231028---10thESSUNGAIsrael-Gaza">Statement by the Permanent Representative of Singapore, at the Emergency Special Session of the United Nations General Assembly, 27 October 2023, New York</a>, Ministry of Foreign Affairs, 27 Oct 2023
+
+(Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/20231016israelgaza">MFA Spokesperson’s Comments on the Situation in Israel and the Gaza Strip</a>, Ministry of Foreign Affairs, 16 Oct 2023
+
+(Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/MFA-Spokesperson-Comment_Situation-in-Israel_231007">MFA Spokesperson’s Comments on the Situation in Israel, 7 October 2023</a>, Ministry of Foreign Affairs, 7 Oct 2023
+
+****
+
+**Statements by Singapore's Leaders**
+
+President Tharman’s <a target="blank" href="https://www.facebook.com/TharmanShanmugaratnam/posts/pfbid022DuFLZ7aMGiFjADsgxdYoCs2PBRasDWpfm5vWeC2xvz1rPbZaBzeELS4WVzgzNV4l?__cft__%5b0%5d=AZVcCXVMuSDZAL4M_kn9Etv5uNhb5tWtveLD_sohEdGtQ8PVIu-Io-5UEt4kIUmwsZCV2T0AQBeBotCFhcdVhoY9ggCDwmFWU84WNbhw_408jykY7Y4QxHi3vukzZB55bqPzSOJdiwgXHwzAlFaVVRTncSS88PUdTdYRLJsYPk7vRiaLotRb6eikYBer-mjzFpI&amp;__tn__=%2CO%2CP-R">Facebook Post</a>, Oct 22
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/peV19hr4K4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 (Video) PM Lee on ASEAN's Response to the Situation in Gaza, Gov.sg Oct 23
@@ -62,35 +95,7 @@ Further updates will be made to this resource page as the situation continues to
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4XX-PLA2KuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 (Video) PM Lee on Israel's Response to the Hamas Attacks, Gov.sg, Oct 23
 
-(News Article) <a target="blank" href="https://www.straitstimes.com/singapore/singaporeans-shouldn-t-let-tensions-elsewhere-affect-religious-harmony-pm-lee">Singaporeans Shouldn't Let Tensions Elsewhere Affect Religious Harmony: PM Lee</a>, Straits Times, Oct 24
+(Transcript) <a target="blank" href="https://www.mha.gov.sg/mediaroom/speeches/transcript-of-media-doorstop-on-the-situation-in-the-middle-east-with-mr-k-shanmugam-minister-for-home-affairs-and-minister-for-law/">Media Doorstop on the Situation in the Middle East with Mr K Shanmugam, Minister for Home Affairs and Minister for Law</a>, Ministry of Home Affairs, Oct 12
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7hkM6oIFQ9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-(Video) Recent International Events Have Reminded Us That Our Peace and Stability is Precious and Should Not Be Taken For Granted, Gov.sg, Oct 20
-
-President Tharman’s <a target="blank" href="https://www.facebook.com/TharmanShanmugaratnam/posts/pfbid022DuFLZ7aMGiFjADsgxdYoCs2PBRasDWpfm5vWeC2xvz1rPbZaBzeELS4WVzgzNV4l?__cft__%5b0%5d=AZVcCXVMuSDZAL4M_kn9Etv5uNhb5tWtveLD_sohEdGtQ8PVIu-Io-5UEt4kIUmwsZCV2T0AQBeBotCFhcdVhoY9ggCDwmFWU84WNbhw_408jykY7Y4QxHi3vukzZB55bqPzSOJdiwgXHwzAlFaVVRTncSS88PUdTdYRLJsYPk7vRiaLotRb6eikYBer-mjzFpI&amp;__tn__=%2CO%2CP-R">Facebook Post</a>, Oct 22
-
-(News Article) <a target="blank" href="https://www.straitstimes.com/singapore/community/protection-of-civilians-more-aid-needed-to-prevent-catastrophe-in-gaza-president-tharman">Protection of Civilians, More Aid Needed to Prevent Catastrophe in Gaza</a>, Straits Times, Oct 22
-
-(News Article) <a target="blank" href="https://www.channelnewsasia.com/singapore/israel-hamas-conflict-stark-reminder-singapore-national-interests-stake-vivian-balakrishnan-3899991?cid=telegram_cna_social_28112017_cna">Israel-Hamas Conflict a 'Reminder' for Singapore That It Has National Interests at Stake: Vivian Balakrishnan</a>, Channel News Asia, Nov 6
-
-(News Article) <a target="blank" href="https://www.straitstimes.com/singapore/politics/pap-wp-and-psp-condemn-violence-against-civilians-in-israel-hamas-war-urge-cohesion-and-harmony">PAP, WP and PSP Condemn Violence Against Civilians in Israel-Hamas War, Urge Cohesion and Harmony</a>, Straits Times, Nov 7
-
-(News Article) <a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-war-gaza-hostage-release-deal-negotiations-qatar-3942191">Israel and Hamas to Start Four-day Truce on Friday: Qatar Mediators</a>, Channel News Asia, Nov 24
-
-(News Article) <a target="blank" href="https://www.channelnewsasia.com/world/un-general-assembly-gaza-humanitarian-ceasefire-israel-hamas-war-3984446">UN General Assembly Overwhelmingly Demands Immediate Humanitarian Ceasefire in Gaza</a>, Channel News Asia, Dec 13
-****
-**Official Statements by Prime Minister's Office Singapore and the Ministry of Foreign Affairs**
-
-(Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/MFA-Spokesperson-Comment_Situation-in-Israel_231007">MFA Spokesperson’s Comments on the Situation in Israel, 7 October 2023</a>, Ministry of Foreign Affairs, Oct 7
-
-(Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/20231016israelgaza">MFA Spokesperson’s Comments on the Situation in Israel and the Gaza Strip</a>, Ministry of Foreign Affairs, Oct 16
-
-(Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/20231028---10thESSUNGAIsrael-Gaza">Statement by the Permanent Representative of Singapore, at the Emergency Special Session of the United Nations General Assembly, 27 October 2023, New York</a>, Ministry of Foreign Affairs, Oct 27
-
-(Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/20231028---10th-ESS-UNGA-EOV"> Explanation of Vote by Ambassador Burhan Gafoor, Permanent Representative of Singapore to the United Nations, After the Adoption of the Resolution Entitled “Protection of Civilians and Upholding Legal and Humanitarian Obligations” at the Emergency Special Session of the United Nations General Assembly, 27 October</a>, Ministry of Foreign Affairs, Oct 27
-
-(Transcript) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/11/20231106ministerspeech"> Speech by Minister for Foreign Affairs Dr Vivian Balakrishnan During the Parliamentary Motion on the Israel-Hamas Conflict, 6 November 2023</a>, Ministry of Foreign Affairs, Nov 6
-
-(Transcript) <a target="blank" href="https://www.pmo.gov.sg/Newsroom/DPM-Lawrence-Wong-on-the-Israel-Hamas-Conflict-November-2023"> DPM Lawrence Wong on the Israel-Hamas Conflict (November 2023)</a>, Prime Minister's Office Singapore, Nov 6
-
-(Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/11/Situation-in-Gaza_231117"> MFA Press Statement on the Situation in Gaza</a>, Ministry of Foreign Affairs, Nov 17
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kXXH7WdNGKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+(Video) Minister Shanmugam on the Situation in the Middle East, Channel News Asia, Oct 13
