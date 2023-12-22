@@ -23,6 +23,10 @@ Further updates will be made to this resource page as the situation continues to
 
 **Key Event Updates Related to the Israel-Hamas Conflict**
 
+<a target="blank" href="https://www.channelnewsasia.com/commentary/red-sea-suez-canal-houthi-shipping-delay-cost-4004226">Commentary: Red Sea Attacks on Cargo Ships Could Disrupt Deliveries and Push Up Prices</a>, Channel News Asia, 22 Dec 2023
+
+<a target="blank" href="https://www.channelnewsasia.com/world/us-plans-international-coalition-counter-red-sea-attacks-3997746">US Announces 10-Nation Coalition to Combat Houthi Attacks in Red Sea</a>, Channel News Asia, 19 Dec 2022
+
 <a target="blank" href="https://www.channelnewsasia.com/world/us-official-palestinian-authority-control-gaza-west-bank-3990471">Revamped Palestinian Authority Should Govern Gaza and West Bank, Says Senior US official</a>, Channel News Asia, 15 Dec 2023
 
 <a target="blank" href="https://www.channelnewsasia.com/world/biden-warns-netanyahu-risks-losing-support-israel-hamas-gaza-palestinian-war-3984606">Biden Warns Netanyahu Risks Losing Support for Hamas War</a>, Channel News Asia, 13 Dec 2023
