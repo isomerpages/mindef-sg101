@@ -1,0 +1,5 @@
+collections:
+  even-better:
+    output: true
+    order:
+      - thinking-about-race.md

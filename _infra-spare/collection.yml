@@ -1,0 +1,24 @@
+collections:
+  infra-spare:
+    output: true
+    order:
+      - our-fundamentals.md
+      - constraints-and-challenges/.keep
+      - constraints-and-challenges/resource-innovation.md
+      - constraints-and-challenges/thinking-long-term.md
+      - constraints-and-challenges/civic-ownership.md
+      - constraints-and-challenges/adapting-to-changes.md
+      - constraints-and-challenges/conclusion.md
+      - urban-planning/.keep
+      - urban-planning/thinking-long-term.md
+      - urban-planning/creating-a-sustainable-economy.md
+      - urban-planning/engaging-the-community.md
+      - urban-planning/preserving-a-unique-national-identity.md
+      - urban-planning/conclusion.md
+      - case-studies/.keep
+      - case-studies/energy.md
+      - case-studies/sand.md
+      - case-studies/waste-management.md
+      - case-studies/public-transport-network.md
+      - case-studies/green-and-blue-spaces.md
+      - case-studies/placemaking.md
