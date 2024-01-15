@@ -29,7 +29,3 @@ XXXX
 <a target="blank" href="https://www.facebook.com/story.php?story_fbid=766842798814374&amp;id=100064659825216&amp;mibextid=K8Wfd2">Infographic on SAF's Participation in Operation Prosperity Guardian</a>, Ministry of Defence, Singapore (MINDEF) Facebook, 9 Jan 2024
 
 <a target="blank" href="https://www.channelnewsasia.com/world/red-sea-houthis-attacks-cna-explains-ships-trade-supply-chain-4026566">CNA Explains: What Escalating Red Sea Tensions Mean For the World, Including Singapore</a>, Channel News Asia, 12 Jan 2024
-
-
-
-QR Codes? or links like in the IH resource page
