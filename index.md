@@ -32,6 +32,16 @@ sections:
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
   - infopic:
+      title: Resource Page for the Red Sea Attacks
+      subtitle: Resources
+      id: infopic
+      description: To better understand the Red Sea Attacks and its impacts, and why
+        the issue matters to Singapore, click here to find out more.
+      button: READ MORE
+      url: https://www.sg101.gov.sg/resources/resource-packages/redseaattacks/
+      image: /images/Ne_Insights_on_Red_Sea_Tension.jpg
+      alt: Image alt text
+  - infopic:
       title: NE Insights on the Conflict in the Middle East
       subtitle: NE Insights / Resources
       id: infopic
