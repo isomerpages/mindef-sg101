@@ -59,6 +59,17 @@ The posters can be downloaded [here](https://go.gov.sg/tdposter24).
 A black-and-white (b/w) version of the Total Defence poster is also available at the same link above, as a Total Defence activity sheet for printing and distribution as a colouring activity.
 
 ****
+#### **Total Defence Organisation Table-top Exercise (TTX)**
+
+The Total Defence Organisation TTX aims to activate thinking and encourage discussion among participants on the strengths and weaknesses of their organisation's existing Business Continuity Plan (BCP), and how their organisation can be ready and prepared for crises and disruptions.
+
+From such discussions, we hope participants will review and strengthen their BCP, ensuring organisations are well-prepared and resilient to navigate through crises and disruptions effectively.
+
+Interested to carry out your own Total Defence Community TTX? You may download the Total Defence TTX Scenario Video as well as the facilitation materials [here](https://drive.google.com/drive/folders/1Tnr3CySWlcrDPMIQuD2Bv36JEgUWeEur?usp=sharing).
+
+**Note**: There is also a second version of the facilitation materials. This version includes a role-playing element where participants may adopt different personas to think about how the different roles within our society can play a part to be ready and prepared for crises and disruptions.
+
+*******
 #### **Total Defence Sandbox**
 ![Total Defence Sandbox](/images/total%20defence%20sandbox.jpg)
 
