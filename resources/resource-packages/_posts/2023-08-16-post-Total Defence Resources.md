@@ -9,7 +9,7 @@ variant: markdown
 ---
 ![](/images/TD40_Logo__JPEG___1_.jpg)
 
-The theme for 2024's Total Defence campaign - "Together We Keep Singapore Strong" - focuses on the many ways we can put Total Defence into action in our everyday lives.
+2024 marks 40 years of Total Defence in Singapore, since it was first introduced in 1984. The theme for this year's Total Defence campaign - "Together We Keep Singapore Strong" - focuses on the many ways we can put Total Defence into action in our everyday lives.
 
 Total Defence remains relevant to deal with the ever-evolving hybrid threats and challenges to Singapore. These include misinformation, supply chain disruptions and food security that affect communities and Singaporeans' way of life.
 
