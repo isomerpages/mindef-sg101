@@ -25,6 +25,14 @@ The inaugural Exercise SG Ready will be held at various locations across the isl
 
 The aim of the exercise is to get individuals, communities and businesses thinking about the question, ***"Are you ready for disruptions?",*** and to put Total Defence into action by putting in place their own contingency plans for disruptions.
 
+#### **Exercise SG Ready Scenario Video**
+As part of Exercise SG Ready, the scenario video will illustrate how hybrid threats can disrupt our daily lives. It also helps set the context for the simulated disruptions happening in the two weeks starting from 15 Feb 2024!
+
+Watch the **Exercise SG Ready Scenario Video** [here](https://go.gov.sg/sgreadyvideo) now!
+![](/images/scenario_video_screenshot.jpg)
+
+******
+
 **SGReadyGoWhere Website**
 
 ![](/images/TD40_x_GoWhere.jpg)
@@ -37,14 +45,13 @@ Members of the public who would like more information on the locations and dates
 
 During times of major disruptions, it is important not to forget those in need. As part of Exercise SG Ready, Community Chest (ComChest) will be running a campaign from now till 1 November 2024 to support Total Defence. Members of the public can donate or sign up as a volunteer via the Giving.sg online platform at [go.gov.sg/SGReadyGiving](https://go.gov.sg/sgreadygiving).
 
+**Civil Defence (CD) MRT Shelter Open Houses**
+
+![](/images/TD40_x_SCDF_x_LTA.jpg)
+
+As part of Exercise SG Ready, the Singapore Civil Defence Force (SCDF), with support from the Land Transport Authority, will organise Civil Defence (CD) Shelter Open Houses at Dakota (CC8)
+
 ********
-#### **Exercise SG Ready Scenario Video**
-As part of Exercise SG Ready, the scenario video will illustrate how hybrid threats can disrupt our daily lives. It also helps set the context for the simulated disruptions happening in the two weeks starting from 15 Feb 2024!
-
-Watch the **Exercise SG Ready Scenario Video** [here](https://go.gov.sg/sgreadyvideo) now!
-![](/images/scenario_video_screenshot.jpg)
-
-******
 #### **Total Defence 2024 Campaign Poster**
 ![](/images/TD40_Poster__A3_Landscape__s.jpg)
 
