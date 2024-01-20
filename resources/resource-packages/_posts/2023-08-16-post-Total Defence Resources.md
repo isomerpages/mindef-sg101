@@ -30,6 +30,15 @@ The aim of the exercise is to get individuals, communities and businesses thinki
 Members of the public who would like more information on the locations and dates of the simulated disruptions for the exercise can go to [go.gov.sg/SGReadyGoWhere](https://go.gov.sg/sgreadygowhere). Key in your postal code to see the nearest locations and dates of the disruptions being simulated. As the website will be updated regularly, members of the public are advised to check for latest update.
 
 ********
+#### **Exercise SG Ready Scenario Video**
+What are the consequences of your choices? In the Total Defence Interactive Video, you will get to make decisions that will determine the outcome of the character's day.
+
+Experience the video and understand what you can do to play your part for Total Defence!
+
+Watch the Total Defence Interactive Video (2023) [here](https://go.gov.sg/tdiv2).
+![Total Defence Interactive Video 2](/images/tdiv2.png)
+
+******
 #### **Total Defence Sandbox**
 ![Total Defence Sandbox](/images/total%20defence%20sandbox.jpg)
 
