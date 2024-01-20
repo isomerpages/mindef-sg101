@@ -31,12 +31,12 @@ Members of the public who would like more information on the locations and dates
 
 ********
 #### **Exercise SG Ready Scenario Video**
-What are the consequences of your choices? In the Total Defence Interactive Video, you will get to make decisions that will determine the outcome of the character's day.
+As part of Exercise SG Ready, the scenario video will illustrate how hybrid threats can disrupt our daily lives.  
 
 Experience the video and understand what you can do to play your part for Total Defence!
 
-Watch the Total Defence Interactive Video (2023) [here](https://go.gov.sg/tdiv2).
-![Total Defence Interactive Video 2](/images/tdiv2.png)
+Watch the Exercise SG Ready Scenario Video [here](https://go.gov.sg/sgreadyvideo).
+
 
 ******
 #### **Total Defence Sandbox**
