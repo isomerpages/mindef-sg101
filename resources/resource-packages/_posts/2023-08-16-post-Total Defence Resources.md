@@ -15,7 +15,9 @@ Total Defence remains relevant to deal with the ever-evolving hybrid threats and
 
 Every Singaporean has a part to play in our daily lives to ensure that Singapore is prepared for crises or disruptions, and that we remain resilient and united.
 
-To mark this milestone, a new TD40 logo has been developed for the use of all Total Defence-related activities in 2024. For more details on the TD40 logo colours and their usage, you may download the CI Guide and Logo here. Below are other resources on Total Defence which you may find useful for your engagement.
+To mark this milestone, a new TD40 logo has been developed for the use of all Total Defence-related activities in 2024. For more details on the TD40 logo colours and their usage, you may download the CI Guide and Logo [here](https://go.gov.sg/td40logo). 
+
+Below are other resources on Total Defence which you may find useful for your engagement.
 
 ****
 #### **Exercise SG Ready**
