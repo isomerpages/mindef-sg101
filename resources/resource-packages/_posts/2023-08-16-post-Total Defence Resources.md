@@ -27,6 +27,8 @@ The aim of the exercise is to get individuals, communities and businesses thinki
 
 **SGReadyGoWhere Website**
 
+![](/images/TD40_x_GoWhere.jpg)
+
 Members of the public who would like more information on the locations and dates of the simulated disruptions for the exercise can go to [go.gov.sg/SGReadyGoWhere](https://go.gov.sg/sgreadygowhere). Key in your postal code to see the nearest locations and dates of the disruptions being simulated. As the website will be updated regularly, members of the public are advised to check for latest update.
 
 **SG Ready Giving Website**
