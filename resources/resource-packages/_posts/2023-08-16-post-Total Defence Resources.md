@@ -31,12 +31,10 @@ Members of the public who would like more information on the locations and dates
 
 ********
 #### **Exercise SG Ready Scenario Video**
-As part of Exercise SG Ready, the scenario video will illustrate how hybrid threats can disrupt our daily lives.  
+As part of Exercise SG Ready, the scenario video will illustrate how hybrid threats can disrupt our daily lives. It also helps set the context for the simulated disruptions happening in the two weeks starting from 15 Feb 2024!
 
-Experience the video and understand what you can do to play your part for Total Defence!
-
-Watch the Exercise SG Ready Scenario Video [here](https://go.gov.sg/sgreadyvideo).
-
+Watch the Exercise SG Ready Scenario Video [here](https://go.gov.sg/sgreadyvideo) now!
+![](/images/scenario_video_screenshot.jpg)
 
 ******
 #### **Total Defence Sandbox**
