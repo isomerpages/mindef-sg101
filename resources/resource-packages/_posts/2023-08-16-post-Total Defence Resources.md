@@ -31,6 +31,8 @@ Members of the public who would like more information on the locations and dates
 
 **SG Ready Giving Website**
 
+![](/images/TD40_x_ComChest_2.jpg)
+
 During times of major disruptions, it is important not to forget those in need. As part of Exercise SG Ready, Community Chest (ComChest) will be running a campaign from now till 1 November 2024 to support Total Defence. Members of the public can donate or sign up as a volunteer via the Giving.sg online platform at [go.gov.sg/SGReadyGiving](https://go.gov.sg/sgreadygiving).
 
 ********
