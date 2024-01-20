@@ -25,10 +25,9 @@ The inaugural Exercise SG Ready will be held at various locations across the isl
 
 The aim of the exercise is to get individuals, communities and businesses thinking about the question, ***"Are you ready for disruptions?",*** and to put Total Defence into action by putting in place their own contingency plans for disruptions.
 
-**SGReadyGoWhere Webiste**
-Members of the public who would like more information on the locations and dates of the simulated disruptions for the exercise can go to [go.gov.sg/SGReadyGoWhere](https://go.gov.sg/sgreadygowhere). Key in your postal code to see the nearest locations and dates of the disruptions being simulated. 
+**SGReadyGoWhere Website**
 
-More information regarding Exercise SG Ready can be found [here](https://go.gov.sg/tdsandboxdetails).
+Members of the public who would like more information on the locations and dates of the simulated disruptions for the exercise can go to [go.gov.sg/SGReadyGoWhere](https://go.gov.sg/sgreadygowhere). Key in your postal code to see the nearest locations and dates of the disruptions being simulated. As the website will be updated regularly, members of the public are advised to check for latest update.
 
 ********
 #### **Total Defence Sandbox**
