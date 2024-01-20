@@ -29,6 +29,10 @@ The aim of the exercise is to get individuals, communities and businesses thinki
 
 Members of the public who would like more information on the locations and dates of the simulated disruptions for the exercise can go to [go.gov.sg/SGReadyGoWhere](https://go.gov.sg/sgreadygowhere). Key in your postal code to see the nearest locations and dates of the disruptions being simulated. As the website will be updated regularly, members of the public are advised to check for latest update.
 
+**SG Ready Giving Website**
+
+During times of major disruptions, it is important not to forget those in need. As part of Exercise SG Ready, Community Chest (ComChest) will be running a campaign from now till 1 November 2024 to support Total Defence. Members of the public can donate or sign up as a volunteer via the Giving.sg online platform at [go.gov.sg/SGReadyGiving](https://go.gov.sg/sgreadygiving).
+
 ********
 #### **Exercise SG Ready Scenario Video**
 As part of Exercise SG Ready, the scenario video will illustrate how hybrid threats can disrupt our daily lives. It also helps set the context for the simulated disruptions happening in the two weeks starting from 15 Feb 2024!
