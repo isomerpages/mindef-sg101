@@ -19,9 +19,9 @@ To mark this milestone, a new TD40 logo has been developed for the use of all To
 
 ****
 #### **Exercise SG Ready**
-![Total Defence Sandbox](/images/total%20defence%20sandbox.jpg)
+![Exercise SG Ready](/images/Ex_SG_Ready_OOH_Posters.jpg)
 
-The Total Defence Sandbox seeks ground-up innovation from Singaporeans especially youths to start initiatives that put Total Defence into action. The Total Defence Sandbox invites everyone to share ideas on Total Defence and aims to nurture these ideas and eventually match ideas with partners who could support the implementation or amplification of their efforts.
+The inaugural Exercise SG Ready will be held at various locations across the island from 15 Feb to 29 Feb 2024. 
 
 More information regarding the Total Defence Sandbox can be found [here](https://go.gov.sg/tdsandboxdetails).
 
