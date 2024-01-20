@@ -25,7 +25,7 @@ The inaugural Exercise SG Ready will be held at various locations across the isl
 
 The aim of the exercise is to get individuals, communities and businesses thinking about the question, ***"Are you ready for disruptions?",*** and to put Total Defence into action by putting in place their own contingency plans for disruptions.
 
-More information regarding the Total Defence Sandbox can be found [here](https://go.gov.sg/tdsandboxdetails).
+More information regarding Exercise SG Ready can be found [here](https://go.gov.sg/tdsandboxdetails).
 
 ********
 #### **Total Defence Sandbox**
