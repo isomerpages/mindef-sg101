@@ -9,13 +9,13 @@ variant: markdown
 ---
 ![](/images/TD40_Logo__JPEG___1_.jpg)
 
-2024 marks 40 years of Total Defence in Singapore, since it was first introduced in 1984. The theme for this year's Total Defence campaign - "Together We Keep Singapore Strong" - focuses on the many ways we can put Total Defence into action in our everyday lives.
+2024 marks 40 years of Total Defence (TD40) in Singapore, since it was first introduced in 1984. The theme for this year's Total Defence campaign - "Together We Keep Singapore Strong" - focuses on the many ways we can put Total Defence into action in our everyday lives.
 
 Total Defence remains relevant to deal with the ever-evolving hybrid threats and challenges to Singapore. These include misinformation, supply chain disruptions and food security that affect communities and Singaporeans' way of life.
 
 Every Singaporean has a part to play in our daily lives to ensure that Singapore is prepared for crises or disruptions, and that we remain resilient and united.
 
-Below are some resources on Total Defence which you may find useful for your engagement.
+To mark this milestone, a new TD40 logo has been developed for the use of all Total Defence-related activities in 2024. For more details on the TD40 logo colours and their usage, you may download the CI Guide and Logo here. Below are other resources on Total Defence which you may find useful for your engagement. For 
 
 ****
 #### **Total Defence Sandbox**
@@ -38,9 +38,7 @@ Submit your ideas [here](https://go.gov.sg/tdsandbox)!
 
 Featuring celebrities such as Tosh Zhang, along with Mister Young and Colin Tan from Power 98, Jimmy Koh from 88.3JIA and more, the video series aims to further engage youths on how they can play a part in the fight against terrorism and climate change.
 
-Watch the video series [here](https://go.gov.sg/mmrpgvideoseries)! (Episode 1 and 2 are out!)
-
-Stay tuned. Episode 3 (finale) coming soon!
+Watch the video series [here](https://go.gov.sg/mmrpgvideoseries)! 
 
 ****
 #### **Total Defence Tower Defence Game**
