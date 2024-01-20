@@ -40,6 +40,8 @@ Watch the **Exercise SG Ready Scenario Video** [here](https://go.gov.sg/sgreadyv
 #### **Total Defence 2024 Campaign Poster**
 ![](/images/TD40_Poster__A3_Landscape__s.jpg)
 
+![](/images/TD40_Posters_1.jpg)
+
 The theme of the Total Defence campaign and poster is "Together We Keep Singapore Strong" to remind us that everyone has a part to play!
 
 This year's posters features what Singaporeans can do to put Total Defence in action in their everyday lives, and how we can be more prepared during a crisis or disruption.
