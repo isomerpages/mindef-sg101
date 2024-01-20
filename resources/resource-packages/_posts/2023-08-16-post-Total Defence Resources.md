@@ -55,7 +55,7 @@ As part of Exercise SG Ready, the Singapore Civil Defence Force (SCDF), with sup
 
 The open houses will show how MRT stations can be converted in public shelters to protect civilians during an emergency. 
 
-Members of the public may walk in to participate, but larger groups of 20 or more will require reservations through the online booking system [here](go.gov.sg/cdshelteropenhouse) before they visit the CD Shelter Open House.
+Members of the public may walk in to participate, but larger groups of 20 or more will require reservations through the online booking system [here](https://go.gov.sg/cdshelteropenhouse) before they visit the CD Shelter Open House.
 
 ********
 #### **Total Defence 2024 Campaign Poster**
