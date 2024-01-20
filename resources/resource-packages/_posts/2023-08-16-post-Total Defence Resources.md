@@ -80,9 +80,9 @@ Check out the game [here](https://go.gov.sg/tdtdg)!
 
 The theme of the Total Defence campaign and poster is "Together We Keep Singapore Strong" to remind us that everyone has a part to play!
 
-This year's poster features what Singaporeans can do to put Total Defence in action in their everyday lives, and how we can be more prepared during a crisis or disruption.
+This year's posters features what Singaporeans can do to put Total Defence in action in their everyday lives, and how we can be more prepared during a crisis or disruption.
 
-The poster can be downloaded [here](https://go.gov.sg/tdposter23).
+The posters can be downloaded [here](https://go.gov.sg/tdposter24).
 
 A black-and-white (b/w) version of the Total Defence poster is also available at the same link above, as a Total Defence activity sheet for printing and distribution as a colouring activity.
 
