@@ -75,9 +75,8 @@ The TDTDG is the 4th ground-up initiative to be implemented under the Total Defe
 Check out the game [here](https://go.gov.sg/tdtdg)! 
 
 ****
-#### **Total Defence 2023 Campaign Poster**
-
-![Total Defence 2023 Campaign Poster](/images/td2023%20poster%20with%20frame%20final.jpg)
+#### **Total Defence 2024 Campaign Poster**
+![](/images/TD40_Poster__A3_Landscape__s.jpg)
 
 The theme of the Total Defence campaign and poster is "Together We Keep Singapore Strong" to remind us that everyone has a part to play!
 
