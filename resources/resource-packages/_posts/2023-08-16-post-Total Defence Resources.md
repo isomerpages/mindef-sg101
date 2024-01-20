@@ -33,10 +33,22 @@ Members of the public who would like more information on the locations and dates
 #### **Exercise SG Ready Scenario Video**
 As part of Exercise SG Ready, the scenario video will illustrate how hybrid threats can disrupt our daily lives. It also helps set the context for the simulated disruptions happening in the two weeks starting from 15 Feb 2024!
 
-Watch the Exercise SG Ready Scenario Video [here](https://go.gov.sg/sgreadyvideo) now!
+Watch the **Exercise SG Ready Scenario Video** [here](https://go.gov.sg/sgreadyvideo) now!
 ![](/images/scenario_video_screenshot.jpg)
 
 ******
+#### **Total Defence 2024 Campaign Poster**
+![](/images/TD40_Poster__A3_Landscape__s.jpg)
+
+The theme of the Total Defence campaign and poster is "Together We Keep Singapore Strong" to remind us that everyone has a part to play!
+
+This year's posters features what Singaporeans can do to put Total Defence in action in their everyday lives, and how we can be more prepared during a crisis or disruption.
+
+The posters can be downloaded [here](https://go.gov.sg/tdposter24).
+
+A black-and-white (b/w) version of the Total Defence poster is also available at the same link above, as a Total Defence activity sheet for printing and distribution as a colouring activity.
+
+****
 #### **Total Defence Sandbox**
 ![Total Defence Sandbox](/images/total%20defence%20sandbox.jpg)
 
@@ -73,18 +85,6 @@ The game adds a Total Defence-themed twist to the classic tower defence game whe
 The TDTDG is the 4th ground-up initiative to be implemented under the Total Defence Sandbox (TD Sandbox).
 
 Check out the game [here](https://go.gov.sg/tdtdg)! 
-
-****
-#### **Total Defence 2024 Campaign Poster**
-![](/images/TD40_Poster__A3_Landscape__s.jpg)
-
-The theme of the Total Defence campaign and poster is "Together We Keep Singapore Strong" to remind us that everyone has a part to play!
-
-This year's posters features what Singaporeans can do to put Total Defence in action in their everyday lives, and how we can be more prepared during a crisis or disruption.
-
-The posters can be downloaded [here](https://go.gov.sg/tdposter24).
-
-A black-and-white (b/w) version of the Total Defence poster is also available at the same link above, as a Total Defence activity sheet for printing and distribution as a colouring activity.
 
 ****
 #### **Total Defence Community Table-top Exercise (TTX)**
