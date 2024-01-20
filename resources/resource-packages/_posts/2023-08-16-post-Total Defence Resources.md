@@ -65,7 +65,7 @@ The Total Defence Organisation TTX aims to activate thinking and encourage discu
 
 From such discussions, we hope participants will review and strengthen their BCP, ensuring organisations are well-prepared and resilient to navigate through crises and disruptions effectively.
 
-Interested to carry out your own Total Defence Community TTX? You may download the Total Defence TTX Scenario Video as well as the facilitation materials [here](https://drive.google.com/drive/folders/1Tnr3CySWlcrDPMIQuD2Bv36JEgUWeEur?usp=sharing).
+Interested to carry out your own Total Defence Organisation TTX? You may use the Exercise SG Ready Scenario Video as well as the facilitation materials [here](https://go.gov.sg/tdttx-for-businesses).
 
 **Note**: There is also a second version of the facilitation materials. This version includes a role-playing element where participants may adopt different personas to think about how the different roles within our society can play a part to be ready and prepared for crises and disruptions.
 
