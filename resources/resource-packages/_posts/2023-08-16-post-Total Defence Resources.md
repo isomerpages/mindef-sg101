@@ -67,8 +67,6 @@ From such discussions, we hope participants will review and strengthen their BCP
 
 Interested to carry out your own Total Defence Organisation TTX? You may use the Exercise SG Ready Scenario Video as well as the facilitation materials [here](https://go.gov.sg/tdttx-for-businesses).
 
-**Note**: There is also a second version of the facilitation materials. This version includes a role-playing element where participants may adopt different personas to think about how the different roles within our society can play a part to be ready and prepared for crises and disruptions.
-
 *******
 #### **Total Defence Sandbox**
 ![Total Defence Sandbox](/images/total%20defence%20sandbox.jpg)
