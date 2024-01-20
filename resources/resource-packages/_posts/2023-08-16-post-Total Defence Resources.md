@@ -21,15 +21,13 @@ To mark this milestone, a new TD40 logo has been developed for the use of all To
 #### **Exercise SG Ready**
 ![Exercise SG Ready](/images/Ex_SG_Ready_OOH_Posters.jpg)
 
-The inaugural Exercise SG Ready will be held at various locations across the island from 15 Feb to 29 Feb 2024. 
+The inaugural Exercise SG Ready will be held at various locations across the island **from 15 Feb to 29 Feb 2024** to increase Singaporeans' readiness for crises and disruptions. The exercise simulates disruptions of power, water, food supply, digital connectivity and a civil emergency arising from wide spread cyberattacks, disinformation campaigns and drone attacks from an anonymous actor in the region. 
+
+The aim of the exercise is to get individuals, communities and businesses thinking about the question, ***"Are you ready for disruptions?",*** and to put Total Defence into action by putting in place their own contingency plans for disruptions.
 
 More information regarding the Total Defence Sandbox can be found [here](https://go.gov.sg/tdsandboxdetails).
 
-Submit your ideas [here](https://go.gov.sg/tdsandbox)!
-
-
-
-
+********
 #### **Total Defence Sandbox**
 ![Total Defence Sandbox](/images/total%20defence%20sandbox.jpg)
 
