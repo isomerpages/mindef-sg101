@@ -39,7 +39,7 @@ Watch the **Exercise SG Ready Scenario Video** [here](https://go.gov.sg/sgreadyv
 
 Members of the public who would like more information on the locations and dates of the simulated disruptions for the exercise can go to [go.gov.sg/SGReadyGoWhere](https://go.gov.sg/sgreadygowhere). Key in your postal code to see the nearest locations and dates of the disruptions being simulated. As the website will be updated regularly, members of the public are advised to check for latest update.
 
-**SG Ready Giving Website**
+**SG Ready Giving.sg Website**
 
 ![](/images/TD40_x_ComChest_2.jpg)
 
@@ -49,7 +49,11 @@ During times of major disruptions, it is important not to forget those in need. 
 
 ![](/images/TD40_x_SCDF_x_LTA.jpg)
 
-As part of Exercise SG Ready, the Singapore Civil Defence Force (SCDF), with support from the Land Transport Authority, will organise Civil Defence (CD) Shelter Open Houses at Dakota (CC8)
+As part of Exercise SG Ready, the Singapore Civil Defence Force (SCDF), with support from the Land Transport Authority, will organise Civil Defence (CD) Shelter Open Houses at Dakota (CC8), Potong Pasir (NE10) and Tan Kah Kee (DT8) MRT stations on 23 February 2024 from 1000hrs to 1600hrs. 
+
+The open houses will show how MRT stations can be converted in public shelters to protect civilians during an emergency. 
+
+Members of the public may walk in to participate, but larger groups of 20 or more will require reservations through the online booking system [here](go.gov.sg/cdshelteropenhouse) before they visit the CD Shelter Open House.
 
 ********
 #### **Total Defence 2024 Campaign Poster**
@@ -143,6 +147,10 @@ Meanwhile, you may check out past years' packages below:
 
 ****
 #### **Total Defence Day Videos**
+
+**Total Defence Day Video 2024**
+
+Watch this space on 15 February 2024.
 
 **Total Defence Day Video 2023**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cl9ohELFTv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
