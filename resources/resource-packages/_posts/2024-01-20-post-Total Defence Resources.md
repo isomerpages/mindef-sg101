@@ -1,21 +1,86 @@
 ---
 title: Total Defence Resources
 permalink: /resources/resource-packages/tdresources/
-date: 2023-08-16
+date: 2024-01-20
 layout: post
 description: ""
 image: ""
 variant: markdown
 ---
-The theme for 2023's Total Defence campaign - "Together We Keep Singapore Strong" - focuses on the many ways we can put Total Defence into action in our everyday lives.
+![](/images/TD40_Logo__JPEG___1_.jpg)
 
-Total Defence remains relevant to deal with the ever-evolving threats and challenges to Singapore. These include misinformation, supply chain disruptions and food security that affect communities and Singaporeans' way of life.
+2024 marks 40 years of Total Defence (TD40) in Singapore, since it was first introduced in 1984. The theme for this year's Total Defence campaign - "Together We Keep Singapore Strong" - focuses on the many ways we can put Total Defence into action in our everyday lives.
+
+Total Defence remains relevant to deal with the ever-evolving hybrid threats and challenges to Singapore. These include misinformation, supply chain disruptions and food security that affect communities and Singaporeans' way of life.
 
 Every Singaporean has a part to play in our daily lives to ensure that Singapore is prepared for crises or disruptions, and that we remain resilient and united.
 
-Below are some resources on Total Defence which you may find useful for your engagement.
+To mark this milestone, a new TD40 logo has been developed for the use of all Total Defence-related activities in 2024. For more details on the TD40 logo colours and their usage, you may download the CI Guide and Logo [here](https://go.gov.sg/td40logo). 
+
+Below are other resources on Total Defence which you may find useful for your engagement.
 
 ****
+#### **Exercise SG Ready**
+![Exercise SG Ready](/images/Ex_SG_Ready_OOH_Posters.jpg)
+
+The inaugural Exercise SG Ready will be held at various locations across the island **from 15 Feb to 29 Feb 2024** to increase Singaporeans' readiness for crises and disruptions. The exercise simulates disruptions of power, water, food supply, digital connectivity and a civil emergency arising from wide spread cyberattacks, disinformation campaigns and drone attacks from an anonymous actor in the region. 
+
+The aim of the exercise is to get individuals, communities and businesses thinking about the question, ***"Are you ready for disruptions?",*** and to put Total Defence into action by putting in place their own contingency plans for disruptions.
+
+#### **Exercise SG Ready Scenario Video**
+As part of Exercise SG Ready, the scenario video will illustrate how hybrid threats can disrupt our daily lives. It also helps set the context for the simulated disruptions happening in the two weeks starting from 15 Feb 2024!
+
+Watch the **Exercise SG Ready Scenario Video** [here](https://go.gov.sg/sgreadyvideo) now!
+![](/images/scenario_video_screenshot.jpg)
+
+******
+
+**SGReadyGoWhere Website**
+
+![](/images/TD40_x_GoWhere.jpg)
+
+Members of the public who would like more information on the locations and dates of the simulated disruptions for the exercise can go to [go.gov.sg/SGReadyGoWhere](https://go.gov.sg/sgreadygowhere). Key in your postal code to see the nearest locations and dates of the disruptions being simulated. As the website will be updated regularly, members of the public are advised to check for latest update.
+
+**SG Ready Giving.sg Website**
+
+![](/images/TD40_x_ComChest_2.jpg)
+
+During times of major disruptions, it is important not to forget those in need. As part of Exercise SG Ready, Community Chest (ComChest) will be running a campaign from now till 1 November 2024 to support Total Defence. Members of the public can donate or sign up as a volunteer via the Giving.sg online platform at [go.gov.sg/SGReadyGiving](https://go.gov.sg/sgreadygiving).
+
+**Civil Defence (CD) MRT Shelter Open Houses**
+
+![](/images/TD40_x_SCDF_x_LTA.jpg)
+
+As part of Exercise SG Ready, the Singapore Civil Defence Force (SCDF), with support from the Land Transport Authority, will organise Civil Defence (CD) Shelter Open Houses at Dakota (CC8), Potong Pasir (NE10) and Tan Kah Kee (DT8) MRT stations on 23 February 2024 from 10:00am to 4:00pm. 
+
+The open houses will show how MRT stations can be converted in public shelters to protect civilians during an emergency. 
+
+Members of the public may walk in to participate, but larger groups of 20 or more will require reservations through the online booking system [here](https://go.gov.sg/cdshelteropenhouse) before they visit the CD Shelter Open House.
+
+********
+#### **Total Defence 2024 Campaign Poster**
+![](/images/TD40_Poster__A3_Landscape__s.jpg)
+
+![](/images/TD40_Posters_2.jpg)
+
+The theme of the Total Defence campaign and poster is "Together We Keep Singapore Strong" to remind us that everyone has a part to play!
+
+This year's posters features what Singaporeans can do to put Total Defence in action in their everyday lives, and how we can be more prepared during a crisis or disruption.
+
+The posters can be downloaded [here](https://go.gov.sg/tdposter24).
+
+A black-and-white (b/w) version of the Total Defence poster is also available at the same link above, as a Total Defence activity sheet for printing and distribution as a colouring activity.
+
+****
+#### **Total Defence Organisation Table-top Exercise (TTX)**
+
+The Total Defence Organisation TTX aims to activate thinking and encourage discussion among participants on the strengths and weaknesses of their organisation's existing Business Continuity Plan (BCP), and how their organisation can be ready and prepared for crises and disruptions.
+
+From such discussions, we hope participants will review and strengthen their BCP, ensuring organisations are well-prepared and resilient to navigate through crises and disruptions effectively.
+
+Interested to carry out your own Total Defence Organisation TTX? You may use the Exercise SG Ready Scenario Video as well as the facilitation materials [here](https://go.gov.sg/tdttx-for-businesses).
+
+*******
 #### **Total Defence Sandbox**
 ![Total Defence Sandbox](/images/total%20defence%20sandbox.jpg)
 
@@ -36,9 +101,7 @@ Submit your ideas [here](https://go.gov.sg/tdsandbox)!
 
 Featuring celebrities such as Tosh Zhang, along with Mister Young and Colin Tan from Power 98, Jimmy Koh from 88.3JIA and more, the video series aims to further engage youths on how they can play a part in the fight against terrorism and climate change.
 
-Watch the video series [here](https://go.gov.sg/mmrpgvideoseries)! (Episode 1 and 2 are out!)
-
-Stay tuned. Episode 3 (finale) coming soon!
+Watch the video series [here](https://go.gov.sg/mmrpgvideoseries)! 
 
 ****
 #### **Total Defence Tower Defence Game**
@@ -54,19 +117,6 @@ The game adds a Total Defence-themed twist to the classic tower defence game whe
 The TDTDG is the 4th ground-up initiative to be implemented under the Total Defence Sandbox (TD Sandbox).
 
 Check out the game [here](https://go.gov.sg/tdtdg)! 
-
-****
-#### **Total Defence 2023 Campaign Poster**
-
-![Total Defence 2023 Campaign Poster](/images/td2023%20poster%20with%20frame%20final.jpg)
-
-The theme of the Total Defence campaign and poster is "Together We Keep Singapore Strong" to remind us that everyone has a part to play!
-
-This year's poster features what Singaporeans can do to put Total Defence in action in their everyday lives, and how we can be more prepared during a crisis or disruption.
-
-The poster can be downloaded [here](https://go.gov.sg/tdposter23).
-
-A black-and-white (b/w) version of the Total Defence poster is also available at the same link above, as a Total Defence activity sheet for printing and distribution as a colouring activity.
 
 ****
 #### **Total Defence Community Table-top Exercise (TTX)**
@@ -99,6 +149,10 @@ Meanwhile, you may check out past years' packages below:
 
 ****
 #### **Total Defence Day Videos**
+
+**Total Defence Day Video 2024**
+
+Watch this space on 15 February 2024.
 
 **Total Defence Day Video 2023**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cl9ohELFTv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
