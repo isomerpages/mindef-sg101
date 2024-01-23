@@ -31,6 +31,29 @@ sections:
       subtitle: SG101 tells the stories of Singapore's journey as a nation, and helps
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
+  - textcards:
+      title: "40 Years of Total Defence "
+      subtitle: Resources
+      id: textcards
+      description: 2024 marks 40 years of Total Defence (TD40) in Singapore, since it
+        was first introduced in 1984. The theme for this year’s campaign is
+        “Together We Keep Singapore Strong”.
+      cards:
+        - title: New TD40 Logo
+          description: For more details on the TD40 logo colours and their usage, click
+            the link below
+          linktext: Learn more
+          url: https://go.gov.sg/td40logo
+        - title: Exercise SG Ready
+          description: The inaugural Exercise will be held across the island from 15 to 29
+            Feb 2024.
+          linktext: Learn more
+          url: https://www.sg101.gov.sg/resources/resource-packages/tdresources/
+        - title: Total Defence 2024 Campaign Poster
+          description: The posters feature what Singaporeans can do to put Total Defence
+            in action.
+          linktext: Learn more
+          url: https://www.sg101.gov.sg/resources/resource-packages/tdresources/
   - infopic:
       title: Resource Page for the Red Sea Attacks
       subtitle: Resources
@@ -82,6 +105,15 @@ sections:
       image: /images/sg101 homepage pic.jpeg
       alt: Image alt text
   - infopic:
+      title: Singapore's Food Challenge
+      subtitle: Case Study/ Economy
+      description: Our reliance on food imports leaves us exposed to external forces.
+        How do we build and strengthen our food resilience?
+      button: Read More
+      url: /economy/case-studies/sg-food-challenge/
+      image: /images/farming.jpeg
+      alt: Image alt text
+  - infopic:
       title: Onward as One - National Day 2023 NE Engagement Package
       subtitle: Resources
       description: Use the National Day 2023 NE Package to commemorate National Day
@@ -117,15 +149,6 @@ sections:
       button: Read More
       url: /social-national-identity/caringsociety/
       image: /images/multiabled.png
-      alt: Image alt text
-  - infopic:
-      title: Singapore's Food Challenge
-      subtitle: Case Study/ Economy
-      description: Our reliance on food imports leaves us exposed to external forces.
-        How do we build and strengthen our food resilience?
-      button: Read More
-      url: /economy/case-studies/sg-food-challenge/
-      image: /images/farming.jpeg
       alt: Image alt text
   - infopic:
       title: "2010 to the Present: New Challenges"
