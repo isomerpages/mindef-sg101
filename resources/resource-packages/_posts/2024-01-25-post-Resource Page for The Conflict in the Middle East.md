@@ -1,7 +1,7 @@
 ---
 title: Resource Page for The Conflict in the Middle East
 permalink: /resources/resource-packages/conflictmiddleeast/
-date: 2023-11-24
+date: 2024-01-25
 layout: post
 description: Israel hamas palestine middle-east
 image: ""
@@ -30,7 +30,7 @@ Further updates will be made to this resource page as the situation continues to
 <a target="blank" href="https://www.channelnewsasia.com/world/us-official-palestinian-authority-control-gaza-west-bank-3990471">Revamped Palestinian Authority Should Govern Gaza and West Bank, Says Senior US official</a>, Channel News Asia, 15 Dec 2023
 
 <a target="blank" href="https://www.channelnewsasia.com/world/biden-warns-netanyahu-risks-losing-support-israel-hamas-gaza-palestinian-war-3984606">Biden Warns Netanyahu Risks Losing Support for Hamas War</a>, Channel News Asia, 13 Dec 2023
-																																																																									
+																																																														
 <a target="blank" href="https://www.channelnewsasia.com/world/un-general-assembly-gaza-humanitarian-ceasefire-israel-hamas-war-3984446">UN General Assembly Overwhelmingly Demands Immediate Humanitarian Ceasefire in Gaza</a>, Channel News Asia, 13 Dec 2023
 
 <a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-gaza-deaths-battles-rage-3980721">Gaza Deaths Pass 18,200 As Battles Rage</a>, Channel News Asia, 12 Dec 2023
@@ -47,6 +47,10 @@ Further updates will be made to this resource page as the situation continues to
 
 ****
 **Singapore's Responses to the Conflict**
+
+<a target="blank" href="https://www.straitstimes.com/singapore/saf-sends-medical-team-to-egypt-to-treat-casualties-from-gaza">SAF Sends Medical Team to Egypt to Treat Casualties From Gaza</a>, Straits Times, 19 Jan 2024
+
+<a target="blank" href="https://www.channelnewsasia.com/singapore/singapore-rsaf-urgent-aid-gaza-civilians-israel-hamas-war-3954321">Blankets, Medical Supplies, Water Filters: RSAF Aircraft Loaded With Gaza Aid Arrives in Egypt</a>, Channel News Asia, 30 Nov 2023
 
 <a target="blank" href="https://www.channelnewsasia.com/singapore/shanmugam-anti-singapore-sentiments-online-after-oct-7-hamas-israel-3948091">Rise in Anti-Singapore Sentiment Online Since Israel-Hamas Hostilities: Shanmugam</a>, Channel News Asia, 27 Nov 2023
 
@@ -69,6 +73,10 @@ Further updates will be made to this resource page as the situation continues to
 ****
 
 **Official Statements by Government Agencies**
+
+(Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/12/UNGA-10th-ESS-on-Gaza">Statement by Permanent Representative of the Republic of Singpaore, Ambassador Burhan Gafoor at the 10th Emergency Special Session of the United Nations General Assembly, 15 December 2023, New York</a>, Ministry of Foreign Affairs, 16 Dec 2023
+
+(Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/11/20231130-SG-Delivers-Aid-to-Gaza">Singapore Government Deplloys RSAF Aircraft to Deliver Urgent Aid for Gaza</a>, Ministry of Foreign Affairs, 30 Nov 2023
 
 (Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/11/Situation-in-Gaza_231117"> MFA Press Statement on the Situation in Gaza</a>, Ministry of Foreign Affairs, 17 Nov 2023
 
