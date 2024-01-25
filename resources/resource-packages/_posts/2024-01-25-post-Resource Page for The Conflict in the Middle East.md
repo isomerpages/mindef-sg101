@@ -30,7 +30,7 @@ Further updates will be made to this resource page as the situation continues to
 <a target="blank" href="https://www.channelnewsasia.com/world/us-official-palestinian-authority-control-gaza-west-bank-3990471">Revamped Palestinian Authority Should Govern Gaza and West Bank, Says Senior US official</a>, Channel News Asia, 15 Dec 2023
 
 <a target="blank" href="https://www.channelnewsasia.com/world/biden-warns-netanyahu-risks-losing-support-israel-hamas-gaza-palestinian-war-3984606">Biden Warns Netanyahu Risks Losing Support for Hamas War</a>, Channel News Asia, 13 Dec 2023
-																																																																									
+																																																														
 <a target="blank" href="https://www.channelnewsasia.com/world/un-general-assembly-gaza-humanitarian-ceasefire-israel-hamas-war-3984446">UN General Assembly Overwhelmingly Demands Immediate Humanitarian Ceasefire in Gaza</a>, Channel News Asia, 13 Dec 2023
 
 <a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-gaza-deaths-battles-rage-3980721">Gaza Deaths Pass 18,200 As Battles Rage</a>, Channel News Asia, 12 Dec 2023
@@ -47,6 +47,10 @@ Further updates will be made to this resource page as the situation continues to
 
 ****
 **Singapore's Responses to the Conflict**
+
+<a target="blank" href="https://www.straitstimes.com/singapore/saf-sends-medical-team-to-egypt-to-treat-casualties-from-gaza">SAF Sends Medical Team to Egypt to Treat Casualties From Gaza</a>, Straits Times, 19 Jan 2024
+
+<a target="blank" href="https://www.channelnewsasia.com/singapore/singapore-rsaf-urgent-aid-gaza-civilians-israel-hamas-war-3954321">Blankets, Medical Supplies, Water Filters: RSAF Aircraft Loaded With Gaza Aid Arrives in Egypt</a>, Channel News Asia, 30 Nov 2023
 
 <a target="blank" href="https://www.channelnewsasia.com/singapore/shanmugam-anti-singapore-sentiments-online-after-oct-7-hamas-israel-3948091">Rise in Anti-Singapore Sentiment Online Since Israel-Hamas Hostilities: Shanmugam</a>, Channel News Asia, 27 Nov 2023
 
