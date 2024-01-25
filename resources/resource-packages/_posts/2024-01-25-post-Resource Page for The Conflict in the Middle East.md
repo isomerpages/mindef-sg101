@@ -74,6 +74,10 @@ Further updates will be made to this resource page as the situation continues to
 
 **Official Statements by Government Agencies**
 
+(Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/12/UNGA-10th-ESS-on-Gaza">Statement by Permanent Representative of the Republic of Singpaore, Ambassador Burhan Gafoor at the 10th Emergency Special Session of the United Nations General Assembly, 15 December 2023, New York</a>, Ministry of Foreign Affairs, 16 Dec 2023
+
+(Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/11/20231130-SG-Delivers-Aid-to-Gaza">Singapore Government Deplloys RSAF Aircraft to Deliver Urgent Aid for Gaza</a>, Ministry of Foreign Affairs, 30 Nov 2023
+
 (Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/11/Situation-in-Gaza_231117"> MFA Press Statement on the Situation in Gaza</a>, Ministry of Foreign Affairs, 17 Nov 2023
 
 (Transcript) <a target="blank" href="https://www.pmo.gov.sg/Newsroom/DPM-Lawrence-Wong-on-the-Israel-Hamas-Conflict-November-2023"> DPM Lawrence Wong on the Israel-Hamas Conflict (November 2023)</a>, Prime Minister's Office Singapore, 6 Nov 2023
