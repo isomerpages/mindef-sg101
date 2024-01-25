@@ -61,7 +61,7 @@ Members of the public may walk in to participate, but larger groups of 20 or mor
 #### **Total Defence 2024 Campaign Poster**
 ![](/images/TD40_Poster__A3_Landscape__s.jpg)
 
-![](/images/TD40_Posters_2.jpg)
+![](/images/TD40_Posters_3.jpg)
 
 The theme of the Total Defence campaign and poster is "Together We Keep Singapore Strong" to remind us that everyone has a part to play!
 
