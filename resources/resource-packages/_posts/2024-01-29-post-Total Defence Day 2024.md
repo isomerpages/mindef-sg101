@@ -20,3 +20,11 @@ public and people sectors will be participating in this exercise. Some
 SAF units and MINDEF departments are taking part too.</p>
 <p>Download: <a href="/files/packages/Folio_1___TD_Day_NE_Engagement_Package_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Total Defence Day 2024 Engagement Package</a>
 </p>
+<p></p>
+<p>To help us do better, we need to hear from you! Please provide your feedback
+through the following link:</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/QR_code_for_feedback_for_TD_Day_Package.jpg">
+</div>
+<p></p>
