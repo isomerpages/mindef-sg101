@@ -32,7 +32,7 @@ sections:
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
   - textcards:
-      title: "40 Years of Total Defence "
+      title: 40 Years of Total Defence
       subtitle: Resources
       id: textcards
       description: 2024 marks 40 years of Total Defence (TD40) in Singapore, since it
@@ -54,6 +54,11 @@ sections:
             in action.
           linktext: Learn more
           url: https://www.sg101.gov.sg/resources/resource-packages/tdresources/
+        - title: TD Day Engagement Package 2024
+          description: To understand the relevance of TD and how we can keep Singapore
+            strong.
+          linktext: Learn more
+          url: https://www.sg101.gov.sg/resources/resource-packages/tdday2024/
   - infopic:
       title: Resource Page for the Red Sea Attacks
       subtitle: Resources
