@@ -18,7 +18,7 @@ Feb 2024, simulating disruptions of power, water, food supply, digital
 connectivity and civil emergency. Over 500 organisations from the private,
 public and people sectors will be participating in this exercise. Some
 SAF units and MINDEF departments are taking part too.</p>
-<p>Download: <a href="/files/packages/Folio_1___TD_Day_NE_Engagement_Package_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Total Defence Day 2024 Engagement Package</a>
+<p>Download: <a href="/files/packages/2024/Folio_1___TD_Day_NE_Engagement_Package_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Total Defence Day NE Engagement Package 2024</a>
 </p>
 <p></p>
 <p>To help us do better, we need to hear from you! Please provide your feedback
