@@ -84,17 +84,29 @@ sections:
           link_url: ""
         - title: Tampines Regional Library
           date: 19 February 2024
-          announcement: From 19 February (Mon) to 25 February (Sun)
+          announcement: From 19 February (Mon) to 25 February (Sun). The TD40 Exhibition
+            will showcase examples of Singaporeans putting TD into action and
+            adopt a storytelling approach to inspire and encourage Singaporeans
+            to continue playing their part to keep Singapore prepared and
+            strong.
           link_text: ""
           link_url: ""
         - title: SMU Basement Concourse
           date: 20 February 2024
-          announcement: From 20 February (Tue) to 29 February (Sun)
+          announcement: From 20 February (Tue) to 29 February (Sun). The TD40 Exhibition
+            will showcase examples of Singaporeans putting TD into action and
+            adopt a storytelling approach to inspire and encourage Singaporeans
+            to continue playing their part to keep Singapore prepared and
+            strong.
           link_text: ""
           link_url: ""
         - title: SAFRA Mount Faber
           date: 24 February 2024
-          announcement: From 24 February (Sat) to 29 February (Thu)
+          announcement: From 24 February (Sat) to 29 February (Thu). The TD40 Exhibition
+            will showcase examples of Singaporeans putting TD into action and
+            adopt a storytelling approach to inspire and encourage Singaporeans
+            to continue playing their part to keep Singapore prepared and
+            strong.
           link_text: ""
           link_url: ""
   - infopic:
