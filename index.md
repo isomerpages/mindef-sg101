@@ -74,6 +74,16 @@ sections:
           announcement: From 16 February (Fri) to 18 February (Sun)
           link_text: ""
           link_url: ""
+        - title: Tampines Regional Library
+          date: 19 February 2024
+          announcement: From 19 February (Mon) to 25 February (Sun)
+          link_text: ""
+          link_url: ""
+        - title: Civil Service College
+          date: 19 February 2024
+          announcement: From 19 February (Mon) to 23 February (Fri)
+          link_text: ""
+          link_url: ""
   - infopic:
       title: Resource Page for the Red Sea Attacks
       subtitle: Resources
