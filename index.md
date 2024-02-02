@@ -60,18 +60,26 @@ sections:
           linktext: Learn more
           url: https://www.sg101.gov.sg/resources/resource-packages/tdday2024/
   - announcements:
-      title: Total Defence Day Exhibition
+      title: TD40 Roving Exhibitions
       id: announcements
       subtitle: Keep a lookout for them!
       announcement_items:
-        - title: Esplanade MRT Concourse
-          date: 13 February 2024
-          announcement: From 13 February (Tue) to 18 February (Sun)
+        - title: Singapore Discovery Centre
+          date: 27 January 2024
+          announcement: >-
+            From 27 January (Sat) to 17 March (Sun).
+
+
+            The exhibition, titled Total Defence For Thee!, adopts gamification and interactive elements to showcase how Total Defence is integral to addressing evolving threats and challenges.
           link_text: ""
           link_url: ""
-        - title: SAFRA Yishun
-          date: 16 February 2024
-          announcement: From 16 February (Fri) to 18 February (Sun)
+        - title: Esplanade MRT Concourse
+          date: 13 February 2024
+          announcement: From 13 February (Tue) to 18 February (Sun). The TD40 Exhibition
+            will showcase examples of Singaporeans putting TD into action and
+            adopt a storytelling approach to inspire and encourage Singaporeans
+            to continue playing their part to keep Singapore prepared and
+            strong.
           link_text: ""
           link_url: ""
         - title: Tampines Regional Library
