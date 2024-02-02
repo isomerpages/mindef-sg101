@@ -59,6 +59,21 @@ sections:
             strong.
           linktext: Learn more
           url: https://www.sg101.gov.sg/resources/resource-packages/tdday2024/
+  - announcements:
+      title: Total Defence Day Exhibition
+      id: announcements
+      subtitle: Keep a lookout for them!
+      announcement_items:
+        - title: Esplanade MRT Concourse
+          date: 13 February 2024
+          announcement: From 13 February (Tue) to 18 February (Sun)
+          link_text: ""
+          link_url: ""
+        - title: SAFRA Yishun
+          date: 16 February 2024
+          announcement: From 16 February (Fri) to 18 February (Sun)
+          link_text: ""
+          link_url: ""
   - infopic:
       title: Resource Page for the Red Sea Attacks
       subtitle: Resources
