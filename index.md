@@ -79,14 +79,14 @@ sections:
           announcement: From 19 February (Mon) to 25 February (Sun)
           link_text: ""
           link_url: ""
-        - title: Civil Service College
-          date: 19 February 2024
-          announcement: From 19 February (Mon) to 23 February (Fri)
-          link_text: ""
-          link_url: ""
         - title: SMU Basement Concourse
           date: 20 February 2024
           announcement: From 20 February (Tue) to 29 February (Sun)
+          link_text: ""
+          link_url: ""
+        - title: SAFRA Mount Faber
+          date: 24 February 2024
+          announcement: From 24 February (Sat) to 29 February (Thu)
           link_text: ""
           link_url: ""
   - infopic:
