@@ -84,6 +84,11 @@ sections:
             These exhibitions will showcase examples of Singaporeans putting TD into action and adopt a storytelling approach to inspire Singaporeans to continue playing their part to keep Singapore prepared and strong.
           link_text: ""
           link_url: ""
+        - title: Esplanade SMRT Station Concourse
+          date: 13 February 2024
+          announcement: From 13 February (Tue) to 18 February (Sun).
+          link_text: ""
+          link_url: ""
         - title: SAFRA Yishun
           date: 16 February 2024
           announcement: From 16 February (Fri) to 18 February (Sun).
@@ -92,11 +97,6 @@ sections:
         - title: Tampines Regional Library
           date: 19 February 2024
           announcement: From 19 February (Mon) to 25 February (Sun).
-          link_text: ""
-          link_url: ""
-        - title: Esplanade SMRT Station Concourse
-          date: 13 February 2024
-          announcement: From 13 February (Tue) to 18 February (Sun).
           link_text: ""
           link_url: ""
         - title: SAFRA Mount Faber
