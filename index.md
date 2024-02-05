@@ -63,8 +63,8 @@ sections:
       title: TD40 Exhibition at Singapore Discovery Centre
       subtitle: Total Defence For Thee
       id: infopic
-      description: "The special exhibition consists of 3 zone areas that reflects on
-        the evolution of Total Defence over the past 40 years. "
+      description: The special exhibition consists of 3 zone areas that reflects on
+        the evolution of Total Defence over the past 40 years.
       button: More Info
       url: https://www.defencecollectivesg.com/total-defence-40/
       image: /images/TD40_poster.png
