@@ -59,20 +59,22 @@ sections:
             strong.
           linktext: Learn more
           url: https://www.sg101.gov.sg/resources/resource-packages/tdday2024/
+  - infopic:
+      title: TD40 Exhibition at Singapore Discovery Centre
+      subtitle: Total Defence For Thee
+      id: infopic
+      description: The special exhibition consists of 3 zone areas that reflects on
+        the evolution of TD over the past 40 years. There will also be roving
+        exhibitions islandwide.
+      button: More Info
+      url: https://www.defencecollectivesg.com/total-defence-40/
+      image: /images/TD40_poster.png
+      alt: Image alt text
   - announcements:
       title: TD40 Roving Exhibitions
       id: announcements
-      subtitle: Keep a lookout for them!
+      subtitle: "Keep a lookout for them! "
       announcement_items:
-        - title: Singapore Discovery Centre
-          date: 27 January 2024
-          announcement: >-
-            From 27 January (Sat) to 17 March (Sun).
-
-
-            The exhibition, titled Total Defence For Thee!, adopts gamification and interactive elements to showcase how Total Defence is integral to addressing evolving threats and challenges.
-          link_text: ""
-          link_url: ""
         - title: Esplanade MRT Concourse
           date: 13 February 2024
           announcement: From 13 February (Tue) to 18 February (Sun). The TD40 Exhibition
@@ -82,43 +84,26 @@ sections:
             strong.
           link_text: ""
           link_url: ""
+        - title: SAFRA Yishun
+          date: 16 February 2024
+          announcement: "From 16 February (Fri) to 18 February (Sun). "
+          link_text: ""
+          link_url: ""
         - title: Tampines Regional Library
           date: 19 February 2024
-          announcement: From 19 February (Mon) to 25 February (Sun). The TD40 Exhibition
-            will showcase examples of Singaporeans putting TD into action and
-            adopt a storytelling approach to inspire and encourage Singaporeans
-            to continue playing their part to keep Singapore prepared and
-            strong.
+          announcement: "From 19 February (Mon) to 25 February (Sun). "
           link_text: ""
           link_url: ""
         - title: SMU Basement Concourse
           date: 20 February 2024
-          announcement: From 20 February (Tue) to 29 February (Sun). The TD40 Exhibition
-            will showcase examples of Singaporeans putting TD into action and
-            adopt a storytelling approach to inspire and encourage Singaporeans
-            to continue playing their part to keep Singapore prepared and
-            strong.
+          announcement: "From 20 February (Tue) to 29 February (Sun). "
           link_text: ""
           link_url: ""
         - title: SAFRA Mount Faber
           date: 24 February 2024
-          announcement: From 24 February (Sat) to 29 February (Thu). The TD40 Exhibition
-            will showcase examples of Singaporeans putting TD into action and
-            adopt a storytelling approach to inspire and encourage Singaporeans
-            to continue playing their part to keep Singapore prepared and
-            strong.
+          announcement: From 24 February (Sat) to 29 February (Thu).
           link_text: ""
           link_url: ""
-  - infopic:
-      title: TD40 Exhibition at Singapore Discovery Centre
-      subtitle: Total Defence For Thee
-      id: infopic
-      description: The special exhibition consists of 3 zone areas that reflects on
-        the evolution of Total Defence over the past 40 years.
-      button: More Info
-      url: https://www.defencecollectivesg.com/total-defence-40/
-      image: /images/TD40_poster.png
-      alt: Image alt text
   - infopic:
       title: Resource Page for the Red Sea Attacks
       subtitle: Resources
