@@ -63,9 +63,8 @@ sections:
       title: TD40 Exhibition at Singapore Discovery Centre
       subtitle: Total Defence For Thee
       id: infopic
-      description: The special exhibition consists of 3 zone areas that reflects on
-        the evolution of TD over the past 40 years. There will also be roving
-        exhibitions islandwide.
+      description: "The special exhibition consists of 3 zone areas that reflects on
+        the evolution of Total Defence over the past 40 years. "
       button: More Info
       url: https://www.defencecollectivesg.com/total-defence-40/
       image: /images/TD40_poster.png
@@ -73,30 +72,31 @@ sections:
   - announcements:
       title: TD40 Roving Exhibitions
       id: announcements
-      subtitle: "Keep a lookout for them! "
+      subtitle: Keep a lookout for them!
       announcement_items:
-        - title: Esplanade MRT Concourse
+        - title: Total Defence For Thee
           date: 13 February 2024
-          announcement: From 13 February (Tue) to 18 February (Sun). The TD40 Exhibition
-            will showcase examples of Singaporeans putting TD into action and
-            adopt a storytelling approach to inspire and encourage Singaporeans
-            to continue playing their part to keep Singapore prepared and
-            strong.
+          announcement: >-
+            Starting from 13 February, there will also be TD40 roving
+            exhibitions islandwide.
+
+
+            These exhibitions will showcase examples of Singaporeans putting TD into action and adopt a storytelling approach to inspire Singaporeans to continue playing their part to keep Singapore prepared and strong.
           link_text: ""
           link_url: ""
         - title: SAFRA Yishun
           date: 16 February 2024
-          announcement: "From 16 February (Fri) to 18 February (Sun). "
+          announcement: From 16 February (Fri) to 18 February (Sun).
           link_text: ""
           link_url: ""
         - title: Tampines Regional Library
           date: 19 February 2024
-          announcement: "From 19 February (Mon) to 25 February (Sun). "
+          announcement: From 19 February (Mon) to 25 February (Sun).
           link_text: ""
           link_url: ""
-        - title: SMU Basement Concourse
-          date: 20 February 2024
-          announcement: "From 20 February (Tue) to 29 February (Sun). "
+        - title: Esplanade SMRT Station Concourse
+          date: 13 February 2024
+          announcement: From 13 February (Tue) to 18 February (Sun).
           link_text: ""
           link_url: ""
         - title: SAFRA Mount Faber
