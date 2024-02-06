@@ -81,7 +81,7 @@ sections:
             exhibitions islandwide.
 
 
-            These exhibitions will showcase examples of Singaporeans putting TD into action and adopt a storytelling approach to inspire Singaporeans to continue playing their part to keep Singapore prepared and strong.
+            These exhibitions will showcase examples of Singaporeans putting TD into action and aim to inspire Singaporeans to continue playing our part to keep Singapore prepared and strong. The dates will be updated weekly.
           link_text: ""
           link_url: ""
         - title: Esplanade SMRT Station Concourse
