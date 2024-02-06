@@ -69,41 +69,15 @@ sections:
       url: https://www.defencecollectivesg.com/total-defence-40/
       image: /images/TD40_poster.png
       alt: Image alt text
-  - announcements:
-      title: TD40 Roving Exhibitions
-      id: announcements
-      subtitle: Keep a lookout for them!
-      announcement_items:
-        - title: Total Defence For Thee
-          date: 13 February 2024
-          announcement: >-
-            Starting from 13 February, there will also be TD40 roving
-            exhibitions islandwide.
-
-
-            These exhibitions will showcase examples of Singaporeans putting TD into action and aim to inspire Singaporeans to continue playing our part to keep Singapore prepared and strong. The dates will be updated weekly.
-          link_text: ""
-          link_url: ""
-        - title: Esplanade SMRT Station Concourse
-          date: 13 February 2024
-          announcement: From 13 February (Tue) to 18 February (Sun).
-          link_text: ""
-          link_url: ""
-        - title: SAFRA Yishun
-          date: 16 February 2024
-          announcement: From 16 February (Fri) to 18 February (Sun).
-          link_text: ""
-          link_url: ""
-        - title: Tampines Regional Library
-          date: 19 February 2024
-          announcement: From 19 February (Mon) to 25 February (Sun).
-          link_text: ""
-          link_url: ""
-        - title: SAFRA Mount Faber
-          date: 24 February 2024
-          announcement: From 24 February (Sat) to 29 February (Thu).
-          link_text: ""
-          link_url: ""
+  - infopic:
+      title: Infopic
+      subtitle: TD40 Roving Exhibition
+      id: infopic
+      description: Starting from 13 February 2024, there will be TD40 Roving
+        Exhibitions islandwide. Exhibition dates will be updated monthly, stay
+        tuned!
+      image: /images/TD40_Roving_Exhibition_Schedule.png
+      alt: Image alt text
   - infopic:
       title: Resource Page for the Red Sea Attacks
       subtitle: Resources
