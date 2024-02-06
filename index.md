@@ -70,8 +70,8 @@ sections:
       image: /images/TD40_poster.png
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: TD40 Roving Exhibition
+      title: TD40 Roving Exhibition
+      subtitle: Keep a lookout for them!
       id: infopic
       description: Starting from 13 February 2024, there will be TD40 Roving
         Exhibitions islandwide. Exhibition dates will be updated monthly, stay
