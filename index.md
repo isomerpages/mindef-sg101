@@ -60,6 +60,25 @@ sections:
           linktext: Learn more
           url: https://www.sg101.gov.sg/resources/resource-packages/tdday2024/
   - infopic:
+      title: TD40 Exhibition at Singapore Discovery Centre
+      subtitle: Total Defence For Thee
+      id: infopic
+      description: The special exhibition consists of 3 zone areas that reflects on
+        the evolution of Total Defence over the past 40 years.
+      button: More Info
+      url: https://www.defencecollectivesg.com/total-defence-40/
+      image: /images/TD40_poster.png
+      alt: Image alt text
+  - infopic:
+      title: TD40 Roving Exhibition
+      subtitle: Keep a lookout for them!
+      id: infopic
+      description: Starting from 13 February 2024, there will be TD40 Roving
+        Exhibitions islandwide. Exhibition dates will be updated monthly, stay
+        tuned!
+      image: /images/TD40_Roving_Exhibition_Schedule.png
+      alt: Image alt text
+  - infopic:
       title: Resource Page for the Red Sea Attacks
       subtitle: Resources
       id: infopic
