@@ -80,6 +80,17 @@ From such discussions, we hope participants will review and strengthen their BCP
 
 Interested to carry out your own Total Defence Organisation TTX? You may use the Exercise SG Ready Scenario Video as well as the facilitation materials [here](https://go.gov.sg/tdttx-for-businesses).
 
+****
+#### **Total Defence Engagement Packages**
+You may use this engagement package to discuss or better understand the relevance of Total Defence and how each of us can play a part in keeping Singapore strong, amidst the challenges and threats we face. The Total Defence Day 2024 NE Engagement Package can be downloaded [here](https://www.sg101.gov.sg/resources/resource-packages/tdday2024/).
+
+Meanwhile, you may check out past years' packages below: 
+* [Total Defence Day 2023 NE Engagement Package](https://www.sg101.gov.sg/resources/resource-packages/td2023/)
+
+* [Total Defence Day 2022 NE Engagement Package](https://www.sg101.gov.sg/resources/resource-packages/td2022) 
+
+
+
 *******
 #### **Total Defence Sandbox**
 ![Total Defence Sandbox](/images/total%20defence%20sandbox.jpg)
@@ -139,13 +150,6 @@ Experience the video and understand what you can do to play your part for Total 
 Watch the Total Defence Interactive Video (2023) [here](https://go.gov.sg/tdiv2).
 ![Total Defence Interactive Video 2](/images/tdiv2.png)
 
-****
-#### **Total Defence Engagement Packages**
-You may use this engagement package to discuss or better understand the relevance of Total Defence and how each of us can play a part in keeping Singapore strong, amidst the challenges and threats we face. The Total Defence Day 2023 NE Engagement Package can be downloaded [here](https://go.gov.sg/td23package).
-
-Meanwhile, you may check out past years' packages below: 
-* [Total Defence Day 2022 NE Engagement Package](https://www.sg101.gov.sg/resources/resource-packages/td2022) 
-* [Total Defence Day 2021 NE Engagement Package](https://www.sg101.gov.sg/resources/resource-packages/td2021)
 
 ****
 #### **Total Defence Day Videos**
