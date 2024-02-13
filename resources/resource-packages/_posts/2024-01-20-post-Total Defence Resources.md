@@ -80,7 +80,35 @@ From such discussions, we hope participants will review and strengthen their BCP
 
 Interested to carry out your own Total Defence Organisation TTX? You may use the Exercise SG Ready Scenario Video as well as the facilitation materials [here](https://go.gov.sg/tdttx-for-businesses).
 
-*******
+****
+#### **Total Defence Engagement Packages**
+You may use this engagement package to discuss or better understand the relevance of Total Defence and how each of us can play a part in keeping Singapore strong, amidst the challenges and threats we face. The Total Defence Day 2024 NE Engagement Package can be downloaded [here](https://www.sg101.gov.sg/resources/resource-packages/tdday2024/).
+
+Meanwhile, you may check out past years' packages below: 
+* [Total Defence Day 2023 NE Engagement Package](https://www.sg101.gov.sg/resources/resource-packages/td2023/)
+
+* [Total Defence Day 2022 NE Engagement Package](https://www.sg101.gov.sg/resources/resource-packages/td2022) 
+
+****
+#### **Total Defence Day Videos**
+
+**Total Defence Day Video 2024**
+
+Watch this space on 15 February 2024.
+
+**Total Defence Day Video 2023**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cl9ohELFTv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+The Total Defence Day Video 2023 is also available on [We Are Total Defence (WATD) Facebook page](https://www.facebook.com/WeAreTotalDefence) and [Total Defence YouTube page](https://www.youtube.com/@TotalDefenceSG).
+
+You may also check out the previous years' Total Defence Video Messages below:
+
+**Minister for Defence's Total Defence Day 2022 Message**. Download the transcript [here](/files/transcript%20-%20minister%20for%20defence%20total%20defence%20day%202022%20message.pdf).
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7zzFPeTDa5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+****
 #### **Total Defence Sandbox**
 ![Total Defence Sandbox](/images/total%20defence%20sandbox.jpg)
 
@@ -139,37 +167,6 @@ Experience the video and understand what you can do to play your part for Total 
 Watch the Total Defence Interactive Video (2023) [here](https://go.gov.sg/tdiv2).
 ![Total Defence Interactive Video 2](/images/tdiv2.png)
 
-****
-#### **Total Defence Engagement Packages**
-You may use this engagement package to discuss or better understand the relevance of Total Defence and how each of us can play a part in keeping Singapore strong, amidst the challenges and threats we face. The Total Defence Day 2023 NE Engagement Package can be downloaded [here](https://go.gov.sg/td23package).
-
-Meanwhile, you may check out past years' packages below: 
-* [Total Defence Day 2022 NE Engagement Package](https://www.sg101.gov.sg/resources/resource-packages/td2022) 
-* [Total Defence Day 2021 NE Engagement Package](https://www.sg101.gov.sg/resources/resource-packages/td2021)
-
-****
-#### **Total Defence Day Videos**
-
-**Total Defence Day Video 2024**
-
-Watch this space on 15 February 2024.
-
-**Total Defence Day Video 2023**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cl9ohELFTv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-The Total Defence Day Video 2023 is also available on [We Are Total Defence (WATD) Facebook page](https://www.facebook.com/WeAreTotalDefence) and [Total Defence YouTube page](https://www.youtube.com/@TotalDefenceSG).
-
-You may also check out the previous years' Total Defence Video Messages below:
-
-**Minister for Defence's Total Defence Day 2022 Message**. Download the transcript [here](/files/transcript%20-%20minister%20for%20defence%20total%20defence%20day%202022%20message.pdf).
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7zzFPeTDa5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-****
-
-**Minister for Defence's Total Defence Day 2021 Message**. Download the transcript [here](/files/transcript%20-%20minister%20for%20defence%20total%20defence%20day%202021%20message.pdf).
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hG7KGkZzLAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ****
 #### **Past Speeches and Press Releases**
