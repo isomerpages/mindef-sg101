@@ -23,12 +23,12 @@ Below are other resources on Total Defence which you may find useful for your en
 #### **Exercise SG Ready**
 ![Exercise SG Ready](/images/Ex_SG_Ready_OOH_Posters.jpg)
 
-The inaugural Exercise SG Ready will be held at various locations across the island **from 15 Feb to 29 Feb 2024** to increase Singaporeans' readiness for crises and disruptions. The exercise simulates disruptions of power, water, food supply, digital connectivity and a civil emergency arising from wide spread cyberattacks, disinformation campaigns and drone attacks from an anonymous actor in the region. 
+The inaugural Exercise SG Ready will be held at various locations across the island **between 15 Feb to 29 Feb 2024** to increase Singaporeans' readiness for crises and disruptions. The exercise simulates disruptions of power, water, food supply, digital connectivity and a civil emergency arising from wide spread cyberattacks, disinformation campaigns and drone attacks from an anonymous actor in the region. 
 
 The aim of the exercise is to get individuals, communities and businesses thinking about the question, ***"Are you ready for disruptions?",*** and to put Total Defence into action by putting in place their own contingency plans for disruptions.
 
 #### **Exercise SG Ready Scenario Video**
-As part of Exercise SG Ready, the scenario video will illustrate how hybrid threats can disrupt our daily lives. It also helps set the context for the simulated disruptions happening in the two weeks starting from 15 Feb 2024!
+As part of Exercise SG Ready, the scenario video will illustrate how hybrid threats can disrupt our daily lives. It also helps set the context for the simulated disruptions happening beween 15 - 29 Feb 2024!
 
 Watch the **Exercise SG Ready Scenario Video** [here](https://go.gov.sg/sgreadyvideo) now!
 ![](/images/scenario_video_screenshot.jpg)
@@ -93,15 +93,13 @@ Meanwhile, you may check out past years' packages below:
 #### **Total Defence Day Videos**
 
 **Total Defence Day Video 2024**
+![](/images/DPM_Wong_TD_Message_thumbnail.jpg)
+The Total Defence Day Video 2024 is available on our [Total Defence YouTube page](https://www.youtube.com/@TotalDefenceSG).
 
-Watch this space on 15 February 2024.
+You may also check out the previous years' Total Defence Video Messages below:
 
 **Total Defence Day Video 2023**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cl9ohELFTv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-The Total Defence Day Video 2023 is also available on [We Are Total Defence (WATD) Facebook page](https://www.facebook.com/WeAreTotalDefence) and [Total Defence YouTube page](https://www.youtube.com/@TotalDefenceSG).
-
-You may also check out the previous years' Total Defence Video Messages below:
 
 **Minister for Defence's Total Defence Day 2022 Message**. Download the transcript [here](/files/transcript%20-%20minister%20for%20defence%20total%20defence%20day%202022%20message.pdf).
 
