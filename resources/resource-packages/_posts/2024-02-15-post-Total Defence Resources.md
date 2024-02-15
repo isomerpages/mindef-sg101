@@ -110,17 +110,21 @@ You may also check out the previous years' Total Defence Video Messages below:
 #### **Total Defence 40 Special Exhibition**
 Titled Total Defence for Thee!, the Special Exhibition commemorates 40 years of TD in Singapore and showcases how TD is integral to addressing threats and challenges.
 
-The full exhibition is held at Singapore Discovery Centre till Mar 17 2024. Roving abridged exhibitions will make appearances at public locations like SAFRA clubhouses and libraries (see below or [TD40 Exhibition Roving Schedule](https://go.gov.sg/sg101td)). The schedule will be updated monthly. 
+The full exhibition is held at Singapore Discovery Centre till Mar 17 2024. Roving abridged exhibitions will make appearances at public locations like SAFRA clubhouses and libraries. We have prepared two guides below for readers who are interested to visit our roving abridged exhibitions. The schedule will be updated monthly. Stay tuned!
 
-Download the TD40 Exhibition Roving Schedule [here]
+**TD40 Exhibition Roving Schedule**
+![TD40 Exhibition Roving Schedule (Feb 24)](/images/TD40_Exhibition_Roving_Schedule.png)
+Download the TD40 Exhibition Roving Schedule
 <a target="_blank" href="https://www.sg101.gov.sg/files/TD40_Roving_Exhibition_Schedule__For_SG101_.pdf">here</a>
 
-We have also prepared two guides below for readers who are interested to visit our exhibitions:
-
-Download the Facilitation Guide for Educators [here]
+**Facilitation Guide for Educators**
+![TD40 Exhibition Facilitation Guide for Educators](/images/TD40_Facilitation_Guide_for_Educactors.png)
+Download the Facilitation Guide for Educators 
 <a target="_blank" href="https://www.sg101.gov.sg/files/TD40_Exhibition_Facilitation_Guide__For_Size_S__final.pdf">here</a>
 
-Download the Self-help Guide for General Public [here]
+**Self-help Guide for General Public**
+![TD40 Exhibition Self-help Guide for General Public](/images/TD40_Exhibition_Self_help_Guide__For_General_Public_.png)
+Download the Self-help Guide for General Public
 <a target="_blank" href="https://www.sg101.gov.sg/files/TD40_Exhibition_Self_help_Guide__For_M_.pdf">here</a>
 
 ****
