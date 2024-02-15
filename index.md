@@ -185,4 +185,23 @@ sections:
       url: /economy/growing-our-economy/2010/
       image: /images/empty airport.png
       alt: Image alt text
+  - textcards:
+      title: Total Defence 40 Special Exhibition
+      id: textcards
+      description: "Titled Total Defence for Thee!, the Total Defence 40 Special
+        Exhibition commemorates 40 years of TD in Singapore and showcases how TD
+        is integral to addressing threats and challenges. "
+      cards:
+        - title: TD40 Exhibition at Singapore Discovery Centre
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
