@@ -59,27 +59,26 @@ sections:
             strong.
           linktext: Learn more
           url: https://www.sg101.gov.sg/resources/resource-packages/tdday2024/
-  - infopic:
-      title: TD40 Exhibition at Singapore Discovery Centre
-      subtitle: TD40 Special Exhibition
-      id: infopic
-      description: Titled Total Defence for Thee!, the exhibition comprises 3 zone
-        areas that reflects on the evolution of TD over the past 40 years.
-      button: Read more
-      url: https://www.defencecollectivesg.com/total-defence-40/
-      image: /images/TD40_poster.png
-      alt: Image alt text
-  - infopic:
-      title: Total Defence 40 Roving Exhibitions
-      subtitle: Resources
-      id: infopic
-      description: Starting from 13 Feb 2024, there will be TD40 Roving Exhibitions
-        islandwide (schedule updated monthly). Facilitation and self-help guides
-        are available here.
-      image: /images/TD40_Roving_Exhibition_Schedule.png
-      alt: Image alt text
-      button: Read more
-      url: https://go.gov.sg/sg101td
+  - textcards:
+      title: Total Defence 40 Special Exhibition
+      id: textcards
+      description: Titled Total Defence for Thee!, the Total Defence 40 Special
+        Exhibition commemorates 40 years of TD in Singapore and showcases how TD
+        is integral to addressing threats and challenges.
+      cards:
+        - title: TD40 Exhibition at Singapore Discovery Centre
+          description: The full exhibition is held at SDC till Mar 17 2024.
+          linktext: Learn more
+          url: https://www.defencecollectivesg.com/total-defence-40/
+        - title: TD40 Roving Exhibitions
+          description: "Roving abridged exhibitions will make public appearances
+            islandwide in 2024. "
+          linktext: Click here for the schedule
+          url: https://go.gov.sg/sg101td
+        - title: Facilitation and Self-help Guides for Exhibitions
+          description: Visitor guides are available for download.
+          linktext: Click here to download the guides
+          url: https://go.gov.sg/sg101td
   - infopic:
       title: Resource Page for the Red Sea Attacks
       subtitle: Resources
