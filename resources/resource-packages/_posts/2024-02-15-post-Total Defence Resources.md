@@ -110,7 +110,7 @@ You may also check out the previous years' Total Defence Video Messages below:
 #### **Total Defence 40 Special Exhibition**
 Titled Total Defence for Thee!, the Special Exhibition commemorates 40 years of TD in Singapore and showcases how TD is integral to addressing threats and challenges.
 
-The full exhibition is held at Singapore Discovery Centre till Mar 17 2024. Roving abridged exhibitions will make appearances at public locations like SAFRA clubhouses and libraries (see below or [TD40 Exhibition Roving Schedule  ](https://go.gov.sg/sg101td) for the roving schedule). The schedule will be updated monthly. 
+The full exhibition is held at Singapore Discovery Centre till Mar 17 2024. Roving abridged exhibitions will make appearances at public locations like SAFRA clubhouses and libraries (see below or [TD40 Exhibition Roving Schedule  ]). The schedule will be updated monthly. 
 
 Download the TD40 Exhibition Roving Schedule [here]
 <a target="_blank" href="https://www.sg101.gov.sg/files/TD40_Roving_Exhibition_Schedule__For_SG101_.pdf">here</a>
