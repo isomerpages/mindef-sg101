@@ -65,19 +65,21 @@ sections:
       id: infopic
       description: Titled Total Defence for Thee!, the exhibition comprises 3 zone
         areas that reflects on the evolution of TD over the past 40 years.
-      button: More Info
+      button: Read more
       url: https://www.defencecollectivesg.com/total-defence-40/
       image: /images/TD40_poster.png
       alt: Image alt text
   - infopic:
-      title: TD40 Roving Exhibitions
+      title: Total Defence 40 Roving Exhibitions
       subtitle: Resources
       id: infopic
-      description: Starting from 13 February 2024, there will be TD40 Roving
-        Exhibitions islandwide. Exhibition dates will be updated monthly, stay
-        tuned!
+      description: Starting from 13 Feb 2024, there will be TD40 Roving Exhibitions
+        islandwide (schedule updated monthly). Facilitation and self-help guides
+        are available here.
       image: /images/TD40_Roving_Exhibition_Schedule.png
       alt: Image alt text
+      button: Read more
+      url: https://go.gov.sg/sg101td
   - infopic:
       title: Resource Page for the Red Sea Attacks
       subtitle: Resources
