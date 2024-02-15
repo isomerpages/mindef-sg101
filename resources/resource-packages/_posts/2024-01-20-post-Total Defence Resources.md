@@ -119,15 +119,8 @@ We have also prepared two guides below for readers who are interested to visit o
 Download the Facilitation Guides for Educators 
 
 
-Self-guided Information Booklet for General Public
+Download the self-help guide for General Public [here](/files/TD40_Exhibition_Self_help_Guide__For_M_.pdf) 
 
-
-You may use this engagement package to discuss or better understand the relevance of Total Defence and how each of us can play a part in keeping Singapore strong, amidst the challenges and threats we face. The Total Defence Day 2024 NE Engagement Package can be downloaded [here](https://www.sg101.gov.sg/resources/resource-packages/tdday2024/).
-
-Meanwhile, you may check out past years' packages below: 
-* [Total Defence Day 2023 NE Engagement Package](https://www.sg101.gov.sg/resources/resource-packages/td2023/)
-
-* [Total Defence Day 2022 NE Engagement Package](https://www.sg101.gov.sg/resources/resource-packages/td2022) 
 
 ****
 #### **Total Defence Sandbox**
