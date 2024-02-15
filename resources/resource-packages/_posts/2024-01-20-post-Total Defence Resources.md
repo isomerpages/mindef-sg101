@@ -107,6 +107,29 @@ You may also check out the previous years' Total Defence Video Messages below:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7zzFPeTDa5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ****
+#### **Total Defence 40 Special Exhibition**
+Titled Total Defence for Thee!, the Total Defence 40 Special Exhibition commemorates 40 years of TD in Singapore and showcases how TD is integral to addressing threats and challenges.&nbsp;
+
+The full exhibition is held at Singapore Discovery Centre till Mar 17 2024. Roving abridged exhibitions will make appearances at public locations like SAFRA clubhouses and libraries (see below or https://go.gov.sg/sg101td for the schedule roving schedule).&nbsp;
+
+
+
+We have prepared two guides below for readers who are interested to visit our exhibitions:
+
+Facilitation Guides for Educators&nbsp;
+
+
+Self-guided Information Booklet for General Public&nbsp;
+
+
+You may use this engagement package to discuss or better understand the relevance of Total Defence and how each of us can play a part in keeping Singapore strong, amidst the challenges and threats we face. The Total Defence Day 2024 NE Engagement Package can be downloaded [here](https://www.sg101.gov.sg/resources/resource-packages/tdday2024/).
+
+Meanwhile, you may check out past years' packages below: 
+* [Total Defence Day 2023 NE Engagement Package](https://www.sg101.gov.sg/resources/resource-packages/td2023/)
+
+* [Total Defence Day 2022 NE Engagement Package](https://www.sg101.gov.sg/resources/resource-packages/td2022) 
+
+****
 #### **Total Defence Sandbox**
 ![Total Defence Sandbox](/images/total%20defence%20sandbox.jpg)
 
