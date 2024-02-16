@@ -17,7 +17,7 @@ Further updates will be made to this resource page as the situation continues to
 
 ****
 **Download:**
-<br> [NE Insights on the Conflict in the Middle East](/files/NE_Insights_on_the_Middle_East_Conflict__3__compressed__1_.pdf)
+<br> [NE Insights on the Conflict in the Middle East](/files/NE_Insights_on_the_Middle_East_Conflict_Updated.pdf)
 
 ****
 
