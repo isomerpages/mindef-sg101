@@ -1,18 +1,18 @@
 logo: /images/sg101.png
 links:
-  - title: About Us
-    url: /aboutus
-  - title: Defence And Security
-    collection: defence-and-security
-  - title: Economy
-    collection: economy
-  - title: Infrastructure
-    collection: infrastructure
-  - title: Social / National Identity
-    collection: social-national-identity
-  - title: Foreign Policy
-    collection: foreign-policy
   - title: Resources
     resource_room: true
+  - title: Defence And Security
+    collection: defence-and-security
+  - title: Foreign Policy
+    collection: foreign-policy
+  - title: Economy
+    collection: economy
+  - title: Social / National Identity
+    collection: social-national-identity
+  - title: Infrastructure
+    collection: infrastructure
+  - title: About Us
+    url: /aboutus
   - title: Contact Us
     url: /contact-us/
