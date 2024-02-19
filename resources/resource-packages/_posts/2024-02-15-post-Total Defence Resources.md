@@ -115,7 +115,7 @@ The full exhibition is held at Singapore Discovery Centre till Mar 17 2024. Rovi
 **TD40 Exhibition Roving Schedule**
 ![TD40 Roving Exhibition Schedule (Feb 2024)](/images/TD40_Roving_Exhibition_Schedule__v2_2_.png)
 Download the TD40 Exhibition Roving Schedule
-<a target="_blank" href="https://www.sg101.gov.sg//files/TD40_Roving_Exhibition_Schedule__Feb_2024__v3.pdf.pdf">here</a>
+<a target="_blank" href="https://www.sg101.gov.sg/files/TD40_Roving_Exhibition_Schedule__Feb_2024__v3.pdf.pdf">here</a>
 
 **Facilitation Guide for Educators**
 ![TD40 Exhibition Facilitation Guide for Educators](/images/TD40_Facilitation_Guide_for_Educactors.png)
