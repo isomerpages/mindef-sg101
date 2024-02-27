@@ -16,7 +16,8 @@ wildlife and our future generations to come.</p>
 <p>#Singapore #conservation #onemilliontrees #nparks #trees #urbanisation
 #deforestation #climatechange</p>
 <p></p>
-<p>Visit ConnexionSG [Facebook] &amp; [Instagram] for more content.</p>
-<p></p>
+<p>Visit ConnexionSG &lt;a href="<a href="https://www.facebook.com/ConnexionSG" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/ConnexionSG</a>"
+target="_blank"&gt;Facebook&lt;/a&gt; &amp;amp; &lt;a href="<a href="https://www.instagram.com/connexionsg/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/connexionsg/</a>"
+target="_blank"&gt;Instagram&lt;/a&gt; for more content.</p>
 <p></p>
 <p></p>
