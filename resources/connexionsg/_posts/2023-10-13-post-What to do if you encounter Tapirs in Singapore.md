@@ -44,9 +44,6 @@ along the Punggol Park Connector in Singapore.</p>
 <p>Swipe on to read about these elusive creatures on our sunny island and
 what you should do if you ever encounter one! 😉</p>
 <p></p>
-<p>Visit ConnexionSG [<a href="https://www.facebook.com/ConnexionSG" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>] &amp; [<a href="https://www.instagram.com/connexionsg/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>]
-for more content.</p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
