@@ -14,3 +14,5 @@ What’s up in Tengah, the newest HDB Town?
 Why is it called a “Forest Town” where residents will be "At Home With Nature?" Click onwards to find out!
 
 🙌🏻: The ConnexionSG team would like to credit four students from @temasekpoly.design @tp.cmd course for their design suggestions: (1) Basbas Elisha Raphaelle Patal, (2) Elyse Gan, (3) Hon En Hui Charis, and (4) Ng Wei Ting Wendy 😃
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
