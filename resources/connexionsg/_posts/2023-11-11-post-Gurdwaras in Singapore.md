@@ -43,3 +43,5 @@ addition, they also function as a community centre where social, educational,
 and charitable activities are carried out.</p>
 <p>Swipe to learn more about them! 🛕</p>
 <p></p>
+<p></p>
+<p>target="_blank"&gt;Instagram&lt;/a&gt; for more content.</p>
