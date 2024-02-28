@@ -35,13 +35,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/connexionsg/2023/gurdwaras9.jpg">
 </div>
-<p></p>
-<p></p>
-<p></p>
 <p>Gurdwaras are places of worship and community gatherings for Sikhs. In
 addition, they also function as a community centre where social, educational,
 and charitable activities are carried out.</p>
 <p>Swipe to learn more about them! 🛕</p>
-<p></p>
-<p></p>
-<p>target="_blank"&gt;Instagram&lt;/a&gt; for more content.</p>
