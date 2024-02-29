@@ -9,7 +9,9 @@ variant: markdown
 ---
 #### **Useful Resources**
 
-On 7 Oct 2023, Hamas launched a coordinated surprise offensive on Israel via land, air and sea, to which Israel retaliated. The conflict has since resulted in deaths and injuries of many innocent civilians.
+On 7 Oct 2023, Hamas launched a coordinated surprise offensive on Israel via land, air and sea, to which Israel retaliated. 
+
+The conflict has since resulted in deaths and injuries of many innocent civilians.
 
 To better understand the situation in the Middle East and Singapore’s position, below are some useful resources for consideration.
 
