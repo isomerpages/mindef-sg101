@@ -20,33 +20,9 @@ Further updates will be made to this resource page as the situation continues to
 <br> [NE Insights on the Conflict in the Middle East](/files/NE_Insights_on_the_Middle_East_Conflict_Updated.pdf)
 
 ****
-
-**Key Event Updates Related to the Israel-Hamas Conflict**
-
-<a target="blank" href="https://www.channelnewsasia.com/commentary/red-sea-suez-canal-houthi-shipping-delay-cost-4004226">Commentary: Red Sea Attacks on Cargo Ships Could Disrupt Deliveries and Push Up Prices</a>, Channel News Asia, 22 Dec 2023
-
-<a target="blank" href="https://www.channelnewsasia.com/world/us-plans-international-coalition-counter-red-sea-attacks-3997746">US Announces 10-Nation Coalition to Combat Houthi Attacks in Red Sea</a>, Channel News Asia, 19 Dec 2022
-
-<a target="blank" href="https://www.channelnewsasia.com/world/us-official-palestinian-authority-control-gaza-west-bank-3990471">Revamped Palestinian Authority Should Govern Gaza and West Bank, Says Senior US official</a>, Channel News Asia, 15 Dec 2023
-
-<a target="blank" href="https://www.channelnewsasia.com/world/biden-warns-netanyahu-risks-losing-support-israel-hamas-gaza-palestinian-war-3984606">Biden Warns Netanyahu Risks Losing Support for Hamas War</a>, Channel News Asia, 13 Dec 2023
-																																																														
-<a target="blank" href="https://www.channelnewsasia.com/world/un-general-assembly-gaza-humanitarian-ceasefire-israel-hamas-war-3984446">UN General Assembly Overwhelmingly Demands Immediate Humanitarian Ceasefire in Gaza</a>, Channel News Asia, 13 Dec 2023
-
-<a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-gaza-deaths-battles-rage-3980721">Gaza Deaths Pass 18,200 As Battles Rage</a>, Channel News Asia, 12 Dec 2023
-
-<a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-war-gaza-hostage-release-deal-negotiations-qatar-3942191">Israel and Hamas to Start Four-day Truce on Friday: Qatar Mediators</a>, Channel News Asia, 24 Nov 2023
-
-<a target="blank" href="https://www.youtube.com/watch?v=pyo1ff69LaY">Israel-Hamas war: Worldwide Protests as Nations Ramp up security</a>, Straits Times, 13 Oct 2023
-
-<a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-surprise-attack-gaza-strikes-3828731">Israel Vows ‘Mighty Vengeance’ after Surprise Attack by Hamas Kills Hundreds</a>, Channel News Asia, 9 Oct 2023
-
-<a target="blank" href="https://www.straitstimes.com/world/middle-east/sirens-warning-of-incoming-rockets-sound-around-gaza-near-tel-aviv">Netanyahu Declares Israel at war as Hamas attacks Kill Over 100</a>, Straits Times, 9 Oct 2023
-
-<a target="blank" href="https://www.channelnewsasia.com/world/what-palestinian-group-hamas-3828851">What is the Palestinian group Hamas?</a>, Channel News Asia, 8 Oct 2023
-
-****
 **Singapore's Responses to the Conflict**
+
+<a target="blank" href="https://www.channelnewsasia.com/world/us-urges-israel-let-muslims-worship-al-aqsa-during-ramadan-4157671">Israel's Response to Hamas Attack Has 'Gone Too Far', But Severing Ties Would Not Help Palestinians, Says Singapore</a>, Channel News Asia, 29 Feb 2024
 
 <a target="blank" href="https://www.straitstimes.com/singapore/saf-sends-medical-team-to-egypt-to-treat-casualties-from-gaza">SAF Sends Medical Team to Egypt to Treat Casualties From Gaza</a>, Straits Times, 19 Jan 2024
 
@@ -69,6 +45,34 @@ Further updates will be made to this resource page as the situation continues to
 <a target="blank" href="https://www.channelnewsasia.com/singapore/chief-rabbi-mufti-singapore-solidarity-jewish-muslim-communities-israel-hamas-war-3847391">Singapore's Chief Rabbi, Mufti Reaffirm Solidarity Between Communities Amid 'Senseless' Israel-Hamas War</a>, Channel News Asia, 15 Oct 2023
 
 <a target="blank" href="https://www.straitstimes.com/singapore/singapore-must-never-let-external-events-affect-precious-peace-shanmugam-on-israel-hamas-war">Singapore Must Never Let External Events Affect 'Precious Peace': Shanmugam on Israel-Hamas War</a>, Channel News Asia, 13 Oct 2023
+
+****
+
+**Key Event Updates Related to the Israel-Hamas Conflict**
+
+<a target="blank" href="https://www.channelnewsasia.com/world/unrwa-gaza-united-nations-israel-hamas-humanitarian-aid-halved-suspended-4159371">UNRWA Says Humanitarian Aid to Gaza Has Halved, Appeaks For More Donations</a>, Channel News Asia, 29 Feb 2024
+
+<a target="blank" href="https://www.channelnewsasia.com/commentary/red-sea-suez-canal-houthi-shipping-delay-cost-4004226">Commentary: Red Sea Attacks on Cargo Ships Could Disrupt Deliveries and Push Up Prices</a>, Channel News Asia, 22 Dec 2023
+
+<a target="blank" href="https://www.channelnewsasia.com/world/us-plans-international-coalition-counter-red-sea-attacks-3997746">US Announces 10-Nation Coalition to Combat Houthi Attacks in Red Sea</a>, Channel News Asia, 19 Dec 2022
+
+<a target="blank" href="https://www.channelnewsasia.com/world/us-official-palestinian-authority-control-gaza-west-bank-3990471">Revamped Palestinian Authority Should Govern Gaza and West Bank, Says Senior US official</a>, Channel News Asia, 15 Dec 2023
+
+<a target="blank" href="https://www.channelnewsasia.com/world/biden-warns-netanyahu-risks-losing-support-israel-hamas-gaza-palestinian-war-3984606">Biden Warns Netanyahu Risks Losing Support for Hamas War</a>, Channel News Asia, 13 Dec 2023
+																																																														
+<a target="blank" href="https://www.channelnewsasia.com/world/un-general-assembly-gaza-humanitarian-ceasefire-israel-hamas-war-3984446">UN General Assembly Overwhelmingly Demands Immediate Humanitarian Ceasefire in Gaza</a>, Channel News Asia, 13 Dec 2023
+
+<a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-gaza-deaths-battles-rage-3980721">Gaza Deaths Pass 18,200 As Battles Rage</a>, Channel News Asia, 12 Dec 2023
+
+<a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-war-gaza-hostage-release-deal-negotiations-qatar-3942191">Israel and Hamas to Start Four-day Truce on Friday: Qatar Mediators</a>, Channel News Asia, 24 Nov 2023
+
+<a target="blank" href="https://www.youtube.com/watch?v=pyo1ff69LaY">Israel-Hamas war: Worldwide Protests as Nations Ramp up security</a>, Straits Times, 13 Oct 2023
+
+<a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-surprise-attack-gaza-strikes-3828731">Israel Vows ‘Mighty Vengeance’ after Surprise Attack by Hamas Kills Hundreds</a>, Channel News Asia, 9 Oct 2023
+
+<a target="blank" href="https://www.straitstimes.com/world/middle-east/sirens-warning-of-incoming-rockets-sound-around-gaza-near-tel-aviv">Netanyahu Declares Israel at war as Hamas attacks Kill Over 100</a>, Straits Times, 9 Oct 2023
+
+<a target="blank" href="https://www.channelnewsasia.com/world/what-palestinian-group-hamas-3828851">What is the Palestinian group Hamas?</a>, Channel News Asia, 8 Oct 2023
 
 ****
 
