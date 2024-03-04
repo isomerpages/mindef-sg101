@@ -23,7 +23,7 @@ Below are other resources on Total Defence which you may find useful for your en
 #### **Exercise SG Ready**
 ![Exercise SG Ready](/images/Ex_SG_Ready_OOH_Posters.jpg)
 
-The inaugural Exercise SG Ready was held at various locations across the island between 15 Feb to 29 Feb 2024 to increase Singaporeans' readiness for crises and disruptions. The exercise simulated disruptions of power, water, food supply, digital connectivity and a civil emergency arising from wide spread cyberattacks, disinformation campaigns and drone attacks from an anonymous actor in the region. 
+The inaugural Exercise SG Ready was held at various locations across the island between 15 Feb to 29 Feb 2024 to **increase Singaporeans' readiness for crises and disruptions**. The exercise simulated disruptions of power, water, food supply, digital connectivity and a civil emergency arising from wide spread cyberattacks, disinformation campaigns and drone attacks from an anonymous actor in the region. 
 
 The aim of the exercise is to get individuals, communities and businesses thinking about the question, ***"Are you ready for disruptions?",*** and to put Total Defence into action by putting in place their own contingency plans for disruptions.
 
