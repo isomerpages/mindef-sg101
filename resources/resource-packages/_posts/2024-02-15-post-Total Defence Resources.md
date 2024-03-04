@@ -19,7 +19,8 @@ To mark this milestone, a new TD40 logo has been developed for the use of all To
 
 Below are other resources on Total Defence which you may find useful for your engagement.
 
-****
+******
+
 #### **Exercise SG Ready**
 ![Exercise SG Ready](/images/Ex_SG_Ready_OOH_Posters.jpg)
 
@@ -27,6 +28,7 @@ The inaugural Exercise SG Ready was held at various locations across the island 
 
 The aim of the exercise is to get individuals, communities and businesses thinking about the question, ***"Are you ready for disruptions?",*** and to put Total Defence into action by putting in place their own contingency plans for disruptions.
 
+*****
 #### **Exercise SG Ready Scenario Video**
 As part of Exercise SG Ready, the scenario video illustrates how hybrid threats can disrupt our daily lives. It also helped set the context for the simulated disruptions that took place beween 15 - 29 Feb 2024!
 
