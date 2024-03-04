@@ -46,7 +46,7 @@ During times of major disruptions, it is important not to forget those in need. 
 
 ![](/images/TD40_x_GoWhere.jpg)
 
-Members of the public can use SGReadyGoWhere to locate their nearest CD shelter.  [go.gov.sg/SGReadyGoWhere](https://go.gov.sg/sgreadygowhere).
+Members of the public can use SGReadyGoWhere to locate their nearest CD shelter at [go.gov.sg/SGReadyGoWhere](https://go.gov.sg/sgreadygowhere).
 
 The Civil Defence Shelter Programme is part of the government's plan to building up our Civil Defence preparedness under the umbrella of Total Defence. These public shelters are places where you can take refuge during a wartime emergency and are designed with protective features against weapon effects to ensure a safe environment for shelter occupants. Public shelters can be found in MRT stations, HDBs, schools, community clubs and other developments.
 
