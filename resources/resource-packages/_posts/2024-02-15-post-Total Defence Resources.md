@@ -46,7 +46,9 @@ During times of major disruptions, it is important not to forget those in need. 
 
 ![](/images/TD40_x_GoWhere.jpg)
 
-Members of the public who would like more information on the locations and dates of the simulated disruptions for the exercise can go to [go.gov.sg/SGReadyGoWhere](https://go.gov.sg/sgreadygowhere). Key in your postal code to see the nearest locations and dates of the disruptions being simulated. As the website will be updated regularly, members of the public are advised to check for latest update.
+Members of the public can use SGReadyGoWhere to locate their nearest CD shelter.  [go.gov.sg/SGReadyGoWhere](https://go.gov.sg/sgreadygowhere).
+
+The Civil Defence Shelter Programme is part of the government's plan to building up our Civil Defence preparedness under the umbrella of Total Defence. These public shelters are places where you can take refuge during a wartime emergency and are designed with protective features against weapon effects to ensure a safe environment for shelter occupants. Public shelters can be found in MRT stations, HDBs, schools, community clubs and other developments.
 
 ********
 #### **Total Defence 2024 Campaign Poster**
