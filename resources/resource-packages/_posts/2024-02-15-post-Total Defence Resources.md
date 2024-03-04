@@ -47,15 +47,6 @@ Members of the public who would like more information on the locations and dates
 
 During times of major disruptions, it is important not to forget those in need. As part of Exercise SG Ready, Community Chest (ComChest) will be running a campaign from now till 1 November 2024 to support Total Defence. Members of the public can donate or sign up as a volunteer via the Giving.sg online platform at [go.gov.sg/SGReadyGiving](https://go.gov.sg/sgreadygiving).
 
-**Civil Defence (CD) MRT Shelter Open Houses**
-
-![](/images/TD40_x_SCDF_x_LTA.jpg)
-
-As part of Exercise SG Ready, the Singapore Civil Defence Force (SCDF), with support from the Land Transport Authority, will organise Civil Defence (CD) Shelter Open Houses at Dakota (CC8), Potong Pasir (NE10) and Tan Kah Kee (DT8) MRT stations on 23 February 2024 from 10:00am to 4:00pm. 
-
-The open houses will show how MRT stations can be converted in public shelters to protect civilians during an emergency. 
-
-Members of the public may walk in to participate, but larger groups of 20 or more will require reservations through the online booking system [here](https://go.gov.sg/cdshelteropenhouse) before they visit the CD Shelter Open House.
 
 ********
 #### **Total Defence 2024 Campaign Poster**
