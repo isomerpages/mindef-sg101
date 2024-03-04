@@ -29,6 +29,7 @@ The inaugural Exercise SG Ready was held at various locations across the island 
 The aim of the exercise is to get individuals, communities and businesses thinking about the question, ***"Are you ready for disruptions?",*** and to put Total Defence into action by putting in place their own contingency plans for disruptions.
 
 *****
+
 #### **Exercise SG Ready Scenario Video**
 As part of Exercise SG Ready, the scenario video illustrates how hybrid threats can disrupt our daily lives. It also helped set the context for the simulated disruptions that took place beween 15 - 29 Feb 2024!
 
@@ -36,6 +37,17 @@ Watch the **Exercise SG Ready Scenario Video** [here](https://go.gov.sg/sgreadyv
 ![](/images/scenario_video_screenshot.jpg)
 
 ******
+
+#### **Total Defence Organisation Table-top Exercise (TTX)**
+
+The Total Defence Organisation TTX aims to activate thinking and encourage discussion among participants on the strengths and weaknesses of their organisation's existing Business Continuity Plan (BCP), and how their organisation can be ready and prepared for crises and disruptions.
+
+From such discussions, we hope participants will review and strengthen their BCP, ensuring organisations are well-prepared and resilient to navigate through crises and disruptions effectively.
+
+Interested to carry out your own Total Defence Organisation TTX? You may use the Exercise SG Ready Scenario Video as well as the facilitation materials [here](https://go.gov.sg/tdttx-for-businesses).
+
+****
+
 **SG Ready Giving.sg Website**
 
 ![](/images/TD40_x_ComChest_2.jpg)
@@ -67,15 +79,7 @@ The posters can be downloaded [here](https://go.gov.sg/tdposter24).
 A black-and-white (b/w) version of the Total Defence poster is also available at the same link above, as a Total Defence activity sheet for printing and distribution as a colouring activity.
 
 ****
-#### **Total Defence Organisation Table-top Exercise (TTX)**
 
-The Total Defence Organisation TTX aims to activate thinking and encourage discussion among participants on the strengths and weaknesses of their organisation's existing Business Continuity Plan (BCP), and how their organisation can be ready and prepared for crises and disruptions.
-
-From such discussions, we hope participants will review and strengthen their BCP, ensuring organisations are well-prepared and resilient to navigate through crises and disruptions effectively.
-
-Interested to carry out your own Total Defence Organisation TTX? You may use the Exercise SG Ready Scenario Video as well as the facilitation materials [here](https://go.gov.sg/tdttx-for-businesses).
-
-****
 #### **Total Defence Engagement Packages**
 You may use this engagement package to discuss or better understand the relevance of Total Defence and how each of us can play a part in keeping Singapore strong, amidst the challenges and threats we face. The Total Defence Day 2024 NE Engagement Package can be downloaded [here](https://www.sg101.gov.sg/resources/resource-packages/tdday2024/).
 
