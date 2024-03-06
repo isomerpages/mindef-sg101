@@ -19,27 +19,34 @@ To mark this milestone, a new TD40 logo has been developed for the use of all To
 
 Below are other resources on Total Defence which you may find useful for your engagement.
 
-****
+******
+
 #### **Exercise SG Ready**
 ![Exercise SG Ready](/images/Ex_SG_Ready_OOH_Posters.jpg)
 
-The inaugural Exercise SG Ready will be held at various locations across the island **between 15 Feb to 29 Feb 2024** to increase Singaporeans' readiness for crises and disruptions. The exercise simulates disruptions of power, water, food supply, digital connectivity and a civil emergency arising from wide spread cyberattacks, disinformation campaigns and drone attacks from an anonymous actor in the region. 
+The inaugural Exercise SG Ready was held at various locations across the island between 15 Feb to 29 Feb 2024 to **increase Singaporeans' readiness for crises and disruptions**. The exercise simulated disruptions of power, water, food supply, digital connectivity and a civil emergency arising from wide spread cyberattacks, disinformation campaigns and drone attacks from an anonymous actor in the region. 
 
 The aim of the exercise is to get individuals, communities and businesses thinking about the question, ***"Are you ready for disruptions?",*** and to put Total Defence into action by putting in place their own contingency plans for disruptions.
 
+*****
+
 #### **Exercise SG Ready Scenario Video**
-As part of Exercise SG Ready, the scenario video will illustrate how hybrid threats can disrupt our daily lives. It also helps set the context for the simulated disruptions happening beween 15 - 29 Feb 2024!
+As part of Exercise SG Ready, the scenario video illustrates how hybrid threats can disrupt our daily lives. It also helped set the context for the simulated disruptions that took place beween 15 - 29 Feb 2024!
 
 Watch the **Exercise SG Ready Scenario Video** [here](https://go.gov.sg/sgreadyvideo) now!
 ![](/images/scenario_video_screenshot.jpg)
 
 ******
 
-**SGReadyGoWhere Website**
+#### **Total Defence Organisation Table-top Exercise (TTX)**
 
-![](/images/TD40_x_GoWhere.jpg)
+The Total Defence Organisation TTX aims to activate thinking and encourage discussion among participants on the strengths and weaknesses of their organisation's existing Business Continuity Plan (BCP), and how their organisation can be ready and prepared for crises and disruptions.
 
-Members of the public who would like more information on the locations and dates of the simulated disruptions for the exercise can go to [go.gov.sg/SGReadyGoWhere](https://go.gov.sg/sgreadygowhere). Key in your postal code to see the nearest locations and dates of the disruptions being simulated. As the website will be updated regularly, members of the public are advised to check for latest update.
+From such discussions, we hope participants will review and strengthen their BCP, ensuring organisations are well-prepared and resilient to navigate through crises and disruptions effectively.
+
+Interested to carry out your own Total Defence Organisation TTX? You may use the Exercise SG Ready Scenario Video as well as the facilitation materials [here](https://go.gov.sg/tdttx-for-businesses).
+
+****
 
 **SG Ready Giving.sg Website**
 
@@ -47,15 +54,15 @@ Members of the public who would like more information on the locations and dates
 
 During times of major disruptions, it is important not to forget those in need. As part of Exercise SG Ready, Community Chest (ComChest) will be running a campaign from now till 1 November 2024 to support Total Defence. Members of the public can donate or sign up as a volunteer via the Giving.sg online platform at [go.gov.sg/SGReadyGiving](https://go.gov.sg/sgreadygiving).
 
-**Civil Defence (CD) MRT Shelter Open Houses**
+******
 
-![](/images/TD40_x_SCDF_x_LTA.jpg)
+**SGReadyGoWhere Website**
 
-As part of Exercise SG Ready, the Singapore Civil Defence Force (SCDF), with support from the Land Transport Authority, will organise Civil Defence (CD) Shelter Open Houses at Dakota (CC8), Potong Pasir (NE10) and Tan Kah Kee (DT8) MRT stations on 23 February 2024 from 10:00am to 4:00pm. 
+![](/images/TD40_x_GoWhere.jpg)
 
-The open houses will show how MRT stations can be converted in public shelters to protect civilians during an emergency. 
+Members of the public can use SGReadyGoWhere to locate their nearest CD shelter at [go.gov.sg/SGReadyGoWhere](https://go.gov.sg/sgreadygowhere).
 
-Members of the public may walk in to participate, but larger groups of 20 or more will require reservations through the online booking system [here](https://go.gov.sg/cdshelteropenhouse) before they visit the CD Shelter Open House.
+The Civil Defence Shelter Programme is part of the government's plan to building up our Civil Defence preparedness under the umbrella of Total Defence. These public shelters are places where you can take refuge during a wartime emergency and are designed with protective features against weapon effects to ensure a safe environment for shelter occupants. Public shelters can be found in MRT stations, HDBs, schools, community clubs and other developments.
 
 ********
 #### **Total Defence 2024 Campaign Poster**
@@ -72,15 +79,7 @@ The posters can be downloaded [here](https://go.gov.sg/tdposter24).
 A black-and-white (b/w) version of the Total Defence poster is also available at the same link above, as a Total Defence activity sheet for printing and distribution as a colouring activity.
 
 ****
-#### **Total Defence Organisation Table-top Exercise (TTX)**
 
-The Total Defence Organisation TTX aims to activate thinking and encourage discussion among participants on the strengths and weaknesses of their organisation's existing Business Continuity Plan (BCP), and how their organisation can be ready and prepared for crises and disruptions.
-
-From such discussions, we hope participants will review and strengthen their BCP, ensuring organisations are well-prepared and resilient to navigate through crises and disruptions effectively.
-
-Interested to carry out your own Total Defence Organisation TTX? You may use the Exercise SG Ready Scenario Video as well as the facilitation materials [here](https://go.gov.sg/tdttx-for-businesses).
-
-****
 #### **Total Defence Engagement Packages**
 You may use this engagement package to discuss or better understand the relevance of Total Defence and how each of us can play a part in keeping Singapore strong, amidst the challenges and threats we face. The Total Defence Day 2024 NE Engagement Package can be downloaded [here](https://www.sg101.gov.sg/resources/resource-packages/tdday2024/).
 
