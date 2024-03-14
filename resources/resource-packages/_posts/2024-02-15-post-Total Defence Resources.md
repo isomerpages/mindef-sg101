@@ -112,7 +112,6 @@ Titled Total Defence for Thee!, the Special Exhibition commemorates 40 years of 
 The full exhibition is held at Singapore Discovery Centre till Mar 17 2024. Roving abridged exhibitions will make appearances at public locations like SAFRA clubhouses and libraries. We have prepared two guides below for readers who are interested to visit our roving abridged exhibitions. The schedule will be updated monthly. Stay tuned!
 
 **TD40 Exhibition Roving Schedule**
-![TD40_Roving_Exhibition_Schedule__For_Mar_to_May](/images/TD40_Roving_Exhibition_Schedule__Mar_May_.jpg)
 Download the TD40 Exhibition Roving Schedule
 <a target="_blank" href="https://www.sg101.gov.sg/files/TD40_Roving_Exhibition_Schedule__For_Mar_to_May_.pdf">here</a>
 
