@@ -9,9 +9,9 @@ variant: markdown
 ---
 #### **Useful Resources**
 
-On 7 Oct 2023, Hamas launched a coordinated surprise offensive on Israel via land, air and sea, to which Israel retaliated. 
+On 7 Oct 2023, Hamas launched a coordinated surprise offensive on Israel via land, air and sea, killing over 1,100 Israel civilians and military personnel, and taking over 200 hostages. 
 
-The conflict has since resulted in deaths and injuries of many innocent civilians.
+Israel's resulting invasion of Gaza has since claimed over 30,000 Gazan lives, including women and children.
 
 To better understand the situation in the Middle East and Singapore’s position, below are some useful resources for consideration.
 
