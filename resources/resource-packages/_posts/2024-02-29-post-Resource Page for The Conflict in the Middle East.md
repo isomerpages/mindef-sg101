@@ -21,8 +21,17 @@ Further updates will be made to this resource page as the situation continues to
 **Download:**
 <br> [NE Insights on the Conflict in the Middle East](/files/NE_Insights_on_the_Middle_East_Conflict_Updated.pdf)
 
+
+****
+
+**Listen**:
+
+<a target="blank" href="https://www.channelnewsasia.com/podcasts/classroom-cce-lessons-difficult-topics-moe-schools-students-heart-matter-podcast-4194666">Heart of the Matter Podcast: How Can Teachers Help Kids Understand Controversial Topics?</a>, Podcast, Channel News Asia, 15 Mar 2024
+
 ****
 **Singapore's Responses to the Conflict**
+
+<a target="blank" href="https://www.channelnewsasia.com/singapore/singapore-gaza-humanitarian-assistance-rsaf-airdrop-jordan-4196956"> Singapore To Deliver Third Tranche of Humanitarian Aid for Gaza</a>, Channel News Asia, 15 Mar 2024
 
 <a target="blank" href="https://www.channelnewsasia.com/world/us-urges-israel-let-muslims-worship-al-aqsa-during-ramadan-4157671">Israel's Response to Hamas Attack Has 'Gone Too Far', But Severing Ties Would Not Help Palestinians, Says Singapore</a>, Channel News Asia, 29 Feb 2024
 
@@ -51,6 +60,10 @@ Further updates will be made to this resource page as the situation continues to
 ****
 
 **Key Event Updates Related to the Israel-Hamas Conflict**
+
+<a target="blank" href="https://www.channelnewsasia.com/world/blinken-says-us-working-bridge-remaining-gaps-hamas-israel-deal-4199091">Blinken Says US Working to 'Bridge Remaining Gaps' On Hamas-Israel Deal</a>, Channel News Asia, 16 Mar 2024
+
+<a target="blank" href="https://www.channelnewsasia.com/world/israel-approves-plan-attack-rafah-keeps-truce-hopes-alive-4199416">Israel Approves plan to Attack Rafah but Keeps Truce Hopes Alive</a>, Channel News Asia, 16 Mar 2024
 
 <a target="blank" href="https://www.channelnewsasia.com/world/unrwa-gaza-united-nations-israel-hamas-humanitarian-aid-halved-suspended-4159371">UNRWA Says Humanitarian Aid to Gaza Has Halved, Appeaks For More Donations</a>, Channel News Asia, 29 Feb 2024
 
