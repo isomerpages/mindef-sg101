@@ -7,7 +7,6 @@ description: Israel hamas palestine middle-east
 image: ""
 variant: markdown
 ---
-
 On 7 Oct 2023, Hamas launched a coordinated surprise offensive on Israel via land, air and sea, killing over 1,100 Israel civilians and military personnel, and taking over 200 hostages. 
 
 Israel's resulting invasion of Gaza has since claimed over 30,000 Gazan lives, including women and children.
@@ -32,6 +31,8 @@ Further updates will be made to this resource page as the situation continues to
 **Singapore's Responses to the Conflict**
 
 <a target="blank" href="https://www.channelnewsasia.com/singapore/singapore-gaza-humanitarian-assistance-rsaf-airdrop-jordan-4196956"> Singapore To Deliver Third Tranche of Humanitarian Aid for Gaza</a>, Channel News Asia, 15 Mar 2024
+
+<a target="blank" href="https://www.channelnewsasia.com/singapore/lessons-israel-hamas-conflict-online-representation-teacher-abuse-external-interference-chan-chun-sing-4168581">Online Misrepresentation of MOE Lessons on Israel-Hamas War Led to Abuse Towards Teachers, Potential 'External Interference' Involved: Chan Chun Sing</a>, Channel News Asia, 4 Mar 2024
 
 <a target="blank" href="https://www.channelnewsasia.com/world/us-urges-israel-let-muslims-worship-al-aqsa-during-ramadan-4157671">Israel's Response to Hamas Attack Has 'Gone Too Far', But Severing Ties Would Not Help Palestinians, Says Singapore</a>, Channel News Asia, 29 Feb 2024
 
