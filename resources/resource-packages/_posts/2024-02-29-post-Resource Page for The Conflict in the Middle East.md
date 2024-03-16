@@ -7,7 +7,6 @@ description: Israel hamas palestine middle-east
 image: ""
 variant: markdown
 ---
-#### **Useful Resources**
 
 On 7 Oct 2023, Hamas launched a coordinated surprise offensive on Israel via land, air and sea, killing over 1,100 Israel civilians and military personnel, and taking over 200 hostages. 
 
