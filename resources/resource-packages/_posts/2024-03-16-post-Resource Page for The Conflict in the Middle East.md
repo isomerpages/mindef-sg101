@@ -19,6 +19,8 @@ Further updates will be made to this resource page as the situation continues to
 **Download:**
 <br> [NE Insights on the Conflict in the Middle East](/files/NE_Insights_on_the_Middle_East_Conflict_Updated.pdf)
 
+<a target="blank" href="https://www.mfa.gov.sg/Newsroom/Announcements-and-Highlights/2023/11/20231106-Parl-Sitting">MFA's Infographics on the Conflict</a>
+
 <a target="blank" href="https://drive.google.com/drive/folders/1DowhPeYUSo1v1E4DIT8arWdItxZ4a_J3"> MFA's Infographics on Singapore's Foreign Policy Interests</a>
 
 ****
