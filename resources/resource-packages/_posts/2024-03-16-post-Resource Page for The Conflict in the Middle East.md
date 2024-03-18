@@ -1,17 +1,15 @@
 ---
 title: Resource Page for The Conflict in the Middle East
 permalink: /resources/resource-packages/conflictmiddleeast/
-date: 2024-02-29
+date: 2024-03-16
 layout: post
 description: Israel hamas palestine middle-east
 image: ""
 variant: markdown
 ---
-#### **Useful Resources**
+On 7 Oct 2023, Hamas launched a coordinated surprise offensive on Israel via land, air and sea, killing over 1,100 Israel civilians and military personnel, and taking over 200 hostages. 
 
-On 7 Oct 2023, Hamas launched a coordinated surprise offensive on Israel via land, air and sea, to which Israel retaliated. 
-
-The conflict has since resulted in deaths and injuries of many innocent civilians.
+Israel's resulting invasion of Gaza has since claimed over 30,000 Gazan lives, including women and children.
 
 To better understand the situation in the Middle East and Singapore’s position, below are some useful resources for consideration.
 
@@ -21,8 +19,22 @@ Further updates will be made to this resource page as the situation continues to
 **Download:**
 <br> [NE Insights on the Conflict in the Middle East](/files/NE_Insights_on_the_Middle_East_Conflict_Updated.pdf)
 
+<a target="blank" href="https://www.mfa.gov.sg/Newsroom/Announcements-and-Highlights/2023/11/20231106-Parl-Sitting">MFA's Infographics on the Conflict</a>
+
+<a target="blank" href="https://drive.google.com/drive/folders/1DowhPeYUSo1v1E4DIT8arWdItxZ4a_J3"> MFA's Infographics on Singapore's Foreign Policy Interests</a>
+
+****
+
+**Listen**:
+
+<a target="blank" href="https://www.channelnewsasia.com/podcasts/classroom-cce-lessons-difficult-topics-moe-schools-students-heart-matter-podcast-4194666">Heart of the Matter Podcast: How Can Teachers Help Kids Understand Controversial Topics?</a>, Podcast, Channel News Asia, 15 Mar 2024
+
 ****
 **Singapore's Responses to the Conflict**
+
+<a target="blank" href="https://www.channelnewsasia.com/singapore/singapore-gaza-humanitarian-assistance-rsaf-airdrop-jordan-4196956"> Singapore To Deliver Third Tranche of Humanitarian Aid for Gaza</a>, Channel News Asia, 15 Mar 2024
+
+<a target="blank" href="https://www.channelnewsasia.com/singapore/lessons-israel-hamas-conflict-online-representation-teacher-abuse-external-interference-chan-chun-sing-4168581">Online Misrepresentation of MOE Lessons on Israel-Hamas War Led to Abuse Towards Teachers, Potential 'External Interference' Involved: Chan Chun Sing</a>, Channel News Asia, 4 Mar 2024
 
 <a target="blank" href="https://www.channelnewsasia.com/world/us-urges-israel-let-muslims-worship-al-aqsa-during-ramadan-4157671">Israel's Response to Hamas Attack Has 'Gone Too Far', But Severing Ties Would Not Help Palestinians, Says Singapore</a>, Channel News Asia, 29 Feb 2024
 
@@ -51,6 +63,10 @@ Further updates will be made to this resource page as the situation continues to
 ****
 
 **Key Event Updates Related to the Israel-Hamas Conflict**
+
+<a target="blank" href="https://www.channelnewsasia.com/world/blinken-says-us-working-bridge-remaining-gaps-hamas-israel-deal-4199091">Blinken Says US Working to 'Bridge Remaining Gaps' On Hamas-Israel Deal</a>, Channel News Asia, 16 Mar 2024
+
+<a target="blank" href="https://www.channelnewsasia.com/world/israel-approves-plan-attack-rafah-keeps-truce-hopes-alive-4199416">Israel Approves plan to Attack Rafah but Keeps Truce Hopes Alive</a>, Channel News Asia, 16 Mar 2024
 
 <a target="blank" href="https://www.channelnewsasia.com/world/unrwa-gaza-united-nations-israel-hamas-humanitarian-aid-halved-suspended-4159371">UNRWA Says Humanitarian Aid to Gaza Has Halved, Appeaks For More Donations</a>, Channel News Asia, 29 Feb 2024
 
