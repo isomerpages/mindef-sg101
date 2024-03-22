@@ -96,20 +96,15 @@ Further updates will be made to this resource page as the situation continues to
 
 **Official Statements by Government Agencies**
 
-(Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/12/UNGA-10th-ESS-on-Gaza">Statement by Permanent Representative of the Republic of Singpaore, Ambassador Burhan Gafoor at the 10th Emergency Special Session of the United Nations General Assembly, 15 December 2023, New York</a>, Ministry of Foreign Affairs, 16 Dec 2023
+(Transcript) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/03/FM-Dr-Vivian-Balakrishnan-Doorstop-Interview-in-Israel-on-20-March-2024">Transcript of Minister for Foreign Affairs Dr Vivian Balakrishnan's Doorstop Interview in Israel on 20 March 2024</a>, Ministry of Foreign Affairs, 20 Mar 2024
 
-(Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/11/20231130-SG-Delivers-Aid-to-Gaza">Singapore Government Deplloys RSAF Aircraft to Deliver Urgent Aid for Gaza</a>, Ministry of Foreign Affairs, 30 Nov 2023
+(Statement) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/03/FM-Visit-to-Israel">Working Visit of Minister for Foreign Affairs Dr Vivian Balakrishnan to the State of Israel, 19 to 20 March 2024</a>, Ministry of Foreign Affairs, 20 Mar 2024
 
-(Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/11/Situation-in-Gaza_231117"> MFA Press Statement on the Situation in Gaza</a>, Ministry of Foreign Affairs, 17 Nov 2023
+(Statement) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/03/20240319-Minister-PA-Visit">Working Visit of Minister for Foreign Affairs Dr Vivian Balakrishnan to the Palestinian Territories, 18 March 2024</a>, Ministry of Foreign Affairs, 19 Mar 2024
 
-(Transcript) <a target="blank" href="https://www.pmo.gov.sg/Newsroom/DPM-Lawrence-Wong-on-the-Israel-Hamas-Conflict-November-2023"> DPM Lawrence Wong on the Israel-Hamas Conflict (November 2023)</a>, Prime Minister's Office Singapore, 6 Nov 2023
+(Statement) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/03/20240317-mfamindefjs-3hagaza">Commencement of RSAF Humanitarian Airdrop Operations for Gaza</a>, Ministry of Foreign Affairs, 17 Mar 2024
 
-(Transcript) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/11/20231106ministerspeech"> Speech by Minister for Foreign Affairs Dr Vivian Balakrishnan During the Parliamentary Motion on the Israel-Hamas Conflict, 6 November 2023</a>, Ministry of Foreign Affairs, 6 Nov 2023
 
-(Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/20231028---10th-ESS-UNGA-EOV"> Explanation of Vote by Ambassador Burhan Gafoor, Permanent Representative of Singapore to the United Nations, After the Adoption of the Resolution Entitled “Protection of Civilians and Upholding Legal and Humanitarian Obligations” at the Emergency Special Session of the United Nations General Assembly, 27 October</a>, Ministry of Foreign Affairs, 27 Oct 2023
 
-(Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/20231028---10thESSUNGAIsrael-Gaza">Statement by the Permanent Representative of Singapore, at the Emergency Special Session of the United Nations General Assembly, 27 October 2023, New York</a>, Ministry of Foreign Affairs, 27 Oct 2023
 
-(Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/20231016israelgaza">MFA Spokesperson’s Comments on the Situation in Israel and the Gaza Strip</a>, Ministry of Foreign Affairs, 16 Oct 2023
-
-(Press Release) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/MFA-Spokesperson-Comment_Situation-in-Israel_231007">MFA Spokesperson’s Comments on the Situation in Israel, 7 October 2023</a>, Ministry of Foreign Affairs, 7 Oct 2023
+For more statements by MFA on the conflict, please refer to: 
