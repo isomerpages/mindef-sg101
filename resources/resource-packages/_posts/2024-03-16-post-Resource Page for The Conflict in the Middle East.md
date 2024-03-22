@@ -30,7 +30,19 @@ Further updates will be made to this resource page as the situation continues to
 <a target="blank" href="https://www.channelnewsasia.com/podcasts/classroom-cce-lessons-difficult-topics-moe-schools-students-heart-matter-podcast-4194666">Heart of the Matter Podcast: How Can Teachers Help Kids Understand Controversial Topics?</a>, Podcast, Channel News Asia, 15 Mar 2024
 
 ****
+
+**Reports on Minister for Foreign Affairs Dr Vivian Balakrishnan's Working Trip to the Middle East**
+
+<a target="blank" href="https://www.channelnewsasia.com/singapore/vivian-balakrishnan-israel-working-visit-immediate-humanitarian-ceasefire-gaza-netanyahu-4208726">Vivian Balakrishnan Meets Netanyahu, Tells Israeli Leaders Military Actions in Gaza Have 'Gone Too Far'</a>, Channel News Asia, 20 Mar 2024
+
+<a target="blank" href="https://www.channelnewsasia.com/singapore/vivian-balakrishnan-palestinian-leaders-ramallah-visit-gaza-humanitarian-situation-4205166">Vivian Balakrishnan Meets Palestinian Leaders, Expresses Singapore's Concern About Dire Humanitarian Situation In Gaza</a>, Channel News Asia, 19 Mar 2024
+
+<a target="blank" href="https://www.channelnewsasia.com/singapore/gaza-humanitarian-aid-singapore-jordan-vivian-balakrishnan-israel-hamas-war-4200791">Vivian Balakrishnan Meets Jordon Counterpart amid Singapore's Humanitarian Aid Mission for Gaza</a>, Channel News Asia, 17 Mar 2024
+
+****
 **Singapore's Responses to the Conflict**
+
+<a target="blank" href="https://www.channelnewsasia.com/singapore/first-humanitarian-aid-airdrop-gaza-singapore-rsaf-mfa-israel-hamas-war-4210446">Singapore Completes First Humanitarian Aid Airdrop into Gaza</a>, Channel News Asia, 21 Mar 2024
 
 <a target="blank" href="https://www.channelnewsasia.com/singapore/singapore-gaza-humanitarian-assistance-rsaf-airdrop-jordan-4196956"> Singapore To Deliver Third Tranche of Humanitarian Aid for Gaza</a>, Channel News Asia, 15 Mar 2024
 
@@ -63,6 +75,8 @@ Further updates will be made to this resource page as the situation continues to
 ****
 
 **Key Event Updates Related to the Israel-Hamas Conflict**
+
+<a target="blank" href="https://www.channelnewsasia.com/world/gaza-ceasefire-israel-hamas-war-blinken-un-vote-4214061">Blinken Heads to Israel to Press for 'Immediate' Truce in Gaza Ahead of UN Vote</a>, Channel News Asia, 22 Mar 2024
 
 <a target="blank" href="https://www.channelnewsasia.com/world/blinken-says-us-working-bridge-remaining-gaps-hamas-israel-deal-4199091">Blinken Says US Working to 'Bridge Remaining Gaps' On Hamas-Israel Deal</a>, Channel News Asia, 16 Mar 2024
 
@@ -107,4 +121,4 @@ Further updates will be made to this resource page as the situation continues to
 
 
 
-For more statements by MFA on the conflict, please refer to: 
+*For more statements by MFA on the conflict, please refer to: https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos*
