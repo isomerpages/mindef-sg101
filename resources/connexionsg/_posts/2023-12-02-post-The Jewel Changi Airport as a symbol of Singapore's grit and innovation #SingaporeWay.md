@@ -11,3 +11,6 @@ variant: markdown
 ![](/images/connexionsg/2023/Jewel.jpg)
 
 
+
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) and [Instagram](https://www.instagram.com/connexionsg/) for more content.
