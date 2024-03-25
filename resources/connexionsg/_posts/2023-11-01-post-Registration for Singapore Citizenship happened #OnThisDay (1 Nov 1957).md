@@ -20,3 +20,5 @@ Many queued for more than an hour for their turn, some having waited for decades
 Citizenship matters, and was important as rights and privileges are attached to being a citizen, especially, the right to vote for their own government. Regardless of race or background, they all stepped out the door as Singaporeans, the FIRST people in history to be called Singapore citizens.
 
 #Singapore #SingaporeCitizen #Citizenship
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) and [Instagram](https://www.instagram.com/connexionsg/) for more content.
