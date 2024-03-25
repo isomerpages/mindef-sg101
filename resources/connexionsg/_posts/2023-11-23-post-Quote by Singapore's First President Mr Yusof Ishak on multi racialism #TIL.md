@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: markdown
 ---
+![](/images/connexionsg/2023/Yusof_Ishak.jpg)
+
