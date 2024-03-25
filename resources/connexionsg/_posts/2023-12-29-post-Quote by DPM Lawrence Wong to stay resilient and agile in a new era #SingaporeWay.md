@@ -8,3 +8,4 @@ description: ""
 image: ""
 variant: markdown
 ---
+![](/images/connexionsg/2023/quote_lawrence_wong.jpg)
