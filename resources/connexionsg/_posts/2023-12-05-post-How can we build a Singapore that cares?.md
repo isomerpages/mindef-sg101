@@ -23,3 +23,5 @@ Small acts of kindness can make a big difference so 'Just Give Lah!'.
 Here are some simple ways we can make a positive impact 💙
 
 #JustGiveLah #GivingWeekSG #SGCares
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) and [Instagram](https://www.instagram.com/connexionsg/) for more content.
