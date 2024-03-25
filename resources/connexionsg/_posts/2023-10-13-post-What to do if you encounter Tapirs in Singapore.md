@@ -45,5 +45,7 @@ along the Punggol Park Connector in Singapore.</p>
 what you should do if you ever encounter one! 😉</p>
 <p></p>
 <p></p>
+<p>Visit ConnexionSG <a href="https://www.facebook.com/ConnexionSG" rel="noopener noreferrer nofollow" target="_blank">Facebook </a>and <a href="https://www.instagram.com/connexionsg/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> for
+more content.</p>
 <p></p>
 <p></p>
