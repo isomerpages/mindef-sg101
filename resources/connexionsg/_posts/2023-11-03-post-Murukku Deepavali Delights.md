@@ -7,7 +7,6 @@ description: ""
 image: ""
 variant: markdown
 ---
-
 ![](/images/connexionsg/2023/murukku_IG.png)
 
 It's... #FoodieFriday!
@@ -15,3 +14,7 @@ It's... #FoodieFriday!
 With Deepavali just around the corner, let's take a look at Murukku, one of the Indian snacks that is well known and enjoyed by all Singaporeans alike!
 
 #Singapore #Deepavali #Murukku #FoodieFriday
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) and [Instagram](https://www.instagram.com/connexionsg/) for more content.
+
+
