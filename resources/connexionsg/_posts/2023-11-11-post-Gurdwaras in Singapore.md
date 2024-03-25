@@ -39,3 +39,5 @@ variant: markdown
 addition, they also function as a community centre where social, educational,
 and charitable activities are carried out.</p>
 <p>Swipe to learn more about them! 🛕</p>
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) and [Instagram](https://www.instagram.com/connexionsg/) for more content.
