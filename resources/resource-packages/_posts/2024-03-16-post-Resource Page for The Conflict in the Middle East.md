@@ -40,7 +40,9 @@ Further updates will be made to this resource page as the situation continues to
 <a target="blank" href="https://www.channelnewsasia.com/singapore/gaza-humanitarian-aid-singapore-jordan-vivian-balakrishnan-israel-hamas-war-4200791">Vivian Balakrishnan Meets Jordon Counterpart amid Singapore's Humanitarian Aid Mission for Gaza</a>, Channel News Asia, 17 Mar 2024
 
 ****
-**Singapore's Responses to the Conflict**
+**Key Reports From Singapore**
+
+<a target="blank" href="https://www.channelnewsasia.com/singapore/israel-embassy-singapore-palestine-facebook-post-shanmugam-4219541">Israeli Embassy Told To Take Down 'Completely Unacceptable' Facebook Post on Palestine: Shanmugam</a>, Channel News Asia, 25 Mar 2024
 
 <a target="blank" href="https://www.channelnewsasia.com/singapore/first-humanitarian-aid-airdrop-gaza-singapore-rsaf-mfa-israel-hamas-war-4210446">Singapore Completes First Humanitarian Aid Airdrop into Gaza</a>, Channel News Asia, 21 Mar 2024
 
@@ -74,7 +76,7 @@ Further updates will be made to this resource page as the situation continues to
 
 ****
 
-**Key Event Updates Related to the Israel-Hamas Conflict**
+**Key Event Updates**
 
 <a target="blank" href="https://www.channelnewsasia.com/world/gaza-ceasefire-israel-hamas-war-blinken-un-vote-4214061">Blinken Heads to Israel to Press for 'Immediate' Truce in Gaza Ahead of UN Vote</a>, Channel News Asia, 22 Mar 2024
 
