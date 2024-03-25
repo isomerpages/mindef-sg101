@@ -7,3 +7,4 @@ description: ""
 image: ""
 variant: markdown
 ---
+![](/images/connexionsg/2023/national_loyalty_week.jpg)
