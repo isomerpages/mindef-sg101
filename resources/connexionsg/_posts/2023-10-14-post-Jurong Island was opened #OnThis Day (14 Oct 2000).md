@@ -28,3 +28,5 @@ For a start, Jurong Island will be gradually transformed into a sustainable ener
 From its conceptualisation, building, completion, and future plans to ensure sustainable growth, Jurong Island stands as a symbol of Singapore’s far-sightedness, boldness, innovation, and can-do attitude – traits that will be important for Singapore as we continue to progress into the future.
 
 #TIL #onthisday #JurongIsland #JTC #innovation #progress #Singapore #SingaporeGreenPlan2030
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) and [Instagram](https://www.instagram.com/connexionsg/) for more content.
