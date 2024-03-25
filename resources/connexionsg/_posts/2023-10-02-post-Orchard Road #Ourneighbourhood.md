@@ -7,7 +7,6 @@ description: ""
 image: ""
 variant: markdown
 ---
-
 ![](/images/connexionsg/2023/Orchard_Rd.jpg)
 📷: Orchard Road (STB)
 
@@ -25,3 +24,5 @@ Going forward, Orchard Road will be enhanced as an urban green corridor with new
 🔗: To find out the next phase of Orchard Road’s evolution, read https://www.ura.gov.sg/Corporate/Error%20Message?aspxerrorpath=/Corporate/Planning/Master-Plan/Regional-Highlights/Central-Area/Orchard-Road
 
 [#Singapore](https://www.facebook.com/hashtag/singapore?__eep__=6&__cft__[0]=AZVTUeBrm8iksCkzQZZ7GiiUY0PNk3I_pQJ53AMaMYfF0E97l2Lfl2Ze_sRU0MfyqoKKR-UWzktC561FM5W656DqdTD63feMjKd09gd_DX-0ORExqxiFabfdWL3-x4wOdTeeHLf-8Pp7e6mqDg4AiKkK7rvJFPhOFRehJmmSqLruUH772WlIpaY-q2xp_Hhk9Os&__tn__=*NK-R) [#OrchardRoad](https://www.facebook.com/hashtag/orchardroad?__eep__=6&__cft__[0]=AZVTUeBrm8iksCkzQZZ7GiiUY0PNk3I_pQJ53AMaMYfF0E97l2Lfl2Ze_sRU0MfyqoKKR-UWzktC561FM5W656DqdTD63feMjKd09gd_DX-0ORExqxiFabfdWL3-x4wOdTeeHLf-8Pp7e6mqDg4AiKkK7rvJFPhOFRehJmmSqLruUH772WlIpaY-q2xp_Hhk9Os&__tn__=*NK-R) [#OrchardRoadAGreatStreet](https://www.facebook.com/hashtag/orchardroadagreatstreet?__eep__=6&__cft__[0]=AZVTUeBrm8iksCkzQZZ7GiiUY0PNk3I_pQJ53AMaMYfF0E97l2Lfl2Ze_sRU0MfyqoKKR-UWzktC561FM5W656DqdTD63feMjKd09gd_DX-0ORExqxiFabfdWL3-x4wOdTeeHLf-8Pp7e6mqDg4AiKkK7rvJFPhOFRehJmmSqLruUH772WlIpaY-q2xp_Hhk9Os&__tn__=*NK-R) [#Shopping](https://www.facebook.com/hashtag/shopping?__eep__=6&__cft__[0]=AZVTUeBrm8iksCkzQZZ7GiiUY0PNk3I_pQJ53AMaMYfF0E97l2Lfl2Ze_sRU0MfyqoKKR-UWzktC561FM5W656DqdTD63feMjKd09gd_DX-0ORExqxiFabfdWL3-x4wOdTeeHLf-8Pp7e6mqDg4AiKkK7rvJFPhOFRehJmmSqLruUH772WlIpaY-q2xp_Hhk9Os&__tn__=*NK-R) [#Retail](https://www.facebook.com/hashtag/retail?__eep__=6&__cft__[0]=AZVTUeBrm8iksCkzQZZ7GiiUY0PNk3I_pQJ53AMaMYfF0E97l2Lfl2Ze_sRU0MfyqoKKR-UWzktC561FM5W656DqdTD63feMjKd09gd_DX-0ORExqxiFabfdWL3-x4wOdTeeHLf-8Pp7e6mqDg4AiKkK7rvJFPhOFRehJmmSqLruUH772WlIpaY-q2xp_Hhk9Os&__tn__=*NK-R) [#OurNeighbourhood](https://www.facebook.com/hashtag/ourneighbourhood?__eep__=6&__cft__[0]=AZVTUeBrm8iksCkzQZZ7GiiUY0PNk3I_pQJ53AMaMYfF0E97l2Lfl2Ze_sRU0MfyqoKKR-UWzktC561FM5W656DqdTD63feMjKd09gd_DX-0ORExqxiFabfdWL3-x4wOdTeeHLf-8Pp7e6mqDg4AiKkK7rvJFPhOFRehJmmSqLruUH772WlIpaY-q2xp_Hhk9Os&__tn__=*NK-R)
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) and [Instagram](https://www.instagram.com/connexionsg/) for more content.
