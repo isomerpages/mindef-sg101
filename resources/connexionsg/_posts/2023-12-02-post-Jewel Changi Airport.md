@@ -43,7 +43,7 @@ years old!</p>
 <p>No doubt Jewel will remain the ‘crown jewel’ of our Changi Airport for
 years to come. And from its conceptualisation to construction, and then
 to what it currently is today, Jewel stands as a symbol of Singapore’s
-grit, innovation, and boldness to break new barriers and acheive new heights
+grit, innovation, and boldness to break new barriers and achieve new heights
 – indeed, this is the #singaporeway.</p>
 <p>#singaporeway #singapore #jewelchangiairport #changiairportsingapore</p>
 <p></p>
