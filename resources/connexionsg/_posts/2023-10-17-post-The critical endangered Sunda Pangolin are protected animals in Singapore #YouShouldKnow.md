@@ -64,4 +64,10 @@ animal research and welfare groups to assist in research and conservation
 efforts.</p>
 <p>#Singapore #Wildlife #Pangolin #SundaPangolin #PangolinConservation #MandaiWildlifeReserve
 #Animals #Extinct #Conservation #Research #CityInNature</p>
+<p>🔗: Learn more about the Pangolins here</p>
+<p><a href="https://singaporepangolinwg.wordpress.com/learn-more/" rel="noopener noreferrer nofollow" target="_blank">https://singaporepangolinwg.wordpress.com/learn-more/</a>
+</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
