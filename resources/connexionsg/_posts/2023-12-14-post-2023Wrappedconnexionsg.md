@@ -5,7 +5,7 @@ date: 2023-12-14
 layout: post
 description: ""
 image: /images/2023WrappedCXSG.png
-variant: tiptap
+variant: markdown
 ---
 <p></p>
 <div class="isomer-image-wrapper">

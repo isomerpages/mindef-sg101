@@ -5,7 +5,7 @@ date: 2024-01-20
 layout: post
 description: ""
 image: ""
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/connexionsg/2023/Story_of_Nian_IG_1.png">
@@ -47,4 +47,6 @@ the pursuit of good fortune for the coming year.</p>
 red coloured decorations 🧧during this festival. Many existing customs
 of the festival can be traced back to a popular folklore of the beast Nian
 (年), which is believed to be one of the reasons how the festival is celebrated
-today with loud noises and bright red colours!!</p>
+today with loud noises and bright red colours!!
+	
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) and [Instagram](https://www.instagram.com/connexionsg/) for more content.</p>

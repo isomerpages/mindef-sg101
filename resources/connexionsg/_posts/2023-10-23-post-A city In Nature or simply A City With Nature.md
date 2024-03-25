@@ -5,7 +5,7 @@ date: 2023-10-23
 layout: post
 description: ""
 image: ""
-variant: tiptap
+variant: markdown
 ---
 <p></p>
 <div class="isomer-image-wrapper">
@@ -46,3 +46,5 @@ wildlife and our future generations to come.</p>
 <p></p>
 <p></p>
 <p></p>
+
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) and [Instagram](https://www.instagram.com/connexionsg/) for more content.
