@@ -10,5 +10,5 @@ variant: markdown
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/connexionsg/2023/Super_trees.jpg">
-</div>
-<p>📷: SuperTrees at the Supertree Grove (Loz Blain)</p>
+</div><p>📷: SuperTrees at the Supertree Grove (Loz Blain)</p>
+
