@@ -68,6 +68,7 @@ efforts.</p>
 <p><a href="https://singaporepangolinwg.wordpress.com/learn-more/" rel="noopener noreferrer nofollow" target="_blank">https://singaporepangolinwg.wordpress.com/learn-more/</a>
 </p>
 <p></p>
-<p></p>
+<p>Visit ConnexionSG <a href="https://www.facebook.com/ConnexionSG" rel="noopener noreferrer nofollow" target="_blank">Facebook </a>and <a href="https://www.instagram.com/connexionsg/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> for
+more content.</p>
 <p></p>
 <p></p>
