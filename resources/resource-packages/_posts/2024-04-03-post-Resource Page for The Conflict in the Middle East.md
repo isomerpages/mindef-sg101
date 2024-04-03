@@ -1,7 +1,7 @@
 ---
 title: Resource Page for The Conflict in the Middle East
 permalink: /resources/resource-packages/conflictmiddleeast/
-date: 2024-03-16
+date: 2024-04-03
 layout: post
 description: Israel hamas palestine middle-east
 image: ""
@@ -41,6 +41,8 @@ Further updates will be made to this resource page as the situation continues to
 
 ****
 **Key Reports From Singapore**
+
+<a target="blank" href="https://www.channelnewsasia.com/singapore/saf-mindef-humanitarian-aid-airdrop-gaza-jordan-israel-hamas-4237206">SAF Team Returns From Gaza Airdrop Mission After Delivering Supplies Equivalent To Over 59,000 Meals</a>, Channel News Asia, 2 Apr 2024
 
 <a target="blank" href="https://www.channelnewsasia.com/singapore/israel-embassy-singapore-palestine-facebook-post-shanmugam-4219541">Israeli Embassy Told To Take Down 'Completely Unacceptable' Facebook Post on Palestine: Shanmugam</a>, Channel News Asia, 25 Mar 2024
 
