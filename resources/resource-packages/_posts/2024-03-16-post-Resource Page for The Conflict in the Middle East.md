@@ -42,6 +42,8 @@ Further updates will be made to this resource page as the situation continues to
 ****
 **Key Reports From Singapore**
 
+<a target="blank" href="https://www.channelnewsasia.com/singapore/saf-mindef-humanitarian-aid-airdrop-gaza-jordan-israel-hamas-4237206">SAF Team Returns From Gaza Airdrop Mission After Delivering Supplies Equivalent To Over 59,000 Meals</a>, Channel News Asia, 2 Apr 2024
+
 <a target="blank" href="https://www.channelnewsasia.com/singapore/israel-embassy-singapore-palestine-facebook-post-shanmugam-4219541">Israeli Embassy Told To Take Down 'Completely Unacceptable' Facebook Post on Palestine: Shanmugam</a>, Channel News Asia, 25 Mar 2024
 
 <a target="blank" href="https://www.channelnewsasia.com/singapore/first-humanitarian-aid-airdrop-gaza-singapore-rsaf-mfa-israel-hamas-war-4210446">Singapore Completes First Humanitarian Aid Airdrop into Gaza</a>, Channel News Asia, 21 Mar 2024
