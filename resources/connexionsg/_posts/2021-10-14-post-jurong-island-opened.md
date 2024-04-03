@@ -3,6 +3,7 @@ title: Jurong Island Opened
 date: 2021-10-14
 permalink: /resources/connexionsg/jurongislandopened/
 layout: post
+variant: markdown
 ---
 ####  #onthisday (14 Oct) in 2000, Jurong Island was officially opened.
 
@@ -10,7 +11,7 @@ layout: post
 
 In the 1980s, to maintain Singapore's global competitive edge, there was a pressing need for us to diversify beyond electronics manufacturing. One way was to build up our petroleum and petrochemical industries which had been around since 1891. There was a scarcity of industrial land on mainland Singapore -- so we joined seven small islands, such as Pulau Ayer Chawan, Pulau Ayer Merbau, and Pulau Merlimau, to form Jurong Island.
 
-On Jurong Island, companies enjoy cost savings through shared third-party utilities and services, and build synergy through product integration. Its land is also utilised efficiently, with the Jurong Lake Caverns creating 1.47 million cubic metres of storage space about 130m below the surface, freeing up 60 hectares of land on the ground.
+On Jurong Island, companies enjoy cost savings through shared third-party utilities and services, and build synergy through product integration. Its land is also utilised efficiently, with the Jurong Rock Caverns creating 1.47 million cubic metres of storage space about 130m below the surface, freeing up 60 hectares of land on the ground.
 
 Today, even with no oil or natural gas, Singapore is one of the world’s leading energy and chemicals hub, and home to one of the world's largest oil refining centres, with more than 100 leading petroleum, petrochemical, and speciality chemical companies.
 
