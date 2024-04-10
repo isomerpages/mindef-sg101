@@ -213,6 +213,10 @@ You may find more TD resources and Activities such as Total Defence Song, Total 
 ****
 
 #### **Useful Articles**
+**Commentary: Understanding the foundation of Singapore's national resilience will enable us to better weather storms ahead - by Dr Ong Weichong**
+
+How a nation responds in times of crisis and disruption is critical for the survival and success of vulnerable small states such as Singapore. Read more from the article [here](https://www.todayonline.com/commentary/commentary-foundation-singapores-national-resilience-weather-storms-2380656?fbclid=IwAR0gyUnnfxUzFlYavX87sj4CyuSV-5_n4-LATHuG-TEs9gDT1rd64CBj42w_aem_ATUGO7YdpNGQu6g4WmZd1SSe3pEsO-1dUqLNNBh0Wv-lLEvL4K6E1SMLnoMzn4_h6Tcr2MItLvDRae9NDRP_uIDT).
+
 **Sports and National Defence - a commentary written by Mr Nicholas Fang**
 
 George Orwell famously wrote that sports is "war minus the shooting". While the celebrated writer meant that sports at the highest levels was similar to war in that it was about winning, almost at all costs, it is worth exploring the value that sporting contests have in the context of national defence.
