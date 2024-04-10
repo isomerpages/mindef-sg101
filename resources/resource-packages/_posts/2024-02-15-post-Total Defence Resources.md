@@ -30,6 +30,15 @@ The aim of the exercise is to get individuals, communities and businesses thinki
 
 ![](/images/29feb24_infographic2.jpg)
 
+More than 800 education, community, commercial, and government organisations,
+participated in Exercise SG Ready. Participating organisations simulated approximately 250 disruptions of power, 300 disruptions of food or water supply, nearly 200 evacuation drills, and 200 cyber disruptions of which 10 or more were connectivity-related, and 20 or more were disinformation-related.
+
+Students experienced lessons without fans or lights to simulate power disruptions. To simulate food disruptions, some students got to try ready-to-eat meals developed by the Singapore Food Agency and SATS, while others experienced limitations to the range of food served in their canteens.
+
+The PUB, Singapore's National Water Agency conducted a water supply disruption at Yung Sheng Road where more than 200 households collected water from PUB's water wagon and water bag filling machine. About 12,000 members of the public visited the Civil Defence Shelter Open Houses at Dakota, Potong Pasir, and Tan Kah Kee MRT stations to learn how selected underground MRT stations can be converted into public shelters to protect civilians during an emergency.
+
+More than 160 businesses validated their contingency plans for either simulated disruptions of power, water, food supply, digital connectivity or a civil emergency. Some of them went on to conduct simulated phishing exercises referencing Cyber Security Agency's playbooks, which were developed in consultation with Microsoft and Google.
+
 *****
 
 #### **Exercise SG Ready Scenario Video**
