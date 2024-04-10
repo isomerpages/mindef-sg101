@@ -28,6 +28,8 @@ The inaugural Exercise SG Ready was held at various locations across the island 
 
 The aim of the exercise is to get individuals, communities and businesses thinking about the question, ***"Are you ready for disruptions?",*** and to put Total Defence into action by putting in place their own contingency plans for disruptions.
 
+![](/images/29feb24_infographic2.jpg)
+
 *****
 
 #### **Exercise SG Ready Scenario Video**
