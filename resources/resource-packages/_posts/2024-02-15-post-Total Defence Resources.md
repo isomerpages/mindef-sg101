@@ -66,7 +66,7 @@ The Civil Defence Shelter Programme is part of the government's plan to building
 
 ********
 #### **Total Defence 2024 Campaign Poster**
-![](/images/TD40_Poster__A3_Landscape__s.jpg)
+![](/images/TD40_Poster__A3_Landscape_1.jpg)
 
 ![](/images/TD40_Posters_3.jpg)
 
