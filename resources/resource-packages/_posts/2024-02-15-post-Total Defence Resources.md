@@ -28,6 +28,17 @@ The inaugural Exercise SG Ready was held at various locations across the island 
 
 The aim of the exercise is to get individuals, communities and businesses thinking about the question, ***"Are you ready for disruptions?",*** and to put Total Defence into action by putting in place their own contingency plans for disruptions.
 
+![](/images/29feb24_infographic2.jpg)
+
+More than 800 education, community, commercial, and government organisations,
+participated in Exercise SG Ready. Participating organisations simulated approximately 250 disruptions of power, 300 disruptions of food or water supply, nearly 200 evacuation drills, and 200 cyber disruptions of which 10 or more were connectivity-related, and 20 or more were disinformation-related.
+
+Students experienced lessons without fans or lights to simulate power disruptions. To simulate food disruptions, some students got to try ready-to-eat meals developed by the Singapore Food Agency and SATS, while others experienced limitations to the range of food served in their canteens.
+
+The PUB, Singapore's National Water Agency conducted a water supply disruption at Yung Sheng Road where more than 200 households collected water from PUB's water wagon and water bag filling machine. About 12,000 members of the public visited the Civil Defence Shelter Open Houses at Dakota, Potong Pasir, and Tan Kah Kee MRT stations to learn how selected underground MRT stations can be converted into public shelters to protect civilians during an emergency.
+
+More than 160 businesses validated their contingency plans for either simulated disruptions of power, water, food supply, digital connectivity or a civil emergency. Some of them went on to conduct simulated phishing exercises referencing Cyber Security Agency's playbooks, which were developed in consultation with Microsoft and Google.
+
 *****
 
 #### **Exercise SG Ready Scenario Video**
@@ -66,7 +77,7 @@ The Civil Defence Shelter Programme is part of the government's plan to building
 
 ********
 #### **Total Defence 2024 Campaign Poster**
-![](/images/TD40_Poster__A3_Landscape__s.jpg)
+![](/images/TD40_Poster__A3_Landscape_1.jpg)
 
 ![](/images/TD40_Posters_3.jpg)
 
@@ -213,6 +224,10 @@ You may find more TD resources and Activities such as Total Defence Song, Total 
 ****
 
 #### **Useful Articles**
+**Commentary: Understanding the foundation of Singapore's national resilience will enable us to better weather storms ahead - by Dr Ong Weichong**
+
+How a nation responds in times of crisis and disruption is critical for the survival and success of vulnerable small states such as Singapore. Read more from the article [here](https://www.todayonline.com/commentary/commentary-foundation-singapores-national-resilience-weather-storms-2380656?fbclid=IwAR0gyUnnfxUzFlYavX87sj4CyuSV-5_n4-LATHuG-TEs9gDT1rd64CBj42w_aem_ATUGO7YdpNGQu6g4WmZd1SSe3pEsO-1dUqLNNBh0Wv-lLEvL4K6E1SMLnoMzn4_h6Tcr2MItLvDRae9NDRP_uIDT).
+
 **Sports and National Defence - a commentary written by Mr Nicholas Fang**
 
 George Orwell famously wrote that sports is "war minus the shooting". While the celebrated writer meant that sports at the highest levels was similar to war in that it was about winning, almost at all costs, it is worth exploring the value that sporting contests have in the context of national defence.
