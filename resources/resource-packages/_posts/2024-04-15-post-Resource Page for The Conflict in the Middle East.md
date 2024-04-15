@@ -17,7 +17,7 @@ Further updates will be made to this resource page as the situation continues to
 
 ****
 **Download:**
-<br> [NE Insights on the Conflict in the Middle East](/files/NE_Insights_on_the_Middle_East_Conflict_Updated.pdf)
+<br> [NE Insights on the Conflict in the Middle East](/files/Updated_NE_Insights_on_the_Middle_East_Conflict_compressed.pdf)
 
 <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Announcements-and-Highlights/2023/11/20231106-Parl-Sitting">MFA's Infographics on the Conflict</a>
 
@@ -80,7 +80,7 @@ Further updates will be made to this resource page as the situation continues to
 
 **Key Event Updates**
 
-<a target="blank" href="https://www.channelnewsasia.com/world/iran-retaliation-israel-hamas-war-drones-missiles-4263776?cid=internal_app-web-view_androidphone_15042024_cna">Iran Launches Retaliatory Attack on Israel With Hundreds of Drones, Missiles</a>, Channel News Asia, 14 Apr 2024
+<a target="blank" href="https://www.channelnewsasia.com/world/iran-retaliation-israel-hamas-war-drones-missiles-4263776?cid=internal_app-web-view_androidphone_15042024_cna">Iran Launches Retaliatory Attack on Israel With Hundreds of Drones, Missiles</a>, Channel News Asia, 14 Apr 202[](/files/Updated_NE_Insights_on_the_Middle_East_Conflict_compressed.pdf)4
 
 <a target="blank" href="https://www.channelnewsasia.com/world/gaza-ceasefire-israel-hamas-war-blinken-un-vote-4214061">Blinken Heads to Israel to Press for 'Immediate' Truce in Gaza Ahead of UN Vote</a>, Channel News Asia, 22 Mar 2024
 
