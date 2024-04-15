@@ -80,6 +80,8 @@ Further updates will be made to this resource page as the situation continues to
 
 **Key Event Updates**
 
+<a target="blank" href="https://www.channelnewsasia.com/world/iran-retaliation-israel-hamas-war-drones-missiles-4263776?cid=internal_app-web-view_androidphone_15042024_cna">Iran Launches Retaliatory Attack on Israel With Hundreds of Drones, Missiles</a>, Channel News Asia, 14 Apr 2024
+
 <a target="blank" href="https://www.channelnewsasia.com/world/gaza-ceasefire-israel-hamas-war-blinken-un-vote-4214061">Blinken Heads to Israel to Press for 'Immediate' Truce in Gaza Ahead of UN Vote</a>, Channel News Asia, 22 Mar 2024
 
 <a target="blank" href="https://www.channelnewsasia.com/world/blinken-says-us-working-bridge-remaining-gaps-hamas-israel-deal-4199091">Blinken Says US Working to 'Bridge Remaining Gaps' On Hamas-Israel Deal</a>, Channel News Asia, 16 Mar 2024
