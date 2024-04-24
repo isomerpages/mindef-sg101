@@ -1,6 +1,7 @@
 ---
 title: Building a Multicultural Singapore
 permalink: /social-national-identity/multicultural/
+variant: markdown
 ---
 #### Building a Multicultural Singapore
 
@@ -52,7 +53,7 @@ A Presidential Council for Minority Rights was established to safeguard the righ
 
 And while the freedom to practice religion is protected, the government introduced the Maintenance of Religious Harmony Act (MHRA) in 1990 to encourage tolerance and moderation among different religious groups, and to guard against rising religiosity. The Act was updated in 2019 to reflect changes in the way information is spread among the population and to protect Singapore against foreign influence.
 
-<iframe width="660" height="415" src="https://www.youtube.com/embed/5E3upH9sFIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="660" height="415" src="https://www.youtube.com/embed/5E3upH9sFIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Besides safeguards against discrimination, measures were also taken to help people of different ethnicities for bonds. Our leaders chose a common language to unite the different ethnic groups. This was necessary in Singapore as there were multiple languages and dialects. In the past, the Chinese mainly spoke dialects such as Teochew, Hokkien and Cantonese, while the majority of Malays spoke Malay and the bulk of Indians spoke Tamil. Before independence, the education system also comprised private Chinese-, Malay- and Tamil-medium schools, which were more popular than government-run English schools.
 
@@ -101,13 +102,13 @@ This racial and religious harmony is not a natural state for Singapore, nor was 
 
 Efforts to forge mutual understanding and awareness about different beliefs and practices were already underway long before Singapore gained independence. 
 
-A key milestone in Singapore’s history of multi-religious engagement was the formation of the Inter-Religious Organisation (IRO) after the end of World War II . In 1949, the Malayan Sultan, His Eminence Maulana Mohamed Abdul Aleem Siddiqui, proposed the formation of a body to represent all religions.
+A key milestone in Singapore’s history of multi-religious engagement was the formation of the Inter-Religious Organisation (IRO) after the end of World War II. Founded in 1949, the IRO served to promote friendship and cooperation among members of different religions. It originally represented six religions: Hinduism, Judaism, Buddhism, Christianity, Islam, and Sikhism. Over the years, it expanded to include Zoroastrianism, Taoism, the Bahá'í Faith and Jainism.
 
 The IRO played a pivotal role to help calm the population during the 1964 racial riots. Members of the IRO visited those injured during the riots. At the same time, its leaders rallied Singaporeans around the common goal of working for “the national good” by issuing regular speeches calling for understanding  on broadcast on radio, newspapers and television. 
 
 When Singapore gained independence, former PM Lee Kuan Yew pledged to build “a multiracial nation where every community…can integrate fully, yet have maximum space to maintain their identities and practise their faiths, customs and way of life.” His vision was reflected in the constitution of Singapore, which guarantees the right of religious freedom for all people, as long as the religious activities do not violate laws on public order, health, or morality. 
 
-Over the years, Singapore has continued to promote religious harmony and unity through interfaith community initiatives, combined with secular policies, careful planning and governance. 
+Over the years, Singapore has continued to promote religious harmony and unity through interfaith community initiatives, combined with secular policies, careful planning and governance. Today, the IRO is involved in many local activities and events, and plays an important role in educating the Singapore public about different religions. Since then whenever prayer is suitable, it was conducted with IRO’s interfaith unity.
 
 Dubbed a “secular state with a soul” today by Singaporean diplomat Zainul Abidin Rasheed, Singapore has reflected Mr Lee’s vision by building physical places of worship and a strong social acceptance of our multi-religious culture and heritage. 
 
@@ -140,7 +141,7 @@ Strong bonds across faiths are key to religious harmony. While our faiths may be
 
 Meanwhile, many interfaith organisations have been set up over the years to promote religious harmony from the ground up. The National Steering Committee (NSC) on Racial and Religious Harmony, which comprises top-level leaders from the major faith and ethnic groups, has created safe spaces for dialogue on issues such as religious harmony and common space in Singapore.  
 
-Racial & Religious Harmony Circles serve as local networks fostering trust among different community segments such as grassroots and religious leaders and worshippers. Members are also trained in crisis response, so they are prepared to preserve solidarity and maintain calmness among their communities in a crisis such as a terrorist attack.
+Racial &amp; Religious Harmony Circles serve as local networks fostering trust among different community segments such as grassroots and religious leaders and worshippers. Members are also trained in crisis response, so they are prepared to preserve solidarity and maintain calmness among their communities in a crisis such as a terrorist attack.
 
 Another example would be hash.peace, a youth-led advocacy group which serves to develop programmes for sustainable social harmony. For example, hash.peace supports the efforts of Religious Rehabilitation Group (RRG) in Singapore by speaking out against groups and individuals with radicalised views. 
 
