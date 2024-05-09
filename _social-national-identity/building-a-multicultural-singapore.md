@@ -192,11 +192,11 @@ nor was it easily cultivated.</p>
 and practices were already underway long before Singapore gained independence.</p>
 <p>A key milestone in Singapore’s history of multi-religious engagement was
 the formation of the Inter-Religious Organisation (IRO) after the end of
-World War II. Founded in 1949, the IRO served to promote friendship and
+World War II. Founded in 1949, the IRO serves to promote friendship and
 cooperation among members of different religions. It originally represented
 six religions: Hinduism, Judaism, Buddhism, Christianity, Islam, and Sikhism.
-Over the years, it expanded to include Zoroastrianism, Taoism, the Bahá'í
-Faith and Jainism.</p>
+Over the years, it has expanded to include Zoroastrianism, Taoism, the
+Bahá'í Faith and Jainism.</p>
 <p>The IRO played a pivotal role to help calm the population during the 1964
 racial riots. Members of the IRO visited those injured during the riots.
 At the same time, its leaders rallied Singaporeans around the common goal
