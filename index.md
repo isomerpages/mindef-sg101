@@ -27,7 +27,7 @@ sections:
           - title: Foreign Policy
             url: /foreign-policy/ourfundamentals/
           - title: Resources
-            url: ""
+            url: https://www.sg101.gov.sg/resources/
       subtitle: SG101 tells the stories of Singapore's journey as a nation, and helps
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
@@ -71,14 +71,24 @@ sections:
           linktext: Learn more
           url: https://www.defencecollectivesg.com/total-defence-40/
         - title: TD40 Roving Exhibitions
-          description: "Roving abridged exhibitions will make public appearances
-            islandwide in 2024. "
+          description: Roving abridged exhibitions will make public appearances islandwide
+            in 2024.
           linktext: Click here for the schedule
           url: https://go.gov.sg/sg101td
         - title: Facilitation and Self-help Guides for Exhibitions
           description: Visitor guides are available for download.
           linktext: Click here to download the guides
           url: https://go.gov.sg/sg101td
+  - infopic:
+      title: Inaugural Total Defence (TD) Convention
+      subtitle: News in Focus/ Resources
+      description: In this special edition, we look at highlights from the inaugural
+        TD Convention, themed "Building Societal Resilience and Readiness in
+        Crises and Disruptions".
+      button: Read More
+      url: " https://www.sg101.gov.sg/total-defence-convention/"
+      image: /images/NiF_Cover.png
+      alt: Image alt text
   - infopic:
       title: Resource Page for the Red Sea Attacks
       subtitle: Resources
@@ -108,16 +118,6 @@ sections:
       button: Read more
       url: https://www.sg101.gov.sg/resources/resource-packages/conflictmiddleeast/
       image: /images/i-h pic.png
-      alt: Image alt text
-  - infopic:
-      title: News in Focus 09 2023
-      subtitle: News in Focus/ Resources
-      description: "In this latest issue of NiF, we cover: Key Highlights from the
-        Forward SG Report; and Three Security Issues that continue to Preoccupy
-        Singapore."
-      button: Read More
-      url: https://www.sg101.gov.sg/resources/news-in-focus/09-2023/
-      image: /images/nif 9_23 cover.png
       alt: Image alt text
   - infopic:
       title: Singapore's National Reserves
