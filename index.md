@@ -86,7 +86,7 @@ sections:
         TD Convention, themed "Building Societal Resilience and Readiness in
         Crises and Disruptions".
       button: Read More
-      url: " https://www.sg101.gov.sg/total-defence-convention/"
+      url: https://www.sg101.gov.sg/total-defence-convention/
       image: /images/NiF_Cover.png
       alt: Image alt text
   - infopic:
@@ -183,5 +183,15 @@ sections:
       button: Read More
       url: /economy/growing-our-economy/2010/
       image: /images/empty airport.png
+      alt: Image alt text
+  - infopic:
+      title: SAF Day 2024 Engagement Package
+      subtitle: Resources
+      id: infopic
+      description: On 1 July, we we commemorate SAF Day and reaffirm our loyalty and
+        commitment to the Singapore Armed Forces (SAF) and Singapore.
+      button: read more
+      url: https://www.sg101.gov.sg/resources/resource-packages/safday2024/
+      image: /images/SAF_Day_2024_Package_Cover.jpg
       alt: Image alt text
 ---
