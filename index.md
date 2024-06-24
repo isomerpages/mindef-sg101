@@ -80,13 +80,23 @@ sections:
           linktext: Click here to download the guides
           url: https://go.gov.sg/sg101td
   - infopic:
+      title: SAF Day 2024 Engagement Package
+      subtitle: Resources
+      id: infopic
+      description: On 1 July, we we commemorate SAF Day and reaffirm our loyalty and
+        commitment to the Singapore Armed Forces (SAF) and Singapore.
+      button: read more
+      url: https://www.sg101.gov.sg/resources/resource-packages/safday2024/
+      image: /images/SAF_Day_2024_Package_Cover.jpg
+      alt: Image alt text
+  - infopic:
       title: Inaugural Total Defence (TD) Convention
       subtitle: News in Focus/ Resources
       description: In this special edition, we look at highlights from the inaugural
         TD Convention, themed "Building Societal Resilience and Readiness in
         Crises and Disruptions".
       button: Read More
-      url: " https://www.sg101.gov.sg/total-defence-convention/"
+      url: https://www.sg101.gov.sg/total-defence-convention/
       image: /images/NiF_Cover.png
       alt: Image alt text
   - infopic:
@@ -130,33 +140,6 @@ sections:
       image: /images/sg101 homepage pic.jpeg
       alt: Image alt text
   - infopic:
-      title: Singapore's Food Challenge
-      subtitle: Case Study/ Economy
-      description: Our reliance on food imports leaves us exposed to external forces.
-        How do we build and strengthen our food resilience?
-      button: Read More
-      url: /economy/case-studies/sg-food-challenge/
-      image: /images/farming.jpeg
-      alt: Image alt text
-  - infopic:
-      title: Onward as One - National Day 2023 NE Engagement Package
-      subtitle: Resources
-      description: Use the National Day 2023 NE Package to commemorate National Day
-        and discuss how we can continue to play a part in Singapore's future.
-      button: Read more
-      url: /resources/resource-packages/nationalday2023package/
-      image: /images/national day 2023 ne engagement package cover.png
-      alt: Image alt text
-  - infopic:
-      title: Strengthening Racial Harmony - NE Package 2023
-      subtitle: Resources
-      description: Use the Racial Harmony 2023 NE Package as you prepare to discuss
-        the importance of racial harmony in Singapore.
-      button: Read more
-      url: /resources/resource-packages/racialharmony2023/
-      image: /images/rhd 2023.png
-      alt: Image alt text
-  - infopic:
       title: Creating a Shared Identity as Singaporeans
       subtitle: Social
       description: How is our national identity evolving with Singapore’s changing
@@ -174,14 +157,5 @@ sections:
       button: Read More
       url: /social-national-identity/caringsociety/
       image: /images/multiabled.png
-      alt: Image alt text
-  - infopic:
-      title: "2010 to the Present: New Challenges"
-      subtitle: Economy
-      description: What are the structural challenges and short-term obstacles that
-        Singapore faces?
-      button: Read More
-      url: /economy/growing-our-economy/2010/
-      image: /images/empty airport.png
       alt: Image alt text
 ---
