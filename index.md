@@ -31,6 +31,16 @@ sections:
       subtitle: SG101 tells the stories of Singapore's journey as a nation, and helps
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
+  - infopic:
+      title: SAF Day 2024 Engagement Package
+      subtitle: Resources
+      id: infopic
+      description: On 1 July, we we commemorate SAF Day and reaffirm our loyalty and
+        commitment to the Singapore Armed Forces (SAF) and Singapore.
+      button: read more
+      url: https://www.sg101.gov.sg/resources/resource-packages/safday2024/
+      image: /images/SAF_Day_2024_Package_Cover.jpg
+      alt: Image alt text
   - textcards:
       title: 40 Years of Total Defence
       subtitle: Resources
@@ -79,16 +89,6 @@ sections:
           description: Visitor guides are available for download.
           linktext: Click here to download the guides
           url: https://go.gov.sg/sg101td
-  - infopic:
-      title: SAF Day 2024 Engagement Package
-      subtitle: Resources
-      id: infopic
-      description: On 1 July, we we commemorate SAF Day and reaffirm our loyalty and
-        commitment to the Singapore Armed Forces (SAF) and Singapore.
-      button: read more
-      url: https://www.sg101.gov.sg/resources/resource-packages/safday2024/
-      image: /images/SAF_Day_2024_Package_Cover.jpg
-      alt: Image alt text
   - infopic:
       title: Inaugural Total Defence (TD) Convention
       subtitle: News in Focus/ Resources
