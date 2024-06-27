@@ -76,10 +76,6 @@ sections:
         Exhibition commemorates 40 years of TD in Singapore and showcases how TD
         is integral to addressing threats and challenges.
       cards:
-        - title: TD40 Exhibition at Singapore Discovery Centre
-          description: The full exhibition is held at SDC till Mar 17 2024.
-          linktext: Learn more
-          url: https://www.defencecollectivesg.com/total-defence-40/
         - title: TD40 Roving Exhibitions
           description: Roving abridged exhibitions will make public appearances islandwide
             in 2024.
