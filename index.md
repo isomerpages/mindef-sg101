@@ -32,6 +32,16 @@ sections:
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
   - infopic:
+      title: Racial Harmony 2024
+      subtitle: Resources
+      id: infopic
+      description: Every year on 21 Jul, we commemorate Racial Harmony Day to remind
+        ourselves that everyone has a role to play to build a harmonious
+        society.
+      button: Button Text
+      image: /images/SG101_RHD_Cover_Pic.png
+      alt: Image alt text
+  - infopic:
       title: SAF Day 2024 Engagement Package
       subtitle: Resources
       id: infopic
