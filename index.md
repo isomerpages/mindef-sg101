@@ -38,9 +38,10 @@ sections:
       description: Every year on 21 Jul, we commemorate Racial Harmony Day to remind
         ourselves that everyone has a role to play to build a harmonious
         society.
-      button: Button Text
+      button: READ MORE
       image: /images/SG101_RHD_Cover_Pic.png
       alt: Image alt text
+      url: https://www.sg101.gov.sg/racialharmony2024/
   - infopic:
       title: SAF Day 2024 Engagement Package
       subtitle: Resources
