@@ -181,9 +181,9 @@ The schedule will be updated monthly. Stay tuned!</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TD40 Roving Exhibition (Jun-Jul)" src="/images/TD40_Roving_Exhibition_Schedule__Jun___Jul____v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="TD40 Exhibition Schedule for Jul Aug" src="/images/TD40_Roving_Exhibition_Schedule__Jul_Aug_.png">
 </div>
-<p>Download the TD40 Exhibition Roving Schedule <a href="/files/TD40_Roving_Exhibition_Schedule__Jun_Jul_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>Download the TD40 Exhibition Roving Schedule <a href="/files/TD40_Roving_Exhibition_Schedule__Jul_Aug_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <p><strong>Facilitation Guide for Educators</strong>
 </p>
