@@ -204,11 +204,13 @@ The schedule will be updated monthly. Stay tuned!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Total Defence Sandbox" src="/images/total%20defence%20sandbox.jpg">
 </div>
-<p>The Total Defence Sandbox seeks ground-up innovation from Singaporeans
-especially youths to start initiatives that put Total Defence into action.
-The Total Defence Sandbox invites everyone to share ideas on Total Defence
-and aims to nurture these ideas and eventually match ideas with partners
-who could support the implementation or amplification of their efforts.</p>
+<p>The Total Defence Sandbox initiative encourages the public to submit ideas
+on strengthening Total Defence and have their ideas brought to life through
+implementation in the community. By seeking ground-up ideas and proposals
+that put Total Defence into action, the Total Defence Sandbox encapsulates
+how everyone has a part to play in Total Defence to keep Singapore strong,
+while highlighting the continued relevance of Total Defence in dealing
+with crises and disruptions.</p>
 <p>More information regarding the Total Defence Sandbox can be found <a href="https://go.gov.sg/tdsandboxdetails" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>Submit your ideas <a href="https://go.gov.sg/tdsandbox" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 <hr>
