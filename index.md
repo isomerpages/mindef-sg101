@@ -32,6 +32,16 @@ sections:
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
   - infopic:
+      title: National Day 2024
+      subtitle: RESOURCES
+      id: infopic
+      description: Every year on 9 August, we commemorate National Day to renew our
+        commitment to Singapore and celebrate our progress as a nation.
+      button: READ MORE
+      url: https://www.sg101.gov.sg/national-day-2024/
+      image: /images/Slide1.jpg
+      alt: Image alt text
+  - infopic:
       title: Racial Harmony 2024
       subtitle: Resources
       id: infopic
