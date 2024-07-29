@@ -15,7 +15,7 @@ harmony in Singapore, and how we can all play a part to strengthen racial
 and religious harmony in our own circles.</p>
 <p>Access the Active Harmony in Singapore - National Education Engagement
 Package 2024 here:</p>
-<p><a href="/files/packages/Active_Harmony_in_Singapore___National_Education_Engagement_Package_2024__compressed_.pdf" rel="noopener noreferrer nofollow" target="_blank">Active Harmony in Singapore – National Education Engagement Package 2024</a>
+<p><a href="/files/packages/RHD_Package_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Active Harmony in Singapore – National Education Engagement Package 2024</a>
 <br>
 <br>
 </p>
