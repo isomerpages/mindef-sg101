@@ -51,7 +51,7 @@ sections:
       button: READ MORE
       image: /images/SG101_RHD_Cover_Pic.png
       alt: Image alt text
-      url: https://www.sg101.gov.sg/racialharmony2024/
+      url: https://www.sg101.gov.sg/resources/resource-packages/racialharmony2024/
   - infopic:
       title: SAF Day 2024 Engagement Package
       subtitle: Resources
@@ -127,14 +127,14 @@ sections:
       image: /images/Ne_Insights_on_Red_Sea_Tension.jpg
       alt: Image alt text
   - infopic:
-      title: NE Insights on the Conflict in the Middle East
-      subtitle: NE Insights / Resources
+      title: NE in a minute - Riots in the UK
+      subtitle: Resources
       id: infopic
-      description: "In this issue of NE Insights, we cover: Singapore’s position on
-        the Israel-Hamas conflict; and key reflections for Singapore."
+      description: The UK is grappling with its worst riots in over a decade.
+        Understand what's happening in the UK, and why it matters to Singapore.
       button: Read More
-      url: https://www.sg101.gov.sg/resources/resource-packages/conflictmiddleeast/
-      image: /images/NE_Insights_on_the.png
+      url: https://www.sg101.gov.sg/riots-in-the-uk/
+      image: /images/UK_Riots_1.png
       alt: Image alt text
   - infopic:
       title: Resources on the Conflict in the Middle East
