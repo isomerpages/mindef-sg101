@@ -7,8 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>NE in a minute for Riots in the UK in 2024</strong>
-</p>
 <p>The United Kingdom (UK) is grappling with its worst riots in over a decade,
 caused by false rumours and information.</p>
 <p>Below are some resources to help you better understand what's happening
