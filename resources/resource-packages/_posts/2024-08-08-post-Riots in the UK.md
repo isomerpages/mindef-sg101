@@ -104,8 +104,8 @@ Channel News Asia, 4 Aug 2024</p>
 <p><a href="https://www.channelnewsasia.com/world/uk-prime-minister-keir-starmer-vows-swift-criminal-sanctions-rioters-worst-riot-2011-4527686" rel="noopener noreferrer nofollow" target="blank">UK's Keir Starmer vows 'swift criminal sanctions' for rioters</a>,
 Channel News Asia, 5 Aug 2024</p>
 <p><a href="https://www.channelnewsasia.com/world/cna-explains-uk-riots-protests-misinformation-immigrant-far-right-social-media-violence-unrest-4529656" rel="noopener noreferrer nofollow" target="blank">CNA Explains: Why are people rioting across the UK?</a>,
-Channel News Asia, 4 Aug 2024</p>
+Channel News Asia, 6 Aug 2024</p>
 <p><a href="https://www.channelnewsasia.com/singapore/uk-riots-singaporeans-far-right-protests-4529811?cid=telegram_cna_social_28112017_cna" rel="noopener noreferrer nofollow" target="blank">Singaporeans living in UK on 'high alert' amid anti-immigration riots, xenophobic sentiments</a>,
-Channel News Asia, 4 Aug 2024</p>
+Channel News Asia, 6 Aug 2024</p>
 <p></p>
 <p></p>
