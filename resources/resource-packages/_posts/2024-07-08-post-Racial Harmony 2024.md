@@ -1,6 +1,6 @@
 ---
 title: Racial Harmony 2024
-permalink: /racialharmony2024/
+permalink: /resources/resource-packages/racialharmony2024/
 date: 2024-07-08
 layout: post
 description: ""
