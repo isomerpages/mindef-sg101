@@ -133,7 +133,7 @@ sections:
       description: The UK is grappling with its worst riots in over a decade.
         Understand what's happening in the UK, and why it matters to Singapore.
       button: Read More
-      url: https://www.sg101.gov.sg/riots-in-the-uk/
+      url: /resources/resource-packages/riots-in-the-uk/
       image: /images/UK_Riots_1.png
       alt: Image alt text
   - infopic:
