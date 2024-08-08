@@ -32,6 +32,16 @@ sections:
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
   - infopic:
+      title: NE in a minute - Riots in the UK
+      subtitle: Resources
+      id: infopic
+      description: The UK is grappling with its worst riots in over a decade.
+        Understand what's happening in the UK, and why it matters to Singapore.
+      button: Read More
+      url: /resources/resource-packages/riots-in-the-uk/
+      image: /images/UK_Riots_1.png
+      alt: Image alt text
+  - infopic:
       title: National Day 2024
       subtitle: RESOURCES
       id: infopic
@@ -125,16 +135,6 @@ sections:
       button: READ MORE
       url: https://www.sg101.gov.sg/resources/resource-packages/redseaattacks/
       image: /images/Ne_Insights_on_Red_Sea_Tension.jpg
-      alt: Image alt text
-  - infopic:
-      title: NE in a minute - Riots in the UK
-      subtitle: Resources
-      id: infopic
-      description: The UK is grappling with its worst riots in over a decade.
-        Understand what's happening in the UK, and why it matters to Singapore.
-      button: Read More
-      url: /resources/resource-packages/riots-in-the-uk/
-      image: /images/UK_Riots_1.png
       alt: Image alt text
   - infopic:
       title: Resources on the Conflict in the Middle East
