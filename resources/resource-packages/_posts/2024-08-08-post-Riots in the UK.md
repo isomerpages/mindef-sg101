@@ -87,25 +87,31 @@ develop.</p>
 <p></p>
 <hr>
 <h4><strong>Resources</strong></h4>
-<p><a href="https://www.channelnewsasia.com/world/uk-police-arrest-knife-attack-suspect-killed-wounded-children-uk-southport-4511706?cid=internal_mcdrecs_08082024_cna#mdcrecs_s" rel="noopener noreferrer nofollow" target="blank">Two children killed in UK knife attack at dance class</a>,
-Channel News Asia, 30 Jul 2024</p>
-<p><a href="https://www.channelnewsasia.com/world/third-child-dies-following-mass-stabbing-uk-4513886" rel="noopener noreferrer nofollow" target="blank">Third child dies following mass stabbing in UK</a>,
-Channel News Asia, 30 Jul 2024</p>
-<p><a href="https://www.channelnewsasia.com/world/southport-stabbing-violent-protest-clash-police-injured-children-united-kingdom-4516601" rel="noopener noreferrer nofollow" target="blank">UK leader accuses far right of hijacking a town's grief after killing of 3 children sparks violence</a>,
-Channel News Asia, 31 Jul 2024</p>
-<p><a href="https://www.channelnewsasia.com/world/southport-police-charge-17-year-old-stabbing-murder-taylor-swift-dance-class-4518721?cid=internal_mcdrecs_08082024_cna#mdcrecs_s" rel="noopener noreferrer nofollow" target="blank">17-year-old charged with murder of 3 girls in UK knife attack</a>,
-Channel News Asia, 1 Aug 2024</p>
-<p><a href="https://www.channelnewsasia.com/world/starmer-announces-new-measures-after-unrest-teen-court-over-uk-stabbings-4519586" rel="noopener noreferrer nofollow" target="blank">Starmer announces new measures after unrest as teen in court over UK stabbings</a>,
-Channel News Asia, 31 Jul 2024</p>
+<p><s><a href="https://www.channelnewsasia.com/world/uk-police-arrest-knife-attack-suspect-killed-wounded-children-uk-southport-4511706?cid=internal_mcdrecs_08082024_cna#mdcrecs_s" rel="noopener noreferrer nofollow" target="blank">Two children killed in UK knife attack at dance class</a>, Channel News Asia, 30 Jul 2024</s>
+</p>
+<p><s><a href="https://www.channelnewsasia.com/world/third-child-dies-following-mass-stabbing-uk-4513886" rel="noopener noreferrer nofollow" target="blank">Third child dies following mass stabbing in UK</a>, Channel News Asia, 30 Jul 2024</s>
+</p>
+<p><s><a href="https://www.channelnewsasia.com/world/southport-stabbing-violent-protest-clash-police-injured-children-united-kingdom-4516601" rel="noopener noreferrer nofollow" target="blank">UK leader accuses far right of hijacking a town's grief after killing of 3 children sparks violence</a>, Channel News Asia, 31 Jul 2024</s>
+</p>
+<p><s><a href="https://www.channelnewsasia.com/world/southport-police-charge-17-year-old-stabbing-murder-taylor-swift-dance-class-4518721?cid=internal_mcdrecs_08082024_cna#mdcrecs_s" rel="noopener noreferrer nofollow" target="blank">17-year-old charged with murder of 3 girls in UK knife attack</a>, Channel News Asia, 1 Aug 2024</s>
+</p>
+<p><s><a href="https://www.channelnewsasia.com/world/starmer-announces-new-measures-after-unrest-teen-court-over-uk-stabbings-4519586" rel="noopener noreferrer nofollow" target="blank">Starmer announces new measures after unrest as teen in court over UK stabbings</a>, Channel News Asia, 31 Jul 2024</s>
+</p>
+<p><s><a href="https://www.channelnewsasia.com/world/uk-far-right-rallies-riots-protests-worst-13-years-starmer-4525716" rel="noopener noreferrer nofollow" target="blank">UK grapples with worst riots in 13 years</a>, Channel News Asia, 4 Aug 2024</s>
+</p>
+<p><s><a href="https://www.channelnewsasia.com/world/far-right-protesters-clash-police-uk-unrest-spreads-4525076" rel="noopener noreferrer nofollow" target="blank">Far-right protesters clash with police as UK unrest spreads</a>, Channel News Asia, 4 Aug 2024</s>
+</p>
+<p><s><a href="https://www.channelnewsasia.com/world/uk-prime-minister-keir-starmer-vows-swift-criminal-sanctions-rioters-worst-riot-2011-4527686" rel="noopener noreferrer nofollow" target="blank">UK's Keir Starmer vows 'swift criminal sanctions' for rioters</a>, Channel News Asia, 5 Aug 2024</s>
+</p>
+<p><s><a href="https://www.channelnewsasia.com/world/cna-explains-uk-riots-protests-misinformation-immigrant-far-right-social-media-violence-unrest-4529656" rel="noopener noreferrer nofollow" target="blank">CNA Explains: Why are people rioting across the UK?</a>, Channel News Asia, 6 Aug 2024</s>
+</p>
+<p><s><a href="https://www.channelnewsasia.com/singapore/uk-riots-singaporeans-far-right-protests-4529811?cid=telegram_cna_social_28112017_cna" rel="noopener noreferrer nofollow" target="blank">Singaporeans living in UK on 'high alert' amid anti-immigration riots, xenophobic sentiments</a>, Channel News Asia, 6 Aug 2024</s>
+</p>
 <p><a href="https://www.channelnewsasia.com/world/uk-far-right-rallies-riots-protests-worst-13-years-starmer-4525716" rel="noopener noreferrer nofollow" target="blank">UK grapples with worst riots in 13 years</a>,
 Channel News Asia, 4 Aug 2024</p>
-<p><a href="https://www.channelnewsasia.com/world/far-right-protesters-clash-police-uk-unrest-spreads-4525076" rel="noopener noreferrer nofollow" target="blank">Far-right protesters clash with police as UK unrest spreads</a>,
-Channel News Asia, 4 Aug 2024</p>
-<p><a href="https://www.channelnewsasia.com/world/uk-prime-minister-keir-starmer-vows-swift-criminal-sanctions-rioters-worst-riot-2011-4527686" rel="noopener noreferrer nofollow" target="blank">UK's Keir Starmer vows 'swift criminal sanctions' for rioters</a>,
-Channel News Asia, 5 Aug 2024</p>
 <p><a href="https://www.channelnewsasia.com/world/cna-explains-uk-riots-protests-misinformation-immigrant-far-right-social-media-violence-unrest-4529656" rel="noopener noreferrer nofollow" target="blank">CNA Explains: Why are people rioting across the UK?</a>,
 Channel News Asia, 6 Aug 2024</p>
-<p><a href="https://www.channelnewsasia.com/singapore/uk-riots-singaporeans-far-right-protests-4529811?cid=telegram_cna_social_28112017_cna" rel="noopener noreferrer nofollow" target="blank">Singaporeans living in UK on 'high alert' amid anti-immigration riots, xenophobic sentiments</a>,
-Channel News Asia, 6 Aug 2024</p>
+<p><a href="https://www.straitstimes.com/world/europe/explainer-why-are-there-riots-in-the-uk-and-who-is-behind-them" rel="noopener noreferrer nofollow" target="blank">Explainer-Why are there riots in the UK and who is behind them?</a>,
+The Straits Times, 7 Aug 2024</p>
 <p></p>
 <p></p>
