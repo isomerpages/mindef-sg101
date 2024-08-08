@@ -16,9 +16,9 @@ in the UK, and why it matters to Singapore.</p>
 <p>Further updates will be made to this page as the situation continues to
 develop.</p>
 <h4><strong>Download</strong></h4>
-<p><a href="https://go.gov.sg/redseacarousel" rel="noopener noreferrer nofollow" target="_blank">(Canva Public Link) NE in a minute on the Riots in the UK</a>
+<p><a href="https://go.gov.sg/ukriotscarousel" rel="noopener noreferrer nofollow" target="_blank">(Carousel) NE in a minute on the Riots in the UK</a>
 </p>
-<p><a href="https://go.gov.sg/redseacarousel" rel="noopener noreferrer nofollow" target="_blank">(Reel Format - Downloadable!) NE in a minute on the Riots in the UK</a>
+<p><a href="https://go.gov.sg/ukriotsreel" rel="noopener noreferrer nofollow" target="_blank">(Reel) NE in a minute on the Riots in the UK</a>
 </p>
 <table style="width: 0px">
 <colgroup></colgroup>
