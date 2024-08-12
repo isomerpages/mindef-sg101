@@ -95,6 +95,17 @@ Channel News Asia, 4 Aug 2024</p>
 <p><a href="https://www.channelnewsasia.com/world/cna-explains-uk-riots-protests-misinformation-immigrant-far-right-social-media-violence-unrest-4529656" rel="noopener noreferrer nofollow" target="blank">CNA Explains: Why are people rioting across the UK?</a>,
 Channel News Asia, 6 Aug 2024</p>
 <p><a href="https://www.straitstimes.com/world/europe/explainer-why-are-there-riots-in-the-uk-and-who-is-behind-them" rel="noopener noreferrer nofollow" target="blank">Explainer-Why are there riots in the UK and who is behind them?</a>,
-The Straits Times, 7 Aug 2024</p>
-<p></p>
+The Straits Times, 7 Aug 2024
+<br>
+<br>Relief after UK streets see respite from far-right riots, 8 Aug <a href="https://www.channelnewsasia.com/world/relief-uk-streets-see-respite-far-right-riots-counter-protests-4535301" rel="noopener noreferrer nofollow" target="_blank">https://www.channelnewsasia.com/world/relief-uk-streets-see-respite-far-right-riots-counter-protests-4535301</a> 
+</p>
+<p>UK revisits social media regulation after far-right riots, 10 Aug <a href="https://www.straitstimes.com/world/europe/uk-revisits-online-safety-act-after-far-right-riots?_gl=1*1anmvv7*_gcl_au*Nzk0NTEyMDM5LjE3MjA1OTU1MzQ" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/world/europe/uk-revisits-online-safety-act-after-far-right-riots?_gl=1*1anmvv7*_gcl_au*Nzk0NTEyMDM5LjE3MjA1OTU1MzQ</a>.</p>
+<p>Anti-racism protesters rally across UK, 11 Aug <a href="https://www.straitstimes.com/world/europe/anti-racism-protesters-rally-across-uk?_gl=1*2j2tt5*_gcl_au*Nzk0NTEyMDM5LjE3MjA1OTU1MzQ" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/world/europe/anti-racism-protesters-rally-across-uk?_gl=1*2j2tt5*_gcl_au*Nzk0NTEyMDM5LjE3MjA1OTU1MzQ</a>
+</p>
+<p>End the UK riots, parents of murdered girl urge at her funeral, 12 Aug
+<a href="https://www.straitstimes.com/world/europe/end-the-uk-riots-parents-of-murdered-girl-urge-at-her-funeral" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/world/europe/end-the-uk-riots-parents-of-murdered-girl-urge-at-her-funeral</a>
+</p>
+<h4><strong>Feedback</strong></h4>
+<p>We'd love to hear from you! Leave your feedback at: <a href="https://go.gov.sg/neinaminfeedback" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/neinaminfeedback</a>
+</p>
 <p></p>
