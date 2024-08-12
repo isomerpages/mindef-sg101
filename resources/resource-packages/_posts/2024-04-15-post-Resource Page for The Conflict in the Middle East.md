@@ -42,10 +42,6 @@ Further updates will be made to this resource page as the situation continues to
 ****
 **Key Reports From Singapore**
 
-<a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-war-strikes-gaza-wider-war-4541961">Israel keeps up strikes in Gaza as fears of wider war grow</a>, Channel News Asia, 12 Aug 2024
-
-<a target="blank" href="https://www.channelnewsasia.com/singapore/israel-hamas-war-hezbollah-ismail-haniyeh-mohammed-deif-fuad-shukr-mfa-4519716">Singapore 'deeply concerned' about recent Middle East developments, including killing of Hamas chief Haniyeh</a>, Channel News Asia, 1 Aug 2024
-
 <a target="blank" href="https://www.straitstimes.com/singapore/gps-jamming-harsh-environment-rsaf-aircrew-recount-challenges-of-gaza-airdrops">GPS Jamming, Harsh Environment: RSAF Aircrew Recount Challenges of Gaza Airdrops</a>, The Straits Times, 29 Jun 2024
 
 <a target="blank" href="https://www.channelnewsasia.com/singapore/saf-mindef-humanitarian-aid-airdrop-gaza-jordan-israel-hamas-4237206">SAF Team Returns From Gaza Airdrop Mission After Delivering Supplies Equivalent To Over 59,000 Meals</a>, Channel News Asia, 2 Apr 2024
@@ -86,6 +82,10 @@ Further updates will be made to this resource page as the situation continues to
 
 **Key Event Updates**
 
+<a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-war-strikes-gaza-wider-war-4541961">Israel keeps up strikes in Gaza as fears of wider war grow</a>, Channel News Asia, 12 Aug 2024
+
+<a target="blank" href="https://www.channelnewsasia.com/singapore/israel-hamas-war-hezbollah-ismail-haniyeh-mohammed-deif-fuad-shukr-mfa-4519716">Singapore 'deeply concerned' about recent Middle East developments, including killing of Hamas chief Haniyeh</a>, Channel News Asia, 1 Aug 2024
+
 <a target="blank" href="https://www.channelnewsasia.com/world/iran-retaliation-israel-hamas-war-drones-missiles-4263776?cid=internal_app-web-view_androidphone_15042024_cna">Iran Launches Retaliatory Attack on Israel With Hundreds of Drones, Missiles</a>, Channel News Asia, 14 Apr 202[](/files/Updated_NE_Insights_on_the_Middle_East_Conflict_compressed.pdf)4
 
 <a target="blank" href="https://www.channelnewsasia.com/world/gaza-ceasefire-israel-hamas-war-blinken-un-vote-4214061">Blinken Heads to Israel to Press for 'Immediate' Truce in Gaza Ahead of UN Vote</a>, Channel News Asia, 22 Mar 2024
@@ -123,8 +123,6 @@ Further updates will be made to this resource page as the situation continues to
 **Official Statements by Government Agencies**
 
 (Transcript) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/08/Min-FA-PQ-Oral-Reply-August-2024">Minister for Foreign Affairs Dr Vivian Balakrishnan's Oral Reply to Parliamentary Questions on the Israeli-Palestinian Conflict, 7 August 2024</a>, Ministry of Foreign Affairs, 7 Aug 2024
-
-(Statement) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/08/Middle-East-Situation-aa-1-Aug-2024">MFA Spokesperson Comments on the Situation in the Middle East</a>, Ministry of Foreign Affairs, 1 Aug 2024
 
 (Transcript) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/03/FM-Dr-Vivian-Balakrishnan-Doorstop-Interview-in-Israel-on-20-March-2024">Transcript of Minister for Foreign Affairs Dr Vivian Balakrishnan's Doorstop Interview in Israel on 20 March 2024</a>, Ministry of Foreign Affairs, 20 Mar 2024
 
