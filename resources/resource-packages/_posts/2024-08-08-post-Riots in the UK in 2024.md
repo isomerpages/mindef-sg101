@@ -90,6 +90,8 @@ develop.</p>
 <p></p>
 <hr>
 <h4><strong>Resources</strong></h4>
+<p><a href="https://www.channelnewsasia.com/world/relief-uk-streets-see-respite-far-right-riots-counter-protests-4535301" rel="noopener noreferrer nofollow" target="blank">Relief after UK streets see respite from far-right riots</a>,
+Channel News Asia, 8 Aug 2024</p>
 <p><a href="https://www.straitstimes.com/world/europe/explainer-why-are-there-riots-in-the-uk-and-who-is-behind-them" rel="noopener noreferrer nofollow" target="blank">Explainer-Why are there riots in the UK and who is behind them?</a>,
 The Straits Times, 7 Aug 2024</p>
 <p><a href="https://www.channelnewsasia.com/world/cna-explains-uk-riots-protests-misinformation-immigrant-far-right-social-media-violence-unrest-4529656" rel="noopener noreferrer nofollow" target="blank">CNA Explains: Why are people rioting across the UK?</a>,
