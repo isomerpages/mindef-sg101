@@ -31,15 +31,6 @@ Further updates will be made to this resource page as the situation continues to
 
 ****
 
-**Reports on Minister for Foreign Affairs Dr Vivian Balakrishnan's Working Trip to the Middle East**
-
-<a target="blank" href="https://www.channelnewsasia.com/singapore/vivian-balakrishnan-israel-working-visit-immediate-humanitarian-ceasefire-gaza-netanyahu-4208726">Vivian Balakrishnan Meets Netanyahu, Tells Israeli Leaders Military Actions in Gaza Have 'Gone Too Far'</a>, Channel News Asia, 20 Mar 2024
-
-<a target="blank" href="https://www.channelnewsasia.com/singapore/vivian-balakrishnan-palestinian-leaders-ramallah-visit-gaza-humanitarian-situation-4205166">Vivian Balakrishnan Meets Palestinian Leaders, Expresses Singapore's Concern About Dire Humanitarian Situation In Gaza</a>, Channel News Asia, 19 Mar 2024
-
-<a target="blank" href="https://www.channelnewsasia.com/singapore/gaza-humanitarian-aid-singapore-jordan-vivian-balakrishnan-israel-hamas-war-4200791">Vivian Balakrishnan Meets Jordon Counterpart amid Singapore's Humanitarian Aid Mission for Gaza</a>, Channel News Asia, 17 Mar 2024
-
-****
 **Key Reports From Singapore**
 
 <a target="blank" href="https://www.straitstimes.com/singapore/gps-jamming-harsh-environment-rsaf-aircrew-recount-challenges-of-gaza-airdrops">GPS Jamming, Harsh Environment: RSAF Aircrew Recount Challenges of Gaza Airdrops</a>, The Straits Times, 29 Jun 2024
