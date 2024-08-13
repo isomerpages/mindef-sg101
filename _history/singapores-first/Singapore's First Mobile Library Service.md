@@ -1,7 +1,9 @@
 ---
-title: Mobile Library Service
-permalink: /history/singapores-first/mobile-library-service/
+title: Singapore's First Mobile Library Service
+permalink: /resources/connexionsg/singapores-first-mobile-library-service/
 third_nav_title: Singapores First
+variant: tiptap
+description: ""
 ---
 ### Before independence, most of Singapore's population was illiterate because, as former Minister for Education Dr Goh Keng Swee said, 
 

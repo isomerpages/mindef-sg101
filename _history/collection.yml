@@ -3,16 +3,18 @@ collections:
     output: true
     order:
       - singapores-last/.keep
-      - singapores-last/mainland-village.md
+      - singapores-last/Singapore's Last Mainland Village.md
       - sg-eastern-waters-shipwrecks/.keep
-      - sg-eastern-waters-shipwrecks/shipwreck-artefacts-in-singapore-eastern-waters-excavated.md
+      - sg-eastern-waters-shipwrecks/Artefacts Uncovered from Shipwrecks in
+        Singapore's Eastern Waters.md
       - singapores-first/.keep
-      - singapores-first/national-campaign.md
-      - singapores-first/bicycle-licence.md
-      - singapores-first/newspaper.md
-      - singapores-first/mobile-library-service.md
-      - singapores-first/post-independence-currency-notes.md
-      - singapores-first/underground-ammunition-storage-facility.md
+      - singapores-first/Singapore's First National Campaign.md
+      - singapores-first/Singapore's First Bicycle Licence.md
+      - singapores-first/Singapore's First Newspaper.md
+      - singapores-first/Singapore's First Mobile Library Service.md
+      - singapores-first/Singapore's First Post Independence Currency Notes.md
+      - singapores-first/Singapore's First Underground Ammunition Storage
+        Facility.md
       - on-this-day/.keep
       - on-this-day/bukit-ho-swee-fire.md
       - on-this-day/nicoll-highway-collapse.md

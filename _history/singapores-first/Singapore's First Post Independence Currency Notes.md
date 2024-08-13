@@ -1,7 +1,9 @@
 ---
-title: Post-independence Currency Notes
-permalink: /history/singapores-first/post-independence-curren/
+title: Singapore's First Post Independence Currency Notes
+permalink: /resources/connexionsg/singapores-first-post-independence-currency-notes/
 third_nav_title: Singapores First
+variant: tiptap
+description: ""
 ---
 ### There is history to be found in our wallets. 
 

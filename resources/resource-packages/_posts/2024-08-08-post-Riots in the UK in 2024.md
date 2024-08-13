@@ -1,5 +1,5 @@
 ---
-title: Riots in the UK
+title: Riots in the UK in 2024
 permalink: /resources/resource-packages/riots-in-the-uk/
 date: 2024-08-08
 layout: post
@@ -90,11 +90,16 @@ develop.</p>
 <p></p>
 <hr>
 <h4><strong>Resources</strong></h4>
-<p><a href="https://www.channelnewsasia.com/world/uk-far-right-rallies-riots-protests-worst-13-years-starmer-4525716" rel="noopener noreferrer nofollow" target="blank">UK grapples with worst riots in 13 years</a>,
-Channel News Asia, 4 Aug 2024</p>
-<p><a href="https://www.channelnewsasia.com/world/cna-explains-uk-riots-protests-misinformation-immigrant-far-right-social-media-violence-unrest-4529656" rel="noopener noreferrer nofollow" target="blank">CNA Explains: Why are people rioting across the UK?</a>,
-Channel News Asia, 6 Aug 2024</p>
+<p><a href="https://www.channelnewsasia.com/world/relief-uk-streets-see-respite-far-right-riots-counter-protests-4535301" rel="noopener noreferrer nofollow" target="blank">Relief after UK streets see respite from far-right riots</a>,
+Channel News Asia, 8 Aug 2024</p>
 <p><a href="https://www.straitstimes.com/world/europe/explainer-why-are-there-riots-in-the-uk-and-who-is-behind-them" rel="noopener noreferrer nofollow" target="blank">Explainer-Why are there riots in the UK and who is behind them?</a>,
 The Straits Times, 7 Aug 2024</p>
+<p><a href="https://www.channelnewsasia.com/world/cna-explains-uk-riots-protests-misinformation-immigrant-far-right-social-media-violence-unrest-4529656" rel="noopener noreferrer nofollow" target="blank">CNA Explains: Why are people rioting across the UK?</a>,
+Channel News Asia, 6 Aug 2024</p>
+<p><a href="https://www.channelnewsasia.com/world/uk-far-right-rallies-riots-protests-worst-13-years-starmer-4525716" rel="noopener noreferrer nofollow" target="blank">UK grapples with worst riots in 13 years</a>,
+Channel News Asia, 4 Aug 2024</p>
 <p></p>
+<h4><strong>Feedback</strong></h4>
+<p>We'd love to hear from you! Leave your feedback at: <a href="https://go.gov.sg/neinaminfeedback" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/neinaminfeedback</a>
+</p>
 <p></p>

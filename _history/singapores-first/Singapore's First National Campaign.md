@@ -1,7 +1,9 @@
 ---
-title: National Campaign
-permalink: /history/singapores-first/national-campaign/
+title: Singapore's First National Campaign
+permalink: /resources/connexionsg/singapores-first-national-campaign/
 third_nav_title: Singapores First
+variant: tiptap
+description: ""
 ---
 ### Singapore's first national campaign, the Anti-Spitting Campaign, came before our independence - in August 1958.
 

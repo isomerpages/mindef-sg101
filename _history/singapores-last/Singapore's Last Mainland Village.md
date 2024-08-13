@@ -1,7 +1,9 @@
 ---
-title: Mainland Village
-permalink: /history/singapores-last/mainland-village/
+title: Singapore's Last Mainland Village
+permalink: /resources/connexionsg/singapores-last-mainland-village/
 third_nav_title: Singapores Last
+variant: tiptap
+description: ""
 ---
 ### A small turn off Gerald Drive in the Yio Chu Kang area is all it takes to transport you to another era
 
