@@ -1,5 +1,5 @@
 title: SG101
-url: "https://www.sg101.gov.sg/"
+url: https://www.sg101.gov.sg
 favicon: /images/sg101sq.png
 colors:
   primary-color: "#323594"
@@ -54,3 +54,6 @@ staging: https://staging.d34jzqwbh9by83.amplifyapp.com/
 prod: https://master.d34jzqwbh9by83.amplifyapp.com/
 is_government: true
 shareicon: /images/sg101sq.png
+facebook-pixel: ""
+google_analytics_ga4: ""
+linkedin-insights: ""
