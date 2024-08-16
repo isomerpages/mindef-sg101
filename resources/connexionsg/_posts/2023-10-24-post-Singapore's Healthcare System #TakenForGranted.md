@@ -23,8 +23,8 @@ Singapore’s excellent healthcare system was established based on the belief an
 - Safety nets such as MediFund and Elderfund for those with financial difficulties. 
 
 This approach is complemented by actively encouraging Singaporeans to lead a healthy lifestyle and proactively manage our health needs through the #HealthierSG initiative. Singapore’s commitment to providing quality, affordable and accessible healthcare is so strong and the practice of healthy living so widespread that no wonder our healthcare system is so widely 
-
 #TakenforGranted by Singaporeans.
+
 #Singaporehealthcare #healthcare #Singapore #health
 
 Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) and [Instagram](https://www.instagram.com/connexionsg/) for more content.
