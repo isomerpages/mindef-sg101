@@ -90,6 +90,8 @@ develop.</p>
 <p></p>
 <hr>
 <h4><strong>Resources</strong></h4>
+<p><a href="https://www.straitstimes.com/singapore/courts-crime/singapore-has-laws-and-policies-designed-to-prevent-situations-like-the-uk-riots-shanmugam" rel="noopener noreferrer nofollow" target="blank">Singapore has laws and policies designed to prevent situations like UK riots: Shanmugam</a>,
+The Straits Times, 17 Aug 2024</p>
 <p><a href="https://www.channelnewsasia.com/world/relief-uk-streets-see-respite-far-right-riots-counter-protests-4535301" rel="noopener noreferrer nofollow" target="blank">Relief after UK streets see respite from far-right riots</a>,
 Channel News Asia, 8 Aug 2024</p>
 <p><a href="https://www.straitstimes.com/world/europe/explainer-why-are-there-riots-in-the-uk-and-who-is-behind-them" rel="noopener noreferrer nofollow" target="blank">Explainer-Why are there riots in the UK and who is behind them?</a>,
