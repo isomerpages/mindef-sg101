@@ -5,6 +5,7 @@ date: 2022-10-10
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ![](/images/connexionsg/2022/t5.jpg)
 📸: An artist’s impression of the Changi East development, by Changi Airport Group
@@ -23,7 +24,6 @@ T5 will be linked to the other terminals at Changi Airport, allowing the expande
 
 By pressing onwards with Changi Airport's expansion, Singapore sends a clear signal to the world that we are emerging stronger from the pandemic, as a future-proofed aviation hub for this region and the world. #ChangiAirport #Aviation 
 
-🔗: https://www.changiairport.com/.../our.../changi-east.html
-
+🔗: https://www.changiairport.com/corporate/our-expertise/changi-east.html?fbclid=IwY2xjawExm3JleHRuA2FlbQIxMAABHWfTi1OqfLY64Nxm0zjm0aKSsZ3Dax6tvlSVu8Ol5054OrI2OyCKnIQ99g_aem_LRl85Bp11AqBzm6r40Bm2g
 
 Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
