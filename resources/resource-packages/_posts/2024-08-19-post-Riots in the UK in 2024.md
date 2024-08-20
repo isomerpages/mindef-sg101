@@ -1,7 +1,7 @@
 ---
 title: Riots in the UK in 2024
 permalink: /resources/resource-packages/riots-in-the-uk/
-date: 2024-08-08
+date: 2024-08-19
 layout: post
 description: ""
 image: ""

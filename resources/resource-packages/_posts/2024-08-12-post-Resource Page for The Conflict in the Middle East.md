@@ -1,7 +1,7 @@
 ---
 title: Resource Page for The Conflict in the Middle East
 permalink: /resources/resource-packages/conflictmiddleeast/
-date: 2024-04-15
+date: 2024-08-12
 layout: post
 description: Israel hamas palestine middle-east
 image: ""
