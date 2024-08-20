@@ -5,6 +5,7 @@ date: 2022-10-28
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 It is not just climate change that is making Singapore warmer - being a city jacks the heat up too.
 
@@ -22,8 +23,6 @@ Tackling UHI requires strong commitment from multiple stakeholders, not just pol
 🎥 Learn what the UHI effect is: https://www.facebook.com/Climate.../videos/1550447911798539/
 
 🎥 Some ways in which Singapore is tackling the UHI effect: https://www.facebook.com/ClimateC.../videos/862722087540462/
-
-🔗https://www.channelnewsasia.com/commentary/singapore-warmer-weather-climate-change-cooling-project-heat-1339936?fbclid=IwAR152zLlesPE8p5A1SY7YVYhmwkPF-_W3Mm6MxjHZI9Ck2vvBBCbhN2wWeQ
 
 ![](/images/connexionsg/2022/green%20roofs%20(nparks).jpg)
 📷: Incorporating greenery onto infrastructure is a key pillar in the Singapore Green Plan 2030. (NParks)
