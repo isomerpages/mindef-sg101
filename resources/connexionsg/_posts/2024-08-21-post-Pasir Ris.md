@@ -7,9 +7,10 @@ description: ""
 image: /images/418735327_789236949910947_852398906158706099_n.jpg
 variant: tiptap
 ---
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FConnexionSG%2Fposts%2Fpfbid02jtfvLe49yriNLGSchhXLW5Qcetkkob2fWAswbGmy5ggVnGx1mi6CjKYnb2BHGnU8l&amp;show_text=true&amp;width=500"></iframe>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pasir Ris" src="/images/418735327_789236949910947_852398906158706099_n.jpg">
 </div>
+<p></p>
 <p>Most of us are familiar with Pasir Ris as “white sand”, but did you know
 it is also speculated to be a contraction of “Pasir Iris”, where Pasir
 means “sand”, and Iris means “to shred”?
