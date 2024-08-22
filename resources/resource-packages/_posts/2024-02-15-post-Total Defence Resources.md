@@ -201,7 +201,6 @@ with crises and disruptions.</p>
 <p>Submit your ideas <a href="https://go.gov.sg/tdsandbox" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 <hr>
 <h4><strong>Carry Forth the Fire - A Song for 40 Years of Total Defence</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AEONA.jpg">
 </div>
