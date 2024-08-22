@@ -210,7 +210,7 @@ Songwriter Music College (TSMC) to get their students to write a song in
 support of Total Defence. The song, <strong><em>"Carry Forth the Fire"</em></strong>,
 written and sung by AEONA, a 21-year old homegrown singer-songwriter, emerged
 as the winner.</p>
-<p>You may watch the full video <a href="https://go.gov.sg/carryforththefire" rel="noopener noreferrer nofollow" target="_blank">here</a> too!</p>
+<p>Catch the full music video <a href="https://go.gov.sg/carryforththefire" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 <hr>
 <h4><strong>Total Defence Murder Mystery Role-playing Game (MMRPG) Video Series</strong></h4>
 <div class="iframe-wrapper">
