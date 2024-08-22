@@ -42,4 +42,6 @@ Together let’s build a Singapore where we can all realise our dreams!
 <p>📸: PM Lawrence Wong at NDR 2024 (Credits: PM Wong's Facebook)</p>
 <p></p>
 <p>Visit <a href="https://www.facebook.com/ConnexionSG" rel="noopener noreferrer nofollow" target="blank">ConnexionSG Facebook</a> and
-<a href="https://www.instagram.com/connexionsg/" rel="noopener noreferrer nofollow" target="_blank">ConnexionSG Instagram</a>for more content.</p>
+<a href="https://www.instagram.com/connexionsg/" rel="noopener noreferrer nofollow" target="blank">ConnexionSG Instagram</a>for more content.</p>
+<p></p>
+<p></p>
