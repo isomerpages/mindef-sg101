@@ -201,8 +201,9 @@ with crises and disruptions.</p>
 <p>Submit your ideas <a href="https://go.gov.sg/tdsandbox" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 <hr>
 <h4><strong>Carry Forth the Fire - A Song for 40 Years of Total Defence</strong></h4>
-<div class="iframe-wrapper">
-<iframe height="350" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bgSOgVpXOvk"></iframe>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AEONA.jpg">
 </div>
 <p>In commemoration of 40 years of Total Defence, we collaborated with The
 Songwriter Music College (TSMC) to get their students to write a song in
@@ -211,7 +212,7 @@ written and sung by AEONA, a 21-year old homegrown singer-songwriter, emerged
 as the winner.</p>
 <p>You may watch the full video <a href="https://go.gov.sg/carryforththefire" rel="noopener noreferrer nofollow" target="_blank">here</a> too!</p>
 <hr>
-<h4><strong>Total Defence Murder Mystery Role-playing Game (MMRPG) Video Series </strong></h4>
+<h4><strong>Total Defence Murder Mystery Role-playing Game (MMRPG) Video Series</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="350" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0qOwWV3Heys"></iframe>
 </div>
