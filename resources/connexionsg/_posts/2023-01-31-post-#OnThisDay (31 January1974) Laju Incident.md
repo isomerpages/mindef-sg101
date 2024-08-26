@@ -33,7 +33,7 @@ Do contact the ISD Counter-Terrorism Centre hotline on 1800-2626-473 if you: (1)
 
 Together, we keep Singapore strong.
 
-🔗 Here’s more information on why we have to keep our guard up: 
+🔗 More information on why we have to keep our guard up: 
 [here](https://www.straitstimes.com/singapore/s-poreans-must-guard-against-threat-of-terrorism-scams-hostile-online-campaigns-shanmugam?fbclid=IwAR1AiCJ2g1gWdKjQ7u4fKuJdot3koextDAAPEbGn2KjH1CrFbJoIgGPnAmM)
 
 
