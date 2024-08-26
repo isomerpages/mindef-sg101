@@ -26,7 +26,7 @@ With the signing of surrender document, 15 Feb 1942, which was supposedly celebr
 
 This is why we mark Total Defence Day on 15 Feb annually – as a reminder that the Occupation brought great hardship to our people, that we can depend on no one, but ourselves, to protect our country. And that together, we keep Singapore strong.
 
-#WeAreTotalDefence #TogetherWeKeepSingaporeStrong #TotalDefence #StrongerTogether #NeverAgainSG #Singapore We Are Total Defence
+#WeAreTotalDefence #TogetherWeKeepSingaporeStrong 
 
 
 
