@@ -5,8 +5,8 @@ date: 2023-01-31
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-
 ![](/images/connexionsg/2023/327308478_714133760169514_275650523641106362_n.png)
 ![](/images/connexionsg/2023/326784168_2373545122814830_6648233622105448404_n.jpg)
 
@@ -34,9 +34,10 @@ Do contact the ISD Counter-Terrorism Centre hotline on 1800-2626-473 if you: (1)
 Together, we keep Singapore strong.
 
 🔗 Here’s more information on why we have to keep our guard up: 
-https://www.straitstimes.com/singapore/s-poreans-must-guard-against-threat-of-terrorism-scams-hostile-online-campaigns-shanmugam?fbclid=IwAR1AiCJ2g1gWdKjQ7u4fKuJdot3koextDAAPEbGn2KjH1CrFbJoIgGPnAmM
+[here](https://www.straitstimes.com/singapore/s-poreans-must-guard-against-threat-of-terrorism-scams-hostile-online-campaigns-shanmugam?fbclid=IwAR1AiCJ2g1gWdKjQ7u4fKuJdot3koextDAAPEbGn2KjH1CrFbJoIgGPnAmM)
 
 
-#WeAreTotalDefence #TogetherWeKeepSingaporeStrong #Singapore #Laju #NeverAgainSG #SGSecure #WemakeSGSecure
+#WeAreTotalDefence #TogetherWeKeepSingaporeStrong 
+
 
 Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
