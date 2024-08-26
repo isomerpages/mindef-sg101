@@ -5,8 +5,9 @@ date: 2023-02-26
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-![](/images/connexionsg/2023/Save%20Water%20.jpeg)
+![How to save water](/images/connexionsg/how_to_save_water.jpg)
 
 Singapore is one of the most water-stressed countries in the world because we lack groundwater and natural freshwater bodies, and have limited land for water storage facilities of harvested rainwater.
 
@@ -20,6 +21,5 @@ At the individual level, we can form good habits in water consumption. For examp
 
 We can all play a part. Together, we keep Singapore strong.
 
-[#WeAreTotalDefence](https://www.facebook.com/hashtag/wearetotaldefence?__eep__=6&__cft__[0]=AZUOkMUqBnN4_kIEeGRP5-gCMiMRE_N6s5EG0jLBRJ6PmBR3dMl7kxhzcTPgD-B7dtGgfUKBFVJt8TktGnBGNPsDqSlt6XkcClSSUBASEbVVpFX8L4eTlSUU__aIh-VFy7v16ZJdt-pcmPRZykv0GCKfOp_fO4lsNOnzlfiGWRcUZWNXU0NZNMhJE646Dwy-k7U&__tn__=*NK-R) [#TogetherWeKeepSingaporeStrong](https://www.facebook.com/hashtag/togetherwekeepsingaporestrong?__eep__=6&__cft__[0]=AZUOkMUqBnN4_kIEeGRP5-gCMiMRE_N6s5EG0jLBRJ6PmBR3dMl7kxhzcTPgD-B7dtGgfUKBFVJt8TktGnBGNPsDqSlt6XkcClSSUBASEbVVpFX8L4eTlSUU__aIh-VFy7v16ZJdt-pcmPRZykv0GCKfOp_fO4lsNOnzlfiGWRcUZWNXU0NZNMhJE646Dwy-k7U&__tn__=*NK-R) [#MakeEveryDropCount](https://www.facebook.com/hashtag/makeeverydropcount?__eep__=6&__cft__[0]=AZUOkMUqBnN4_kIEeGRP5-gCMiMRE_N6s5EG0jLBRJ6PmBR3dMl7kxhzcTPgD-B7dtGgfUKBFVJt8TktGnBGNPsDqSlt6XkcClSSUBASEbVVpFX8L4eTlSUU__aIh-VFy7v16ZJdt-pcmPRZykv0GCKfOp_fO4lsNOnzlfiGWRcUZWNXU0NZNMhJE646Dwy-k7U&__tn__=*NK-R) [#GoBlue4SG](https://www.facebook.com/hashtag/goblue4sg?__eep__=6&__cft__[0]=AZUOkMUqBnN4_kIEeGRP5-gCMiMRE_N6s5EG0jLBRJ6PmBR3dMl7kxhzcTPgD-B7dtGgfUKBFVJt8TktGnBGNPsDqSlt6XkcClSSUBASEbVVpFX8L4eTlSUU__aIh-VFy7v16ZJdt-pcmPRZykv0GCKfOp_fO4lsNOnzlfiGWRcUZWNXU0NZNMhJE646Dwy-k7U&__tn__=*NK-R)
 
 Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
