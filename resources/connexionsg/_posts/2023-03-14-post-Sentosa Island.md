@@ -5,8 +5,9 @@ date: 2023-03-14
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-![](/images/connexionsg/2023/Sentosa%20Island.jpeg)
+![sentosa](/images/connexionsg/2023/TriviaTuesday_sentosa_v2.png)
 
 #TriviaTuesday: Sentosa has a population of more than 60 peacocks. The first pair of peacocks were introduced in 1980, and today Sentosa is believed to have the largest number of peacocks in a single location in Singapore. The population there is a mix of Indian blue peafowls and Javan green peafowls.
 

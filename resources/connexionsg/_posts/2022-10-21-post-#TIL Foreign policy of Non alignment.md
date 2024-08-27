@@ -5,10 +5,11 @@ date: 2022-10-21
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ![](/images/connexionsg/2022/raja.jpg)📷: Then Minister for Foreign Affairs Mr S. Rajaratnam (1965); Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
 
-TIL Even in 1965, it was necessary for a newly independent Singapore to stick to a foreign policy of non-alignment.
+#TIL Even in 1965, it was necessary for a newly independent Singapore to stick to a foreign policy of non-alignment.
 
 Singapore’s then-Minister for Foreign Affairs Mr S. Rajaratnam said in Parliament on 17 December that year: "because to be aligned to any big country would eventually have meant the loss of our freedom of action even in domestic fields."
 
@@ -24,7 +25,6 @@ He also made these points:
 
 That was 57 years ago. They still apply today — as Minister for Foreign Affairs Dr Vivian Balakrishnan said at MFA’s Committee of Supply Debate on 3 March 2022, "we make decisions based on our long-term national interests, and we make it clear to both that we will not be a proxy, vassal state or a cat’s paw for one side or the other. And we have not shied away from standing up for ourselves and disagreeing on issues when necessary".
 
-**Speech**: https://sprs.parl.gov.sg/search/topic?reportid=034_19651217_S0006_T0040&fbclid=IwAR1t8evoM8QVhIJ6IR2yPM11IxJ3cu9DBjqeDkzj0rgNsb-qHJsid1OLrs4
+**Speech**: https://sprs.parl.gov.sg/search/#/topic?reportid=034_19651217_S0006_T0040 
 
 Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
-

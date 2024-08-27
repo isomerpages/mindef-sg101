@@ -5,9 +5,9 @@ date: 2023-03-12
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-![](/images/connexionsg/2023/Esplanade.jpeg)
-
+![esplanade](/images/connexionsg/esplanade.jpg)
 
 #DidYouKnow the Esplanade was described as “ugly concrete blobs”, “bread loaf”, and “marshmallow blobs” before it was built?
 

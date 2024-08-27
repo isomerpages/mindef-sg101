@@ -99,20 +99,6 @@ be running a campaign from now till 1 November 2024 to support Total Defence.
 Members of the public can donate or sign up as a volunteer via the Giving.sg
 online platform at <a href="https://go.gov.sg/sgreadygiving" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/SGReadyGiving</a>.</p>
 <hr>
-<p><strong>SGReadyGoWhere Website</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD40_x_GoWhere.jpg">
-</div>
-<p>Members of the public can use SGReadyGoWhere to locate their nearest CD
-shelter at <a href="https://go.gov.sg/sgreadygowhere" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/SGReadyGoWhere</a>.</p>
-<p>The Civil Defence Shelter Programme is part of the government's plan to
-building up our Civil Defence preparedness under the umbrella of Total
-Defence. These public shelters are places where you can take refuge during
-a wartime emergency and are designed with protective features against weapon
-effects to ensure a safe environment for shelter occupants. Public shelters
-can be found in MRT stations, HDBs, schools, community clubs and other
-developments.</p>
 <hr>
 <h4><strong>Total Defence 2024 Campaign Poster</strong></h4>
 <div class="isomer-image-wrapper">
@@ -214,9 +200,18 @@ with crises and disruptions.</p>
 <p>More information regarding the Total Defence Sandbox can be found <a href="https://go.gov.sg/tdsandboxdetails" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>Submit your ideas <a href="https://go.gov.sg/tdsandbox" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 <hr>
+<h4><strong>Carry Forth the Fire - A Song for 40 Years of Total Defence</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AEONA.jpg">
+</div>
+<p>In commemoration of 40 years of Total Defence, we collaborated with The
+Songwriter Music College (TSMC) to get their students to write a song in
+support of Total Defence. The song, <strong><em>"Carry Forth the Fire"</em></strong>,
+written and sung by AEONA, a 21-year old homegrown singer-songwriter, emerged
+as the winner.</p>
+<p>Catch the full music video <a href="https://go.gov.sg/carryforththefire" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
+<hr>
 <h4><strong>Total Defence Murder Mystery Role-playing Game (MMRPG) Video Series</strong></h4>
-<p><strong>Total Defence Murder Mystery Role-playing Game (MMRPG) Video Series - Trailer</strong>
-</p>
 <div class="iframe-wrapper">
 <iframe height="350" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0qOwWV3Heys"></iframe>
 </div>
