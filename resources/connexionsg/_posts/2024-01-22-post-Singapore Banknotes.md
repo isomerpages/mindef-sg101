@@ -12,7 +12,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/singapore_banknotes.png">
 </div>
-<p></p>
 <p>Bank notes can be iconic and tell unique stories. The designs of our bank
 notes often reflect Singapore's multicultural identity, incorporating elements
 from various ethnic groups and historical events.
@@ -21,3 +20,7 @@ from various ethnic groups and historical events.
 in our daily lives – from ordering kopi at our nearby coffee shop or gifting
 of angbaos during the Lunar New Year. Watch till the end to learn more
 about the different series of notes we have in Singapore! 🤑</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
