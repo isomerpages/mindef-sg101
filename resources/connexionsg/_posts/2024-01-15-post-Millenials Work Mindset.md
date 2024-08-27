@@ -16,5 +16,4 @@ variant: tiptap
 <br>We want to hear from the young people! Let us know about your work experiences
 in the comments!</p>
 <p></p>
-<p>Visit Facebook and Instagramfor more content.</p>
 <p></p>
