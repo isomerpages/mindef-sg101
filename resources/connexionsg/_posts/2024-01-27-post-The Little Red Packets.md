@@ -28,3 +28,6 @@ generation is adding their own flair to the Red Packets by bringing out
 trendier designs and sometimes even adding memorable touches such as poems
 on them.</p>
 <p></p>
+<p>Visit <a href="https://www.facebook.com/ConnexionSG" rel="noopener nofollow" target="_blank">Facebook</a> and
+<a href="https://www.instagram.com/connexionsg/" rel="noopener nofollow" target="_blank">Instagram</a>for more content.</p>
+<p></p>
