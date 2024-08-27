@@ -7,6 +7,13 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Love_Kebaya__NHB__1.jpg">
+</div>
+<p>📸: For the very first time, Brunei, Malaysia, Singapore and Thailand
+have jointly nominated the <em>kebaya</em> for the UNESCO Representative
+List of Intangible Cultural Heritage of Humanity in 2023 (NHB)</p>
+<p></p>
 <p>What comes to mind when you think of our iconic Singapore Girl, or <em>The Little Nyonya</em> from
 Mediacorp television series? Arresting images of the beautiful and intricate <em>Kebaya</em>.</p>
 <p>&nbsp;A traditional form of women’s dress iconic to Southeast Asia, the <em>Kebaya</em> is
@@ -61,13 +68,7 @@ timeless representation for various communities in both formal and casual
 settings. Its versatility and adaptability to modern fashion trends helps
 to keep alive a rich cultural heritage and contributes to its ongoing story.</p>
 <p>&nbsp;What’s your <em>Kebaya</em> story? Do you own a <em>Kebaya</em>?</p>
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Love_Kebaya__NHB__1.jpg">
-</div>
-<p>📸: For the very first time, Brunei, Malaysia, Singapore and Thailand
-have jointly nominated the <em>kebaya</em> for the UNESCO Representative
-List of Intangible Cultural Heritage of Humanity in 2023 (NHB)
+<p>
 <br>
 <br>Visit <a href="https://www.facebook.com/ConnexionSG" rel="noopener noreferrer nofollow" target="blank">ConnexionSG Facebook</a> and
 <a href="https://www.instagram.com/connexionsg/" rel="noopener noreferrer nofollow" target="_blank">ConnexionSG Instagram</a>for more content.
