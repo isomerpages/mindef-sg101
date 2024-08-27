@@ -21,6 +21,7 @@ in our daily lives – from ordering kopi at our nearby coffee shop or gifting
 of angbaos during the Lunar New Year. Watch till the end to learn more
 about the different series of notes we have in Singapore! 🤑</p>
 <p></p>
-<p></p>
+<p>Visit <a href="https://www.facebook.com/ConnexionSG" rel="noopener nofollow" target="_blank">Facebook</a> and
+<a href="https://www.instagram.com/connexionsg/" rel="noopener nofollow" target="_blank">Instagram</a>for more content.</p>
 <p></p>
 <p></p>
