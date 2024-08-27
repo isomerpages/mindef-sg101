@@ -15,5 +15,6 @@ variant: tiptap
 <br>
 <br>We want to hear from the young people! Let us know about your work experiences
 in the comments!</p>
-<p></p>
+<p>Visit <a href="https://www.facebook.com/ConnexionSG" rel="noopener noreferrer nofollow" target="blank">ConnexionSG Facebook</a> and
+<a href="https://www.instagram.com/connexionsg/" rel="noopener noreferrer nofollow" target="_blank">ConnexionSG Instagram</a>for more content.</p>
 <p></p>
