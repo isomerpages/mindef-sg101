@@ -69,7 +69,6 @@ settings. Its versatility and adaptability to modern fashion trends helps
 to keep alive a rich cultural heritage and contributes to its ongoing story.</p>
 <p>&nbsp;What’s your <em>Kebaya</em> story? Do you own a <em>Kebaya</em>?</p>
 <p>
-<br>
 <br>Visit <a href="https://www.facebook.com/ConnexionSG" rel="noopener noreferrer nofollow" target="blank">ConnexionSG Facebook</a> and
 <a href="https://www.instagram.com/connexionsg/" rel="noopener noreferrer nofollow" target="_blank">ConnexionSG Instagram</a>for more content.
 <br>
