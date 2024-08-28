@@ -3,11 +3,8 @@ title: Energy
 permalink: /infrastructure/case-studies/energy/
 third_nav_title: Case Studies
 description: ""
+variant: markdown
 ---
-
-
-
-
 #### Energy
 
 ![Alt text for image on Isomer site](/images/infrastructure/case-studies/screenshot%202021-07-024242.png)
@@ -25,11 +22,11 @@ But while we can procure what we need to keep our economy going and our hour hom
 
 ![Alt text for image on Isomer site](/images/infrastructure/case-studies/screenshot%202021-045435.png)Image: Singapore LNG
 
-Currently, more than 95 per cent of Singapore’s electrical supply comes from natural gas. Most of our LNG supply is piped from Malaysia and Indonesia. This poses a key problem: a lack of diverse energy sources. Six of the existing gas contracts with Indonesia and Malaysia are due to expire between 2018 and 2029. And there is no guarantee if or when they will be renewed.
+Currently, more than 95 per cent of Singapore’s electrical supply comes from natural gas. Most of our natural gas is supplied through pipelines from Malaysia and Indonesia, which poses a key challenge: a lack of diverse energy sources. Six of the existing gas contracts with Indonesia and Malaysia are due to expire between 2018 and 2029, with no guarantee of renewal.
 
-To reduce our over-reliance on just two main sources of LNG, we have been working on expanding our suppliers beyond just our neighbours by creating ways for LNG to be transported to us.
+To reduce our over-reliance on just two main sources of natural gas, Singapore has been expanding its supplier base by developing LNG infrastructure. 
 
-In 2013, Singapore opened the first LNG Terminal, a significant milestone in our quest to fortify our energy security. LNG supplies can now come from anywhere around the world and be stored at the terminal. The LNG terminal has enough capacity to meet our domestic needs even if the LNG agreements are new renewed. It was so successful that plans are now in place to build a second LNG terminal in the east.
+In 2013, Singapore opened its first LNG terminal, a significant milestone in fortifying our energy security. This terminal allows LNG to be imported from around the world and stored locally, ensuring that Singapore's energy needs can be met even if pipeline agreements are not renewed. Due to its success, plans are underway to construct a second LNG terminal in the east.
 
 ![Alt text for image on Isomer site](/images/infrastructure/case-studies/screenshot%202021-0752525.png)
 
