@@ -100,6 +100,8 @@ The Straits Times, 7 Aug 2024</p>
 Channel News Asia, 6 Aug 2024</p>
 <p><a href="https://www.channelnewsasia.com/world/uk-far-right-rallies-riots-protests-worst-13-years-starmer-4525716" rel="noopener noreferrer nofollow" target="blank">UK grapples with worst riots in 13 years</a>,
 Channel News Asia, 4 Aug 2024</p>
+<p><a href="https://www.channelnewsasia.com/commentary/uk-riots-lessons-singapore-misinformation-disinformation-far-right-multi-cultural-racial-society-4570006?cid=internal_sharetool_iphone_27082024_cna" rel="noopener nofollow" target="_blank">Why UK riots over Southport child stabbings matter to Singapore</a>,
+Channel News Asia, 27 Aug 2024</p>
 <p></p>
 <h4><strong>Feedback</strong></h4>
 <p>We'd love to hear from you! Leave your feedback at: <a href="https://go.gov.sg/neinaminfeedback" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/neinaminfeedback</a>
