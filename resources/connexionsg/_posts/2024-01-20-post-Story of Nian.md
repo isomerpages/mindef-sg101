@@ -1,6 +1,6 @@
 ---
 title: Story of Nian
-permalink: /resources/connexionsg/storyofnian/
+permalink: /resources/connexionsg/heritage-story-of-nian/
 date: 2024-01-20
 layout: post
 description: ""
