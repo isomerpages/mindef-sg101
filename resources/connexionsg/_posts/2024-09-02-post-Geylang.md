@@ -60,6 +60,9 @@ facilitate community bonding. Despite these changes, we should keep a conscious
 effort to retain the area’s unique character and heritage, ensuring that
 Geylang’s spirit is not lost in the process of urban renewal.
 <br>
+</p>
+<p>Visit <a href="https://www.facebook.com/ConnexionSG" rel="noopener nofollow" target="_blank">Facebook</a> and
+<a href="https://www.instagram.com/connexionsg/" rel="noopener nofollow" target="_blank">Instagram</a>for more content.
 <br>
 <br>
 <br>
