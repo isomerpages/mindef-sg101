@@ -1,6 +1,6 @@
 ---
 title: Youth Olympic Games
-permalink: /nostalgia-youth-olympic-games/
+permalink: /resources/connexionsg/nostalgia-youth-olympic-games/
 date: 2024-08-26
 layout: post
 description: ""

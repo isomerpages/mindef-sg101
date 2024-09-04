@@ -1,14 +1,17 @@
 ---
 title: Singapore students are the top readers in the world
-permalink: /til-singapore-students-are-top-readers-in-the-world/
-date: 2024-09-02
+permalink: /resources/connexionsg/til-singapore-students-are-top-readers-in-the-world/
+date: 2024-09-04
 layout: post
 description: ""
 image: ""
 variant: tiptap
 ---
 <p></p>
-<p>Watch the video here: &lt;To insert video link&gt;
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/connexionsg/SG_students_are_top_readers.jpg">
+</div>
+<p>Watch the video here: <a href="https://www.instagram.com/p/C_ee43_SVzg/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/p/C_ee43_SVzg/</a> 
 <br>
 <br>Our P4 students in Singapore are the top readers in the world, yet fewer
 have been reported to enjoy reading. The decline in reading enjoyment may

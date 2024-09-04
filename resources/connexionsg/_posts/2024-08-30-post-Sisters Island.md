@@ -1,6 +1,6 @@
 ---
 title: Sisters Island
-permalink: /islandsofsingapore-sisters-island/
+permalink: /resources/connexionsg/islandsofsingapore-sisters-island/
 date: 2024-08-30
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Tuas Port
-permalink: /heritage-tuas-port/
+permalink: /resources/connexionsg/heritage-tuas-port/
 date: 2024-09-02
 layout: post
 description: ""
