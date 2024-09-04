@@ -42,4 +42,6 @@ and the role it plays in enhancing Singapore's position as a global maritime
 hub.</p>
 <p>Why not join a tour to learn more about the Singapore’s maritime industry?
 Sign up at: <a href="https://www.lionheartlanders.com/singapore-maritime-discoveries" rel="noopener nofollow" target="_blank">https://www.lionheartlanders.com/singapore-maritime-discoveries</a>
-</p>
+<br>
+<br>Visit <a href="https://www.facebook.com/ConnexionSG" rel="noopener nofollow" target="_blank">Facebook</a> and
+<a href="https://www.instagram.com/connexionsg/" rel="noopener nofollow" target="_blank">Instagram</a>for more content.</p>
