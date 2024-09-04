@@ -107,11 +107,6 @@ sections:
         Exhibition commemorates 40 years of TD in Singapore and showcases how TD
         is integral to addressing threats and challenges.
       cards:
-        - title: TD40 Roving Exhibitions
-          description: Roving abridged exhibitions will make public appearances islandwide
-            in 2024.
-          linktext: Click here for the schedule
-          url: https://go.gov.sg/sg101td
         - title: Facilitation and Self-help Guides for Exhibitions
           description: Visitor guides are available for download.
           linktext: Click here to download the guides
