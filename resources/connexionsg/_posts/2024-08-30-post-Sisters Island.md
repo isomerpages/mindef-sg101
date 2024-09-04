@@ -44,5 +44,7 @@ accessibility to the island, and ensure that more people can experience
 its rich biodiversity and tranquil beauty once it reopens​.</p>
 <p>Are you excited to visit Sisters’ Islands when it reopens? Tell us in
 the comments below what you are most excited to see!</p>
-<p>Image credits: <a href="https://www.facebook.com/nparksbuzz?__cft__[0]=AZWTWPc9b6_bLVRPQiIlY8RG6owBkCajvZ_i8Pef-k9p9gZyvcf7s8_UK4PRS6yH8lYsEQBJpZYqvHC2RE4_uT59yIRDsPFBHOqkoEa1xXjc5KEQi2Fx3X_wt25gSb2z-gaCxjuxBlu0YWyps0Y8R99zk28o6RxrrkTHSa2w3WbgB9XsWnQY89KQQRLdnXzsNYUSvNSipHMQBzQllN10w3K1&amp;__tn__=-]K-R" class="x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x1sur9pj xkrqix3 x1fey0fg xo1l8bm" rel="noopener noreferrer nofollow" target="_blank">NParks </a>
-</p>
+<p>Image credits: <a href="https://www.facebook.com/nparksbuzz?__cft__[0]=AZWTWPc9b6_bLVRPQiIlY8RG6owBkCajvZ_i8Pef-k9p9gZyvcf7s8_UK4PRS6yH8lYsEQBJpZYqvHC2RE4_uT59yIRDsPFBHOqkoEa1xXjc5KEQi2Fx3X_wt25gSb2z-gaCxjuxBlu0YWyps0Y8R99zk28o6RxrrkTHSa2w3WbgB9XsWnQY89KQQRLdnXzsNYUSvNSipHMQBzQllN10w3K1&amp;__tn__=-]K-R" class="x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x1sur9pj xkrqix3 x1fey0fg xo1l8bm" rel="noopener noreferrer nofollow" target="_blank">NParks</a>
+<br>
+<br>Visit <a href="https://www.facebook.com/ConnexionSG" rel="noopener nofollow" target="_blank">Facebook</a> and
+<a href="https://www.instagram.com/connexionsg/" rel="noopener nofollow" target="_blank">Instagram</a>for more content.</p>
