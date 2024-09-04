@@ -37,4 +37,7 @@ some 20,000 volunteers. It enabled Singaporean youths to build confidence
 and skills as they took on various roles at the YOG, as well as showcased
 Singapore’s hospitality, friendship, efficiency and dynamism to the world.</p>
 <p>The YOG is no doubt one of the memorable highlights of Singapore’s sporting
-history that Singaporeans can be proud of.</p>
+history that Singaporeans can be proud of.
+<br>
+<br>Visit <a href="https://www.facebook.com/ConnexionSG" rel="noopener nofollow" target="_blank">Facebook</a> and
+<a href="https://www.instagram.com/connexionsg/" rel="noopener nofollow" target="_blank">Instagram</a>for more content.</p>
