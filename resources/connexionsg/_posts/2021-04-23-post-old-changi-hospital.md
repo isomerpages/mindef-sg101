@@ -3,14 +3,13 @@ title: Old Changi Hospital
 date: 2021-04-23
 permalink: /resources/connexionsg/oldchangihospital/
 layout: post
+variant: markdown
 ---
-#### Changi's (Not So Hidden) Hospital
-
 On the far flung eastern coast of Singapore lies Changi Point, famed for its rustic charms and coastal boardwalk. Last week, Urban Redevelopment Authority and Singapore Land Authority launched a contest for ideas to rejuvenate the area.
 
 Changi Point is also where the Old Changi Hospital sits along Netheravon Road. Many say it’s haunted, but after digging deeper, we found that it's more than just another creepy old building.
 
-Watch the Stumbling video <a href="https://www.facebook.com/watch/?ref=saved&v=549543989768233" target="_blank">here:</a>
-<a href="https://www.facebook.com/watch/?ref=saved&v=549543989768233" target="_blank"><img src="/images/stumbling_changihosp.png" ></a>
+Watch the Stumbling video <a href="https://www.facebook.com/watch/?ref=saved&amp;v=549543989768233" target="_blank">here:</a>
+<a href="https://www.facebook.com/watch/?ref=saved&amp;v=549543989768233" target="_blank"><img src="/images/stumbling_changihosp.png"></a>
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) &amp; [Instagram](https://www.instagram.com/connexionsg/) for more content.
