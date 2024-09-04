@@ -5,7 +5,6 @@ permalink: /resources/connexionsg/goldenmilegazetted/
 layout: post
 variant: markdown
 ---
-
 ![Alt text for image on Isomer site](/images/goldenmile1.jpeg)
 The iconic Gold Mile Complex is here to stay - after being gazetted as a conserved building on 22 Oct 2021.
 
