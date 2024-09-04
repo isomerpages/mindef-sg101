@@ -48,5 +48,5 @@ commemorating the FPDA's 50th anniversary: https://www.facebook.com/mindefsg/vid
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/fpda5.jpeg">
 </div>
 <h6>2021: The FPDA member-nations participated in a flypast and naval vessel display to commemorate the FPDA's 50th anniversary on 18 October 2021. (Image: MINDEF)</h6>
-<p>Visit ConnexionSG <a href="https://www.facebook.com/ConnexionSG" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> &amp; <a href="https://www.instagram.com/connexionsg/" rel="noopener nofollow" target="_blank">Instagram</a>for
+<p>Visit ConnexionSG <a href="https://www.facebook.com/ConnexionSG" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> &amp; <a href="https://www.instagram.com/connexionsg/" rel="noopener nofollow" target="_blank">Instagram</a> for
 more content.</p>
