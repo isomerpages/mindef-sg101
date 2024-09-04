@@ -1,10 +1,11 @@
 ---
-title: Singapore's National Reserves (CXSG FB)
-permalink: /resources/connexionsg/singaporesnationalreserves/
+title: Singapore's National Reserves
+permalink: /resources/connexionsg/economy-singapores-national-reserves/
 date: 2023-08-18
 layout: post
-description: ""
+description: national reserves singapore
 image: ""
+variant: tiptap
 ---
 ![](/images/connexionsg/2023/our%20national%20reserves.jpg)
 

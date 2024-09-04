@@ -1,10 +1,11 @@
 ---
-title: 2023 National Day Parade
-permalink: /resources/connexionsg/2023nationaldayparade/
+title: National Day Parade 2023
+permalink: /resources/connexionsg/identity-singapores-national-day-parade-2023/
 date: 2023-08-09
 layout: post
-description: ""
+description: national day singapore
 image: ""
+variant: tiptap
 ---
 ![](/images/connexionsg/2023/ndp%202023.PNG)
 📷: NDP2023 (Samuel Tay)
