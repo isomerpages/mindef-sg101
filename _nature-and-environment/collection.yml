@@ -2,5 +2,4 @@ collections:
   nature-and-environment:
     output: true
     order:
-      - local-water-catchment.md
       - intertidal-life-in-singapore.md
