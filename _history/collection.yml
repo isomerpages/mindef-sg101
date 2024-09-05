@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - singapores-first/.keep
-      - singapores-first/Singapore's First National Campaign.md
       - singapores-first/Singapore's First Bicycle Licence.md
       - singapores-first/Singapore's First Newspaper.md
       - singapores-first/Singapore's First Mobile Library Service.md
