@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - singapores-first/.keep
-      - singapores-first/Singapore's First Mobile Library Service.md
       - singapores-first/Singapore's First Post Independence Currency Notes.md
       - singapores-first/Singapore's First Underground Ammunition Storage
         Facility.md
