@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - streets-of-singapore/.keep
-      - streets-of-singapore/out-of-place.md
       - streets-of-singapore/our-streets-of-singapore.md
       - streets-of-singapore/eredias-1604-map-of-singapore.md
       - hereitage/.keep
