@@ -1,6 +1,0 @@
-collections:
-  places:
-    output: true
-    order:
-      - hereitage/.keep
-      - hereitage/silat-road-sikh-temple.md
