@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - food-for-thought/.keep
-      - food-for-thought/rojak.md
       - food-for-thought/types-of-kopitiam-kopi.md
       - food-for-thought/putu-mayam.md
       - food-for-thought/test-1.md
