@@ -2,8 +2,6 @@ collections:
   places:
     output: true
     order:
-      - streets-of-singapore/.keep
-      - streets-of-singapore/eredias-1604-map-of-singapore.md
       - hereitage/.keep
       - hereitage/church-of-the-blessed-sacrament.md
       - hereitage/kampong-silat-estate.md
