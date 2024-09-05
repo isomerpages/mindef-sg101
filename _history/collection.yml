@@ -2,8 +2,6 @@ collections:
   history:
     output: true
     order:
-      - singapores-last/.keep
-      - singapores-last/Singapore's Last Mainland Village.md
       - sg-eastern-waters-shipwrecks/.keep
       - sg-eastern-waters-shipwrecks/Artefacts Uncovered from Shipwrecks in
         Singapore's Eastern Waters.md
