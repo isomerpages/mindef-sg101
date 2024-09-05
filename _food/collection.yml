@@ -1,6 +1,0 @@
-collections:
-  food:
-    output: true
-    order:
-      - food-for-thought/.keep
-      - food-for-thought/putu-mayam.md
