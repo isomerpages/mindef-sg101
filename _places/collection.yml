@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - hereitage/.keep
-      - hereitage/kampong-silat-estate.md
       - hereitage/silat-road-sikh-temple.md
