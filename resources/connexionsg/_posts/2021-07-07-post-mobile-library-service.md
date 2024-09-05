@@ -3,6 +3,7 @@ title: Mobile Library Service
 date: 2021-07-07
 permalink: /resources/connexionsg/mobilelibrary/
 layout: post
+variant: markdown
 ---
 Before independence, most of Singapore's population was illiterate because, as former Minister for Education Dr Goh Keng Swee said,  “the colonial government did not feel any responsibility to provide universal education. Hence education was the privilege of a minority of families who could afford to send their children to school.” 
 
@@ -16,4 +17,4 @@ In 2008, Molly made a comeback, to cater to those with difficulty accessing publ
 
 Molly buses continue to travel across Singapore today, so that people, from literally all walks of life, can enjoy the company of books.
 
-Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
+Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/) for more content.
