@@ -2,9 +2,6 @@ collections:
   history:
     output: true
     order:
-      - sg-eastern-waters-shipwrecks/.keep
-      - sg-eastern-waters-shipwrecks/Artefacts Uncovered from Shipwrecks in
-        Singapore's Eastern Waters.md
       - singapores-first/.keep
       - singapores-first/Singapore's First National Campaign.md
       - singapores-first/Singapore's First Bicycle Licence.md
