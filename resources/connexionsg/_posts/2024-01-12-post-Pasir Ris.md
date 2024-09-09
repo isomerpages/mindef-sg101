@@ -11,7 +11,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pasir_ris.png">
 </div>
-<p></p>
+<p>📷: Pasir Ris Park, taken from National Heritage Board</p>
 <p></p>
 <p>Most of us are familiar with Pasir Ris as “white sand”, but did you know
 it is also speculated to be a contraction of “Pasir Iris”, where Pasir
