@@ -8,7 +8,9 @@ image: ""
 variant: tiptap
 ---
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pasir_ris.png">
+</div>
 <p></p>
 <p></p>
 <p>Most of us are familiar with Pasir Ris as “white sand”, but did you know
