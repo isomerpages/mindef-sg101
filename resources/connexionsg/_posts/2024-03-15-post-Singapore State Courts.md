@@ -9,7 +9,10 @@ variant: tiptap
 ---
 <p></p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/connexionsg/State_Courts.png">
+</div>
+<p>📷: State Courts Towers (The State Courts of Singapore)</p>
 <p></p>
 <p><strong><a href="https://www.facebook.com/hashtag/til?__eep__=6&amp;__cft__[0]=AZWaNsXTc9_iuVNGH11_ckj8P1NcEynS4HVYo56qLdd8YHRJMgsABmVs-vFxb4CQYXsRUvlrQfTIL2eMsiKgBrBnsRFd-nKX_e3Iy-phixptFOKvxutWdaImuOFqLD0AenoO8gQk7A-wp0f6KUZlscgdJTUaMlqfvgaJzqFPLeHcjhupPyhL7MiMoFlWuK_2bpdN47QWVzGSDbzl5KhHrOQO&amp;__tn__=*NK-R" class="x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x1sur9pj xkrqix3 x1fey0fg x1s688f" rel="noopener noreferrer nofollow" target="_blank">#TIL</a></strong> it’s
 been 10 years since the Subordinate Courts were renamed as the State Courts,
