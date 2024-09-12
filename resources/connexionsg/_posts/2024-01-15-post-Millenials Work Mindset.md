@@ -17,4 +17,5 @@ variant: tiptap
 in the comments!</p>
 <p>Visit <a href="https://www.facebook.com/ConnexionSG" rel="noopener noreferrer nofollow" target="blank">ConnexionSG Facebook</a> and
 <a href="https://www.instagram.com/connexionsg/" rel="noopener noreferrer nofollow" target="_blank">ConnexionSG Instagram</a>for more content.</p>
-<p></p>
+<p>Watch Video here : <a href="https://www.instagram.com/reel/C2HCeS9SUwb/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/reel/C2HCeS9SUwb/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==</a>
+</p>
