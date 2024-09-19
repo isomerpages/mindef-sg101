@@ -2,7 +2,6 @@ collections:
   defence-and-security:
     output: true
     order:
-      - Testing/.keep
       - Our Fundamentals.md
       - Challenges/.keep
       - Challenges/A Small Country.md
