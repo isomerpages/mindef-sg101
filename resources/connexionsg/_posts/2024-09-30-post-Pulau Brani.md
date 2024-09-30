@@ -37,5 +37,5 @@ a futuristic discovery park. Nature lovers can enjoy the ridgeline, which
 will offer nature and heritage attractions connecting Mount Faber, Pulau
 Brani, Mount Serapong and Mount Imbiah to Fort Siloso.</p>
 <p>Are you excited about the Greater Sentosa Master Plan?</p>
-<p></p>
-<p></p>
+<p>Visit <a href="https://www.facebook.com/ConnexionSG" rel="noopener nofollow" target="_blank">Facebook</a> and
+<a href="https://www.instagram.com/connexionsg/" rel="noopener nofollow" target="_blank">Instagram</a>for more content.</p>
