@@ -21,5 +21,5 @@ the impact of rising of sea levels.
 by climate change will have devastating impact on our environment and economy.
 Let us peer into our “crystal ball” to find out the potential impact of
 climate change and how you and I can play a part!</p>
-<p></p>
-<p></p>
+<p>Visit <a href="https://www.facebook.com/ConnexionSG" rel="noopener nofollow" target="_blank">Facebook</a> and
+<a href="https://www.instagram.com/connexionsg/" rel="noopener nofollow" target="_blank">Instagram</a>for more content.</p>
