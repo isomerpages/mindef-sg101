@@ -10,6 +10,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/connexionsg/2023/sisters_island.jpg">
 </div>
+<p>Watch the video here: <a href="https://www.instagram.com/reel/C_u_Ngbsia9/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/reel/C_u_Ngbsia9/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==</a>
+</p>
 <p>Did you know that Sisters' Islands, located just off the southern coast
 of Singapore, hold a special place in the heart of our nation? Comprising
 Pulau Subar Laut (Big Sister’s Island) and Pulau Subar Darat (Little Sister’s
