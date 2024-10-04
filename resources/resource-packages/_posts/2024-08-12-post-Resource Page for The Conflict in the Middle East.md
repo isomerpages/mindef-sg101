@@ -37,6 +37,8 @@ Further updates will be made to this resource page as the situation continues to
 
 <a target="blank" href="https://www.straitstimes.com/singapore/un-cannot-allow-violations-of-international-law-to-become-normalised-says-vivian">UN cannot allow violations of international law to become normalised, says Vivian Balakrishnan</a>, The Straits Times, 29 Sep 2024
 
+<a target="blank" href="https://www.straitstimes.com/singapore/s-pore-charity-transfers-final-tranche-of-11m-raised-during-ramadan-for-gaza-to-unicef">S’pore charity transfers final tranche of $1.1m raised during Ramadan for Gaza to Unicef</a>, The Straits Times, 4 Sep 2024
+
 <a target="blank" href="https://www.straitstimes.com/singapore/gps-jamming-harsh-environment-rsaf-aircrew-recount-challenges-of-gaza-airdrops">GPS Jamming, Harsh Environment: RSAF Aircrew Recount Challenges of Gaza Airdrops</a>, The Straits Times, 29 Jun 2024
 
 <a target="blank" href="https://www.channelnewsasia.com/singapore/israel-embassy-singapore-palestine-facebook-post-shanmugam-4219541">Israeli Embassy Told To Take Down 'Completely Unacceptable' Facebook Post on Palestine: Shanmugam</a>, Channel News Asia, 25 Mar 2024
