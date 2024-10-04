@@ -83,7 +83,7 @@ Further updates will be made to this resource page as the situation continues to
 
 <a target="blank" href="https://www.channelnewsasia.com/world/israel-and-hezbollah-decades-conflict-4648181">Israel and Hezbollah: Decades of conflict</a>, Channel News Asia, 30 Sep 2024
 
-<a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-war-strikes-gaza-wider-war-4541961">Israel keeps up strikes in Gaza as fears of wider war grow</a>, Straits Times, 29 Sep 2024
+<a target="blank" href="https://www.straitstimes.com/world/middle-east/israel-carries-out-raids-on-dozens-of-hezbollah-targets-in-lebanon-idf">Israel keeps up strikes in Gaza as fears of wider war grow</a>, Straits Times, 29 Sep 2024
 
 <a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-war-strikes-gaza-wider-war-4541961">Israel keeps up strikes in Gaza as fears of wider war grow</a>, Channel News Asia, 12 Aug 2024
 
