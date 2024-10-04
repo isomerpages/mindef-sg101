@@ -55,7 +55,7 @@ Further updates will be made to this resource page as the situation continues to
 
 <a target="blank" href="https://www.channelnewsasia.com/world/us-urges-israel-let-muslims-worship-al-aqsa-during-ramadan-4157671">Israel's Response to Hamas Attack Has 'Gone Too Far', But Severing Ties Would Not Help Palestinians, Says Singapore</a>, Channel News Asia, 29 Feb 2024
 
-<a target="blank" href="https://www.straitstimes.com/singapore/saf-sends-medical-team-to-egypt-to-treat-casualties-from-gaza">SAF Sends Medical Team to Egypt to Treat Casualties From Gaza</a>, Straits Times, 19 Jan 2024
+<a target="blank" href="https://www.straitstimes.com/singapore/saf-sends-medical-team-to-egypt-to-treat-casualties-from-gaza">SAF Sends Medical Team to Egypt to Treat Casualties From Gaza</a>, The Straits Times, 19 Jan 2024
 
 <a target="blank" href="https://www.channelnewsasia.com/singapore/singapore-rsaf-urgent-aid-gaza-civilians-israel-hamas-war-3954321">Blankets, Medical Supplies, Water Filters: RSAF Aircraft Loaded With Gaza Aid Arrives in Egypt</a>, Channel News Asia, 30 Nov 2023
 
@@ -83,7 +83,7 @@ Further updates will be made to this resource page as the situation continues to
 
 <a target="blank" href="https://www.channelnewsasia.com/world/israel-and-hezbollah-decades-conflict-4648181">Israel and Hezbollah: Decades of conflict</a>, Channel News Asia, 30 Sep 2024
 
-<a target="blank" href="https://www.straitstimes.com/world/middle-east/israel-carries-out-raids-on-dozens-of-hezbollah-targets-in-lebanon-idf">Israel keeps up strikes in Gaza as fears of wider war grow</a>, Straits Times, 29 Sep 2024
+<a target="blank" href="https://www.straitstimes.com/world/middle-east/israel-carries-out-raids-on-dozens-of-hezbollah-targets-in-lebanon-idf">Israel keeps up strikes in Gaza as fears of wider war grow</a>, The Straits Times, 29 Sep 2024
 
 <a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-war-strikes-gaza-wider-war-4541961">Israel keeps up strikes in Gaza as fears of wider war grow</a>, Channel News Asia, 12 Aug 2024
 
