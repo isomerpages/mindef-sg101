@@ -43,6 +43,8 @@ Further updates will be made to this resource page as the situation continues to
 
 <a target="blank" href="https://www.channelnewsasia.com/singapore/gaza-aid-israel-hamas-war-settlements-west-bank-east-jerusalem-illegal-icj-famine-food-insecurity-4495971">Singapore to deliver fourth tranche of aid to Gaza; studying ICJ’s advisory on Israeli settlements</a>, Channel News Asia, 22 Jul 2024
 
+<a target="blank" href="https://www.straitstimes.com/singapore/politics/singapore-prepared-in-principle-to-recognise-palestine-as-a-state-at-appropriate-time-vivian">Singapore prepared in principle to recognise Palestine as a state at appropriate time: Vivian</a>, The Straits Times, 3 Jul 2024
+
 <a target="blank" href="https://www.straitstimes.com/singapore/gps-jamming-harsh-environment-rsaf-aircrew-recount-challenges-of-gaza-airdrops">GPS Jamming, Harsh Environment: RSAF Aircrew Recount Challenges of Gaza Airdrops</a>, The Straits Times, 29 Jun 2024
 
 <a target="blank" href="https://www.straitstimes.com/singapore/gps-jamming-harsh-environment-rsaf-aircrew-recount-challenges-of-gaza-airdrops">GPS Jamming, Harsh Environment: RSAF Aircrew Recount Challenges of Gaza Airdrops</a>, The Straits Times, 29 Jun 2024
