@@ -93,11 +93,11 @@ Further updates will be made to this resource page as the situation continues to
 
 <a target="blank" href="https://www.channelnewsasia.com/world/us-plans-international-coalition-counter-red-sea-attacks-3997746">US Announces 10-Nation Coalition to Combat Houthi Attacks in Red Sea</a>, Channel News Asia, 19 Dec 2022
 
-<a target="blank" href="https://www.youtube.com/watch?v=pyo1ff69LaY">Israel-Hamas war: Worldwide Protests as Nations Ramp up security</a>, Straits Times, 13 Oct 2023
+<a target="blank" href="https://www.youtube.com/watch?v=pyo1ff69LaY">Israel-Hamas war: Worldwide Protests as Nations Ramp up security</a>, The Straits Times, 13 Oct 2023
 
 <a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-surprise-attack-gaza-strikes-3828731">Israel Vows ‘Mighty Vengeance’ after Surprise Attack by Hamas Kills Hundreds</a>, Channel News Asia, 9 Oct 2023
 
-<a target="blank" href="https://www.straitstimes.com/world/middle-east/sirens-warning-of-incoming-rockets-sound-around-gaza-near-tel-aviv">Netanyahu Declares Israel at war as Hamas attacks Kill Over 100</a>, Straits Times, 9 Oct 2023
+<a target="blank" href="https://www.straitstimes.com/world/middle-east/sirens-warning-of-incoming-rockets-sound-around-gaza-near-tel-aviv">Netanyahu Declares Israel at war as Hamas attacks Kill Over 100</a>, The Straits Times, 9 Oct 2023
 
 <a target="blank" href="https://www.channelnewsasia.com/world/what-palestinian-group-hamas-3828851">What is the Palestinian group Hamas?</a>, Channel News Asia, 8 Oct 2023
 
