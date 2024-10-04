@@ -107,6 +107,8 @@ Further updates will be made to this resource page as the situation continues to
 
 (Transcript) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/09/20240928-UNGA-Doorstop-Interview">Transcript of Minister for Foreign Affairs Dr Vivian Balakrishnan's Wrap-Up Interview with Singapore Media During the 79th Session of the United Nations General Assembly High-Level Week in New York, 27 September 2024</a>, Ministry of Foreign Affairs, 28 Sep 2024
 
+(Transcript) <a target="blank" href="https://www.mindef.gov.sg/news-and-events/latest-releases/25jun24_speech">Speech by Minister for Defence, Dr Ng Eng Hen, at the Overseas Service Medal Presentation Ceremony on 25 Jun 2024</a>, Ministry of Foreign Affairs, 25 Jun 2024
+
 (Transcript) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/08/Min-FA-PQ-Oral-Reply-August-2024">Minister for Foreign Affairs Dr Vivian Balakrishnan's Oral Reply to Parliamentary Questions on the Israeli-Palestinian Conflict, 7 August 2024</a>, Ministry of Foreign Affairs, 7 Aug 2024
 
 (Transcript) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/03/FM-Dr-Vivian-Balakrishnan-Doorstop-Interview-in-Israel-on-20-March-2024">Transcript of Minister for Foreign Affairs Dr Vivian Balakrishnan's Doorstop Interview in Israel on 20 March 2024</a>, Ministry of Foreign Affairs, 20 Mar 2024
