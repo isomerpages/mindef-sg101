@@ -83,6 +83,8 @@ Further updates will be made to this resource page as the situation continues to
 
 <a target="blank" href="https://www.channelnewsasia.com/world/israel-and-hezbollah-decades-conflict-4648181">Israel and Hezbollah: Decades of conflict</a>, Channel News Asia, 30 Sep 2024
 
+<a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-war-strikes-gaza-wider-war-4541961">Israel keeps up strikes in Gaza as fears of wider war grow</a>, Straits Times, 29 Sep 2024
+
 <a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-war-strikes-gaza-wider-war-4541961">Israel keeps up strikes in Gaza as fears of wider war grow</a>, Channel News Asia, 12 Aug 2024
 
 <a target="blank" href="https://www.channelnewsasia.com/singapore/israel-hamas-war-hezbollah-ismail-haniyeh-mohammed-deif-fuad-shukr-mfa-4519716">Singapore 'deeply concerned' about recent Middle East developments, including killing of Hamas chief Haniyeh</a>, Channel News Asia, 1 Aug 2024
