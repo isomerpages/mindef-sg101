@@ -41,6 +41,8 @@ Further updates will be made to this resource page as the situation continues to
 
 <a target="blank" href="https://www.straitstimes.com/singapore/we-do-not-take-sides-we-uphold-principles-vivian-on-singapore-s-foreign-policy-approach">‘We do not take sides, we uphold principles’: Vivian on Singapore’s foreign policy approach</a>, The Straits Times, 28 Aug 2024
 
+<a target="blank" href="https://www.channelnewsasia.com/singapore/gaza-aid-israel-hamas-war-settlements-west-bank-east-jerusalem-illegal-icj-famine-food-insecurity-4495971">Singapore to deliver fourth tranche of aid to Gaza; studying ICJ’s advisory on Israeli settlements</a>, Channel News Asia, 22 Jul 2024
+
 <a target="blank" href="https://www.straitstimes.com/singapore/gps-jamming-harsh-environment-rsaf-aircrew-recount-challenges-of-gaza-airdrops">GPS Jamming, Harsh Environment: RSAF Aircrew Recount Challenges of Gaza Airdrops</a>, The Straits Times, 29 Jun 2024
 
 <a target="blank" href="https://www.straitstimes.com/singapore/gps-jamming-harsh-environment-rsaf-aircrew-recount-challenges-of-gaza-airdrops">GPS Jamming, Harsh Environment: RSAF Aircrew Recount Challenges of Gaza Airdrops</a>, The Straits Times, 29 Jun 2024
