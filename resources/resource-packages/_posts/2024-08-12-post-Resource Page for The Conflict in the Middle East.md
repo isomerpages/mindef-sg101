@@ -63,7 +63,7 @@ Further updates will be made to this resource page as the situation continues to
 
 ****
 
-**Key Event Updates**
+**Key Developments**
 
 <a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-war-strikes-gaza-wider-war-4541961">Israel keeps up strikes in Gaza as fears of wider war grow</a>, Channel News Asia, 12 Aug 2024
 
