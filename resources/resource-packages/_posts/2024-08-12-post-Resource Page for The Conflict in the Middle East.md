@@ -33,6 +33,10 @@ Further updates will be made to this resource page as the situation continues to
 
 **Key Reports From Singapore**
 
+<a target="blank" href="https://www.straitstimes.com/world/middle-east/singapore-will-work-with-middle-east-partners-to-do-more-to-deliver-humanitarian-assistance-vivian">Singapore will work with Middle East partners to do more to deliver humanitarian aid: Vivian</a>, The Straits Times, 29 Sep 2024
+
+<a target="blank" href="https://www.straitstimes.com/singapore/un-cannot-allow-violations-of-international-law-to-become-normalised-says-vivian">UN cannot allow violations of international law to become normalised, says Vivian Balakrishnan</a>, The Straits Times, 29 Sep 2024
+
 <a target="blank" href="https://www.straitstimes.com/singapore/gps-jamming-harsh-environment-rsaf-aircrew-recount-challenges-of-gaza-airdrops">GPS Jamming, Harsh Environment: RSAF Aircrew Recount Challenges of Gaza Airdrops</a>, The Straits Times, 29 Jun 2024
 
 <a target="blank" href="https://www.channelnewsasia.com/singapore/israel-embassy-singapore-palestine-facebook-post-shanmugam-4219541">Israeli Embassy Told To Take Down 'Completely Unacceptable' Facebook Post on Palestine: Shanmugam</a>, Channel News Asia, 25 Mar 2024
