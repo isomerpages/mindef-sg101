@@ -61,13 +61,13 @@ Further updates will be made to this resource page as the situation continues to
 
 <a target="blank" href="https://www.channelnewsasia.com/singapore/shanmugam-anti-singapore-sentiments-online-after-oct-7-hamas-israel-3948091">Rise in Anti-Singapore Sentiment Online Since Israel-Hamas Hostilities: Shanmugam</a>, Channel News Asia, 27 Nov 2023
 
-<a target="blank" href="https://www.straitstimes.com/singapore/politics/pap-wp-and-psp-condemn-violence-against-civilians-in-israel-hamas-war-urge-cohesion-and-harmony">PAP, WP and PSP Condemn Violence Against Civilians in Israel-Hamas War, Urge Cohesion and Harmony</a>, Straits Times, 7 Nov 2023
+<a target="blank" href="https://www.straitstimes.com/singapore/politics/pap-wp-and-psp-condemn-violence-against-civilians-in-israel-hamas-war-urge-cohesion-and-harmony">PAP, WP and PSP Condemn Violence Against Civilians in Israel-Hamas War, Urge Cohesion and Harmony</a>, The Straits Times, 7 Nov 2023
 
 <a target="blank" href="https://www.channelnewsasia.com/singapore/israel-hamas-conflict-stark-reminder-singapore-national-interests-stake-vivian-balakrishnan-3899991?cid=telegram_cna_social_28112017_cna">Israel-Hamas Conflict a 'Reminder' for Singapore That It Has National Interests at Stake: Vivian Balakrishnan</a>, Channel News Asia, 6 Nov 2023
 
 <a target="blank" href="https://www.channelnewsasia.com/singapore/singapore-vote-resolution-gaza-israel-hamas-conflict-humanitarian-civilians-united-nations-3879266">Singapore Votes In Favour of UN Resolution to Protect Civilans, Uphold Humanitarian Obligations in Gaza Strip</a>, Channel News Asia, 28 Oct 2023
 
-<a target="blank" href="https://www.straitstimes.com/singapore/community/protection-of-civilians-more-aid-needed-to-prevent-catastrophe-in-gaza-president-tharman">Protection of Civilians, More Aid Needed to Prevent Catastrophe in Gaza</a>, Straits Times, 22 Oct 2023
+<a target="blank" href="https://www.straitstimes.com/singapore/community/protection-of-civilians-more-aid-needed-to-prevent-catastrophe-in-gaza-president-tharman">Protection of Civilians, More Aid Needed to Prevent Catastrophe in Gaza</a>, The Straits Times, 22 Oct 2023
 
 <a target="blank" href="https://www.channelnewsasia.com/singapore/sensible-singapore-maintain-relations-israel-palestinians-provide-aid-civilians-conflict-pm-lee-hsien-loong-3861481">PM Lee Explains Importance for Singapore to Maintain Relations With Israelis and Palestinians, Provide Aid to Civilians</a>, Channel News Asia, 20 Oct 2023
 
