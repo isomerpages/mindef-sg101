@@ -111,6 +111,8 @@ Further updates will be made to this resource page as the situation continues to
 
 (Transcript) <a target="blank" href="https://www.mindef.gov.sg/news-and-events/latest-releases/25jun24_speech">Speech by Minister for Defence, Dr Ng Eng Hen, at the Overseas Service Medal Presentation Ceremony on 25 Jun 2024</a>, Ministry of Foreign Affairs, 25 Jun 2024
 
+(Transcript) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/07/20240722-4th-Tranche-Aid-to-Gaza">Handover Ceremony for the Fourth Tranche of Humanitarian Assistance for Gaza, 22 July 2024</a>, Ministry of Foreign Affairs, 22 Jul 2024
+
 (Transcript) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/03/FM-Dr-Vivian-Balakrishnan-Doorstop-Interview-in-Israel-on-20-March-2024">Transcript of Minister for Foreign Affairs Dr Vivian Balakrishnan's Doorstop Interview in Israel on 20 March 2024</a>, Ministry of Foreign Affairs, 20 Mar 2024
 
 (Statement) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/03/FM-Visit-to-Israel">Working Visit of Minister for Foreign Affairs Dr Vivian Balakrishnan to the State of Israel, 19 to 20 March 2024</a>, Ministry of Foreign Affairs, 20 Mar 2024
