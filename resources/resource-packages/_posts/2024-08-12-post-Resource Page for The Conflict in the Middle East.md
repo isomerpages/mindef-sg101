@@ -69,29 +69,9 @@ Further updates will be made to this resource page as the situation continues to
 
 <a target="blank" href="https://www.channelnewsasia.com/singapore/israel-hamas-war-hezbollah-ismail-haniyeh-mohammed-deif-fuad-shukr-mfa-4519716">Singapore 'deeply concerned' about recent Middle East developments, including killing of Hamas chief Haniyeh</a>, Channel News Asia, 1 Aug 2024
 
-<a target="blank" href="https://www.channelnewsasia.com/world/iran-retaliation-israel-hamas-war-drones-missiles-4263776?cid=internal_app-web-view_androidphone_15042024_cna">Iran Launches Retaliatory Attack on Israel With Hundreds of Drones, Missiles</a>, Channel News Asia, 14 Apr 202[](/files/Updated_NE_Insights_on_the_Middle_East_Conflict_compressed.pdf)4
-
-<a target="blank" href="https://www.channelnewsasia.com/world/gaza-ceasefire-israel-hamas-war-blinken-un-vote-4214061">Blinken Heads to Israel to Press for 'Immediate' Truce in Gaza Ahead of UN Vote</a>, Channel News Asia, 22 Mar 2024
-
-<a target="blank" href="https://www.channelnewsasia.com/world/blinken-says-us-working-bridge-remaining-gaps-hamas-israel-deal-4199091">Blinken Says US Working to 'Bridge Remaining Gaps' On Hamas-Israel Deal</a>, Channel News Asia, 16 Mar 2024
-
-<a target="blank" href="https://www.channelnewsasia.com/world/israel-approves-plan-attack-rafah-keeps-truce-hopes-alive-4199416">Israel Approves plan to Attack Rafah but Keeps Truce Hopes Alive</a>, Channel News Asia, 16 Mar 2024
-
-<a target="blank" href="https://www.channelnewsasia.com/world/unrwa-gaza-united-nations-israel-hamas-humanitarian-aid-halved-suspended-4159371">UNRWA Says Humanitarian Aid to Gaza Has Halved, Appeaks For More Donations</a>, Channel News Asia, 29 Feb 2024
-
 <a target="blank" href="https://www.channelnewsasia.com/commentary/red-sea-suez-canal-houthi-shipping-delay-cost-4004226">Commentary: Red Sea Attacks on Cargo Ships Could Disrupt Deliveries and Push Up Prices</a>, Channel News Asia, 22 Dec 2023
 
 <a target="blank" href="https://www.channelnewsasia.com/world/us-plans-international-coalition-counter-red-sea-attacks-3997746">US Announces 10-Nation Coalition to Combat Houthi Attacks in Red Sea</a>, Channel News Asia, 19 Dec 2022
-
-<a target="blank" href="https://www.channelnewsasia.com/world/us-official-palestinian-authority-control-gaza-west-bank-3990471">Revamped Palestinian Authority Should Govern Gaza and West Bank, Says Senior US official</a>, Channel News Asia, 15 Dec 2023
-
-<a target="blank" href="https://www.channelnewsasia.com/world/biden-warns-netanyahu-risks-losing-support-israel-hamas-gaza-palestinian-war-3984606">Biden Warns Netanyahu Risks Losing Support for Hamas War</a>, Channel News Asia, 13 Dec 2023
-																																																														
-<a target="blank" href="https://www.channelnewsasia.com/world/un-general-assembly-gaza-humanitarian-ceasefire-israel-hamas-war-3984446">UN General Assembly Overwhelmingly Demands Immediate Humanitarian Ceasefire in Gaza</a>, Channel News Asia, 13 Dec 2023
-
-<a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-gaza-deaths-battles-rage-3980721">Gaza Deaths Pass 18,200 As Battles Rage</a>, Channel News Asia, 12 Dec 2023
-
-<a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-war-gaza-hostage-release-deal-negotiations-qatar-3942191">Israel and Hamas to Start Four-day Truce on Friday: Qatar Mediators</a>, Channel News Asia, 24 Nov 2023
 
 <a target="blank" href="https://www.youtube.com/watch?v=pyo1ff69LaY">Israel-Hamas war: Worldwide Protests as Nations Ramp up security</a>, Straits Times, 13 Oct 2023
 
