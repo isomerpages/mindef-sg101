@@ -25,12 +25,6 @@ Further updates will be made to this resource page as the situation continues to
 
 ****
 
-**Listen**:
-
-<a target="blank" href="https://www.channelnewsasia.com/podcasts/classroom-cce-lessons-difficult-topics-moe-schools-students-heart-matter-podcast-4194666">Heart of the Matter Podcast: How Can Teachers Help Kids Understand Controversial Topics?</a>, Podcast, Channel News Asia, 15 Mar 2024
-
-****
-
 **Key Reports From Singapore**
 
 <a target="blank" href="https://www.straitstimes.com/world/middle-east/singapore-will-work-with-middle-east-partners-to-do-more-to-deliver-humanitarian-assistance-vivian">Singapore will work with Middle East partners to do more to deliver humanitarian aid: Vivian</a>, The Straits Times, 29 Sep 2024
