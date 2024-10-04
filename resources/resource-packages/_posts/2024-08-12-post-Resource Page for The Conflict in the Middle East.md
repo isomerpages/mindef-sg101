@@ -35,13 +35,7 @@ Further updates will be made to this resource page as the situation continues to
 
 <a target="blank" href="https://www.straitstimes.com/singapore/gps-jamming-harsh-environment-rsaf-aircrew-recount-challenges-of-gaza-airdrops">GPS Jamming, Harsh Environment: RSAF Aircrew Recount Challenges of Gaza Airdrops</a>, The Straits Times, 29 Jun 2024
 
-<a target="blank" href="https://www.channelnewsasia.com/singapore/saf-mindef-humanitarian-aid-airdrop-gaza-jordan-israel-hamas-4237206">SAF Team Returns From Gaza Airdrop Mission After Delivering Supplies Equivalent To Over 59,000 Meals</a>, Channel News Asia, 2 Apr 2024
-
 <a target="blank" href="https://www.channelnewsasia.com/singapore/israel-embassy-singapore-palestine-facebook-post-shanmugam-4219541">Israeli Embassy Told To Take Down 'Completely Unacceptable' Facebook Post on Palestine: Shanmugam</a>, Channel News Asia, 25 Mar 2024
-
-<a target="blank" href="https://www.channelnewsasia.com/singapore/first-humanitarian-aid-airdrop-gaza-singapore-rsaf-mfa-israel-hamas-war-4210446">Singapore Completes First Humanitarian Aid Airdrop into Gaza</a>, Channel News Asia, 21 Mar 2024
-
-<a target="blank" href="https://www.channelnewsasia.com/singapore/singapore-gaza-humanitarian-assistance-rsaf-airdrop-jordan-4196956"> Singapore To Deliver Third Tranche of Humanitarian Aid for Gaza</a>, Channel News Asia, 15 Mar 2024
 
 <a target="blank" href="https://www.channelnewsasia.com/singapore/lessons-israel-hamas-conflict-online-representation-teacher-abuse-external-interference-chan-chun-sing-4168581">Online Misrepresentation of MOE Lessons on Israel-Hamas War Led to Abuse Towards Teachers, Potential 'External Interference' Involved: Chan Chun Sing</a>, Channel News Asia, 4 Mar 2024
 
@@ -62,8 +56,6 @@ Further updates will be made to this resource page as the situation continues to
 <a target="blank" href="https://www.straitstimes.com/singapore/community/protection-of-civilians-more-aid-needed-to-prevent-catastrophe-in-gaza-president-tharman">Protection of Civilians, More Aid Needed to Prevent Catastrophe in Gaza</a>, Straits Times, 22 Oct 2023
 
 <a target="blank" href="https://www.channelnewsasia.com/singapore/sensible-singapore-maintain-relations-israel-palestinians-provide-aid-civilians-conflict-pm-lee-hsien-loong-3861481">PM Lee Explains Importance for Singapore to Maintain Relations With Israelis and Palestinians, Provide Aid to Civilians</a>, Channel News Asia, 20 Oct 2023
-
-<a target="blank" href="https://www.straitstimes.com/singapore/singapore-red-cross-pledges-205k-for-relief-efforts-amid-israel-hamas-war">Singapore Red Cross and Government Pledge $505,000 for Relief Efforts Amid Israel-Hamas War</a>, Straits Times, 16 Oct 2023
 
 <a target="blank" href="https://www.channelnewsasia.com/singapore/chief-rabbi-mufti-singapore-solidarity-jewish-muslim-communities-israel-hamas-war-3847391">Singapore's Chief Rabbi, Mufti Reaffirm Solidarity Between Communities Amid 'Senseless' Israel-Hamas War</a>, Channel News Asia, 15 Oct 2023
 
