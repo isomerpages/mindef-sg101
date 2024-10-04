@@ -39,6 +39,8 @@ Further updates will be made to this resource page as the situation continues to
 
 <a target="blank" href="https://www.straitstimes.com/singapore/s-pore-charity-transfers-final-tranche-of-11m-raised-during-ramadan-for-gaza-to-unicef">S’pore charity transfers final tranche of $1.1m raised during Ramadan for Gaza to Unicef</a>, The Straits Times, 4 Sep 2024
 
+<a target="blank" href="https://www.straitstimes.com/singapore/we-do-not-take-sides-we-uphold-principles-vivian-on-singapore-s-foreign-policy-approach">‘We do not take sides, we uphold principles’: Vivian on Singapore’s foreign policy approach</a>, The Straits Times, 28 Aug 2024
+
 <a target="blank" href="https://www.straitstimes.com/singapore/gps-jamming-harsh-environment-rsaf-aircrew-recount-challenges-of-gaza-airdrops">GPS Jamming, Harsh Environment: RSAF Aircrew Recount Challenges of Gaza Airdrops</a>, The Straits Times, 29 Jun 2024
 
 <a target="blank" href="https://www.straitstimes.com/singapore/gps-jamming-harsh-environment-rsaf-aircrew-recount-challenges-of-gaza-airdrops">GPS Jamming, Harsh Environment: RSAF Aircrew Recount Challenges of Gaza Airdrops</a>, The Straits Times, 29 Jun 2024
