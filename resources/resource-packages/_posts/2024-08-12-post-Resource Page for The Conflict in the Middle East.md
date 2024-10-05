@@ -41,8 +41,6 @@ Further updates will be made to this resource page as the situation continues to
 
 <a target="blank" href="https://www.straitstimes.com/singapore/gps-jamming-harsh-environment-rsaf-aircrew-recount-challenges-of-gaza-airdrops">GPS Jamming, Harsh Environment: RSAF Aircrew Recount Challenges of Gaza Airdrops</a>, The Straits Times, 29 Jun 2024
 
-<a target="blank" href="https://www.straitstimes.com/singapore/gps-jamming-harsh-environment-rsaf-aircrew-recount-challenges-of-gaza-airdrops">GPS Jamming, Harsh Environment: RSAF Aircrew Recount Challenges of Gaza Airdrops</a>, The Straits Times, 29 Jun 2024
-
 <a target="blank" href="https://www.channelnewsasia.com/singapore/israel-embassy-singapore-palestine-facebook-post-shanmugam-4219541">Israeli Embassy Told To Take Down 'Completely Unacceptable' Facebook Post on Palestine: Shanmugam</a>, Channel News Asia, 25 Mar 2024
 
 <a target="blank" href="https://www.channelnewsasia.com/singapore/lessons-israel-hamas-conflict-online-representation-teacher-abuse-external-interference-chan-chun-sing-4168581">Online Misrepresentation of MOE Lessons on Israel-Hamas War Led to Abuse Towards Teachers, Potential 'External Interference' Involved: Chan Chun Sing</a>, Channel News Asia, 4 Mar 2024
@@ -77,7 +75,7 @@ Further updates will be made to this resource page as the situation continues to
 
 <a target="blank" href="https://www.channelnewsasia.com/world/israel-and-hezbollah-decades-conflict-4648181">Israel and Hezbollah: Decades of conflict</a>, Channel News Asia, 30 Sep 2024
 
-<a target="blank" href="https://www.straitstimes.com/world/middle-east/israel-carries-out-raids-on-dozens-of-hezbollah-targets-in-lebanon-idf">Israel keeps up strikes in Gaza as fears of wider war grow</a>, The Straits Times, 29 Sep 2024
+<a target="blank" href="https://www.straitstimes.com/world/middle-east/israel-carries-out-raids-on-dozens-of-hezbollah-targets-in-lebanon-idf">Israel strikes 'dozens' of Hezbollah targets in Lebanon after Nasrallah killing</a>, The Straits Times, 29 Sep 2024
 
 <a target="blank" href="https://www.channelnewsasia.com/world/israel-hamas-war-strikes-gaza-wider-war-4541961">Israel keeps up strikes in Gaza as fears of wider war grow</a>, Channel News Asia, 12 Aug 2024
 
@@ -105,7 +103,7 @@ Further updates will be made to this resource page as the situation continues to
 
 (Transcript) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/07/20240722-4th-Tranche-Aid-to-Gaza">Handover Ceremony for the Fourth Tranche of Humanitarian Assistance for Gaza, 22 July 2024</a>, Ministry of Foreign Affairs, 22 Jul 2024
 
-(Transcript) <a target="blank" href="https://www.mindef.gov.sg/news-and-events/latest-releases/25jun24_speech">Speech by Minister for Defence, Dr Ng Eng Hen, at the Overseas Service Medal Presentation Ceremony on 25 Jun 2024</a>, Ministry of Foreign Affairs, 25 Jun 2024
+(Transcript) <a target="blank" href="https://www.mindef.gov.sg/news-and-events/latest-releases/25jun24_speech">Speech by Minister for Defence, Dr Ng Eng Hen, at the Overseas Service Medal Presentation Ceremony on 25 Jun 2024</a>, Ministry of Defence, 25 Jun 2024
 
 (Transcript) <a target="blank" href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/03/FM-Dr-Vivian-Balakrishnan-Doorstop-Interview-in-Israel-on-20-March-2024">Transcript of Minister for Foreign Affairs Dr Vivian Balakrishnan's Doorstop Interview in Israel on 20 March 2024</a>, Ministry of Foreign Affairs, 20 Mar 2024
 
