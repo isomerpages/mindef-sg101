@@ -12,6 +12,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/singapore_banknotes.png">
 </div>
+<p>Watch Video here: <a href="https://www.instagram.com/reel/C2ZKLv1S6Z3/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/reel/C2ZKLv1S6Z3/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==</a>
+</p>
 <p>Bank notes can be iconic and tell unique stories. The designs of our bank
 notes often reflect Singapore's multicultural identity, incorporating elements
 from various ethnic groups and historical events.
