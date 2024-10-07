@@ -28,4 +28,5 @@ GDP before COVID 19.
 <br>Today, Singapore EXPO is one of the largest exhibition centres in Southeast
 Asia and continues to be a key MICE venue. Swipe to learn more about Singapore
 EXPO’s history and fun facts.</p>
-<p></p>
+<p>Visit <a href="https://www.facebook.com/ConnexionSG" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> and
+<a href="https://www.instagram.com/connexionsg/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>for more content</p>
