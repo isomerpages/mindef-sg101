@@ -21,7 +21,7 @@ to develop.</p>
 <hr>
 <p><strong>Download:</strong>
 </p>
-<p><a href="/files/081024___NE_Insights_on_the_Middle_East_Conflict_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">NE Insights in the Conflict in the Middle East</a>
+<p><a href="/files/081024___Updated_NE_Insights_on_the_Conflict_in_the_Middle_East.pdf" rel="noopener noreferrer nofollow" target="_blank">NE Insights on the Conflict in the Middle East</a>
 </p>
 <p><a href="https://www.mfa.gov.sg/Newsroom/Announcements-and-Highlights/2023/11/20231106-Parl-Sitting" rel="noopener noreferrer nofollow" target="blank">MFA's Infographics on the Conflict</a>
 </p>
