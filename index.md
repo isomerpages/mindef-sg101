@@ -32,6 +32,16 @@ sections:
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
   - infopic:
+      title: Resources on the Conflict in the Middle East
+      subtitle: Resources
+      id: infopic
+      description: To better understand the Israel-Hamas conflict and Singapore’s
+        position on the issue, click here to find out more.
+      button: Read more
+      url: https://www.sg101.gov.sg/resources/resource-packages/conflictmiddleeast/
+      image: /images/i-h pic.png
+      alt: Image alt text
+  - infopic:
       title: NE in a minute - Riots in the UK
       subtitle: Resources
       id: infopic
@@ -130,16 +140,6 @@ sections:
       button: READ MORE
       url: https://www.sg101.gov.sg/resources/resource-packages/redseaattacks/
       image: /images/Ne_Insights_on_Red_Sea_Tension.jpg
-      alt: Image alt text
-  - infopic:
-      title: Resources on the Conflict in the Middle East
-      subtitle: Resources
-      id: infopic
-      description: To better understand the Israel-Hamas conflict and Singapore’s
-        position on the issue, click here to find out more.
-      button: Read more
-      url: https://www.sg101.gov.sg/resources/resource-packages/conflictmiddleeast/
-      image: /images/i-h pic.png
       alt: Image alt text
   - infopic:
       title: Singapore's National Reserves
