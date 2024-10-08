@@ -20,8 +20,8 @@ position, below are some useful resources for consideration.</p>
 to develop.</p>
 <hr>
 <p><strong>Download:</strong>
-<br><a href="/files/Updated_NE_Insights_on_the_Middle_East_Conflict_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">NE Insights on the Conflict in the Middle </a>
-<a href="/files/081024___NE_Insights_on_the_Middle_East_Conflict_Compressed.pdf" rel="noopener nofollow" target="_blank">East</a>
+</p>
+<p><a href="/files/081024___NE_Insights_on_the_Middle_East_Conflict_Compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">NE Insights on the Conflict in the Middle East</a>
 </p>
 <p><a href="https://www.mfa.gov.sg/Newsroom/Announcements-and-Highlights/2023/11/20231106-Parl-Sitting" rel="noopener noreferrer nofollow" target="blank">MFA's Infographics on the Conflict</a>
 </p>
