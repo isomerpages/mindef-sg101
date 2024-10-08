@@ -7,19 +7,21 @@ description: Israel hamas palestine middle-east
 image: ""
 variant: tiptap
 ---
-<p>On 7 Oct 2023, Hamas launched a coordinated surprise offensive on Israel
-via land, air and sea, resulting in the deaths of more than 1,100 Israelis,
-mostly civilians, and taking over 200 hostages.</p>
-<p>Israel's resulting invasion of Gaza has since claimed over 30,000 Gazan
-lives, including women and children, according to the health ministry in
-the Hamas-controlled territory.</p>
+<p>Tensions in the Middle East have persisted since the attacks between Israel
+and Hamas a year ago.&nbsp;</p>
+<p>More recently, hostilities between Israel and Iran further heightened
+tensions in the Middle East. The fight has since drawn in Iran-backed groups
+such as the Lebanese armed group, Hezbollah.</p>
+<p>Thousands of lives, including many women and children, have been killed
+as a result of these conflicts.</p>
 <p>To better understand the situation in the Middle East and Singapore’s
 position, below are some useful resources for consideration.</p>
 <p>Further updates will be made to this resource page as the situation continues
 to develop.</p>
 <hr>
 <p><strong>Download:</strong>
-<br><a href="/files/Updated_NE_Insights_on_the_Middle_East_Conflict_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">NE Insights on the Conflict in the Middle East</a>
+<br><a href="/files/Updated_NE_Insights_on_the_Middle_East_Conflict_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">NE Insights on the Conflict in the Middle </a>
+<a href="/files/081024___NE_Insights_on_the_Middle_East_Conflict_Compressed.pdf" rel="noopener nofollow" target="_blank">East</a>
 </p>
 <p><a href="https://www.mfa.gov.sg/Newsroom/Announcements-and-Highlights/2023/11/20231106-Parl-Sitting" rel="noopener noreferrer nofollow" target="blank">MFA's Infographics on the Conflict</a>
 </p>
