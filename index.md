@@ -110,27 +110,6 @@ sections:
             strong.
           linktext: Learn more
           url: https://www.sg101.gov.sg/resources/resource-packages/tdday2024/
-  - textcards:
-      title: Total Defence 40 Special Exhibition
-      id: textcards
-      description: Titled Total Defence for Thee!, the Total Defence 40 Special
-        Exhibition commemorates 40 years of TD in Singapore and showcases how TD
-        is integral to addressing threats and challenges.
-      cards:
-        - title: Facilitation and Self-help Guides for Exhibitions
-          description: Visitor guides are available for download.
-          linktext: Click here to download the guides
-          url: https://go.gov.sg/sg101td
-  - infopic:
-      title: Inaugural Total Defence (TD) Convention
-      subtitle: News in Focus/ Resources
-      description: In this special edition, we look at highlights from the inaugural
-        TD Convention, themed "Building Societal Resilience and Readiness in
-        Crises and Disruptions".
-      button: Read More
-      url: https://www.sg101.gov.sg/total-defence-convention/
-      image: /images/NiF_Cover.png
-      alt: Image alt text
   - infopic:
       title: Resource Page for the Red Sea Attacks
       subtitle: Resources
@@ -140,34 +119,5 @@ sections:
       button: READ MORE
       url: https://www.sg101.gov.sg/resources/resource-packages/redseaattacks/
       image: /images/Ne_Insights_on_Red_Sea_Tension.jpg
-      alt: Image alt text
-  - infopic:
-      title: Singapore's National Reserves
-      subtitle: Economy
-      description: CNA's Singapore Reserves Revealed series gave an exclusive peek
-        into Singapore’s treasure chests, featuring interviews with insiders and
-        leaders.
-      button: read more
-      url: /economy/growing-our-economy/1997/
-      image: /images/sg101 homepage pic.jpeg
-      alt: Image alt text
-  - infopic:
-      title: Creating a Shared Identity as Singaporeans
-      subtitle: Social
-      description: How is our national identity evolving with Singapore’s changing
-        demographics and mindsets about values and aspirations?
-      button: Read more
-      url: /social-national-identity/sharedidentity/
-      image: /images/citizens.png
-      alt: Image alt text
-  - infopic:
-      title: Building and Maintaining a Caring Society
-      subtitle: Social
-      description: As Singapore progresses, new fault lines on issues such as class,
-        immigration and identity have emerged. How do we build an inclusive
-        society?
-      button: Read More
-      url: /social-national-identity/caringsociety/
-      image: /images/multiabled.png
       alt: Image alt text
 ---
