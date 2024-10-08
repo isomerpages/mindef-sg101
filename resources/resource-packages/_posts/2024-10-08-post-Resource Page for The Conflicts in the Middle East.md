@@ -1,5 +1,5 @@
 ---
-title: Resource Page for The Conflict in the Middle East
+title: Resource Page for The Conflicts in the Middle East
 permalink: /resources/resource-packages/conflictmiddleeast/
 date: 2024-10-08
 layout: post
