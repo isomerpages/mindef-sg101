@@ -35,8 +35,8 @@ sections:
       title: Resources on the Conflict in the Middle East
       subtitle: Resources
       id: infopic
-      description: To better understand the Israel-Hamas conflict and Singapore’s
-        position on the issue, click here to find out more.
+      description: To better understand the latest developments in the Middle East and
+        Singapore’s position and contributions, click here to find out more.
       button: Read more
       url: https://www.sg101.gov.sg/resources/resource-packages/conflictmiddleeast/
       image: /images/i-h pic.png
