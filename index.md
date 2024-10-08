@@ -111,16 +111,6 @@ sections:
           linktext: Learn more
           url: https://www.sg101.gov.sg/resources/resource-packages/tdday2024/
   - infopic:
-      title: Inaugural Total Defence (TD) Convention
-      subtitle: News in Focus/ Resources
-      description: In this special edition, we look at highlights from the inaugural
-        TD Convention, themed "Building Societal Resilience and Readiness in
-        Crises and Disruptions".
-      button: Read More
-      url: https://www.sg101.gov.sg/total-defence-convention/
-      image: /images/NiF_Cover.png
-      alt: Image alt text
-  - infopic:
       title: Resource Page for the Red Sea Attacks
       subtitle: Resources
       id: infopic
