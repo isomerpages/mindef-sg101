@@ -151,23 +151,4 @@ sections:
       url: /economy/growing-our-economy/1997/
       image: /images/sg101 homepage pic.jpeg
       alt: Image alt text
-  - infopic:
-      title: Creating a Shared Identity as Singaporeans
-      subtitle: Social
-      description: How is our national identity evolving with Singapore’s changing
-        demographics and mindsets about values and aspirations?
-      button: Read more
-      url: /social-national-identity/sharedidentity/
-      image: /images/citizens.png
-      alt: Image alt text
-  - infopic:
-      title: Building and Maintaining a Caring Society
-      subtitle: Social
-      description: As Singapore progresses, new fault lines on issues such as class,
-        immigration and identity have emerged. How do we build an inclusive
-        society?
-      button: Read More
-      url: /social-national-identity/caringsociety/
-      image: /images/multiabled.png
-      alt: Image alt text
 ---
