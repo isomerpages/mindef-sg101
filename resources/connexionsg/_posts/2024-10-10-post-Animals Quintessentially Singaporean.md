@@ -37,3 +37,5 @@ with animals. As we continue to make space for urban development, each
 of us have a responsibility to be careful stewards of our living environment
 - for our home, our island’s wildlife, and our future generations.</p>
 <p>Image credits: NParks</p>
+<p>Visit <a href="https://www.facebook.com/ConnexionSG" rel="noopener nofollow" target="_blank">Facebook</a> and
+<a href="https://www.instagram.com/connexionsg/" rel="noopener nofollow" target="_blank">Instagram</a>for more content.</p>
