@@ -82,6 +82,16 @@ sections:
       url: https://www.sg101.gov.sg/resources/resource-packages/safday2024/
       image: /images/SAF_Day_2024_Package_Cover.jpg
       alt: Image alt text
+  - infopic:
+      title: Resource Page for the Red Sea Attacks
+      subtitle: Resources
+      id: infopic
+      description: To better understand the Red Sea Attacks and its impacts, and why
+        the issue matters to Singapore, click here to find out more.
+      button: READ MORE
+      url: https://www.sg101.gov.sg/resources/resource-packages/redseaattacks/
+      image: /images/Ne_Insights_on_Red_Sea_Tension.jpg
+      alt: Image alt text
   - textcards:
       title: 40 Years of Total Defence
       subtitle: Resources
@@ -110,14 +120,4 @@ sections:
             strong.
           linktext: Learn more
           url: https://www.sg101.gov.sg/resources/resource-packages/tdday2024/
-  - infopic:
-      title: Resource Page for the Red Sea Attacks
-      subtitle: Resources
-      id: infopic
-      description: To better understand the Red Sea Attacks and its impacts, and why
-        the issue matters to Singapore, click here to find out more.
-      button: READ MORE
-      url: https://www.sg101.gov.sg/resources/resource-packages/redseaattacks/
-      image: /images/Ne_Insights_on_Red_Sea_Tension.jpg
-      alt: Image alt text
 ---
