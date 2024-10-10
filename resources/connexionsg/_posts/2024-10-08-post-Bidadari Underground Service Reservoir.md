@@ -42,6 +42,7 @@ more resilient future. 🚰</p>
 <p>👉 Did you know that Singapore is home to over 10 other service reservoirs?
 How do you think cities can better integrate essential infrastructure with
 nature? 🌿</p>
-<p>
+<p>Visit <a href="https://www.facebook.com/ConnexionSG" rel="noopener nofollow" target="_blank">Facebook</a> and
+<a href="https://www.instagram.com/connexionsg/" rel="noopener nofollow" target="_blank">Instagram</a>for more content.
 <br>
 </p>
