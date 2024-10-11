@@ -90,6 +90,5 @@ that something better can emerge. Take our challenges as opportunities
 to cultivate compassion, overcome ignorance, and strengthen bonds with
 one another. So let’s keep at it and shape a Singapore that is #EvenBetter,
 together.</p>
-<p>Visit ConnexionSG [Facebook](<a href="https://www.facebook.com/ConnexionSG" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/ConnexionSG</a>)
-&amp; [Instagram](<a href="https://www.instagram.com/connexionsg/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/connexionsg/</a>)
-for more content.</p>
+<p>Visit <a href="https://www.facebook.com/ConnexionSG" rel="noopener nofollow" target="_blank">Facebook</a> and
+<a href="https://www.instagram.com/connexionsg/" rel="noopener nofollow" target="_blank">Instagram</a>for more content.</p>
