@@ -12,8 +12,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Bidadari USR 1" src="/images/connexionsg/Panel_1.png">
 </div>
 <p>Beneath a stretch of Bidadari Park lies #SingaporeFirst underground service
-reservoir (USR) built on low ground, which will supply drinking water to
-serve about 8,800 households in the Bidadari estate r. 💦</p>
+reservoir (USR) built on low ground, which will serve about 8,800 households
+in the Bidadari estate. 💦</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/connexionsg/Panel_2.png">
