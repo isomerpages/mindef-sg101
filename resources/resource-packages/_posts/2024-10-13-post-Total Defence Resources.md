@@ -1,7 +1,7 @@
 ---
 title: Total Defence Resources
 permalink: /resources/resource-packages/tdresources/
-date: 2024-02-15
+date: 2024-10-13
 layout: post
 description: ""
 image: ""
@@ -314,11 +314,22 @@ facilitate discussions based on the N.E.mation! clips.</p>
 </ul>
 <hr>
 <h4><strong>Useful Articles</strong></h4>
+<p><strong>Commentary: The Spirit of Total Defence - by Mr Chew Sutat</strong>
+</p>
+<p>Crises and disruptions often have a disproportionate impact on the vulnerable.
+During peacetime, we have to inculcate a culture of giving as a way of
+living. To support and champion the potential of the differently-abled
+in our midst. To commit not just resources in writing a cheque, but also
+to volunteer our time and talent in the community. In establishing habits
+that have been time-honoured since our forefathers' days of community self-help,
+we can foster a whole-of-society resilience and not be easily shaken by
+the next crisis.</p>
+<p>Read the full article <a href="https://www.businesstimes.com.sg/opinion-features/spirit-total-defence" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong>Commentary: Understanding the foundation of Singapore's national resilience will enable us to better weather storms ahead - by Dr Ong Weichong</strong>
 </p>
 <p>How a nation responds in times of crisis and disruption is critical for
-the survival and success of vulnerable small states such as Singapore.
-Read more from the article <a href="https://www.todayonline.com/commentary/commentary-foundation-singapores-national-resilience-weather-storms-2380656?fbclid=IwAR0gyUnnfxUzFlYavX87sj4CyuSV-5_n4-LATHuG-TEs9gDT1rd64CBj42w_aem_ATUGO7YdpNGQu6g4WmZd1SSe3pEsO-1dUqLNNBh0Wv-lLEvL4K6E1SMLnoMzn4_h6Tcr2MItLvDRae9NDRP_uIDT" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+the survival and success of vulnerable small states such as Singapore.</p>
+<p>Read the full article <a href="https://www.todayonline.com/commentary/commentary-foundation-singapores-national-resilience-weather-storms-2380656?fbclid=IwAR0gyUnnfxUzFlYavX87sj4CyuSV-5_n4-LATHuG-TEs9gDT1rd64CBj42w_aem_ATUGO7YdpNGQu6g4WmZd1SSe3pEsO-1dUqLNNBh0Wv-lLEvL4K6E1SMLnoMzn4_h6Tcr2MItLvDRae9NDRP_uIDT" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong>Sports and National Defence - a commentary written by Mr Nicholas Fang</strong>
 </p>
 <p>George Orwell famously wrote that sports is "war minus the shooting".
