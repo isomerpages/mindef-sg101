@@ -43,5 +43,5 @@ such as at the United Nations.</p>
 on our goal to ensure Singapore remains relevant, and continue to innovate
 and transform ourselves to secure our future.</p>
 <p>#CyberSecurity #ForeignPolicy #Trust #Singapore</p>
-<p></p>
-<p></p>
+<p>Visit <a href="https://www.facebook.com/ConnexionSG" rel="noopener nofollow" target="_blank">Facebook</a> and
+<a href="https://www.instagram.com/connexionsg/" rel="noopener nofollow" target="_blank">Instagram</a>for more content.</p>
