@@ -1,6 +1,6 @@
 ---
 title: World Mental Health Day 2024
-permalink: /community-world-mental-health-day-2024/
+permalink: /resources/connexionsg/community-world-mental-health-day-2024/
 date: 2024-10-10
 layout: post
 description: World Mental Health Day 2024

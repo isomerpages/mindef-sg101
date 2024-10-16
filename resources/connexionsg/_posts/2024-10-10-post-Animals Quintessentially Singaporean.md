@@ -1,6 +1,6 @@
 ---
 title: Animals Quintessentially Singaporean
-permalink: /nature-animals-quintessentially-singaporean/
+permalink: /resources/connexionsg/nature-animals-quintessentially-singaporean/
 date: 2024-10-10
 layout: post
 description: Animals Quintessentially Singaporean
