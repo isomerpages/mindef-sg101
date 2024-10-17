@@ -51,8 +51,11 @@ why not start small by initiating ‘hello’s to our neighbours when we next
 see them along the corridors or lifts?</p>
 <p>#TIL #Singapore #CaringSociety #Neighbourliness #SingaporeWay #Community
 #CommunitySpaces #CommonGrounds</p>
+<p>🎥: Watch the Big Makan at Jalan Bintang Tiga here (<a href="https://fb.watch/rfycuRwDS0/" rel="noopener noreferrer nofollow" target="_blank">https://fb.watch/rfycuRwDS0/</a>)</p>
 <p></p>
-<p></p>
+<p>Visit <a href="https://www.facebook.com/ConnexionSG" rel="noopener nofollow" target="_blank"><u>Facebook</u></a> and
+<a href="https://www.instagram.com/connexionsg/" rel="noopener nofollow" target="_blank"><u>Instagram</u>
+</a>for more content.</p>
 <p></p>
 <p></p>
 <p></p>
