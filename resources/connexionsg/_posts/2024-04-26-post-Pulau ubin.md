@@ -63,6 +63,7 @@ Mamam.
 rustic wooden jetties, houses, and nature remind us of Singapore’s humble
 beginnings before urbanisation and industrialisation.</p>
 <p></p>
-<p></p>
+<p>Visit <a href="https://www.facebook.com/ConnexionSG" rel="noopener nofollow" target="_blank">Facebook</a> and
+<a href="https://www.instagram.com/connexionsg/" rel="noopener nofollow" target="_blank">Instagram</a>for more content.</p>
 <p></p>
 <p></p>
