@@ -49,6 +49,7 @@ street lamps can also be seen as a microcosm of our nation indeed.</p>
 are often #takenforgranted, may we also remember how far our island nation
 has come and how transformed through the ages.</p>
 <p>#singapore #OnThisDay #TIL #History #safety #streetlighting</p>
-<p></p>
+<p>Visit <a href="https://www.facebook.com/ConnexionSG" rel="noopener nofollow" target="_blank">Facebook</a> and
+<a href="https://www.instagram.com/connexionsg/" rel="noopener nofollow" target="_blank">Instagram</a>for more content.</p>
 <p></p>
 <p></p>
