@@ -47,6 +47,8 @@ identity and charm.</p>
 <p>For more info on the self-guided Bedok Heritage Trail: <strong><a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.roots.gov.sg%2Fplaces%2Fplaces-landing%2Ftrails%2FBedok-Trail%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR0rUvCX9ec5lZ7-04UAG8JyX31ghwvRON-NUcVKtAzKj-CsuZozepDeJWc_aem_JrCd9U_YgXO2BNNAONrp8w&amp;amp;h=AT1XOemTbLX0qSEgcQ2sq124Ksr1pacpeuqNsFGEowwI6w0KjCd902Kab_Phn7KbmuesQlOyLLyuFHbiO1oODxQoOPND2RXCvMeIWBPrLkXuCbxApd6TlN3dEpVjgb3acA&amp;amp;__tn__=-UK-R&amp;amp;c[0]=AT2g4y55ZiNmGy1o5aCGko6aEIypor6huPV6kjAkwgzncX-_BNqAw78t_QHcwEG-6dGthVb4KBeq9Mc3E7OqFsBcok6umhHzCp1PG_d9JbHfzWlxem0MX4gfg7PDyBji-8_HHIp5--_6qX_LHPsv3Wh9neV-mvY1yQQSaZkz5TZ9moYaAEEmDKmLxxlZ1TfXY-z_40-wH9AWSq8AzenTT2Vha3o" rel="noopener noreferrer nofollow" target="_blank">https://www.roots.gov.sg/.../places.../trails/Bedok-Trail</a></strong>
 </p>
 <p></p>
+<p>Visit <a href="https://www.facebook.com/ConnexionSG" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> and
+<a href="https://www.instagram.com/connexionsg/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>for more content.</p>
 <p>
 <br>
 </p>
