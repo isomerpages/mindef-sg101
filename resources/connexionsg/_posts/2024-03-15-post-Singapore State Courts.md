@@ -64,7 +64,9 @@ for people in Singapore, further contributing to the law and order which
 we can all take pride in as Singaporeans.</p>
 <p>Sources: <strong><a href="https://www.facebook.com/hashtag/til?__eep__=6&amp;amp;__cft__[0]=AZWaNsXTc9_iuVNGH11_ckj8P1NcEynS4HVYo56qLdd8YHRJMgsABmVs-vFxb4CQYXsRUvlrQfTIL2eMsiKgBrBnsRFd-nKX_e3Iy-phixptFOKvxutWdaImuOFqLD0AenoO8gQk7A-wp0f6KUZlscgdJTUaMlqfvgaJzqFPLeHcjhupPyhL7MiMoFlWuK_2bpdN47QWVzGSDbzl5KhHrOQO&amp;amp;__tn__=*NK-R" rel="noopener noreferrer nofollow" target="_blank">https://www.judiciary.gov.sg/OneHavelockSquare/phases.html</a></strong>
 </p>
-<p></p>
+<p>Visit ConnexionSG [Facebook](<a href="https://www.facebook.com/ConnexionSG" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/ConnexionSG</a>)
+and [Instagram](<a href="https://www.instagram.com/connexionsg/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/connexionsg/</a>)
+for more content.</p>
 <p></p>
 <p>Visit <a href="https://www.facebook.com/ConnexionSG" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> and
 <a href="https://www.instagram.com/connexionsg/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>for more content</p>
