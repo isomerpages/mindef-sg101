@@ -10,18 +10,20 @@ variant: tiptap
 <p>Foreign interference (FI) refers to activities conducted by foreign actors
 that interfere in the politics or policies of the target country, in order
 to advance the foreign actor’s own interests.</p>
-<p>Today, FI is still a threat to Singapore and can undermine our social
-cohesion and resilience. As an open, highly digitally connected and diverse
-society, Singapore is vulnerable to the threat of FI.</p>
-<p>Below are some resources to help you learn what FI is, its impact around
-the world and why it matters to Singapore, and how we can play our part
-to counter FI.</p>
+<p>FI can undermine the decision making autonomy of a country, trust in its
+leadership and the cohesiveness and unity of its people.&nbsp;</p>
+<p>As a small country with an open economy and a highly digitally connected
+and diverse society, Singapore is not immune to FI.</p>
+<p>Below are some resources to learn about FI and its impact, why it matters
+to Singapore, and how we can play our part to counter FI.</p>
 <h4>Download</h4>
-<p>NE Insights in Countering Foreign Interference</p>
+<p><a href="/files/Ne_Insights_on_Countering_Foreign_Interference_FA_Compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">NE Insights in Countering Foreign Interference</a>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Countering Foreign Interference" src="/images/171024_Ne_Insights_FI_01.jpg">
 </div>
-<p>(Reel) NE in a Minute on Foreign Interference</p>
+<p><a href="https://drive.google.com/file/d/1Owunwy7YaOIPw092md92UVdIOBs2QyNx/view?usp=sharing" rel="noopener nofollow" target="_blank">(Reel) NE in a Minute on Foreign Interference</a>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -33,19 +35,19 @@ to counter FI.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/02.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/33.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/03.jpg">
 </div>
 </th>
 </tr>
@@ -53,25 +55,28 @@ to counter FI.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/44.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/55.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/05.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/66.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/06.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/07.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -95,20 +100,25 @@ to counter FI.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Stop" src="/images/Stop_01.png">
+<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Stop_01.png">
 </div>
+<p>Do not share ‘news’ that you are not sure about</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="check" src="/images/Check_01.png">
+<img style="width: 92%;" height="auto" width="100%" alt="" src="/images/Check_01.png">
 </div>
+<p><strong>Look for other sources to confirm what you are reading is true</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="report" src="/images/Report_01.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Report_01.png">
 </div>
+<p><strong>Contact ISD at 1800-2626-473 (1800-2626-ISD) or <a href="mailto:isd@mha.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>isd@mha.gov.sg</u></a> to report suspected FI</strong>
+</p>
 </th>
 </tr>
 </tbody>
