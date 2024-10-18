@@ -1,6 +1,6 @@
 ---
 title: Foreign Interference
-permalink: /foreign-interference/
+permalink: /resources/resourcepackge/foreign-interference/
 date: 2024-10-18
 layout: post
 description: ""
@@ -100,30 +100,27 @@ to Singapore, and how we can play our part to counter FI.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Stop_01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stop_02.jpg">
 </div>
-<p>Do not share ‘news’ that you are not sure about</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 92%;" height="auto" width="100%" alt="" src="/images/Check_01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/check_02.jpg">
 </div>
-<p><strong>Look for other sources to confirm what you are reading is true</strong>
-</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Report_01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/report_02.jpg">
 </div>
-<p><strong>Contact ISD at 1800-2626-473 (1800-2626-ISD) or <a href="mailto:isd@mha.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>isd@mha.gov.sg</u></a> to report suspected FI</strong>
-</p>
 </th>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Stop</u></strong>
+<p><strong><u>Below are some resources</u></strong>
+</p>
+<p><strong>Stop</strong>
 </p>
 <p><a href="https://www.eld.gov.sg/foreign_interference.html#:~:text=Foreign%20interference%20includes%20attempts%20by,sovereignty%20and%20harms%20social%20cohesion." rel="noopener nofollow" target="_blank">Foreign Interference</a>,
 Elections Department Singapore</p>
@@ -135,7 +132,7 @@ Channel News Asia, 14 Sep 2024</p>
 Channel News Asia, 27 Sep 2023</p>
 <p><a href="https://www.facebook.com/watch/?v=362309303382265" rel="noopener nofollow" target="_blank">Who is a politically significant person?</a>,
 The Straits Times, 26 Feb 2024</p>
-<p><strong><u>Check</u></strong>
+<p><strong>Check</strong>
 </p>
 <p><a href="https://www.gov.sg/article/singapores-fight-against-fake-news-what-you-can-do" rel="noopener nofollow" target="_blank">Singapore's fight against Fake News: What can you do</a>
 </p>
@@ -143,7 +140,7 @@ The Straits Times, 26 Feb 2024</p>
 NLB</p>
 <p><a href="https://www.gov.sg/factually" rel="noopener nofollow" target="_blank">Fact-checker</a>,
 Factually</p>
-<p><strong><u>Report</u></strong>
+<p><strong>Report</strong>
 </p>
 <p><a href="https://www.pofmaoffice.gov.sg/report-falsehoods/" rel="noopener nofollow" target="_blank">Reporting potential falsehoods</a>,
 POFMA Office</p>
