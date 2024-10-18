@@ -10,11 +10,9 @@ variant: tiptap
 <p>Foreign interference (FI) refers to activities conducted by foreign actors
 that interfere in the politics or policies of the target country, in order
 to advance the foreign actor’s own interests.</p>
-<p></p>
 <p>Today, FI is still a threat to Singapore and can undermine our social
 cohesion and resilience. As an open, highly digitally connected and diverse
 society, Singapore is vulnerable to the threat of FI.</p>
-<p></p>
 <p>Below are some resources to help you learn what FI is, its impact around
 the world and why it matters to Singapore, and how we can play our part
 to counter FI.</p>
