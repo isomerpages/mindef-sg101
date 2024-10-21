@@ -32,6 +32,16 @@ sections:
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
   - infopic:
+      title: Foreign Interference
+      subtitle: resources
+      id: infopic
+      description: Learn about what is foreign interference and its impact, why it
+        matters to Singapore, and how we can play our part to counter FI.
+      button: read more
+      url: https://www.sg101.gov.sg/resources/resourcepackge/foreign-interference/
+      image: /images/171024_Ne_Insights_FI_01.jpg
+      alt: NE Insights on Countering FI
+  - infopic:
       title: Resources on the Conflicts in the Middle East
       subtitle: Resources
       id: infopic
