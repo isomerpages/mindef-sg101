@@ -74,6 +74,9 @@ to Singapore, and how we can play our part to counter FI.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/07.jpg">
 </div>
@@ -81,12 +84,14 @@ to Singapore, and how we can play our part to counter FI.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
+<p><a href="https://www.instagram.com/reel/DBa_9lBykFJ/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener nofollow" target="_blank">(Video) What is Foreign Interference and how can we tackle it?</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_10_21_at_2_08_10_PM.png">
+</div>
 <h4>Resources</h4>
 <p>To counter FI, we must:</p>
 <table style="minWidth: 75px">
@@ -122,6 +127,8 @@ to Singapore, and how we can play our part to counter FI.</p>
 </p>
 <p><strong>Stop</strong>
 </p>
+<p><a href="https://www.mha.gov.sg/foreign-interference" rel="noopener nofollow" target="_blank">What is Foreign Interference?</a>,
+Ministry of Home Affairs</p>
 <p><a href="https://www.eld.gov.sg/foreign_interference.html#:~:text=Foreign%20interference%20includes%20attempts%20by,sovereignty%20and%20harms%20social%20cohesion." rel="noopener nofollow" target="_blank">Foreign Interference</a>,
 Elections Department Singapore</p>
 <p><a href="https://www.channelnewsasia.com/watch/commentary-how-vulnerable-singapore-foreign-interference-campaigns-video-4516261" rel="noopener nofollow" target="_blank">How vulnerable is Singapore to foreign interference campaigns?</a>,
