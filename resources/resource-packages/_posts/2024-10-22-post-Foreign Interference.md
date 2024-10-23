@@ -1,7 +1,7 @@
 ---
 title: Foreign Interference
-permalink: /resources/resourcepackge/foreign-interference/
-date: 2024-10-18
+permalink: /resources/resourcepackage/foreign-interference/
+date: 2024-10-22
 layout: post
 description: ""
 image: ""
