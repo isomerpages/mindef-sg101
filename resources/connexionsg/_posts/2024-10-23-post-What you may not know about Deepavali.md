@@ -27,13 +27,14 @@ to mid-November in the Gregorian calendar.</p>
 <p>Read for more information:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.harmonycircle.sg/resources/culture/deepavali/</a> &nbsp;</p>
+<p>https://www.harmonycircle.sg/resources/culture/deepavali/ &nbsp;</p>
 </li>
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.nlb.gov.sg/main/article-detail?cmsuuid=0a84fe1a-1222-4701-be17-1735a8a9af27</a> &nbsp;&nbsp;</p>
+<p>https://www.nlb.gov.sg/main/article-detail?cmsuuid=0a84fe1a-1222-4701-be17-1735a8a9af27
+&nbsp;&nbsp;</p>
 </li>
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.roots.gov.sg/ich-landing/ich/deepavali</a> &nbsp;</p>
+<p>https://www.roots.gov.sg/ich-landing/ich/deepavali &nbsp;</p>
 </li>
 </ul>
 <p></p>
@@ -44,7 +45,8 @@ slaying of the demon Narakasura.</p>
 <p>North Indians refer to this festival as Diwali, and start their five-day
 celebrations a day later with the lighting of lamps to welcome the return
 of exiled king Lord Rama of Ayodhya.</p>
-<p>Read for more information: <a rel="noopener noreferrer nofollow" target="_blank">https://sg.news.yahoo.com/deepavali-2015-might-not-know-075327350.html</a> &nbsp;</p>
+<p>Read for more information: https://sg.news.yahoo.com/deepavali-2015-might-not-know-075327350.html
+&nbsp;</p>
 <p>3) Though Deepavali is mainly a Hindu festival, it is also celebrated
 by Indians of other religions such as the Sikhs and the Jains.</p>
 <p>For Sikhs, it marks the day that Guru Hargobind Ji, the Sixth Sikh Guru,
@@ -53,14 +55,15 @@ of Lord Mahavir</p>
 <p>Read for more information:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19361108-1.2.162</a> &nbsp;</p>
+<p>https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19361108-1.2.162
+&nbsp;</p>
 </li>
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.nlb.gov.sg/main/article-detail?cmsuuid=0a84fe1a-1222-4701-be17-1735a8a9af27#:~:text=Deepavali%20is%20also%20significant%20for,in%20memory%20of%20Guru%20Hargobind</a>
+<p><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=0a84fe1a-1222-4701-be17-1735a8a9af27#:~:text=Deepavali%20is%20also%20significant%20for,in%20memory%20of%20Guru%20Hargobind" rel="noopener noreferrer nofollow" target="_blank">https://www.nlb.gov.sg/main/article-detail?cmsuuid=0a84fe1a-1222-4701-be17-1735a8a9af27#:~:text=Deepavali%20is%20also%20significant%20for,in%20memory%20of%20Guru%20Hargobind</a>
 </p>
 </li>
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://kids.nationalgeographic.com/pages/article/diwali</a> &nbsp;</p>
+<p>https://kids.nationalgeographic.com/pages/article/diwali &nbsp;</p>
 </li>
 </ul>
 <p>What are your plans for the upcoming Deepavali? Why not join in some community
