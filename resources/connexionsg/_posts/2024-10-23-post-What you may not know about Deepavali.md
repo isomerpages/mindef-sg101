@@ -45,8 +45,7 @@ slaying of the demon Narakasura.</p>
 <p>North Indians refer to this festival as Diwali, and start their five-day
 celebrations a day later with the lighting of lamps to welcome the return
 of exiled king Lord Rama of Ayodhya.</p>
-<p>Read for more information: https://sg.news.yahoo.com/deepavali-2015-might-not-know-075327350.html
-&nbsp;</p>
+<p>Read for more information: <a href="https://sg.news.yahoo.com/deepavali-2015-might-not-know-075327350.html" rel="noopener noreferrer nofollow" target="_blank">https://sg.news.yahoo.com/deepavali-2015-might-not-know-075327350.html</a> &nbsp;</p>
 <p>3) Though Deepavali is mainly a Hindu festival, it is also celebrated
 by Indians of other religions such as the Sikhs and the Jains.</p>
 <p>For Sikhs, it marks the day that Guru Hargobind Ji, the Sixth Sikh Guru,
