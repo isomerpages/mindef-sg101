@@ -38,7 +38,7 @@ sections:
       description: Learn about what is foreign interference and its impact, why it
         matters to Singapore, and how we can play our part to counter FI.
       button: read more
-      url: https://www.sg101.gov.sg/resources/resourcepackge/foreign-interference/
+      url: https://www.sg101.gov.sg/resources/resourcepackage/foreign-interference/
       image: /images/171024_Ne_Insights_FI_01.jpg
       alt: NE Insights on Countering FI
   - infopic:
