@@ -27,14 +27,13 @@ to mid-November in the Gregorian calendar.</p>
 <p>Read for more information:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>https://www.harmonycircle.sg/resources/culture/deepavali/ &nbsp;</p>
+<p><a href="https://www.harmonycircle.sg/resources/culture/deepavali/" rel="noopener noreferrer nofollow" target="_blank">https://www.harmonycircle.sg/resources/culture/deepavali/</a> &nbsp;</p>
 </li>
 <li>
-<p>https://www.nlb.gov.sg/main/article-detail?cmsuuid=0a84fe1a-1222-4701-be17-1735a8a9af27
-&nbsp;&nbsp;</p>
+<p><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=0a84fe1a-1222-4701-be17-1735a8a9af27" rel="noopener noreferrer nofollow" target="_blank">https://www.nlb.gov.sg/main/article-detail?cmsuuid=0a84fe1a-1222-4701-be17-1735a8a9af27</a> &nbsp;&nbsp;</p>
 </li>
 <li>
-<p>https://www.roots.gov.sg/ich-landing/ich/deepavali &nbsp;</p>
+<p><a href="https://www.roots.gov.sg/ich-landing/ich/deepavali" rel="noopener noreferrer nofollow" target="_blank">https://www.roots.gov.sg/ich-landing/ich/deepavali</a> &nbsp;</p>
 </li>
 </ul>
 <p></p>
@@ -54,8 +53,7 @@ of Lord Mahavir</p>
 <p>Read for more information:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19361108-1.2.162
-&nbsp;</p>
+<p><a href="https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19361108-1.2.162" rel="noopener noreferrer nofollow" target="_blank">https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19361108-1.2.162</a> &nbsp;</p>
 </li>
 <li>
 <p><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=0a84fe1a-1222-4701-be17-1735a8a9af27#:~:text=Deepavali%20is%20also%20significant%20for,in%20memory%20of%20Guru%20Hargobind" rel="noopener noreferrer nofollow" target="_blank">https://www.nlb.gov.sg/main/article-detail?cmsuuid=0a84fe1a-1222-4701-be17-1735a8a9af27#:~:text=Deepavali%20is%20also%20significant%20for,in%20memory%20of%20Guru%20Hargobind</a>
@@ -70,5 +68,8 @@ Deepavali events to deepen your appreciation of the festival? The @Indian
 Heritage Centre and @LiSHA have organised several programmes this month
 to invite everyone to share in the joy of the Festival of Lights, or you
 may visit Little India to soak in the festivities! 🪔 ✨</p>
+<p>Visit ConnexionSG <a href="https://www.facebook.com/ConnexionSG" rel="noopener noreferrer nofollow" target="_blank"><u>Facebook</u></a> &amp;
+<a href="https://www.instagram.com/connexionsg/" rel="noopener noreferrer nofollow" target="_blank"><u>Instagram</u>
+</a>for more content.</p>
 <p></p>
 <p>&nbsp;</p>
