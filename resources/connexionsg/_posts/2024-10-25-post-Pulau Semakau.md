@@ -49,6 +49,6 @@ populated city. Let’s work together for a sustainable future! 🌍💚</p>
 <br>#IslandsofSingapore #CityinNatureSG</p>
 <p></p>
 <p>Visit ConnexionSG <a href="https://www.facebook.com/ConnexionSG" rel="noopener noreferrer nofollow" target="_blank"><u>Facebook</u></a> &amp;
-<a href="https://www.instagram.com/connexionsg/" rel="noopener noreferrer nofollow" target="_blank"><u>Instagram</u>
+<a href="https://www.instagram.com/connexionsg/" rel="noopener noreferrer nofollow" target="_blank"><u>Instagram </u>
 </a>for more content.</p>
 <p>&nbsp;</p>
