@@ -60,12 +60,12 @@ of Lord Mahavir</p>
 </p>
 </li>
 <li>
-<p>https://kids.nationalgeographic.com/pages/article/diwali &nbsp;</p>
+<p><a href="https://kids.nationalgeographic.com/pages/article/diwali" rel="noopener noreferrer nofollow" target="_blank">https://kids.nationalgeographic.com/pages/article/diwali</a> &nbsp;</p>
 </li>
 </ul>
 <p>What are your plans for the upcoming Deepavali? Why not join in some community
-Deepavali events to deepen your appreciation of the festival? The @Indian
-Heritage Centre and @LiSHA have organised several programmes this month
+Deepavali events to deepen your appreciation of the festival? The Indian
+Heritage Centre and LiSHA have organised several programmes this month
 to invite everyone to share in the joy of the Festival of Lights, or you
 may visit Little India to soak in the festivities! 🪔 ✨</p>
 <p>Visit ConnexionSG <a href="https://www.facebook.com/ConnexionSG" rel="noopener noreferrer nofollow" target="_blank"><u>Facebook</u></a> &amp;
