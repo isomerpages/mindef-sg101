@@ -17,7 +17,8 @@ and diverse society, Singapore is not immune to FI.</p>
 <p>Below are some resources to learn about FI and its impact, why it matters
 to Singapore, and how we can play our part to counter FI.</p>
 <h4>Download</h4>
-<p><a href="/files/Ne_Insights_on_Countering_Foreign_Interference_FA_Compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">NE Insights in Countering Foreign Interference</a>
+<p><a href="/files/Ne_Insights_on_Countering_Foreign_Interference_FA_Compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">NE Insights on Countering Foreign Interferen</a>
+<a href="/files/NE_Insights_on_Countering_Foreign_Interference.pdf" rel="noopener nofollow" target="_blank">ce</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Countering Foreign Interference" src="/images/171024_Ne_Insights_FI_01.jpg">
