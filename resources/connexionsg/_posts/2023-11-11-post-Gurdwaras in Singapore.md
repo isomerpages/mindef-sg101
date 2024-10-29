@@ -1,6 +1,6 @@
 ---
 title: Gurdwaras in Singapore
-permalink: /resources/connexionsg/gurdwarasinsingapore/
+permalink: /resources/connexionsg/heritage-gurdwaras-in-singapore/
 date: 2023-11-11
 layout: post
 description: ""

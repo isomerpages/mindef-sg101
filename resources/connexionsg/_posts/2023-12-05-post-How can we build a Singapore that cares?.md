@@ -1,6 +1,6 @@
 ---
-title: How can we build a Singapore that cares?
-permalink: /resources/connexionsg/howcanwebuildasigaporethatcares/
+title: Building a Singapore that Cares
+permalink: /resources/connexionsg/community-building-a-singapore-that-cares/
 date: 2023-12-05
 layout: post
 description: ""

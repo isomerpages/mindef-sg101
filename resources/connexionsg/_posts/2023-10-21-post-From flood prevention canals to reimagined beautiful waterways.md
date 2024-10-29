@@ -1,6 +1,6 @@
 ---
-title: From flood prevention canals to reimagined beautiful waterways
-permalink: /from-flood-prevention-canals-to-reimagined-beautiful-waterways/
+title: Singapore's Waterways 
+permalink: /resources/connexionsg/challengeaccepted-singapore-waterways/
 date: 2023-10-21
 layout: post
 description: ""

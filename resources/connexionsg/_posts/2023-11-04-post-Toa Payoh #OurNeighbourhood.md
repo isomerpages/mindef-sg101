@@ -1,6 +1,6 @@
 ---
-title: "Toa Payoh #OurNeighbourhood"
-permalink: /toa-payoh-ourneighbourhood/
+title: "Toa Payoh"
+permalink: /resources/connexionsg/ourneighbourhood-toa-payoh/
 date: 2023-11-04
 layout: post
 description: ""

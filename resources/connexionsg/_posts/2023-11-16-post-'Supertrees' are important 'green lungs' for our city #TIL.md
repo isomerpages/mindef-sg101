@@ -1,6 +1,6 @@
 ---
-title: "'Supertrees' are important 'green lungs' for our city #TIL"
-permalink: /supertrees-are-important-green-lungs-for-our-city-til/
+title: "Supertrees in Singapore"
+permalink: /resources/connexionsg/til-supertrees-in-Singapore/
 date: 2023-11-16
 layout: post
 description: ""

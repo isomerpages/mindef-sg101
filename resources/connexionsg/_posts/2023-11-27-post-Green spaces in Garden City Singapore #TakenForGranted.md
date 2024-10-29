@@ -1,6 +1,6 @@
 ---
-title: "Green spaces in Garden City Singapore #TakenForGranted"
-permalink: /green-spaces-in-garden-city-singapore-takenforgranted/
+title: "Green Spaces in Singapore"
+permalink: /resources/connexionsg/takenforgranted-green-spaces-in-singapore/
 date: 2023-11-27
 layout: post
 description: ""
