@@ -24,3 +24,7 @@ and a sense of community.</p>
 <p>Next time you’re at one of these stations, listen out for the announcements
 – they’re a meaningful reminder of how small gestures of care and inclusivity
 can go a long way to bring everyone together in our diverse, vibrant community.</p>
+<p></p>
+<p>Visit ConnexionSG <a href="https://www.facebook.com/ConnexionSG" rel="noopener noreferrer nofollow" target="_blank"><u>Facebook</u></a> &amp;
+<a href="https://www.instagram.com/connexionsg/" rel="noopener noreferrer nofollow" target="_blank"><u>Instagram </u>
+</a>for more content.</p>
