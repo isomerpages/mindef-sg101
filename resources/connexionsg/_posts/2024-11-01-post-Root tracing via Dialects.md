@@ -19,6 +19,6 @@ there have been recent attempts to revitalise dialects amongst the youths
 who are keen to trace their roots.</p>
 <p>Young Singaporeans, do you speak dialects? What are some dialects that
 you know of?</p>
-<p>Visit <a href="https://www.facebook.com/ConnexionSG" rel="noopener nofollow" target="_blank">Facebook</a> and
+<p>Visit ConnexionSG <a href="https://www.facebook.com/ConnexionSG" rel="noopener nofollow" target="_blank">Facebook</a> and
 <a href="https://www.instagram.com/connexionsg/" rel="noopener nofollow" target="_blank">Instagram</a>for more content.</p>
 <p></p>
