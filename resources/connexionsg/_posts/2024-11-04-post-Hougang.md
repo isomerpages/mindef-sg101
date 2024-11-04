@@ -48,5 +48,7 @@ and rediscover local heritage delights in Hougang.</p>
 <p>#OurNeighbourhood #Singapore #Hougang #placemaking @SGplacemaking</p>
 <p>Read more about Hougang’s heritage here: <a href="https://www.nhb.gov.sg/-/media/nhb/files/resources/heritage-trails/nhb_hougang-trail_booklet.pdf" rel="noopener nofollow" target="_blank">Hougang Heritage Trail</a>
 </p>
-<p></p>
+<p>Visit ConnexionSG <a href="https://www.facebook.com/ConnexionSG" rel="noopener noreferrer nofollow" target="_blank"><u>Facebook</u></a> &amp;
+<a href="https://www.instagram.com/connexionsg/" rel="noopener noreferrer nofollow" target="_blank"><u>Instagram </u>
+</a>for more content.</p>
 <p></p>
