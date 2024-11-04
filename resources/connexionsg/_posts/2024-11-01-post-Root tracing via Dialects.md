@@ -11,7 +11,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Root_Cover.jpg">
 </div>
-<p>Vh the video here:</p>
+<p>View the video here: <a href="https://www.instagram.com/reel/DB8KkYFSFIE/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/reel/DB8KkYFSFIE/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==</a>
+</p>
 <p>What does your dialect mean to you?</p>
 <p>The latest Census of Population conducted in 2020 showed almost a 50%
 decline for the use of dialects at home compared to a decade ago. Yet,
