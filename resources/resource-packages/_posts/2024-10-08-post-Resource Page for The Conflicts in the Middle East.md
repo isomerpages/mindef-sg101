@@ -98,6 +98,10 @@ Channel News Asia, 8 Oct 2023</p>
 <hr>
 <p><strong>Official Statements by Government Agencies</strong>
 </p>
+<p>(Transcript) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/11/Minister-FA-Remarks-Fifth-Tranche-Handover-Ceremony" rel="noopener nofollow" target="_blank">https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/11/Minister-FA-Remarks-Fifth-Tranche-Handover-Ceremony</a>,
+Ministry of Foreign Affairs, 1 Nov 2024</p>
+<p>(Statement) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/11/20241101-5th-Tranche-Aid-Gaza" rel="noopener nofollow" target="_blank">https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/11/20241101-5th-Tranche-Aid-Gaza</a>,
+Ministry of Foreign Affairs, 1 Nov 2024</p>
 <p>(Transcript) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/09/20240928-UNGA-Doorstop-Interview" rel="noopener noreferrer nofollow" target="blank">Transcript of Minister for Foreign Affairs Dr Vivian Balakrishnan's Wrap-Up Interview with Singapore Media During the 79th Session of the United Nations General Assembly High-Level Week in New York, 27 September 2024</a>,
 Ministry of Foreign Affairs, 28 Sep 2024</p>
 <p>(Transcript) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/08/Min-FA-PQ-Oral-Reply-August-2024" rel="noopener noreferrer nofollow" target="blank">Minister for Foreign Affairs Dr Vivian Balakrishnan's Oral Reply to Parliamentary Questions on the Israeli-Palestinian Conflict, 7 August 2024</a>,
