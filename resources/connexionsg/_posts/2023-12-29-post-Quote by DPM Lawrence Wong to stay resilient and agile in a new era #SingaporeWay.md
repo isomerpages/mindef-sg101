@@ -1,7 +1,6 @@
 ---
-title: "Quote by DPM Lawrence Wong to stay resilient and agile in a new era
-  #SingaporeWay"
-permalink: /quote-by-dpm-lawrence-wong-to-stay-resilient-and-agile-in-a-new-era-singaporeway/
+title: "Quote by DPM Lawrence Wong at Budget 2023"
+permalink: /resources/connexionsg/singaporeway-quote-budget2023/ 
 date: 2023-12-29
 layout: post
 description: ""

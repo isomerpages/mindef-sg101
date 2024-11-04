@@ -1,6 +1,6 @@
 ---
-title: "Singapore's Healthcare System #TakenForGranted"
-permalink: /singapore-s-healthcare-system-takenforgranted/
+title: "Singapore's Healthcare System"
+permalink: /resources/connexionsg/takenforgranted-singapore-healthcare-system/
 date: 2023-10-24
 layout: post
 description: ""
