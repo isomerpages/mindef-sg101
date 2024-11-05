@@ -1,6 +1,6 @@
 ---
 title: Singapore's Old Bus Tickets
-permalink: /resources/connexionsg/singaporesoldbustickets/
+permalink: /resources/connexionsg/nostalgia-singapores-old-bus-tickets/
 date: 2023-08-31
 layout: post
 description: ""

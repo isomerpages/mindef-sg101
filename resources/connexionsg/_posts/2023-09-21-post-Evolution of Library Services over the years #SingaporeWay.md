@@ -1,6 +1,6 @@
 ---
-title: "Evolution of Library Services over the years #SingaporeWay"
-permalink: /resources/connexionsg/evolutionoflibraryservicesovertheyears/
+title: Library Services in Singapore
+permalink: /resources/connexionsg/singaporeway-library-services/
 date: 2023-09-21
 layout: post
 description: ""

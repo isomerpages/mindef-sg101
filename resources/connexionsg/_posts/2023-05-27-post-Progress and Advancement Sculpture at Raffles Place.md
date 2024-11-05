@@ -1,6 +1,6 @@
 ---
-title: Progress and Advancement Sculpture at Raffles Place
-permalink: /resources/connexionsg/progressandadvancementsculptureatrafflesplace/
+title: Progress and Advancement Sculpture
+permalink: /resources/connexionsg/identity-progress-and-advancement-sculpture/
 date: 2023-05-27
 layout: post
 description: ""

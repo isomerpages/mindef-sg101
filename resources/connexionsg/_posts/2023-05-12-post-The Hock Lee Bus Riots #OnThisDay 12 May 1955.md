@@ -1,6 +1,6 @@
 ---
-title: "The Hock Lee Bus Riots #OnThisDay 12 May 1955"
-permalink: /resources/connexionsg/thehockleebusriotsonthisday12may1955/
+title: Hock Lee Bus Riots
+permalink: /resources/connexionsg/onthisday-hock-lee-bus-riots/
 date: 2023-05-12
 layout: post
 description: ""

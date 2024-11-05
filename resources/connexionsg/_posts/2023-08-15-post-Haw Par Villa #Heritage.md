@@ -1,6 +1,6 @@
 ---
-title: "Haw Par Villa #Heritage"
-permalink: /resources/connexionsg/hawparvillaheritage/
+title: Haw Par Villa
+permalink: /resources/connexionsg/heritage-haw-par-villa/
 date: 2023-08-15
 layout: post
 description: ""

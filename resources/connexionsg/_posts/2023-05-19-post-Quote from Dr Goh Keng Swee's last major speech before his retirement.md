@@ -1,6 +1,6 @@
 ---
-title: Quote from Dr Goh Keng Swee's last major speech before his retirement
-permalink: /resources/connexionsg/permalinkquotefromdrgohkengsweelastmajorspeechbeforehisretirement/
+title: Quote by Goh Keng Swee on Singapore's Foundational Ways
+permalink: /resources/connexionsg/quote-goh-keng-swee-singapores-foundational-ways
 date: 2023-05-19
 layout: post
 description: ""

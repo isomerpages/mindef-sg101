@@ -1,6 +1,6 @@
 ---
-title: "HV Little Library #neighbourliness"
-permalink: /resources/connexionsg/hvlittlelibrary/
+title: Weak-tie Friendships
+permalink: /resources/connexionsg/community-weak-tie-friendships/
 date: 2023-06-16
 layout: post
 description: ""

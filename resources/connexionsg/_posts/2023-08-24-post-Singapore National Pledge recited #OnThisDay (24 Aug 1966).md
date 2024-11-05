@@ -1,6 +1,6 @@
 ---
-title: "Singapore National Pledge recited #OnThisDay (24 Aug 1966)"
-permalink: /resources/connexionsg/nationalpledge/
+title: "Singapore's National Pledge"
+permalink: /resources/connexionsg/onthisday-singapores-national-pledge/
 date: 2023-08-24
 layout: post
 description: ""

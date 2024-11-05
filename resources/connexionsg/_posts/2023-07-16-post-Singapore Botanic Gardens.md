@@ -1,6 +1,6 @@
 ---
 title: Singapore Botanic Gardens
-permalink: /resources/connexionsg/singaporebotanicgardens/
+permalink: /resources/connexionsg/heritage-singapore-botanic-gardens/
 date: 2023-07-16
 layout: post
 description: ""

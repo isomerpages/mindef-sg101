@@ -1,6 +1,6 @@
 ---
-title: "Panda Diplomacy #TIL"
-permalink: /resources/connexionsg/pandadiplomacy/
+title: Pandas in Singapore
+permalink: /resources/connexionsg/nature-pandas-in-singapore/
 date: 2023-08-18
 layout: post
 description: ""

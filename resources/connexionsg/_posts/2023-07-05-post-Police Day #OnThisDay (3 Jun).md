@@ -1,6 +1,6 @@
 ---
-title: "Police Day #OnThisDay (3 Jun)"
-permalink: /resources/connexionsg/policeday/
+title: Police Day 2021
+permalink: /resources/connexionsg/security-police-day-2021/
 date: 2023-07-05
 layout: post
 description: ""

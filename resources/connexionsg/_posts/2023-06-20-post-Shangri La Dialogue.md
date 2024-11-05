@@ -1,6 +1,6 @@
 ---
-title: Shangri La Dialogue
-permalink: /resources/connexionsg/shangriladialogue/
+title: Shangri La Dialogue 2023
+permalink: /resources/connexionsg/security-shangri-la-dialogue-2023/
 date: 2023-06-20
 layout: post
 description: ""

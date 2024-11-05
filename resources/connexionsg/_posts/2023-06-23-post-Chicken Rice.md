@@ -1,6 +1,6 @@
 ---
-title: Chicken Rice
-permalink: /resources/connexionsg/chickenrice/
+title: Chicken Rice in Singapore
+permalink: /resources/connexionsg/heritage-chicken-rice-in-singapore/
 date: 2023-06-23
 layout: post
 description: ""

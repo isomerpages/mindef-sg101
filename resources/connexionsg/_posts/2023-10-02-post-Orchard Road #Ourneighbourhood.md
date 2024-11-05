@@ -1,6 +1,6 @@
 ---
-title: "Orchard Road #Ourneighbourhood"
-permalink: /orchard-road-ourneighbourhood/
+title: "Orchard Road"
+permalink: /resources/connexionsg/ourneighbourhood-orchard-road/
 date: 2023-10-02
 layout: post
 description: ""

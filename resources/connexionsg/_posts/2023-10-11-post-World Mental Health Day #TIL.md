@@ -1,6 +1,6 @@
 ---
-title: "World Mental Health Day #TIL"
-permalink: /world-mental-health-day-til/
+title: "World Mental Health Day"
+permalink: /resources/connexionsg/til-world-mental-health-day/
 date: 2023-10-11
 layout: post
 description: ""

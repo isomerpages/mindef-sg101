@@ -1,6 +1,6 @@
 ---
-title: Malayan Porcupine
-permalink: /resources/connexionsg/malayanporcupine/
+title: Malayan Porcupines in Singapore
+permalink: /resources/connexionsg/nature-malayan-porcupine-in-singapore/
 date: 2023-08-16
 layout: post
 description: ""

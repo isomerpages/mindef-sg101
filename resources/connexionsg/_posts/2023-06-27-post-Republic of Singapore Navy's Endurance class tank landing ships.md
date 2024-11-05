@@ -1,6 +1,6 @@
 ---
-title: Republic of Singapore Navy's Endurance class tank landing ships
-permalink: /resources/connexionsg/republicofsingaporenavyenduranceclasstanklandingships/
+title: Republic of Singapore Navy's Endurance Class Tank Landing Ships
+permalink: /resources/connexionsg/security-rsn-endurance-class-tank-landing-ships/
 date: 2023-06-27
 layout: post
 description: ""

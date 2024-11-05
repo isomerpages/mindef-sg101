@@ -1,6 +1,6 @@
 ---
-title: "SAF Day (1 Jul) #OnThisDay"
-permalink: /resources/connexionsg/safday1jul/
+title: Singapore Armed Forces (SAF) Day 2023
+permalink: /resources/connexionsg/security-saf-day/
 date: 2023-07-01
 layout: post
 description: ""

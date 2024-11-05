@@ -1,6 +1,6 @@
 ---
-title: SAF Combat Rations
-permalink: /resources/connexionsg/safcombatrations/
+title: Singapore Armed Forces Combat Rations
+permalink: /resources/connexionsg/security-singapore-armed-forces-combat-rations/
 date: 2023-07-07
 layout: post
 description: ""

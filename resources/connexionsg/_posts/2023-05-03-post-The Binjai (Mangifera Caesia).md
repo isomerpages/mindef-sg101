@@ -1,6 +1,6 @@
 ---
-title: The Binjai (Mangifera Caesia)
-permalink: /resources/connexionsg/thebinjaimangiferacaesia/
+title: Binjai Trees in Singapore
+permalink: /resources/connexionsg/nature-binjai-trees-in-singapore/
 date: 2023-05-03
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Victoria Theatre & Victoria Concert Hall
-permalink: /resources/connexionsg/victoriatheatreandvictoriaconcerthall/
+permalink: /resources/connexionsg/heritage-victoria-theatre-and-victoria-concert-hall/
 date: 2023-05-23
 layout: post
 description: ""

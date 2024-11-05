@@ -1,6 +1,6 @@
 ---
-title: "The OneMillionTrees Movement #TIL"
-permalink: /resources/connexionsg/onemilliontreesmovement/
+title: One Million Trees Movement in Singapore
+permalink: /resources/connexionsg/til-one-million-trees-movement/
 date: 2023-09-26
 layout: post
 description: ""

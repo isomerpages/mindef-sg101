@@ -1,6 +1,6 @@
 ---
 title: Thosai
-permalink: /resources/connexionsg/thosai/
+permalink: /resources/connexionsg/heritage-thosai/
 date: 2023-07-14
 layout: post
 description: ""

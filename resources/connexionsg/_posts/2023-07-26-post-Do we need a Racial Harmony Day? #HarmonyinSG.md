@@ -1,6 +1,6 @@
 ---
-title: "Do we need a Racial Harmony Day? #HarmonyinSG"
-permalink: /resources/connexionsg/doweneedaracialharmonyday/
+title: Do We Need Racial Harmony Day in Singapore?
+permalink: /resources/connexionsg/identity-do-we-need-a-racial-harmony-day-in-singapore/
 date: 2023-07-26
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
-title: "Safety and Security in Singapore #TakenForGranted"
-permalink: /resources/connexionsg/safetyandsecurityinsingaporetakenforgranted/
+title: Security in Singapore
+permalink: /resources/connexionsg/takenforgranted-security-in-singapore/
 date: 2023-06-13
 layout: post
 description: ""

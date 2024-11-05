@@ -1,6 +1,6 @@
 ---
-title: "The Important Message Signal #CivilDefence"
-permalink: /resources/connexionsg/theimportantmessagecivildefence/
+title: Singapore's Public Warning System
+permalink: /resources/connexionsg/totaldefence-singapores-public-warning-system/
 date: 2023-09-15
 layout: post
 description: ""

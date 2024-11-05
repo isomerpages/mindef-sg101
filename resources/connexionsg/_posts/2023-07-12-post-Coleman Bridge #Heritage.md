@@ -1,6 +1,6 @@
 ---
-title: "Coleman Bridge #Heritage"
-permalink: /resources/connexionsg/colemanbridge/
+title: Coleman Bridge
+permalink: /resources/connexionsg/heritage-coleman-bridge/
 date: 2023-07-12
 layout: post
 description: ""

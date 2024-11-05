@@ -1,6 +1,6 @@
 ---
-title: "Foreign Interference #WTFica #SayNoToFakeNews"
-permalink: /resources/connexionsg/foreigninterferencewfticasaynotofakenews/
+title: Examples of Foreign Interference in Singapore
+permalink: /resources/connexionsg/everythingsg-examples-of-foreign-interference-in-singapore/
 date: 2023-07-29
 layout: post
 description: ""

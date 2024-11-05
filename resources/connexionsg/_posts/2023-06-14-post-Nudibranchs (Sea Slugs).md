@@ -1,6 +1,6 @@
 ---
 title: Nudibranchs (Sea Slugs)
-permalink: /resources/connexionsg/nudibranchsseaslugs/
+permalink: /resources/connexionsg/nature-nudibranchs-sea-slugs/
 date: 2023-06-14
 layout: post
 description: ""

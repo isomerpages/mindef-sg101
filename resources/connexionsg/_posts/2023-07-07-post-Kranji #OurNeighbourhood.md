@@ -1,6 +1,6 @@
 ---
-title: "Kranji #OurNeighbourhood"
-permalink: /resources/connexionsg/kranjiourneighbourhood/
+title: Kranji
+permalink: /resources/connexionsg/ourneighbourhood-kranji/
 date: 2023-07-07
 layout: post
 description: ""

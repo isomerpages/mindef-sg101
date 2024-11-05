@@ -1,6 +1,6 @@
 ---
 title: Singapore's Paper Notes
-permalink: /resources/connexionsg/singaporespapernotes/
+permalink: /resources/connexionsg/identity-singapores-paper-notes/
 date: 2023-08-22
 layout: post
 description: ""

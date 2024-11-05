@@ -1,6 +1,6 @@
 ---
-title: Blood Buddy
-permalink: /resources/connexionsg/bloodbuddy/
+title: Blood Buddy Mascot
+permalink: /resources/connexionsg/identity-blood-buddy-mascot/
 date: 2023-06-12
 layout: post
 description: ""

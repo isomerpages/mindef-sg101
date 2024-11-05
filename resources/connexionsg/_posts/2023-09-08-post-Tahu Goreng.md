@@ -1,6 +1,6 @@
 ---
 title: Tahu Goreng
-permalink: /resources/connexionsg/tahugoreng/
+permalink: /resources/connexionsg/heritage-tahu-goreng/
 date: 2023-09-08
 layout: post
 description: ""

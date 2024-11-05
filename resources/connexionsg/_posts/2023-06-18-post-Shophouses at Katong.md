@@ -1,6 +1,6 @@
 ---
 title: Shophouses at Katong
-permalink: /resources/connexionsg/shophousesatkatong/
+permalink: /resources/connexionsg/heritage-shophouses-in-katong/
 date: 2023-06-18
 layout: post
 description: ""

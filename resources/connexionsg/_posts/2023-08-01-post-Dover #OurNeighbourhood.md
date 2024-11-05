@@ -1,6 +1,6 @@
 ---
-title: "Dover #OurNeighbourhood"
-permalink: /resources/connexionsg/doverourneighbiurhood/
+title: Dover 
+permalink: /resources/connexionsg/ourneighbourhood-dover/
 date: 2023-08-01
 layout: post
 description: ""

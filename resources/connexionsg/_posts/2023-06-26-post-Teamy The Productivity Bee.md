@@ -1,6 +1,6 @@
 ---
-title: Teamy The Productivity Bee
-permalink: /resources/connexionsg/teamytheproductivitybee/
+title: Teamy The Productivity Bee Mascot
+permalink: /resources/connexionsg/identity-teamy-the-productivity-bee-mascot/
 date: 2023-06-26
 layout: post
 description: ""

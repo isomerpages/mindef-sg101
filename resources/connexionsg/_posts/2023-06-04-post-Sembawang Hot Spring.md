@@ -1,6 +1,6 @@
 ---
 title: Sembawang Hot Spring
-permalink: /resources/connexionsg/sembawanghotspring/
+permalink: /resources/connexionsg/heritage-sembawang-hot-spring/
 date: 2023-06-04
 layout: post
 description: ""

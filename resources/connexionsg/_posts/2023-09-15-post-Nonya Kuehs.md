@@ -1,6 +1,6 @@
 ---
 title: Nonya Kuehs
-permalink: /resources/connexionsg/nonyakuehs/
+permalink: /resources/connexionsg/heritage-nonyakuehs/
 date: 2023-09-15
 layout: post
 description: ""

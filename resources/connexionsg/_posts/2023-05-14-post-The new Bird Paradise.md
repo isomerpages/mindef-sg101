@@ -1,6 +1,6 @@
 ---
-title: The new Bird Paradise
-permalink: /resources/connexionsg/thenewbirdparadise/
+title: Mandai Bird Paradise
+permalink: /resources/connexionsg/nature-mandai-bird-paradise/
 date: 2023-05-14
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: August the Merlion
-permalink: /resources/connexionsg/augustthemerlion/
+permalink: /resources/connexionsg/identity-august-the-merlion/
 date: 2023-07-31
 layout: post
 description: ""

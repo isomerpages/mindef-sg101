@@ -1,6 +1,6 @@
 ---
-title: NS Landmark Statue
-permalink: /resources/connexionsg/nslandmarkstatue/
+title: National Service Landmark Statue
+permalink: /resources/connexionsg/identity-national-service-landmark-statue/
 date: 2023-07-08
 layout: post
 description: ""

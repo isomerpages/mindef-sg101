@@ -1,6 +1,6 @@
 ---
 title: SAFTI Military Institute
-permalink: /resources/connexionsg/saftimilitaryinstitute/
+permalink: /resources/connexionsg/heritage-safti-military-institute/
 date: 2023-07-04
 layout: post
 description: ""

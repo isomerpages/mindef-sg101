@@ -1,6 +1,6 @@
 ---
-title: The People of the River Statue Series
-permalink: /resources/connexionsg/thepeopleoftheriverstatueseries/
+title: People of the River Statue Series
+permalink: /resources/connexionsg/identity-people-of-the-river-statue-series/
 date: 2023-05-13
 layout: post
 description: ""

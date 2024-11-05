@@ -1,6 +1,6 @@
 ---
-title: "Marine Parade #OurNeighbourhood"
-permalink: /resources/connexionsg/marineparadeourneighbourhood/
+title: Marine Parade
+permalink: /resources/connexionsg/ourneighbourhood-marine-parade/
 date: 2023-06-06
 layout: post
 description: ""

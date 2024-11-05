@@ -1,6 +1,6 @@
 ---
-title: Merli
-permalink: /resources/connexionsg/merli/
+title: Merli the Mascot
+permalink: /resources/connexionsg/identity-merli-the-mascot/
 date: 2023-05-29
 layout: post
 description: ""
