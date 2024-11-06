@@ -38,6 +38,5 @@ may not be immediately evident but the efforts will eventually blossom.</p>
 <p>What are some kind deeds you have done or seen recently? As the saying
 goes, “Kindness is Contagious, Catch it.”</p>
 <p>#kindness #singaporekindnessweek #Singapore</p>
-<p>
-<br>
-</p>
+<p>Visit ConnexionSG <a href="https://www.facebook.com/ConnexionSG" rel="noopener nofollow" target="_blank">Facebook</a> and
+<a href="https://www.instagram.com/connexionsg/" rel="noopener nofollow" target="_blank">Instagram</a>for more content.</p>
