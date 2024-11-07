@@ -19,3 +19,5 @@ beginning of Singapore's annual Tree Planting Day and a step closer to
 our vision of a Garden City.
 <br>
 <br>Find out more about Singapore’s greening culture!</p>
+<p>Visit ConnexionSG <a href="https://www.facebook.com/ConnexionSG" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> &amp; <a href="https://www.instagram.com/connexionsg/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> for
+more content.</p>
