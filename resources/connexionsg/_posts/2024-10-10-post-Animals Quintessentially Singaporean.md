@@ -11,6 +11,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Animals Quintessentially Singaporean" src="/images/Animals_Quintessentially_Singaporean.png">
 </div>
+<p>Image credits: NParks</p>
+<p>Watch the video here: <a href="https://www.instagram.com/reel/DBTTfwYyr6t/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/reel/DBTTfwYyr6t/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==</a>
+</p>
 <p>“Lionel” the lizard, nicknamed by Formula 1 (F1) driver Alonso, is Singapore’s
 most famous party crasher. For the third time since 2016, a Monitor Lizard
 has yet again made headlines at this year’s Singapore Grand Prix as it
