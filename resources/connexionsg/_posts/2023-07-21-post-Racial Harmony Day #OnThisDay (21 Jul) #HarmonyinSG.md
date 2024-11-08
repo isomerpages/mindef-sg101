@@ -1,6 +1,6 @@
 ---
-title: "Racial Harmony Day #OnThisDay (21 Jul) #HarmonyinSG"
-permalink: /resources/connexionsg/racialharmonydayonthisday21julharmonyinsg/
+title: Racial Harmony Day in Singapore 2021
+permalink: /resources/connexionsg/onthisday-racial-harmony-day-in-singapore-2021/
 date: 2023-07-21
 layout: post
 description: ""

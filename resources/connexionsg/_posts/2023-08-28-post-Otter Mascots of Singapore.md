@@ -1,6 +1,6 @@
 ---
 title: Otter Mascots of Singapore
-permalink: /resources/connexionsg/ottermascot/
+permalink: /resources/connexionsg/identity-otter-mascots-of-singapore/
 date: 2023-08-28
 layout: post
 description: ""

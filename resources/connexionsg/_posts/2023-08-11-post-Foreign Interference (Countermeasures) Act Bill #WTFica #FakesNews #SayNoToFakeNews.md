@@ -1,7 +1,6 @@
 ---
-title: "Foreign Interference (Countermeasures) Act Bill #WTFica #FakesNews
-  #SayNoToFakeNews"
-permalink: /resources/connexionsg/foreigninterference/
+title: Foreign Interference (Countermeasures) Act
+permalink: /resources/connexionsg/everythingsg-foreign-interference-countermeasures-act/
 date: 2023-08-11
 layout: post
 description: ""

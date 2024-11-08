@@ -1,6 +1,6 @@
 ---
-title: "Singa the Lion #OurMascots"
-permalink: /resources/connexionsg/singathelionourmascots/
+title: Singa the Lion Mascot
+permalink: /resources/connexionsg/identity-singa-the-lion-mascot/
 date: 2023-05-23
 layout: post
 description: ""

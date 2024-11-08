@@ -1,6 +1,6 @@
 ---
-title: "Building Safety in Singapore #TakenForGranted"
-permalink: /resources/connexionsg/buildingsafetyinsingapore/
+title: Building Safety in Singapore
+permalink: /resources/connexionsg/takenforgranted-building-safety-in-singapore/
 date: 2023-09-05
 layout: post
 description: ""

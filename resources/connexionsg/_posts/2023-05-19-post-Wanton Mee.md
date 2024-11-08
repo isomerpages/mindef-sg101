@@ -1,6 +1,6 @@
 ---
-title: Wanton Mee
-permalink: /resources/connexionsg/wantonmee/
+title: Wanton Mee in Singapore
+permalink: /resources/connexionsg/heritage-wanton-mee-in-singapore/
 date: 2023-05-19
 layout: post
 description: ""

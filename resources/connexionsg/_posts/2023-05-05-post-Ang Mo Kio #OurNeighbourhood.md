@@ -1,6 +1,6 @@
 ---
-title: "Ang Mo Kio #OurNeighbourhood"
-permalink: /resources/connexionsg/angmokioourneighbourhood/
+title: Ang Mo Kio
+permalink: /resources/connexionsg/ourneighbourhood-ang-mo-kio/
 date: 2023-05-05
 layout: post
 description: ""

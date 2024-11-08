@@ -13,6 +13,8 @@ variant: tiptap
 </div>
 <p>Image credit: Sentosa Development Corporation. Artist’s impression of
 possibilities for Pulau Brani under the Greater Sentosa Master Plan.</p>
+<p>Watch the video here: <a href="https://www.instagram.com/reel/DBhyggUSh0z/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/reel/DBhyggUSh0z/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==</a>
+</p>
 <p>Pulau Brani (“isle of the brave” in Malay) is an island located off the
 southern coast of Singapore, near Keppel Harbour. In the 19th century,
 it had a fort, a coal depot, tin smelting plant and a ship-repairing dock.

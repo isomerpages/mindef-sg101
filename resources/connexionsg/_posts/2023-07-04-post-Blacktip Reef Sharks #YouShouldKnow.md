@@ -1,6 +1,6 @@
 ---
-title: "Blacktip Reef Sharks #YouShouldKnow"
-permalink: /resources/connexionsg/blacktipreefsharks/
+title: Blacktip Reef Sharks in Singapore
+permalink: /resources/connexionsg/nature-blacktip-reef-sharks-in-singapore/
 date: 2023-07-04
 layout: post
 description: ""

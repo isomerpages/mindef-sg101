@@ -1,6 +1,6 @@
 ---
-title: "Sultan Mosque #Heritage"
-permalink: /resources/connexionsg/sultanmosque/
+title: Sultan Mosque
+permalink: /resources/connexionsg/heritage-sultan-mosque/
 date: 2023-06-27
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
-title: Saga Tree (Adenanthera Pavonina)
-permalink: /resources/connexionsg/sagatreeadenantherapavonina/
+title: Saga Trees in Singapore
+permalink: /resources/connexionsg/nature-saga-trees-in-singapore/
 date: 2023-06-07
 layout: post
 description: ""

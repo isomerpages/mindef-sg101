@@ -1,6 +1,6 @@
 ---
 title: Yishun Dam
-permalink: /resources/connexionsg/yishundam/
+permalink: /resources/connexionsg/infrastructure-yishun-dam/
 date: 2023-09-17
 layout: post
 description: ""

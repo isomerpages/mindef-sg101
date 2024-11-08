@@ -1,6 +1,6 @@
 ---
-title: "Novena #OurNeighbourhood"
-permalink: /resources/connexionsg/novenaourneighbourhood/
+title: Novena
+permalink: /resources/connexionsg/ourneighbourhood-novena/
 date: 2023-08-31
 layout: post
 description: ""

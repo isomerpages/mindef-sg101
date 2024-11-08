@@ -1,6 +1,6 @@
 ---
-title: "Never let the system go corrupt #TIL"
-permalink: /resources/connexionsg/neverletthesystemgocorrupttil/
+title: Never let the system go corrupt
+permalink: /resources/connexionsg/everythingsg-never-let-the-system-go-corrupt/
 date: 2023-07-18
 layout: post
 description: ""

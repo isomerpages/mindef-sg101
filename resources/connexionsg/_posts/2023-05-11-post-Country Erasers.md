@@ -1,6 +1,6 @@
 ---
 title: Country Erasers
-permalink: /resources/connexionsg/countryerasers/
+permalink: /resources/connexionsg/nostalgia-country-erasers/
 date: 2023-05-11
 layout: post
 description: ""

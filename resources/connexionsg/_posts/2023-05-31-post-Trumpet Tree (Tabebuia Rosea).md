@@ -1,6 +1,6 @@
 ---
-title: Trumpet Tree (Tabebuia Rosea)
-permalink: /resources/connexionsg/trumpettree/
+title: Trumpet Trees in Singapore
+permalink: /resources/connexionsg/nature-trumpet-trees-in-singapore/
 date: 2023-05-31
 layout: post
 description: ""

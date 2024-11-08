@@ -1,6 +1,6 @@
 ---
-title: "Singapore's zero tolerance policy on Drugs #DrugFreeSG"
-permalink: /resources/connexionsg/singaporeszerotolerancepolicyondrugs/
+title: Singapore's Zero-Tolerance Policy on Drugs
+permalink: /resources/connexionsg/security-singapores-zero-tolerance-policy-on-drugs/
 date: 2023-06-23
 layout: post
 description: ""

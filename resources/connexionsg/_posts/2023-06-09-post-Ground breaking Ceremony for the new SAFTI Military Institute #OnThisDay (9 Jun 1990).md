@@ -1,7 +1,6 @@
 ---
-title: "Ground breaking Ceremony for the new SAFTI Military Institute #OnThisDay
-  (9 Jun 1990)"
-permalink: /resources/connexionsg/groundbreakingceremonysaftimilitaryinstitute/
+title: Ground-breaking Ceremony for the New SAFTI Military Institute
+permalink: /resources/connexionsg/onthisday-ground-breaking-ceremony-safti-military-institute/
 date: 2023-06-09
 layout: post
 description: ""

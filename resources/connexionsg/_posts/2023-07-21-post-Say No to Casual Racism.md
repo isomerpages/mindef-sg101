@@ -1,6 +1,6 @@
 ---
 title: Say No to Casual Racism
-permalink: /resources/connexionsg/saynotocasualracism/
+permalink: /resources/connexionsg/identity-say-no-to-casual-racism/
 date: 2023-07-21
 layout: post
 description: ""

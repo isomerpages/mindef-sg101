@@ -1,6 +1,6 @@
 ---
-title: "Always be SURE when Reading News #WTFica"
-permalink: /resources/connexionsg/alwaysbesurewhenreadingnews/
+title: Tips on Safeguarding Ourselves from Foreign Interference
+permalink: /resources/connexionsg/everythingsg-tips-on-safeguarding-ourselves-from-foreign-interference/
 date: 2023-08-04
 layout: post
 description: ""

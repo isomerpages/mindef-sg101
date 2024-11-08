@@ -1,6 +1,6 @@
 ---
-title: Putu Mayam
-permalink: /resources/connexionsg/heritage-putumayam-in-singapore/
+title: Putu Mayam in Singapore
+permalink: /resources/connexionsg/heritage-putu-mayam-in-singapore/
 date: 2023-06-09
 layout: post
 description: putu mayam rice cake singapore

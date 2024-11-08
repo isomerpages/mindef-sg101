@@ -1,6 +1,6 @@
 ---
-title: "Water Wally and Sally #OurMascots"
-permalink: /resources/connexionsg/waterwallyandsallyourmascots/
+title: Water Wally and Sally Mascots
+permalink: /resources/connexionsg/identity-water-wally-and-sally-mascots/
 date: 2023-06-20
 layout: post
 description: ""

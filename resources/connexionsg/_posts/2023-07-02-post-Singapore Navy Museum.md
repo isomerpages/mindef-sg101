@@ -1,6 +1,6 @@
 ---
 title: Singapore Navy Museum
-permalink: /resources/connexionsg/singaporenavymuseum/
+permalink: /resources/connexionsg/heritage-singapore-navy-museum/
 date: 2023-07-02
 layout: post
 description: ""

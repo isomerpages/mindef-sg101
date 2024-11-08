@@ -1,6 +1,6 @@
 ---
-title: "The Fullerton Hotel Singapore #Heritage"
-permalink: /resources/connexionsg/thefullertonhotelsingaporeheritage/
+title: The Fullerton Hotel Singapore
+permalink: /resources/connexionsg/heritage-the-fullerton-hotel-singapore/
 date: 2023-05-30
 layout: post
 description: ""

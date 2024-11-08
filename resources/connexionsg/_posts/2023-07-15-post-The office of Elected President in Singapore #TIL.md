@@ -1,6 +1,6 @@
 ---
-title: "The office of Elected President in Singapore #TIL"
-permalink: /resources/connexionsg/theofficeofelectedpresidentinsingapore/
+title: The office of Elected President in Singapore 
+permalink: /resources/connexionsg/til-office-of-elected-president-in-singapore/
 date: 2023-07-15
 layout: post
 description: ""
