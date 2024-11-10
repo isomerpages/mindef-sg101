@@ -1,6 +1,6 @@
 ---
-title: The 'Planet' Sculpture by Marc Quinn
-permalink: /resources/connexionsg/planetbymarcquinn/
+title: Planet Sculpture by Marc Quinn
+permalink: /resources/connexionsg/heritage-planet-by-marc-quinn/
 date: 2023-04-29
 layout: post
 description: ""

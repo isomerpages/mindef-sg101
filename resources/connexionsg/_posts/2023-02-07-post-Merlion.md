@@ -1,6 +1,6 @@
 ---
 title: Merlion
-permalink: /resources/connexionsg/merlion/
+permalink: /resources/connexionsg/identity-merlion/
 date: 2023-02-07
 layout: post
 description: ""

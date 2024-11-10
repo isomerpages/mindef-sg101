@@ -1,6 +1,6 @@
 ---
-title: "#TIL Operation Lionheart"
-permalink: /resources/connexionsg/operationlionheart/
+title: Operation Lionheart
+permalink: /resources/connexionsg/til-operation-lionheart/
 date: 2023-03-12
 layout: post
 description: ""

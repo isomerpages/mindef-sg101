@@ -1,6 +1,6 @@
 ---
-title: "#TD Energy Security"
-permalink: /resources/connexionsg/tdenergysecurity/
+title: Energy Security in Singapore
+permalink: /resources/connexionsg/totaldefence-energy-security/
 date: 2023-02-13
 layout: post
 description: ""

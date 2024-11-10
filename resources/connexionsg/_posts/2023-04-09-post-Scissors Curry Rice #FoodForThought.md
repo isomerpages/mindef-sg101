@@ -1,6 +1,6 @@
 ---
-title: "Scissors Curry Rice #FoodForThought"
-permalink: /resources/connexionsg/scissorscurryricefoodforthought/
+title: Scissors Curry Rice
+permalink: /resources/connexionsg/heritage-scissors-curry-rice/
 date: 2023-04-09
 layout: post
 description: ""

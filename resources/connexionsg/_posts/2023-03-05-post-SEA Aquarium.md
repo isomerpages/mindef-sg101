@@ -1,6 +1,6 @@
 ---
 title: SEA Aquarium
-permalink: /resources/connexionsg/seaaquarium/
+permalink: /resources/connexionsg/heritage-sea-aquarium/
 date: 2023-03-05
 layout: post
 description: ""

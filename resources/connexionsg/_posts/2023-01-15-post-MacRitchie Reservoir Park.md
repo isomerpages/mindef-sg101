@@ -1,6 +1,6 @@
 ---
 title: MacRitchie Reservoir Park
-permalink: /resources/connexionsg/macritchiereservoirpark/
+permalink: /resources/connexionsg/heritage-macritchie-reservoir-park/
 date: 2023-01-15
 layout: post
 description: ""

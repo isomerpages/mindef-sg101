@@ -1,6 +1,6 @@
 ---
-title: "#OnThisDay (31 January1974) Laju Incident"
-permalink: /resources/connexionsg/lajuincident/
+title: Laju Incident on 31 Jan 1974
+permalink: /resources/connexionsg/onthisday-laju-incident/
 date: 2023-01-31
 layout: post
 description: ""

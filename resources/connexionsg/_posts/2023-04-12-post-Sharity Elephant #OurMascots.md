@@ -1,6 +1,6 @@
 ---
-title: "Sharity Elephant #OurMascots"
-permalink: /resources/connexionsg/sharityelephantourmascots/
+title: Sharity Elephant Mascot
+permalink: /resources/connexionsg/identity-sharity-elephant-mascot/
 date: 2023-04-12
 layout: post
 description: ""

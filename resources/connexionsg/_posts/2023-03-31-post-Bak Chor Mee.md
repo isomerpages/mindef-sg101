@@ -1,6 +1,6 @@
 ---
-title: Bak Chor Mee
-permalink: /resources/connexionsg/bakchormee/
+title: Bak Chor Mee in Singapore
+permalink: /resources/connexionsg/heritage-bak-chor-mee-in-singapore/
 date: 2023-03-31
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
-title: "#FoodforThought Bak Kwa"
-permalink: /resources/connexionsg/bakkwa/
+title: Bak Kwa in Singapore
+permalink: /resources/connexionsg/heritage-bak-kwa-in-singapore/
 date: 2023-01-21
 layout: post
 description: ""

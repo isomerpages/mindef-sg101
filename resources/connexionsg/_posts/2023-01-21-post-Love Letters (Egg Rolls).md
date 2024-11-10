@@ -1,6 +1,6 @@
 ---
 title: Love Letters (Egg Rolls)
-permalink: /resources/connexionsg/loveletters/
+permalink: /resources/connexionsg/heritage-love-letters/
 date: 2023-01-21
 layout: post
 description: ""

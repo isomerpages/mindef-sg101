@@ -1,6 +1,6 @@
 ---
-title: "#TD Make Every Drop Count"
-permalink: /resources/connexionsg/makeeverydropcount/
+title: Make Every Drop Count in Singapore
+permalink: /resources/connexionsg/totaldefence-emergency-preparedness/
 date: 2023-02-26
 layout: post
 description: ""

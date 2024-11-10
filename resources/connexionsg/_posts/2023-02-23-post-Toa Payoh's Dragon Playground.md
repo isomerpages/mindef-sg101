@@ -1,6 +1,6 @@
 ---
-title: Toa Payoh's Dragon Playground
-permalink: /resources/connexionsg/toapayohdragonplayground/
+title: Dragon Playgrounds in Singapore
+permalink: /resources/connexionsg/heritage-dragon-playgrounds-in-singapore/
 date: 2023-02-23
 layout: post
 description: ""

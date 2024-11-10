@@ -1,6 +1,6 @@
 ---
-title: Got the Monday blues? Don’t worry we all do!
-permalink: /resources/connexionsg/mondayblues/
+title: Combating Monday Blues
+permalink: /resources/connexionsg/everythingsg-combating-Monday-blues/
 date: 2023-01-30
 layout: post
 description: ""

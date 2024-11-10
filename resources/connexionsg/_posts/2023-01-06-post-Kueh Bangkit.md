@@ -1,6 +1,6 @@
 ---
-title: Kueh Bangkit
-permalink: /resources/connexionsg/kuehbankit/
+title: Kueh Bangkit in Singapore
+permalink: /resources/connexionsg/heritage-kueh-bangkit-in-singapore/
 date: 2023-01-06
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
-title: Tempinis Tree (Streblus Elongatus)
-permalink: /resources/connexionsg/tempinistree/
+title: Tempinis Trees in Singapore
+permalink: /resources/connexionsg/nature-tempinis-tree-in-singapore/
 date: 2023-01-25
 layout: post
 description: ""

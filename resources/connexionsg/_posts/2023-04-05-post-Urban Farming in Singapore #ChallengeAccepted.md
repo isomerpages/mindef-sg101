@@ -1,6 +1,6 @@
 ---
-title: "Urban Farming in Singapore #ChallengeAccepted"
-permalink: /resources/connexionsg/urbanfarminginsingaporechallengeaccepted/
+title: Urban Farming in Singapore
+permalink: /resources/connexionsg/challengeaccepted-urban-farming-in-singapore/
 date: 2023-04-05
 layout: post
 description: ""

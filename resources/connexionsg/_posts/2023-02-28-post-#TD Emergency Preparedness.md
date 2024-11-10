@@ -1,6 +1,6 @@
 ---
-title: "#TD Emergency Preparedness"
-permalink: /resources/connexionsg/emergencypreparedness/
+title: Emergency Preparedness in Singapore
+permalink: /resources/connexionsg/totaldefence-emergency-preparedness/
 date: 2023-02-28
 layout: post
 description: ""

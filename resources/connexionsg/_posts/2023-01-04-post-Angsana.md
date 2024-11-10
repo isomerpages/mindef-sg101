@@ -1,6 +1,6 @@
 ---
-title: Angsana
-permalink: /resources/connexionsg/angsana/
+title: Angsana Tree in Singapore
+permalink: /resources/connexionsg/nature-angsana-tree-in-singapore/
 date: 2023-01-04
 layout: post
 description: ""

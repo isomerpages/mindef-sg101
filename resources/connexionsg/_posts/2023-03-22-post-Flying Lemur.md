@@ -1,6 +1,6 @@
 ---
-title: Flying Lemur
-permalink: /resources/connexionsg/flyinglemur/
+title: Flying Lemur in Singapore
+permalink: /resources/connexionsg/nature-flying-lemur/
 date: 2023-03-22
 layout: post
 description: ""

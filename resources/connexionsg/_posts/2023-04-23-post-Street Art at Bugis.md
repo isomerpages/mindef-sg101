@@ -1,6 +1,6 @@
 ---
 title: Street Art at Bugis
-permalink: /resources/connexionsg/streetartatbugis/
+permalink: /resources/connexionsg/heritage-street-art-at-bugis/
 date: 2023-04-23
 layout: post
 description: ""

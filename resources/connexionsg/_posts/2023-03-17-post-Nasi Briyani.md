@@ -1,6 +1,6 @@
 ---
-title: Nasi Briyani
-permalink: /resources/connexionsg/nasibriyani/
+title: Nasi Briyani in Singapore
+permalink: /resources/connexionsg/heritage-nasi-briyani-in-singapore/
 date: 2023-03-17
 layout: post
 description: ""

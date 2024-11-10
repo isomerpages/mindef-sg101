@@ -1,6 +1,6 @@
 ---
-title: "Punggol #OurNeighbourhood"
-permalink: /resources/connexionsg/punggolourneighbourhood/
+title: Punggol
+permalink: /resources/connexionsg/ourneighbourhood-punggol/
 date: 2023-04-01
 layout: post
 description: ""

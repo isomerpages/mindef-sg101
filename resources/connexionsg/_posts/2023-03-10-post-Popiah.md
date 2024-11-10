@@ -1,6 +1,6 @@
 ---
-title: Popiah
-permalink: /resources/connexionsg/popiah/
+title: Popiah in Singapore
+permalink: /resources/connexionsg/heritage-popiah-in-singapore/
 date: 2023-03-10
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
-title: Inuka
-permalink: /resources/connexionsg/inuka/
+title: Inuka the Polar Bear
+permalink: /resources/connexionsg/nature-inuka-polar-bear/
 date: 2023-04-20
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
-title: "#GoneOrOn Red Packets"
-permalink: /resources/connexionsg/redpackets/
+title: The Gifting of Red Packets in Singapore
+permalink: /resources/connexionsg/nostalgia-gifting-of-red-packets-in-singapore/
 date: 2023-01-18
 layout: post
 description: ""

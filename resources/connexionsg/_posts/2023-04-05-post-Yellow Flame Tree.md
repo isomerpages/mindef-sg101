@@ -1,6 +1,6 @@
 ---
-title: Yellow Flame Tree
-permalink: /resources/connexionsg/yellowflametree/
+title: Yellow Flame Tree in Singapore
+permalink: /resources/connexionsg/nature-yellow-flame-trees-in-singapore/
 date: 2023-04-05
 layout: post
 description: ""

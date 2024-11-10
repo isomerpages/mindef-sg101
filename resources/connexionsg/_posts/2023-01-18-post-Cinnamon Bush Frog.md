@@ -1,6 +1,6 @@
 ---
-title: Cinnamon Bush Frog
-permalink: /resources/connexionsg/cinnamonbushfrog/
+title: Cinnamon Bush Frogs in Singapore
+permalink: /resources/connexionsg/nature-cinnamon-bush-frog-in-Singapore/
 date: 2023-01-18
 layout: post
 description: ""

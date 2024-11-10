@@ -1,6 +1,6 @@
 ---
-title: The Rain Tree (Samanea Saman)
-permalink: /resources/connexionsg/theraintreesamaneasaman/
+title: Rain Tree in Singapore
+permalink: /resources/connexionsg/nature-rain-tree-in-singapore/
 date: 2023-04-26
 layout: post
 description: ""

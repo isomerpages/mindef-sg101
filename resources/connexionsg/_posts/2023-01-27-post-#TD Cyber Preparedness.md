@@ -1,6 +1,6 @@
 ---
-title: "#TD Cyber Preparedness"
-permalink: /resources/connexionsg/cyberpreparedness/
+title: Cyber Preparedness in Singapore
+permalink: /resources/connexionsg/totaldefence-cyber-preparedness/
 date: 2023-01-27
 layout: post
 description: ""

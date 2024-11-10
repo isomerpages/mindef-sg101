@@ -1,6 +1,6 @@
 ---
 title: Singapore World Water Day
-permalink: /resources/connexionsg/singaporeworldwaterday/
+permalink: /resources/connexionsg/environment-singapore-world-water-day/
 date: 2023-03-16
 layout: post
 description: ""

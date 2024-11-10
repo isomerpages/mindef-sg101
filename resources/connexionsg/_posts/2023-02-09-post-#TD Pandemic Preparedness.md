@@ -1,6 +1,6 @@
 ---
-title: "#TD Pandemic Preparedness"
-permalink: /resources/connexionsg/pandemicpreparedness/
+title: "Pandemic Preparedness in Singapore"
+permalink: /resources/connexionsg/totaldefence-pandemic-preparedness/
 date: 2023-02-09
 layout: post
 description: ""

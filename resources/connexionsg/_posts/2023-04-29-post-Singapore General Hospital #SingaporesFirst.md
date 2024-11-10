@@ -1,6 +1,6 @@
 ---
-title: "Singapore General Hospital #SingaporesFirst"
-permalink: /resources/connexionsg/singaporegeneralhospitalsingaporesfirst/
+title: Singapore General Hospital
+permalink: /resources/connexionsg/infrastructure-singapore-general-hospital/
 date: 2023-04-29
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Straw Headed Bulbul
-permalink: /resources/connexionsg/strawheadedbulbul/
+permalink: /resources/connexionsg/nature-straw-headed-bulbul/
 date: 2023-02-22
 layout: post
 description: ""

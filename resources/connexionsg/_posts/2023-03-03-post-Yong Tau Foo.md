@@ -1,6 +1,6 @@
 ---
 title: Yong Tau Foo
-permalink: /resources/connexionsg/yongtaufoo/
+permalink: /resources/connexionsg/heritage-yong-tau-foo/
 date: 2023-03-03
 layout: post
 description: ""
