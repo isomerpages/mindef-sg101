@@ -1,6 +1,6 @@
 ---
-title: "#ChallengeAccepted Special Education"
-permalink: /resources/connexionsg/specialeducation/
+title: Special Education in Singapore
+permalink: /resources/connexionsg/challengeaccepted-special-education-in-singapore/
 date: 2022-10-10
 layout: post
 description: ""

@@ -1,6 +1,7 @@
 ---
-title: OnThisDay (29 Oct) Withdrawal of British Far East Command
-permalink: /resources/connexionsg/withdrawlofbritishfareastcommand/
+title: Withdrawal of British Far East Command from Singapore in 1971 
+permalink: /resources/connexionsg/Onthisday-withdrawal-of-British-Far-East-Command-from-Singapore
+-british-far-east-withdrew-from-singapore/
 date: 2022-10-28
 layout: post
 description: ""

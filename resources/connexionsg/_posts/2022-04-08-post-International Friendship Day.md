@@ -1,6 +1,6 @@
 ---
-title: International Friendship Day
-permalink: /resources/connexionsg/internationalfriendshipday/
+title: 55th year of ASEAN in 2022
+permalink: /resources/connexionsg/security-55thyear-of-asean-in-2022/
 date: 2022-04-08
 layout: post
 description: ""

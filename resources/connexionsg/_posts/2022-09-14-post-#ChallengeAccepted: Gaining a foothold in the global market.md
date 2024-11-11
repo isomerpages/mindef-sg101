@@ -1,6 +1,6 @@
 ---
-title: "#ChallengeAccepted: Gaining a foothold in the global market"
-permalink: /resources/connexionsg/industralising/
+title: Industralisation in Singapore in the 1970s
+permalink: /resources/connexionsg/challengeaccepted-industralisation-in-singapore-in-the-1970s/
 date: 2022-09-14
 layout: post
 description: ""

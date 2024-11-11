@@ -1,6 +1,6 @@
 ---
-title: Harlequin Butterfly
-permalink: /resources/connexionsg/harlequinbutterfly/
+title: Harlequin Butterfly in Singapore
+permalink: /resources/connexionsg/nature-harlequin-butterfly-in-singapore/
 date: 2022-12-14
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
-title: "#MondayMotivation Quote from PM Lee"
-permalink: /resources/connexionsg/pmleequote/
+title: Quote by PM Lee Hsien Loong at Youth Celebrate
+permalink: /resources/connexionsg/til-quote-pm-lee-youth-celebrate/
 date: 2022-11-21
 layout: post
 description: ""

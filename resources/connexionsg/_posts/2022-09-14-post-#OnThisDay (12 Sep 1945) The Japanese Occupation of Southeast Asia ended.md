@@ -1,6 +1,6 @@
 ---
-title: "#OnThisDay (12 Sep 1945) The Japanese Occupation of Southeast Asia ended"
-permalink: /resources/connexionsg/endofjapaneseoccupation/
+title: End of the Japanese Occupation of Southeast Asia
+permalink: /resources/connexionsg/onthisday-end-of-japanese-occupation-of-southeast-asia/
 date: 2022-09-14
 layout: post
 description: ""

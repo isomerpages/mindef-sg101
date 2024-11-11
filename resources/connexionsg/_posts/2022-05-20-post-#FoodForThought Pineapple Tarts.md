@@ -1,6 +1,6 @@
 ---
-title: "#FoodForThought Pineapple Tarts"
-permalink: /resources/connexionsg/pineappletarts/
+title: Pineapple Tarts in Singapore
+permalink: /resources/connexionsg/heritage-pineapple-tarts/
 date: 2022-05-20
 layout: post
 description: ""

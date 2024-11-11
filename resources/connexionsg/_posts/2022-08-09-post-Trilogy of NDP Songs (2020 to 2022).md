@@ -1,6 +1,6 @@
 ---
 title: Trilogy of NDP Songs (2020 to 2022)
-permalink: /resources/connexionsg/ndpsongs/2020to2022/
+permalink: /resources/connexionsg/everythingsg-ndp-songs/
 date: 2022-08-09
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
-title: "#TIL National Day Rally"
-permalink: /resources/connexionsg/nationaldayrally/
+title: National Day Rally 2022
+permalink: /resources/connexionsg/everythingsg-national-day-rally-2022/
 date: 2022-09-01
 layout: post
 description: ""

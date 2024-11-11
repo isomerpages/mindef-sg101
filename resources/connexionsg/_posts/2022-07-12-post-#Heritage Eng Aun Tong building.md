@@ -1,6 +1,6 @@
 ---
-title: "#Heritage Eng Aun Tong building"
-permalink: /resources/connexionsg/engauntongbuilding/
+title: Eng Aun Tong Building
+permalink: /resources/connexionsg/heritage-eng-aun-tong-building/
 date: 2022-07-12
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
-title: "#FoodForThought: Papaya Jam"
-permalink: /resources/connexionsg/papaya-jam/
+title: "Wartime food: Papaya Jam"
+permalink: /resources/connexionsg/heritage-wartime-food-papaya-jam/
 date: 2022-03-12
 layout: post
 description: ""

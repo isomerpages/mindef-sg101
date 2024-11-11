@@ -1,6 +1,6 @@
 ---
-title: "#OnThisDay (1 Apr 1999) Pulau Semakau Landfill"
-permalink: /resources/connexionsg/pulausemakaulandfill/
+title: Singapore's Offshore Landfill in Pulau Semakau
+permalink: /resources/connexionsg/onthisday-pulau-semakau-offshore-landfill/
 date: 2022-04-01
 layout: post
 description: ""

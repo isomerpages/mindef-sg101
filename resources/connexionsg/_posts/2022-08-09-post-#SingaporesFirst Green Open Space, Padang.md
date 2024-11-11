@@ -1,6 +1,6 @@
 ---
-title: "#SingaporesFirst Green Open Space, Padang"
-permalink: /resources/connexionsg/padang/
+title: Gazette of The Padang as a National Monument
+permalink: /resources/connexionsg/heritage-the-padang/
 date: 2022-08-09
 layout: post
 description: ""

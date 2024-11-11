@@ -1,6 +1,6 @@
 ---
-title: "#Heritage The Riverhouse"
-permalink: /resources/connexionsg/theriverhouse/
+title: The Riverhouse Singapore
+permalink: /resources/connexionsg/heritage-the-riverhouse-singapore/
 date: 2022-10-04
 layout: post
 description: ""

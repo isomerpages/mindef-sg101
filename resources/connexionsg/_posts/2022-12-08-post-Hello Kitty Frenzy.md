@@ -1,6 +1,6 @@
 ---
-title: Hello Kitty Frenzy
-permalink: /resources/connexionsg/hellokittyfrenzy/
+title: Hello Kitty Frenzy in Singapore
+permalink: /resources/connexionsg/nostalgia-hello-kitty-frenzy/
 date: 2022-12-08
 layout: post
 description: ""

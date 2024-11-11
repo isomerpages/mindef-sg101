@@ -1,6 +1,6 @@
 ---
 title: Chendol
-permalink: /resources/connexionsg/chendol/
+permalink: /resources/connexionsg/heritage-chendol/
 date: 2022-11-25
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
-title: "#Heritage Sri Thendayuthapani Temple"
-permalink: /resources/connexionsg/srithendayuthapanitemple/
+title: Sri Thendayuthapani Temple
+permalink: /resources/connexionsg/heritage-sri-Thendayuthapani-Temple/
 date: 2022-04-19
 layout: post
 description: ""

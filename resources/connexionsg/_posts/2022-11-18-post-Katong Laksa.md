@@ -1,6 +1,6 @@
 ---
 title: Katong Laksa
-permalink: /resources/connexionsg/katonglaksa/
+permalink: /resources/connexionsg/heritage-katong-laksa/
 date: 2022-11-18
 layout: post
 description: ""

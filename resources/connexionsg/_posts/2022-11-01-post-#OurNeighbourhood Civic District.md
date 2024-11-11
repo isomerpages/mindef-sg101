@@ -1,6 +1,6 @@
 ---
-title: "#OurNeighbourhood Civic District"
-permalink: /resources/connexionsg/civicdistrict/
+title: Singapore's Civic District
+permalink: /resources/connexionsg/ourneighbourhood-singapore-civic-district/
 date: 2022-11-01
 layout: post
 description: ""

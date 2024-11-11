@@ -1,6 +1,6 @@
 ---
-title: "#OnThisDay (8 Dec 1941) World War II came to Singapore from the air"
-permalink: /resources/connexionsg/wwii/
+title: First Japanese Air Raid in Singapore on 8 Dec 1941
+permalink: /resources/connexionsg/onthisday-first-air-raid-in-singapore/
 date: 2022-12-08
 layout: post
 description: ""

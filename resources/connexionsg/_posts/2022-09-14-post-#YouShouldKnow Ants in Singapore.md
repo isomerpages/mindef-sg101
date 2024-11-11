@@ -1,6 +1,6 @@
 ---
-title: "#YouShouldKnow Ants in Singapore"
-permalink: /resources/connexionsg/antsinsingapore/
+title: Ant Species in Singapore
+permalink: /resources/connexionsg/nature-ant-species-in-singapore/
 date: 2022-09-14
 layout: post
 description: ""

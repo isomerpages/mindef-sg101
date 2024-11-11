@@ -1,6 +1,6 @@
 ---
-title: "#ShapingOurCity Urban Heat Island Effect"
-permalink: /resources/connexionsg/urbanheatislandeffect/
+title: Urban Heat Island Effect in Singapore
+permalink: /resources/connexionsg/environment-urban-heat-island-effect/
 date: 2022-10-28
 layout: post
 description: ""

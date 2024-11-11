@@ -1,6 +1,6 @@
 ---
-title: "#NeverAgainSG: Punggol Beach was a Sook Ching site"
-permalink: /resources/connexionsg/neveragainsg-punggol-beach-sookching-site/
+title: "Punggol Beach: An Operation Sook Ching Site"
+permalink: /resources/connexionsg/onthisday-punggol-beach-sookching-site/
 date: 2022-02-17
 layout: post
 description: ""

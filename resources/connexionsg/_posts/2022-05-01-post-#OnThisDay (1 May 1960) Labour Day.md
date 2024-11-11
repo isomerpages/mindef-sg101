@@ -1,6 +1,6 @@
 ---
-title: "#OnThisDay (1 May 1960) Labour Day"
-permalink: /resources/connexionsg/labourday/
+title: Labour Day and Tripartism in Singapore
+permalink: /resources/connexionsg/onthisday-labour-day-and-tripartism-in-singapore/
 date: 2022-05-01
 layout: post
 description: ""

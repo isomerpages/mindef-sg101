@@ -1,6 +1,6 @@
 ---
-title: "#Heritage Jurong Town Hall"
-permalink: /resources/connexionsg/jurongtownhall/
+title: Jurong Town Hall
+permalink: /resources/connexionsg/heritage-jurong-town-hall/
 date: 2022-09-01
 layout: post
 description: ""

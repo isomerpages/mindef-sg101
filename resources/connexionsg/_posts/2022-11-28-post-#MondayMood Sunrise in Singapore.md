@@ -1,6 +1,6 @@
 ---
-title: "#MondayMood Sunrise in Singapore"
-permalink: /resources/connexionsg/sunriseinsingapore/
+title: Sunrise in Singapore
+permalink: /resources/connexionsg/everythingsg-sunrise-in-singapore/
 date: 2022-11-28
 layout: post
 description: ""

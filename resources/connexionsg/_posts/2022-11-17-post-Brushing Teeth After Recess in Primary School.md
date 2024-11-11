@@ -1,6 +1,6 @@
 ---
-title: Brushing Teeth After Recess in Primary School
-permalink: /resources/connexionsg/brushingteethafterrecess/
+title: Brushing Teeth After Recess in Primary School 
+permalink: /resources/connexionsg/nostalgia-brushing-teeth-after-recess/
 date: 2022-11-17
 layout: post
 description: ""

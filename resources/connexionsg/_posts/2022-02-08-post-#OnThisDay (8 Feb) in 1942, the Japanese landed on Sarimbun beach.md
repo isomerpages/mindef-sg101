@@ -1,6 +1,6 @@
 ---
-title: "#OnThisDay (8 Feb) in 1942, the Japanese landed on Sarimbun beach"
-permalink: /resources/connexionsg/onthisday-8feb-japanese-landed/
+title: Japanese landed on our Sarimbun beach on 8 Feb 1942
+permalink: /resources/connexionsg/onthisday-japanese-landed-on-sarimbun-beach-on-8feb1942/
 date: 2022-02-08
 layout: post
 description: ""

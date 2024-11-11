@@ -1,6 +1,6 @@
 ---
 title: Henderson Waves Bridge
-permalink: /resources/connexionsg/hendersonwavesbridge/
+permalink: /resources/connexionsg/heritage-henderson-waves-bridge/
 date: 2022-12-04
 layout: post
 description: ""

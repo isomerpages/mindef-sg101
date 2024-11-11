@@ -1,6 +1,6 @@
 ---
 title: Land Reclamation in Singapore
-permalink: /resources/connexionsg/landreclamationinsingapore/
+permalink: /resources/connexionsg/environment-land-reclamation-in-singapore/
 date: 2022-12-20
 layout: post
 description: ""

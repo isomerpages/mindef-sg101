@@ -1,6 +1,6 @@
 ---
-title: "#OnThisDay (15 Mar 1986) Hotel New World Collapse"
-permalink: /resources/connexionsg/hotelnewworldcollapse/
+title: Collapse of Hotel New World
+permalink: /resources/connexionsg/onthisday-collapse-of-hotel-new-world/
 date: 2022-03-15
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
-title: Lontong
-permalink: /resources/connexionsg/lontong/
+title: Lontong in Singapore
+permalink: /resources/connexionsg/heritage-lontong-in-singapore/
 date: 2022-12-23
 layout: post
 description: ""

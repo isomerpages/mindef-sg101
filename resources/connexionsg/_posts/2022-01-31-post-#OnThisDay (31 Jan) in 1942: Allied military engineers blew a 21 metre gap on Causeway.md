@@ -1,7 +1,6 @@
 ---
-title: "#OnThisDay (31 Jan) in 1942: Allied military engineers blew a 21 metre
-  gap on Causeway"
-permalink: /resources/connexionsg/onthisday-31jan-causeway-blew-up/
+title: A 21m gap in our Causeway during WWII
+permalink: /resources/connexionsg/onthisday-a-21m-gap-in-our-causeway-during-ww2/
 date: 2022-01-31
 layout: post
 description: ""

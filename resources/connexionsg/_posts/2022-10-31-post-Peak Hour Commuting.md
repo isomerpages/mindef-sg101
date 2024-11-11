@@ -1,6 +1,6 @@
 ---
-title: Peak Hour Commuting
-permalink: /resources/connexionsg/peakhourcommuting/
+title: Singaporeans' Travel Duration on Public Transport
+permalink: /resources/connexionsg/til-singaporeans-travel-duration-on-public-transport/
 date: 2022-10-31
 layout: post
 description: ""

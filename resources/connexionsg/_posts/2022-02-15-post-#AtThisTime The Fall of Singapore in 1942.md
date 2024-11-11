@@ -1,6 +1,6 @@
 ---
-title: "#AtThisTime The Fall of Singapore in 1942"
-permalink: /resources/connexionsg/atthistime-fall-of-singapore/
+title: The Battle for Singapore 
+permalink: /resources/connexionsg/onthisday-the-battle-for-singapore/
 date: 2022-02-15
 layout: post
 description: ""

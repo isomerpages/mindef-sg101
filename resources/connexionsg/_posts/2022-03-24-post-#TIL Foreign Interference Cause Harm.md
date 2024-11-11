@@ -1,6 +1,6 @@
 ---
-title: "#TIL Foreign Interference Cause Harm"
-permalink: /resources/connexionsg/foreigninterferenceharmful/
+title: Covert Influence Operations and Disinformation Tactics
+permalink: /resources/connexionsg/til-covert-influence-operations-and-disinformation-tactics/
 date: 2022-03-24
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
-title: "#TIL Hornbills"
-permalink: /resources/connexionsg/hornbills/
+title: Hornbills in Singapore
+permalink: /resources/connexionsg/nature-hornbills-in-singapore/
 date: 2022-09-01
 layout: post
 description: ""

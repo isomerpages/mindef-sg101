@@ -1,6 +1,6 @@
 ---
-title: "#ChallengeAccepted Wolbachia Aedes Mosquito"
-permalink: /resources/connexionsg/wolbachiaaedesmosquito/
+title: Wolbachia-Aedes Mosquito
+permalink: /resources/connexionsg/challengeaccepted-wolbachia-aedes-mosquito/
 date: 2022-08-05
 layout: post
 description: ""

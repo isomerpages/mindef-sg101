@@ -1,6 +1,6 @@
 ---
-title: Last NDP at the Floating Platform
-permalink: /resources/connexionsg/last-ndp-at-floating-platform/
+title: The Float at Marina Bay
+permalink: /resources/connexionsg/everythingsg-the-float-at-marina-bay/
 date: 2022-07-30
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
-title: "#ChallengeAccepted Singapore LNG Corporation"
-permalink: /resources/connexionsg/singaporelngcorporation/
+title: Asia’s First LNG Terminal in Jurong
+permalink: /resources/connexionsg/challengeaccepted-asia-first-lng-terminal-in-jurong/
 date: 2022-04-12
 layout: post
 description: ""

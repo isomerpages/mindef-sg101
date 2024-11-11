@@ -1,6 +1,6 @@
 ---
-title: "#FoodForThought Glutinous Rice Dumplings"
-permalink: /resources/connexionsg/glutinousricedumplings/
+title: Glutinous Rice Dumplings in Singapore
+permalink: /resources/connexionsg/heritage-glutinous-rice-dumplings/
 date: 2022-06-03
 layout: post
 description: ""

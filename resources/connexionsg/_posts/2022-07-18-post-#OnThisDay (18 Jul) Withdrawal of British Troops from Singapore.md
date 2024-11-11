@@ -1,6 +1,6 @@
 ---
-title: "#OnThisDay (18 Jul) Withdrawal of British Troops from Singapore"
-permalink: /resources/connexionsg/withdrawal-of-british-troops-from-singapore/
+title: Commissioning of Our First Batch of Officer Cadets 
+permalink: /resources/connexionsg/onthisday-commissioning-our-first-batch-of-officer-cadets/
 date: 2022-07-18
 layout: post
 description: ""

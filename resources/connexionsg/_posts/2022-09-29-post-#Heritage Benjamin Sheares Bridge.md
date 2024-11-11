@@ -1,6 +1,6 @@
 ---
-title: "#Heritage Benjamin Sheares Bridge"
-permalink: /resources/connexionsg/benjaminshearesbridge/
+title: Benjamin Sheares Bridge 
+permalink: /resources/connexionsg/heritage-benjamin-sheares-bridge/
 date: 2022-09-29
 layout: post
 description: ""
