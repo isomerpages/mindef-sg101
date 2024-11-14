@@ -27,3 +27,5 @@ preserve, protect and celebrate.
 <br>
 <br>Next time you pass by these intricate facades, share this piece of history
 with a friend! Let’s celebrate the unity in our diversity!</p>
+<p>Visit ConnexionSG <a href="https://www.facebook.com/ConnexionSG" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> &amp; <a href="https://www.instagram.com/connexionsg/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> for
+more content.</p>
