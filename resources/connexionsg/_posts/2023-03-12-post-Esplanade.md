@@ -1,6 +1,6 @@
 ---
 title: Esplanade
-permalink: /resources/connexionsg/esplanade/
+permalink: /resources/connexionsg/heritage-esplanade/
 date: 2023-03-12
 layout: post
 description: ""

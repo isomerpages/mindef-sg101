@@ -1,6 +1,6 @@
 ---
-title: "#Heritage Atbara and Inverturret"
-permalink: /resources/connexionsg/heritageatbaraandinverturret/
+title: "Atbara and Inverturret: Colonial bungalows"
+permalink: /resources/connexionsg/heritage-atbara-and-inverturret/
 date: 2023-03-21
 layout: post
 description: ""

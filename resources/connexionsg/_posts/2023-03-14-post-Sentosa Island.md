@@ -1,6 +1,6 @@
 ---
 title: Sentosa Island
-permalink: /resources/connexionsg/sentosaisland/
+permalink: /resources/connexionsg/heritage-sentosa-island/
 date: 2023-03-14
 layout: post
 description: ""

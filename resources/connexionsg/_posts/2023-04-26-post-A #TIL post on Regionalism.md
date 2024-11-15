@@ -1,6 +1,6 @@
 ---
-title: "A #TIL post on Regionalism"
-permalink: /resources/connexionsg/atilpostonregionalism/
+title: Speech by SMS Heng Swee Keat on Regionalism
+permalink: /resources/connexionsg/quote-sms-heng-regionalism/
 date: 2023-04-26
 layout: post
 description: ""

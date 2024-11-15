@@ -1,6 +1,6 @@
 ---
-title: "#Heritage The Yue Hwa Building"
-permalink: /resources/connexionsg/yuehwa/
+title: Yue Hwa Building
+permalink: /resources/connexionsg/heritage-yue-hwa-building/
 date: 2023-01-14
 layout: post
 description: ""

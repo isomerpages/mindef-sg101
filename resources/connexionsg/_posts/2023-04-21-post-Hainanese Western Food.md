@@ -1,6 +1,6 @@
 ---
 title: Hainanese Western Food
-permalink: /resources/connexionsg/hainanesewesternfood/
+permalink: /resources/connexionsg/heritage-hainanese-western-food/
 date: 2023-04-21
 layout: post
 description: ""

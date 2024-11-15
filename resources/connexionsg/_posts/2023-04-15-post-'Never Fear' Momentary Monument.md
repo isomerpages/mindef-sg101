@@ -1,6 +1,6 @@
 ---
-title: "'Never Fear' Momentary Monument"
-permalink: /resources/connexionsg/neverfearmomentarymonument/
+title: Never Fear Monument
+permalink: /resources/connexionsg/heritage-never-fear-monument/
 date: 2023-04-15
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
-title: "#TIL from then PM Mr Lee Kuan Yew to Never Fear"
-permalink: /resources/connexionsg/tilfromthenpmmrleekuanyewtoneverfear/
+title: Quote by Lee Kuan Yew at Sree Narayana Mission
+permalink: /resources/connexionsg/quote-lee-kuan-yew-sree-narayana-mission/
 date: 2023-03-24
 layout: post
 description: ""

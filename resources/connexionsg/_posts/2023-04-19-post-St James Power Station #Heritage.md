@@ -1,6 +1,6 @@
 ---
-title: "St James Power Station #Heritage"
-permalink: /resources/connexionsg/stjamespowerstationourheritage/
+title: St James Power Station
+permalink: /resources/connexionsg/infrastructure-st-james-power-station
 date: 2023-04-19
 layout: post
 description: ""

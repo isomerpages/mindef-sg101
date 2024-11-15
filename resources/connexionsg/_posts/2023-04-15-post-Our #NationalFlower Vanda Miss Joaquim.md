@@ -1,6 +1,6 @@
 ---
-title: "Our #NationalFlower Vanda Miss Joaquim"
-permalink: /resources/connexionsg/ournationalflowervandamissjoaquim/
+title: Vanda Miss Joaquim
+permalink: /resources/connexionsg/identity-vanda-miss-joaquim/
 date: 2023-04-15
 layout: post
 description: ""

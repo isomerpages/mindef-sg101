@@ -1,6 +1,6 @@
 ---
 title: Recalling Total Defence Day Activities
-permalink: /resources/connexionsg/tddayactivities/
+permalink: /resources/connexionsg/totaldefence-recalling-td-day-activities/
 date: 2023-02-15
 layout: post
 description: ""

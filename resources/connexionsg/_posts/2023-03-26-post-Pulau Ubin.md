@@ -1,6 +1,6 @@
 ---
 title: Pulau Ubin
-permalink: /resources/connexionsg/pulauubin/
+permalink: /resources/connexionsg/heritage-pulau-ubin/
 date: 2023-03-26
 layout: post
 description: ""

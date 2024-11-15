@@ -1,6 +1,6 @@
 ---
-title: Takeaways from the 45th St Gallen Symposium
-permalink: /resources/connexionsg/takeawaysfrthe45thstgallensymposium/
+title: Quote by Tharman Shanmugaratnam at 45th St Gallen Symposium
+permalink: /resources/connexionsg/quote-tharman-shanmugaratnam/
 date: 2023-03-29
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
-title: Computer Lab Class
-permalink: /resources/connexionsg/computerlabclass/
+title: Computer Lab Class in Singapore
+permalink: /resources/connexionsg/nostalgia-computer-lab-class/
 date: 2023-01-12
 layout: post
 description: ""

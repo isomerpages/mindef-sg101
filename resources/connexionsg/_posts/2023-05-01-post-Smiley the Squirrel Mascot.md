@@ -1,6 +1,6 @@
 ---
 title: Smiley the Squirrel Mascot
-permalink: /resources/connexionsg/smileythesquirrelmascot/
+permalink: /resources/connexionsg/identity-smiley-the-squirrel-mascot/
 date: 2023-05-01
 layout: post
 description: ""

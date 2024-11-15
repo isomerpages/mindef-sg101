@@ -1,6 +1,6 @@
 ---
-title: "#EvenBetter Singapore's Hawker Centres"
-permalink: /resources/connexionsg/evenbettersingaporeshawkercentres/
+title: Our Hawker Centres
+permalink: /resources/connexionsg/heritage-our-hawker-centres/
 date: 2023-03-09
 layout: post
 description: ""

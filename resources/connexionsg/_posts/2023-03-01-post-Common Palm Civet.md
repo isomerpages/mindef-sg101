@@ -1,6 +1,6 @@
 ---
 title: Common Palm Civet
-permalink: /resources/connexionsg/commonpalmcivet/
+permalink: /resources/connexionsg/nature-common-palm-civet/
 date: 2023-03-01
 layout: post
 description: ""

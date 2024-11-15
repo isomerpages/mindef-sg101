@@ -1,6 +1,6 @@
 ---
-title: "#TIL There are about 900 species of spiders found in Singapore!"
-permalink: /resources/connexionsg/spiders/
+title: Spiders in Singapore
+permalink: /resources/connexionsg/nature-spiders-in-singapore/
 date: 2023-01-04
 layout: post
 description: ""

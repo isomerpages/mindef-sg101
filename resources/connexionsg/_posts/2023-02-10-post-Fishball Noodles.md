@@ -1,6 +1,6 @@
 ---
-title: Fishball Noodles
-permalink: /resources/connexionsg/fishballnoodles/
+title: Fishball Noodles in Singapore
+permalink: /resources/connexionsg/heritage-fishball-noodles-in-singapore/
 date: 2023-02-10
 layout: post
 description: ""

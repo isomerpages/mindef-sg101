@@ -1,6 +1,6 @@
 ---
-title: Singa the Lion
-permalink: /resources/connexionsg/singathelion/
+title: Singa the Lion Mascot
+permalink: /resources/connexionsg/identity-singa-the-lion/
 date: 2023-04-17
 layout: post
 description: ""

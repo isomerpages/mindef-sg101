@@ -1,6 +1,6 @@
 ---
-title: Treetop Walk
-permalink: /resources/connexionsg/treetopwalk/
+title: MacRitchie Treetop Walk
+permalink: /resources/connexionsg/heritage-macritchie-treetop-walk/
 date: 2023-02-28
 layout: post
 description: ""

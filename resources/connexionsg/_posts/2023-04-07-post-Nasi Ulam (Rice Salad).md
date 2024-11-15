@@ -1,6 +1,6 @@
 ---
-title: Nasi Ulam (Rice Salad)
-permalink: /resources/connexionsg/nasiulamricesalad/
+title: Nasi Ulam
+permalink: /resources/connexionsg/heritage-nasi-ulam/
 date: 2023-04-07
 layout: post
 description: ""
