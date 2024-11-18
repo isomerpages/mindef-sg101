@@ -1,7 +1,7 @@
 ---
 title: Bu Dao Weng Roly Poly Toy
 date: 2021-04-07
-permalink: /resources/connexionsg/budaoweng/
+permalink: /resources/connexionsg/til-bu-dao-weng-roly-poly-toy/
 layout: post
 description: roly poly toy bu dao weng
 image: ""

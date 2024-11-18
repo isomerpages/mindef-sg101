@@ -1,7 +1,7 @@
 ---
-title: Singapore's First Post-Independence Currency
+title: "Singapore's First Post-Independence Currency Notes"
 date: 2021-07-28
-permalink: /resources/connexionsg/currency/
+permalink: /resources/connexionsg/singaporesfirst-currency-notes/
 layout: post
 ---
 #### #SingaporesFirst Post-Independence Currency

@@ -1,6 +1,6 @@
 ---
-title: Baba House
-permalink: /resources/connexionsg/babahouse/
+title: NUS Baba House
+permalink: /resources/connexionsg/heritage-nus-baba-house/
 date: 2021-11-20
 layout: post
 description: ""

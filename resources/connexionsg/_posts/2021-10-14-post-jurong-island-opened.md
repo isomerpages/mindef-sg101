@@ -1,7 +1,7 @@
 ---
-title: Jurong Island Opened
+title: Opening of Jurong Island 
 date: 2021-10-14
-permalink: /resources/connexionsg/jurongislandopened/
+permalink: /resources/connexionsg/onthisday-opening-jurong-island/
 layout: post
 variant: markdown
 ---

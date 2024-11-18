@@ -1,7 +1,7 @@
 ---
-title: Singapore Became the 117th member of the United Nations
+title: Singapore joins the United Nations 
 date: 2021-09-21
-permalink: /resources/connexionsg/sgmemberun/
+permalink: /resources/connexionsg/onthisday-singapore-united-nations/
 layout: post
 ---
 ####  #onthisday, 21 Sep, in 1965, Singapore became the 117th member of the United Nations (UN). As a young nation, it was critical for Singapore to be recognised as a sovereign and independent state.

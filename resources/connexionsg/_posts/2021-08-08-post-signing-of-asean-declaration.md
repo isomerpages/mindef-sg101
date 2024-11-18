@@ -1,7 +1,7 @@
 ---
-title: Signing Of Asean Declaration
+title: Signing of ASEAN Declaration for Regional Cooperation
 date: 2021-08-08
-permalink: /resources/connexionsg/aseandeclaration/
+permalink: /resources/connexionsg/security-asean-declaration-regional-cooperation/
 layout: post
 ---
 #onthisday in 1967, the Heads of State from Singapore, Indonesia, Malaysia, the Philippines and Thailand gathered in Bangkok to sign the ASEAN declaration for regional cooperation.

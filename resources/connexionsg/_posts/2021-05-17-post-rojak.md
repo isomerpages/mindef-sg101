@@ -1,7 +1,7 @@
 ---
-title: Rojak
+title: Rojak in Singapore
 date: 2021-05-17
-permalink: /resources/connexionsg/rojak/
+permalink: /resources/connexionsg/heritage-rojak-in-singapore/
 layout: post
 variant: markdown
 ---

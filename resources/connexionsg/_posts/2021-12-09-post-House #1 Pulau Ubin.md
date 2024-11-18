@@ -1,6 +1,6 @@
 ---
-title: "House #1 Pulau Ubin"
-permalink: /resources/connexionsg/house1pulauubin/
+title: "House No. 1 Pulau Ubin"
+permalink: /resources/connexionsg/heritage-house-pulau-ubin
 date: 2021-12-09
 layout: post
 description: ""

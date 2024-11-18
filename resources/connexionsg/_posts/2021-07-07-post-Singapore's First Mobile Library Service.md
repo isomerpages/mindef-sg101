@@ -1,7 +1,7 @@
 ---
-title: Singapore's First Mobile Library Service
+title: Singapore Botanic Gardens 
 date: 2021-07-07
-permalink: /resources/connexionsg/singaporesfirst-mobile-library/
+permalink: /resources/connexionsg/onthisday-singapore-botanic-gardens/
 layout: post
 variant: markdown
 description: ""

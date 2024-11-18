@@ -1,7 +1,7 @@
 ---
 title: Eco Link At Bukit Timah Expressway
 date: 2021-06-05
-permalink: /resources/connexionsg/ecolink/
+permalink: /resources/connexionsg/environment-ecolink-bke/
 layout: post
 ---
 Today on #WorldEnvironmentDay, we think about Singapore's constraints, challenges, and efforts in conserving the environment.

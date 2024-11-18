@@ -1,7 +1,7 @@
 ---
-title: Five Power Defence Arrangements 50th Anniversary
+title: 50th anniversary of the Five Power Defence Arrangements 
 date: 2021-11-01
-permalink: /resources/connexionsg/fpda50/
+permalink: /resources/connexionsg/onthisday-50-years-five-power-defence-arrangements/
 layout: post
 variant: tiptap
 ---

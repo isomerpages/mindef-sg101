@@ -1,6 +1,6 @@
 ---
-title: 101 Penang Road
-permalink: /resources/connexionsg/101penangroad/
+title: House of Tan Yeok Nee (Temple House)
+permalink: /resources/connexionsg/heritage-house-tan-yeok-nee/
 date: 2021-12-31
 layout: post
 description: ""

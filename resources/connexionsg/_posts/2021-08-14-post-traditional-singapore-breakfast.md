@@ -1,7 +1,7 @@
 ---
-title: Traditional Singapore Breakfast
+title: Traditional Kaya Toast in Singapore
 date: 2021-08-14
-permalink: /resources/connexionsg/traditionalsgbf/
+permalink: /resources/connexionsg/heritage-traditional-kaya-toast-in-singapore/
 layout: post
 variant: tiptap
 ---

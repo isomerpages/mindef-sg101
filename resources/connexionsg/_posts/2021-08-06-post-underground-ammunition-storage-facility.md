@@ -1,7 +1,7 @@
 ---
 title: Underground Ammunition Storage Facility
 date: 2021-08-06
-permalink: /resources/connexionsg/undergroundamm/
+permalink: /resources/connexionsg/singaporesfirst-underground-ammo-storage-facility/
 layout: post
 ---
 #### Breaking new ground with #SingaporesFirst underground ammunition storage facility

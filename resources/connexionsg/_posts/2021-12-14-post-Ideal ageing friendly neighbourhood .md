@@ -1,6 +1,6 @@
 ---
-title: "Ideal ageing friendly neighbourhood "
-permalink: /resources/connexionsg/idealageingfriendlyneighb/
+title: Age-Friendly Neighbourhoods
+permalink: /resources/connexionsg/infrastructure-age-friendly-neighbourhoods/
 date: 2021-12-14
 layout: post
 description: ""

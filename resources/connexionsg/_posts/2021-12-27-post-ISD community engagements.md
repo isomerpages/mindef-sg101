@@ -1,6 +1,6 @@
 ---
-title: ISD community engagements
-permalink: /resources/connexionsg/isdcommunityengagements/
+title: Community Response to Terrorism
+permalink: /resources/connexionsg/security-community-response-terrorism/
 date: 2021-12-27
 layout: post
 description: ""

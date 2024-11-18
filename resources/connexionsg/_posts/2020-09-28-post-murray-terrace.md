@@ -1,7 +1,7 @@
 ---
 title: Murray Terrace
 date: 2020-09-28
-permalink: /resources/connexionsg/murrayterrace/
+permalink: /resources/connexionsg/heritage-murray-terrace/
 layout: post
 variant: markdown
 ---

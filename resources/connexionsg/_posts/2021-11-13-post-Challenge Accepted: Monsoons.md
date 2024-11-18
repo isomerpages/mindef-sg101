@@ -1,6 +1,6 @@
 ---
-title: "Challenge Accepted: Monsoons"
-permalink: /resources/connexionsg/challengemonsoon/
+title: Monsoons in Singapore
+permalink: /resources/connexionsg/challengeaccepted-monsoons-singapore/
 date: 2021-11-13
 layout: post
 description: ""

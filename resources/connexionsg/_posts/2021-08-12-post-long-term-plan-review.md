@@ -1,7 +1,7 @@
 ---
-title: Long-Term Plan Review
+title: "Singapore's Long-Term Plan Review"
 date: 2021-08-12
-permalink: /resources/connexionsg/longtermplanreview/
+permalink: /resources/connexionsg/infrastructure-singapores-long-term-plan-review/
 layout: post
 ---
 #TIL that the MRT, Jurong Lake District, satellite towns like Toa Payoh, and the Central Catchment Area were all part of Singapore's Long-Term plans over the years. From the weekend hikes we enjoy today to how quickly we can now get from to town, it all came of the big dreams and bold ideas that were pitched in the past. 
