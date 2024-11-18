@@ -1,7 +1,7 @@
 ---
 title: Total Defence Resources
 permalink: /resources/resource-packages/tdresources/
-date: 2024-10-13
+date: 2024-11-14
 layout: post
 description: ""
 image: ""
@@ -75,6 +75,7 @@ the simulated disruptions that took place beween 15 - 29 Feb 2024!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/scenario_video_screenshot.jpg">
 </div>
+<p></p>
 <hr>
 <h4><strong>Total Defence Organisation Table-top Exercise (TTX)</strong></h4>
 <p>The Total Defence Organisation TTX aims to activate thinking and encourage
@@ -88,16 +89,6 @@ through crises and disruptions effectively.</p>
 use the Exercise SG Ready Scenario Video as well as the facilitation materials
 <a href="https://go.gov.sg/tdttx-for-businesses" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <hr>
-<p><strong>SG Ready Giving.sg Website</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD40_x_ComChest_2.jpg">
-</div>
-<p>During times of major disruptions, it is important not to forget those
-in need. As part of Exercise SG Ready, Community Chest (ComChest) will
-be running a campaign from now till 1 November 2024 to support Total Defence.
-Members of the public can donate or sign up as a volunteer via the Giving.sg
-online platform at <a href="https://go.gov.sg/sgreadygiving" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/SGReadyGiving</a>.</p>
 <hr>
 <hr>
 <h4><strong>Total Defence 2024 Campaign Poster</strong></h4>
