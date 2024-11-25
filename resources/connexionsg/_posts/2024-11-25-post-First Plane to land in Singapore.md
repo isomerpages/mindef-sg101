@@ -7,7 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/connexionsg/The_pioneering_flight_crew_of_the__God__Elp_All_of_Us_.jpg">
+</div>
 <p>#DidYouKnow that the first plane^ to land in Singapore was not at Changi,
 but the old Race Course at Farrer Park? The refurbished Vickers Vimy aircraft
 (affectionately known as "God 'Elp All Of Us") was crewed by four Australians
@@ -68,3 +70,4 @@ Singapore! (Reference: <a href="https://www.roots.gov.sg/en/stories-landing/stor
 <p></p>
 <p>Visit ConnexionSG <a href="https://www.facebook.com/ConnexionSG" rel="noopener nofollow" target="_blank">Facebook</a> and
 <a href="https://www.instagram.com/connexionsg/" rel="noopener nofollow" target="_blank">Instagram</a>for more content.</p>
+<p></p>
