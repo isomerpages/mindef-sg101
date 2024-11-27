@@ -1,6 +1,6 @@
 ---
-title: "#OnThisDay (11 December 1950) Violent riots erupted in Singapore"
-permalink: /resources/connexionsg/violentriots/
+title: Maria Hertogh Riots on 11 Dec 1950
+permalink: /resources/connexionsg/onthisday-maria-hertogh-riots/
 date: 2022-12-11
 layout: post
 description: ""

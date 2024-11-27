@@ -1,6 +1,6 @@
 ---
-title: Ice Cream Sandwich
-permalink: /resources/connexionsg/icecreamsandwich/
+title: Ice Cream Sandwich in Singapore
+permalink: /resources/connexionsg/heritage-ice-cream-sandwich-in-singapore/
 date: 2022-12-02
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
-title: "#OnThisDay (8 Aug) Formation of ASEAN"
-permalink: /resources/connexionsg/formationofasean/
+title: Formation of ASEAN on 8 Aug 1967
+permalink: /resources/connexionsg/onthisday-formation-of-asean/
 date: 2022-08-08
 layout: post
 description: ""

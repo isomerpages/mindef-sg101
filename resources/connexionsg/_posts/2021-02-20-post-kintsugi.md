@@ -1,7 +1,7 @@
 ---
-title: Kintsugi
+title: "Kintsugi (Golden Repair)"
 date: 2021-02-20
-permalink: /resources/connexionsg/kintsugi/
+permalink: /resources/connexionsg/til-kintsugi-golden-repair/
 layout: post
 variant: markdown
 ---

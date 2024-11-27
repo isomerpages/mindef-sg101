@@ -1,6 +1,6 @@
 ---
-title: Lor Mee
-permalink: /resources/connexionsg/lormee/
+title: Lor Mee in Singapore
+permalink: /resources/connexionsg/heritage-lor-mee-in-singapore/
 date: 2022-12-09
 layout: post
 description: ""

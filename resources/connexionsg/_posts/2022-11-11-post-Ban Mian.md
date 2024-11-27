@@ -1,6 +1,6 @@
 ---
 title: Ban Mian
-permalink: /resources/connexionsg/banmian/
+permalink: /resources/connexionsg/food-ban-mian/
 date: 2022-11-11
 layout: post
 description: ""

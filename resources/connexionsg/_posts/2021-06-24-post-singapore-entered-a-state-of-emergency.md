@@ -1,7 +1,7 @@
 ---
-title: Singapore Entered A State Of Emergency
+title: Singapore in State of Emergency
 date: 2021-06-24
-permalink: /resources/connexionsg/sgstateofemergency/
+permalink: /resources/connexionsg/onthisday-singapore-state-of-emergency/
 layout: post
 ---
 #onthisday in 1948, Singapore entered a state of emergency. This came in response to the ongoing armed struggle by the Communist Party of Malaya (CPM) in Malaya and Singapore. 

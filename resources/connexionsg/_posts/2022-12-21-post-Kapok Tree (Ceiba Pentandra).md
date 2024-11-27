@@ -1,6 +1,6 @@
 ---
-title: Kapok Tree (Ceiba Pentandra)
-permalink: /resources/connexionsg/kapoktree/
+title: Kapok Tree in Singapore
+permalink: /resources/connexionsg/nature-kapok-tree-in-singapore/
 date: 2022-12-21
 layout: post
 description: ""

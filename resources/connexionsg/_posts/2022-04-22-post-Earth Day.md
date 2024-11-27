@@ -1,6 +1,6 @@
 ---
-title: Earth Day
-permalink: /resources/connexionsg/earthday/
+title: Powering Singapore
+permalink: /resources/connexionsg/Infrastructure-powering-singapore/
 date: 2022-04-22
 layout: post
 description: ""

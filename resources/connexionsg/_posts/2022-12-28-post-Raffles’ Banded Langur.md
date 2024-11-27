@@ -1,6 +1,6 @@
 ---
-title: Raffles’ Banded Langur
-permalink: /resources/connexionsg/rafflesbandedlangur/
+title: Raffles' Banded Langur in Singapore
+permalink: /resources/connexionsg/nature-raffles-banded-langur-in-singapore/
 date: 2022-12-28
 layout: post
 description: ""

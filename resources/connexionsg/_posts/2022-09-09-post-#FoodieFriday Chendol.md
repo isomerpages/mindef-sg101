@@ -1,6 +1,6 @@
 ---
-title: "#FoodieFriday Chendol"
-permalink: /resources/connexionsg/chendol/
+title: Chendol
+permalink: /resources/connexionsg/heritage-chendol/
 date: 2022-09-09
 layout: post
 description: ""

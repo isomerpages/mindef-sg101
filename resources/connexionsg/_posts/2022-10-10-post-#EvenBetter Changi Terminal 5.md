@@ -1,6 +1,6 @@
 ---
-title: "#EvenBetter Changi Terminal 5"
-permalink: /resources/connexionsg/changiterminal5/
+title: Singapore Changi Terminal 5
+permalink: /resources/connexionsg/infrastructure-singapore-changi-terminal5/
 date: 2022-10-10
 layout: post
 description: ""

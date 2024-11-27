@@ -1,6 +1,6 @@
 ---
-title: Our National Anthem
-permalink: /resources/connexionsg/sgnationalanthem/
+title: Singapore's National Anthem
+permalink: /resources/connexionsg/identity-singapore-national-anthem/
 date: 2022-08-07
 layout: post
 description: ""

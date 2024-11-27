@@ -1,7 +1,7 @@
 ---
-title: Golden Mile Complex Gazetted As A Conserved Building
+title: Golden Mile Complex
 date: 2021-10-26
-permalink: /resources/connexionsg/goldenmilegazetted/
+permalink: /resources/connexionsg/heritage-golden-mile-complex/
 layout: post
 variant: markdown
 ---

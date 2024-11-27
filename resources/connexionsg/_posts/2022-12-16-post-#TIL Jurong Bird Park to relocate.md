@@ -1,6 +1,6 @@
 ---
-title: "#TIL Jurong Bird Park to relocate"
-permalink: /resources/connexionsg/jurongbirdparkrelocation/
+title: Jurong Bird Park
+permalink: /resources/connexionsg/heritage-jurong-bird-park/
 date: 2022-12-16
 layout: post
 description: ""

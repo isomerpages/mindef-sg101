@@ -1,6 +1,6 @@
 ---
-title: "#TIL National Symbols"
-permalink: /resources/connexionsg/nationalsymbols/
+title: Singapore's National Symbols
+permalink: /resources/connexionsg/identity-singapores-national-symbols/
 date: 2022-12-04
 layout: post
 description: ""

@@ -1,7 +1,7 @@
 ---
 title: Church Of The Blessed Sacrament
 date: 2021-05-14
-permalink: /resources/connexionsg/blessedsacrament/
+permalink: /resources/connexionsg/heritage-church-of-blessed-sacrament
 layout: post
 ---
 It’s hard to miss the “origami” roof of the Church of the Blessed Sacrament in Queenstown.  It mimics “the tent of meetings'', where Catholics believed God met his followers in the desert. The folded shape drapes downwards to wrap the interior with portions touching the ground, reminiscent of a tent’s anchoring pegs. The building was designed by Y.G. Dowsett and completed in 1965. 

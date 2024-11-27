@@ -1,7 +1,7 @@
 ---
-title: Local Water Catchment
+title: Singapore Water Catchment Areas
 date: 2021-06-22
-permalink: /resources/connexionsg/localwatercatchment/
+permalink: /resources/connexionsg/challengeaccepted-singapore-water-catchment-areas/
 layout: post
 ---
 Singapore has no natural water resources but receives abundant rainfall. How to catch all that free water from the sky?

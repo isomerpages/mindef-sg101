@@ -1,6 +1,6 @@
 ---
 title: Kranji Marshes
-permalink: /resources/connexionsg/kranjimarshes/
+permalink: /resources/connexionsg/environment-kranji-marshes/
 date: 2021-11-10
 layout: post
 description: ""

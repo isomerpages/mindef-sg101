@@ -1,6 +1,6 @@
 ---
-title: "#SingaporesFirst Food Court"
-permalink: /resources/connexionsg/sgfirst-foodcourt/
+title: Food Courts in Singapore
+permalink: /resources/connexionsg/heritage-foodcourts-in-singapore/
 date: 2022-04-14
 layout: post
 description: ""

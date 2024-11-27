@@ -1,7 +1,7 @@
 ---
-title: National Day 2021
+title: National Day Parade 2021
 date: 2021-08-09
-permalink: /resources/connexionsg/ndp2021/
+permalink: /resources/connexionsg/identity-ndp-2021/
 layout: post
 ---
 Our first National Day Parade (NDP) was held at the Padang in 1966, a year after Singapore’s separation from Malaysia. It drew massive crowds, and more than 23,000 people participated in the march past, as Singapore’s first president, Yusof bin Ishak, reviewed the parade on the steps of City Hall.

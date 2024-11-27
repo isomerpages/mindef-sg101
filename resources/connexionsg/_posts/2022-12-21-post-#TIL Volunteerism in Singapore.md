@@ -1,6 +1,6 @@
 ---
-title: "#TIL Volunteerism in Singapore"
-permalink: /resources/connexionsg/volunteerismsg/
+title: Volunteerism in Singapore
+permalink: https://www.sg101.gov.sg/resources/connexionsg/volunteerismsg
 date: 2022-12-21
 layout: post
 description: ""

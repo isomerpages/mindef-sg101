@@ -1,6 +1,6 @@
 ---
-title: "#OnThisDay (22 Feb 2022): Happy Twosday"
-permalink: /resources/connexionsg/happytwosday/
+title: Happy “Twos-day” in 2022
+permalink: /resources/connexionsg/til-happy-twosday-in-2022/
 date: 2022-02-22
 layout: post
 description: ""

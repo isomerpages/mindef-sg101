@@ -1,7 +1,7 @@
 ---
 title: Official Opening of Paya Lebar Airport
 date: 2021-08-20
-permalink: /resources/connexionsg/openingpayalebarairport/
+permalink: /resources/connexionsg/onthisday-opening-paya-lebar-airport/
 layout: post
 variant: tiptap
 ---

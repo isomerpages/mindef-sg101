@@ -1,6 +1,6 @@
 ---
-title: "#FoodForThought: Biryani "
-permalink: /resources/connexionsg/biryani/
+title: Biryani in Singapore
+permalink: /resources/connexionsg/heritage-biryani-in-singapore/
 date: 2022-01-21
 layout: post
 description: ""

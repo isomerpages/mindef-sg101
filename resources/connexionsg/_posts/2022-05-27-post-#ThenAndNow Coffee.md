@@ -1,6 +1,6 @@
 ---
-title: "#ThenAndNow Coffee"
-permalink: /resources/connexionsg/coffee-thenandnow/
+title: Coffee in Singapore
+permalink: /resources/connexionsg/heritage-coffee-in-singapore/
 date: 2022-05-27
 layout: post
 description: ""

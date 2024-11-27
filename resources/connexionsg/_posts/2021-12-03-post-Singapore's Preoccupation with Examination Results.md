@@ -1,6 +1,6 @@
 ---
-title: Singapore's Preoccupation with Examination Results
-permalink: /resources/connexionsg/examresults/
+title: Quote by Dr Goh Keng Swee on Education in Singapore
+permalink: /resources/connexionsg/quote-goh-keng-swee-education-singapore/
 date: 2021-12-03
 layout: post
 description: ""

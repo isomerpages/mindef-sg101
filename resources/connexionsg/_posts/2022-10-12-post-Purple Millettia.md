@@ -1,6 +1,6 @@
 ---
-title: Purple Millettia
-permalink: /resources/connexionsg/purplemillettia/
+title: Purple Millettia in Southeast Asia
+permalink: /resources/connexionsg/nature-purple-millettia-in-southeast-asia/
 date: 2022-10-12
 layout: post
 description: ""

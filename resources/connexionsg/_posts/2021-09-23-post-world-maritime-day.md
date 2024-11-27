@@ -1,7 +1,7 @@
 ---
 title: World Maritime Day
 date: 2021-09-23
-permalink: /resources/connexionsg/worldmaritimeday/
+permalink: /resources/connexionsg/onthisday-world-maritime-day/
 layout: post
 ---
 ![Alt text for image on Isomer site](/images/worldmaritime.jpg)

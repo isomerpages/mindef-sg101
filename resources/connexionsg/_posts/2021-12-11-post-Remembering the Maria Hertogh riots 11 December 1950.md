@@ -1,6 +1,6 @@
 ---
-title: Remembering the Maria Hertogh riots 11 December 1950
-permalink: /resources/connexionsg/mariahertoghriots/
+title: "Lessons from Maria Hertogh Riots (11 Dec 1950)"
+permalink: /resources/connexionsg/onthisday-lessons-maria-hertogh-riots/
 date: 2021-12-11
 layout: post
 description: ""

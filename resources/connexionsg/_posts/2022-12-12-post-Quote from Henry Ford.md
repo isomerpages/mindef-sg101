@@ -1,6 +1,6 @@
 ---
-title: Quote from Henry Ford
-permalink: /resources/connexionsg/quotefromhenryford/
+title: Motivational Quote by Henry Ford
+permalink: /resources/connexionsg/quote-henry-ford/
 date: 2022-12-12
 layout: post
 description: ""

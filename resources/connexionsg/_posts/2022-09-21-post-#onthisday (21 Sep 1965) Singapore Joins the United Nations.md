@@ -1,6 +1,6 @@
 ---
-title: "#onthisday (21 Sep 1965) Singapore Joins the United Nations"
-permalink: /resources/connexionsg/singaporejoinstheun/
+title: Singapore Joins the United Nations on 21 Sep 1965
+permalink: /resources/connexionsg/onthisday-singapore-joins-the-united-nations/
 date: 2022-09-21
 layout: post
 description: ""

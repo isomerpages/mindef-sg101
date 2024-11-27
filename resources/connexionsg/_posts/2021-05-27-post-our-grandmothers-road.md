@@ -1,7 +1,7 @@
 ---
-title: Our Grandmothers Road
+title: Singapore Streets Named after Women
 date: 2021-05-27
-permalink: /resources/connexionsg/grandmothersroad/
+permalink: /resources/connexionsg/infrastructure-singapore-streets-named-after-women/
 layout: post
 variant: tiptap
 ---

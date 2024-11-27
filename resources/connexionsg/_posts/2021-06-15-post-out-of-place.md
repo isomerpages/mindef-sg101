@@ -1,7 +1,7 @@
 ---
-title: Out Of Place
+title: Origins of Singapore's Street Names
 date: 2021-06-15
-permalink: /resources/connexionsg/outofplace/
+permalink: /resources/connexionsg/infrastructure-origins-singapore-street-names/
 layout: post
 ---
 #### Where's the beach on Beach Road?

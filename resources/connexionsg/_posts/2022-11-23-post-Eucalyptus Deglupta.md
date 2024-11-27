@@ -1,6 +1,6 @@
 ---
-title: Eucalyptus Deglupta
-permalink: /resources/connexionsg/eucalyptusdeglupta/
+title: Rainbow Eucalyptus in Singapore
+permalink: /resources/connexionsg/nature-rainbow-eucalyptus-in-singapore/
 date: 2022-11-23
 layout: post
 description: ""

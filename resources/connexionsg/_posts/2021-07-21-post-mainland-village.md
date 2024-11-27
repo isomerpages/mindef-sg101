@@ -1,7 +1,7 @@
 ---
-title: Mainland Village
+title: Kampong Lorong Buangkok
 date: 2021-07-21
-permalink: /resources/connexionsg/mainlandvillage/
+permalink: /resources/connexionsg/singaporeslast-kampong-lorong-buangkok/
 layout: post
 ---
 #### A small turn off Gerald Drive in the Yio Chu Kang area is all it takes to transport you to another era

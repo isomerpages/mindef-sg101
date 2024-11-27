@@ -1,6 +1,6 @@
 ---
-title: "#TIL Singapore's Core Foreign Policy Principles"
-permalink: /resources/connexionsg/sgcoreforeignpolicyprinciples/
+title: Singapore's Core Foreign Policy Principles
+permalink: /resources/connexionsg/til-singapore-core-foreign-policy-principles/
 date: 2022-03-29
 layout: post
 description: ""

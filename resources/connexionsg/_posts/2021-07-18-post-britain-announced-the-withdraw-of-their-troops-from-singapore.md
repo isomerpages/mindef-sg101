@@ -1,7 +1,7 @@
 ---
-title: Britain Announced The Withdraw Of Their Troops From Singapore
+title: Withdrawal of British Troops from Singapore
 date: 2021-07-18
-permalink: /resources/connexionsg/britainwithdraw/
+permalink: /resources/connexionsg/totaldefence-withdrawal-british-troops/
 layout: post
 ---
 #OnThisDay in 1967, Britain announced the withdrawal of their troops from Singapore by the mid-1970s. Six months later, the deadline was brought forward to 1971, as Britain announced a total withdrawal “East of Suez”. At the time, there were 30,000 British troops stationed in Singapore — Britain’s second largest deployment after its NATO commitments. However, as it was becoming too expensive for Britain to continue spending £70 million a year to maintain military bases in Singapore, they decided to reduce defence spending and send troops home.

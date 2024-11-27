@@ -1,7 +1,7 @@
 ---
-title: May Day
+title: May Day 2021
 date: 2021-05-01
-permalink: /resources/connexionsg/mayday/
+permalink: /resources/connexionsg/onthisday-may-day-2021/
 layout: post
 ---
 #### Did you know Labour Day (AKA May Day) is older than National Day?

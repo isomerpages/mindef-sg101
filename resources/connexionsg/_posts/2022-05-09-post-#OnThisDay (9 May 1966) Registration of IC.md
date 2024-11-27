@@ -1,6 +1,6 @@
 ---
-title: "#OnThisDay (9 May 1966) Registration of IC"
-permalink: /resources/connexionsg/registrationofic/
+title: National Registration Act of 1965
+permalink: /resources/connexionsg/onthisday-national-registration-act-of-1965/
 date: 2022-05-09
 layout: post
 description: ""

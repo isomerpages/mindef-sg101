@@ -1,6 +1,6 @@
 ---
-title: "#TIL Mangroves"
-permalink: /resources/connexionsg/mangroves/
+title: Mangroves in Singapore
+permalink: /resources/connexionsg/til-mangroves-in-singapore/
 date: 2022-06-28
 layout: post
 description: ""

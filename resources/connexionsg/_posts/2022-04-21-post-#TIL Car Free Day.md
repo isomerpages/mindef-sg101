@@ -1,6 +1,6 @@
 ---
-title: "#TIL Car Free Day"
-permalink: /resources/connexionsg/carfreedaysg/
+title: Car-Free Sunday in Singapore
+permalink: /resources/connexionsg/singaporefirst-car-free-Sunday/
 date: 2022-04-21
 layout: post
 description: ""

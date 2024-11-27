@@ -1,7 +1,7 @@
 ---
-title: Bicycle Licence
+title: Licensing of Bicyles in Singapore
 date: 2021-04-17
-permalink: /resources/connexionsg/bicyclelicence/
+permalink: /resources/connexionsg/everythingSG-bike-licensing
 layout: post
 variant: markdown
 ---

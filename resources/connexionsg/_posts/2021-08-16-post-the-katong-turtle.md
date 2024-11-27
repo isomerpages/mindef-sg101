@@ -1,7 +1,7 @@
 ---
-title: The Katong Turtle
+title: Wildlife Conservation
 date: 2021-08-16
-permalink: /resources/connexionsg/katongturtle/
+permalink: /resources/connexionsg/nature-wildlife-conservation/
 layout: post
 variant: tiptap
 ---

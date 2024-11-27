@@ -1,6 +1,6 @@
 ---
-title: "#TIL Importance of Water"
-permalink: /resources/connexionsg/importanceofwater/
+title: World Water Day 2022
+permalink: /resources/connexionsg/onthisday-world-water-day-2022/
 date: 2022-03-22
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
-title: "#SingaporesFirst Community Centre"
-permalink: /resources/connexionsg/tiongbahrucommunitycentre/
+title: Tiong Bahru Community Centre
+permalink: /resources/connexionsg/singaporefirst-tiong-bahru-community-centre/
 date: 2022-04-23
 layout: post
 description: ""

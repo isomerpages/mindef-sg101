@@ -1,6 +1,6 @@
 ---
-title: Putu Piring
-permalink: /resources/connexionsg/putupiring/
+title: Putu Piring in Singapore
+permalink: /resources/connexionsg/heritage-putu-piring-in-singapore/
 date: 2022-12-16
 layout: post
 description: ""

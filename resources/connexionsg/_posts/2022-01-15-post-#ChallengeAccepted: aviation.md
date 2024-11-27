@@ -1,6 +1,6 @@
 ---
-title: "#ChallengeAccepted: aviation"
-permalink: /resources/connexionsg/aviation/
+title: How Singapore’s Changi Airport Came To Be
+permalink: /resources/connexionsg/challengeaccepted-how-singapore-changi-airport-came-to-be/
 date: 2022-01-15
 layout: post
 description: ""

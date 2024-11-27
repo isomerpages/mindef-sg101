@@ -1,6 +1,6 @@
 ---
-title: World Television Day
-permalink: /resources/connexionsg/worldtelevisionday/
+title: World Television Day on 21 Nov
+permalink: /resources/connexionsg/til-world-television-day/
 date: 2022-11-21
 layout: post
 description: ""

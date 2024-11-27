@@ -1,6 +1,6 @@
 ---
-title: "#SingaporesFirst MRT"
-permalink: /resources/connexionsg/singaporesfirstmrt/
+title: Singapore's First MRT Station
+permalink: /resources/connexionsg/singaporesfirst-mrt-station/
 date: 2022-11-12
 layout: post
 description: ""

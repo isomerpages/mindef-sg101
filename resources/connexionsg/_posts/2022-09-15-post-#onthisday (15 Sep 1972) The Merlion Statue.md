@@ -1,6 +1,6 @@
 ---
-title: "#onthisday (15 Sep 1972) The Merlion Statue"
-permalink: /resources/connexionsg/themerlionstatue/
+title: Unveiling of The Merlion Statue
+permalink: /resources/connexionsg/identity-unveiling-of-the-merlion-statue/
 date: 2022-09-15
 layout: post
 description: ""

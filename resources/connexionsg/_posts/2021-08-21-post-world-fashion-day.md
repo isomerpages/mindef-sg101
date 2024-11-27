@@ -1,7 +1,7 @@
 ---
-title: World Fashion Day
+title: Traditional Dress in Singapore
 date: 2021-08-21
-permalink: /resources/connexionsg/worldfashionday/
+permalink: /resources/connexionsg/onthisday-singapore-traditional-dress/
 layout: post
 ---
 ![Alt text for image on Isomer site](/images/fashionday.jpg)

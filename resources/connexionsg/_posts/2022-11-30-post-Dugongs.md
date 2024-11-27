@@ -1,6 +1,6 @@
 ---
-title: Dugongs
-permalink: /resources/connexionsg/dugongs/
+title: Dugongs in Singapore
+permalink: /resources/connexionsg/nature-dugong-in-singapore/
 date: 2022-11-30
 layout: post
 description: ""

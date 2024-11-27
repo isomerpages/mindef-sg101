@@ -1,6 +1,6 @@
 ---
-title: "#TIL (Oct 16) World Food Day"
-permalink: /resources/connexionsg/worldfoodday/
+title: World Food Day
+permalink: /resources/connexionsg/til-world-food-day/
 date: 2022-10-17
 layout: post
 description: ""

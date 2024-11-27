@@ -1,6 +1,6 @@
 ---
-title: "#OurNeighbourhood Queenstown"
-permalink: /resources/connexionsg/queenstown/
+title: Queenstown
+permalink: /resources/connexionsg/ourneighbourhood-queenstown/
 date: 2022-12-01
 layout: post
 description: ""

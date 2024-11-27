@@ -1,6 +1,6 @@
 ---
-title: "#OnThisDay (3 Jun) Singapore Self Governance"
-permalink: /resources/connexionsg/sg-self-governance/
+title: Singapore as a Self-governing State
+permalink: /resources/connexionsg/onthisday-singapore-as-a-self-governing-state/
 date: 2022-06-03
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
-title: "#Heritage Merdeka Bridge"
-permalink: /resources/connexionsg/merdekabridge/
+title: The Merdeka Bridge
+permalink: /resources/connexionsg/heritage-the-merdeka-bridge/
 date: 2022-09-01
 layout: post
 description: ""

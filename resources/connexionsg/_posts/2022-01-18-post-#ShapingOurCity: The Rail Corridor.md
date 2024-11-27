@@ -1,6 +1,6 @@
 ---
-title: "#ShapingOurCity: The Rail Corridor"
-permalink: /resources/connexionsg/therailcorridor/
+title: The Rail Corridor in Singapore
+permalink: /resources/connexionsg/Infrastructure-the-rail-corridor-in-singapore/
 date: 2022-01-18
 layout: post
 description: ""

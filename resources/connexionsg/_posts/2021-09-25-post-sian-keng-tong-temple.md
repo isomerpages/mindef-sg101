@@ -1,7 +1,7 @@
 ---
 title: Sian Keng Tong Temple
 date: 2021-09-25
-permalink: /resources/connexionsg/siankengtong/
+permalink: /resources/connexionsg/heritage-sian-keng-tong-temple/
 layout: post
 ---
 #### On Changi Road lies a little Chinese temple with a big backstory. Known as Sian Keng Tong, the temple is dedicated to Bao Sheng Da Di, the God of Medicine, worshiped in Chinese folk religion and in Taoism, and popular in Fujian province where the Heng Hua (兴化) clansmen had come from.

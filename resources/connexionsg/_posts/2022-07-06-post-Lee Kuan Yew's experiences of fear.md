@@ -1,6 +1,6 @@
 ---
-title: Lee Kuan Yew's experiences of fear
-permalink: /resources/connexionsg/leekuanyew/experiencesoffear/
+title: Quote by Lee Kuan Yew on Fear
+permalink: /resources/connexionsg/leekuanyew/quote-lee-kuan-yew-quote-on-fear/
 date: 2022-07-06
 layout: post
 description: ""

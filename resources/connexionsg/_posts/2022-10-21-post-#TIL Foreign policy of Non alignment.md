@@ -1,6 +1,6 @@
 ---
-title: "#TIL Foreign policy of Non alignment"
-permalink: /resources/connexionsg/non-alignment/
+title: Quote by S. Rajaratnam on Non-alignment
+permalink: /resources/connexionsg/quote-s-rajaratnam-non-alignment/
 date: 2022-10-21
 layout: post
 description: ""

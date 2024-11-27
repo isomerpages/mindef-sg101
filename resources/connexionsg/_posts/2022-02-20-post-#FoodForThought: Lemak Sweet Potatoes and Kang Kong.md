@@ -1,6 +1,6 @@
 ---
-title: "#FoodForThought: Lemak Sweet Potatoes and Kang Kong"
-permalink: /resources/connexionsg/lemaksweetpotatoesandkangkong/
+title: "Wartime food: Lemak Sweet Potatoes and Kang Kong"
+permalink: /resources/connexionsg/heritage-wartime-food-Lemak-Sweet-Potatoes-and-Kang-Kong/
 date: 2022-02-20
 layout: post
 description: ""

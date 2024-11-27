@@ -1,6 +1,6 @@
 ---
-title: "#FoodForThought Nasi Lemak"
-permalink: /resources/connexionsg/nasilemak/
+title: Nasi Lemak in Singapore
+permalink: /resources/connexionsg/heritage-nasi-lemak-in-singapore/
 date: 2022-05-13
 layout: post
 description: ""

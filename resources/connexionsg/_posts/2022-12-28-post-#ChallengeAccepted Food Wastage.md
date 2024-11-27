@@ -1,6 +1,6 @@
 ---
-title: "#ChallengeAccepted Food Wastage"
-permalink: /resources/connexionsg/foodwaste/
+title: Combating Food Wastage in Singapore
+permalink: /resources/connexionsg/challengeaccepted-combating-food-wastage/
 date: 2022-12-28
 layout: post
 description: ""

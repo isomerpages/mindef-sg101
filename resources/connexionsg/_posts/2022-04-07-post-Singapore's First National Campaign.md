@@ -1,6 +1,6 @@
 ---
-title: Singapore's First National Campaign
-permalink: /resources/connexionsg/singaporesfirst-national-campaign/
+title: The Anti-Spitting Campaign in Singapore
+permalink: /resources/connexionsg/singaporefirst-anti-spitting-campaign/
 date: 2022-04-07
 layout: post
 description: ""

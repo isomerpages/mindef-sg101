@@ -1,6 +1,6 @@
 ---
 title: Blue Spotted Fantail Ray
-permalink: /resources/connexionsg/bluespottedfantailray/
+permalink: /resources/connexionsg/Nature-blue-spotted-fantail-ray/
 date: 2022-11-02
 layout: post
 description: ""

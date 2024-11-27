@@ -1,6 +1,6 @@
 ---
 title: Bak Kut Teh
-permalink: /resources/connexionsg/bakkutteh/
+permalink: /resources/connexionsg/heritage-bak-kut-teh/
 date: 2022-11-04
 layout: post
 description: ""

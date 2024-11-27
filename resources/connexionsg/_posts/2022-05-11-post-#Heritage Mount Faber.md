@@ -1,6 +1,6 @@
 ---
-title: "#Heritage Mount Faber"
-permalink: /resources/connexionsg/mountfaber/
+title: Mount Faber (Telok Blangah Hill)
+permalink: /resources/connexionsg/environment-mount-faber/
 date: 2022-05-11
 layout: post
 description: ""

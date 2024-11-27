@@ -1,6 +1,6 @@
 ---
-title: "#SingaporeWorldWaterDay Reservoirs in Singapore"
-permalink: /resources/connexionsg/reservoirsinsg/
+title: Singapore World Water Day 2022
+permalink: /resources/connexionsg/onthisday-singapore-world-water-day-2022/
 date: 2022-03-18
 layout: post
 description: ""

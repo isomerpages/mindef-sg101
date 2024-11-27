@@ -1,6 +1,6 @@
 ---
-title: "#OnThisDay (1 Oct 1968) Keep SG Clean Campaign launched"
-permalink: /resources/connexionsg/keepsgclean/
+title: Launch of Keep Singapore Clean Campaign in 1968
+permalink: /resources/connexionsg/onthisday-keep-singapore-clean-campaign/
 date: 2022-10-03
 layout: post
 description: ""

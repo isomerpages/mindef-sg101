@@ -1,6 +1,6 @@
 ---
-title: "#OnThisDay (26 Jun) Cathay Cinema's Last Curtain Call"
-permalink: /resources/connexionsg/cathaycinemas-last-curtain-call/
+title: Cathay Cinema's Last Curtain Call on 26 Jun 2022
+permalink: /resources/connexionsg/onthisday-the-cathay-cinema/
 date: 2022-06-26
 layout: post
 description: ""

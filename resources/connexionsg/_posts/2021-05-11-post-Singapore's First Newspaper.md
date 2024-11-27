@@ -1,7 +1,7 @@
 ---
-title: Singapore's First Newspaper
+title: The Singapore Chronicles
 date: 2021-05-11
-permalink: /resources/connexionsg/singaporesfirst-newspaper/
+permalink: /resources/connexionsg/singaporesfirst-sg-chronicles
 layout: post
 description: singapore first newspaper
 image: ""

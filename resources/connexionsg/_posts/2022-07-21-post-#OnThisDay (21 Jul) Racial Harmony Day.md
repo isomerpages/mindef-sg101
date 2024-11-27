@@ -1,6 +1,6 @@
 ---
-title: "#OnThisDay (21 Jul) Racial Harmony Day"
-permalink: /resources/connexionsg/racialharmonyday/
+title: Racial Harmony Day 2022
+permalink: /resources/connexionsg/onthisday-racial-harmony-day-2022/
 date: 2022-07-21
 layout: post
 description: ""

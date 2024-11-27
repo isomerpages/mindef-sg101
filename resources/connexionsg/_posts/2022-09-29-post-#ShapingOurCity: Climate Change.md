@@ -1,6 +1,6 @@
 ---
-title: "#ShapingOurCity: Climate Change"
-permalink: /resources/connexionsg/climatechange/
+title: Climate-Resilient Infrastructure in Singapore
+permalink: /resources/connexionsg/environment-Climate-Resilient-Infrastructure/
 date: 2022-09-29
 layout: post
 description: ""

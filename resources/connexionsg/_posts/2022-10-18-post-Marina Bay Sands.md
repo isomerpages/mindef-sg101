@@ -1,6 +1,6 @@
 ---
 title: Marina Bay Sands
-permalink: /resources/connexionsg/marinabaysands/
+permalink: /resources/connexionsg/infrastructure-marina-bay-sands/
 date: 2022-10-18
 layout: post
 description: ""

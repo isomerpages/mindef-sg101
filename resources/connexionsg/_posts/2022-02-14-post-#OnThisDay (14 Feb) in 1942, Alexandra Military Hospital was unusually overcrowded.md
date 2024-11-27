@@ -1,7 +1,6 @@
 ---
-title: "#OnThisDay (14 Feb) in 1942, Alexandra Military Hospital was unusually
-  overcrowded"
-permalink: /resources/connexionsg/onthisday-14feb-alexandra-military-hospital-unusually-overcrowded/
+title: Overcrowding in Alexandra Military Hospital on 14 Feb 1942
+permalink: /resources/connexionsg/onthisday-overcrowding-in-alexandra-military-hospital-on-14feb1942/
 date: 2022-02-14
 layout: post
 description: ""
