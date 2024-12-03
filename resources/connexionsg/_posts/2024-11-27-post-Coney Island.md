@@ -67,4 +67,9 @@ spaces even as we develop the urban environment.</p>
 <p>As Singapore continues to intensify nature in our parks, every individual’s
 support and involvement count. How do we wish to coexist sustainably with
 nature, and what can we do as individuals to ensure harmony between the
-natural and built environment?</p>
+natural and built environment?
+<br>
+<br>Visit ConnexionSG <a href="https://www.facebook.com/ConnexionSG" rel="noopener nofollow" target="_blank"><u>Facebook</u></a> and
+<a href="https://www.instagram.com/connexionsg/" rel="noopener nofollow" target="_blank"><u>Instagram</u>
+</a>for more content.</p>
+<p></p>
