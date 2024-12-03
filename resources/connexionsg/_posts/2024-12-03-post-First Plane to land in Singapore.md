@@ -1,7 +1,7 @@
 ---
 title: First Plane to land in Singapore
 permalink: /resources/connexionsg/onthisday-first-plane-to-land-in-singapore/
-date: 2024-11-25
+date: 2024-12-03
 layout: post
 description: ""
 image: ""
