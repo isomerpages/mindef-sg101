@@ -1,7 +1,6 @@
 ---
 title: Withdrawal of British Far East Command from Singapore in 1971 
-permalink: /resources/connexionsg/Onthisday-withdrawal-of-British-Far-East-Command-from-Singapore
--british-far-east-withdrew-from-singapore/
+permalink: /resources/connexionsg/Onthisday-withdrawal-of-British-Far-East-Command-from-Singapore-british-far-east-withdrew-from-singapore/
 date: 2022-10-28
 layout: post
 description: ""
