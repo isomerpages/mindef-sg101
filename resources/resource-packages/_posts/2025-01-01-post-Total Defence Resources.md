@@ -22,7 +22,7 @@ way of life.</p>
 <p>Every Singaporean has a part to play in our daily lives to ensure that
 Singapore is prepared for crises or disruptions, and that we remain resilient
 and united.</p>
-<p>You may download the CI Guide and Logo <a href="https://go.gov.sg/td40logo" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>[For use, you may download the Logo and CI Guide <a href="https://go.gov.sg/tdlogodownload" rel="noopener noreferrer nofollow" target="_blank">here</a>.]</p>
 <p>Below are other resources on Total Defence which you may find useful for
 your engagement.</p>
 <hr>
