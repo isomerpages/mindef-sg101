@@ -7,13 +7,14 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD40_Logo__JPEG___1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Total_Defence_Logo_2020.jpg">
 </div>
-<p>2024 marks 40 years of Total Defence (TD40) in Singapore, since it was
-first introduced in 1984. The theme for this year's Total Defence campaign
-- "Together We Keep Singapore Strong" - focuses on the many ways we can
-put Total Defence into action in our everyday lives.</p>
+<p>The theme for this year's Total Defence campaign - "Together We Keep Singapore
+Strong" - focuses on Singaporeans' readiness for crises and disruptions,
+and the many ways we can put Total Defence into action in our everyday
+lives.</p>
 <p>Total Defence remains relevant to deal with the ever-evolving hybrid threats
 and challenges to Singapore. These include misinformation, supply chain
 disruptions and food security that affect communities and Singaporeans'
@@ -21,10 +22,7 @@ way of life.</p>
 <p>Every Singaporean has a part to play in our daily lives to ensure that
 Singapore is prepared for crises or disruptions, and that we remain resilient
 and united.</p>
-<p>To mark this milestone, a new TD40 logo has been developed for the use
-of all Total Defence-related activities in 2024. For more details on the
-TD40 logo colours and their usage, you may download the CI Guide and Logo
-<a href="https://go.gov.sg/td40logo" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>You may download the CI Guide and Logo <a href="https://go.gov.sg/td40logo" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>Below are other resources on Total Defence which you may find useful for
 your engagement.</p>
 <hr>
