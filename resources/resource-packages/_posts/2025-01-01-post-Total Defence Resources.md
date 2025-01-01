@@ -91,10 +91,10 @@ use the Exercise SG Ready Scenario Video as well as the facilitation materials
 <hr>
 <h4><strong>Total Defence Campaign Poster</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD40_Posters_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD_2025_poster_A3_Landscape_Colour_Lowres_JPG.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD_2025_poster_A3_Landscape_Colour_Lowres_JPG.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD_posters_merged.jpg">
 </div>
 <p>The theme of the Total Defence campaign and poster is "Together We Keep
 Singapore Strong" to remind us that everyone has a part to play!</p>
