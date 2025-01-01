@@ -94,14 +94,14 @@ use the Exercise SG Ready Scenario Video as well as the facilitation materials
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD_2025_poster_A3_Landscape_Colour_Lowres_JPG.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD_posters_merged.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD_posters_merged__2_.jpg">
 </div>
 <p>The theme of the Total Defence campaign and poster is "Together We Keep
 Singapore Strong" to remind us that everyone has a part to play!</p>
 <p>This year's posters features what Singaporeans can do to put Total Defence
 in action in their everyday lives, and how we can be more prepared during
 a crisis or disruption.</p>
-<p>The posters can be downloaded <a href="https://go.gov.sg/tdposter24" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>The posters can be downloaded <a href="https://go.gov.sg/tdpostersdownload" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>A black-and-white (b/w) version of the Total Defence poster is also available
 at the same link above, as a Total Defence activity sheet for printing
 and distribution as a colouring activity.</p>
