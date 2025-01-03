@@ -1,6 +1,7 @@
 ---
 title: About Us
 permalink: /aboutus/
+variant: markdown
 ---
 #### What is SG101?
 
@@ -22,7 +23,9 @@ The content is organised into five main chapters – ‘Defence and Security’,
 
 ‘Society’ traces how Singapore has come a long way in building and maintaining our multiracial society, from managing the communal tensions and racial riots of the 1950s and 60s, to forging a sense of belonging, inclusiveness and shared identity amongst Singaporeans. A huge part of being Singaporean is our experience of growing up in Singapore, which is the intangible aspects of the culture we share, be it in the food we eat or the Singlish we speak
 
-We welcome educators, facilitators, students and Singaporeans who have an interest in the Singapore Story to use this site. Please also help us improve by giving us your feedback and suggestions [here](https://go.gov.sg/sg101survey).
+We welcome educators, facilitators, students and Singaporeans who have an interest in the Singapore Story to use this site. Please also help us improve by giving us your feedback and suggestions [here](https://go.gov.sg/sg101survey) or via email at [Nexus](nexus@defence.gov.sg). 
 
-Copyright © 2021, Nexus.
+Visit ConnexionSG&nbsp;[Facebook](https://www.facebook.com/ConnexionSG)&nbsp;&amp;&nbsp;[Instagram](https://www.instagram.com/connexionsg/)&nbsp;for more content.
+
+Copyright © 2025, Nexus.
 <br>You can find out more about Nexus [here](https://www.mindef.gov.sg/oms/nexus/index.html).
