@@ -2,7 +2,7 @@ logo: /images/sg101.png
 links:
   - title: Resources
     resource_room: true
-  - title: Defence And Security
+  - title: Defence & Security
     collection: defence-and-security
   - title: Foreign Policy
     collection: foreign-policy
@@ -14,5 +14,3 @@ links:
     collection: infrastructure
   - title: About Us
     url: /aboutus
-  - title: Contact Us
-    url: /contact-us/
