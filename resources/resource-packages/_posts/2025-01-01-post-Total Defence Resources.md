@@ -1,19 +1,20 @@
 ---
 title: Total Defence Resources
 permalink: /resources/resource-packages/tdresources/
-date: 2024-11-14
+date: 2025-01-01
 layout: post
 description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD40_Logo__JPEG___1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Total_Defence_Logo_2020.jpg">
 </div>
-<p>2024 marks 40 years of Total Defence (TD40) in Singapore, since it was
-first introduced in 1984. The theme for this year's Total Defence campaign
-- "Together We Keep Singapore Strong" - focuses on the many ways we can
-put Total Defence into action in our everyday lives.</p>
+<p>The theme for this year's Total Defence campaign - "Together We Keep Singapore
+Strong" - focuses on Singaporeans' readiness for crises and disruptions,
+and the many ways we can put Total Defence into action in our everyday
+lives.</p>
 <p>Total Defence remains relevant to deal with the ever-evolving hybrid threats
 and challenges to Singapore. These include misinformation, supply chain
 disruptions and food security that affect communities and Singaporeans'
@@ -21,10 +22,7 @@ way of life.</p>
 <p>Every Singaporean has a part to play in our daily lives to ensure that
 Singapore is prepared for crises or disruptions, and that we remain resilient
 and united.</p>
-<p>To mark this milestone, a new TD40 logo has been developed for the use
-of all Total Defence-related activities in 2024. For more details on the
-TD40 logo colours and their usage, you may download the CI Guide and Logo
-<a href="https://go.gov.sg/td40logo" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>[For use, you may download the Logo and CI Guide <a href="https://go.gov.sg/tdlogodownload" rel="noopener noreferrer nofollow" target="_blank">here</a>.]</p>
 <p>Below are other resources on Total Defence which you may find useful for
 your engagement.</p>
 <hr>
@@ -91,19 +89,19 @@ use the Exercise SG Ready Scenario Video as well as the facilitation materials
 <hr>
 <hr>
 <hr>
-<h4><strong>Total Defence 2024 Campaign Poster</strong></h4>
+<h4><strong>Total Defence Campaign Poster</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD40_Poster__A3_Landscape_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD_2025_poster_A3_Landscape_Colour_Lowres_JPG.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD40_Posters_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD_posters_merged__2_.jpg">
 </div>
 <p>The theme of the Total Defence campaign and poster is "Together We Keep
 Singapore Strong" to remind us that everyone has a part to play!</p>
 <p>This year's posters features what Singaporeans can do to put Total Defence
 in action in their everyday lives, and how we can be more prepared during
 a crisis or disruption.</p>
-<p>The posters can be downloaded <a href="https://go.gov.sg/tdposter24" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>The posters can be downloaded <a href="https://go.gov.sg/tdpostersdownload" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>A black-and-white (b/w) version of the Total Defence poster is also available
 at the same link above, as a Total Defence activity sheet for printing
 and distribution as a colouring activity.</p>
