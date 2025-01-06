@@ -8,12 +8,12 @@ image: ""
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tampines.jpg">
+</div>
+<p>📷: Tampines in the 1980 before the development of HDB housing estates
+(Credits to: NHB)</p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>
-<br>·</p>
 <p>Located in the eastern region of Singapore, it is hard to imagine Tampines’
 former rural days as a farming and fishing village with plantations, when
 juxtaposed with the sheer number of people at Tampines today.</p>
@@ -66,3 +66,19 @@ world could replicate.</p>
 urban planning. As Tampines continues to evolve, the heart of its development
 remains rooted in fostering a strong sense of community and neighbourliness
 among its residents.</p>
+<p></p>
+<p>Interested to learn more about everyday heritage that are part and parcel
+of the Tampines community? Explore Tampines New Town here (<strong><a href="https://search.nlb.gov.sg/spatialdiscovery/storymaps/tampines/index.html?fbclid=IwZXh0bgNhZW0CMTAAAR0Vanntt6G7T92BO7ZcoqxVL3NZQqKVQDoLRnKMpEfeFi-3Jp9iXbQbjgQ_aem_M0cDWt9Cos2x2yfEPvNaSw" rel="noopener noreferrer nofollow" target="_blank">https://search.nlb.gov.sg/.../storymaps/tampines/index.html</a></strong>)
+and check out the Tampines Heritage Trial here (<strong><a href="https://search.nlb.gov.sg/spatialdiscovery/storymaps/tampines/index.html?fbclid=IwZXh0bgNhZW0CMTAAAR0Vanntt6G7T92BO7ZcoqxVL3NZQqKVQDoLRnKMpEfeFi-3Jp9iXbQbjgQ_aem_M0cDWt9Cos2x2yfEPvNaSw" rel="noopener noreferrer nofollow" target="_blank">https://www.roots.gov.sg/.../Tampines-Heritage-Trail</a><a href="https://www.roots.gov.sg/places/places-landing/trails/Tampines-Heritage-Trail-Tampines-Town-Trail?fbclid=IwZXh0bgNhZW0CMTAAAR3tPPyTS0KXsVwM5LpKKSujnSfegYvjX5YuRaLr6-o7QyyYuTWBa0xcSL8_aem_1smfX362FPOiWr3d9TcIrg" class="x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x1sur9pj xkrqix3 x1fey0fg x1s688f" rel="nofollow" target="_blank">...</a></strong>).</p>
+<p></p>
+<p><strong><a href="https://www.facebook.com/hashtag/ourneighbourhood?__eep__=6&amp;__cft__[0]=AZUe9qJ8D0zwlBQKoT-dyBqOE1eHhOlwfrANku078NOutgWfdGOyarkBrLkur5elweA1yS7GO7HD5AhJixxA4-AruAvejyt30wk9kIOmmrdG7hBbFNBv72GlQH-5I_gWY4EmPQVNhBBgb2fdcgBoXezxMI7SsvrgQ0yP2mgygavOV0uSFe4TC6wqFtKOLgnUsj4&amp;__tn__=*NK-R" class="x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x1sur9pj xkrqix3 x1fey0fg x1s688f" rel="noopener noreferrer nofollow" target="_blank">#OurNeighbourhood</a></strong>  <strong><a href="https://www.facebook.com/hashtag/tampines?__eep__=6&amp;__cft__[0]=AZUe9qJ8D0zwlBQKoT-dyBqOE1eHhOlwfrANku078NOutgWfdGOyarkBrLkur5elweA1yS7GO7HD5AhJixxA4-AruAvejyt30wk9kIOmmrdG7hBbFNBv72GlQH-5I_gWY4EmPQVNhBBgb2fdcgBoXezxMI7SsvrgQ0yP2mgygavOV0uSFe4TC6wqFtKOLgnUsj4&amp;__tn__=*NK-R" class="x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x1sur9pj xkrqix3 x1fey0fg x1s688f" rel="noopener noreferrer nofollow" target="_blank">#Tampines</a></strong>  <strong><a href="https://www.facebook.com/hashtag/singapore?__eep__=6&amp;__cft__[0]=AZUe9qJ8D0zwlBQKoT-dyBqOE1eHhOlwfrANku078NOutgWfdGOyarkBrLkur5elweA1yS7GO7HD5AhJixxA4-AruAvejyt30wk9kIOmmrdG7hBbFNBv72GlQH-5I_gWY4EmPQVNhBBgb2fdcgBoXezxMI7SsvrgQ0yP2mgygavOV0uSFe4TC6wqFtKOLgnUsj4&amp;__tn__=*NK-R" class="x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x1sur9pj xkrqix3 x1fey0fg x1s688f" rel="noopener noreferrer nofollow" target="_blank">#Singapore</a></strong>  <strong><a href="https://www.facebook.com/hashtag/ourtampineshub?__eep__=6&amp;__cft__[0]=AZUe9qJ8D0zwlBQKoT-dyBqOE1eHhOlwfrANku078NOutgWfdGOyarkBrLkur5elweA1yS7GO7HD5AhJixxA4-AruAvejyt30wk9kIOmmrdG7hBbFNBv72GlQH-5I_gWY4EmPQVNhBBgb2fdcgBoXezxMI7SsvrgQ0yP2mgygavOV0uSFe4TC6wqFtKOLgnUsj4&amp;__tn__=*NK-R" class="x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x1sur9pj xkrqix3 x1fey0fg x1s688f" rel="noopener noreferrer nofollow" target="_blank">#OurTampinesHub</a></strong>
+</p>
+<p></p>
+<p>Visit ConnexionSG <a href="https://www.facebook.com/ConnexionSG" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> &amp; <a href="https://www.instagram.com/connexionsg/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> for
+more content.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
