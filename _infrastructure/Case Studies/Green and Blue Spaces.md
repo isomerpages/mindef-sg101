@@ -40,7 +40,7 @@ The Active, Beautiful, Clean Waters (ABC Waters) programme has been key to this 
 
 The Kallang River @ Bishan-Ang Mo Kio Park is the programme’s flagship project. Before 2009, it was just a 2.7km-long and empty concrete canal adjacent to the park. Under the ABC Waters programme, however, this waterway has transformed into a river. This has created opportunities for new lifestyle activities, and migratory birds and aquatic animals are often spotted there. The river is also designed to prevent floods, the greenery around it acts as a filter to eliminate pollutants in rainwater.
 
-<iframe width="660" height="415" src="https://www.youtube.com/embed/voZDyh86tsA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/voZDyh86tsA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 As then-Minister of National Development Lawrence Wong said, “We started out to be a Garden City. Now we’re making Singapore a City of Garden and Waters.”
 

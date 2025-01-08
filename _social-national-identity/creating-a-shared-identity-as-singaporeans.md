@@ -60,7 +60,7 @@ He studied the flags of other countries with the intention of creating something
 
 Red was chosen because it symbolised prosperity and happiness, while white – formed when all seven colours of the rainbow are combined – was chosen to symbolise the unity of the different races. The crescent moon, which represents Singapore as a new nation, was added later because Dr Toh wanted to “remove any apprehension that we were building a Chinese state”. After all, “there are also five stars on the flag of the People’s Republic of China”, he said.
 
-<iframe width="660" height="415" src="https://www.youtube.com/embed/aAE6tC98xpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/aAE6tC98xpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The idea of a pledge was also mooted as a way to inculcate national consciousness and patriotism in schools. Then-Minister for Foreign Affairs S. Rajaratnam, who authored the pledge, believed that differences in language, race and religion were potentially divisive. Hence, he made use of the pledge to emphasise that these differences could be overcome if Singaporeans were united in their commitment to the country.
 
@@ -74,7 +74,7 @@ After three drafts and multiple revisions, the Singapore pledge was eventually f
 ![](/images/img0084.jpg)
 (Images: National Archive of Singapore)
 
-<iframe width="660" height="415" src="https://www.youtube.com/embed/dIZHmB2r7JM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/dIZHmB2r7JM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Singaporeans have increasingly sought to use the flag and other national symbols to show their national pride and solidarity in ways not anticipated by the 1959 rules. On 13 September 2022, four more national symbols – our national pledge, national flower Vanda Miss Joaquim, lion head, and public seal – have been formally recognised under the new National Symbols Bill.
 
@@ -126,11 +126,11 @@ On 23 March 2015, Singapore’s founding Prime Minister, Lee Kuan Yew, passed aw
 
 [![Alt text for image on Isomer site](/images/society/multicultural/banner%201.gif)](/social-national-identity/case-studies/PassingofLKY/)
 
-<iframe width="660" height="415" src="https://www.youtube.com/embed/TMeQwCLEnRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/TMeQwCLEnRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Apart from that, at the 2015 Southeast Asian (SEA) Games, Team Singapore swimmers won the women's 4x200m freestyle relay. The national anthem played while they stood on the podium. However, the PA system crackled and died midway through. Undeterred, Singaporeans in the stands picked up the anthem from where the PA system left off, singing even louder, till the end of the national anthem. The heartfelt rendition drew loud applause from the packed arena, with the swimmers visibly moved.
 
-<iframe width="660" height="415" src="https://www.youtube.com/embed/MR-ufovi7V0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/MR-ufovi7V0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [![Alt text for image on Isomer site](/images/society/multicultural/banner%203.gif)](/social-national-identity/case-studies/SportsSceneinSG/)
 

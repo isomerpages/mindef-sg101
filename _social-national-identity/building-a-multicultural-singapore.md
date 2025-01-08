@@ -91,7 +91,7 @@ against rising religiosity. The Act was updated in 2019 to reflect changes
 in the way information is spread among the population and to protect Singapore
 against foreign influence.</p>
 <div class="iframe-wrapper">
-<iframe height="415" width="660" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5E3upH9sFIE"></iframe>
+<iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5E3upH9sFIE"></iframe>
 </div>
 <p>Besides safeguards against discrimination, measures were also taken to
 help people of different ethnicities for bonds. Our leaders chose a common
