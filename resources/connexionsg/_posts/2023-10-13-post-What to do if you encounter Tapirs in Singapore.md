@@ -1,0 +1,51 @@
+---
+title: Tapirs in Singapore
+permalink: /resources/connexionsg/nature-tapirs-in-singapore/ 
+date: 2023-10-13
+layout: post
+description: ""
+image: ""
+variant: tiptap
+---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/connexionsg/2023/Tapir_IG.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/connexionsg/2023/tapir_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/connexionsg/2023/tapir_3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/connexionsg/2023/tapir_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/connexionsg/2023/tapir_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/connexionsg/2023/tapir_6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/connexionsg/2023/tapir_7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/connexionsg/2023/tapir_8.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/connexionsg/2023/tapir_9.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/connexionsg/2023/tapir_10.jpg">
+</div>
+<p></p>
+<p>In recent times, two observations of the Malayan Tapir have been sighted
+along the Punggol Park Connector in Singapore.</p>
+<p>Swipe on to read about these elusive creatures on our sunny island and
+what you should do if you ever encounter one! 😉</p>
+<p></p>
+<p></p>
+<p>Visit ConnexionSG <a href="https://www.facebook.com/ConnexionSG" rel="noopener noreferrer nofollow" target="_blank">Facebook </a>and <a href="https://www.instagram.com/connexionsg/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> for
+more content.</p>
+<p></p>
+<p></p>
