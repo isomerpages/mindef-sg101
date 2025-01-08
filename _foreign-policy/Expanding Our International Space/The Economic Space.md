@@ -20,7 +20,7 @@ Our founding fathers understood the importance for Singapore to be plugged into 
 
 Watch the video below by Institute of Policy Studies (IPS) - Singapore Perspectives 2022 to learn more about **Mr S Rajaratnam's vision of Singapore as a Global City**:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WrXxGUdY5jk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/WrXxGUdY5jk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Over the years, we have built a secure, transparent and business-friendly environment, based on good governance and effective economic management, for international companies to operate in. We also strive to discern future trends and position ourselves such that we are able to grasp opportunities ahead of others. [^3] For a small country like Singapore, we must remain nimble and seize opportunities quickly, just like what we did when Singapore sealed the USSFTA over a game of golf.
 

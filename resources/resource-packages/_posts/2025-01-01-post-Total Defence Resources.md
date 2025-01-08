@@ -135,12 +135,12 @@ below:</p>
 <p><strong>Total Defence Day Video 2023</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cl9ohELFTv0"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cl9ohELFTv0"></iframe>
 </div>
 <p><strong>Minister for Defence's Total Defence Day 2022 Message</strong>.
 Download the transcript <a href="/files/transcript%20-%20minister%20for%20defence%20total%20defence%20day%202022%20message.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7zzFPeTDa5s"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7zzFPeTDa5s"></iframe>
 </div>
 <hr>
 <h4><strong>Total Defence 40 Special Exhibition</strong></h4>
@@ -237,7 +237,7 @@ supplies and services.</p>
 <p><strong>Total Defence Table-top Exercise Scenario Video 2023</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HBXgEvPd1GA"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HBXgEvPd1GA"></iframe>
 </div>
 <p>Interested to carry out your own Total Defence Community TTX? You may
 download the Total Defence TTX Scenario Video as well as the facilitation

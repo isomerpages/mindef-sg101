@@ -57,7 +57,7 @@ Credit: Mothership TikTok.
 
 Watch Minister for Foreign Affairs Dr Vivian Balakrishnan's Ministerial Statement on Ukraine and its implications below: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k5SGAzefIew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/k5SGAzefIew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 The TikTok video posted by Mothership showing Ukraine’s United Nations Ambassador Sergiy Kyslytsya praising Singapore’s diplomatic position as “brave as a tiger”, garnered mostly comments critical of Singapore’s decision to implement sanctions on Russia.[^11] 
 

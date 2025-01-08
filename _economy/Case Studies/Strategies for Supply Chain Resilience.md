@@ -38,5 +38,5 @@ Strengthening supply chain connectivity remains a priority for Singapore, especi
 
 Equally important will be our ability to maintain our position as a reliable and trusted hub for trading partners and businesses from any part of the world.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ejtgk8Oj2qw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Ejtgk8Oj2qw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 (Video: “Singapore Summit 2020 – ‘Anticipating a New World’: Dialogue with Tharman Shangumaratnam” by the Singapore Summit)

@@ -115,7 +115,7 @@ between the two countries improved thereafter.[^7]</p>
 </p>
 <p>Watch our video on <em>Konfrontasi</em> below:</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/m5HNGgfz8i8"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/m5HNGgfz8i8"></iframe>
 </div>
 <p>In 2014, Indonesia named a new warship “Usman Harun” after the two marines
 who carried out the 1965 MacDonald House bombing in Singapore. The naming
@@ -219,7 +219,7 @@ integrity.[^21] [^22]</p>
 <p>Watch Minister for Foreign Affairs Dr Vivian Balakrishnan's Ministerial
 Statement on Ukraine and its implications below:</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/k5SGAzefIew"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/k5SGAzefIew"></iframe>
 </div>
 <h4><strong>Situation in Ukraine: Lessons for Singapore</strong></h4>
 <div class="isomer-image-wrapper">

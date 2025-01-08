@@ -17,7 +17,7 @@ While this means that Singapore has access to the global market of different typ
 
 With this in mind, Singapore launched the “30 by 30” plan in 2019. Under this plan, we aim to produce 30% the food we consume by 2030.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5E1NIwRx9d4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/5E1NIwRx9d4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This may seem daunting given that Singapore does not have large tracts of land to support farming activities. However, one way we have overcome these physical limitations is through agri-technology.
 
