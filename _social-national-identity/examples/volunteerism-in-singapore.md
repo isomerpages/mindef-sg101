@@ -28,7 +28,7 @@ However, Singapore’s national volunteerism rate has fallen to 29 per cent, com
 
 In 2019, SG Cares, a national movement to promote volunteerism, was launched. MCCY partnered community groups to establish Volunteer Centres, which aid in volunteer matching, deployment and training. In addition, an SG Care app was developed to allow volunteers to find volunteering opportunities more easily, such as by allowing them to choose their preferred timings or propose or collaborate on projects to help those in need.
 
-<iframe width="660" height="415" src="https://www.youtube.com/embed/gs6NGPk0yjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/gs6NGPk0yjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 These efforts have continued into 2020. Budget 2020 has set aside S$350m in the newly established Community Capability Trust, which social service agencies can tap into. A Bicentennial Community Fund, too, will further assist institutes of public characters (IPC). Together, the government hopes to cultivate a “giving culture”.
 

@@ -4,7 +4,7 @@ permalink: /social-national-identity/case-studies/tudungissue/
 description: ""
 third_nav_title: Case Studies
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rs7Bh-g55m8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Rs7Bh-g55m8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Over the years, the “tudung issue” – whether Muslim women can wear the tudung in professional settings – has attracted public discussion. 
 

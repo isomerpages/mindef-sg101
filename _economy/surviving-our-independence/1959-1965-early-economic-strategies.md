@@ -34,7 +34,7 @@ One of its first tasks was to develop Jurong into an industrial estate, as part 
 
 #### 1963: Formation of Malaysia
 
-<iframe width="660" height="415" src="https://www.youtube.com/embed/WjkrBKuN6CY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/WjkrBKuN6CY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The economic rationale for a merger with Malaya, North Borneo and Sarawak to form Malaysia was clear. A combined market of about 12 million people would overcome the limitations of Singapore’s small market size by enabling the growth of local firms, and generating jobs and income for Singaporeans.
 

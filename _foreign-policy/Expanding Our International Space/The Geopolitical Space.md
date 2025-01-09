@@ -29,7 +29,7 @@ Watch a short video by Ministry of Foreign Affairs to learn more about
 
 Watch MFA's video on Voices of FOSS below to find out what other countries have to say about FOSS. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBwd_Q1HBeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/RBwd_Q1HBeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
 ***

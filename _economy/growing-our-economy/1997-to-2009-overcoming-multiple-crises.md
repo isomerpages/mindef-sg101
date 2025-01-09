@@ -12,7 +12,7 @@ The Asian Financial Crisis was the first of many crises that emerged in this 12-
 
 Fortunately, we were able to weather these crises well, largely due to our strong reserves and prudent fiscal policies.
 
-<iframe width="660" height="415" src="https://www.youtube.com/embed/e9acnYy8mRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/e9acnYy8mRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <p></p>
 
 Singapore’s Constitution states that the government’s budget must be balanced over its term of office. In other words, the government cannot spend beyond its means.[^1]
@@ -43,13 +43,13 @@ Watch [ChannelNews Asia 2-part documentary on the management of our national res
 
 **Singapore Reserves: The Untold Story (Ep 1/2)**
 
-<iframe width="660" height="415" src="https://www.youtube.com/embed/Et1JYZ0RrC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/Et1JYZ0RrC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <p></p>
 
 
 **Singapore Reserves: The Untold Story (Ep 2/2)**
 
-<iframe width="660" height="415" src="https://www.youtube.com/embed/VNR2Jle6NWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/VNR2Jle6NWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <p></p>
 
 *CNA’s Singapore Reserves Revealed series telecast on 16 and 17 August 2023 provides insights on Singapore’s national reserves, featuring interviews with insiders and Singapore leaders. The videos cover (a) where Singapore’s reserves are invested and how much is in our reserves; (b) how this “inheritance” almost did not exist; (c) the inner workings of the Government of Singapore Investment Corporation (GIC) and Temasek; (d) the two rare occasions when the government made huge drawdowns of the reserve; and (e) how the reserves ensured that Singapore keeps functioning.[^7]*

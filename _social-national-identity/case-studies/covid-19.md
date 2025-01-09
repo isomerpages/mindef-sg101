@@ -37,7 +37,7 @@ Another example is Project Co-Knit with Love, where Neo Su Yin came up with a ma
 
 Finally, we may have skills that we can use to help others, particularly during times of crisis. For example, LearnDialect.sg, a website run by Ski Yeo and Eugene Lee, put up free precautionary videos in various dialects for Chinese dialect-speaking elderly, to keep them updated on the coronavirus situation. A Bengali-speaking NUS graduate, Dr. Sudesna Roy Chowdhury, also created a translation portal to help doctors and nurses communicate with migrant workers, an innovation that could literally save lives. This prompted other Singaporeans to come together to create more COVID-19 medical translations, to help medical workers around the world. Sites like Meditranslate.org, founded by Singaporeans, now provide translations for up to 36 different languages, including many Chinese and Indian dialects, as well as many Southeast Asian languages.
 
-<iframe width="660" height="415" src="https://www.youtube.com/embed/1VR5rxF4Tg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/1VR5rxF4Tg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Emerging stronger from this crisis as one Singapore
 

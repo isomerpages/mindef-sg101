@@ -13,7 +13,7 @@ In 2011, curry became the hot topic among Singaporeans. The “curry incident”
 
 With the help of the Community Mediation Centre (CMC), both families voluntarily eventually agreed to compromise: the Indian family would cook curry only when their Chinese neighbours were out of the house, and the Chinese neighbours would try their curry. The incident led to positive ground-up campaigns and reactions in support of the Indian family, such as the “Cook and Share a Pot of Curry” campaign. In contrast, negative actions such as uploading a video stereotyping mainland Chinese immigrants and mocking them simply leads to more unhappiness and does not help overcome misunderstandings nor resolve conflict. 
 
-<iframe width="660" height="415" src="https://www.youtube.com/embed/ExZxfJ37Hww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/ExZxfJ37Hww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In 2012, Singaporean Amy Cheong made the headlines after she launched a racist tirade against Malays and their wedding practices. She disparaged Malays for holding weddings at void decks and mocked the divorce rates in the community. She was promptly fired from work and left Singapore after being shamed and threatened by netizens. A police report was made against her, but she was let off with a stern warning after issuing a public apology.
 

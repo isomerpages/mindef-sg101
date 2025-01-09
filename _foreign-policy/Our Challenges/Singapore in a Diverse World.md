@@ -24,13 +24,13 @@ Singapore in the 1950s and 1960s was a turbulent society. There were unrests ini
 
 **Watch our video on *Konfrontasi* below:**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m5HNGgfz8i8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/m5HNGgfz8i8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Learn more about the 1964 racial riots** [here]( https://www.sg101.gov.sg/social-national-identity/examples/racialriots).
 
 **Watch ChannelNewsAsia's video on Days of Rage: 1964 Race Riots below:**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P9_l4Vp1wLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/P9_l4Vp1wLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
 
@@ -44,7 +44,7 @@ In his statement upon Singapore’s admission to the UN, then-Minister for Forei
 
 **Watch MFA's video below to learn more about Singapore’s admission into the UN and Mr Rajaratnam’s speech on 21 September 1965:**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tXVyZrdT-T8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/tXVyZrdT-T8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Even as international developments have evolved, the fundamental challenges of size and geography have not changed for Singapore.[^4] We will always be a small country in an uncertain world, with no natural resources and only our wits and determination to see us through difficult times. However, Singapore is in a much better position today, compared to when we first gained independence in 1965.[^5]
 
