@@ -1,9 +1,11 @@
 ---
 title: Key Points on Denial of Entry of Indonesian Preacher to Singapore
-permalink: /resources/current-topics/denial-entry-somad/
+permalink: /resources/resource-packages/key-points-on-denial-of-entry-of-indonesian-preacher-to-singapore/
 date: 2022-05-24
 layout: post
-description: Key Points on Denial of Entry of Indonesian Preacher to Singapore
+description: ""
+image: ""
+variant: markdown
 ---
 ## Overview 
 
@@ -24,7 +26,7 @@ a.	Support for use of violence. In 2017, Somad claimed that suicide bombings are
 b.	Segregationist remarks. In 2017, Somad said that Muslims should vote for, and accept only Muslim leaders, as non-Muslims are “kafirs” (infidels).
 <br><br>
 c.	Inflammatory remarks towards other religions. In 2019, Somad described the Christian crucifix as the dwelling place of an “infidel jinn” (spirit / devil). 
-</p></div> 
+<p></p></div> 
 
 (3) Somad’s teachings have had real consequences: in Jan 2020, the Internal Security Act (ISA) detained a 17-year-old boy who had been radicalised. He watched Somad’s YouTube’s lectures on suicide bombings and began to believe suicide bombers are martyrs.  <br><br>
 
@@ -38,26 +40,26 @@ c.	Inflammatory remarks towards other religions. In 2019, Somad described the Ch
 
 ## Minister for Home Affairs K Shanmugam's remarks
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/UFy1PJnuCGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/UFy1PJnuCGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br>
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/WkIHEJ5Wvew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/WkIHEJ5Wvew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br>
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/C5U-bPhlPks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/C5U-bPhlPks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br>
 
 ## For more information: 
 
-Transcript of Doorstop Interview by Mr K Shanmugam, Minister for Home Affairs and Minister for Law <https://go.gov.sg/20220523-mha-min-interview>
+Transcript of Doorstop Interview by Mr K Shanmugam, Minister for Home Affairs and Minister for Law 
 
-MHA Statement in Response to Media Queries on Abdul Somad Batubara <https://go.gov.sg/20220517mha-statement>
+MHA Statement in Response to Media Queries on Abdul Somad Batubara 
 
-MFA Spokesperson’s Comments in Response to Media Queries on the Demonstrations at the Singapore Embassy in Jakarta and the Singapore Consulate-General in Medan, Indonesia <https://go.gov.sg/20220521-indonesia-demos>
+MFA Spokesperson’s Comments in Response to Media Queries on the Demonstrations at the Singapore Embassy in Jakarta and the Singapore Consulate-General in Medan, Indonesia 
 
-Indonesian preacher Abdul Somad, ‘known to preach extremist and segregationist teaching’, denied entry into Singapore: MHA (TODAY, 17 May 22) <https://go.gov.sg/20220517-today-somad-denied-entry>
+Indonesian preacher Abdul Somad, ‘known to preach extremist and segregationist teaching’, denied entry into Singapore: MHA (TODAY, 17 May 22) 
 
-Social media accounts of govt leaders, agencies spammed by supporters of Indonesian preacher denied entry into Singapore (TODAY, 18 May 22) <https://go.gov.sg/20220518-today-socialmedia-spammed>
+Social media accounts of govt leaders, agencies spammed by supporters of Indonesian preacher denied entry into Singapore (TODAY, 18 May 22) 
 
-17-year old detained under ISA among S’poreans following Indonesian preacher Somad’s teachings: Shanmugam (TODAY, 23 May 22) <https://go.gov.sg/20220523-today-isa>
+17-year old detained under ISA among S’poreans following Indonesian preacher Somad’s teachings: Shanmugam (TODAY, 23 May 22) 
 
-Indonesian preacher denied entry to Singapore says he will not give up trying to visit (CNA, 21 May 22) <https://go.gov.sg/20220521-cna-article>
+Indonesian preacher denied entry to Singapore says he will not give up trying to visit (CNA, 21 May 22) 
 
-Supporters of Indonesian preacher denied entry to S’pore stage protests in Jakarta, Medan (ST, 22 May 22) <https://go.gov.sg/20220522-st-article>
+Supporters of Indonesian preacher denied entry to S’pore stage protests in Jakarta, Medan (ST, 22 May 22)
