@@ -25,3 +25,7 @@ changes — Lunar New Year is always a celebration of fresh beginnings! 🧧✨<
 <p></p>
 <p>Do you have any favourite memories or traditions from Lunar New Year celebrations
 with your family?</p>
+<p></p>
+<p>Visit ConnexionSG <a href="https://www.facebook.com/ConnexionSG" rel="noopener nofollow" target="_blank"><u>Facebook</u></a> and
+<a href="https://www.instagram.com/connexionsg/" rel="noopener nofollow" target="_blank"><u>Instagram </u>
+</a>for more content.</p>
