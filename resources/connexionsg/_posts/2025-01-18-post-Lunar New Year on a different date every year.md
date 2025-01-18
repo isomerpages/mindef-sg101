@@ -16,8 +16,10 @@ year? Here's why! 👇</p>
 many of us use daily.</p>
 <p>While the Gregorian calendar follows the Earth’s orbit around the Sun,
 the lunar calendar is lunisolar, blending the moon’s phases with the solar
-cycle. This unique system shifts the date every year, but one thing never
-changes — Lunar New Year is always a celebration of fresh beginnings! 🧧✨</p>
+cycle. Thanks to calendar differences, the Lunar New Year falls on a new
+moon between the winter solstice and spring equinox.</p>
+<p>This unique system shifts the date every year, but one thing never changes
+— Lunar New Year is always a celebration of fresh beginnings! 🧧✨</p>
 <p>No matter the date, the heart of this beloved tradition remains the same:</p>
 <p>🏮 Reuniting with family</p>
 <p>🕯️ Honouring cherished traditions</p>
