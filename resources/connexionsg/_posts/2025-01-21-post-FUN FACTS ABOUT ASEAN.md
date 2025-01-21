@@ -34,11 +34,10 @@ aid and disaster relief, counter-terrorism and free trade.&nbsp;</p>
 provide crucial opportunities for dialogue and collaboration.</p>
 <p>In an increasingly uncertain world, ASEAN proves that unity can flourish
 amidst diversity, offering a model of cooperation for the globe.</p>
-<p>🔗Learn more about ASEAN:<a href="https://www.sg101.gov.sg/resources/connexionsg/onthisday-formation-of-asean/" rel="noopener noreferrer nofollow" target="_blank"> </a>
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.sg101.gov.sg/resources/connexionsg/onthisday-formation-of-asean/</a>
+<p>🔗Learn more about ASEAN: <a href="https://www.sg101.gov.sg/resources/connexionsg/onthisday-formation-of-asean/" rel="noopener nofollow" target="_blank">https://www.sg101.gov.sg/resources/connexionsg/onthisday-formation-of-asean/</a>
 </p>
 <p></p>
 <p></p>
 <p>Visit ConnexionSG <a href="https://www.facebook.com/ConnexionSG" rel="noopener nofollow" target="_blank"><u>Facebook</u></a> and
 <a href="https://www.instagram.com/connexionsg/" rel="noopener nofollow" target="_blank"><u>Instagram </u>
-</a>for more content.</p>
+</a>for more content</p>
