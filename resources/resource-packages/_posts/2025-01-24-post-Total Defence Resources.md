@@ -65,6 +65,15 @@ activities that will take place from 15 to 28 Feb 2025!</p>
 </div>
 <p></p>
 <hr>
+<h4><strong>SGReadyGoWhere</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGReadyGoWhere.jpg">
+</div>
+<p>Members of the public who would need to find out more information on the
+locations and dates of the simulated disruptions can visit <a href="https://go.gov.sg/SGReadyGoWhere" rel="noopener nofollow" target="_blank">SGReadyGoWhere</a> website.</p>
+<p>SGReadyGoWhere will also serve as a resource portal with relevant Exercise
+SG Ready resources such as what to do during power disruption.</p>
+<hr>
 <h4><strong>Total Defence Organisation Table-top Exercise (TTX)</strong></h4>
 <p>The Total Defence Organisation TTX aims to activate thinking and encourage
 discussion among participants on the strengths and weaknesses of their
