@@ -74,18 +74,6 @@ locations and dates of the simulated disruptions can visit <a href="https://go.g
 <p>SGReadyGoWhere will also serve as a resource portal with relevant Exercise
 SG Ready resources such as what to do during power disruption.</p>
 <hr>
-<h4><strong>Total Defence Organisation Table-top Exercise (TTX)</strong></h4>
-<p>The Total Defence Organisation TTX aims to activate thinking and encourage
-discussion among participants on the strengths and weaknesses of their
-organisation's existing Business Continuity Plan (BCP), and how their organisation
-can be ready and prepared for crises and disruptions.</p>
-<p>From such discussions, we hope participants will review and strengthen
-their BCP, ensuring organisations are well-prepared and resilient to navigate
-through crises and disruptions effectively.</p>
-<p>Interested to carry out your own Total Defence Organisation TTX? You may
-use the Exercise SG Ready Scenario Video as well as the facilitation materials
-<a href="https://go.gov.sg/tdttx-for-businesses" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<hr>
 <h4><strong>Total Defence Campaign Poster</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD_2025_poster_A3_Landscape_Colour_Lowres_JPG.jpg">
