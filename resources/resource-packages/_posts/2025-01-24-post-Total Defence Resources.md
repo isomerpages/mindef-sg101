@@ -38,48 +38,19 @@ your engagement.</p>
 <p>
 <br>Following the inaugural run of Exercise SG Ready in 2024, the Total Defence
 exercise will return in 2025 with the theme <strong><em>"Are you ready for disruptions?"</em></strong>.
-Co-led by MINDEF and the Energy Market Authority (EMA), the exercise focuses
+The exercise will be held at various locations across the island between
+15 Feb to 28 Feb 2025 to <strong>increase Singaporeans' readiness for crises and disruptions</strong>.</p>
+<p>Co-led by MINDEF and the Energy Market Authority (EMA), the exercise focuses
 on strenghthening Singaporeans' preparedness for power disruptions. Based
 on a scenario of prolonged power outages due to a phishing attack by an
 unknown group, the exercise aims to encourage everyone to plan for potential
 disruptions, prepare to respond effectively, and play our part to keep
 Singapore strong.</p>
 <p>As a signature event of SG60, Exercise SG Ready 2025 invites Singaporeans
-to reflect</p>
-<p>held at various locations across the island between 15 Feb to 29 Feb 2024
-to <strong>increase Singaporeans' readiness for crises and disruptions</strong>.
-The exercise simulated disruptions of power, water, food supply, digital
-connectivity and a civil emergency arising from wide spread cyberattacks,
-disinformation campaigns and drone attacks from an anonymous actor in the
-region.</p>
-<p>The aim of the exercise is to get individuals, communities and businesses
-thinking about the question, <strong><em>"Are you ready for disruptions?",</em></strong> and
-to put Total Defence into action by putting in place their own contingency
-plans for disruptions.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/29feb24_infographic2.jpg">
-</div>
-<p>More than 800 education, community, commercial, and government organisations,
-participated in Exercise SG Ready. Participating organisations simulated
-approximately 250 disruptions of power, 300 disruptions of food or water
-supply, nearly 200 evacuation drills, and 200 cyber disruptions of which
-10 or more were connectivity-related, and 20 or more were disinformation-related.</p>
-<p>Students experienced lessons without fans or lights to simulate power
-disruptions. To simulate food disruptions, some students got to try ready-to-eat
-meals developed by the Singapore Food Agency and SATS, while others experienced
-limitations to the range of food served in their canteens.</p>
-<p>The PUB, Singapore's National Water Agency conducted a water supply disruption
-at Yung Sheng Road where more than 200 households collected water from
-PUB's water wagon and water bag filling machine. About 12,000 members of
-the public visited the Civil Defence Shelter Open Houses at Dakota, Potong
-Pasir, and Tan Kah Kee MRT stations to learn how selected underground MRT
-stations can be converted into public shelters to protect civilians during
-an emergency.</p>
-<p>More than 160 businesses validated their contingency plans for either
-simulated disruptions of power, water, food supply, digital connectivity
-or a civil emergency. Some of them went on to conduct simulated phishing
-exercises referencing Cyber Security Agency's playbooks, which were developed
-in consultation with Microsoft and Google.</p>
+to reflect on the crises and disruptions that we have gone through in the
+last 60 years, and what we are likely to face going forward. It is an opportunity
+for Singaporeans to show care for others in times of such crises and disruptions.</p>
+<p></p>
 <hr>
 <h4><strong>Exercise SG Ready Scenario Video</strong></h4>
 <p>As part of Exercise SG Ready 2025, the scenario video illustrates how
