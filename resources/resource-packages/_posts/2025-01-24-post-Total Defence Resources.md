@@ -27,8 +27,9 @@ and united.</p>
 your engagement.</p>
 <hr>
 <h4><strong>Exercise SG Ready 2025</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Exercise SG Ready" src="/images/Ex_SG_Ready_OOH_Posters.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ESR2025_Posters_image.jpg">
 </div>
 <p>The inaugural Exercise SG Ready was held at various locations across the
 island between 15 Feb to 29 Feb 2024 to <strong>increase Singaporeans' readiness for crises and disruptions</strong>.
