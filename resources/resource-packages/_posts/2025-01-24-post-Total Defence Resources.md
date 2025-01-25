@@ -26,7 +26,7 @@ and united.</p>
 <p>Below are other resources on Total Defence which you may find useful for
 your engagement.</p>
 <hr>
-<h4><strong>Exercise SG Ready</strong></h4>
+<h4><strong>Exercise SG Ready 2025</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Exercise SG Ready" src="/images/Ex_SG_Ready_OOH_Posters.jpg">
 </div>
@@ -66,12 +66,13 @@ exercises referencing Cyber Security Agency's playbooks, which were developed
 in consultation with Microsoft and Google.</p>
 <hr>
 <h4><strong>Exercise SG Ready Scenario Video</strong></h4>
-<p>As part of Exercise SG Ready, the scenario video illustrates how hybrid
-threats can disrupt our daily lives. It also helped set the context for
-the simulated disruptions that took place beween 15 - 29 Feb 2024!</p>
+<p>As part of Exercise SG Ready 2025, the scenario video illustrates how
+hybrid security threats such as a phishing attack can cause disruptions
+and affect our daily lives. It also helped set the context for the exercise
+activities that will take place beween 15 - 28 Feb 2025!</p>
 <p>Watch the <strong>Exercise SG Ready Scenario Video</strong>  <a href="https://go.gov.sg/sgreadyvideo" rel="noopener noreferrer nofollow" target="_blank">here</a> now!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scenario_video_screenshot.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ESR2025_video_thumbnail.png">
 </div>
 <p></p>
 <hr>
