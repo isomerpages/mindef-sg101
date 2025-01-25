@@ -75,8 +75,6 @@ through crises and disruptions effectively.</p>
 use the Exercise SG Ready Scenario Video as well as the facilitation materials
 <a href="https://go.gov.sg/tdttx-for-businesses" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <hr>
-<hr>
-<hr>
 <h4><strong>Total Defence Campaign Poster</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD_2025_poster_A3_Landscape_Colour_Lowres_JPG.jpg">
@@ -130,31 +128,6 @@ Download the transcript <a href="/files/transcript%20-%20minister%20for%20defenc
 <div class="iframe-wrapper">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7zzFPeTDa5s"></iframe>
 </div>
-<hr>
-<h4><strong>Total Defence 40 Special Exhibition</strong></h4>
-<p>Titled Total Defence for Thee!, the Special Exhibition commemorates 40
-years of TD in Singapore and showcases how TD is integral to addressing
-threats and challenges.</p>
-<p>The full exhibition is held at Singapore Discovery Centre till Mar 17
-2024. Roving abridged exhibitions will make appearances at public locations
-like SAFRA clubhouses and libraries. We have prepared two guides below
-for readers who are interested to visit our roving abridged exhibitions.
-The schedule will be updated monthly. Stay tuned!</p>
-<p></p>
-<p><strong>Facilitation Guide for Educators</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TD40 Exhibition Facilitation Guide for Educators" src="/images/TD40_Facilitation_Guide_for_Educactors.png">
-</div>
-<p>Download the Facilitation Guide for Educators <a href="https://www.sg101.gov.sg/files/TD40_Exhibition_Facilitation_Guide__For_Size_S__final.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
-<p><strong>Self-help Guide for General Public</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TD40 Exhibition Self-help Guide for General Public" src="/images/TD40_Exhibition_Self_help_Guide__For_General_Public_.png">
-</div>
-<p>Download the Self-help Guide for General Public <a href="https://www.sg101.gov.sg/files/TD40_Exhibition_Self_help_Guide__For_M_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
 <hr>
 <h4><strong>Total Defence Sandbox</strong></h4>
 <div class="isomer-image-wrapper">
@@ -235,13 +208,13 @@ materials. This version includes a role-playing element where participants
 may adopt different personas to think about how the different roles within
 our society can play a part to be ready and prepared for crises and disruptions.</p>
 <hr>
-<h4><strong>Total Defence Interactive Video 2023</strong></h4>
+<h4><strong>Total Defence Interactive Video</strong></h4>
 <p>What are the consequences of your choices? In the Total Defence Interactive
 Video, you will get to make decisions that will determine the outcome of
 the character's day.</p>
 <p>Experience the video and understand what you can do to play your part
 for Total Defence!</p>
-<p>Watch the Total Defence Interactive Video (2023) <a href="https://go.gov.sg/tdiv2" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Watch the Total Defence Interactive Video <a href="https://go.gov.sg/tdiv2" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Total Defence Interactive Video 2" src="/images/tdiv2.png">
 </div>
