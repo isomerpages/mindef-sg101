@@ -39,9 +39,10 @@ your engagement.</p>
 <br>Following the inaugural run of Exercise SG Ready in 2024, the Total Defence
 exercise will return in 2025 with the theme <strong><em>"Are you ready for disruptions?"</em></strong>.
 The exercise will be held at various locations across the island between
-15 Feb to 28 Feb 2025 to <strong>increase Singaporeans' readiness for crises and disruptions</strong>.</p>
+15 and 28 Feb 2025 to <strong>increase Singaporeans' readiness for crises and disruptions.</strong>
+</p>
 <p>Co-led by MINDEF and the Energy Market Authority (EMA), the exercise focuses
-on strenghthening Singaporeans' preparedness for power disruptions. Based
+on <strong>strenghthening Singaporeans' preparedness for power disruptions.</strong> Based
 on a scenario of prolonged power outages due to a phishing attack by an
 unknown group, the exercise aims to encourage individuals, communities
 and businesses to plan for potential disruptions, prepare to respond effectively,
@@ -49,14 +50,15 @@ and play our part to keep Singapore strong.</p>
 <p>As a signature event of SG60, Exercise SG Ready 2025 invites Singaporeans
 to reflect on the crises and disruptions that we have gone through in the
 last 60 years, and what we are likely to face going forward. It is an opportunity
-for Singaporeans to show care for others in times of such crises and disruptions.</p>
+for Singaporeans to show <strong>care for others in times of such crises and disruptions.</strong>
+</p>
 <p></p>
 <hr>
 <h4><strong>Exercise SG Ready Scenario Video</strong></h4>
 <p>As part of Exercise SG Ready 2025, the scenario video illustrates how
 hybrid security threats such as a phishing attack can cause disruptions
 and affect our daily lives. It also helped set the context for the exercise
-activities that will take place beween 15 - 28 Feb 2025!</p>
+activities that will take place from 15 to 28 Feb 2025!</p>
 <p>Watch the <strong>Exercise SG Ready Scenario Video</strong>  <a href="https://go.gov.sg/sgreadyvideo" rel="noopener noreferrer nofollow" target="_blank">here</a> now!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ESR2025_video_thumbnail.png">
