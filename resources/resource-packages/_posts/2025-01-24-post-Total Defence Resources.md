@@ -93,12 +93,16 @@ at the same link above, as a Total Defence activity sheet for printing
 and distribution as a colouring activity.</p>
 <hr>
 <h4><strong>Total Defence Engagement Packages</strong></h4>
-<p>You may use this engagement package to discuss or better understand the
+<p>You may use these engagement package to discuss or better understand the
 relevance of Total Defence and how each of us can play a part in keeping
-Singapore strong, amidst the challenges and threats we face. The Total
-Defence Day 2024 NE Engagement Package can be downloaded <a href="https://www.sg101.gov.sg/resources/resource-packages/tdday2024/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+Singapore strong, amidst the challenges and threats we face. The <strong>Total Defence Day 2025 NE Engagement Package</strong> will
+be made available soon in early Feb. Stay tuned!</p>
 <p>Meanwhile, you may check out past years' packages below:</p>
 <ul>
+<li>
+<p><a href="https://www.sg101.gov.sg/resources/resource-packages/tdday2024/" rel="noopener nofollow" target="_blank">Total Defence Day 2024 NE Engagement Package</a>
+</p>
+</li>
 <li>
 <p><a href="https://www.sg101.gov.sg/resources/resource-packages/td2023/" rel="noopener noreferrer nofollow" target="_blank">Total Defence Day 2023 NE Engagement Package</a>
 </p>
