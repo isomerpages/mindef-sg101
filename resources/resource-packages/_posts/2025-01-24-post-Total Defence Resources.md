@@ -43,9 +43,9 @@ The exercise will be held at various locations across the island between
 <p>Co-led by MINDEF and the Energy Market Authority (EMA), the exercise focuses
 on strenghthening Singaporeans' preparedness for power disruptions. Based
 on a scenario of prolonged power outages due to a phishing attack by an
-unknown group, the exercise aims to encourage everyone to plan for potential
-disruptions, prepare to respond effectively, and play our part to keep
-Singapore strong.</p>
+unknown group, the exercise aims to encourage individuals, communities
+and businesses to plan for potential disruptions, prepare to respond effectively,
+and play our part to keep Singapore strong.</p>
 <p>As a signature event of SG60, Exercise SG Ready 2025 invites Singaporeans
 to reflect on the crises and disruptions that we have gone through in the
 last 60 years, and what we are likely to face going forward. It is an opportunity
