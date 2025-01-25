@@ -29,6 +29,10 @@ your engagement.</p>
 <h4><strong>Exercise SG Ready 2025</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exercise_SG_Ready_Logo.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ESR2025_Posters_image.jpg">
 </div>
 <p>The inaugural Exercise SG Ready was held at various locations across the
@@ -359,4 +363,5 @@ living in war-torn Ukraine, and Singapore Red Cross Senior Director Sahari
 Ani, who has spent months helping displaced refugees from the conflict.
 Listen <a href="go.gov.sg/tdpodcast3" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <hr>
+<p></p>
 <p></p>
