@@ -72,8 +72,9 @@ activities that will take place from 15 to 28 Feb 2025!</p>
 <p>Members of the public who would need to find out more information on the
 locations and dates of the simulated disruptions can visit <a href="https://go.gov.sg/SGReadyGoWhere" rel="noopener nofollow" target="_blank">SGReadyGoWhere</a> website.</p>
 <p>SGReadyGoWhere will also serve as a <strong>resource portal with relevant Exercise SG Ready resources</strong> such
-as what to do during power disruption, and self-facilitation guides for
-power disruption and cybersecurity table-top exercises.</p>
+as EMA's guide and infographics on what to do during power disruption,
+and our self-facilitation guides for power disruption and cybersecurity
+table-top exercises.</p>
 <hr>
 <h4><strong>Total Defence Campaign Poster</strong></h4>
 <div class="isomer-image-wrapper">
