@@ -35,8 +35,19 @@ your engagement.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ESR2025_Posters_image.jpg">
 </div>
-<p>The inaugural Exercise SG Ready was held at various locations across the
-island between 15 Feb to 29 Feb 2024 to <strong>increase Singaporeans' readiness for crises and disruptions</strong>.
+<p>
+<br>Following the inaugural run of Exercise SG Ready in 2024, the Total Defence
+exercise will return in 2025 with the theme <strong><em>"Are you ready for disruptions?"</em></strong>.
+Co-led by MINDEF and the Energy Market Authority (EMA), the exercise focuses
+on strenghthening Singaporeans' preparedness for power disruptions. Based
+on a scenario of prolonged power outages due to a phishing attack by an
+unknown group, the exercise aims to encourage everyone to plan for potential
+disruptions, prepare to respond effectively, and play our part to keep
+Singapore strong.</p>
+<p>As a signature event of SG60, Exercise SG Ready 2025 invites Singaporeans
+to reflect</p>
+<p>held at various locations across the island between 15 Feb to 29 Feb 2024
+to <strong>increase Singaporeans' readiness for crises and disruptions</strong>.
 The exercise simulated disruptions of power, water, food supply, digital
 connectivity and a civil emergency arising from wide spread cyberattacks,
 disinformation campaigns and drone attacks from an anonymous actor in the
