@@ -1,7 +1,7 @@
 ---
 title: Total Defence Resources
 permalink: /resources/resource-packages/tdresources/
-date: 2025-01-01
+date: 2025-01-24
 layout: post
 description: ""
 image: ""
@@ -26,68 +26,55 @@ and united.</p>
 <p>Below are other resources on Total Defence which you may find useful for
 your engagement.</p>
 <hr>
-<h4><strong>Exercise SG Ready</strong></h4>
+<h4><strong>Exercise SG Ready 2025</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Exercise SG Ready" src="/images/Ex_SG_Ready_OOH_Posters.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exercise_SG_Ready_Logo.png">
 </div>
-<p>The inaugural Exercise SG Ready was held at various locations across the
-island between 15 Feb to 29 Feb 2024 to <strong>increase Singaporeans' readiness for crises and disruptions</strong>.
-The exercise simulated disruptions of power, water, food supply, digital
-connectivity and a civil emergency arising from wide spread cyberattacks,
-disinformation campaigns and drone attacks from an anonymous actor in the
-region.</p>
-<p>The aim of the exercise is to get individuals, communities and businesses
-thinking about the question, <strong><em>"Are you ready for disruptions?",</em></strong> and
-to put Total Defence into action by putting in place their own contingency
-plans for disruptions.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/29feb24_infographic2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ESR2025_Posters_image.jpg">
 </div>
-<p>More than 800 education, community, commercial, and government organisations,
-participated in Exercise SG Ready. Participating organisations simulated
-approximately 250 disruptions of power, 300 disruptions of food or water
-supply, nearly 200 evacuation drills, and 200 cyber disruptions of which
-10 or more were connectivity-related, and 20 or more were disinformation-related.</p>
-<p>Students experienced lessons without fans or lights to simulate power
-disruptions. To simulate food disruptions, some students got to try ready-to-eat
-meals developed by the Singapore Food Agency and SATS, while others experienced
-limitations to the range of food served in their canteens.</p>
-<p>The PUB, Singapore's National Water Agency conducted a water supply disruption
-at Yung Sheng Road where more than 200 households collected water from
-PUB's water wagon and water bag filling machine. About 12,000 members of
-the public visited the Civil Defence Shelter Open Houses at Dakota, Potong
-Pasir, and Tan Kah Kee MRT stations to learn how selected underground MRT
-stations can be converted into public shelters to protect civilians during
-an emergency.</p>
-<p>More than 160 businesses validated their contingency plans for either
-simulated disruptions of power, water, food supply, digital connectivity
-or a civil emergency. Some of them went on to conduct simulated phishing
-exercises referencing Cyber Security Agency's playbooks, which were developed
-in consultation with Microsoft and Google.</p>
+<p>
+<br>Following the inaugural run of Exercise SG Ready in 2024, the Total Defence
+exercise will return in 2025 with the theme <strong><em>"Are you ready for disruptions?"</em></strong>.
+The exercise will be held at various locations across the island between
+15 and 28 Feb 2025 to <strong>increase Singaporeans' readiness for crises and disruptions.</strong>
+</p>
+<p>Co-led by MINDEF and the Energy Market Authority (EMA), the exercise focuses
+on <strong>strenghthening Singaporeans' preparedness for power disruptions.</strong> Based
+on a scenario of prolonged power outages due to ransomware spread through
+a phishing attack by an unknown group, the exercise aims to encourage individuals,
+communities and businesses to plan for potential disruptions, prepare to
+respond effectively, and play our part to keep Singapore strong.</p>
+<p>As a signature event of SG60, Exercise SG Ready 2025 invites Singaporeans
+to reflect on the crises and disruptions that we have gone through in the
+last 60 years, and what we are likely to face going forward. It is an opportunity
+for Singaporeans to show <strong>care for others in times of such crises and disruptions.</strong>
+</p>
+<p></p>
 <hr>
 <h4><strong>Exercise SG Ready Scenario Video</strong></h4>
-<p>As part of Exercise SG Ready, the scenario video illustrates how hybrid
-threats can disrupt our daily lives. It also helped set the context for
-the simulated disruptions that took place beween 15 - 29 Feb 2024!</p>
+<p>As part of Exercise SG Ready 2025, the scenario video illustrates how
+hybrid security threats such as a phishing attack can cause disruptions
+and affect our daily lives. It also helped set the context for the exercise
+activities that will take place from 15 to 28 Feb 2025!</p>
 <p>Watch the <strong>Exercise SG Ready Scenario Video</strong>  <a href="https://go.gov.sg/sgreadyvideo" rel="noopener noreferrer nofollow" target="_blank">here</a> now!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scenario_video_screenshot.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ESR2025_video_thumbnail.png">
 </div>
 <p></p>
 <hr>
-<h4><strong>Total Defence Organisation Table-top Exercise (TTX)</strong></h4>
-<p>The Total Defence Organisation TTX aims to activate thinking and encourage
-discussion among participants on the strengths and weaknesses of their
-organisation's existing Business Continuity Plan (BCP), and how their organisation
-can be ready and prepared for crises and disruptions.</p>
-<p>From such discussions, we hope participants will review and strengthen
-their BCP, ensuring organisations are well-prepared and resilient to navigate
-through crises and disruptions effectively.</p>
-<p>Interested to carry out your own Total Defence Organisation TTX? You may
-use the Exercise SG Ready Scenario Video as well as the facilitation materials
-<a href="https://go.gov.sg/tdttx-for-businesses" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<hr>
-<hr>
+<h4><strong>SGReadyGoWhere</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGReadyGoWhere.jpg">
+</div>
+<p>Members of the public who would need to find out more information on the
+locations and dates of the simulated disruptions can visit <a href="https://go.gov.sg/SGReadyGoWhere" rel="noopener nofollow" target="_blank">SGReadyGoWhere</a> website.</p>
+<p>SGReadyGoWhere will also serve as a <strong>resource portal with relevant Exercise SG Ready resources</strong> such
+as EMA's guide and infographics on what to do during power disruption,
+and our self-facilitation guides for power disruption and cybersecurity
+table-top exercises.</p>
 <hr>
 <h4><strong>Total Defence Campaign Poster</strong></h4>
 <div class="isomer-image-wrapper">
@@ -107,12 +94,16 @@ at the same link above, as a Total Defence activity sheet for printing
 and distribution as a colouring activity.</p>
 <hr>
 <h4><strong>Total Defence Engagement Packages</strong></h4>
-<p>You may use this engagement package to discuss or better understand the
+<p>You may use these engagement package to discuss or better understand the
 relevance of Total Defence and how each of us can play a part in keeping
-Singapore strong, amidst the challenges and threats we face. The Total
-Defence Day 2024 NE Engagement Package can be downloaded <a href="https://www.sg101.gov.sg/resources/resource-packages/tdday2024/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+Singapore strong, amidst the challenges and threats we face. The <strong>Total Defence Day 2025 NE Engagement Package</strong> will
+be made available soon in early Feb. Stay tuned!</p>
 <p>Meanwhile, you may check out past years' packages below:</p>
 <ul>
+<li>
+<p><a href="https://www.sg101.gov.sg/resources/resource-packages/tdday2024/" rel="noopener nofollow" target="_blank">Total Defence Day 2024 NE Engagement Package</a>
+</p>
+</li>
 <li>
 <p><a href="https://www.sg101.gov.sg/resources/resource-packages/td2023/" rel="noopener noreferrer nofollow" target="_blank">Total Defence Day 2023 NE Engagement Package</a>
 </p>
@@ -142,31 +133,7 @@ Download the transcript <a href="/files/transcript%20-%20minister%20for%20defenc
 <div class="iframe-wrapper">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7zzFPeTDa5s"></iframe>
 </div>
-<hr>
-<h4><strong>Total Defence 40 Special Exhibition</strong></h4>
-<p>Titled Total Defence for Thee!, the Special Exhibition commemorates 40
-years of TD in Singapore and showcases how TD is integral to addressing
-threats and challenges.</p>
-<p>The full exhibition is held at Singapore Discovery Centre till Mar 17
-2024. Roving abridged exhibitions will make appearances at public locations
-like SAFRA clubhouses and libraries. We have prepared two guides below
-for readers who are interested to visit our roving abridged exhibitions.
-The schedule will be updated monthly. Stay tuned!</p>
 <p></p>
-<p><strong>Facilitation Guide for Educators</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TD40 Exhibition Facilitation Guide for Educators" src="/images/TD40_Facilitation_Guide_for_Educactors.png">
-</div>
-<p>Download the Facilitation Guide for Educators <a href="https://www.sg101.gov.sg/files/TD40_Exhibition_Facilitation_Guide__For_Size_S__final.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
-<p><strong>Self-help Guide for General Public</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TD40 Exhibition Self-help Guide for General Public" src="/images/TD40_Exhibition_Self_help_Guide__For_General_Public_.png">
-</div>
-<p>Download the Self-help Guide for General Public <a href="https://www.sg101.gov.sg/files/TD40_Exhibition_Self_help_Guide__For_M_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
 <hr>
 <h4><strong>Total Defence Sandbox</strong></h4>
 <div class="isomer-image-wrapper">
@@ -247,13 +214,13 @@ materials. This version includes a role-playing element where participants
 may adopt different personas to think about how the different roles within
 our society can play a part to be ready and prepared for crises and disruptions.</p>
 <hr>
-<h4><strong>Total Defence Interactive Video 2023</strong></h4>
+<h4><strong>Total Defence Interactive Video</strong></h4>
 <p>What are the consequences of your choices? In the Total Defence Interactive
 Video, you will get to make decisions that will determine the outcome of
 the character's day.</p>
 <p>Experience the video and understand what you can do to play your part
 for Total Defence!</p>
-<p>Watch the Total Defence Interactive Video (2023) <a href="https://go.gov.sg/tdiv2" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Watch the Total Defence Interactive Video <a href="https://go.gov.sg/tdiv2" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Total Defence Interactive Video 2" src="/images/tdiv2.png">
 </div>
