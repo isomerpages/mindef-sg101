@@ -13,9 +13,10 @@ variant: tiptap
 </div>
 <p>Watch the video here: <a href="https://www.instagram.com/connexionsg/reel/DFRa9WKSyEj/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/connexionsg/reel/DFRa9WKSyEj/</a>
 </p>
-<p>Reunion dinner, or 團圓飯 (tuán yuán fàn), is a cherished time when families
-come together during Lunar New Year. As a symbol of solidarity and cohesiveness,
-reunion is often celebrated over a steamboat meal in Singapore.</p>
+<p>Reunion dinner, or 團圓飯 (<em>tuán yuán fàn</em>), is a cherished time when
+families come together during Lunar New Year. As a symbol of solidarity
+and cohesiveness, reunion is often celebrated over a steamboat meal in
+Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/474813488_1054931146674858_4541564335705161759_n.jpg">
 </div>
