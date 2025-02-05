@@ -1,7 +1,7 @@
 ---
 title: Total Defence Resources
 permalink: /resources/resource-packages/tdresources/
-date: 2025-01-24
+date: 2025-02-05
 layout: post
 description: ""
 image: ""
@@ -100,6 +100,10 @@ Singapore strong, amidst the challenges and threats we face. The <strong>Total D
 be made available soon in early Feb. Stay tuned!</p>
 <p>Meanwhile, you may check out past years' packages below:</p>
 <ul>
+<li>
+<p><a href="/files/packages/2025/Folio_1___Total_Defence_Day_2025_Engagement_Package.pdf" rel="noopener nofollow" target="_blank">Total Defence Day 2025 NE Engagement Package</a>
+</p>
+</li>
 <li>
 <p><a href="https://www.sg101.gov.sg/resources/resource-packages/tdday2024/" rel="noopener nofollow" target="_blank">Total Defence Day 2024 NE Engagement Package</a>
 </p>
