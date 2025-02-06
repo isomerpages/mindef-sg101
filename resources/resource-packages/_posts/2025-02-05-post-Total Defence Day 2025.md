@@ -16,7 +16,7 @@ in the face of these evolving challenges and threats.</p>
 a focus on power disruption and cybersecurity. It aims to strengthen our
 resilience in the event of disruptions and over&nbsp;600 organisations
 are taking part.</p>
-<p>Download: <a href="/files/packages/2025/Folio_1___Total_Defence_Day_2025_Engagement_Package.pdf" rel="noopener nofollow" target="_blank">Total Defence Day 2025 NE Engagement Package</a>
+<p>Download: <a href="/files/packages/2025/Folio_1___Total_Defence_Day_2025_Engagement_Package__6_Feb_.pdf" rel="noopener nofollow" target="_blank">Total Defence Day 2025 NE Engagement Package</a>
 </p>
 <p>To help us do better, we need to hear from you! Please provide your feedback
 through the following link:</p>
