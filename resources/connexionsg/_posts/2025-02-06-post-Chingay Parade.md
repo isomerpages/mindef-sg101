@@ -40,3 +40,7 @@ of your favourite memories in this post!</p>
 <p>Images: <a href="https://www.nas.gov.sg/archivesonline/" rel="noopener noreferrer nofollow" target="_blank">National Archives of Singapore</a>,
 <a href="https://www.facebook.com/chingayparadesg" rel="noopener nofollow" target="_blank">Chingay Parade SG</a>
 </p>
+<hr>
+<p>Visit ConnexionSG <a href="https://www.facebook.com/ConnexionSG" rel="noopener noreferrer nofollow" target="_blank"><u>Facebook</u></a> &amp;
+<a href="https://www.instagram.com/connexionsg/" rel="noopener noreferrer nofollow" target="_blank"><u>Instagram</u> 
+</a>for more content.</p>
