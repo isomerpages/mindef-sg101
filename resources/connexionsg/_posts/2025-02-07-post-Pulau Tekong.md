@@ -12,8 +12,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/connexionsg/Pulau_Tekong_Wells.jpg">
 </div>
 <p>📷: Former residential wells which still exists on Pulau Tekong</p>
-<p>
-<br>Mention Pulau Tekong, and most likely you will hear stories that revolve
+<p>Mention Pulau Tekong, and most likely you will hear stories that revolve
 around Basic Military Training (BMT). After all, the island is dedicated
 exclusively to military use today. However, #DidYouKnow that Pulau Tekong
 was once filled with kampongs, and a trading station for Pulau Ubin and
