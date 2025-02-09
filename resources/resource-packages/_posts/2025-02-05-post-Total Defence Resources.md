@@ -93,17 +93,13 @@ a crisis or disruption.</p>
 at the same link above, as a Total Defence activity sheet for printing
 and distribution as a colouring activity.</p>
 <hr>
-<h4><strong>Total Defence Engagement Packages</strong></h4>
+<h4><strong>Total Defence Day Engagement Packages</strong></h4>
 <p>You may use these engagement package to discuss or better understand the
 relevance of Total Defence and how each of us can play a part in keeping
-Singapore strong, amidst the challenges and threats we face. The <strong>Total Defence Day 2025 NE Engagement Package</strong> will
-be made available soon in early Feb. Stay tuned!</p>
-<p>Meanwhile, you may check out past years' packages below:</p>
+Singapore strong, amidst the challenges and threats we face. Please find <strong>Total Defence Day 2025 NE Engagement Package</strong> 
+<a href="https://www.sg101.gov.sg/resources/resource-packages/total-defence-day-2025/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>You may also check out past years' packages below:</p>
 <ul>
-<li>
-<p><a href="/files/packages/2025/Folio_1___Total_Defence_Day_2025_Engagement_Package.pdf" rel="noopener nofollow" target="_blank">Total Defence Day 2025 NE Engagement Package</a>
-</p>
-</li>
 <li>
 <p><a href="https://www.sg101.gov.sg/resources/resource-packages/tdday2024/" rel="noopener nofollow" target="_blank">Total Defence Day 2024 NE Engagement Package</a>
 </p>
