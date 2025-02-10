@@ -28,6 +28,17 @@ sections:
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
   - infopic:
+      title: Total Defence Day 2025
+      subtitle: Resources
+      id: infopic
+      description: Learn more about the relevance of Total Defence and how each of us
+        can play a part in keeping Singapore strong, amidst the challenges and
+        threats we face.
+      button: Read More
+      url: https://www.sg101.gov.sg/resources/resource-packages/total-defence-day-2025/
+      image: /images/Total_Defence_Logo.jpg
+      alt: Image alt text
+  - infopic:
       title: Foreign Interference
       subtitle: resources
       id: infopic
