@@ -1,6 +1,6 @@
 ---
 title: Chingay Parade
-permalink: /heritage-chingay-parade/
+permalink: /resources/connexionsg/heritage-chingay-parade/
 date: 2025-02-06
 layout: post
 description: The Chingay Parade in Singapore is a vibrant tapestry of the

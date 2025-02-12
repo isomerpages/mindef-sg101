@@ -1,6 +1,6 @@
 ---
 title: Steamboat during Lunar New Year
-permalink: /heritage-steamboat-during-lunar-new-year/
+permalink: /resources/connexionsg/heritage-steamboat-during-lunar-new-year/
 date: 2025-01-26
 layout: post
 description: As a symbol of solidarity and cohesiveness, reunion is often
