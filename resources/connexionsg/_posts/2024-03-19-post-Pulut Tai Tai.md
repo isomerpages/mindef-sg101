@@ -1,6 +1,6 @@
 ---
 title: Pulut Tai Tai
-permalink: /pulut-tai-tai/
+permalink: /heritage-pulut-tai-tai/
 date: 2024-03-19
 layout: post
 description: ""

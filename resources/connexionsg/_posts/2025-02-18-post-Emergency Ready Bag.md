@@ -1,6 +1,6 @@
 ---
 title: Emergency Ready Bag
-permalink: /emergency-ready-bag/
+permalink: /resources/connexionsg/til-emergency-ready-bag/
 date: 2025-02-18
 layout: post
 description: ""
