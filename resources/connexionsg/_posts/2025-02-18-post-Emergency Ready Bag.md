@@ -15,7 +15,7 @@ for several days.</p>
 Keep the bag in an easily accessible place even when it’s dark during power
 outages.
 <br>
-<br>Watch the Emergency Ready Bag reel here <a href="https://www.instagram.com/reel/DGMhJWKyg-i/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/reel/DGMhJWKyg-i/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==</a> 
+<br>Watch the Emergency Ready Bag <a href="https://www.instagram.com/reel/DGMhJWKyg-i/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener nofollow" target="_blank">reel</a>.
 <br>
 <br>#AreYouReadyForDisruptions #ExerciseSGReady #TogetherWeKeepSingaporeStrong
 #WeAreTotalDefence</p>
