@@ -115,23 +115,25 @@ Singapore strong, amidst the challenges and threats we face. Please find <strong
 </ul>
 <hr>
 <h4><strong>Total Defence Day Videos</strong></h4>
+<p><strong>Total Defence Day Video 2025</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2wJwP7ffBGQ?si=CWkvSkX0LTwDriiT"></iframe>
+</div>
+<p>The Total Defence Day Video 2025 is also available on our <a href="https://www.youtube.com/@TotalDefenceSG" rel="noopener noreferrer nofollow" target="_blank">Total Defence YouTube page</a>.</p>
+<p>You may also check out the previous years' Total Defence Video Messages
+below:
+<br>
+</p>
 <p><strong>Total Defence Day Video 2024</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DPM_Wong_TD_Message_thumbnail.jpg">
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yqqQ9S28znI?si=tqZXuB1RndBS4lpn"></iframe>
 </div>
-<p>The Total Defence Day Video 2024 is available on our <a href="https://www.youtube.com/@TotalDefenceSG" rel="noopener noreferrer nofollow" target="_blank">Total Defence YouTube page</a>.</p>
-<p>You may also check out the previous years' Total Defence Video Messages
-below:</p>
 <p><strong>Total Defence Day Video 2023</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cl9ohELFTv0"></iframe>
-</div>
-<p><strong>Minister for Defence's Total Defence Day 2022 Message</strong>.
-Download the transcript <a href="/files/transcript%20-%20minister%20for%20defence%20total%20defence%20day%202022%20message.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7zzFPeTDa5s"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cl9ohELFTv0?si=2H26OOOyJslqG17k"></iframe>
 </div>
 <p></p>
 <hr>
