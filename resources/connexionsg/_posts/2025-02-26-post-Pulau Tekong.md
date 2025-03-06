@@ -43,7 +43,8 @@ change.</p>
 <p>From civilian to military needs, and reclamation to preservation, Pulau
 Tekong exemplifies Singapore’s ability to balance diverse land-use demands,
 through traits like innovativeness, boldness and a can-do attitude.</p>
-<p></p>
+<p>Watch a reel on Pulau Tekong here: <a href="https://www.instagram.com/p/DG1p9dGSs8s/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/p/DG1p9dGSs8s/</a> 
+</p>
 <p>Visit ConnexionSG <a href="https://www.facebook.com/ConnexionSG" rel="noopener nofollow" target="_blank"><u>Facebook</u></a> and
 <a href="https://www.instagram.com/connexionsg/" rel="noopener nofollow" target="_blank"><u>Instagram </u>
 </a>for more content.</p>
