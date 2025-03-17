@@ -17,12 +17,11 @@ necessary step to safeguard our future – National Service (NS) was introduced.
 Through decades, NS grew beyond deterrence and diplomacy; it became a national
 institution and a way of life for many Singaporean sons.</p>
 <p>Almost every Singaporean family has experienced NS in some form — whether
-as a parent sending <s>off </s>their son off for Basic Military Training,
-friends supporting each other through tough training days, or a sister
-proudly showing up for her brother at his passing out parade. NS has become
-a shared experience that brings together Singaporeans and PRs from all
-races, languages, religions, and backgrounds to train, live, and serve
-the nation.</p>
+as a parent sending their son off for Basic Military Training, friends
+supporting each other through tough training days, or a sister proudly
+showing up for her brother at his passing out parade. NS has become a shared
+experience that brings together Singaporeans and PRs from all races, languages,
+religions, and backgrounds to train, live, and serve the nation.</p>
 <p>Many have quipped how NS is a rite of passage — where boys grow into men,
 and lifelong friendships are forged through moments of hardship and resilience.
 These common, life-shaping experiences have helped build the cohesion and
