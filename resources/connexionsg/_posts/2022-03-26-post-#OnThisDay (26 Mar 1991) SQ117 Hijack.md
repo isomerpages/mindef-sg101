@@ -4,8 +4,8 @@ permalink: /resources/connexionsg/onthisday-sq117-hijack/
 date: 2022-03-26
 layout: post
 description: ""
+variant: markdown
 ---
-
 ![](/images/sq117-recovered.jpg)
 
 #onthisday (26 Mar) in 1991, Singapore Airlines flight SQ117 took off from Subang Internal Airport in Kuala Lumpur for Singapore. 
@@ -15,6 +15,9 @@ But once there, the hijackers demanded that 11 of their comrades be released fro
 
 Thus began nine hours of tense negotiation between the police,  the Executive Group (a Singapore government crisis management team), and the hijackers. At around 6:45 a.m, the hijackers lost their patience. They issued an ultimatum: unless their demands were met, they would kill one hostage every 10 minutes. Immediately, the team of SAF Special Operations Forces commandos sprang into action. Armed with short-burst machine guns, they forced the plane doors open with detonating charges, tossed stun grenades into the plane, and stormed the plane.
 
-There, they identified themselves as the rescue team and asked all passengers to get down. Within 30 seconds, all four hijackers were shot, and everyone was safe. Today, 31 years later, SQ117 remains a rare and remarkable story of a hijacking in Singapore, a lasting tribute to the expertise of our special forces. #SGSecure #WeAreTotalDefence
+There, they identified themselves as the rescue team and asked all passengers to get down. Within 30 seconds, all four hijackers were shot, and everyone was safe. Today, SQ117 remains a rare and remarkable story of a hijacking in Singapore, a lasting tribute to the expertise of our special forces. #SGSecure #WeAreTotalDefence
+
+The swift and decisive rescue of SQ117 was one of Singapore's most daring rescue operations, showcasing the unwavering commitment, exceptional training, and courage of our security forces. 
+
 
 Visit ConnexionSG [Facebook](https://www.facebook.com/ConnexionSG) & [Instagram](https://www.instagram.com/connexionsg/)
