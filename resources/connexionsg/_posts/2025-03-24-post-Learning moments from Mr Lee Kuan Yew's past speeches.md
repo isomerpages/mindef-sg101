@@ -19,7 +19,7 @@ his passing, let us look at some learning moments from his past speeches,
 and reflect on the enduring principles - resilience, pragmatism, innovativeness
 and meritocracy - which he championed that continue to guide our nation's
 growth and prosperity.</p>
-<p>View them here: <a href="https://www.instagram.com/reel/DHhmzIVPQll/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/reel/DHhmzIVPQll/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==</a>
+<p>Find the learning moments here: <a href="https://www.instagram.com/reel/DHhmzIVPQll/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/reel/DHhmzIVPQll/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==</a>
 </p>
 <p>Photos: National Archives of Singapore
 <br>
