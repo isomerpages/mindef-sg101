@@ -5,6 +5,7 @@ date: 2023-03-26
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ![](/images/connexionsg/2023/pulau%20ubin.jpg)
 
@@ -16,7 +17,7 @@ With its small size of approximately 10 sqkm, you can easily get around Pulau Ub
 
 You can also book a kayaking tour and let the experienced guide take you kayaking amongst the mangroves in Pulau Ubin. Apart from the mangroves, you can also see the traditional stilt houses or kelongs that are littered around the island.
 
-The Chek Jawa Wetlands is another popular attraction on Pulau Ubin, with it being a unique natural area, where six major ecosystems – sandy beach, rocky beach, seagrass lagoon, coral rubble, mangroves, and coastal forest - meet!
+The Chek Jawa Wetlands is another popular attraction on Pulau Ubin, with it being a unique natural area, where six major ecosystems – sandy beach, rocky beach, seagrass lagoon, coral rubble, mangroves, and coastal forest - meet! (Find out more about the Chek Jawa Wetlands here[here](https://www.facebook.com/reel/985423047060533)! 
 
 If you’d like to stay longer on the island, you may even register your stay with the officials at the Pulau Ubin Police Post to pitch a tent at any of the three camping sites: (1) Endut Senin; (2) Jelutong; and (3) Mamam.
 
