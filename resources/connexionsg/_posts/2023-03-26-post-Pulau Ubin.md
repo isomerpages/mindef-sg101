@@ -11,7 +11,11 @@ variant: markdown
 
 Located just off the north-east coast of Singapore, Pulau Ubin is one of Singapore’s last remaining villages or kampongs.
 
-Home to only a small population of around 38 villagers today, Pulau Ubin was formerly a granite quarrying hub with close to 4,000 villagers in the 1970s before its transition into a popular getaway destination today.
+Did you know Pulau Ubin was formerly a granite quarrying hub with close to 4,000 villagers in the 1970s before its transition into a popular getaway destination today. Pulau Ubin’s original name in Malay, Pulau Batu Jubin, means “Granite Stone Island”, as granite from the island was used to make floor tiles or jubin in Malay. The island's name derived from a shortened form of jubin to Ubin.
+
+Today, the granite quarries are inactive and have since become scenic viewpoints. There have been many efforts to conserve Pulau Ubin’s rich natural and cultural heritage.
+
+This rustic island offers a glimpse into Singapore's past with its traditional kampong houses, old-school coffee shops, and tranquil village vibes. Examples of sites of heritage value found on the island include: (1) the former Bin Kiang School (敏江学校, 1952-1985), (2) former Maternity and Child Health Clinic (established in 1957-1987), (3) former Pulau Ubin Community Centre (1961-2003), and (4) former Kampung Melayu Malay School (1956-late 1970s).
 
 With its small size of approximately 10 sqkm, you can easily get around Pulau Ubin via taxi, cycling or walking. The abundance of bicycle shops on Pulau Ubin makes cycling one of the more popular ways of getting to the most scenic spots on the island. Spot some wildlife and enjoy the tranquillity of the island as you keep an eye out for hornbills, wild boars, and monkeys.
 
