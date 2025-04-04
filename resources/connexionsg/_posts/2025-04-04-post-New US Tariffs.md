@@ -28,9 +28,7 @@ scope of impact from the current tariff regime, let us stay calm and united
 and be prepared for rough weather ahead. 💪🏻</p>
 <p>Challenges bring opportunities — how should Singapore adapt?</p>
 <p></p>
-<p>Read more here:<a href="https://www.channelnewsasia.com/singapore/trade-minister-gan-kim-yong-says-singapore-disappointed-us-donald-trump-reciprocal-tariffs-5042211" rel="noopener noreferrer nofollow" target="_blank"> </a>
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.channelnewsasia.com/singapore/trade-minister-gan-kim-yong-says-singapore-disappointed-us-donald-trump-reciprocal-tariffs-5042211</a>
-</p>
+<p>Read more <a href="https://www.channelnewsasia.com/singapore/trade-minister-gan-kim-yong-says-singapore-disappointed-us-donald-trump-reciprocal-tariffs-5042211" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p>#LittleRedDotSG #CXSGExplains</p>
 <p></p>
