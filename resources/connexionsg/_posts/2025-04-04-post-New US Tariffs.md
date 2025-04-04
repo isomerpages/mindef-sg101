@@ -15,8 +15,8 @@ US, including Singapore. Despite a Free Trade Agreement and a trade deficit
 with the US, Singapore is not spared.</p>
 <p>Here are some things you should know:</p>
 <p>(1)&nbsp; &nbsp; The tariffs add uncertainty to global trade. Singaporean
-businesses could see <strong>higher costs</strong> and <strong>supply chain disruptions</strong>,
-especially those in multi-country manufacturing chains.</p>
+businesses could see higher costs and supply chain disruptions, especially
+those in multi-country manufacturing chains.</p>
 <p>(2)&nbsp; &nbsp; While the tariff on goods from Singapore is less than
 those on goods from other countries, there will be an impact on Singapore’s
 economy if global trade and economic activities slow down significantly.</p>
