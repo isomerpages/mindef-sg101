@@ -21,8 +21,7 @@ know exactly how much your plate will cost before you reach the cashier.
 No more mental gymnastics or awkward “huh, so expensive ah?” moments.</p>
 <p>This initiative will benefit both customers by making it easier to understand
 pricing and choices, and stall operators by promoting fair and clear pricing.</p>
-<p>Would clear pricing change how you order your caifan? Share your thoughts!
-👇</p>
+<p>Would clear pricing change how you order your caifan?</p>
 <p></p>
 <p>Visit ConnexionSG <a href="https://www.facebook.com/ConnexionSG" rel="noopener nofollow" target="_blank"><u>Facebook</u></a> and
 <a href="https://www.instagram.com/connexionsg/" rel="noopener nofollow" target="_blank"><u>Instagram </u>
