@@ -135,7 +135,7 @@ Elections Department Singapore</p>
 Channel News Asia, 2 Aug 2024</p>
 <p><a href="https://www.channelnewsasia.com/commentary/ge2025-singapore-election-foreign-interference-threat-awareness-5061821" rel="noopener nofollow" target="_blank">What Singaporeans can do more against rising threat of foreign interference</a>,
 Channel News Asia, 13 Apr 2025</p>
-<p><a href="https://www.channelnewsasia.com/interactive/ge2025-deepfake/" rel="noopener nofollow" target="_blank">Rise of AI and deepfakes in lead-up to GE202</a>,
+<p><a href="https://www.channelnewsasia.com/interactive/ge2025-deepfake/" rel="noopener nofollow" target="_blank">Rise of AI and deepfakes in lead-up to GE2025</a>,
 Channel News Asia, 11 Apr 2025</p>
 <p><a href="https://www.channelnewsasia.com/singapore/deepfakes-cna-explains-ai-how-4603136?cid=internal_sharetool_iphone_14092024_cna" rel="noopener nofollow" target="_blank">How to spot the telltale signs of a deepfake</a>,
 Channel News Asia, 14 Sep 2024</p>
