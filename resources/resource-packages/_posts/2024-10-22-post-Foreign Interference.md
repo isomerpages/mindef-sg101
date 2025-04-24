@@ -133,10 +133,14 @@ Ministry of Home Affairs</p>
 Elections Department Singapore</p>
 <p><a href="https://www.channelnewsasia.com/watch/commentary-how-vulnerable-singapore-foreign-interference-campaigns-video-4516261" rel="noopener nofollow" target="_blank">How vulnerable is Singapore to foreign interference campaigns?</a>,
 Channel News Asia, 2 Aug 2024</p>
+<p><a href="https://www.channelnewsasia.com/commentary/ge2025-singapore-election-foreign-interference-threat-awareness-5061821" rel="noopener nofollow" target="_blank">What Singaporeans can do more against rising threat of foreign interference</a>,
+Channel News Asia, 13 Apr 2025</p>
+<p><a href="https://www.channelnewsasia.com/interactive/ge2025-deepfake/" rel="noopener nofollow" target="_blank">Rise of AI and deepfakes in lead-up to GE2025</a>,
+Channel News Asia, 11 Apr 2025</p>
 <p><a href="https://www.channelnewsasia.com/singapore/deepfakes-cna-explains-ai-how-4603136?cid=internal_sharetool_iphone_14092024_cna" rel="noopener nofollow" target="_blank">How to spot the telltale signs of a deepfake</a>,
 Channel News Asia, 14 Sep 2024</p>
-<p><a href="https://www.channelnewsasia.com/advertorial/beginners-guide-foreign-interference-2175361" rel="noopener nofollow" target="_blank">The beginner’s guide to foreign interference</a>,
-Channel News Asia, 27 Sep 2023</p>
+<p><a href="https://www.channelnewsasia.com/singapore/singapore-ban-deepfakes-general-election-candidates-law-4679781" rel="noopener nofollow" target="_blank">Singapore passes law to ban deepfakes of candidates during elections</a>,
+Channel News Asia, 15 Oct 2024</p>
 <p><a href="https://www.facebook.com/watch/?v=362309303382265" rel="noopener nofollow" target="_blank">Who is a politically significant person?</a>,
 The Straits Times, 26 Feb 2024</p>
 <p><strong>Check</strong>
