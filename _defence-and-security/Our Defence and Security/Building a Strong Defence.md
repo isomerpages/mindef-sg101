@@ -3,6 +3,7 @@ title: Building a Strong Defence
 permalink: /defence-and-security/our-defence-and-security/building-a-strong-defence/
 description: ""
 third_nav_title: Our Defence and Security
+variant: markdown
 ---
 ### Building a Strong Defence
 
@@ -10,7 +11,7 @@ Singapore’s vulnerabilities and the constantly shifting security landscape dem
 
 Our defence policy is based on the twin pillars of deterrence and diplomacy. This allows Singapore to enjoy security, peace and stability while protecting our sovereignty, territorial integrity and way of life. A strong defence also allows Singapore to act in our national interests without being swayed by external pressures.
 
-#### The First Pillar: Diplomacy
+### The First Pillar: Diplomacy
 
 Singapore places great importance on the development of defence relations with other countries. Our defence diplomacy efforts enable us to improve mutual trust and understanding between Singapore and other countries, meet the Singapore Armed Forces (SAF)'s training and defence technology needs, and facilitate multilateral efforts to strengthen regional security and stability.
 
