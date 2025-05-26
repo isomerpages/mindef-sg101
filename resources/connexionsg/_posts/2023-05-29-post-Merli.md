@@ -19,7 +19,7 @@ Initially, Merli was featured more prominently in overseas collaterals targeted 
 
 You might recall that when we received our SingapoRediscovers factsheets via mail in November 2020, Merli adorned the campaign-branded envelopes. Merli was also featured in e-banners at lift lobbies in the HDB estates during that period.
 
-Since then, Merli has been joined by four friends who reflect Singapore’s diversity of wildlife – Marina the Otter, Jewel the Hornbill, Chomp Chomp the Crocodile, and D65 the Durian UFO. The STB cartoon series “Merli and Friends” sees the characters exploring a parallel, mythical version of Singapore, including museums and parks, while showcasing their personalities.
+Since then, Merli has been joined by four friends who reflect Singapore’s diversity of wildlife – Marina the Otter, Jewel the Hornbill, Chomp Chomp the Crocodile, and D65 the Unidentified Flying Durian (UFD). The "Adventures of Merli and Friends" cartoon series sees the characters embarking on adventures in Singapore, including museums and parks, while showcasing their personalities.
 
 #MascotMonday #MascotMondaySG #Merli #MerliAndFriends #Tourism #VisitSingapore #SingaporeTravel #Singapore
 
