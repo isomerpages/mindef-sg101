@@ -5,10 +5,11 @@ date: 2023-05-29
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ![](/images/connexionsg/2023/merli%20our%20mascot.png)
 
-Merli, short for Merlion, is one of the newest mascots to make a splash onto Singapore’s shores. Merli was born only in 2018 and is the descendent of our beloved Merlion! Just like Merlion, Merli has the head of a lion and body of a fish.
+Merli, short for Merlion, is one of the newest mascots to make a splash onto Singapore’s shores. Concepted in 2018, Merli is a heartwarming and whimsical illustration of Singapore's mythical national icon. Just like the Merlion, Merli has the head of a lion and body of a fish.
 
 Merli’s conception by the Singapore Tourism Board (STB @stb_sg) was motivated by a desire to better engage families with young children about Singapore’s diverse history, culture, and places of interest.
 
