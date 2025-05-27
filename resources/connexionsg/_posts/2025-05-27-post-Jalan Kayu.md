@@ -7,6 +7,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/connexionsg/Jalan_Kayu_1.jpg">
+</div>
+<p>Shophouses and eateries along Jalan Kayu in 2006. Source: Wikimedia Commons.</p>
+<p></p>
 <p>Mention Jalan Kayu and most Singaporeans would think of its famous crispy
 roti prata, thanks to two well-known eateries along the road. But there’s
 much more to this street than just prata!</p>
@@ -31,6 +36,10 @@ gates, these structures evoke a bygone era. These shophouses survive till
 this day, and remain a distinctive feature of Jalan Kayu.</p>
 <p>Despite its short length, Jalan Kayu is full of character, blending nostalgic
 charm with a rich past.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/connexionsg/Jalan_kayu_3.png">
+</div>
+<p>Jalan Kayu in 1968. Source: Christopher (Kit) Rabson, Flickr.</p>
 <p></p>
 <p>Visit ConnexionSG <a href="https://www.facebook.com/ConnexionSG" rel="noopener nofollow" target="_blank"><u>Facebook</u></a> and
 <a href="https://www.instagram.com/connexionsg/" rel="noopener nofollow" target="_blank"><u>Instagram </u>
