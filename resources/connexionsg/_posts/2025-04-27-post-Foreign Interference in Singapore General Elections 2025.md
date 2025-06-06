@@ -11,7 +11,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="FI in SG GE2025" src="/images/FI_in_SG_GE2025.png">
 </div>
-<p>Watch the reel here.</p>
+<p>Watch the reel <a href="https://www.instagram.com/reel/DI7vuH6OQZZ/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 <p>Singapore's strength comes from our unity and the common ground we've
 built as a multi-racial, multi-religious society. 💪Our elections are for
 us, Singaporeans. Stay informed and be mindful of online information that
