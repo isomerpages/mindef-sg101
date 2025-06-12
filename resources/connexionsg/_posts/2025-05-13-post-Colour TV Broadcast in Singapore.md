@@ -65,7 +65,7 @@ Singapore’s colour television studios, 1974.
 led to the replacement of 90 percent of existing equipment to ensure compatibility
 with colour transmission standards. A whopping $20 million was set aside
 for this endeavour.</p>
-<p>Watch the reel <a href="https://www.instagram.com/reel/DJk4P2-Puu5/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener nofollow" target="_blank">here.</a>
+<p>Watch the video <a href="https://www.instagram.com/reel/DJk4P2-Puu5/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 <p>Visit ConnexionSG <a href="https://www.facebook.com/ConnexionSG" rel="noopener nofollow" target="_blank"><u>Facebook</u></a> and
 <a href="https://www.instagram.com/connexionsg/" rel="noopener nofollow" target="_blank"><u>Instagram </u>
