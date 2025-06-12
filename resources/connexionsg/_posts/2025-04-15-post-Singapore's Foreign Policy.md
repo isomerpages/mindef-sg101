@@ -7,7 +7,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Watch reel <a href="https://www.facebook.com/share/r/1BkXfwMCDm/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="FP in SG" src="/images/FP_in_SG.png">
+</div>
+<p>Watch the reel <a href="https://www.facebook.com/share/r/1BkXfwMCDm/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>In a world where countries are increasingly turning inward and acting
 in their own interest, global stability may feel like a thing of the past.
 International norms are being tested, multilateral cooperation is under
