@@ -28,15 +28,15 @@ sections:
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
   - infopic:
-      title: Total Defence Day 2025
+      title: SAF Day 2025
       subtitle: Resources
       id: infopic
-      description: Learn more about the relevance of Total Defence and how each of us
-        can play a part in keeping Singapore strong, amidst the challenges and
-        threats we face.
+      description: Learn more about the importance of NS and the SAF, ongoing
+        transformation efforts, and Total Defence as the foundation for our
+        national unity and security.
       button: Read More
-      url: https://www.sg101.gov.sg/resources/resource-packages/total-defence-day-2025/
-      image: /images/Total_Defence_Logo.jpg
+      url: www.sg101.gov.sg/resources/resource-packages/saf-day-2025/
+      image: /images/saf60_logo.jpg
       alt: Image alt text
   - infopic:
       title: Foreign Interference
