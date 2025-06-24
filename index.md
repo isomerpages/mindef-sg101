@@ -36,7 +36,7 @@ sections:
         national unity and security.
       button: Read More
       url: www.sg101.gov.sg/resources/resource-packages/saf-day-2025/
-      image: /images/Total_Defence_Logo.jpg
+      image: /images/saf60_logo.jpg
       alt: Image alt text
   - infopic:
       title: Foreign Interference
