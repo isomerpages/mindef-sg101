@@ -35,7 +35,7 @@ sections:
         transformation efforts, and Total Defence as the foundation for our
         national unity and security.
       button: Read More
-      url: https://go.gov.sg/saf-day-2025
+      url: https://www.sg101.gov.sg/resources/resource-packages/saf-day-2025/
       image: /images/saf60_logo.jpg
       alt: Image alt text
   - infopic:
