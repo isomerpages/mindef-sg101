@@ -1,10 +1,11 @@
 ---
 title: Spiders
-permalink: /resources/connexionsg/spiders/
+permalink: /resources/connexionsg/nature-spiders/
 date: 2022-10-26
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 ![](/images/connexionsg/2022/spiders.png)
 
