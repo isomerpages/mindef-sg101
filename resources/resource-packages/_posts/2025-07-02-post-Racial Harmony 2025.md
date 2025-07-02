@@ -11,7 +11,6 @@ variant: tiptap
 exemplar of racial and religious harmony in an increasingly divided world,
 we must remember that every one plays a part in building a caring and inclusive
 society.</p>
-<p></p>
 <p>You are encouraged to use this package to have conversations around the
 importance of racial and religious harmony in Singapore, and how we can
 all foster understanding and build a more united Singapore.&nbsp;</p>
