@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p>This year, Singapore celebrates 60 years of unity. While we stand as an
 exemplar of racial and religious harmony in an increasingly divided world,
-we must remember that every one plays a part in building a caring and inclusive
+we must remember that everyone plays a part in building a caring and inclusive
 society.</p>
 <p>You are encouraged to use this package to have conversations around the
 importance of racial and religious harmony in Singapore, and how we can
