@@ -14,8 +14,8 @@ variant: tiptap
 <p><em>Photo: The World Aquatics Championships Singapore 2025 (Credit to: worldaquatics_championships)</em>
 </p>
 <p>For the first time ever, the World Aquatics Championships 2025 will be
-making its splash in Singapore this July at the Singapore Sports Hub and
-Sentosa!</p>
+making its splash in Singapore from 11 July to 3 Aug 2025 at the Singapore
+Sports Hub and Sentosa!</p>
 <p>As the first Southeast Asian country to host this world-class event, Singapore’s
 selection shows our growing global reputation for excellence, hospitality,
 and world-class sporting infrastructure, alongside other events like Formula
