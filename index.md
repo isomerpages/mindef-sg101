@@ -28,6 +28,17 @@ sections:
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
   - infopic:
+      title: National Day 2025
+      subtitle: Resources
+      id: infopic
+      description: As we mark 60 years of independence, let’s be reminded that our
+        strength lies in the resilience, inclusivity and shared values that
+        guide us forward.
+      button: Read More
+      url: https://www.sg101.gov.sg/resources/resource-packages/national-day-2025/
+      image: /images/NDP60.jpg
+      alt: Image alt text
+  - infopic:
       title: Racial Harmony Day 2025
       subtitle: Resources
       id: infopic
