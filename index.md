@@ -28,6 +28,16 @@ sections:
         Singaporeans understand what makes Singapore it is today, and what makes
         us Singaporean.
   - infopic:
+      title: Racial Harmony Day 2025
+      subtitle: Resources
+      id: infopic
+      description: Singapore celebrates 60 years of peace and harmony this year. Learn
+        more about the importance of race and religious harmony in Singapore.
+      button: Read More
+      url: https://www.sg101.gov.sg/resources/resource-packages/racial-harmony-2025/
+      image: /images/RHD_Package_2025_Cover.png
+      alt: Image alt text
+  - infopic:
       title: SAF Day 2025
       subtitle: Resources
       id: infopic
