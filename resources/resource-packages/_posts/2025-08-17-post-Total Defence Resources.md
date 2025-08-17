@@ -37,22 +37,25 @@ your engagement.</p>
 </div>
 <p>
 <br>Following the inaugural run of Exercise SG Ready in 2024, the Total Defence
-exercise will return in 2025 with the theme <strong><em>"Are you ready for disruptions?"</em></strong>.
-The exercise will be held at various locations across the island between
-15 and 28 Feb 2025 to <strong>increase Singaporeans' readiness for crises and disruptions.</strong>
+exercise returned in 2025 with the theme <strong><em>"Are you ready for disruptions?"</em></strong>.
+The exercise was held at various locations across the island between 15
+and 28 Feb 2025 to <strong>increase Singaporeans' readiness for crises and disruptions.</strong>
 </p>
-<p>Co-led by MINDEF and the Energy Market Authority (EMA), the exercise focuses
+<p>Co-led by MINDEF and the Energy Market Authority (EMA), the exercise focused
 on <strong>strenghthening Singaporeans' preparedness for power disruptions.</strong> Based
 on a scenario of prolonged power outages due to ransomware spread through
 a phishing attack by an unknown group, the exercise aims to encourage individuals,
 communities and businesses to plan for potential disruptions, prepare to
 respond effectively, and play our part to keep Singapore strong.</p>
-<p>As a signature event of SG60, Exercise SG Ready 2025 invites Singaporeans
+<p>As a signature event of SG60, Exercise SG Ready 2025 invited Singaporeans
 to reflect on the crises and disruptions that we have gone through in the
-last 60 years, and what we are likely to face going forward. It is an opportunity
-for Singaporeans to show <strong>care for others in times of such crises and disruptions.</strong>
+last 60 years, and what we are likely to face going forward. It was an
+opportunity for Singaporeans to show <strong>care for others in times of such crises and disruptions.</strong>
 </p>
-<p></p>
+<p>Click <a href="https://www.totaldefence.gov.sg/exercise-sg-ready/" rel="noopener nofollow" target="_blank">here</a> to
+access<strong> Exercise SG Ready resources</strong> such as EMA's guide
+and infographics on what to do during power disruption, and our self-facilitation
+guides for power disruption and cybersecurity table-top exercises.</p>
 <hr>
 <h4><strong>Exercise SG Ready Scenario Video</strong></h4>
 <p>As part of Exercise SG Ready 2025, the scenario video illustrates how
@@ -65,16 +68,6 @@ activities that will take place from 15 to 28 Feb 2025!</p>
 </div>
 <p></p>
 <hr>
-<h4><strong>SGReadyGoWhere</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGReadyGoWhere.jpg">
-</div>
-<p>Members of the public who would need to find out more information on the
-locations and dates of the simulated disruptions can visit <a href="https://go.gov.sg/SGReadyGoWhere" rel="noopener nofollow" target="_blank">SGReadyGoWhere</a> website.</p>
-<p>SGReadyGoWhere will also serve as a <strong>resource portal with relevant Exercise SG Ready resources</strong> such
-as EMA's guide and infographics on what to do during power disruption,
-and our self-facilitation guides for power disruption and cybersecurity
-table-top exercises.</p>
 <hr>
 <h4><strong>Total Defence Campaign Poster</strong></h4>
 <div class="isomer-image-wrapper">
@@ -151,9 +144,9 @@ with crises and disruptions.</p>
 <p>More information regarding the Total Defence Sandbox can be found <a href="https://go.gov.sg/tdsandboxdetails" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>Submit your ideas <a href="https://go.gov.sg/tdsandbox" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 <hr>
-<h4><strong>Carry Forth the Fire - A Song for 40 Years of Total Defence</strong></h4>
+<h4><strong>Carry Forth the Fire - A Song for Total Defence</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AEONA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Carry Forth the Fire song thumbnail" src="/images/CARRY_FORTH_THE_FIRE_thumbnail.jpg">
 </div>
 <p>In commemoration of 40 years of Total Defence, we collaborated with The
 Songwriter Music College (TSMC) to get their students to write a song in
