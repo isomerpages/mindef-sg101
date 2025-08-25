@@ -16,4 +16,6 @@ links:
     url: /aboutus
   - title: Learn
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Defining Moments
+        url: /permalink
