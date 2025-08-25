@@ -14,3 +14,6 @@ links:
     collection: infrastructure
   - title: About Us
     url: /aboutus
+  - title: Learn
+    url: /permalink
+    sublinks: []
