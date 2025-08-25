@@ -4,7 +4,7 @@ permalink: /learn/defining-moments/
 variant: tiptap
 description: ""
 ---
-<h2>This is the story of Singapore, told one moment at a time. </h2>
+<h2>This is the story of Singapore, told one moment at a time.</h2>
 <p>Every nation's journey is shaped by a series of pivotal events; defining
 moments that tested our collective resolve, united our people, and forged
 our identity. From the challenges we overcame to the triumphs we celebrated,
