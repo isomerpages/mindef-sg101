@@ -21,8 +21,8 @@ to develop.</p>
 <hr>
 <p><strong>Download:</strong>
 </p>
-<p><a href="/files/packages/Folio_1___220825___NE_Insights_on_the_Middle_East_Conflict__for_SG101_.pdf" rel="noopener nofollow" target="_blank">NE Insights on the Conflict in the Middle East</a><strong> </strong>[Updated
-Aug 2025]</p>
+<p><a href="/files/packages/Folio_1___220825___NE_Insights_on_the_Middle_East_Conflict__for_SG101_.pdf" rel="noopener nofollow" target="_blank">NE Insights on the Conflict in the Middle East</a><strong> </strong><em>[</em><strong><em>Updated Aug 2025</em></strong><em>]</em>
+</p>
 <p><a href="https://www.mfa.gov.sg/Newsroom/Announcements-and-Highlights/2023/11/20231106-Parl-Sitting" rel="noopener noreferrer nofollow" target="blank">MFA's Infographics on the Conflict</a>
 </p>
 <p><a href="https://drive.google.com/drive/folders/1DowhPeYUSo1v1E4DIT8arWdItxZ4a_J3" rel="noopener noreferrer nofollow" target="blank">MFA's Infographics on Singapore's Foreign Policy Interests</a>
@@ -86,7 +86,7 @@ MINDEF, 12 Aug 2025</p>
 28 to 30 July 2025</p>
 <p>(PQ) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2025/04/Min-Written-Reply-to-Gaza-PQ" rel="noopener nofollow" target="_blank">Minister for Foreign Affairs Dr Vivian Balakrishnan's Written Reply to Parliamentary Questions on the Israel-Hamas Conflict</a>,
 8 April 2025</p>
-<p>(Statement) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2025/04/MFA-Spokesperson-Comments-on-the-Issue-of-Recognition-of-Palestinian-State-April-2025" rel="noopener nofollow" target="_blank"> MFA Spokesperson's Comments in Response to Media Queries on the Issue of Recognition of the Palestinian State</a>,
+<p>(Statement) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2025/04/MFA-Spokesperson-Comments-on-the-Issue-of-Recognition-of-Palestinian-State-April-2025" rel="noopener nofollow" target="_blank">MFA Spokesperson's Comments in Response to Media Queries on the Issue of Recognition of the Palestinian State</a>,
 17 April 2025</p>
 <p>(Transcript) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/09/20240928-UNGA-Doorstop-Interview" rel="noopener noreferrer nofollow" target="blank">Transcript of Minister for Foreign Affairs Dr Vivian Balakrishnan's Wrap-Up Interview with Singapore Media During the 79th Session of the United Nations General Assembly High-Level Week in New York, 27 September 2024</a>,
 Ministry of Foreign Affairs, 28 Sep 2024</p>
@@ -96,7 +96,7 @@ Ministry of Foreign Affairs, 7 Aug 2024</p>
 Ministry of Foreign Affairs, 22 Jul 2024</p>
 <p>(Transcript) <a href="https://www.mindef.gov.sg/news-and-events/latest-releases/25jun24_speech" rel="noopener noreferrer nofollow" target="blank">Speech by Minister for Defence, Dr Ng Eng Hen, at the Overseas Service Medal Presentation Ceremony on 25 Jun 2024</a>,
 Ministry of Defence, 25 Jun 2024</p>
-<p>(Statement) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/05/20240510---UNGA-Vote" rel="noopener nofollow" target="_blank"> Minister for Foreign Affairs Dr Vivian Balakrishnan on UN General Assembly Resolution on “Admission of New Members to the United Nations” Concerning Palestine’s Application for Membership in the UN</a>,
+<p>(Statement) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/05/20240510---UNGA-Vote" rel="noopener nofollow" target="_blank">Minister for Foreign Affairs Dr Vivian Balakrishnan on UN General Assembly Resolution on “Admission of New Members to the United Nations” Concerning Palestine’s Application for Membership in the UN</a>,
 Ministry of Foreign Affairs, 10 May 2024</p>
 <p>(Statement) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/03/20240317-mfamindefjs-3hagaza" rel="noopener noreferrer nofollow" target="blank">Commencement of RSAF Humanitarian Airdrop Operations for Gaza</a>,
 Ministry of Foreign Affairs, 17 Mar 2024</p>
