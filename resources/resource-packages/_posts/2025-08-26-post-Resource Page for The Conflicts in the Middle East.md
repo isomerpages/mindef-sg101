@@ -78,10 +78,16 @@ The Straits Times, 7 Oct 2023</p>
 <hr>
 <p><strong>Official Statements by Government Agencies</strong>
 </p>
-<p>(Transcript) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/11/Minister-FA-Remarks-Fifth-Tranche-Handover-Ceremony" rel="noopener nofollow" target="_blank">https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/11/Minister-FA-Remarks-Fifth-Tranche-Handover-Ceremony</a>,
-Ministry of Foreign Affairs, 1 Nov 2024</p>
-<p>(Statement) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/11/20241101-5th-Tranche-Aid-Gaza" rel="noopener nofollow" target="_blank">https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/11/20241101-5th-Tranche-Aid-Gaza</a>,
-Ministry of Foreign Affairs, 1 Nov 2024</p>
+<p>(News Release) <a href="https://www.mindef.gov.sg/news-and-events/latest-releases/12aug25-nr" rel="noopener nofollow" target="_blank">Singapore Deploys RSAF C-130 to Conduct Airdrop Operations for Gaza and Deliver the Ninth Tranche of Humanitarian Aid for Gaza</a>,
+MINDEF, 12 Aug 2025</p>
+<p>(Statement) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2025/08/MFA-Spokesperson-Comments-Gaza-August-2025" rel="noopener nofollow" target="_blank">MFA Spokesperson's Comments on the Situation in Gaza</a>,
+10 August 2025</p>
+<p>(Transcript) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2025/07/UN-High-Level-Conference" rel="noopener nofollow" target="_blank">United Nations High-Level Conference for the Peaceful Settlement of the Question of Palestine and the Implementation of the Two-State Solution</a>,
+28 to 30 July 2025</p>
+<p>(PQ) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2025/04/Min-Written-Reply-to-Gaza-PQ" rel="noopener nofollow" target="_blank">Minister for Foreign Affairs Dr Vivian Balakrishnan's Written Reply to Parliamentary Questions on the Israel-Hamas Conflict</a>,
+8 April 2025</p>
+<p>(Statement) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2025/04/MFA-Spokesperson-Comments-on-the-Issue-of-Recognition-of-Palestinian-State-April-2025" rel="noopener nofollow" target="_blank"> MFA Spokesperson's Comments in Response to Media Queries on the Issue of Recognition of the Palestinian State</a>,
+17 April 2025</p>
 <p>(Transcript) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/09/20240928-UNGA-Doorstop-Interview" rel="noopener noreferrer nofollow" target="blank">Transcript of Minister for Foreign Affairs Dr Vivian Balakrishnan's Wrap-Up Interview with Singapore Media During the 79th Session of the United Nations General Assembly High-Level Week in New York, 27 September 2024</a>,
 Ministry of Foreign Affairs, 28 Sep 2024</p>
 <p>(Transcript) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/08/Min-FA-PQ-Oral-Reply-August-2024" rel="noopener noreferrer nofollow" target="blank">Minister for Foreign Affairs Dr Vivian Balakrishnan's Oral Reply to Parliamentary Questions on the Israeli-Palestinian Conflict, 7 August 2024</a>,
@@ -90,15 +96,20 @@ Ministry of Foreign Affairs, 7 Aug 2024</p>
 Ministry of Foreign Affairs, 22 Jul 2024</p>
 <p>(Transcript) <a href="https://www.mindef.gov.sg/news-and-events/latest-releases/25jun24_speech" rel="noopener noreferrer nofollow" target="blank">Speech by Minister for Defence, Dr Ng Eng Hen, at the Overseas Service Medal Presentation Ceremony on 25 Jun 2024</a>,
 Ministry of Defence, 25 Jun 2024</p>
-<p>(Statement) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/05/20240510-UNGA-EOV" rel="noopener nofollow" target="_blank">Statement in Explanation of Vote by Ambassador Burhan Gafoor, Permanent Representative of the Republic of Singapore, at the 10th Emergency Special Session of the United Nations General Assembly, 10 May 2024, New York</a>,
+<p>(Statement) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/05/20240510---UNGA-Vote" rel="noopener nofollow" target="_blank"> Minister for Foreign Affairs Dr Vivian Balakrishnan on UN General Assembly Resolution on “Admission of New Members to the United Nations” Concerning Palestine’s Application for Membership in the UN</a>,
 Ministry of Foreign Affairs, 10 May 2024</p>
-<p>(Transcript) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/03/FM-Dr-Vivian-Balakrishnan-Doorstop-Interview-in-Israel-on-20-March-2024" rel="noopener noreferrer nofollow" target="blank">Transcript of Minister for Foreign Affairs Dr Vivian Balakrishnan's Doorstop Interview in Israel on 20 March 2024</a>,
-Ministry of Foreign Affairs, 20 Mar 2024</p>
-<p>(Statement) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/03/FM-Visit-to-Israel" rel="noopener noreferrer nofollow" target="blank">Working Visit of Minister for Foreign Affairs Dr Vivian Balakrishnan to the State of Israel, 19 to 20 March 2024</a>,
-Ministry of Foreign Affairs, 20 Mar 2024</p>
-<p>(Statement) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/03/20240319-Minister-PA-Visit" rel="noopener noreferrer nofollow" target="blank">Working Visit of Minister for Foreign Affairs Dr Vivian Balakrishnan to the Palestinian Territories, 18 March 2024</a>,
-Ministry of Foreign Affairs, 19 Mar 2024</p>
 <p>(Statement) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/03/20240317-mfamindefjs-3hagaza" rel="noopener noreferrer nofollow" target="blank">Commencement of RSAF Humanitarian Airdrop Operations for Gaza</a>,
 Ministry of Foreign Affairs, 17 Mar 2024</p>
-<p><em>For more statements by MFA on the conflict, please refer to: https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos</em>
+<p>(Statement) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/12/UNGA-10th-ESS-on-Gaza" rel="noopener nofollow" target="_blank">Co-sponsored and voted for an UNGA resolution that called for an immediate humanitarian ceasefire in Gaza</a>,
+Ministry of Foreign Affairs, 15 December 2023</p>
+<p>(Statement) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/11/20231130-SG-Delivers-Aid-to-Gaza" rel="noopener nofollow" target="_blank">Singapore Government Deploys RSAF Aircraft to Deliver Urgent Aid for Gaza</a>,
+Ministry of Foreign Affairs, 30 Nov 2023</p>
+<p>(Statement) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/11/Situation-in-Gaza_231117#:~:text=17%20November%202023&amp;text=Singapore%20reiterates%20its%20call%20for,and%20medical%20facilities%20in%20Gaza" rel="noopener nofollow" target="_blank">Supported UN Security Council Resolution which called for the immediate, safe and unhindered delivery of humanitarian assistance to Gaza</a>,
+Ministry of Foreign affairs, 17 Nov 2023</p>
+<p>(Transcript) <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/20231028---10th-ESS-UNGA-EOV" rel="noopener nofollow" target="_blank">Supported UN General Assembly (UNGA) Resolution for a humanitarian truce</a>,
+Ministry of Foreign Affairs, 29 Oct 2023</p>
+<p></p>
+<hr>
+<p><em>For more statements by MFA on the conflict, please refer to: </em>
+<a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos" rel="noopener nofollow" target="_blank">MFA Page</a>
 </p>
