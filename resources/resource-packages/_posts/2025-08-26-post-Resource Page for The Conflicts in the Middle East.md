@@ -30,35 +30,25 @@ Aug 2025]</p>
 <hr>
 <p><strong>Key Reports From Singapore</strong>
 </p>
-<p><a href="https://www.straitstimes.com/world/middle-east/singapore-will-work-with-middle-east-partners-to-do-more-to-deliver-humanitarian-assistance-vivian" rel="noopener noreferrer nofollow" target="blank">Singapore will work with Middle East partners to do more to deliver humanitarian aid: Vivian</a>,
-The Straits Times, 29 Sep 2024</p>
+<p><a href="https://www.straitstimes.com/singapore/singapore-conducts-second-airdrop-ops-to-deliver-humanitarian-aid-to-gaza" rel="noopener nofollow" target="_blank">Singapore deploys C-130 for second airdrop ops to deliver humanitarian aid to Gaza</a>,
+The Straits Times, 12 August 2025</p>
+<p><a href="https://www.channelnewsasia.com/singapore/mfa-israel-gaza-conflict-deeply-concerned-expanding-military-operations-5287296" rel="noopener nofollow" target="_blank">Singapore 'deeply concerned' about Israel's plan to expand military operations in Gaza: MFA</a> Channel
+News Asia, 10 August 2025</p>
+<p><a href="https://www.channelnewsasia.com/singapore/mfa-singapore-gaza-reconstruction-egypt-proposal-ceasefire-5266381" rel="noopener nofollow" target="_blank">Singapore prepared to contribute to Gaza reconstruction once permanent ceasefire reached</a>,
+Channel News Asia, 30 Jul 2025</p>
+<p><a href="https://www.straitstimes.com/singapore/s-pore-deeply-distressed-by-deepening-humanitarian-crisis-in-gaza-strip" rel="noopener nofollow" target="_blank">Singapore deeply distressed by deepening humanitarian crisis in Gaza Strip: MFA</a>,
+The Straits Times, 13 November 2024</p>
 <p><a href="https://www.straitstimes.com/singapore/un-cannot-allow-violations-of-international-law-to-become-normalised-says-vivian" rel="noopener noreferrer nofollow" target="blank">UN cannot allow violations of international law to become normalised, says Vivian Balakrishnan</a>,
 The Straits Times, 29 Sep 2024</p>
-<p><a href="https://www.straitstimes.com/singapore/s-pore-charity-transfers-final-tranche-of-11m-raised-during-ramadan-for-gaza-to-unicef" rel="noopener noreferrer nofollow" target="blank">S’pore charity transfers final tranche of $1.1m raised during Ramadan for Gaza to Unicef</a>,
-The Straits Times, 4 Sep 2024</p>
 <p><a href="https://www.straitstimes.com/singapore/we-do-not-take-sides-we-uphold-principles-vivian-on-singapore-s-foreign-policy-approach" rel="noopener noreferrer nofollow" target="blank">‘We do not take sides, we uphold principles’: Vivian on Singapore’s foreign policy approach</a>,
 The Straits Times, 28 Aug 2024</p>
-<p><a href="https://www.channelnewsasia.com/singapore/gaza-aid-israel-hamas-war-settlements-west-bank-east-jerusalem-illegal-icj-famine-food-insecurity-4495971" rel="noopener noreferrer nofollow" target="blank">Singapore to deliver fourth tranche of aid to Gaza; studying ICJ’s advisory on Israeli settlements</a>,
-Channel News Asia, 22 Jul 2024</p>
-<p><a href="https://www.straitstimes.com/singapore/politics/singapore-prepared-in-principle-to-recognise-palestine-as-a-state-at-appropriate-time-vivian" rel="noopener noreferrer nofollow" target="blank">Singapore prepared in principle to recognise Palestine as a state at appropriate time: Vivian</a>,
-The Straits Times, 3 Jul 2024</p>
 <p><a href="https://www.straitstimes.com/singapore/gps-jamming-harsh-environment-rsaf-aircrew-recount-challenges-of-gaza-airdrops" rel="noopener noreferrer nofollow" target="blank">GPS Jamming, Harsh Environment: RSAF Aircrew Recount Challenges of Gaza Airdrops</a>,
 The Straits Times, 29 Jun 2024</p>
-<p><a href="https://www.channelnewsasia.com/singapore/israel-embassy-singapore-palestine-facebook-post-shanmugam-4219541" rel="noopener noreferrer nofollow" target="blank">Israeli Embassy Told To Take Down 'Completely Unacceptable' Facebook Post on Palestine: Shanmugam</a>,
-Channel News Asia, 25 Mar 2024</p>
-<p><a href="https://www.channelnewsasia.com/singapore/lessons-israel-hamas-conflict-online-representation-teacher-abuse-external-interference-chan-chun-sing-4168581" rel="noopener noreferrer nofollow" target="blank">Online Misrepresentation of MOE Lessons on Israel-Hamas War Led to Abuse Towards Teachers, Potential 'External Interference' Involved: Chan Chun Sing</a>,
-Channel News Asia, 4 Mar 2024</p>
-<p><a href="https://www.channelnewsasia.com/world/us-urges-israel-let-muslims-worship-al-aqsa-during-ramadan-4157671" rel="noopener noreferrer nofollow" target="blank">Israel's Response to Hamas Attack Has 'Gone Too Far', But Severing Ties Would Not Help Palestinians, Says Singapore</a>,
-Channel News Asia, 29 Feb 2024</p>
 <p><a href="https://www.straitstimes.com/singapore/saf-sends-medical-team-to-egypt-to-treat-casualties-from-gaza" rel="noopener noreferrer nofollow" target="blank">SAF Sends Medical Team to Egypt to Treat Casualties From Gaza</a>,
 The Straits Times, 19 Jan 2024</p>
-<p><a href="https://www.channelnewsasia.com/singapore/singapore-rsaf-urgent-aid-gaza-civilians-israel-hamas-war-3954321" rel="noopener noreferrer nofollow" target="blank">Blankets, Medical Supplies, Water Filters: RSAF Aircraft Loaded With Gaza Aid Arrives in Egypt</a>,
-Channel News Asia, 30 Nov 2023</p>
-<p><a href="https://www.channelnewsasia.com/singapore/shanmugam-anti-singapore-sentiments-online-after-oct-7-hamas-israel-3948091" rel="noopener noreferrer nofollow" target="blank">Rise in Anti-Singapore Sentiment Online Since Israel-Hamas Hostilities: Shanmugam</a>,
-Channel News Asia, 27 Nov 2023</p>
 <p><a href="https://www.straitstimes.com/singapore/politics/pap-wp-and-psp-condemn-violence-against-civilians-in-israel-hamas-war-urge-cohesion-and-harmony" rel="noopener noreferrer nofollow" target="blank">PAP, WP and PSP Condemn Violence Against Civilians in Israel-Hamas War, Urge Cohesion and Harmony</a>,
 The Straits Times, 7 Nov 2023</p>
-<p><a href="https://www.channelnewsasia.com/singapore/israel-hamas-conflict-stark-reminder-singapore-national-interests-stake-vivian-balakrishnan-3899991?cid=telegram_cna_social_28112017_cna" rel="noopener noreferrer nofollow" target="blank">Israel-Hamas Conflict a 'Reminder' for Singapore That It Has National Interests at Stake: Vivian Balakrishnan</a>,
+<p><a href="https://www.channelnewsasia.com/singapore/israel-hamas-conflict-stark-reminder-singapore-national-interests-stake-vivian-balakrishnan-3899991" rel="noopener noreferrer nofollow" target="blank">Israel-Hamas Conflict a 'Reminder' for Singapore That It Has National Interests at Stake: Vivian Balakrishnan</a>,
 Channel News Asia, 6 Nov 2023</p>
 <p><a href="https://www.channelnewsasia.com/singapore/singapore-vote-resolution-gaza-israel-hamas-conflict-humanitarian-civilians-united-nations-3879266" rel="noopener noreferrer nofollow" target="blank">Singapore Votes In Favour of UN Resolution to Protect Civilans, Uphold Humanitarian Obligations in Gaza Strip</a>,
 Channel News Asia, 28 Oct 2023</p>
