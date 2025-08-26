@@ -59,28 +59,22 @@ Channel News Asia, 13 Oct 2023</p>
 <hr>
 <p><strong>Key Developments</strong>
 </p>
-<p><a href="https://www.channelnewsasia.com/world/iran-missile-attack-israel-what-we-know-iron-dome-4653696" rel="noopener noreferrer nofollow" target="blank">What we know about Iran's missile attack on Israel – and how the US responded</a>,
-Channel News Asia, 2 Oct 2024</p>
-<p><a href="https://www.channelnewsasia.com/world/israel-and-hezbollah-decades-conflict-4648181" rel="noopener noreferrer nofollow" target="blank">Israel and Hezbollah: Decades of conflict</a>,
-Channel News Asia, 30 Sep 2024</p>
-<p><a href="https://www.straitstimes.com/world/middle-east/israel-carries-out-raids-on-dozens-of-hezbollah-targets-in-lebanon-idf" rel="noopener noreferrer nofollow" target="blank">Israel strikes 'dozens' of Hezbollah targets in Lebanon after Nasrallah killing</a>,
-The Straits Times, 29 Sep 2024</p>
-<p><a href="https://www.channelnewsasia.com/world/israel-hamas-war-strikes-gaza-wider-war-4541961" rel="noopener noreferrer nofollow" target="blank">Israel keeps up strikes in Gaza as fears of wider war grow</a>,
-Channel News Asia, 12 Aug 2024</p>
+<p><a href="https://www.straitstimes.com/world/middle-east/israeli-plan-for-gaza-takeover-must-be-halted-immediately-un-rights-chief-says" rel="noopener nofollow" target="_blank">Israeli plan for Gaza takeover must be halted immediately, UN rights chief says</a>,
+The Straits Times, 8 Aug 2025</p>
+<p><a href="https://www.channelnewsasia.com/world/israel-iran-ceasefire-missile-attack-doha-qatar-trump-us-5199351" rel="noopener nofollow" target="_blank">Israel and Iran agree on ceasefire to end 12-day war, Trump says</a> Trump
+says, Channel News Asia, 24 June 2025</p>
+<p><a href="https://www.channelnewsasia.com/world/israel-attacks-iran-military-nuclear-crisis-5180021" rel="noopener nofollow" target="_blank">Israel-Iran tensions escalate: How proxies, nuclear ambitions are fuelling crisis</a>,
+Channel News Asia, 13 June 2025</p>
+<p><a href="www.channelnewsasia.com/singapore/israel-hamas-war-unrwa-ban-singapore-will-continue-send-aid-gaza-vivian-balakrishnan-4743611" rel="noopener nofollow" target="_blank">Singapore will continue to send aid to Gaza despite Israel's ban on UN humanitarian agency: Vivian Balakrishnan</a>,
+Channel News Asia, 12 Nov 2024</p>
 <p><a href="https://www.channelnewsasia.com/singapore/israel-hamas-war-hezbollah-ismail-haniyeh-mohammed-deif-fuad-shukr-mfa-4519716" rel="noopener noreferrer nofollow" target="blank">Singapore 'deeply concerned' about recent Middle East developments, including killing of Hamas chief Haniyeh</a>,
 Channel News Asia, 1 Aug 2024</p>
-<p><a href="https://www.channelnewsasia.com/commentary/red-sea-suez-canal-houthi-shipping-delay-cost-4004226" rel="noopener noreferrer nofollow" target="blank">Commentary: Red Sea Attacks on Cargo Ships Could Disrupt Deliveries and Push Up Prices</a>,
-Channel News Asia, 22 Dec 2023</p>
-<p><a href="https://www.channelnewsasia.com/world/us-plans-international-coalition-counter-red-sea-attacks-3997746" rel="noopener noreferrer nofollow" target="blank">US Announces 10-Nation Coalition to Combat Houthi Attacks in Red Sea</a>,
-Channel News Asia, 19 Dec 2022</p>
-<p><a href="https://www.youtube.com/watch?v=pyo1ff69LaY" rel="noopener noreferrer nofollow" target="blank">Israel-Hamas war: Worldwide Protests as Nations Ramp up security</a>,
-The Straits Times, 13 Oct 2023</p>
-<p><a href="https://www.channelnewsasia.com/world/israel-hamas-surprise-attack-gaza-strikes-3828731" rel="noopener noreferrer nofollow" target="blank">Israel Vows ‘Mighty Vengeance’ after Surprise Attack by Hamas Kills Hundreds</a>,
-Channel News Asia, 9 Oct 2023</p>
-<p><a href="https://www.straitstimes.com/world/middle-east/sirens-warning-of-incoming-rockets-sound-around-gaza-near-tel-aviv" rel="noopener noreferrer nofollow" target="blank">Netanyahu Declares Israel at war as Hamas attacks Kill Over 100</a>,
-The Straits Times, 9 Oct 2023</p>
-<p><a href="https://www.channelnewsasia.com/world/what-palestinian-group-hamas-3828851" rel="noopener noreferrer nofollow" target="blank">What is the Palestinian group Hamas?</a>,
-Channel News Asia, 8 Oct 2023</p>
+<p><a href="https://www.todayonline.com/world/us-announces-10-nation-coalition-combat-huthi-attacks-red-sea-2328506" rel="noopener nofollow" target="_blank">US announces 10-nation coalition to combat Huthi attacks in Red Sea</a>,
+Today Online, 19 Dec 2023</p>
+<p><a href="https://www.straitstimes.com/world/middle-east/israels-netanyahu-vows-mighty-vengeance-against-hamas" rel="noopener nofollow" target="_blank">Israel vows ‘mighty vengeance’ after deadliest day for 50 years</a> 8
+Oct 2023</p>
+<p><a href="https://www.straitstimes.com/world/middle-east/what-is-the-palestinian-group-hamas" rel="noopener nofollow" target="_blank">What is the Palestinian group Hamas?</a>,
+The Straits Times, 7 Oct 2023</p>
 <hr>
 <p><strong>Official Statements by Government Agencies</strong>
 </p>
