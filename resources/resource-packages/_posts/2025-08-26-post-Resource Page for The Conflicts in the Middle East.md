@@ -50,12 +50,8 @@ The Straits Times, 19 Jan 2024</p>
 The Straits Times, 7 Nov 2023</p>
 <p><a href="https://www.channelnewsasia.com/singapore/israel-hamas-conflict-stark-reminder-singapore-national-interests-stake-vivian-balakrishnan-3899991" rel="noopener noreferrer nofollow" target="blank">Israel-Hamas Conflict a 'Reminder' for Singapore That It Has National Interests at Stake: Vivian Balakrishnan</a>,
 Channel News Asia, 6 Nov 2023</p>
-<p><a href="https://www.channelnewsasia.com/singapore/singapore-vote-resolution-gaza-israel-hamas-conflict-humanitarian-civilians-united-nations-3879266" rel="noopener noreferrer nofollow" target="blank">Singapore Votes In Favour of UN Resolution to Protect Civilans, Uphold Humanitarian Obligations in Gaza Strip</a>,
+<p><a href="https://www.channelnewsasia.com/singapore/singapore-vote-resolution-gaza-israel-hamas-conflict-humanitarian-civilians-united-nations-3879266" rel="noopener noreferrer nofollow" target="blank">Singapore Votes In Favour of UN Resolution to Protect Civilians, Uphold Humanitarian Obligations in Gaza Strip</a>,
 Channel News Asia, 28 Oct 2023</p>
-<p><a href="https://www.straitstimes.com/singapore/community/protection-of-civilians-more-aid-needed-to-prevent-catastrophe-in-gaza-president-tharman" rel="noopener noreferrer nofollow" target="blank">Protection of Civilians, More Aid Needed to Prevent Catastrophe in Gaza</a>,
-The Straits Times, 22 Oct 2023</p>
-<p><a href="https://www.channelnewsasia.com/singapore/sensible-singapore-maintain-relations-israel-palestinians-provide-aid-civilians-conflict-pm-lee-hsien-loong-3861481" rel="noopener noreferrer nofollow" target="blank">PM Lee Explains Importance for Singapore to Maintain Relations With Israelis and Palestinians, Provide Aid to Civilians</a>,
-Channel News Asia, 20 Oct 2023</p>
 <p><a href="https://www.channelnewsasia.com/singapore/chief-rabbi-mufti-singapore-solidarity-jewish-muslim-communities-israel-hamas-war-3847391" rel="noopener noreferrer nofollow" target="blank">Singapore's Chief Rabbi, Mufti Reaffirm Solidarity Between Communities Amid 'Senseless' Israel-Hamas War</a>,
 Channel News Asia, 15 Oct 2023</p>
 <p><a href="https://www.straitstimes.com/singapore/singapore-must-never-let-external-events-affect-precious-peace-shanmugam-on-israel-hamas-war" rel="noopener noreferrer nofollow" target="blank">Singapore Must Never Let External Events Affect 'Precious Peace': Shanmugam on Israel-Hamas War</a>,
