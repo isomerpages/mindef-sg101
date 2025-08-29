@@ -8,12 +8,13 @@ image: ""
 variant: tiptap
 ---
 <p>Tensions in the Middle East have persisted since the attacks between Israel
-and Hamas a year ago.&nbsp;</p>
-<p>More recently, hostilities between Israel and Iran further heightened
-tensions in the Middle East. The fight has since drawn in Iran-backed groups
+and Hamas in October 2023.</p>
+<p>Hostilities between Israel and Iran further heightened tensions in the
+Middle East since June 2025. The fight has since drawn in Iran-backed groups
 such as the Lebanese armed group, Hezbollah.</p>
-<p>Thousands of lives, including many women and children, have been killed
-as a result of these conflicts.</p>
+<p>Constant impediment of humanitarian aid has caused mass starvation and
+a dire lack of essential medical services. The suffering of innocent civilians
+is prolonged as a result of these conflicts.</p>
 <p>To better understand the situation in the Middle East and Singapore’s
 position, below are some useful resources for consideration.</p>
 <p>Further updates will be made to this resource page as the situation continues
