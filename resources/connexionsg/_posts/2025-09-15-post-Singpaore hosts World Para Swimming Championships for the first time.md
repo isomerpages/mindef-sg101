@@ -1,7 +1,7 @@
 ---
 title: Singpaore hosts World Para Swimming Championships for the first time
 permalink: /resources/connexionsg/singaporesfirst-world-para-swimming-championships/
-date: 2025-09-12
+date: 2025-09-15
 layout: post
 description: ""
 image: ""
@@ -32,7 +32,7 @@ on the Los Angeles 2028 Paralympic Games.</p>
 <p>To have top Para swimmers in the world competing right here in Singapore
 is a testament to how far we have come in promoting inclusivity over the
 years, As we continue to champion inclusivity for all through the Enabling
-Masterplan 2030, let us now cheer on our @Team Singapore's para swimmers,
+Masterplan 2030, let us now cheer on our Team Singapore's para swimmers,
 including athletes like Toh Wei Soong, Wong Zhi Wei, Sophie Soon and defending
 champion Yip Pin Xiu – who will doing their best racing on home ground!
 As the official slogan goes, “Where limits are broken, and champions are
