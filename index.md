@@ -4,7 +4,8 @@ title: SG101
 description: www.sg101.gov.sg
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: We're improving SG101! Access may be intermittent on 3 October
+  2025. Thank you for your patience.
 sections:
   - hero:
       title: SG101
